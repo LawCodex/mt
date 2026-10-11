@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Metropolis Plaza, Gzira (Designated Special Area) Order (S.L. 246.16)
 
-*1*
-
-(DESIGNATED SPECIAL AREA) [S.L.246.16
-
 **SUBSIDIARY LEGISLATION 246.16**
 
 **METROPOLIS PLAZA, GZIRA**
@@ -42,7 +38,3 @@ Metropolis Plaza, Gzira consisting of immovable property situated in the area bo
 ## 3. Addition to the First Schedule to the Act. Cap. 246.
 
 Metropolis Plaza, Gzira shall be added to the List of Scheduled Zones in the First Schedule to the Immovable Property (Acquisition by Non-Residents) Immovable Property (Acquisition by Non-Residents) Act.
-
-*2*
-
-[S.L.246.16 (DESIGNATED SPECIAL AREA)

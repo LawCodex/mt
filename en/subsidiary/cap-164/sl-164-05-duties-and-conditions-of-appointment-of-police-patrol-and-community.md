@@ -1,6 +1,6 @@
 ---
 title: "Duties and Conditions of Appointment of Police Patrol and Community Support Officers Regulations"
-identifier: "S.L. 164.5"
+identifier: "S.L. 164.05"
 eli: "https://legislation.mt/eli/sl/164.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/164.5/20241025/eng"
 retrieved: 2026-10-12
 ---
 
-# Duties and Conditions of Appointment of Police Patrol and Community Support Officers Regulations (S.L. 164.5)
-
-POLICE PATROL AND COMMUNITY SUPPORT
-
-*1*
-
-OFFICERS [S.L. 164.05
+# Duties and Conditions of Appointment of Police Patrol and Community Support Officers Regulations (S.L. 164.05)
 
 **SUBSIDIARY LEGISLATION 164.05**
 
@@ -66,13 +60,7 @@ Police Patrol and Community Support Officers shall assist Police Officers in the
 
 (a) providing a reassuring presence to the public and fostering stronger community relationships;
 
-(b) improving the quality of life for residents and enhancing area safety by proactively addressing crime and anti- POLICE PATROL AND COMMUNITY SUPPORT
-
-*2*
-
-[S.L. 164.05 OFFICERS
-
-social behaviour;
+(b) improving the quality of life for residents and enhancing area safety by proactively addressing crime and anti-social behaviour;
 
 (c) identifying and assisting individuals vulnerable to crime;
 

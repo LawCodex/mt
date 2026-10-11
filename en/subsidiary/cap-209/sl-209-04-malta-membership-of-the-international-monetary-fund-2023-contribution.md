@@ -1,6 +1,6 @@
 ---
 title: "Malta Membership of the International Monetary Fund (2023 Contribution Agreement) Order"
-identifier: "S.L. 209.4"
+identifier: "S.L. 209.04"
 eli: "https://legislation.mt/eli/sl/209.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,17 +14,13 @@ version: "https://legislation.mt/eli/sl/209.4/20230907/eng"
 retrieved: 2026-10-12
 ---
 
-# Malta Membership of the International Monetary Fund (2023 Contribution Agreement) Order (S.L. 209.4)
+# Malta Membership of the International Monetary Fund (2023 Contribution Agreement) Order (S.L. 209.04)
 
-*1*
+SUBSIDIARY LEGISLATION 209.04
 
-MONETARY FUND (2023 CONTRIBUTION AGREEMENT) [S.L. 209.04 SUBSIDIARY LEGISLATION 209.04
+MALTA MEMBERSHIP OF THE INTERNATIONAL MONETARY FUND (2023 CONTRIBUTION
 
-MALTA MEMBERSHIP OF THE INTERNATIONAL
-
-**MONETARY FUND (2023 CONTRIBUTION**
-
-**AGREEMENT) ORDER**
+AGREEMENT) ORDER
 
 7th September, 2023
 
@@ -49,9 +45,5 @@ It is hereby being declared:
 (e) that the Central Bank of Malta shall provide the reserve contribution following receipt of the necessary funds from the Government;
 
 (f) that it is expedient that those arrangements under the 2023 Contribution Agreement shall become effective upon the coming into force of the 2023 Contribution Agreement and in accordance with the relevant provisions of the said Agreement; and
-
-*2*
-
-[S.L. 209.04 MONETARY FUND (2023 CONTRIBUTION AGREEMENT)
 
 (g) that the 2023 Contribution Agreement shall come into force immediately upon the signing thereof.

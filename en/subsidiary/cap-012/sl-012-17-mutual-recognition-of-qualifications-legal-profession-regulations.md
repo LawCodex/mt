@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Mutual Recognition of Qualifications Legal Profession Regulations (S.L. 12.17)
 
-*1*
-
-OF LEGAL PROFESSION [S.L.12.17
-
 **SUBSIDIARY LEGISLATION 12.17**
 
 MUTUAL RECOGNITION OF QUALIFICATIONS OF LEGAL PROFESSION REGULATIONS
@@ -67,11 +63,7 @@ Any legal professional shall be entitled to pursue on a permanent or temporary b
 
 (1) A legal professional, who wishes to establish himself and practise the profession of lawyer in Malta, although he obtained his professional qualification in his home Member State, shall register with the designated authority.
 
-(2) The designated authority shall register the legal [S.L.12.17 OF LEGAL PROFESSION
-
-professional upon presentation of a certificate attesting to his registration with the competent authority in the home Member State.
-
-*2*
+(2) The designated authority shall register the legal professional upon presentation of a certificate attesting to his registration with the competent authority in the home Member State.
 
 (3) The designated authority may require that, when presented by the competent authority of the home Member State, the certificate be not more than three months old.
 
@@ -99,11 +91,7 @@ professional upon presentation of a certificate attesting to his registration wi
 
 (a) the legal professional shall provide the designated authority with any relevant information and documentation, notably on the number of matters he has dealt with and their nature;
 
-(b) the designated authority may verify the effective and regular nature of the activity pursued and may, if need be, request the legal professional to provide, orally or OF LEGAL PROFESSION [S.L.12.17
-
-in writing, clarification of, or further details on, the information and documentation mentioned in paragraph (a).
-
-*3*
+(b) the designated authority may verify the effective and regular nature of the activity pursued and may, if need be, request the legal professional to provide, orally or in writing, clarification of, or further details on, the information and documentation mentioned in paragraph (a).
 
 (4) When an exemption in accordance with subregulations (2) and (3) is not granted, the designated authority shall state the reasons for such refusal and the decision shall be subject to appeal before the Mutual Recognition of Qualifications Appeal Board established under article 7 of the Mutual Recognition of Qualifications Act.
 
@@ -126,10 +114,6 @@ in writing, clarification of, or further details on, the information and documen
 *Cap. 451.*
 
 (8) The designated authority entrusted with consideration of the application shall preserve the confidentiality of any information received.
-
-*4*
-
-[S.L.12.17 OF LEGAL PROFESSION
 
 (9) A legal professional who gains admission to the legal profession in Malta in accordance with subregulations (1) to (6) of this regulation shall be entitled to use his home-country professional title, expressed in the official language or one of the official languages of his home Member State, alongside the professional title corresponding to the legal profession in Malta.
 
@@ -159,11 +143,7 @@ Irrespective of the rules of professional conduct to which he is subject in his 
 
 (3) Subregulation (2) shall apply mutatis mutandis where disciplinary proceedings are initiated by the competent authority of the home Member State, which shall inform the Commission accordingly.
 
-(4) Without prejudice to its decision-making power, the Commission shall to-operate throughout the disciplinary proceedings with the competent authority in the home Member State. In particular, the Commission shall take the measures necessary to ensure that the competent authority in the home Member State can make submissions to the bodies responsible for OF LEGAL PROFESSION [S.L.12.17
-
-hearing any appeal.
-
-*5*
+(4) Without prejudice to its decision-making power, the Commission shall to-operate throughout the disciplinary proceedings with the competent authority in the home Member State. In particular, the Commission shall take the measures necessary to ensure that the competent authority in the home Member State can make submissions to the bodies responsible for hearing any appeal.
 
 (5) The competent authority in the home Member State shall decide what action to take, under its own procedural and substantive rules, in the light of a decision of the Commission concerning a legal professional practising under his home-country professional title.
 
@@ -190,10 +170,6 @@ A legal professional registered in Malta under his home-country professional tit
 (1) In order to facilitate the application of these regulations and to prevent these provisions from being misapplied for the sole purpose of circumventing the rules applicable in Malta, the designated and the counterpart authority and the counterpart body in the home Member State shall collaborate closely and afford each other mutual assistance.
 
 (2) Both authorities mentioned in subregulation (1) shall preserve the confidentiality of the information they exchange.
-
-*6*
-
-[S.L.12.17 OF LEGAL PROFESSION
 
 *Added by: L.N. 28 of 2008. Amended by: L.N. 234 of 2013.*
 

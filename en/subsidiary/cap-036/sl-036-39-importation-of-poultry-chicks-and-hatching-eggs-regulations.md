@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Importation of Poultry Chicks and Hatching Eggs Regulations (S.L. 36.39)
 
-*1*
-
-AND HATCHING EGGS [ S.L.36.39
-
 **SUBSIDIARY LEGISLATION 36.39**
 
 **IMPORTATION OF POULTRY CHICKS AND**
@@ -67,10 +63,6 @@ For the purposes of these Regulations the following categories of chicks shall b
 
 (d) parent stock chicks (intended for the production of commercial hatching eggs);
 
-*2*
-
-[S.L.36.39 AND HATCHING EGGS
-
 (e) grandparent stock chicks (all chicks except commercial or parent stocks chicks).
 
 ## 5. Offences and penalties.
@@ -108,10 +100,6 @@ Rules regulating the Importation of Hatching Eggs and Day Old Chicks
 (a) the species;
 
 (b) the country of origin;
-
-*3*
-
-AND HATCHING EGGS [ S.L.36.39
 
 (c) the name and address of supplier.
 
@@ -167,11 +155,9 @@ Nature and identification of means of transport
 
 Type of containers
 
-V. The sanitary information required is a certification by official veterinary that the chicks or eggs come from an establishment or hatchery which is regularly inspected and that satisfy the following requirements: [S.L.36.39 AND HATCHING EGGS
+V. The sanitary information required is a certification by official veterinary that the chicks or eggs come from an establishment or hatchery which is regularly inspected and that satisfy the following requirements:
 
 (a) farm of origin has been free from fowl cholera, mycoplasmosis and salmonellosis during the 90 days prior to export;
-
-*4*
 
 (b) no outbreak of Newcastle disease and fowl plague has been confirmed in poultry at the farm of origin or within a radius of 10 kilometres during the six months prior to export;
 
@@ -214,10 +200,6 @@ B Egg production chicks
 C Dual purpose chicks
 
 D Parent stock chicks
-
-*5*
-
-AND HATCHING EGGS [ S.L.36.39
 
 E Grandparent stock chicks
 

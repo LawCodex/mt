@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the United Kingdom of Great Britain and Northern Ireland Order (S.L. 123.35)
 
-*1*
-
-UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND [S.L.123.35
-
 **SUBSIDIARY LEGISLATION 123.35**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -46,8 +42,6 @@ It is hereby declared -
 (b) that it is expedient that those arrangements should have effect.
 
 \*https://cfr.gov.mt/en/inlandrevenue/itu/Documents/Malta%20- %20UK%20DTA%20(synthesised%20text).pdf
-
-2 [S.L.123.35 UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
 
 ## SCHEDULE — CONVENTION — BETWEEN MALTA
 
@@ -97,8 +91,6 @@ the income tax,
 
 (3) Notwithstanding the other provisions of this Article this Convention shall not apply to tax paid or payable in Malta in accordance with the provisions of sub-article (13) of article 56 of the Income Tax Act concerning the chargeable income of any person engaged in the production of petroleum produced in Malta or any substantially similar provision which is imposed after the date of signature of this Convention.
 
-UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND [S.L.123.35 3
-
 ## CHAPTER II — Definitions — ARTICLE 3
 
 **General Definitions**
@@ -132,8 +124,6 @@ UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND [S.L.123.35 3
 (i) the term "competent authority" means:
 
 (i) in the case of the United Kingdom, the Commissioners of Inland Revenue or their authorised representative;
-
-4 [S.L.123.35 UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
 
 (ii) in the case of Malta, the Minister responsible for finance or his authorised representative.
 
@@ -171,8 +161,6 @@ UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND [S.L.123.35 3
 
 (c) an office;
 
-UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND [S.L.123.35 5
-
 (d) a factory;
 
 (e) a workshop;
@@ -201,9 +189,7 @@ UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND [S.L.123.35 5
 
 (5) An enterprise of a Contracting State shall not be deemed to have a permanent establishment in the other Contracting State merely because it carries on business in that other State through a broker, general commission agent or any other agent of an independent status, where such persons are acting in the ordinary course of their business. However, if the activities of such an agent are carried out wholly or almost wholly for the enterprise (or for the enterprise and other enterprises which are controlled by it or have a controlling interest in it or are subject to the same common control) and the conditions made or imposed between them in their commercial or financial relations differ from those which would have been made or imposed if this had not been the case, that agent shall not be considered to be an agent of an independent status for the purposes of this paragraph.
 
-(6) The fact that a company which is a resident of a Contracting State controls or is controlled by a company which is a resident of the other Contracting State, or 6 [S.L.123.35 UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
-
-which carries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself constitute either company a permanent establishment of the other.
+(6) The fact that a company which is a resident of a Contracting State controls or is controlled by a company which is a resident of the other Contracting State, or which carries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself constitute either company a permanent establishment of the other.
 
 ## CHAPTER III — Taxation of Income — ARTICLE 6
 
@@ -225,9 +211,7 @@ which carries on business in that other State (whether through a permanent estab
 
 (2) Subject to the provisions of paragraph (3) of this Article, where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment or with other enterprises which are controlled by the first-mentioned enterprise or have a controlling interest in it or are subject to the same common control.
 
-(3) In the determination of the profits of a permanent establishment, there shall be allowed as deductions expenses of the enterprise, being expenses which are incurred for the purposes of the permanent establishment (including executive and general administrative expenses so incurred) and which would be deductible if the permanent establishment were an independent entity which paid those expenses, whether incurred in the Contracting State in which the permanent establishment is UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND [S.L.123.35 7
-
-situated or elsewhere.
+(3) In the determination of the profits of a permanent establishment, there shall be allowed as deductions expenses of the enterprise, being expenses which are incurred for the purposes of the permanent establishment (including executive and general administrative expenses so incurred) and which would be deductible if the permanent establishment were an independent entity which paid those expenses, whether incurred in the Contracting State in which the permanent establishment is situated or elsewhere.
 
 (4) No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
 
@@ -265,8 +249,6 @@ where such rental or such use, maintenance or rental, as the case may be, is inc
 
 and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included by a Contracting State in the profits of that enterprise and taxed accordingly.
 
-8 [S.L.123.35 UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
-
 (2) Where a Contracting State includes in the profits of an enterprise of that State, and taxes accordingly, profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to that enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Convention and the competent authorities of the Contracting States shall if necessary consult each other.
 
 **ARTICLE 10**
@@ -285,9 +267,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 (5) The provisions of paragraph (2) or, as the case may be, (3) of this Article shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such a case the provisions of Article 7 or Article 14 of this Convention, as the case may be, shall apply.
 
-(6) Where a company which is a resident of a Contracting State derives profits UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND [S.L.123.35 9
-
-or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company’s undistributed profits to a tax on undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in that other State.
+(6) Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company’s undistributed profits to a tax on undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in that other State.
 
 **ARTICLE 11**
 
@@ -305,9 +285,7 @@ or income from the other Contracting State, that other State may not impose any 
 
 (6) Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest paid exceeds, for whatever reason, the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount of interest. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
-(7) The provisions of this Article shall not apply if it was the main purpose or one of the main purposes of any person concerned with the creation or assignment of the debt-claim in respect of which the interest is paid to take advantage of this 10 [S.L.123.35 UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
-
-Article by means of that creation or assignment.
+(7) The provisions of this Article shall not apply if it was the main purpose or one of the main purposes of any person concerned with the creation or assignment of the debt-claim in respect of which the interest is paid to take advantage of this Article by means of that creation or assignment.
 
 (8) Notwithstanding the provisions of paragraph (2) of this Article, interest arising in a Contracting State shall be exempt from tax in that State if it is derived and beneficially owned by the Government of the other Contracting State or a local authority thereof or any agency or instrumentality of that Government or local authority.
 
@@ -333,9 +311,7 @@ Article by means of that creation or assignment.
 
 (4) The provisions of paragraphs (1) and (2) of this Article shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other Contracting State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14 of this Convention, as the case may be, shall apply.
 
-(5) Royalties shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND [S.L.123.35 11
-
-Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or fixed base in connection with which the obligation to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
+(5) Royalties shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or fixed base in connection with which the obligation to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
 (6) Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties exceeds, for whatever reason, the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
@@ -360,8 +336,6 @@ may be taxed in that other State.
 (4) Income or gains derived by a resident of a Contracting State from the alienation of ships or aircraft operated in international traffic by an enterprise of a Contracting State or movable property pertaining to the operation of such ships or aircraft, shall be taxable only in that Contracting State.
 
 (5) Income or gains from the alienation of any property other than that referred to in paragraphs (1), (2), (3) and (4) of this Article shall be taxable only in the Contracting State of which the alienator is a resident provided that such income or gains are subject to tax in that Contracting State.
-
-12 [S.L.123.35 UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
 
 (6) The provisions of paragraph (5) of this Article shall not affect the right of a Contracting State to levy according to its law a tax on income or capital gains from the alienation of any property derived by an individual who is a resident of the other Contracting State and has been a resident of the first-mentioned Contracting State at any time during the five years immediately preceding the alienation of the property.
 
@@ -394,8 +368,6 @@ However, such income may be taxed in the other Contracting State in the followin
 (c) the remuneration is not borne by a permanent establishment or a fixed base which the employer has in the other State.
 
 (3) Notwithstanding the preceding provisions of this Article, remuneration derived in respect of an employment exercised aboard a ship or aircraft operated in international traffic may be taxed in the Contracting State of which the enterprise operating the ship or aircraft is a resident.
-
-UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND [S.L.123.35 13
 
 **ARTICLE 16**
 
@@ -431,9 +403,7 @@ Directors’ fees and similar payments derived by a resident of one of the Contr
 
 (ii) did not become a resident of that State solely for the purpose of rendering the services.
 
-(2) (a) Any pension paid by, or out of funds created by, a Contracting State or a political subdivision or a local authority thereof to an individual in respect of services rendered to that State or subdivision or authority shall be taxable only in 14 [S.L.123.35 UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
-
-that State.
+(2) (a) Any pension paid by, or out of funds created by, a Contracting State or a political subdivision or a local authority thereof to an individual in respect of services rendered to that State or subdivision or authority shall be taxable only in that State.
 
 (b) However, such pension shall be taxable only in the other Contracting State if the individual is a resident of, and a national of, that State.
 
@@ -467,9 +437,7 @@ shall be exempt from tax in that other State on:
 
 (3) The provisions of this Article shall not apply if it was the main purpose or one of the main purposes of any person considered with the creation or assignment of the rights in respect of which the income is paid to take advantage of this Article by means of that creation or assignment.
 
-## CHAPTER IV — UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND [S.L.123.35 15 — Elimination of Double Taxation
-
-**ARTICLE 22**
+## CHAPTER IV — Elimination of Double Taxation — ARTICLE 22
 
 **Elimination of Double Taxation**
 
@@ -490,8 +458,6 @@ shall be exempt from tax in that other State on:
 (i) article 3 and, where a deduction is allowed in computing taxable income by way of investment allowance, article 4 of the Aids to Industries Ordinance;
 
 (ii) articles 7, 8 and 9 (so far as it provides for exemption from tax on dividends paid out of the gains or profits, or part thereof, of a company which are relieved from income tax under the provisions of article 7), 19, 20, 23 and 36 (5) of the Industrial Development Act;
-
-16 [S.L.123.35 UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
 
 so far as the provisions in question were in force on, and have not been modified since, the date of signature of this Convention, or have been modified only in minor respects so as not to affect their general character and provided always that the competent authority of Malta has certified that any such exemption from or reduction of Malta tax given under these articles has been granted in order to promote industrial, commercial, scientific, educational or other development in Malta and that the gains or profits of the company, or any part thereof, were not exempt from Malta tax for the year in question, or part thereof, under the provisions of Articles 4 or 5 of the Industrial Development Act, and the competent authority of the United Kingdom has accepted that such exemption or reduction has been granted for such purpose; or
 
@@ -517,9 +483,7 @@ so far as the provisions in question were in force on, and have not been modifie
 
 **Partnerships**
 
-(1) Where, under any provision of this Convention, a partnership is entitled, as a resident of Malta, to exemption from tax in the United Kingdom on any income or capital gains, that provision shall not be construed as restricting the right of the United Kingdom to tax any partner who is a resident of the United Kingdom on his UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND [S.L.123.35 17
-
-share of such income or capital gains; but any such income or gains shall be treated for the purposes of Article 22 of this Convention as income or gains from sources in Malta.
+(1) Where, under any provision of this Convention, a partnership is entitled, as a resident of Malta, to exemption from tax in the United Kingdom on any income or capital gains, that provision shall not be construed as restricting the right of the United Kingdom to tax any partner who is a resident of the United Kingdom on his share of such income or capital gains; but any such income or gains shall be treated for the purposes of Article 22 of this Convention as income or gains from sources in Malta.
 
 (2) Nothing in Article 10 of this Convention shall entitle a partnership which is a resident of Malta to a tax credit in respect of dividends paid to the partnership by a company which is a resident of the United Kingdom; but any partner who is a resident of Malta shall be treated for the purposes of the said Article 10 and of this paragraph as having been paid a dividend of an amount corresponding to his share of those dividends by the company which is a resident of the United Kingdom.
 
@@ -543,9 +507,7 @@ share of such income or capital gains; but any such income or gains shall be tre
 
 **Mutual Agreement Procedure**
 
-(1) Where a person considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Convention, he may, irrespective of the remedies provided by the domestic 18 [S.L.123.35 UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
-
-law of those States. present his case to the competent authority of the Contracting State of which he is a resident or, if his case comes under paragraph (1) of Article 25 of this Convention to that of the Contracting State of which he is a national.
+(1) Where a person considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Convention, he may, irrespective of the remedies provided by the domestic law of those States. present his case to the competent authority of the Contracting State of which he is a resident or, if his case comes under paragraph (1) of Article 25 of this Convention to that of the Contracting State of which he is a national.
 
 (2) The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Convention.
 
@@ -572,8 +534,6 @@ law of those States. present his case to the competent authority of the Contract
 **Diplomatic and Consular Officials**
 
 Nothing in this Convention shall affect the fiscal privileges of diplomatic agents or consular officials under the general rules of international law or under the provisions of special agreements.
-
-UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND [S.L.123.35 19
 
 **ARTICLE 29**
 
@@ -615,8 +575,6 @@ This Convention shall remain in force until terminated by one of the Contracting
 
 (b) in Malta:
 
-20 [S.L.123.35 UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
-
 in respect of income tax, for any year of assessment beginning on or after the first day of January in the calendar year next following that in which the notice is given.
 
 In witness whereof the undersigned, being duly authorised thereto by their respective Governments, have signed this Convention.
@@ -627,7 +585,7 @@ DONE at London, this 12 day of May, 1994, in the English language.
 
 FOR THE GOVERNMENT OF MALTA FOR THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT
 
-BRITAIN AND NORTHERN IRELAND UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND [S.L.123.35 21
+BRITAIN AND NORTHERN IRELAND
 
 **EXCHANGE OF NOTES**
 
@@ -649,9 +607,7 @@ I have the honour to refer to the Convention between the Government of the Unite
 
 (iii) to persons entitled to any special tax benefit in respect of distributions by a trust subject to the provisions of the Trusts Act given that a trust as laid down in that Act is not vested with legal personality and therefore cannot benefit under the Convention in its own right; or
 
-(iv) to persons entitled to any special tax benefit under any substantially similar law subsequently enacted and which is agreed by the competent authorities of the Contracting States as included within the terms of paragraph (2) of Article 23 of this 22 [S.L.123.35 UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
-
-Convention.
+(iv) to persons entitled to any special tax benefit under any substantially similar law subsequently enacted and which is agreed by the competent authorities of the Contracting States as included within the terms of paragraph (2) of Article 23 of this Convention.
 
 If the foregoing proposals are acceptable to the Government of Malta, I have the honour to suggest that the present Note and Your Excellency’s reply to that effect shall be regarded as constituting an agreement between the two Governments in this matter which shall enter into force at the same time as the entry into force of this Convention.
 
@@ -661,9 +617,7 @@ J.S. BUCK
 
 for the Secretary of State
 
-for Foreign and Commonwealth Affairs UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND [S.L.123.35 23
-
-Floriana 12th May, 1994 Your Excellency
+for Foreign and Commonwealth Affairs Floriana 12th May, 1994 Your Excellency
 
 I have the honour to acknowledge receipt of Your Excellency’s Note of today which reads as follows:
 
@@ -683,9 +637,7 @@ I have the honour to acknowledge receipt of Your Excellency’s Note of today wh
 
 (iii) to persons entitled to any special tax benefit in respect of distributions by a trust subject to the provisions of the Trusts Act given that a trust as laid down in that Act is not vested with legal personality and therefore cannot benefit under the Convention in its own right; or
 
-(iv) to persons entitled to any special tax benefit under any substantially similar law subsequently enacted and which is agreed by the competent authorities of the Contracting States as included within the terms of paragraph (2) of Article 23 of this 24 [S.L.123.35 UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
-
-Convention.
+(iv) to persons entitled to any special tax benefit under any substantially similar law subsequently enacted and which is agreed by the competent authorities of the Contracting States as included within the terms of paragraph (2) of Article 23 of this Convention.
 
 If the foregoing proposals are acceptable to the Government of Malta, I have the honour to suggest that the present Note and Your Excellency’s reply to that effect shall be regarded as constituting an agreement between the two Governments in this matter, which shall enter into force at the same time as the entry into force of this Convention".
 

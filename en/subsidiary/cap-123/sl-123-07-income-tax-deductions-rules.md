@@ -1,6 +1,6 @@
 ---
 title: "Income Tax (Deductions) Rules"
-identifier: "S.L. 123.7"
+identifier: "S.L. 123.07"
 eli: "https://legislation.mt/eli/sl/123.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/123.7/20240913/eng"
 retrieved: 2026-10-12
 ---
 
-# Income Tax (Deductions) Rules (S.L. 123.7)
+# Income Tax (Deductions) Rules (S.L. 123.07)
 
 **SUBSIDIARY LEGISLATION 123.07**
 

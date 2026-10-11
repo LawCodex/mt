@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Master Chef Diploma - M. Chef Dip. - under the auspices of the Faculty of Economics, Management and Accountancy (S.L. 327.514)
 
-AUSPICES OF THE FACULTY OF ECONOMICS,
-
-*1*
-
-MANAGEMENT AND ACCOUNTANCY [S.L.327.514
-
 **SUBSIDIARY LEGISLATION 327.514**
 
 *Substituted by: L.N. 119 of 2024.*
@@ -76,13 +70,7 @@ The course shall extend over a period of four semesters of part-time study which
 
 (1) The course shall consist of a number of taught study-units to which 60 ECTS credits shall be assigned.
 
-(2) The programme of study shall be published after approval AUSPICES OF THE FACULTY OF ECONOMICS,
-
-*2*
-
-[S.L.327.514 MANAGEMENT AND ACCOUNTANCY
-
-by Senate, normally not less than eight months prior to the commencement of the course.
+(2) The programme of study shall be published after approval by Senate, normally not less than eight months prior to the commencement of the course.
 
 ## 6. Classification of the Award.
 

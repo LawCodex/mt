@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Continuation of Tenancies (Means Testing Criteria) Regulations (S.L. 16.11)
 
-*1*
-
-(MEANS TESTING CRITERIA) [S.L.16.11
-
 **SUBSIDIARY LEGISLATION 16.11**
 
 **CONTINUATION OF TENANCIES**
@@ -64,13 +60,9 @@ Without prejudice to the provisions of regulation 8, the only relevant period, h
 
 (1) Means test proceedings shall be heard by the Rent Board behind closed doors and the record of the proceedings shall only be accessible to the parties subject to an obligation on the landlord to maintain the information contained in the said record as secret information. Any person who divulges information in breach of the provisions of this regulation shall be guilty of contempt of the Rent Board without prejudice to any other civil or criminal liability to which the said fact may give rise under any other law.
 
-(2) Subject to any procedural rights exercisable in or in respect of means test proceedings and to the provisions of regulation 8, a [S.L.16.11 (MEANS TESTING CRITERIA)
+(2) Subject to any procedural rights exercisable in or in respect of means test proceedings and to the provisions of regulation 8, a means test may be repeated only in accordance with the provisions of sub-article (8) of article 4A of the Reletting of Urban Property (Regulation) Ordinance and of sub-article (8) of article 12B of the Housing (Decontrol) Ordinance.
 
 \*See regulation 1(2) of these Regulations, as originally promulgated.
-
-means test may be repeated only in accordance with the provisions of sub-article (8) of article 4A of the Reletting of Urban Property (Regulation) Ordinance and of sub-article (8) of article 12B of the Housing (Decontrol) Ordinance.
-
-*2*
 
 (3) In any means test proceedings the person with a claim to the tenancy shall be bound to:
 
@@ -94,11 +86,7 @@ so as to enable the Rent Board to determine whether such person has during the s
 
 (2) For a person who is younger than thirty-six (36) years old to meet the income criteria of the means test, the income of the said person during the relevant period shall not exceed twenty-eight thousand and five hundred euro (€28,500).
 
-(3) For a person who is between thirty-six (36) years old to forty-five (45) years old to meet the income criteria of the means test, the income of the said person during the relevant period shall not (MEANS TESTING CRITERIA) [S.L.16.11
-
-exceed thirty-eight thousand euro (€38,000).
-
-*3*
+(3) For a person who is between thirty-six (36) years old to forty-five (45) years old to meet the income criteria of the means test, the income of the said person during the relevant period shall not exceed thirty-eight thousand euro (€38,000).
 
 (4) For a person who is between forty-six (46) years old to fifty-five (55) years old to meet the income criteria of the means test, the income of the said person during the relevant period shall not exceed forty two thousand euro (€42,000).
 
@@ -124,11 +112,7 @@ exceed thirty-eight thousand euro (€38,000).
 
 (3) For a person who is between forty-six (46) years old to fifty-five (55) years old to meet the capital criteria of the means test, the capital of the said person shall not exceed one-hundred and eighty-five thousand euro (€185,000).
 
-(4) For a person who is between fifty-six (56) years old to sixty-five (65) years old to meet the capital criteria of the means test, the capital of the said person shall not exceed two hundred and thirteen [S.L.16.11 (MEANS TESTING CRITERIA)
-
-thousand euro (€213,000).
-
-*4*
+(4) For a person who is between fifty-six (56) years old to sixty-five (65) years old to meet the capital criteria of the means test, the capital of the said person shall not exceed two hundred and thirteen thousand euro (€213,000).
 
 (5) For a person who is between sixty-six (66) years old to seventy-five (75) years old to meet the capital criteria of the means test, the capital of the said person shall not exceed two hundred and forty-five thousand euro (€245,000).
 
@@ -164,9 +148,7 @@ In calculating the capital criteria of the means test, account shall be taken of
 
 Provided that for the purpose of paragraph (a), where the Board finds that the possession of dwelling-house would not be vacant because its use would have been granted to third parties under any title including lease, the Board shall consider the conditions at which the tenant may recover the possession of the dwelling-house, and if such repossession may be made in the short term, that dwelling-house shall be included anyway in the calculation of the capital criteria of the means test:
 
-*5*
-
-(MEANS TESTING CRITERIA) [S.L.16.11 Provided further that in the case mentioned in the first proviso, if as a result of the inclusion of the dwelling-house in the calculation the tenant does not meet the capital criteria of the means test, the Board shall have the power to extend the period mentioned under sub-article (4) of article 4A of the Reletting of Urban Property (Regulation) Ordinance and article 12B of the Housing (Decontrol) Ordinance:
+Provided further that in the case mentioned in the first proviso, if as a result of the inclusion of the dwelling-house in the calculation the tenant does not meet the capital criteria of the means test, the Board shall have the power to extend the period mentioned under sub-article (4) of article 4A of the Reletting of Urban Property (Regulation) Ordinance and article 12B of the Housing (Decontrol) Ordinance:
 
 *Cap. 69.*
 

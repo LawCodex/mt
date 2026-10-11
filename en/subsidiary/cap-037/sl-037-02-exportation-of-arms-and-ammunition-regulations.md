@@ -1,6 +1,6 @@
 ---
 title: "Exportation of Arms and Ammunition Regulations"
-identifier: "S.L. 37.2"
+identifier: "S.L. 37.02"
 eli: "https://legislation.mt/eli/sl/37.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/37.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Exportation of Arms and Ammunition Regulations (S.L. 37.2)
+# Exportation of Arms and Ammunition Regulations (S.L. 37.02)
 
 **SUBSIDIARY LEGISLATION 37.02**
 

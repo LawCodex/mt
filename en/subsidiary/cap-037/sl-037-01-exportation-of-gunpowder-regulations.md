@@ -1,6 +1,6 @@
 ---
 title: "Exportation of Gunpowder Regulations"
-identifier: "S.L. 37.1"
+identifier: "S.L. 37.01"
 eli: "https://legislation.mt/eli/sl/37.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/37.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Exportation of Gunpowder Regulations (S.L. 37.1)
+# Exportation of Gunpowder Regulations (S.L. 37.01)
 
 **SUBSIDIARY LEGISLATION 37.01**
 

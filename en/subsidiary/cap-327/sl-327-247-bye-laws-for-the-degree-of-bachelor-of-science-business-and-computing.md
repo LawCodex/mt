@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Science (Business and Computing) - B.SC. (Bus. &amp; Comp.) - under the auspices of the Faculty of Economics, Management and Accountancy - Repealed by Legal Notice 3 of 2020 (S.L. 327.247)
 
-DEGREE OF BACHELOR OF SCIENCE (BUSINESS AND COMPUT-
-
-ING) - B.SC (BUS. & COMP.) - UNDER THE AUSPICES OF THE
-
-*1*
-
-FACULTY OF ECONOMICS, MANAGEMENT AND ACCOUNTANCY [S.L.327.247
-
 **SUBSIDIARY LEGISLATION 327.247**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF SCIENCE (BUSINESS AND COMPUTING) - B.SC. (BUS. & COMP.) - UNDER THE AUSPICES OF THE FACULTY OF ECONOMICS, MANAGEMENT AND

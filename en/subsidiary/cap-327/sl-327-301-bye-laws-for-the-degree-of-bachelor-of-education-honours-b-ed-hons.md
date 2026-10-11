@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Education (Honours) - B.Ed. (Hons) - under the auspices of the Faculty of Education (S.L. 327.301)
 
-*1*
-
-(HONS) - UNDER THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.301
-
 **SUBSIDIARY LEGISLATION 327.301**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF EDUCATION (HONOURS) - B.ED. (HONS) - UNDER THE AUSPICES OF THE FACULTY OF
@@ -59,11 +55,7 @@ These bye-laws shall be applicable as from 1st October, 2016 onwards.
 
 (2) (a) For the Primary and the Early Childhood Education and Care areas of specialisation, the Board shall recommend to Senate the number of applicants that may be allowed to register in these areas of specialisation, depending on the number of school placements available. The number of available places shall be announced when this information is made available to the University by the relevant authorities.
 
-(b) If there are more eligible applicants than the number of places available, applicants shall be selected after an [S.L.327.301 (HONS) - UNDER THE AUSPICES OF THE FACULTY OF EDUCATION
-
-interview by an interviewing board appointed by the Board for the purpose and which shall be composed of at least three members. Applicants shall be rank ordered in accordance with criteria approved by Senate.
-
-*2*
+(b) If there are more eligible applicants than the number of places available, applicants shall be selected after an interview by an interviewing board appointed by the Board for the purpose and which shall be composed of at least three members. Applicants shall be rank ordered in accordance with criteria approved by Senate.
 
 ## 4. Secondary Education as area of specialisation.
 
@@ -113,11 +105,7 @@ Computing, Nutrition, Family and Consumer Studies, Mathematics, Personal and Soc
 
 (2) In teaching areas where the number of school placements is limited, the Board shall recommend to Senate the number of applicants that may be allowed to register in these teaching areas, depending on the number of school placements available. The number of available places shall be announced at the time of the call for applications.
 
-(2) In teaching areas where the number of school placements is limited, the Board shall recommend to Senate the number of applicants that may be allowed to register in these teaching areas, depending on the number of school placements available. The (HONS) - UNDER THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.301
-
-number of available places shall be announced when this information is made available to the University by the relevant authorities.
-
-*3*
+(2) In teaching areas where the number of school placements is limited, the Board shall recommend to Senate the number of applicants that may be allowed to register in these teaching areas, depending on the number of school placements available. The number of available places shall be announced when this information is made available to the University by the relevant authorities.
 
 (3) If there are more eligible applicants than the number of places available, applicants shall be rank ordered in accordance with criteria approved by Senate. The University Admissions Board, after seeking the advice of the Faculty Admissions Committee, shall first consider eligible applicants whose qualifications were obtained in the Matriculation Certificate Examination or from another examining board, if the Faculty Admissions Committee is satisfied that the qualifications presented are comparable in content and equivalent in standard to the Matriculation Certificate Examination in the same subject/s. For the purpose of selection, applicants whose qualifications and the special course requirements as stipulated in bye-law 9, were obtained by 31 August preceding the commencement of the course shall be considered first. if vacant places are still available, applicants who obtain all necessary qualifications and fulfil all special course requirements as stipulated in bye-law 9 after the 31 August and before the 30 September shall be considered to take up the remaining places.
 
@@ -135,11 +123,7 @@ number of available places shall be announced when this information is made avai
 
 (b) passes at Intermediate Matriculation Level at Grade C or better in two of the following subjects (excluding the subject presented at Advanced Level): Art, Biology, Chemistry, Computing, English, Environmental Science, Geography, History, Home Economics and Human Ecology, Information Technology, Maltese, Mathematics (Applied or Pure), Music, Philosophy, Physics, Religious Knowledge, and Sociology; and
 
-(c) passes in proficiency tests in English and Maltese, approved by the Faculty. Applicants shall be exempted from sitting for the proficiency test in English if they [S.L.327.301 (HONS) - UNDER THE AUSPICES OF THE FACULTY OF EDUCATION
-
-are in possession of a pass at SEC level at Grade 3 or higher, or an Intermediate Matriculation Level pass at Grade C or higher, or an advanced Matriculation Level pass at Grade C or higher in English. Applicants shall be exempted from sitting for the proficiency test in Maltese if they are in possession of a pass at SEC level at Grade 3 or higher, or an Intermediate Matriculation Level pass at Grade C or higher, or an Advanced Matriculation Level pass at Grade C or higher in Maltese; and
-
-*4*
+(c) passes in proficiency tests in English and Maltese, approved by the Faculty. Applicants shall be exempted from sitting for the proficiency test in English if they are in possession of a pass at SEC level at Grade 3 or higher, or an Intermediate Matriculation Level pass at Grade C or higher, or an advanced Matriculation Level pass at Grade C or higher in English. Applicants shall be exempted from sitting for the proficiency test in Maltese if they are in possession of a pass at SEC level at Grade 3 or higher, or an Intermediate Matriculation Level pass at Grade C or higher, or an Advanced Matriculation Level pass at Grade C or higher in Maltese; and
 
 (d) a certificate showing a pass in all seven European Computer Driving Licence (ECDL) modules.
 
@@ -161,11 +145,7 @@ For courses commencing in October 2012 and October 2013:
 
 (b) the MCAST-BTEC National Diploma in Children’s Care, Learning and Development or the Certificate in Pre-School Education (Education Division - Further Studies and Adult Education Department) or the Certificate in Childcare (Education Division - Further Studies and Adult Education Department); and
 
-(c) one pass at Advanced Level at Grade C or better in one of the following subjects: Art, Biology, Chemistry, Computing, English, Geography, History, Home Economics and Human Ecology, Information Technology, Maltese, Mathematics (Applied or Pure), (HONS) - UNDER THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.301
-
-Music, Philosophy, Physics, Religious Knowledge, and Sociology; and
-
-*5*
+(c) one pass at Advanced Level at Grade C or better in one of the following subjects: Art, Biology, Chemistry, Computing, English, Geography, History, Home Economics and Human Ecology, Information Technology, Maltese, Mathematics (Applied or Pure), Music, Philosophy, Physics, Religious Knowledge, and Sociology; and
 
 (d) passes in proficiency tests in English and Maltese approved by the Faculty (unless exempted from them in terms of bye-law 9(2)(c)); and
 
@@ -191,11 +171,7 @@ For courses commencing in October 2014 or later:
 
 (b) passes at SEC level at Grade 5 or better in English Language, Maltese and Mathematics; and
 
-(c) passes in proficiency tests in English and Maltese, [S.L.327.301 (HONS) - UNDER THE AUSPICES OF THE FACULTY OF EDUCATION
-
-approved by the Faculty. Applicants shall be exempted from sitting for the proficiency test in English if they are in possession of a pass at SEC level at Grade 3 or higher, or an Intermediate Level pass at Grade C or higher, or an Advanced Level pass at Grade C or higher in English. Applicants shall be exempted from sitting for the proficiency test in Maltese if they are in possession of a pass at SEC level at Grade 3 or higher, or an Intermediate Level pass at Grade C or higher, or an Advanced Level pass at Grade C or higher in Maltese; and
-
-*6*
+(c) passes in proficiency tests in English and Maltese, approved by the Faculty. Applicants shall be exempted from sitting for the proficiency test in English if they are in possession of a pass at SEC level at Grade 3 or higher, or an Intermediate Level pass at Grade C or higher, or an Advanced Level pass at Grade C or higher in English. Applicants shall be exempted from sitting for the proficiency test in Maltese if they are in possession of a pass at SEC level at Grade 3 or higher, or an Intermediate Level pass at Grade C or higher, or an Advanced Level pass at Grade C or higher in Maltese; and
 
 (d) a certificate showing a pass in the European Computer Driving Licence (ECDL) Standard Certificate,
 
@@ -219,11 +195,7 @@ provided that such applicants shall be required to follow a programme of study a
 
 (ii) for Mathematics: two passes at Advanced Level at Grade C or better in Pure Mathematics and in any other subject;
 
-(iii) for Computing: two passes at Advanced Level at Grade C or better in Computing and in any other subject, together with a pass at Intermediate Level at Grade C or better in Pure Mathematics (a pass at Advanced Level in Information (HONS) - UNDER THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.301
-
-Technology or in Pure Mathematics may not be offered instead of Computing);
-
-*7*
+(iii) for Computing: two passes at Advanced Level at Grade C or better in Computing and in any other subject, together with a pass at Intermediate Level at Grade C or better in Pure Mathematics (a pass at Advanced Level in Information Technology or in Pure Mathematics may not be offered instead of Computing);
 
 (iv) for Personal and Social Development: a pass at Advanced Level at Grade C or better in either Philosophy or Sociology and a pass at Advanced Level at Grade C or better in any other subject;
 
@@ -243,11 +215,7 @@ Technology or in Pure Mathematics may not be offered instead of Computing);
 
 (e) a pass in a physical education proficiency test taken in the same year when submitting the application; and (f) a medical fitness certificate, as per prescribed form provided by the Institute of Physical Education and Sport, taken in the same year when submitting the application and present a portfolio demonstrating interest in and commitment to Physical Education and Sport; and
 
-(g) a pass in the English proficiency test, approved by the Faculty. Applicants [S.L.327.301 (HONS) - UNDER THE AUSPICES OF THE FACULTY OF EDUCATION
-
-shall be exempted from sitting for the proficiency test in English if they are in possession of a pass at SEC level at Grade 3 or higher, or an Intermediate Level pass at Grade C or higher, or an Advanced Level pass at Grade C or higher in English.
-
-*8*
+(g) a pass in the English proficiency test, approved by the Faculty. Applicants shall be exempted from sitting for the proficiency test in English if they are in possession of a pass at SEC level at Grade 3 or higher, or an Intermediate Level pass at Grade C or higher, or an Advanced Level pass at Grade C or higher in English.
 
 (2) Applications for the Physical Education area of specialisation shall also be accepted from persons who are not in possession of the general requirements for admission as specified in the Admission Regulations but have obtained the following:
 
@@ -265,11 +233,7 @@ shall be exempted from sitting for the proficiency test in English if they are i
 
 (vi) for Technical Design and Technology:
 
-(1) a pass at Advanced Level at Grade C or better in Engineering Drawing or in Graphical Communication, a pass at (HONS) - UNDER THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.301
-
-Intermediate Level at Grade C or better in Physics, and a pass at Advanced Level at Grade C or better in any other subject; or (2) a pass at Advanced Level at Grade C or better in Physics, a pass at Intermediate Level at Grade C or better in Engineering Drawing and Graphical Communication, and a pass at Advanced Level at Grade C or better in any other subject; or
-
-*9*
+(1) a pass at Advanced Level at Grade C or better in Engineering Drawing or in Graphical Communication, a pass at Intermediate Level at Grade C or better in Physics, and a pass at Advanced Level at Grade C or better in any other subject; or (2) a pass at Advanced Level at Grade C or better in Physics, a pass at Intermediate Level at Grade C or better in Engineering Drawing and Graphical Communication, and a pass at Advanced Level at Grade C or better in any other subject; or
 
 (3) five passes at Grade 5 or better in the Secondary Education Certificate Examination, including English Language and Maltese, together with a pass in Systems of Knowledge in the Matriculation Certificate Examination at Intermediate Level, and
 
@@ -287,11 +251,7 @@ or a qualification considered equivalent by the University Admissions Board on t
 
 (6) Applicants admitted under regulation 6(ċ) of the Admission Regulations must be in possession of those qualifications and/or experience that would satisfy the Faculty Admissions Committee that they have reached the academic standard required to follow the course with profit. The eligibility of such applicants shall be decided by the Faculty Admissions Committee, following an interview conducted by an interviewing board appointed for the purpose. The interviewing board appointed by the Board shall be composed of at least three persons.
 
-(7) Applicants who do not pass the English and Maltese proficiency tests (as applicable) and are not exempted from them in terms of the provisions of these bye-laws, and/or are not in [S.L.327.301 (HONS) - UNDER THE AUSPICES OF THE FACULTY OF EDUCATION
-
-possession of the ECDL by the 30 September shall not be admitted to the Course.
-
-*10*
+(7) Applicants who do not pass the English and Maltese proficiency tests (as applicable) and are not exempted from them in terms of the provisions of these bye-laws, and/or are not in possession of the ECDL by the 30 September shall not be admitted to the Course.
 
 (8) In the case of English, passes at the same standard in comparable qualifications will also be accepted.
 
@@ -327,11 +287,7 @@ Students are required to obtain 60 credits per year, as detailed in the programm
 
 (3) Students shall be required to pass all the field placements. Students can only do one field placement in any year of the course and shall be allowed to repeat only one failed field placement during the following year, so that the final field placement is held during an additional year of studies, if allowed in terms of the Principal Regulations.
 
-(4) Students whose field placement includes the teaching of two teaching areas and who fail to satisfy the examiners in the teaching of one of the teaching areas shall be considered to have failed the field placement. Such students shall be required to repeat the field placement in terms of paragraph (3) and as provided for in the Principal Regulations. Students may be allowed to repeat the field placement in the teaching of the failed teaching area only (HONS) - UNDER THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.301
-
-under those conditions established by the Board.
-
-*11*
+(4) Students whose field placement includes the teaching of two teaching areas and who fail to satisfy the examiners in the teaching of one of the teaching areas shall be considered to have failed the field placement. Such students shall be required to repeat the field placement in terms of paragraph (3) and as provided for in the Principal Regulations. Students may be allowed to repeat the field placement in the teaching of the failed teaching area only under those conditions established by the Board.
 
 (5) Students shall be required to abide by the field placement Code of Ethics as published by the Board. Any breach of this Code of Ethics shall be referred to an ad hoc Disciplinary Board appointed by the Board and may result in a recommendation to Senate for dismissal from the course.
 
@@ -360,10 +316,6 @@ In the case of assigning the classification of First Class Honours, the Degree C
 *Added by: L.N. 393 of 2016.*
 
 In cases where students fail a Primary Field Placement of the 2nd, 3rd or 4th year or a Secondary Field Placement of the 3rd or 4th year of the course assessed on a Pass/Fail basis, the Board on the recommendation of the Degree Classification Board may award a lower classification.
-
-*12*
-
-[S.L.327.301 (HONS) - UNDER THE AUSPICES OF THE FACULTY OF EDUCATION
 
 ## 17. Degree classification.
 

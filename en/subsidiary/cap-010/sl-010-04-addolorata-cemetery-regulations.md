@@ -1,6 +1,6 @@
 ---
 title: "Addolorata Cemetery Regulations"
-identifier: "S.L. 10.4"
+identifier: "S.L. 10.04"
 eli: "https://legislation.mt/eli/sl/10.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/10.4/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Addolorata Cemetery Regulations (S.L. 10.4)
+# Addolorata Cemetery Regulations (S.L. 10.04)
 
 **SUBSIDIARY LEGISLATION 10.04**
 

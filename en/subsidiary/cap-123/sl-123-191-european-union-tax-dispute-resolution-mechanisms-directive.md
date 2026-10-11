@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # European Union Tax Dispute Resolution Mechanisms Directive Implementation Regulations (S.L. 123.191)
 
-*1*
-
-MECHANISMS DIRECTIVE IMPLEMENTATION [S.L. 123.191 SUBSIDIARY LEGISLATION 123.191
+**SUBSIDIARY LEGISLATION 123.191**
 
 **EUROPEAN UNION TAX DISPUTE RESOLUTION**
 
@@ -53,11 +51,7 @@ LEGAL NOTICE 159 of 2019, as amended by Legal Notice 441 of 2020.
 
 "competent authority" in respect of Malta means the Commissioner and in respect of any other Member State it means the authority of that Member State which has been designated as such by that Member State concerned;
 
-"competent court" in respect of Malta means the Civil Court, First Hall and in respect of any other Member State it means the court, tribunal or other body of a Member State which has been designated as such by that Member State [S.L. 123.191 MECHANISMS DIRECTIVE IMPLEMENTATION
-
-concerned;
-
-*2*
+"competent court" in respect of Malta means the Civil Court, First Hall and in respect of any other Member State it means the court, tribunal or other body of a Member State which has been designated as such by that Member State concerned;
 
 "double taxation" means the imposition by two or more Member States of taxes covered by an agreement or convention referred to in regulation 2(2) in respect of the same taxable income or capital when it gives rise to either:
 
@@ -83,11 +77,9 @@ concerned;
 
 (2) An affected person shall have the right to submit a complaint to the Commissioner in accordance with these regulations regardless of whether he has recourse to remedies available under any other provisions of Maltese law or the law of any one (1) of the other Member States concerned.
 
-(3) A complaint shall be submitted to the Commissioner in the Maltese or the English language within three (3) years from the receipt by the affected person of the first notification of the action MECHANISMS DIRECTIVE IMPLEMENTATION [S.L. 123.191 resulting in, or that will result in, the question in dispute.
+(3) A complaint shall be submitted to the Commissioner in the Maltese or the English language within three (3) years from the receipt by the affected person of the first notification of the action resulting in, or that will result in, the question in dispute.
 
 (4) The affected person shall indicate in the complaint made to the Commissioner which other Member States are concerned and shall simultaneously submit the complaint with the same information to the competent authority of each of the other Member States concerned.
-
-*3*
 
 ## 5. Information that shall be submitted by the affected person.
 
@@ -103,11 +95,7 @@ concerned;
 
 (e) the following information, together with copies of any supporting documents:
 
-(i) an explanation of why the affected person [S.L. 123.191 MECHANISMS DIRECTIVE IMPLEMENTATION
-
-considers that there is a question in dispute;
-
-*4*
+(i) an explanation of why the affected person considers that there is a question in dispute;
 
 (ii) the details of any appeals and litigation initiated by the affected person regarding the relevant transactions and of any court decisions concerning the question in dispute;
 
@@ -125,13 +113,11 @@ considers that there is a question in dispute;
 
 ## 6. Acknowledg-ment of receipt of the complaint.
 
-The Commissioner shall acknowledge receipt of the complaint within two (2) months from the date on which he receives it. He shall also within that period inform the competent authorities of the other Member States concerned of the receipt of the complaint and MECHANISMS DIRECTIVE IMPLEMENTATION [S.L. 123.191 about the language or languages he intends to use for communications during the relevant proceedings.
+The Commissioner shall acknowledge receipt of the complaint within two (2) months from the date on which he receives it. He shall also within that period inform the competent authorities of the other Member States concerned of the receipt of the complaint and about the language or languages he intends to use for communications during the relevant proceedings.
 
 ## 7. Acceptance or rejection of the complaint.
 
 (1) The Commissioner shall take a decision on the acceptance or rejection of the complaint within six (6) months of the receipt thereof or within six (6) months of the receipt of the information referred to in regulation 5(1)(f), whichever is later. The Commissioner shall inform the affected person and the competent authorities of the other Member States concerned of his decision without delay.
-
-*5*
 
 (2) The Commissioner may decide to reject a complaint within the period provided for in sub-regulation (1) if:
 
@@ -157,10 +143,6 @@ Provided that the time within which an appeal may be made in accordance with art
 
 (a) while the decision is still under appeal according to the provisions of the national law of any of the Member States concerned;
 
-*6*
-
-[S.L. 123.191 MECHANISMS DIRECTIVE IMPLEMENTATION
-
 (b) where the rejection decision can still be further appealed under the appeal procedure of any of the Member States concerned; or
 
 (c) when a rejection decision has been confirmed under the appeal procedure in sub-paragraph (5)(a) but it is not possible to derogate from the decision of the relevant court or other judicial bodies in any one (1) of the Member States concerned.
@@ -185,11 +167,9 @@ Provided that the time within which an appeal may be made in accordance with art
 
 ## 10. Mutual agreement procedure.
 
-(1) (a) Where the Commissioner and the competent authorities of the other Member States concerned accept a complaint, the Commissioner shall seek to resolve the question in dispute by mutual agreement with the competent authorities of the other Member MECHANISMS DIRECTIVE IMPLEMENTATION [S.L. 123.191 States concerned within two (2) years starting from the last notification of a decision of the competent authority of one (1) of the Member States on the acceptance of the complaint.
+(1) (a) Where the Commissioner and the competent authorities of the other Member States concerned accept a complaint, the Commissioner shall seek to resolve the question in dispute by mutual agreement with the competent authorities of the other Member States concerned within two (2) years starting from the last notification of a decision of the competent authority of one (1) of the Member States on the acceptance of the complaint.
 
 (b) The said period of two (2) years may be extended by up to one (1) year at the request of the competent authority of another Member State concerned to the Commissioner:
-
-*7*
 
 Provided that such request is received by the competent authorities of all the Member States concerned, and the requesting competent authority provides written justification;
 
@@ -204,10 +184,6 @@ Provided that where proceedings regarding such other remedies have already comme
 ## 11. Dispute resolution by the Advisory Commission.
 
 (1) Upon a request made by the affected person, the Commissioner shall take the necessary action for the setting up of an Advisory Commission in accordance with regulation 13 where:
-
-*8*
-
-[S.L. 123.191 MECHANISMS DIRECTIVE IMPLEMENTATION
 
 (a) the complaint submitted by such affected person was rejected by the Commissioner under regulation 7(2) or, where the Commissioner has not rejected the complaint, the complaint was rejected by the competent authority of at least one (1) of the other Member States concerned under provisions of the national law of that Member State corresponding to regulation 7(2); or
 
@@ -229,11 +205,9 @@ The request shall include a declaration to this effect.
 
 (4) The Commissioner shall take the necessary steps for the setting up of the Advisory Commission by not later than one hundred and twenty (120) days from the receipt of the request referred to in the foregoing sub-regulations, and once the Advisory Commission is set up, its Chairperson shall inform the affected person thereof without delay.
 
-(5) The Advisory Commission set up in the case of sub-regulation (1)(a) shall adopt a decision on the acceptance of the MECHANISMS DIRECTIVE IMPLEMENTATION [S.L. 123.191 complaint within six (6) months from the date of its establishment. It shall notify the competent authorities of its decision within thirty (30) days of the adoption thereof.
+(5) The Advisory Commission set up in the case of sub-regulation (1)(a) shall adopt a decision on the acceptance of the complaint within six (6) months from the date of its establishment. It shall notify the competent authorities of its decision within thirty (30) days of the adoption thereof.
 
 (6) (a) Where the Advisory Commission set up in the case of sub-regulation (1)(a) has confirmed that all of the requirements under regulations 4 and 5 have been satisfied, the mutual agreement procedure provided for in regulation 10 shall be initiated at the request of the Commissioner or of the competent authority of any one (1) of the other Member States concerned. Where the request is made by the Commissioner, he shall notify the Advisory Commission, the competent authorities of the other Member States concerned and the affected person thereof. The period provided for in regulation 10(1) shall start from the date of the notification of the decision taken by the Advisory Commission of the acceptance of the complaint.
-
-*9*
 
 (b) Where none of the competent authorities of the Member States concerned has requested the initiation of the mutual agreement procedure as per paragraph (a) within sixty (60) days of the date of the notification of the decision of the Advisory Commission, the Advisory Commission shall provide an opinion on how to resolve the question in dispute as provided for in regulation 19(1). In such a case, for the purposes of regulation 19(1), the Advisory Commission shall be deemed to have been set up on the date on which that sixty (60) day period expired.
 
@@ -247,11 +221,7 @@ The request shall include a declaration to this effect.
 
 Where the Commissioner has failed to appoint at least one (1) independent person of standing and a substitute, the affected person may request the Chairman of the Board of Governors of the Malta Arbitration Centre to appoint an independent person of standing and a substitute from the list referred to in regulation 14.
 
-If the Commissioner and the competent authorities of all the other Member States concerned have failed to do so, the affected person may request the Chairman of the Board of Governors of the Malta Arbitration Centre and the competent courts of the other Member States concerned or to any other body or person designated in their national laws for the carrying out of such function to appoint the two (2) independent persons of standing from the list referred to in regulation 14. Those independent persons of standing shall appoint the [S.L. 123.191 MECHANISMS DIRECTIVE IMPLEMENTATION
-
-chairperson by drawing lots from the list of independent persons according to sub-regulation (3) of regulation 13.
-
-*10*
+If the Commissioner and the competent authorities of all the other Member States concerned have failed to do so, the affected person may request the Chairman of the Board of Governors of the Malta Arbitration Centre and the competent courts of the other Member States concerned or to any other body or person designated in their national laws for the carrying out of such function to appoint the two (2) independent persons of standing from the list referred to in regulation 14. Those independent persons of standing shall appoint the chairperson by drawing lots from the list of independent persons according to sub-regulation (3) of regulation 13.
 
 If more than one affected person is involved in the proceedings, referrals to appoint the independent persons of standing and their substitutes shall be submitted to the Chairman of the Board of Governors of the Malta Arbitration Centre by those affected persons who are resident in Malta. If only one affected person is involved, such a referral shall be submitted to the Chairman of the Board of Governors of the Malta Arbitration Centre if the Commissioner has failed to appoint at least one (1) independent person of standing and a substitute.
 
@@ -277,11 +247,9 @@ The Chairman of the Board of Governors of the Malta Arbitration Centre shall inf
 
 (b) one (1) representative of the competent authority of each of the Member States concerned:
 
-Provided that on agreement between the competent authorities, the number of such representatives may MECHANISMS DIRECTIVE IMPLEMENTATION [S.L. 123.191 be increased to two (2) for each competent authority; and
+Provided that on agreement between the competent authorities, the number of such representatives may be increased to two (2) for each competent authority; and
 
 (c) one (1) independent person of standing, who shall be appointed by the competent authority of each of the Member States concerned from the list of independent persons of standing nominated by the Member States:
-
-*11*
 
 Provided that on agreement between the competent authorities, the number of such persons appointed may be increased to two (2) for each competent authority.
 
@@ -297,11 +265,7 @@ Provided that on agreement between the competent authorities, the number of such
 
 (c) that person does not offer a sufficient guarantee of objectivity for the settlement of the dispute or disputes to be decided;
 
-(d) that person is an employee with an enterprise that provides tax advice or otherwise gives tax advice on a professional basis, or was in such a situation at any time during a period of at least three (3) years prior to the date of his [S.L. 123.191 MECHANISMS DIRECTIVE IMPLEMENTATION
-
-appointment.
-
-*12*
+(d) that person is an employee with an enterprise that provides tax advice or otherwise gives tax advice on a professional basis, or was in such a situation at any time during a period of at least three (3) years prior to the date of his appointment.
 
 (5) The Commissioner may request that a person of standing who has been appointed in accordance with sub-regulation (2) or (3), or his substitute, shall disclose any interest, relationship or any other matter that is likely to affect that person's independence or impartiality or that might reasonably create an appearance of bias in the proceedings. For a period of twelve (12) months after the opinion of the Advisory Commission was delivered, an independent person of standing who is part of the Advisory Commission shall not be in a situation that would have given cause to a competent authority to object to his appointment as provided for in sub-regulation (4) had he been in that situation at the time of appointment to that Advisory Commission.
 
@@ -319,9 +283,7 @@ appointment.
 
 (5) Where, taking into consideration the relevant provisions of this regulation, the Commissioner has reasonable cause to object to an independent person of standing appointed by the competent authority of a Member State remaining in the above mentioned list for reasons of lack of independence, he shall inform the Commission and provide appropriate evidence to support its concern.
 
-*13*
-
-MECHANISMS DIRECTIVE IMPLEMENTATION [S.L. 123.191 (6) Where the Commissioner is informed by the Commission of an objection to an independent person of standing appointed by him and of supporting evidence, he shall within six (6) months take the necessary steps to investigate the complaint, and shall decide whether to retain or remove that person from the list. The Commissioner shall then notify the Commission accordingly without delay.
+(6) Where the Commissioner is informed by the Commission of an objection to an independent person of standing appointed by him and of supporting evidence, he shall within six (6) months take the necessary steps to investigate the complaint, and shall decide whether to retain or remove that person from the list. The Commissioner shall then notify the Commission accordingly without delay.
 
 (7) The list of independent persons of standing referred to in regulation 13 shall consist of the independent persons of standing nominated by the Commissioner in accordance with this regulation and of all the other independent persons of standing nominated by the other Member States concerned in accordance with their respective national laws.
 
@@ -338,10 +300,6 @@ MECHANISMS DIRECTIVE IMPLEMENTATION [S.L. 123.191 (6) Where the Commissioner is 
 ## 16. Rules of Functioning.
 
 (1) Within the one hundred and twenty (120) day period provided for in regulation 11(4), the Commissioner shall notify the affected person with the following:
-
-*14*
-
-[S.L. 123.191 MECHANISMS DIRECTIVE IMPLEMENTATION
 
 (a) the Rules of Functioning for the Advisory Commission or the Alternative Dispute Resolution Commission;
 
@@ -367,9 +325,7 @@ MECHANISMS DIRECTIVE IMPLEMENTATION [S.L. 123.191 (6) Where the Commissioner is 
 
 Provided that if an Advisory Commission is set up to deliver an opinion under regulation 11(1)(a), only the information referred to in paragraphs (a), (d), (e) and (f) of this sub-regulation shall be set out in the Rules of Functioning.
 
-*15*
-
-MECHANISMS DIRECTIVE IMPLEMENTATION [S.L. 123.191 (3) Where the Rules of Functioning are incomplete or were not notified to the affected person, Standard Rules of Functioning established by the Commission in accordance with Council Directive (EU) 2017/1852 of 10 October 2017 on tax dispute resolution mechanisms in the European Union shall apply.
+(3) Where the Rules of Functioning are incomplete or were not notified to the affected person, Standard Rules of Functioning established by the Commission in accordance with Council Directive (EU) 2017/1852 of 10 October 2017 on tax dispute resolution mechanisms in the European Union shall apply.
 
 (4) Where the Commissioner has not notified the Rules of Functioning to the affected person in accordance with sub-regulations (1) and (2), or where the competent authorities of any one (1) of the other Member States concerned have not notified the Rules of Functioning to the affected person, the independent persons of standing and the Chairperson shall complete the Rules of Functioning on the basis of the standard rules referred to in sub-regulation (3) and shall send them to the affected person within two (2) weeks from the date that the Advisory Commission or Alternative Dispute Resolution Commission was set up.
 
@@ -389,11 +345,7 @@ MECHANISMS DIRECTIVE IMPLEMENTATION [S.L. 123.191 (3) Where the Rules of Functio
 
 (a) a notification of withdrawal of complaint under regulation 9 or under corresponding provisions of the national law of any other Member State concerned; or
 
-(b) a request under the provisions of regulation 11(1) or under corresponding provisions of the national law of any [S.L. 123.191 MECHANISMS DIRECTIVE IMPLEMENTATION
-
-other Member State concerned following a rejection made under regulation 10(1) or under corresponding provisions of the national law of any other Member State concerned, and the Advisory Commission has decided that the relevant competent authorities were correct in rejecting the complaint,
-
-*16*
+(b) a request under the provisions of regulation 11(1) or under corresponding provisions of the national law of any other Member State concerned following a rejection made under regulation 10(1) or under corresponding provisions of the national law of any other Member State concerned, and the Advisory Commission has decided that the relevant competent authorities were correct in rejecting the complaint,
 
 and the competent authorities of the Member States concerned so agree, all the costs referred to in sub-regulation (1)(a) and (b) shall be borne by the affected person.
 
@@ -415,13 +367,11 @@ and the competent authorities of the Member States concerned so agree, all the c
 
 (4) The independent persons of standing or any other member shall be subject to obligations of professional secrecy in relation to information they receive in their capacity as members of an Advisory Commission or Alternative Dispute Resolution Commission.
 
-(5) Affected persons, and where applicable, their MECHANISMS DIRECTIVE IMPLEMENTATION [S.L. 123.191 representatives, shall undertake to treat any information (including knowledge of documents) that they receive during such proceedings as secret. The affected person and his representatives shall make a declaration to this effect to the Commissioner and the competent authorities of the other Member States concerned when so requested during the proceedings.
+(5) Affected persons, and where applicable, their representatives, shall undertake to treat any information (including knowledge of documents) that they receive during such proceedings as secret. The affected person and his representatives shall make a declaration to this effect to the Commissioner and the competent authorities of the other Member States concerned when so requested during the proceedings.
 
 *Cap. 377. Cap. 9.*
 
 (6) The provisions of the Professional Secrecy Act and of article 257 of the Criminal Code shall apply in respect of any breach of the secrecy obligations imposed under this regulation.
-
-*17*
 
 (7) The Commissioner shall inform the Commission of any measures taken in order to penalise any breach of secrecy obligation provided for in this regulation.
 
@@ -437,11 +387,7 @@ and the competent authorities of the Member States concerned so agree, all the c
 
 (1) The Commissioner shall agree with the competent authorities of the other Member States concerned on how to resolve the question in dispute within six (6) months of the notification of the opinion of the Advisory Commission or Alternative Dispute Resolution Commission.
 
-(2) The Commissioner together with the competent authorities of the other Member States concerned may take a decision which deviates from the opinion of the Advisory Commission or Alternative Dispute Resolution Commission. However, if the Commissioner fails to reach an agreement as to how to resolve the [S.L. 123.191 MECHANISMS DIRECTIVE IMPLEMENTATION
-
-question in dispute, the Commissioner shall be bound by that opinion.
-
-*18*
+(2) The Commissioner together with the competent authorities of the other Member States concerned may take a decision which deviates from the opinion of the Advisory Commission or Alternative Dispute Resolution Commission. However, if the Commissioner fails to reach an agreement as to how to resolve the question in dispute, the Commissioner shall be bound by that opinion.
 
 (3) The Commissioner shall notify the final decision on the resolution of the question in dispute to the affected person without delay. In the absence of such notification within thirty (30) days of the decision having been taken, the affected person shall be entitled to file an application in the Civil Court, First Hall requesting the Court to order the Commissioner to provide a copy of the final decision without further delay.
 
@@ -465,11 +411,9 @@ Provided that the time within which an appeal may be made in accordance with art
 
 (2) The submission of the question in dispute to the mutual agreement procedure or to the dispute resolution procedure under regulations 10 and 11 respectively shall not prevent the Commissioner from initiating or continuing judicial proceedings or proceedings for administrative and criminal penalties in relation to the same matters.
 
-(3) Affected persons may have recourse to the remedies MECHANISMS DIRECTIVE IMPLEMENTATION [S.L. 123.191 available to them under the national law of the Member States concerned. However, where the affected person has commenced proceedings to seek such a remedy, the terms of periods referred to in regulations 8 and 10(1) respectively shall commence from the date on which a judgement delivered in those proceedings has become final or on which those proceedings have otherwise been definitively concluded or where the proceedings have been suspended.
+(3) Affected persons may have recourse to the remedies available to them under the national law of the Member States concerned. However, where the affected person has commenced proceedings to seek such a remedy, the terms of periods referred to in regulations 8 and 10(1) respectively shall commence from the date on which a judgement delivered in those proceedings has become final or on which those proceedings have otherwise been definitively concluded or where the proceedings have been suspended.
 
 (4) Where a decision on a question in dispute delivered by the Administrative Review Tribunal or the Court of Appeal has been rendered final and conclusive in terms of article 38 of the Income Tax Management Act:
-
-*19*
 
 *Cap. 372.*
 
@@ -480,10 +424,6 @@ Provided that the time within which an appeal may be made in accordance with art
 (c) the dispute resolution process under regulation 11 is to be terminated if the decision was rendered at any time after an affected person has made a request under regulation 11(1) but before the Advisory Commission or the Alternative Dispute Resolution Commission has delivered its opinion to the competent authorities of the other Member States concerned, in conformity with regulation 19, in which case the Commissioner is to inform the competent authorities of the other Member States concerned and the Advisory Commission or the Alternative Dispute Resolution Commission of the effect of that decision.
 
 (5) The submission of a complaint as provided under regulation 4 shall put an end to any other ongoing proceedings under the mutual agreement procedure or dispute resolution procedure under an agreement or convention that is being interpreted or applied in relation to the relevant question in dispute. Such other ongoing proceedings concerning the relevant question in dispute shall come to an end with effect from the date of the first receipt of the complaint by any one (1) of the competent authorities of the Member States concerned.
-
-*20*
-
-[S.L. 123.191 MECHANISMS DIRECTIVE IMPLEMENTATION
 
 (6) By way of derogation from regulation 11, the Commissioner may deny access to the dispute resolution procedure under that regulation in cases where penalties were imposed under the Income Tax Acts in relation to the adjusted income or capital for tax fraud, wilful default and gross negligence. Where judicial or administrative proceedings were commenced that could potentially lead to such penalties, and these proceedings are being conducted simultaneously with any of the proceedings referred to in these regulations, the Commissioner may stay the proceedings under these regulations as from the date of acceptance of the complaint until the date of the final outcome of those proceedings.
 
@@ -505,9 +445,7 @@ the affected person may submit the complaints, replies to a request for addition
 
 (4) When the Commissioner receives from an affected person referred to in sub-regulation (1) additional information requested under regulation 5(2), he shall transmit a copy to the competent authorities of all the other Member States concerned at the same time.
 
-*21*
-
-MECHANISMS DIRECTIVE IMPLEMENTATION [S.L. 123.191 (5) Once a submission has been made to the competent authorities of all Member States of a copy of additional information received by the Commissioner as aforesaid or received by the competent authority of any other Member State concerned in terms of provisions of the law of that Member State corresponding to regulation 5(2), it shall be deemed that additional information has been received by all Member States concerned as at the date of such receipt of information.
+(5) Once a submission has been made to the competent authorities of all Member States of a copy of additional information received by the Commissioner as aforesaid or received by the competent authority of any other Member State concerned in terms of provisions of the law of that Member State corresponding to regulation 5(2), it shall be deemed that additional information has been received by all Member States concerned as at the date of such receipt of information.
 
 ## 23. Publicity.
 

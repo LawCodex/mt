@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # University of Malta Matriculation and Secondary Education Certificate Examination Fees Regulations (S.L. 327.38)
 
-UNIVERSITY OF MALTA MATRICULATION AND SECOND-
-
-*1*
-
-ARY EDUCATION CERTIFICATE EXAMINATION FEES [S.L.327.38
-
 **SUBSIDIARY LEGISLATION 327.38**
 
 **UNIVERSITY OF MALTA MATRICULATION AND**

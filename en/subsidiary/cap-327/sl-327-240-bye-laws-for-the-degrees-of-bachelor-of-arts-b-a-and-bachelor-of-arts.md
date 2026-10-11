@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degrees of Bachelor of Arts - B.A. - and Bachelor of Arts (Honours) - B.A. (Hons) under the auspices of the Faculty of Arts (S.L. 327.240)
 
-BACHELOR OF ARTS (HONOURS) - B.A. (HONS) -
-
-*1*
-
-UNDER THE AUSPICES OF FACULTY OF ARTS [S.L.327.240
-
 **SUBSIDIARY LEGISLATION 327.240**
 
 BYE-LAWS FOR THE DEGREES OF BACHELOR OF ARTS - B.A. - AND BACHELOR OF ARTS
@@ -56,10 +50,6 @@ LEGAL NOTICE 11 of 2005, as amended by Legal Notices 112 of 2008, 290 of 2009, 3
 
 These bye-laws shall be applicable for courses commencing from October 2021 or later.
 
-*2*
-
-BACHELOR OF ARTS (HONOURS) - B.A. (HONS) - [S.L.327.240 UNDER THE AUSPICES OF FACULTY OF ARTS
-
 ## 3. Areas of study.
 
 *Amended by: L.N. 112 of 2008; L.N. 290 of 2009. Substituted by: L.N. 384 of 2010; L.N. 38 of 2013. Amended by: L.N. 324 of 2013; L.N. 211 of 2014; L.N. 95 of 2015; L.N. 336 of 2015; L.N. 145 of 2019; L.N. 306 of 2020; L.N. 322 of 2022.*
@@ -92,11 +82,7 @@ Sociology, Philosophy, Geography, Economics, History, Home Economics & Human Eco
 
 (d) for Spanish and Latin American Studies either as a Main Area of study or as a Subsidiary area of study, a pass at Grade C or better at Advanced Matriculation Level, or equivalent, in Spanish;
 
-(e) for Communication Studies either as a Main area of study or as a Subsidiary area of study, a pass at BACHELOR OF ARTS (HONOURS) - B.A. (HONS) -
-
-*3*
-
-UNDER THE AUSPICES OF FACULTY OF ARTS [S.L.327.240 Intermediate Matriculation Level in English, or its equivalent;
+(e) for Communication Studies either as a Main area of study or as a Subsidiary area of study, a pass at Intermediate Matriculation Level in English, or its equivalent;
 
 (f) for History, and European and Global History either as a Main area of study or as a Subsidiary area of study, a pass at Advanced Matriculation Level, or equivalent, in History; and
 
@@ -110,13 +96,9 @@ UNDER THE AUSPICES OF FACULTY OF ARTS [S.L.327.240 Intermediate Matriculation Le
 
 (3)‡ If the number of applicants for the area of Fine Arts, exceeds the number of available places, applicants shall be placed in a ranking order in accordance with the criteria approved by Senate. The University Admissions Board, after seeking the advice of the Faculty Admissions Committee, shall first consider eligible applicants whose qualifications were obtained in the Matriculation Certificate Examination or from another recognised examining board, if the Faculty Admissions Committee is satisfied that the qualifications presented are comparable in content and equivalent in standard to the Matriculation Certificate Examination in the same subject/s. For the purpose of selection, applicants whose qualifications were obtained by 31 August preceding the commencement of the Course and pass the interview as stipulated in sub-paragraph (h) of paragraph (1) of this bye-law, shall be considered first. If vacant places are still available, applicants who satisfy all entry requirements after the 31 August and before the 30 September shall be considered to take up the remaining places.
 
-(4) In accordance with the provisions of regulation 16 (1) of the BACHELOR OF ARTS (HONOURS) - B.A. (HONS) - [S.L.327.240 UNDER THE AUSPICES OF FACULTY OF ARTS
+(4) In accordance with the provisions of regulation 16 (1) of the Admissions Regulations, the Admissions Board, acting on the advice of the Board, may admit applicants in possession of a Diploma of this University into the second year of the Course for the Honours degree; provided that the Diploma falls within one of the areas of study specified in paragraph (1) of bye-law 3, and provided also that the average mark for study-units covered in the Diploma is not less than 65%. Such students may be required to follow a specific programme of study or additional study-units as directed by the Board of Studies.
 
 \*For Courses Commencing October 2019 or Later †For Courses Commencing October 2019 or Later ‡For Courses Commencing October 2019 or Later
-
-Admissions Regulations, the Admissions Board, acting on the advice of the Board, may admit applicants in possession of a Diploma of this University into the second year of the Course for the Honours degree; provided that the Diploma falls within one of the areas of study specified in paragraph (1) of bye-law 3, and provided also that the average mark for study-units covered in the Diploma is not less than 65%. Such students may be required to follow a specific programme of study or additional study-units as directed by the Board of Studies.
-
-*4*
 
 ## 6. Course duration.
 
@@ -144,13 +126,9 @@ Applicants shall be required to indicate their choice of areas of study at the t
 
 The Board shall publish the course programme for the Degree and the programme of study for each area, as Main Honours, Main and/or as Subsidiary as applicable, at the commencement of each course. Subject to changes that the Board may, with the approval of Senate, be constrained to make, students are bound to follow the study-units and obtain the credits as indicated in the course programme and in the programmes of study of the areas of study they are following for the Degree:
 
-Provided that course programmes and programmes of study BACHELOR OF ARTS (HONOURS) - B.A. (HONS) -
+Provided that course programmes and programmes of study are drawn up in accordance with the relevant provisions of the Principal Regulations.
 
 \*Commences in 1st July 2019
-
-*5*
-
-UNDER THE AUSPICES OF FACULTY OF ARTS [S.L.327.240 are drawn up in accordance with the relevant provisions of the Principal Regulations.
 
 ## 10. Third year of the programmes of study.
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation relief on Taxes on Income with the Kingdom of Morocco Order (S.L. 123.100)
 
-*1*
-
-WITH THE KINGDOM OF MOROCCO [S.L.123.100
-
 **SUBSIDIARY LEGISLATION 123.100**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -58,8 +54,6 @@ It is hereby declared:
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Convention has entered into force on the 15th June, 2007.
-
-2 [S.L.123.100 WITH THE KINGDOM OF MOROCCO
 
 ## SCHEDULE — CONVENTION — BETWEEN
 
@@ -125,9 +119,7 @@ vii the tax on gains of movable values and other titles of capital and debt-clai
 
 ## 4.
 
-The Convention shall apply also to any identical or substantially similar taxes which are imposed after the date of signature of the Convention in addition to, or in place of, the existing taxes. The competent authorities of the Contracting States WITH THE KINGDOM OF MOROCCO [S.L.123.100 3
-
-shall notify each other of any substantial changes which have been made in their respective taxation laws.
+The Convention shall apply also to any identical or substantially similar taxes which are imposed after the date of signature of the Convention in addition to, or in place of, the existing taxes. The competent authorities of the Contracting States shall notify each other of any substantial changes which have been made in their respective taxation laws.
 
 ARTICLE 3
 
@@ -183,9 +175,7 @@ the term "competent authority" means:
 
 i) in the case of Malta, the Minister responsible for finance or his authorised representative;
 
-ii) in the case of Morocco, the Minister of Economy and Finance or 4 [S.L.123.100 WITH THE KINGDOM OF MOROCCO
-
-his authorised representative.
+ii) in the case of Morocco, the Minister of Economy and Finance or his authorised representative.
 
 \2. As regards the application of the Convention by a Contracting State any term not defined therein shall, unless the context otherwise requires, have the meaning which it has under the law of that Contracting State concerning the taxes to which the Convention applies.
 
@@ -223,9 +213,7 @@ d) a factory;
 
 e) a workshop;
 
-f) a mine, an oil or gas well, a quarry or any other place of extraction of WITH THE KINGDOM OF MOROCCO [S.L.123.100 5
-
-natural resources including an offshore drilling site;
+f) a mine, an oil or gas well, a quarry or any other place of extraction of natural resources including an offshore drilling site;
 
 g) a sales outlet;
 
@@ -259,9 +247,7 @@ Notwithstanding the preceding provisions of this Article, an insurance enterpris
 
 ## 7.
 
-An enterprise shall not be deemed to have a permanent establishment in a Contracting State merely because it carries on business in that State through a broker, general commission agent or any other agent of an independent status, provided that such persons are acting in the ordinary course of their business. However, when the activities of such an agent are devoted wholly or almost wholly 6 [S.L.123.100 WITH THE KINGDOM OF MOROCCO
-
-on behalf of that enterprise, he will not be considered an agent of an independent status within the meaning of this paragraph.
+An enterprise shall not be deemed to have a permanent establishment in a Contracting State merely because it carries on business in that State through a broker, general commission agent or any other agent of an independent status, provided that such persons are acting in the ordinary course of their business. However, when the activities of such an agent are devoted wholly or almost wholly on behalf of that enterprise, he will not be considered an agent of an independent status within the meaning of this paragraph.
 
 ## 8.
 
@@ -289,9 +275,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \2. Subject to the provisions of paragraph 3, where an enterprise of a Contracting Sate carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment.
 
-\3. a) In determining the profits of a permanent establishment, there shall be allowed as deductions expenses which are incurred for the purposes of the permanent establishment, including executive and general administrative expenses so incurred, whether in the State in which the WITH THE KINGDOM OF MOROCCO [S.L.123.100 7
-
-permanent establishment is situated or elsewhere.
+\3. a) In determining the profits of a permanent establishment, there shall be allowed as deductions expenses which are incurred for the purposes of the permanent establishment, including executive and general administrative expenses so incurred, whether in the State in which the permanent establishment is situated or elsewhere.
 
 b) In the case of Morocco, no such deduction shall be allowed in respect of payments made by the permanent establishment to the head office of the enterprise or to any of its branches, such as honoraria or commissions. As regards interests on payments made in advance or amounts lent to the permanent establishment, a deduction shall be allowed, but the amount shall not exceed that which results from the computation of the interest in accordance with the provisions of the domestic law. This limitation concerning interests shall not apply to banking establishments.
 
@@ -323,8 +307,6 @@ If the place of effective management of a shipping enterprise is aboard a ship, 
 
 a) an enterprise of a Contracting State participates directly or indirectly in the management, control or capital of an enterprise of the other Contracting State; or
 
-8 [S.L.123.100 WITH THE KINGDOM OF MOROCCO
-
 b) the same persons participate directly or indirectly in the management, control or capital of an enterprise of a Contracting State and an enterprise of the other Contracting State,
 
 and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
@@ -349,9 +331,7 @@ ii) 10 per cent of the gross amount of the dividends in all other cases; b) wher
 
 \4. The term "dividends" as used in this Article means income from shares, "jouissance" shares or "jouissance" rights, mining shares, founders’ shares or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
 
-\5. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the WITH THE KINGDOM OF MOROCCO [S.L.123.100 9
-
-other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
+\5. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \6. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company’s undistributed profits to a tax on the company’s undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
 
@@ -375,9 +355,7 @@ b) Malta and paid to the Government of the Kingdom of Morocco or to the Central 
 
 \5. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the othe r Contracting State in whic h the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
-\6. Interest shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. 10 [S.L.123.100 WITH THE KINGDOM OF MOROCCO
-
-Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment or a fixed base, then such interest shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
+\6. Interest shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment or a fixed base, then such interest shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
 \7. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
@@ -395,9 +373,7 @@ Where, however, the person paying the interest, whether he is a resident of a Co
 
 \5. Royalties shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
-\6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article WITH THE KINGDOM OF MOROCCO [S.L.123.100 11
-
-shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
+\6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
 **ARTICLE 13**
 
@@ -428,8 +404,6 @@ shall apply only to the last-mentioned amount. In such case, the excess part of 
 \1. Subject to the provisions of Articles 16, 18, 19 and 21, salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
 
 \2. Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in the other Contracting State shall be taxable only in the first-mentioned State if:
-
-12 [S.L.123.100 WITH THE KINGDOM OF MOROCCO
 
 a) the recipient is present in the other State for a period or periods not exceeding in the aggregate 183 days in any twelve-month period commencing or ending in the fiscal year concerned; and
 
@@ -465,8 +439,6 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 \3. Notwithstanding the provisions of paragraph 1, pensions paid and other payments made under the social security legislation of a Contracting State shall be taxable only in that State.
 
-WITH THE KINGDOM OF MOROCCO [S.L.123.100 13
-
 **ARTICLE 19**
 
 **GOVERNMENT SERVICE**
@@ -499,8 +471,6 @@ Payments which a student or business apprentice who is or was immediately before
 
 \2. The provisions of paragraph 1 shall not apply to remuneration received in respect of research works undertaken not in the public interest but chiefly for the private benefit of a specific person or persons.
 
-14 [S.L.123.100 WITH THE KINGDOM OF MOROCCO
-
 **ARTICLE 22**
 
 **OTHER INCOME**
@@ -529,9 +499,7 @@ Subject to the provisions of the law of Morocco, where a resident of Morocco der
 
 **NON-DISCRIMINATION**
 
-\1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to WITH THE KINGDOM OF MOROCCO [S.L.123.100 15
-
-residence, are or may be subjected. This provision shall, notwithstanding the provisions of Article 1, also apply to persons who are not residents of one or both of the Contracting States.
+\1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected. This provision shall, notwithstanding the provisions of Article 1, also apply to persons who are not residents of one or both of the Contracting States.
 
 \2. Stateless persons who are residents of a Contracting State shall not be subjected in either Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of the State concerned in the same circumstances are or may be subjected.
 
@@ -551,9 +519,7 @@ residence, are or may be subjected. This provision shall, notwithstanding the pr
 
 \3. The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Convention. They may also consult together for the elimination of double taxation in cases not provided for in the Convention.
 
-\4. The competent authorities of the Contracting States may communicate with each other directly, including through a joint commission consisting of themselves or their representatives, for the purpose of reaching an agreement in the sense of the 16 [S.L.123.100 WITH THE KINGDOM OF MOROCCO
-
-preceding paragraphs.
+\4. The competent authorities of the Contracting States may communicate with each other directly, including through a joint commission consisting of themselves or their representatives, for the purpose of reaching an agreement in the sense of the preceding paragraphs.
 
 **ARTICLE 26**
 
@@ -587,9 +553,7 @@ in respect of taxes on income derived during any calendar year or accounting per
 
 b) in Morocco:
 
-i) in respect of taxes withheld at source, for amounts paid or credited on or after the first day of January of the first calendar WITH THE KINGDOM OF MOROCCO [S.L.123.100 17
-
-year following that in which this Convention enters into force; and
+i) in respect of taxes withheld at source, for amounts paid or credited on or after the first day of January of the first calendar year following that in which this Convention enters into force; and
 
 ii) in respect of other taxes, for any taxable year beginning on or after the first day of January of the first calendar year following that in which this Convention enters into force.
 
@@ -620,8 +584,6 @@ Done in duplicate at Morocco this 26th day of October 2001 in the Arabic and Eng
 Joe Borg Mohamed Benaissa
 
 Minister for Foreign Affairs Minister for Foreign Affairs
-
-18 [S.L.123.100 WITH THE KINGDOM OF MOROCCO
 
 **PROTOCOL**
 

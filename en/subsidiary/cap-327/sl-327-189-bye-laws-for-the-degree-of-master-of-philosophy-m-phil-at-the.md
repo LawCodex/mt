@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Philosophy - M.Phil. - at the Institute for Masonry and Construction Research (S.L. 327.189)
 
-DEGREE OF MASTER OF PHILOSOPHY - M.PHIL. - AT
-
-THE INSTITUTE FOR MASONRY AND
-
-*1*
-
-CONSTRUCTION RESEARCH [S.L.327.189
-
 **SUBSIDIARY LEGISLATION 327.189**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**

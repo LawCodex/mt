@@ -1,6 +1,6 @@
 ---
 title: "British Judgments Reciprocal Enforcement Order - Tasmania and its Dependencies"
-identifier: "S.L. 52.7"
+identifier: "S.L. 52.07"
 eli: "https://legislation.mt/eli/sl/52.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/52.7/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# British Judgments Reciprocal Enforcement Order - Tasmania and its Dependencies (S.L. 52.7)
-
-BRITISH JUDGMENTS RECIPROCAL ENFORCEMENT -
-
-*1*
-
-TASMANIA AND ITS DEPENDENCIES [ S.L.52.07
+# British Judgments Reciprocal Enforcement Order - Tasmania and its Dependencies (S.L. 52.07)
 
 **SUBSIDIARY LEGISLATION 52.07**
 

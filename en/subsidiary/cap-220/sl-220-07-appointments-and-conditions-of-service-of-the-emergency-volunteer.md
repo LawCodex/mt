@@ -1,6 +1,6 @@
 ---
 title: "Appointments and Conditions of Service of the Emergency Volunteer Reserve Force Regulations"
-identifier: "S.L. 220.7"
+identifier: "S.L. 220.07"
 eli: "https://legislation.mt/eli/sl/220.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/220.7/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Appointments and Conditions of Service of the Emergency Volunteer Reserve Force Regulations (S.L. 220.7)
-
-*1*
-
-OF THE VOLUNTEER RESERVE FORCE [S.L.220.07
+# Appointments and Conditions of Service of the Emergency Volunteer Reserve Force Regulations (S.L. 220.07)
 
 **SUBSIDIARY LEGISLATION 220.07**
 
@@ -71,11 +67,7 @@ The title of these regulations is the Appointments and Conditions of Service of 
 
 (a) cause to be advertised in the Gazette any vacancies in the force it is intended to fill;
 
-(b) call for applications by prospective candidates for commissions in the force with a view to obtaining a [S.L.220.07 OF THE VOLUNTEER RESERVE FORCE
-
-commission in the force;
-
-*2*
+(b) call for applications by prospective candidates for commissions in the force with a view to obtaining a commission in the force;
 
 (c) determine the qualifications and other conditions for the grant of commissions in the force;
 
@@ -113,11 +105,7 @@ The procedure for enlisting a person in the force shall be the following:
 
 (b) the recruiting officer shall warn the person to be enlisted that if he makes any false answer to the questions to be read out to him he will be liable to be punished as provided by the Act;
 
-(c) he shall then read, or cause to be read, to that person the questions set out in the attestation paper as in the Third Schedule, and satisfy himself that he understands each of those questions and that his answers thereto have been duly recorded in the OF THE VOLUNTEER RESERVE FORCE [S.L.220.07
-
-attestation paper;
-
-*3*
+(c) he shall then read, or cause to be read, to that person the questions set out in the attestation paper as in the Third Schedule, and satisfy himself that he understands each of those questions and that his answers thereto have been duly recorded in the attestation paper;
 
 (d) he shall then ask that person to make and sign the declaration set out in the attestation paper as to the truth of the answers and shall administer to him the oath of allegiance set out in the attestation paper;
 
@@ -163,11 +151,7 @@ Provided that members of the Individual Reserve Force or those who have terminat
 
 ### 11. Purchase of discharge.
 
-Discharge from the force may be purchased against such [S.L.220.07 OF THE VOLUNTEER RESERVE FORCE
-
-payment as the Minister may from time to time determine.
-
-*4*
+Discharge from the force may be purchased against such payment as the Minister may from time to time determine.
 
 ### 12. Promotion.
 
@@ -205,11 +189,7 @@ and in respect of whom the provisions of sub-regulation (2) have been observed, 
 
 (iii) by a court-martial to a period of detention which on confirmation is for twelve months or more, shall be discharged unless in the opinion of the Commander his retention is desirable in the interests of the service;
 
-(e) a man of the force who has been convicted by a civil court or by a court-martial of an offence involving - OF THE VOLUNTEER RESERVE FORCE [S.L.220.07
-
-(i) serious dishonesty or violence; or
-
-*5*
+(e) a man of the force who has been convicted by a civil court or by a court-martial of an offence involving - (i) serious dishonesty or violence; or
 
 (ii) disgraceful conduct of a cruel, indecent or unnatural kind; or
 
@@ -249,11 +229,7 @@ Call out of reservists in case of national missions or any such other task shall
 
 Subject to the provisions of article 36 of the Act, volunteers of the force shall be required to undergo minimum training consisting of two hundred and forty hours of training per year, with each training session being of not less than four consecutive hours but not in excess of eight continuous days:
 
-Provided that during the first year of engagement, training periods shall consist mainly of basic soldiering skills. During the second and subsequent years, training shall be made up of specialised skills training which may also include on the job [S.L.220.07 OF THE VOLUNTEER RESERVE FORCE
-
-training with any body of the force.
-
-*6*
+Provided that during the first year of engagement, training periods shall consist mainly of basic soldiering skills. During the second and subsequent years, training shall be made up of specialised skills training which may also include on the job training with any body of the force.
 
 **Discipline**
 
@@ -303,11 +279,11 @@ Members of the force are not entitled to terminal leave. 21. All leave shall be 
 
 (3) Officers and men who are unable to report for duty due to illness or injury shall be visited by a medical officer during working hours.
 
-*7*
+### 23. Medical treatment.
 
-OF THE VOLUNTEER RESERVE FORCE [S.L.220.07 23. When members of the force are called out on permanent service in terms of article 32 of the Act or service in terms of article 35A of the Act, they will be eligible for all medical treatment as applicable to members of the Regular Force.
+*Amended by: L.N. 11 of 2016.*
 
-*Medical treatment. Amended by: L.N. 11 of 2016.*
+When members of the force are called out on permanent service in terms of article 32 of the Act or service in terms of article 35A of the Act, they will be eligible for all medical treatment as applicable to members of the Regular Force.
 
 ## FIRST SCHEDULE — Oath of Allegiance to be taken by Officer on Commissioning
 
@@ -317,13 +293,11 @@ I ........................... swear/solemnly declare, that I will be faithful an
 
 The said ...................................... has taken the oath/solemnly declared before me at ................ on this ............ day of .............. of the year .....................
 
-.................................... (Signature and authority of person administering oath) [S.L.220.07 OF THE VOLUNTEER RESERVE FORCE
+.................................... (Signature and authority of person administering oath) SECOND SCHEDULE
 
-## SECOND SCHEDULE — Notice Paper
+**Notice Paper**
 
 *Amended by: L.N. 411 of 2007; L.N. 11 of 2016.*
-
-*8*
 
 Notice to be given under article 6(1) of the Malta Armed Forces Act to a person offering to enlist in the Volunteer Reserve Force. This paper sets out the general conditions of the various enlistments and the questions you will be required to answer before the officer who will attest you for the Volunteer Regular Force.
 
@@ -363,11 +337,7 @@ No guarantee can be given that you will be employed on any particular duties.
 
 ### 7.
 
-You will be liable to forfeit service if you are found guilty of, or confess to, deserting the service. Such forfeit service will not count towards the period of service for which you enlisted and consequently the date of your discharge, and will alter the dates of the ends of the periods on which you have a right to terminate your OF THE VOLUNTEER RESERVE FORCE [S.L.220.07
-
-service, and the dates on which notice should be given.
-
-*9*
+You will be liable to forfeit service if you are found guilty of, or confess to, deserting the service. Such forfeit service will not count towards the period of service for which you enlisted and consequently the date of your discharge, and will alter the dates of the ends of the periods on which you have a right to terminate your service, and the dates on which notice should be given.
 
 ### 8.
 
@@ -390,8 +360,6 @@ If, when you would otherwise become entitled to be discharged, you are serving w
 (b) while soldiers in the reserve are called out for permanent service,
 
 you may be retained with the Force for a further period not exceeding twelve months.
-
-10 [S.L.220.07 OF THE VOLUNTEER RESERVE FORCE
 
 Amended by: THIRD SCHEDULE
 
@@ -435,8 +403,6 @@ N.I. No.
 
 Father’s name
 
-OF THE VOLUNTEER RESERVE FORCE [S.L.220.07 11
-
 Q. 7. Are you single, Q. 8. How many children Q. 9. What is your married, widowed? are dependent on profession? you?
 
 Q. 10. Do you belong to, or have you ever served in the Armed Forces of Malta or of a Commonwealth Country or disciplined force? If so, state which, and the periods of service and the reasons for and dates of discharge.
@@ -461,7 +427,7 @@ I, ....................................... swear/solemnly declare, that I will b
 
 (So help me God)
 
-..................................... .......................... 12 [S.L.220.07 OF THE VOLUNTEER RESERVE FORCE
+..................................... ..........................
 
 **signature date**
 
@@ -498,8 +464,6 @@ follows:
 Date ...............................
 
 Signature of Medical Officer/s .................................
-
-OF THE VOLUNTEER RESERVE FORCE [S.L.220.07 13
 
 .
 

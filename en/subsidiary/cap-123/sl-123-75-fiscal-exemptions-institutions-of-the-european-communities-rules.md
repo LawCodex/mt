@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Fiscal Exemptions (Institutions of the European Communities) Rules (S.L. 123.75)
 
-FISCAL EXEMPTIONS
-
-*1*
-
-(INSTITUTIONS OF THE EUROPEAN COMMUNITIES ) [S.L.123.75
-
 **SUBSIDIARY LEGISLATION 123.75**
 
 **FISCAL EXEMPTIONS (INSTITUTIONS OF THE**

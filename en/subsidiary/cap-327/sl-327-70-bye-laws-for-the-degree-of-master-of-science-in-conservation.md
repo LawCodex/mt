@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science in Conservation Technology for Masonry Buildings under the auspices of the Faculty for the Built Environment (S.L. 327.70)
 
-TECHNOLOGY FOR MASONRY BUILDINGS UNDER THE
-
-*1*
-
-AUSPICES OF THE FACULTY FOR THE BUILT ENVIRONMENT [ S.L.327.70
-
 **SUBSIDIARY LEGISLATION 327.70**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -65,11 +59,7 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 ## 5. Programme of study.
 
-(1) The programme of study shall comprise study-units to which a total of 90 credits are assigned, of which 60 credits are TECHNOLOGY FOR MASONRY BUILDINGS UNDER THE [ S.L.327.70 AUSPICES OF THE FACULTY FOR THE BUILT ENVIRONMENT
-
-assigned to taught study-units and 30 credits assigned to the dissertation study-unit.
-
-*2*
+(1) The programme of study shall comprise study-units to which a total of 90 credits are assigned, of which 60 credits are assigned to taught study-units and 30 credits assigned to the dissertation study-unit.
 
 (2) Students who obtain the 60 credits assigned to the taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the Postgraduate Diploma.
 
@@ -101,13 +91,7 @@ Students shall be allowed to proceed to the dissertation study-unit subject to o
 
 (2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies, whether the student is following the course on a full-time or a part-time basis. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
-(i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal TECHNOLOGY FOR MASONRY BUILDINGS UNDER THE
-
-*3*
-
-AUSPICES OF THE FACULTY FOR THE BUILT ENVIRONMENT [ S.L.327.70
-
-Regulations; and
+(i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 
 (ii) the Board may not terminate studies prematurely according to (b) until it has first given the student a chance to be heard.
 

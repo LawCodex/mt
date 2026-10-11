@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Philosophy under the auspices of the Faculty of Education (S.L. 327.166)
 
-*1*
-
-THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.166
-
 **SUBSIDIARY LEGISLATION 327.166**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR OF**
@@ -71,11 +67,9 @@ These bye-laws shall be applicable from October 2008 onwards.
 
 \*These bye-laws have been repealed by Legal Notice 221 of 2024.
 
-*2*
+## 5. Faculty Doctoral Committee.
 
-[S.L.327.166 THE AUSPICES OF THE FACULTY OF EDUCATION 5. The Board shall recommend to Senate the appointment of a Faculty Doctoral Committee composed as follows:
-
-*Faculty Doctoral Committee.*
+The Board shall recommend to Senate the appointment of a Faculty Doctoral Committee composed as follows:
 
 The Dean of the Faculty or delegate (chairman)
 

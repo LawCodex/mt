@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (The Socialist Republic of Viet Nam) Order (S.L. 123.172)
 
-*1*
-
-(THE SOCIALIST REPUBLIC OF VIET NAM) [S.L.123.172
-
 **SUBSIDIARY LEGISLATION 123.172**
 
 DOUBLE TAXATION RELIEF (TAXES ON INCOME) (THE SOCIALIST REPUBLIC OF VIET NAM)
@@ -46,8 +42,6 @@ It is hereby declared:
 (b) that it is expedient that those arrangements should have effect following the entry into force of the Agreement and in accordance with the relevant provisions of the Agreement;
 
 (c) that the Agreement has entered into force on 25th November, 2016.
-
-2 [S.L.123.172 (THE SOCIALIST REPUBLIC OF VIET NAM)
 
 ## SCHEDULE — Article 2 — AGREEMENT
 
@@ -117,8 +111,6 @@ The Agreement shall apply also to any identical or substantially similar taxes t
 
 \1. For the purposes of this Agreement, unless the context otherwise requires:
 
-(THE SOCIALIST REPUBLIC OF VIET NAM) [S.L.123.172 3
-
 (a) the term "Viet Nam" means the Socialist Republic of Viet Nam; when used in a geographical sense, it means its land territory, islands, internal waters, territorial sea and airspace above them, the maritime areas beyond territorial sea including seabed and subsoil thereof over which the Socialist Republic of Viet Nam exercises sovereignty, sovereign rights and jurisdiction in accordance with national legislation and international law;
 
 (b) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
@@ -151,9 +143,7 @@ The Agreement shall apply also to any identical or substantially similar taxes t
 
 **RESIDENT**
 
-\1. For the purposes of this Agreement, the term "resident of a Contracting 4 [S.L.123.172 (THE SOCIALIST REPUBLIC OF VIET NAM)
-
-State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of incorporation (or registration), place of management, or any other criterion of a similar nature, and also includes that State or local authority thereof. This term, however, does not include any person who is liable to tax in that State in respect only of income from sources in that State.
+\1. For the purposes of this Agreement, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of incorporation (or registration), place of management, or any other criterion of a similar nature, and also includes that State or local authority thereof. This term, however, does not include any person who is liable to tax in that State in respect only of income from sources in that State.
 
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
@@ -189,8 +179,6 @@ State" means any person who, under the laws of that State, is liable to tax ther
 
 \3. The term "permanent establishment" likewise encompasses:
 
-(THE SOCIALIST REPUBLIC OF VIET NAM) [S.L.123.172 5
-
 (a) a building site, construction, assembly or installation project or supervisory activities in connection therewith, but only if such site, project or activities last more than six months;
 
 (b) the furnishing of services, including consultancy services, by an enterprise through employees or other personnel engaged by the enterprise for such purpose, but only if activities of that nature continue (for the same or a connected project) within a Contracting State for a period or periods aggregating more than six months within any twelve-month period; and
@@ -223,9 +211,7 @@ Notwithstanding the provisions of paragraphs 1 and 2, where a person -other than
 
 ## 6.
 
-An enterprise of a Contracting State shall not be deemed to have a permanent establishment in the other Contracting State merely because it carries on business in that other Contracting State through a broker, general commission agent 6 [S.L.123.172 (THE SOCIALIST REPUBLIC OF VIET NAM)
-
-or any other agent of an independent status, provided that such persons are acting in the ordinary course of their business. However, when the activities of such an agent are devoted wholly or almost wholly on behalf of that enterprise, and conditions are made or imposed between that enterprise and the agent in their commercial and financial relations which differ from those which would have been made between independent enterprises, he will not be considered an agent of an independent status within the meaning of this paragraph.
+An enterprise of a Contracting State shall not be deemed to have a permanent establishment in the other Contracting State merely because it carries on business in that other Contracting State through a broker, general commission agent or any other agent of an independent status, provided that such persons are acting in the ordinary course of their business. However, when the activities of such an agent are devoted wholly or almost wholly on behalf of that enterprise, and conditions are made or imposed between that enterprise and the agent in their commercial and financial relations which differ from those which would have been made between independent enterprises, he will not be considered an agent of an independent status within the meaning of this paragraph.
 
 ## 7.
 
@@ -253,9 +239,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 (b) sales in that other Contracting State of goods or merchandise of the same or similar kind as those sold through that permanent establishment. It is understood that the profits of an enterprise shall include profits attributable to sales of goods and merchandise referred to in this sub-paragraph only when the competent authority of the Contracting State in which a permanent establishment of the enterprise is situated considers that the enterprise has entered into an arrangement in relation to the sales of those goods or merchandise to avoid taxation of those profits in that Contracting State.
 
-\2. Subject to the provisions of paragraph 3, where an enterprise of a (THE SOCIALIST REPUBLIC OF VIET NAM) [S.L.123.172 7
-
-Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment.
+\2. Subject to the provisions of paragraph 3, where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment.
 
 \3. In determining the profits of a permanent establishment, there shall be allowed as deductions expenses which are incurred for the purposes of the business of the permanent establishment, including executive and general administrative expenses so incurred, whether in the State in which the permanent establishment is situated or elsewhere. However, no such deduction shall be allowed in respect of amounts, if any, paid (otherwise than towards reimbursement of actual expenses) by the permanent establishment to the head office of the enterprise or any of its other offices, by way of royalties, fees or other similar payments in return for the use of patents or other rights, or by way of commission, for specific services performed or for management, or, except in the case of a banking enterprise, by way of interest on moneys lent to the permanent establishment. Likewise, no account shall be taken, in the determination of the profits of a permanent establishment, for amounts charged (otherwise than towards reimbursement of actual expenses), by the permanent establishment to the head office of the enterprise or any of its other offices, by way of royalties, fees or other similar payments in return for the use of patents or other rights, or by way of commission for specific services performed or for management, or, except in the case of banking enterprise by way of interest on moneys lent to the head office of the enterprise or any of its other offices.
 
@@ -280,8 +264,6 @@ Contracting State carries on business in the other Contracting State through a p
 \1. Where
 
 (a) an enterprise of a Contracting State participates directly or indirectly in the management, control or capital of an enterprise of the other Contracting State, or
-
-8 [S.L.123.172 (THE SOCIALIST REPUBLIC OF VIET NAM)
 
 (b) the same persons participate directly or indirectly in the management, control or capital of an enterprise of a Contracting State and an enterprise of the other Contracting State,
 
@@ -309,9 +291,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \3. The term "dividends" as used in this Article means income from shares, "jouissance" shares or "jouissance" rights, mining shares, founders’ shares or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
 
-\4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident (THE SOCIALIST REPUBLIC OF VIET NAM) [S.L.123.172 9
-
-through a permanent establishment situated therein, or performs in that other Contracting State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7, or Article 15, as the case may be, shall apply.
+\4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident through a permanent establishment situated therein, or performs in that other Contracting State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7, or Article 15, as the case may be, shall apply.
 
 \5. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company’s undistributed profits to a tax on the company’s undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
 
@@ -333,9 +313,7 @@ through a permanent establishment situated therein, or performs in that other Co
 
 \5. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other Contracting State independent personal services from a fixed base situated therein and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 15, as the case may be, shall apply.
 
-\6. Interest shall be deemed to arise in a Contracting State when the payer is that State itself, a local authority, or entity thereof, or a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in 10 [S.L.123.172 (THE SOCIALIST REPUBLIC OF VIET NAM)
-
-connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment or fixed base, then such interest shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
+\6. Interest shall be deemed to arise in a Contracting State when the payer is that State itself, a local authority, or entity thereof, or a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment or fixed base, then such interest shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
 ## 7.
 
@@ -361,8 +339,6 @@ Where, by reason of a special relationship between the payer and the beneficial 
 
 \5. Royalties shall be deemed to arise in a Contracting State when the payer is that State itself, a local authority, or entity thereof, or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or fixed base in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
-(THE SOCIALIST REPUBLIC OF VIET NAM) [S.L.123.172 11
-
 \6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Agreement.
 
 **Article 13**
@@ -387,9 +363,7 @@ Where, by reason of a special relationship between the payer and the beneficial 
 
 \1. Gains derived by a resident of a Contracting State from the alienation of immovable property referred to in Article 6 and situated in the other Contracting State may be taxed in that other State.
 
-\2. Gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has 12 [S.L.123.172 (THE SOCIALIST REPUBLIC OF VIET NAM)
-
-in the other Contracting State or of movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing independent personal services, including such gains from the alienation of such a permanent establishment (alone or with the whole enterprise) or of such fixed base, may be taxed in that other State.
+\2. Gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or of movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing independent personal services, including such gains from the alienation of such a permanent establishment (alone or with the whole enterprise) or of such fixed base, may be taxed in that other State.
 
 \3. Gains derived by an enterprise of a Contracting State from the alienation of ships or aircraft operated in international traffic, or from movable property pertaining to the operation of such ships or aircraft, shall be taxable only in that State.
 
@@ -416,8 +390,6 @@ in the other Contracting State or of movable property pertaining to a fixed base
 **DEPENDENT PERSONAL SERVICES**
 
 \1. Subject to the provisions of Articles 17, 19, 20 and 21, salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
-
-(THE SOCIALIST REPUBLIC OF VIET NAM) [S.L.123.172 13
 
 \2. Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in the other Contracting State shall be taxable only in the first-mentioned State if:
 
@@ -453,8 +425,6 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 \2. Notwithstanding the provisions of paragraph 1, pensions paid and other payments made under a public welfare scheme organised by the government of a Contracting State which is part of the social security system of that State shall be taxable only in that State.
 
-14 [S.L.123.172 (THE SOCIALIST REPUBLIC OF VIET NAM)
-
 **Article 20**
 
 **GOVERNMENT SERVICE**
@@ -489,8 +459,6 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 \2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 15, as the case may be, shall apply.
 
-(THE SOCIALIST REPUBLIC OF VIET NAM) [S.L.123.172 15
-
 **Article 23**
 
 **METHODS FOR ELIMINATION OF DOUBLE TAXATION**
@@ -517,9 +485,7 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 \3. Except where the provisions of paragraph 1 of Article 9, paragraph 7 of Article 11, paragraph 6 of Article 12 or paragraph 6 of Article 13, apply, interest, royalties, technical fees and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
 
-\4. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first- 16 [S.L.123.172 (THE SOCIALIST REPUBLIC OF VIET NAM)
-
-mentioned State are or may be subjected.
+\4. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
 
 \5. The provisions of this Article shall apply only to the taxes covered in this Agreement.
 
@@ -547,9 +513,7 @@ mentioned State are or may be subjected.
 
 (a) to carry out administrative measures at variance with the laws and administrative practice of that or of the other Contracting State;
 
-(b) to supply information which is not obtainable under the laws or in the (THE SOCIALIST REPUBLIC OF VIET NAM) [S.L.123.172 17
-
-normal course of the administration of that or of the other Contracting State;
+(b) to supply information which is not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;
 
 (c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public policy. 4. If information is requested by a Contracting State in accordance with this Article, the other Contracting State shall use its information gathering measures to obtain the requested information, even though that other State may not need such information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall such limitations be construed to permit a Contracting State to decline to supply information solely because it has no domestic interest in such information.
 
@@ -583,9 +547,7 @@ in respect of taxes on income derived during any calendar year or accounting per
 
 **TERMINATION**
 
-This Agreement shall remain in force until terminated by one of the Contracting States. Either Contracting State may terminate the Agreement, through diplomatic channels, by giving to the other Contracting State, written notice of termination at 18 [S.L.123.172 (THE SOCIALIST REPUBLIC OF VIET NAM)
-
-least six months before the end of any calendar year beginning after the expiry of five years from the date of entry into force of the Agreement. In such event, the Agreement shall cease to have effect:
+This Agreement shall remain in force until terminated by one of the Contracting States. Either Contracting State may terminate the Agreement, through diplomatic channels, by giving to the other Contracting State, written notice of termination at least six months before the end of any calendar year beginning after the expiry of five years from the date of entry into force of the Agreement. In such event, the Agreement shall cease to have effect:
 
 (a) in Viet Nam:
 

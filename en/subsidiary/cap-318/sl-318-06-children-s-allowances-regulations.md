@@ -1,6 +1,6 @@
 ---
 title: "Children's Allowances Regulations"
-identifier: "S.L. 318.6"
+identifier: "S.L. 318.06"
 eli: "https://legislation.mt/eli/sl/318.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/318.6/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Children's Allowances Regulations (S.L. 318.6)
+# Children's Allowances Regulations (S.L. 318.06)
 
 **SUBSIDIARY LEGISLATION 318.06**
 

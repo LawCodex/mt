@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws of 2011 for the Degree of Bachelor of Science (Honours) (Pharmaceutical Science) - B.Sc. (Hons) (Pharm. Sc.) - under the auspices of the Faculty of Medicine and Surgery (S.L. 327.412)
 
-PHARMACEUTICAL SCIENCE - B.Sc. (Hons) in Pharm. Sc. - UNDER
-
-*1*
-
-THE AUSPICES OF THE FACULTY OF MEDICINE AND SURGERY [S.L.327.412
-
 **SUBSIDIARY LEGISLATION 327.412**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF
@@ -68,15 +62,11 @@ These bye-laws shall be applicable from October 2018 onwards.
 
 (b) a pass in Pure Mathematics at Intermediate or Advanced Matriculation Level.
 
-(2) During the first year of the Course, accepted applicants are also required to undergo an occupational health assessment, as detailed in the Occupational Health Protocol approved by the Board, so as to ascertain that they are fit for the duties related to their proposed studies. Students who do not fulfil this requirement may be barred from progressing with their studies. Failure to disclose information about a physical or mental health problem that could affect patient safety is considered to be a PHARMACEUTICAL SCIENCE - B.Sc. (Hons) in Pharm. Sc. - UNDER THE AUSPICES OF THE FACULTY OF MEDICINE AND SURGERY
-
-*\2016.*
-
-serious breach of the University Suitability to Practise Regulations,
-
-*[S.L.327.412 2*
+(2) During the first year of the Course, accepted applicants are also required to undergo an occupational health assessment, as detailed in the Occupational Health Protocol approved by the Board, so as to ascertain that they are fit for the duties related to their proposed studies. Students who do not fulfil this requirement may be barred from progressing with their studies. Failure to disclose information about a physical or mental health problem that could affect patient safety is considered to be a serious breach of the University Suitability to Practise Regulations,
 
 For the course commencing in October 2011:
+
+*\2016.*
 
 (a) a pass at Advanced Matriculation Level at Grade C or better in Chemistry; and
 
@@ -137,12 +127,6 @@ The programme of study shall comprise study-units to which 240 credits are assig
 • Legislation and professional ethics; and
 
 (b) a project on an aspect of practical pharmacy approved by the Board.
-
-PHARMACEUTICAL SCIENCE - B.Sc. (Hons) in Pharm. Sc. - UNDER
-
-*3*
-
-THE AUSPICES OF THE FACULTY OF MEDICINE AND SURGERY [S.L.327.412
 
 ## 6. Publication of programme of study.
 

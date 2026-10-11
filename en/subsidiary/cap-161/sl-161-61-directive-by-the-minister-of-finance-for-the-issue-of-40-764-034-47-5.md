@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister of Finance for the Issue of €40,764,034.47 5.9% Malta Government Stock 2009 (Third Issue) (S.L. 161.61)
 
-ISSUE OF €40,764,034.47 5.9%
-
-*1*
-
-MALTA GOVERNMENT STOCK 2009 [S.L.161.61
-
 **SUBSIDIARY LEGISLATION 161.61**
 
 DIRECTIVE BY THE MINISTER OF FINANCE FOR THE ISSUE OF €40,764,034.47 5.9% MALTA

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Portuguese Republic Order (S.L. 123.63)
 
-*1*
-
-WITH THE PORTUGUESE REPUBLIC [S.L.123.63
-
 **SUBSIDIARY LEGISLATION 123.63**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -50,8 +46,6 @@ It is hereby declared -
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Convention has entered into force on the 5th April, 2002.
-
-2 [S.L.123.63 WITH THE PORTUGUESE REPUBLIC
 
 ## SCHEDULE — CONVENTION BETWEEN MALTA — AND THE PORTUGUESE REPUBLIC
 
@@ -105,8 +99,6 @@ the income tax;
 
 The Convention shall apply also to any identical or substantially similar taxes which are imposed after the date of signature of the Convention in addition to, or in place of, the existing taxes. The competent authorities of the Contracting States shall notify each other of substantial changes which have been made in their respective taxation laws.
 
-WITH THE PORTUGUESE REPUBLIC [S.L.123.63 3
-
 CHAPTER II
 
 DEFINITIONS
@@ -147,9 +139,7 @@ For the purposes of this Convention, unless the context otherwise requires:
 
 *\2.*
 
-As regards the application of the Convention by a Contracting State, any term not defined therein shall, unless the context otherwise requires, have the meaning which it has at that time under the laws of that State for the purposes of the 4 [S.L.123.63 WITH THE PORTUGUESE REPUBLIC
-
-taxes to which the Convention applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State.
+As regards the application of the Convention by a Contracting State, any term not defined therein shall, unless the context otherwise requires, have the meaning which it has at that time under the laws of that State for the purposes of the taxes to which the Convention applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State.
 
 **Article 4**
 
@@ -191,9 +181,7 @@ taxes to which the Convention applies, any meaning under the applicable tax laws
 
 \3. The term "permanent establishment" likewise encompasses:
 
-(a) a building site, a construction, assembly or installation project or WITH THE PORTUGUESE REPUBLIC [S.L.123.63 5
-
-supervisory activities in connection therewith, but only where such site, project or activities continue for a period of more than nine months;
+(a) a building site, a construction, assembly or installation project or supervisory activities in connection therewith, but only where such site, project or activities continue for a period of more than nine months;
 
 (b) the furnishing of services, including consultancy services, by an enterprise through employees or other personnel engaged by the enterprise for such purpose, but only where activities of that nature continue (for the same or a connected project) within a Contracting State for a period or periods aggregating more than nine months within any twelve month period.
 
@@ -225,8 +213,6 @@ An enterprise of a Contracting State shall not be deemed to have a permanent est
 
 The fact that a company which is a resident of a Contracting State controls or is controlled by a company which is a resident of the other Contacting State, or which carries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself constitute either company a permanent establishment of the other.
 
-6 [S.L.123.63 WITH THE PORTUGUESE REPUBLIC
-
 ## CHAPTER III — TAXATION OF INCOME — Article 6
 
 **INCOME FROM IMMOVABLE PROPERTY**
@@ -251,9 +237,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \3. In determining the profits of a permanent establishment, there shall be allowed as deductions expenses which are incurred for the purposes of the permanent establishment, including executive and general administrative expenses so incurred, whether in the State in which the permanent establishment is situated or elsewhere.
 
-\4. Insofar as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an WITH THE PORTUGUESE REPUBLIC [S.L.123.63 7
-
-apportionment of the total profits of the enterprise to its various parts, nothing in paragraph 2 shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary; the method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles contained in this Article.
+\4. Insofar as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph 2 shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary; the method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles contained in this Article.
 
 \5. No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
 
@@ -285,9 +269,7 @@ Where profits include items of income which are dealt with separately in other A
 
 and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
 
-\2. Where a Contracting State includes in the profits of an enterprise of that State - and taxes accordingly - profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on 8 [S.L.123.63 WITH THE PORTUGUESE REPUBLIC
-
-those profits. In determining such adjustment, due regard shall be had to the other provisions of this Convention and the competent authorities of the Contracting States shall if necessary consult each other.
+\2. Where a Contracting State includes in the profits of an enterprise of that State - and taxes accordingly - profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Convention and the competent authorities of the Contracting States shall if necessary consult each other.
 
 **Article 10**
 
@@ -313,9 +295,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
-\5. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company’s undistributed profits to a tax on the company’s undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such WITH THE PORTUGUESE REPUBLIC [S.L.123.63 9
-
-other State.
+\5. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company’s undistributed profits to a tax on the company’s undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
 
 **Article 11**
 
@@ -343,8 +323,6 @@ Where, by reason of a special relationship between the payer and the beneficial 
 
 \1. Royalties arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other State.
 
-10 [S.L.123.63 WITH THE PORTUGUESE REPUBLIC
-
 \2. However, such royalties may also be taxed in the Contracting State in which they arise and according to the laws of that State, but if the beneficial owner of the royalties is a resident of the other Contracting State, the tax so charged shall not exceed 10 percent of the gross amount of the royalties. The competent authorities of the Contracting States shall by mutual agreement settle the mode of application of this limitation.
 
 \3. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including cinematograph films, any patent, trade mark, design or model, plan, secret formula or process, or for the use of, or the right to use, industrial, commercial or scientific equipment, or for information concerning industrial, commercial or scientific experience.
@@ -363,9 +341,7 @@ Where, by reason of a special relationship between the payer and the beneficial 
 
 \2. Gains from the alienation of shares or comparable interests in a company, the assets of which consist wholly or principally of immovable property, may be taxed in the Contracting State in which the assets or the principal assets of the company are situated.
 
-\3. Gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or of movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing independent personal services, including such gains from the alienation of such a permanent establishment (alone or with the whole enterprise) or WITH THE PORTUGUESE REPUBLIC [S.L.123.63 11
-
-of such fixed base, may be taxed in that other State.
+\3. Gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or of movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing independent personal services, including such gains from the alienation of such a permanent establishment (alone or with the whole enterprise) or of such fixed base, may be taxed in that other State.
 
 \4. Gains from the alienation of ships or aircraft operated in international traffic by an enterprise of a Contracting State, or movable property pertaining to the operation of such ships or aircraft, shall be taxable only in that State.
 
@@ -396,8 +372,6 @@ of such fixed base, may be taxed in that other State.
 (b) the remuneration is paid by, or on behalf of, an employer who is not a resident of the other State; and
 
 (c) the remuneration is not borne by a permanent establishment or a fixed base which the employer has in the other State.
-
-12 [S.L.123.63 WITH THE PORTUGUESE REPUBLIC
 
 \3. Notwithstanding the preceding provisions of this Article, remuneration derived in respect of an employment exercised aboard a ship or aircraft operated in international traffic by an enterprise of a Contracting State may be taxed in that State.
 
@@ -437,8 +411,6 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 (ii) did not become a resident of that State solely for the purpose of rendering the services.
 
-WITH THE PORTUGUESE REPUBLIC [S.L.123.63 13
-
 \2. (a) Any pension paid by, or out of funds created by, a Contracting State or a political or administrative subdivision or local authority thereof to an individual in respect of services rendered to that State or subdivision or authority shall be taxable only in that State.
 
 (b) However, such pension shall be taxable only in the other Contracting State if the individual is a resident of, and a national of, that State.
@@ -469,8 +441,6 @@ A student or business apprentice who is present in a Contracting State solely fo
 
 (b) where in accordance with any provision of the Convention income derived by a resident of Portugal is exempt from tax in this State, Portugal may nevertheless, in calculating the amount of tax on the remaining income of such resident, take into account the exempted income.
 
-14 [S.L.123.63 WITH THE PORTUGUESE REPUBLIC
-
 \2. In the case of Malta, double taxation shall be eliminated as follows:
 
 Subject to the provisions of the law of Malta regarding the allowance of a credit against Malta tax in respect of foreign tax, where, in accordance with the provisions of this Convention, there is included in a Malta assessment income from sources within Portugal the Portuguese tax on such income shall be allowed as a credit against the relative Malta tax payable thereon.
@@ -491,9 +461,7 @@ The competent authorities shall also consult each other with a view to identifyi
 
 \3. Except where the provisions of paragraph 1 of Article 9, paragraph 7 of Article 11, or paragraph 6 of Article 12 apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
 
-\4. Enterprises of a Contracting State, the capital of which is wholly or partly WITH THE PORTUGUESE REPUBLIC [S.L.123.63 15
-
-owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
+\4. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
 
 \5. The provisions of this Article shall apply to taxes of every kind and description which are the subject of this Convention.
 
@@ -518,8 +486,6 @@ owned or controlled, directly or indirectly, by one or more residents of the oth
 \2. In no case shall the provisions of paragraph 1 be construed so as to impose on a Contracting State the obligation:
 
 (a) to carry out administrative measures at variance with the laws and administrative practice of that or of the other Contracting State;
-
-16 [S.L.123.63 WITH THE PORTUGUESE REPUBLIC
 
 (b) to supply information which is not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;
 
@@ -561,9 +527,7 @@ The provisions of this Convention shall not apply to persons entitled to any spe
 
 **TERMINATION**
 
-This Convention shall remain in force until terminated by a Contracting State. Either Contracting State may terminate the Convention, through diplomatic channels, by giving notice of termination at least six months before the end of any calendar year beginning after the expiration of a period of five years from the date of WITH THE PORTUGUESE REPUBLIC [S.L.123.63 17
-
-its entry into force. In such event, the Convention shall cease to have effect:
+This Convention shall remain in force until terminated by a Contracting State. Either Contracting State may terminate the Convention, through diplomatic channels, by giving notice of termination at least six months before the end of any calendar year beginning after the expiration of a period of five years from the date of its entry into force. In such event, the Convention shall cease to have effect:
 
 (a) in Portugal:
 
@@ -593,9 +557,7 @@ With reference to Article 10, it is understood that paragraph 2(b) thereof shall
 
 \2. Ad Article 14
 
-In relation to income referred to in paragraph 1, it may be taxed in the other Contracting State if the remuneration for the services performed in that other State is derived from residents of the first mentioned State and exceeds the equivalent of 18 [S.L.123.63 WITH THE PORTUGUESE REPUBLIC
-
-30000 euros during the fiscal year.
+In relation to income referred to in paragraph 1, it may be taxed in the other Contracting State if the remuneration for the services performed in that other State is derived from residents of the first mentioned State and exceeds the equivalent of 30000 euros during the fiscal year.
 
 \3. Ad Article 22
 

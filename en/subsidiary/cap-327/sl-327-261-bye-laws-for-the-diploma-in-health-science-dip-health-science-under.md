@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in Health Science - Dip. Health Science - under the auspices of the Faculty of Health Sciences (S.L. 327.261)
 
-\- DIP. HEALTH SCIENCE - UNDER THE AUSPICES
-
-*1*
-
-OF THE FACULTY OF HEALTH SCIENCES [S.L.327.261
-
 **SUBSIDIARY LEGISLATION 327.261**
 
 **BYE-LAWS FOR THE DIPLOMA IN HEALTH**
@@ -73,13 +67,9 @@ The requirements for admission and successful completion of the preparatory cour
 
 ## 5. Assessment.
 
-Applicants who are eligible to join the course in terms of article 6 of Appendix I may be assessed for their suitability to - DIP. HEALTH SCIENCE - UNDER THE AUSPICES [S.L.327.261 OF THE FACULTY OF HEALTH SCIENCES
+Applicants who are eligible to join the course in terms of article 6 of Appendix I may be assessed for their suitability to follow their chosen area of study.
 
 \*These bye-laws have been repealed by Legal Notice 185 of 2022.
-
-follow their chosen area of study.
-
-*2*
 
 ## 6. Course duration.
 
@@ -132,10 +122,6 @@ Passed with Distinction
 Passed with Merit
 
 Passed.
-
-\- DIP. HEALTH SCIENCE - UNDER THE AUSPICES
-
-OF THE FACULTY OF HEALTH SCIENCES [S.L.327.261 3
 
 APPENDIX I Amended by:
 

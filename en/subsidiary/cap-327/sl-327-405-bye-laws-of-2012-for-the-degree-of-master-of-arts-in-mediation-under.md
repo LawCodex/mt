@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws of 2012 for the Degree of Master of Arts in Mediation under the auspices of the Faculty of Laws (S.L. 327.405)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF LAWS [S.L.327.405
-
 **SUBSIDIARY LEGISLATION 327.405**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -72,9 +68,7 @@ These bye-laws shall be applicable to courses commencing in October 2016 or late
 
 (b) a Bachelor’s degree with at least Second Class Honours or Category II obtained from this or from another university, in an any other area deemed comparable or relevant by the Board of Studies.
 
-*2*
-
-[S.L.327.405 UNDER THE AUSPICES OF THE FACULTY OF LAWS (2) All applicants shall be required to demonstrate that they have the necessary aptitude and disposition to follow the course with profit.
+(2) All applicants shall be required to demonstrate that they have the necessary aptitude and disposition to follow the course with profit.
 
 (3) Professional aptitude and disposition shall be measured by means of exercises involving (i) role play with a client; (ii) group discussion; and (iii) a personal interview conducted by a board appointed for the purpose.
 
@@ -112,11 +106,9 @@ The course shall extend over a period of five semesters of part-time study.
 
 (4) The programme of study shall be published after approval by Senate, normally not less than eight months prior to the commencement of the course.
 
-*3*
+## 6. Assessment and progress.
 
-UNDER THE AUSPICES OF THE FACULTY OF LAWS [S.L.327.405 6. (1) The assessment of each taught study-unit shall be completed by the end of the semester in which the teaching of the study-unit is held.
-
-*Assessment and progress.*
+(1) The assessment of each taught study-unit shall be completed by the end of the semester in which the teaching of the study-unit is held.
 
 (2) Students who in any academic year fail in the assessment of not more than 10 credits shall be given the opportunity to re-sit the failed assessments during the supplementary examination session.
 

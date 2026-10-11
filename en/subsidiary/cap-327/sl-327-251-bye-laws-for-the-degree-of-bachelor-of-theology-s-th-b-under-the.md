@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Theology - S.TH.B. - under the Auspices of the Faculty of Theology (S.L. 327.251)
 
-\- S.TH.B. - UNDER THE AUSPICES
-
-*1*
-
-OF THE FACULTY OF THEOLOGY [S.L.327.251
-
 **SUBSIDIARY LEGISLATION 327.251**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF THEOLOGY - S. TH.B. - UNDER THE AUSPICES OF THE FACULTY OF THEOLOGY\*
@@ -56,12 +50,6 @@ These bye-laws shall apply to courses commencing in October 2009 or later.
 (2) The programme of theological studies proper shall start in the first year with a general introduction to the foundations of theology, a historical overview of Christian thought and practice and a basic reflection on the mystery of salvation that can serve as a background to, and a focal point for, the whole of theology. It shall proceed in the second and third years in close relation to the study of philosophy and it shall be completed through further theological studies in the fourth and fifth years.
 
 \*These bye-laws have been repealed by Legal Notice 185 of 2022.
-
-\- S.TH.B. - UNDER THE AUSPICES
-
-*2*
-
-[S.L.327.251 OF THE FACULTY OF THEOLOGY
 
 ## 4. Admission requirements.
 

@@ -1,6 +1,6 @@
 ---
 title: "Gun, Rifle and Torpedo Ranges Regulations"
-identifier: "S.L. 220.1"
+identifier: "S.L. 220.01"
 eli: "https://legislation.mt/eli/sl/220.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/220.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Gun, Rifle and Torpedo Ranges Regulations (S.L. 220.1)
+# Gun, Rifle and Torpedo Ranges Regulations (S.L. 220.01)
 
 **SUBSIDIARY LEGISLATION 220.01**
 

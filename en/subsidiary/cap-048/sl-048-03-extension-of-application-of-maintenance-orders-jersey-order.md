@@ -1,6 +1,6 @@
 ---
 title: "Extension of Application of Maintenance Orders (Jersey) Order"
-identifier: "S.L. 48.3"
+identifier: "S.L. 48.03"
 eli: "https://legislation.mt/eli/sl/48.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/48.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Extension of Application of Maintenance Orders (Jersey) Order (S.L. 48.3)
+# Extension of Application of Maintenance Orders (Jersey) Order (S.L. 48.03)
 
 **SUBSIDIARY LEGISLATION 48.03**
 

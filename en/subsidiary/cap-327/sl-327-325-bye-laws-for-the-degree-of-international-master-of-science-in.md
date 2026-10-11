@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of International Master of Science in Environmental Management and Sustainability - M.Sc. (EMS) - under the auspices of the Institute of Earth Systems (S.L. 327.325)
 
-ENVIRONMENTAL MANAGEMENT AND SUSTAINABILITY - M.SC. (EMS)
-
-*1*
-
-\- UNDER THE AUSPICES OF THE INSTITUTE OF EARTH SYSTEMS [S.L.327.325
-
 **SUBSIDIARY LEGISLATION 327.325**
 
 **BYE-LAWS FOR THE DEGREE OF**
@@ -66,10 +60,6 @@ LEGAL NOTICE 548 of 2010, as amended by Legal Notices 396 of 2012, 104 of 2015 a
 (3) This Degree is an International Master’s degree of the University and this shall be taken to mean that the course is taught at the University in collaboration with a Partner University within the framework of a double degree programme. The Degree shall only be awarded if both universities declare the student to be eligible for its award.
 
 \*These regulations have been repealed by Legal Notice 220 of 2023.
-
-*2*
-
-ENVIRONMENTAL MANAGEMENT AND SUSTAINABILITY - M.SC. (EMS) [S.L.327.325 - UNDER THE AUSPICES OF THE INSTITUTE OF EARTH SYSTEMS
 
 ## 2. Applicability.
 
@@ -115,13 +105,7 @@ The course shall extend over a period of three semesters of full-time study.
 
 (2) A Board of Examiners shall be appointed for each study-unit taken by written and/or oral examination in accordance with the provisions of the University Assessment Regulations.
 
-(3) Students who fail in the assessment of not more than 20 ENVIRONMENTAL MANAGEMENT AND SUSTAINABILITY - M.SC. (EMS)
-
-*3*
-
-\- UNDER THE AUSPICES OF THE INSTITUTE OF EARTH SYSTEMS [S.L.327.325
-
-credits for taught study-units shall be given the opportunity to re-sit the failed assessments at the next scheduled examination session (May or September).
+(3) Students who fail in the assessment of not more than 20 credits for taught study-units shall be given the opportunity to re-sit the failed assessments at the next scheduled examination session (May or September).
 
 (4) Students who fail in more than the number of credits permitted under paragraph (3) of this bye-law, or students who after re-assessment fail to obtain credit for any study-unit, shall be deemed to have failed the course.
 
@@ -165,8 +149,4 @@ The Final Weighted Average Mark for the purpose of the classification of the Pos
 
 ## 12. Testimonial of the Award.
 
-The testimonial given by the University shall include a statement to indicate that the Partner University has separately ENVIRONMENTAL MANAGEMENT AND SUSTAINABILITY - M.SC. (EMS) [S.L.327.325 - UNDER THE AUSPICES OF THE INSTITUTE OF EARTH SYSTEMS
-
-awarded a degree for successful completion of the same course.
-
-*4*
+The testimonial given by the University shall include a statement to indicate that the Partner University has separately awarded a degree for successful completion of the same course.

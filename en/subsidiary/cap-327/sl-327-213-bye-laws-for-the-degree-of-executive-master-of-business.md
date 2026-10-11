@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Executive Master of Business Administration - Executive M.B.A. -under the auspices of the Faculty of Economics, Management and Accountancy (S.L. 327.213)
 
-TION - EXECUTIVE M.B.A. - UNDER THE AUSPICES OF THE
-
-*1*
-
-FACULTY OF ECONOMICS, MANAGEMENT AND ACCOUNTANCY [S.L.327.213
-
 **SUBSIDIARY LEGISLATION 327.213**
 
 **BYE-LAWS FOR THE DEGREE OF EXECUTIVE**
@@ -77,13 +71,9 @@ The course shall be offered in any area of study that falls within the academic 
 
 (a) in possession of a Bachelor degree from this University or any other institution recognised by Senate with at least Third Class Honours or Category III,
 
-provided that applicants in possession of a degree with Third Class (Honours) or Category III shall satisfy the Board that they are in possession of other qualifications, including relevant experience, obtained TION - EXECUTIVE M.B.A. - UNDER THE AUSPICES OF THE [S.L.327.213 FACULTY OF ECONOMICS, MANAGEMENT AND ACCOUNTANCY
+provided that applicants in possession of a degree with Third Class (Honours) or Category III shall satisfy the Board that they are in possession of other qualifications, including relevant experience, obtained following their first cycle degree; or
 
 \*These regulations have been repealed by Legal Notice 239 of 2023.
-
-following their first cycle degree; or
-
-*2*
 
 (b) aged twenty-six years or over and in possession of a higher diploma or a diploma from this University comprising not less than 90 ECTS credits in a related area with at least a Merit classification, or equivalent qualifications. Such applicants may be required to demonstrate, through an interview, that they are able to follow the course with profit.
 
@@ -116,12 +106,6 @@ The programme of study shall be published after approval by Senate, normally not
 (2) Students who in any academic year fail in the assessment of not more than two study-units shall be given the opportunity to re-sit the failed assessment during the September supplementary examination session.
 
 (3) Students who fail in more than the number of study-units permitted under paragraph (2) or students who after re-assessment fail to obtain credit for any study-unit, shall be deemed to have failed the course.
-
-TION - EXECUTIVE M.B.A. - UNDER THE AUSPICES OF THE
-
-*3*
-
-FACULTY OF ECONOMICS, MANAGEMENT AND ACCOUNTANCY [S.L.327.213
 
 ## 11. Applied project report. Re-numbered and substituted by: L.N. 351 of 2015.
 

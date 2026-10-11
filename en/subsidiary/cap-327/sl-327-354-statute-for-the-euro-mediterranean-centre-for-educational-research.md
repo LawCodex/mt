@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Statute for the Euro-Mediterranean Centre for Educational Research (S.L. 327.354)
 
-*1*
-
-CENTRE FOR EDUCATIONAL RESEARCH [S.L.327.354
-
 **SUBSIDIARY LEGISLATION 327.354**
 
 **STATUTE FOR THE EURO-MEDITERRANEAN**
@@ -71,7 +67,7 @@ The Centre shall be governed by a Board consisting of:
 
 (vii) three scholars of repute to be recommended by the Board and approved by Senate.
 
-The Registrar or his delegate shall act as Secretary to the Board. [S.L.327.354 CENTRE FOR EDUCATIONAL RESEARCH
+The Registrar or his delegate shall act as Secretary to the Board.
 
 \*This Statute has been repealed by Legal Notice 28 of 2026.
 
@@ -80,8 +76,6 @@ The Registrar or his delegate shall act as Secretary to the Board. [S.L.327.354 
 *Substituted by: L.N. 195 of 2012.*
 
 All members of the Board, other than those appointed ex officio, the two representatives of the academic staff and the two representatives of the students shall be appointed for a period of one year, renewable for up to four years. A retiring member will be eligible for re-appointment.
-
-*2*
 
 ## 5.
 
@@ -123,10 +117,6 @@ The Centre shall have a Director and Staff:
 
 The duties of the Vice-Chairman/Director shall include:
 
-*3*
-
-CENTRE FOR EDUCATIONAL RESEARCH [S.L.327.354
-
 (a) promoting the development and implementation of the Centre’s curricula and research programmes;
 
 (b) compiling and submitting to the Registrar of the University by not later than January of each academic year, an updated comprehensive prospectus of the content descriptions of all current and projected study-units offered by members of the Centre as per guidelines established by the Programme Validation Committee;
@@ -153,11 +143,7 @@ CENTRE FOR EDUCATIONAL RESEARCH [S.L.327.354
 
 (j) ensuring and facilitating the further development and training of academic and non-academic staff;
 
-(k) participating at any meeting of the University CENTRE FOR EDUCATIONAL RESEARCH
-
-congruent with the post;
-
-*[S.L.327.354 4*
+(k) participating at any meeting of the University congruent with the post;
 
 (l) representing the Centre during official functions of the University;
 
@@ -181,11 +167,7 @@ The Director moreover:
 
 (c) should not be engaged in any other activity outside the University which may be in conflict with, or distract him from, his duties at the University;
 
-(d) is expected to be present on campus or any designated University of Malta site at least during normal office hours from Monday to Friday throughout the year CENTRE FOR EDUCATIONAL RESEARCH [S.L.327.354
-
-subject to the exigencies of an academic in accordance with the University’s practices and needs and subject to normal leave entitlement and public holidays as provided for at law; should his absence be necessary and justified he must ensure that he is immediately contactable through the secretarial staff of the Centre;
-
-*5*
+(d) is expected to be present on campus or any designated University of Malta site at least during normal office hours from Monday to Friday throughout the year subject to the exigencies of an academic in accordance with the University’s practices and needs and subject to normal leave entitlement and public holidays as provided for at law; should his absence be necessary and justified he must ensure that he is immediately contactable through the secretarial staff of the Centre;
 
 (e) shall not give access to any information to any third party that is not associated with the University of Malta, about any work or data that relates to tasks conducted at the University of Malta without the prior approval of the University of Malta; all work carried out within the Centre must be treated according to Maltese data protection legislation;
 

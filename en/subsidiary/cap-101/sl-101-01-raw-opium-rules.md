@@ -1,6 +1,6 @@
 ---
 title: "Raw Opium Rules"
-identifier: "S.L. 101.1"
+identifier: "S.L. 101.01"
 eli: "https://legislation.mt/eli/sl/101.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/101.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Raw Opium Rules (S.L. 101.1)
+# Raw Opium Rules (S.L. 101.01)
 
 **SUBSIDIARY LEGISLATION 101.01**
 

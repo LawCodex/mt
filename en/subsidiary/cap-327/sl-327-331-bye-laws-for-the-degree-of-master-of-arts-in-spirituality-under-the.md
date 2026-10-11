@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Spirituality under the auspices of the Faculty of Theology (S.L. 327.331)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF THEOLOGY [S.L.327.331
-
 **SUBSIDIARY LEGISLATION 327.331**
 
 BYE-LAWS FOR THE DEGREE OF MASTER OF ARTS IN SPIRITUALITY UNDER THE
@@ -71,11 +67,9 @@ The course shall be offered in areas of specialization in Spirituality as announ
 
 The course shall extend over three semesters of full-time study or the equivalent in part-time study.
 
-*2*
+## 6. Programme of study
 
-[S.L.327.331 UNDER THE AUSPICES OF THE FACULTY OF THEOLOGY 6. The programme of study shall comprise study-units to which a total of 90 credits shall be assigned and shall consist of:
-
-*Programme of study*
+The programme of study shall comprise study-units to which a total of 90 credits shall be assigned and shall consist of:
 
 (a) 30 credits assigned to the core study-units;
 
@@ -115,11 +109,7 @@ The programme of study shall be published after approval by Senate, normally not
 
 (1) Students shall be required to have regular contact with their supervisor.
 
-(2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of UNDER THE AUSPICES OF THE FACULTY OF THEOLOGY [S.L.327.331
-
-studies, whether the student is following the course on a full-time or a part-time basis. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
-
-*3*
+(2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies, whether the student is following the course on a full-time or a part-time basis. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 

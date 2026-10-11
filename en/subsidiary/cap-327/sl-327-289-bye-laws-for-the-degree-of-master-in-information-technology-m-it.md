@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master in Information Technology - M.IT - under the auspices of the Faculty of Information and Communication (S.L. 327.289)
 
-M.IT - UNDER THE AUSPICES OF THE FACULTY OF
-
-*1*
-
-INFORMATION AND COMMUNICATION TECHNOLOGY [S.L.327.289
-
 **SUBSIDIARY LEGISLATION 327.289**
 
 **BYE-LAWS FOR THE DEGREE OF MATER IN**
@@ -70,11 +64,9 @@ The course shall be offered in areas of study in IT where the Faculty can offer 
 
 (1) The course shall be open to applicants in possession of one of the following qualifications:
 
-(a) a first cycle degree with at least Second Class Honours or Category II in an area of study other than ICT; or (b) a first cycle degree with Third Class Honours or Category III in an area of study other than ICT, if they are also in possession of other qualifications, including relevant experience, obtained following the first cycle EGREE OF MASTER IN INFORMATION TECHNOLOGY - M.IT - UNDER THE AUSPICES OF THE FACULTY OF [S.L.327.289 INFORMATION AND COMMUNICATION TECHNOLOGY degree.
+(a) a first cycle degree with at least Second Class Honours or Category II in an area of study other than ICT; or (b) a first cycle degree with Third Class Honours or Category III in an area of study other than ICT, if they are also in possession of other qualifications, including relevant experience, obtained following the first cycle degree.
 
 (2) Applicants may be required to sit for an interview before being accepted for the course.
-
-*2*
 
 ## 5. Duration of course.
 
@@ -116,11 +108,7 @@ The programme of study shall be published after approval by Senate, normally not
 
 (1) The Board shall appoint a Panel of Supervision for each student, normally composed of three members as follows: the head of department, or his or her delegate as Chairman, and two other members, one of whom being the research supervisor, provided that when the head of department is the supervisor, he or she shall not chair the Panel.
 
-M.IT - UNDER THE AUSPICES OF THE FACULTY OF
-
-*3*
-
-INFORMATION AND COMMUNICATION TECHNOLOGY [S.L.327.289 (2) The Panel of Supervision shall follow, as it deems fit, the progress of students throughout the course, provided that it meets at least twice a year to review such progress.
+(2) The Panel of Supervision shall follow, as it deems fit, the progress of students throughout the course, provided that it meets at least twice a year to review such progress.
 
 (3) Students shall be required to report to their supervisors at least once every two months, and in addition as often as their supervisor deems necessary.
 

@@ -1,6 +1,6 @@
 ---
 title: "Mental Health Review Tribunal Rules"
-identifier: "S.L. 262.3"
+identifier: "S.L. 262.03"
 eli: "https://legislation.mt/eli/sl/262.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/262.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Mental Health Review Tribunal Rules (S.L. 262.3)
+# Mental Health Review Tribunal Rules (S.L. 262.03)
 
 SUBSIDIARY LEGISLATION 262.03
 

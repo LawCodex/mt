@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister for Finance for the issue of Euro 130,000,000 Malta Government Stocks (S.L. 161.144)
 
-*1*
-
-MALTA GOVERNMENT STOCKS [S.L.161.144
-
 **SUBSIDIARY LEGISLATION 161.144**
 
 DIRECTIVE BY THE MINISTER FOR FINANCE FOR THE ISSUE OF EURO 130,000,000
@@ -67,10 +63,6 @@ All persons and, or entities are eligible to apply for these Stocks. Allotment w
 
 The sum of money to be raised by either Stock, or of any combination of the three Stocks shall in the aggregate be Euro 130,000,000. The Accountant General reserves the right to increase the sum of money to be raised up to a maximum of Euro 90,000,000.
 
-*2*
-
-[S.L.161.144 MALTA GOVERNMENT STOCKS
-
 ## 7. Rate of interest and dates of payment.
 
 (1) Interest at the rate of Euro 0.70 for every Euro 100 in respect of the 1.4% Malta Government Stock 2023 (III) shall be payable half-yearly in arrears on the 11th day of May and the 11th day of November in every year for the duration of the Stock:
@@ -94,10 +86,6 @@ The sum of money to be raised by either Stock, or of any combination of the thre
 ## 8. Redemption of Stock.
 
 (1) The 1.4% Malta Government Stock 2023 (III) shall be redeemed at par on the 11th November, 2023.
-
-*3*
-
-MALTA GOVERNMENT STOCKS [S.L.161.144
 
 (2) The 1.5% Malta Government Stock 2027 (I) shall be redeemed at par on the 15th June, 2027.
 

@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Portomaso Extension II, St Julians (Designated Special Area) Order (S.L. 246.26)
 
-*1*
-
-SPECIAL AREA) [S.L. 246.26 SUBSIDIARY LEGISLATION 246.26
+**SUBSIDIARY LEGISLATION 246.26**
 
 **PORTOMASO EXTENSION II, ST JULIANS**
 
@@ -41,7 +39,3 @@ Portomaso Extension II, St Julians consisting of immovable property situated in 
 ## 3. Addition to the First Schedule to the Act. Cap. 246.
 
 Portomaso Extension II, St Julians shall be added to the List of Scheduled Zones in the First Schedule to the Immovable Property (Acquisition by Non-Residents) Act.
-
-*2*
-
-[S.L. 246.26 SPECIAL AREA)

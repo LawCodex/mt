@@ -1,6 +1,6 @@
 ---
 title: "Summer Time Order"
-identifier: "S.L. 230.3"
+identifier: "S.L. 230.03"
 eli: "https://legislation.mt/eli/sl/230.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/230.3/20220317/eng"
 retrieved: 2026-10-12
 ---
 
-# Summer Time Order (S.L. 230.3)
+# Summer Time Order (S.L. 230.03)
 
 **SUBSIDIARY LEGISLATION 230.03**
 

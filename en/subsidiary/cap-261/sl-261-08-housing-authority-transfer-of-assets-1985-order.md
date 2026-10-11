@@ -1,6 +1,6 @@
 ---
 title: "Housing Authority (Transfer of Assets) (1985) Order"
-identifier: "S.L. 261.8"
+identifier: "S.L. 261.08"
 eli: "https://legislation.mt/eli/sl/261.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/261.8/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Housing Authority (Transfer of Assets) (1985) Order (S.L. 261.8)
+# Housing Authority (Transfer of Assets) (1985) Order (S.L. 261.08)
 
 **SUBSIDIARY LEGISLATION 261.08**
 

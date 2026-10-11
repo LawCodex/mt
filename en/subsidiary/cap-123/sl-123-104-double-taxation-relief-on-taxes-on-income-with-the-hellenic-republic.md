@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Hellenic Republic Order (S.L. 123.104)
 
-*1*
-
-WITH THE HELLENIC REPUBLIC [S.L.123.104
-
 **SUBSIDIARY LEGISLATION 123.104**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -44,8 +40,6 @@ It is hereby declared:
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Convention has entered into force on the 30 August, 2008.
-
-2 [S.L.123.104 WITH THE HELLENIC REPUBLIC
 
 ## SCHEDULE — CONVENTION — BETWEEN MALTA AND THE HELLENIC REPUBLIC
 
@@ -105,8 +99,6 @@ ii) the income tax on legal persons;
 
 The Convention shall apply also to any identical or substantially similar taxes which are imposed after the date of signature of the Convention in addition to, or in place of, the existing taxes. The competent authorities of the Contracting States shall notify each other of any significant changes which have been made in their respective taxation laws.
 
-WITH THE HELLENIC REPUBLIC [S.L.123.104 3
-
 CHAPTER II
 
 DEFINITIONS
@@ -159,9 +151,7 @@ ii) in the Hellenic Republic, the Minister of Economy and Finance or his authori
 
 *\2.*
 
-As regards the application of the Convention at any time by a Contracting State, any term not defined therein shall, unless the context otherwise requires, have 4 [S.L.123.104 WITH THE HELLENIC REPUBLIC
-
-the meaning that it has at that time under the law of that State for the purposes of the taxes to which the Convention applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State.
+As regards the application of the Convention at any time by a Contracting State, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that State for the purposes of the taxes to which the Convention applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State.
 
 **Article 4**
 
@@ -201,9 +191,7 @@ f) a mine, an oil or gas well, a quarry or any other place of extraction of natu
 
 \3. The term "permanent establishment" likewise encompasses:
 
-a) a building site, a construction, assembly or installation project or WITH THE HELLENIC REPUBLIC [S.L.123.104 5
-
-supervisory activities in connection therewith, but only where such site, project or activities continue for a period of more than six months;
+a) a building site, a construction, assembly or installation project or supervisory activities in connection therewith, but only where such site, project or activities continue for a period of more than six months;
 
 b) the furnishing of services, comprising technical assistance and consultancy services, by an enterprise through employees or other personnel engaged by the enterprise for such purpose, where the activities of that nature continue for a period or periods amounting to or exceeding in the aggregate 120 days in any twelve month period.
 
@@ -230,8 +218,6 @@ Notwithstanding the provisions of paragraphs 1 and 2 where a person - other than
 Notwithstanding the preceding provisions of this Article and the provisions of Article 14, a person who is a resident of a Contracting State and carries on activities in connection with preliminary surveys, exploration, extraction or exploitation of natural resources situated in the other Contracting State shall be deemed to be carrying on in respect of those activities a business in that other Contracting State through a permanent establishment or a fixed base situated therein, unless such activities are carried on for a period or periods not exceeding 30 days in the aggregate in any twelve-month period. However, for the purposes of this paragraph:
 
 a) where an enterprise carrying on activities in the other State is related to another enterprise and that other enterprise continues as part of the same project the same activities that are or were being carried on by the first-mentioned enterprise, and the activities carried on by both enterprises exceed - when added together - a period of 30 days, then each enterprise shall be deemed to be carrying on its activities for a period exceeding 30 days in a twelve-month period;
-
-6 [S.L.123.104 WITH THE HELLENIC REPUBLIC
 
 b) two enterprises shall be deemed to be related if one is controlled directly or indirectly by the other, or both are controlled directly or indirectly by a third person.
 
@@ -265,9 +251,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \1. The profits of an enterprise of a Contracting State shall be taxable only in that State unless the enterprise carries on business in the other Contracting State through a permanent establishment situated therein. If the enterprise carries on business as aforesaid, the profits of the enterprise may be taxed in the other State but only so much of them as are attributable to that permanent establishment.
 
-\2. Subject to the provisions of paragraph 3, where an enterprise of a WITH THE HELLENIC REPUBLIC [S.L.123.104 7
-
-Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment.
+\2. Subject to the provisions of paragraph 3, where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment.
 
 \3. In determining the profits of a permanent establishment, there shall be allowed as deductions expenses which are incurred for the purposes of the permanent establishment, including executive and general administrative expenses so incurred, whether in the Contracting State in which the permanent establishment is situated or elsewhere.
 
@@ -299,9 +283,7 @@ Contracting State carries on business in the other Contracting State through a p
 
 a) an enterprise of a Contracting State participates directly or indirectly in the management, control or capital of an enterprise of the other Contracting State, or
 
-b) the same persons participate directly or indirectly in the management, 8 [S.L.123.104 WITH THE HELLENIC REPUBLIC
-
-control or capital of an enterprise of a Contracting State and an enterprise of the other Contracting State,
+b) the same persons participate directly or indirectly in the management, control or capital of an enterprise of a Contracting State and an enterprise of the other Contracting State,
 
 and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
 
@@ -323,9 +305,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \3. The term "dividends", as used in this Article, means income from shares, "jouissance" shares or "jouissance" rights, mining shares, founders’ shares or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
 
-\4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the WITH THE HELLENIC REPUBLIC [S.L.123.104 9
-
-other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
+\4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \5. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company’s undistributed profits to a tax on the company’s undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
 
@@ -343,9 +323,7 @@ other Contracting State of which the company paying the dividends is a resident,
 
 \5. Interest shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment or fixed base, then such interest shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
-\6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the 10 [S.L.123.104 WITH THE HELLENIC REPUBLIC
-
-last-mentioned amount. In such case, the excess part of the payment shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
+\6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payment shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
 \7. The provisions of this Article shall not apply if the debt claim in respect of which the interest is paid has been created or assigned mainly for the purpose of taking advantage of this Article and not for valid commercial reasons. In such case the amount of payments shall be taxed according to the laws of each Contracting State.
 
@@ -364,8 +342,6 @@ last-mentioned amount. In such case, the excess part of the payment shall remain
 \5. Royalties shall be deemed to arise in a Contracting State where the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or fixed base in connection with which the obligation to pay the royalties was incurred and such royalties are borne by that permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
 \6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
-
-WITH THE HELLENIC REPUBLIC [S.L.123.104 11
 
 \7. The provisions of this Article shall not apply if the right or the property giving rise to the royalties has been created or assigned mainly for the purpose of taking advantage of this Article and not for valid commercial reasons. In such case the amount of payments shall be taxable according to the laws of each Contracting State.
 
@@ -401,9 +377,7 @@ but only so much thereof as is attributable to that fixed base or to services pe
 
 **DEPENDENT PERSONAL SERVICES**
 
-\1. Subject to the provisions of Articles 16, 18 and 19, salaries, wages and other 12 [S.L.123.104 WITH THE HELLENIC REPUBLIC
-
-similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised, in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
+\1. Subject to the provisions of Articles 16, 18 and 19, salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised, in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
 
 \2. Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in the other Contracting State shall be taxable only in the first-mentioned State if:
 
@@ -431,7 +405,7 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 \2. Where income in respect of personal activities exercised by an entertainer or a sportsperson, in his capacity as such accrues not to the entertainer or sportsperson, himself but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the entertainer or sportsperson are exercised.
 
-\3. Notwithstanding the provisions of paragraphs 1 and 2, income derived from activities referred to in paragraph 1 performed under cultural agreement or arrangement between the Contracting States shall be exempt from tax in the Contracting State in which the activities are exercised if the visit to that State is wholly or substantially supported by public funds of the other Contracting State. WITH THE HELLENIC REPUBLIC [S.L.123.104 13
+\3. Notwithstanding the provisions of paragraphs 1 and 2, income derived from activities referred to in paragraph 1 performed under cultural agreement or arrangement between the Contracting States shall be exempt from tax in the Contracting State in which the activities are exercised if the visit to that State is wholly or substantially supported by public funds of the other Contracting State.
 
 **Article 18**
 
@@ -469,9 +443,7 @@ b) However, such pension shall be taxable only in the other Contracting State if
 
 \1. Items of income a resident of a Contracting State, wherever arising, not dealt with, in the foregoing Articles of this Convention shall be taxable only in that State.
 
-\2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income being a resident of a Contracting State, carries on business in the other 14 [S.L.123.104 WITH THE HELLENIC REPUBLIC
-
-Contracting State through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
+\2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 ## CHAPTER IV — METHODS FOR ELIMINATION OF DOUBLE TAXATION — Article 22
 
@@ -493,9 +465,7 @@ Such deduction in either case shall not, however, exceed that part of the income
 
 \2. Stateless persons who are residents of a Contracting State shall not be subjected in either Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which national of the State concerned in the same circumstances are or may be subjected.
 
-\3. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a WITH THE HELLENIC REPUBLIC [S.L.123.104 15
-
-Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
+\3. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
 
 \4. Except where the provisions of paragraph 1 of Article 9, paragraphs 6 and 7 of Article 11, or paragraphs 6 and 7 of Article 12, apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
 
@@ -517,9 +487,7 @@ Contracting State to grant to residents of the other Contracting State any perso
 
 **EXCHANGE OF INFORMATION**
 
-\1. The competent authorities of the Contracting States shall exchange such information as is necessary for carrying out the provisions of this Convention or of the domestic laws of the Contracting States concerning taxes covered by the Convention insofar as the taxation thereunder is not contrary to the Convention. The exchange of information is not restricted by Article 1. Any information received by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons 16 [S.L.123.104 WITH THE HELLENIC REPUBLIC
-
-or authorities (including courts and administrative bodies) involved in the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by the Convention. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
+\1. The competent authorities of the Contracting States shall exchange such information as is necessary for carrying out the provisions of this Convention or of the domestic laws of the Contracting States concerning taxes covered by the Convention insofar as the taxation thereunder is not contrary to the Convention. The exchange of information is not restricted by Article 1. Any information received by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) involved in the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by the Convention. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
 
 \2. In no case shall the provisions of paragraph 1 be construed so as to impose on a Contracting State the obligation:
 
@@ -555,9 +523,7 @@ in respect of income derived on or after the first day of January of the calenda
 
 **TERMINATION**
 
-This Convention shall remain in force until terminated by a Contracting State. Either Contracting State may terminate the Convention, through diplomatic channels, by giving notice of termination at least six months before the end of any calendar year beginning after the expiration of a period of five years from the date of WITH THE HELLENIC REPUBLIC [S.L.123.104 17
-
-its entry into force. In such event, the Convention shall case to have effect:
+This Convention shall remain in force until terminated by a Contracting State. Either Contracting State may terminate the Convention, through diplomatic channels, by giving notice of termination at least six months before the end of any calendar year beginning after the expiration of a period of five years from the date of its entry into force. In such event, the Convention shall case to have effect:
 
 (a) in Malta:
 

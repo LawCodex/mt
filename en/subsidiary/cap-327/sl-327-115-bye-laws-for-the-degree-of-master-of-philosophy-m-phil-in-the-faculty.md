@@ -15,13 +15,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Philosophy - M.Phil. - in the Faculty of Arts (S.L. 327.115)
 
-DEGREE OF
-
-MASTER OF PHILOSOPHY - M.PHIL. -
-
-*1*
-
-IN THE FACULTY OF ARTS [S.L.327.115 SUBSIDIARY LEGISLATION 327.115
+SUBSIDIARY LEGISLATION 327.115
 
 BYE-LAWS FOR THE DEGREE OF
 

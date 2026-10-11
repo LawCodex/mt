@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in Arabic under the auspices of the Faculty of Arts (S.L. 327.292)
 
-DIPLOMA IN ARABIC UNDER THE AUSPICES
-
-*1*
-
-OF THE FACULTY OF ARTS [S.L.327.292
-
 **SUBSIDIARY LEGISLATION 327.292**
 
 **BYE-LAWS FOR THE DIPLOMA IN ARABIC**

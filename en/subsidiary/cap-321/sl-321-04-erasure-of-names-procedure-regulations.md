@@ -1,6 +1,6 @@
 ---
 title: "Erasure of Names Procedure Regulations"
-identifier: "S.L. 321.4"
+identifier: "S.L. 321.04"
 eli: "https://legislation.mt/eli/sl/321.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/321.4/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Erasure of Names Procedure Regulations (S.L. 321.4)
+# Erasure of Names Procedure Regulations (S.L. 321.04)
 
 **SUBSIDIARY LEGISLATION 321.04**
 

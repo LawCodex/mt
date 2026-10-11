@@ -1,6 +1,6 @@
 ---
 title: "Arrival and Departure of Passengers Regulations"
-identifier: "S.L. 61.1"
+identifier: "S.L. 61.01"
 eli: "https://legislation.mt/eli/sl/61.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/61.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Arrival and Departure of Passengers Regulations (S.L. 61.1)
+# Arrival and Departure of Passengers Regulations (S.L. 61.01)
 
 **SUBSIDIARY LEGISLATION 61.01**
 

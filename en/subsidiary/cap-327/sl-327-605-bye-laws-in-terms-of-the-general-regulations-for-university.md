@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws in terms of the General Regulations for University Postgraduate Awards, 2008 for the degree of Master in Theology - M.Th. - under the auspices of the Faculty of Theology (S.L. 327.605)
 
-*1*
-
-AUSPICES OF THE FACULTY OF THEOLOGY [S.L. 327.605
-
 **SUBSIDIARY LEGISLATION 327.605**
 
 **BYE-LAWS IN TERMS OF THEGENERAL**
@@ -68,11 +64,7 @@ The Course combines teaching and research in any area of Theology in which the B
 
 (a) a Bachelor degree obtained with Second Class Honours or better in Theology with a subsidiary area in Philosophy; or
 
-(b) a Bachelor degree obtained with Category II or [S.L. 327.605 AUSPICES OF THE FACULTY OF THEOLOGY
-
-better in Theology.
-
-*2*
+(b) a Bachelor degree obtained with Category II or better in Theology.
 
 (2) Applicants in possession of the degree of Bachelor of Sacred Theology with at least Second Class Honours shall also be eligible to apply.
 
@@ -106,11 +98,7 @@ Applicants admitted under sub-paragraph (b) of paragraph (1) of bye-law 4 shall 
 
 *Substituted by: L.N. 173 of 2021.*
 
-(1) The programme of study for applicants in terms of paragraph (1) of bye-law 4 shall comprise study-units to which a total of 120 ECTS credits are assigned, of which 90 ECTS credits are assigned AUSPICES OF THE FACULTY OF THEOLOGY [S.L. 327.605
-
-to taught study-units and 30 ECTS credits are assigned to a dissertation study-unit.
-
-*3*
+(1) The programme of study for applicants in terms of paragraph (1) of bye-law 4 shall comprise study-units to which a total of 120 ECTS credits are assigned, of which 90 ECTS credits are assigned to taught study-units and 30 ECTS credits are assigned to a dissertation study-unit.
 
 (2) The programme of study for applicants in terms of paragraph (2) of bye-law 4 shall comprise a total of 30 ECTS credits assigned to a research component.
 
@@ -148,11 +136,7 @@ provided that students registered on the 30 ECTS credits programme may be allowe
 
 (2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies. Such reports may include recommendations to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
-(i) the extension of the study period referred to [S.L. 327.605 AUSPICES OF THE FACULTY OF THEOLOGY
-
-in (a) shall be in accordance with the provisions of the Principal Regulations; and
-
-*4*
+(i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 
 (ii) the Board may not terminate studies prematurely according to (b) until it has first given the student a chance to be heard.
 

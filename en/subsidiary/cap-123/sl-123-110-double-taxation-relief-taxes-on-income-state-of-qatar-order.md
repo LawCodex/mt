@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (State of Qatar) Order (S.L. 123.110)
 
-*1*
-
-WITH THE STATE OF QATAR [S.L.123.110
-
 **SUBSIDIARY LEGISLATION 123.110**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -42,8 +38,6 @@ It is hereby declared:-
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Convention has entered into force on the 9th December, 2009.
-
-2 [S.L.123.110 WITH THE STATE OF QATAR
 
 ## SCHEDULE — AGREEMENT — BETWEEN
 
@@ -107,9 +101,7 @@ The Agreement shall apply also to any identical or substantially similar taxes t
 
 \1. For the purposes of this Agreement, unless the context otherwise requires:
 
-(a) the term "Qatar" means the State of Qatar’s lands, internal waters, territorial sea including its bed and subsoil, the air space over them, the exclusive economic zone and the continental shelf, over which the State of Qatar exercises sovereign rights and jurisdiction in accordance with the provisions of international law and Qatar’s national laws and WITH THE STATE OF QATAR [S.L.123.110 3
-
-regulations;
+(a) the term "Qatar" means the State of Qatar’s lands, internal waters, territorial sea including its bed and subsoil, the air space over them, the exclusive economic zone and the continental shelf, over which the State of Qatar exercises sovereign rights and jurisdiction in accordance with the provisions of international law and Qatar’s national laws and regulations;
 
 (b) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
 
@@ -144,8 +136,6 @@ regulations;
 \1. For the purposes of this Agreement, the term "resident of a Contracting State" means:
 
 (a) in the case of Qatar, any individual who has a permanent home, his centre of vital interest, or habitual abode in Qatar, and a company incorporated or having its place of effective management in Qatar. The term also includes the State of Qatar and any local authority, political subdivision or statutory body thereof;
-
-4 [S.L.123.110 WITH THE STATE OF QATAR
 
 (b) in the case of Malta, any person who, under the law of Malta, is liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature, and also includes Malta and any political subdivision or local authority thereof. This term, however, does not include any person who is liable to tax in Malta in respect only of income from sources in Malta.
 
@@ -187,8 +177,6 @@ regulations;
 
 (a) a building site, a construction, assembly or installation project or any supervisory activity in connection with such site or project, but only where such site, project or activity continues for period or periods aggregating more than six months; and
 
-WITH THE STATE OF QATAR [S.L.123.110 5
-
 (b) the furnishing of services, including consultancy services, by an enterprise through employees or other personnel engaged by the enterprise for such purpose, but only if the activities of that nature continue (for the same or a connected project) within a Contracting State for period or periods aggregating more than six months within any twelve month period.
 
 ## 4.
@@ -221,9 +209,7 @@ An enterprise shall not be deemed to have a permanent establishment in a Contrac
 
 ## 8.
 
-The fact that a company which is a resident of a Contracting State controls 6 [S.L.123.110 WITH THE STATE OF QATAR
-
-or is controlled by a company which is a resident of the other Contracting State, or which carries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself constitute either company a permanent establishment of the other.
+The fact that a company which is a resident of a Contracting State controls or is controlled by a company which is a resident of the other Contracting State, or which carries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself constitute either company a permanent establishment of the other.
 
 **ARTICLE 6**
 
@@ -247,9 +233,7 @@ or is controlled by a company which is a resident of the other Contracting State
 
 \3. In the determination of the profits of a permanent establishment, there shall be allowed as deductions expenses which are incurred for the purposes of the permanent establishment, including executive and general administrative expenses so incurred, whether in the State in which the permanent establishment is situated or elsewhere, which are allowed under the provisions of the domestic law of the Contracting State in which the permanent establishment is situated.
 
-\4. Insofar as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph 2 shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary; the method of apportionment adopted shall, however, be such that the result shall be in accordance with the WITH THE STATE OF QATAR [S.L.123.110 7
-
-principles contained in this Article.
+\4. Insofar as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph 2 shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary; the method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles contained in this Article.
 
 \5. No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
 
@@ -285,9 +269,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \1. Dividends paid by a company which is a resident of a Contracting State to a resident of the other Contracting State shall be taxable only in that other State.
 
-\2. The term "dividends" as used in this Article means income from shares or 8 [S.L.123.110 WITH THE STATE OF QATAR
-
-other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the Contracting State of which the company making the distribution is a resident.
+\2. The term "dividends" as used in this Article means income from shares or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the Contracting State of which the company making the distribution is a resident.
 
 \3. The provisions of paragraph 1 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in the other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
@@ -311,8 +293,6 @@ other rights, not being debt-claims, participating in profits, as well as income
 
 \1. Royalties arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other State.
 
-WITH THE STATE OF QATAR [S.L.123.110 9
-
 \2. However, such royalties may also be taxed in the Contracting State in which they arise and according to the laws of that State, but if the beneficial owner of the royalties is a resident of the other Contracting State, the tax so charged shall not exceed 5 per cent of the gross amount of the royalties.
 
 \3. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work (including cinematograph films and films, tapes or discs for radio or television broadcasting), any patent, trade mark, design or model, plan, secret formula or process, or for information concerning industrial, commercial or scientific experience.
@@ -333,9 +313,7 @@ WITH THE STATE OF QATAR [S.L.123.110 9
 
 \3. Gains from the alienation of ships or aircraft operated in international traffic or movable property pertaining to the operation of such ships or aircraft by an enterprise of a Contracting State, shall be taxable only in that State.
 
-\4. Gains derived by a resident of a Contracting State from the alienation of shares deriving more than 75 per cent of their value directly or indirectly from 10 [S.L.123.110 WITH THE STATE OF QATAR
-
-immovable property situated in the other Contracting State may be taxed in that other State. The provisions of this paragraph shall not apply if the immovable property is used in a manufacturing activity carried on for a continuous period of at least five years.
+\4. Gains derived by a resident of a Contracting State from the alienation of shares deriving more than 75 per cent of their value directly or indirectly from immovable property situated in the other Contracting State may be taxed in that other State. The provisions of this paragraph shall not apply if the immovable property is used in a manufacturing activity carried on for a continuous period of at least five years.
 
 \5. Gains from the alienation of any property other than that referred to in paragraphs 1, 2, 3 and 4 shall be taxable only in the Contracting State of which the alienator is a resident.
 
@@ -366,8 +344,6 @@ immovable property situated in the other Contracting State may be taxed in that 
 (c) the remuneration is not borne by a permanent establishment or a fixed base which the employer has in the other State.
 
 \3. Notwithstanding the preceding provisions of this Article, remuneration derived from an employment exercised on board a ship or aircraft operated in international traffic by an enterprise of a Contracting State may be taxed in that State.
-
-WITH THE STATE OF QATAR [S.L.123.110 11
 
 \4. Notwithstanding the preceding provisions of this Article, salaries, wages, allowances and other remuneration received by an employee in a top-level managerial position in an airline enterprise of a Contracting State, who is stationed in the other Contracting State, shall be taxable only in the first-mentioned State.
 
@@ -405,8 +381,6 @@ Directors’ fees and similar payments derived by a resident of a Contracting St
 
 (i) is a national of that other State; or
 
-12 [S.L.123.110 WITH THE STATE OF QATAR
-
 (ii) did not become a resident of that other State solely for the purpose of rendering the services.
 
 \2. (a) Any pension and other similar remuneration paid by, or out of funds created by, a Contracting State or a political subdivision or a local authority thereof to an individual in respect of services rendered to that State or subdivision or authority shall be taxable only in that State.
@@ -437,9 +411,7 @@ Directors’ fees and similar payments derived by a resident of a Contracting St
 
 \1. Items of income of a resident of a Contracting State, wherever arising, not dealt within the foregoing Articles of this Agreement shall be taxable only in that State.
 
-\2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, derived by a resident of a Contracting State, if the recipient of such income carries on business in WITH THE STATE OF QATAR [S.L.123.110 13
-
-the other Contracting State through a permanent establishment situated therein, or performs in the other State independent personal services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
+\2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, derived by a resident of a Contracting State, if the recipient of such income carries on business in the other Contracting State through a permanent establishment situated therein, or performs in the other State independent personal services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 **ARTICLE 23**
 
@@ -462,8 +434,6 @@ Subject to the relevant provisions of the laws of the Contracting States (and wi
 \5. The non-taxation of Qatari nationals under the general tax law of Qatar shall not be regarded as a discrimination under the provisions of this Article.
 
 \6. In this Article the term "taxation" means taxes which are the subject of this Agreement.
-
-14 [S.L.123.110 WITH THE STATE OF QATAR
 
 **ARTICLE 25**
 
@@ -490,8 +460,6 @@ Subject to the relevant provisions of the laws of the Contracting States (and wi
 (a) to carry out administrative measures at variance with the laws or the administrative practice of that or of the other Contracting State;
 
 (b) to supply information which is not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;
-
-WITH THE STATE OF QATAR [S.L.123.110 15
 
 (c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public policy (ordre public).
 

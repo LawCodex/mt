@@ -1,6 +1,6 @@
 ---
 title: "British Judgments Reciprocal Enforcement Order - New South Wales"
-identifier: "S.L. 52.2"
+identifier: "S.L. 52.02"
 eli: "https://legislation.mt/eli/sl/52.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/52.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# British Judgments Reciprocal Enforcement Order - New South Wales (S.L. 52.2)
-
-*1*
-
-RECIPROCAL ENFORCEMENT - NEW SOUTH WALES [ S.L.52.02
+# British Judgments Reciprocal Enforcement Order - New South Wales (S.L. 52.02)
 
 **SUBSIDIARY LEGISLATION 52.02**
 
@@ -45,10 +41,6 @@ WHEREAS by article 5(2) of the Reciprocal Enforcement of Judgements Act, it is p
 
 AND WHEREAS I am satisfied that by virtue of the Maintenance Orders (Facilities for Enforcement) Act, 1923, (New South Wales Act No. 4 of 1923) and of the Administration of Justice Act, 1924, (New South Wales Act No. 42 of 1924) and of Proclamations duly made thereunder by His Excellency the Governor of New South Wales, the Legislature of New South Wales has made such reciprocal provisions as aforesaid:
 
-NOW, THEREFORE, I, WILLIAM CHARLES FLEMING ROBERTSON, do declare and proclaim that the said Maintenance [S.L.52.02 RECIPROCAL ENFORCEMENT - NEW SOUTH WALES
+NOW, THEREFORE, I, WILLIAM CHARLES FLEMING ROBERTSON, do declare and proclaim that the said Maintenance Orders (Facilities for Enforcement) Ordinance and the Reciprocal Enforcement of Judgements Act shall apply and extend respectively to maintenance orders made by the Courts of New South Wales and to the judgements obtained in the Supreme Court of New South Wales.
 
 \*The Proclamation is reproduced in its original form. By virtue of the amendments, made to the parent law, by Act LVIII of 1974, the power to extend the applicability of the Act outside Malta is vested in the President of Malta.
-
-Orders (Facilities for Enforcement) Ordinance and the Reciprocal Enforcement of Judgements Act shall apply and extend respectively to maintenance orders made by the Courts of New South Wales and to the judgements obtained in the Supreme Court of New South Wales.
-
-*2*

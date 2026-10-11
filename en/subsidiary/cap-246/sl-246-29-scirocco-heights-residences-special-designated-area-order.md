@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Scirocco Heights Residences (Special Designated Area) Order (S.L. 246.29)
 
-*1*
-
-(SPECIAL DESIGNATED AREA) [S.L. 246.29
-
 **SUBSIDIARY LEGISLATION 246.29**
 
 **SCIROCCO HEIGHTS RESIDENCES (SPECIAL**
@@ -41,7 +37,3 @@ Scirocco Heights Residences consisting of immovable property situated in the are
 ## 3. Addition to the First Schedule to the Immovable Property (Acquisition by Non-Residents) Act. Cap. 246.
 
 Scirocco Heights Residences shall be added to the List of Scheduled Zones in the First Schedule to the Immovable Property (Acquisition by Non-Residents) Act.
-
-*2*
-
-[S.L. 246.29 (SPECIAL DESIGNATED AREA)

@@ -1,6 +1,6 @@
 ---
 title: "Prices payable for the Acquisition of Graves and Grave Sites Order"
-identifier: "S.L. 17.2"
+identifier: "S.L. 17.02"
 eli: "https://legislation.mt/eli/sl/17.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/17.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Prices payable for the Acquisition of Graves and Grave Sites Order (S.L. 17.2)
-
-*1*
-
-GRAVES AND GRAVE SITES [S.L.17.02
+# Prices payable for the Acquisition of Graves and Grave Sites Order (S.L. 17.02)
 
 **SUBSIDIARY LEGISLATION 17.02**
 
@@ -72,10 +68,6 @@ Any person who is informed of his entitlement for the acquisition of a grave wil
 (Deleted by L.N. 425 of 2016).
 
 \*refers to Legal Notice 425 of 2016 - 20th December, 2016.
-
-**[S.L.17.02 GRAVES AND GRAVE SITES**
-
-*2*
 
 Price of grave at 5. (Deleted by L.N. 425 of 2016).
 

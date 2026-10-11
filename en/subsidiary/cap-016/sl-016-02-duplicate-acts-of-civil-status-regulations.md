@@ -1,6 +1,6 @@
 ---
 title: "Duplicate Acts of Civil Status Regulations"
-identifier: "S.L. 16.2"
+identifier: "S.L. 16.02"
 eli: "https://legislation.mt/eli/sl/16.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/16.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Duplicate Acts of Civil Status Regulations (S.L. 16.2)
+# Duplicate Acts of Civil Status Regulations (S.L. 16.02)
 
 **SUBSIDIARY LEGISLATION 16.02**
 

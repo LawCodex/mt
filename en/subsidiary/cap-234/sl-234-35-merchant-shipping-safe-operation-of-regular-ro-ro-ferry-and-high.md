@@ -29,7 +29,3 @@ LEGAL NOTICE 433 of 2003, as amended by Act XV of 2009.
 Repealed by Legal Notice 345 of 2019.
 
 \*see regulation 1(2) of these Regulations, as originally promulgated.
-
-*2*
-
-[S.L.234.35 AND HIGH-SPEED PASSENGER CRAFT

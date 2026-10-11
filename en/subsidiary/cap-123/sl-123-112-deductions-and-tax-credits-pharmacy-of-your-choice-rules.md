@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Deductions and Tax Credits (Pharmacy Of Your Choice) Rules (S.L. 123.112)
 
-*1*
-
-(PHARMACY OF YOUR CHOICE) [S.L.123.112
-
 **SUBSIDIARY LEGISLATION 123.112**
 
 **DEDUCTIONS AND TAX CREDITS**
@@ -68,10 +64,6 @@ These rules shall apply to any person who:
 *Amended by: L.N. 113 of 2012; L.N. 283 of 2016.*
 
 (1) Where a qualifying person incurs expenditure in accordance with the provisions of rule 3, a deduction equivalent to three hundred per cent (300%) of the cost incurred with respect to each pharmacy outlet shall be allowed against the said person’s income chargeable to tax for the relative year of assessment:
-
-*2*
-
-[S.L.123.112 (PHARMACY OF YOUR CHOICE)
 
 Provided that where the cost referred to in this rule was incurred prior to the year preceding the year of assessment 2010, the said deduction shall be availed of in the year of assessment 2010.
 

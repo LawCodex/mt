@@ -1,6 +1,6 @@
 ---
 title: "Double Taxation Relief on Taxes on Income with the Islamic Republic of Pakistan Order"
-identifier: "S.L. 123.9"
+identifier: "S.L. 123.09"
 eli: "https://legislation.mt/eli/sl/123.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/123.9/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Double Taxation Relief on Taxes on Income with the Islamic Republic of Pakistan Order (S.L. 123.9)
-
-*1*
-
-WITH THE ISLAMIC REPUBLIC OF PAKISTAN [S.L.123.09
+# Double Taxation Relief on Taxes on Income with the Islamic Republic of Pakistan Order (S.L. 123.09)
 
 SUBSIDIARY LEGISLATION 123.09
 
@@ -44,8 +40,6 @@ It is hereby declared -
 the income tax, super-tax and the surcharge;
 
 (b) that it is expedient that those arrangements should have effect.
-
-2 [S.L.123.09 WITH THE ISLAMIC REPUBLIC OF PAKISTAN
 
 ## SCHEDULE — CONVENTION — BETWEEN
 
@@ -89,8 +83,6 @@ the income tax and surtax, including prepayments of tax whether made by deductio
 
 (4) This Convention shall also apply to any identical or substantially similar taxes which are imposed after the date of signature of this Convention in addition to, or in place of, the existing taxes by either Contracting State or by the Government of any territory to which the present Convention is extended under Article 27 of this Convention. The competent authorities of the Contracting States shall notify to each other any significant changes which have been made in their respective taxation laws.
 
-WITH THE ISLAMIC REPUBLIC OF PAKISTAN [S.L.123.09 3
-
 ## CHAPTER II — Definitions — ARTICLE 3
 
 **General Definitions**
@@ -127,9 +119,7 @@ WITH THE ISLAMIC REPUBLIC OF PAKISTAN [S.L.123.09 3
 
 **Fiscal Domicile**
 
-(1) For the purposes of this Convention, the term "resident of a Contracting 4 [S.L.123.09 WITH THE ISLAMIC REPUBLIC OF PAKISTAN
-
-State" means any person who, under the law of that State, is liable to taxation therein by reason of his domicile, residence, place of management or any other criterion of a similar nature.
+(1) For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the law of that State, is liable to taxation therein by reason of his domicile, residence, place of management or any other criterion of a similar nature.
 
 (2) Where by reason of the provisions of paragraph (1) an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
@@ -167,9 +157,7 @@ State" means any person who, under the law of that State, is liable to taxation 
 
 (g) a building site or construction or assembly project which exists for more than 12 months.
 
-(3) An enterprise of a Contracting State shall be deemed to have a permanent establishment in other Contracting State if it carries on supervisory activities in that WITH THE ISLAMIC REPUBLIC OF PAKISTAN [S.L.123.09 5
-
-other State for more than 12 months in connection with a construction or assembly project.
+(3) An enterprise of a Contracting State shall be deemed to have a permanent establishment in other Contracting State if it carries on supervisory activities in that other State for more than 12 months in connection with a construction or assembly project.
 
 (4) The term "permanent establishment" shall not be deemed to include -
 
@@ -195,9 +183,7 @@ other State for more than 12 months in connection with a construction or assembl
 
 (1) Income from immovable property may be taxed in the Contracting State in which such property is situated.
 
-(2) The term "immovable property" shall be defined in accordance with the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, rights to which the provisions of general law respecting immovable property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources; ships, boats and aircraft shall not be regarded as immovable property. 6 [S.L.123.09 WITH THE ISLAMIC REPUBLIC OF PAKISTAN
-
-(3) The provisions of paragraph (1) shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
+(2) The term "immovable property" shall be defined in accordance with the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, rights to which the provisions of general law respecting immovable property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources; ships, boats and aircraft shall not be regarded as immovable property. (3) The provisions of paragraph (1) shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
 (4) The provisions of paragraphs (1) and (3) shall also apply to the income from immovable property of an enterprise and to income from immovable property used for the performance of professional services.
 
@@ -225,9 +211,7 @@ other State for more than 12 months in connection with a construction or assembl
 
 (1) Profits derived by an enterprise of a Contracting State from the operation of ships or aircraft in international traffic shall be taxable only in that State.
 
-(2) Notwithstanding the provisions of paragraph (1) of Article 7, profits derived WITH THE ISLAMIC REPUBLIC OF PAKISTAN [S.L.123.09 7
-
-from the operation of ships or aircraft used principally to transport passengers or goods exclusively between places in a Contracting State may be taxed in that State.
+(2) Notwithstanding the provisions of paragraph (1) of Article 7, profits derived from the operation of ships or aircraft used principally to transport passengers or goods exclusively between places in a Contracting State may be taxed in that State.
 
 (3) The provisions of paragraphs (1) and (2) shall also apply to profits referred to in those paragraphs derived by an enterprise of a Contracting State from its participation in a pool, a joint business or in an international operating agency.
 
@@ -265,8 +249,6 @@ and in either case conditions are made or imposed between the two enterprises in
 
 (1) Dividends paid by a company which is a resident of a Contracting State to a resident of the other Contracting State may be taxed in that other State.
 
-8 [S.L.123.09 WITH THE ISLAMIC REPUBLIC OF PAKISTAN
-
 (2) However, such dividends may be taxed in the Contracting State of which the company paying the dividends is a resident, and according to the law of that State but -
 
 (a) where the dividends are paid by a company resident of Pakistan to a company resident of Malta which is the beneficial owner thereof, and which owns 20 per cent or more of the voting power of the first-mentioned company, the Pakistan tax so charged shall not exceed 15 per cent of the gross amount;
@@ -293,8 +275,6 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 (a) interest arising in Malta and paid to the Government of Pakistan or to the State Bank of Pakistan shall be exempt from Malta tax;
 
-WITH THE ISLAMIC REPUBLIC OF PAKISTAN [S.L.123.09 9
-
 (b) interest arising in Pakistan and paid to the Malta Government, the Central Bank of Malta or the Malta Development Corporation shall be exempt from Pakistan tax;
 
 (c) interest arising in a Contracting State to a financial institution of the other Contracting State, not less than 51 per cent of whose shares carrying voting rights are held by the Government of that other State, shall be exempt from tax in the first-mentioned State.
@@ -313,9 +293,7 @@ WITH THE ISLAMIC REPUBLIC OF PAKISTAN [S.L.123.09 9
 
 (1) Royalties arising in a Contracting State and paid to a resident of the other Contracting State shall be taxable only in that other State if such resident is the beneficial owner of the royalties and the royalties consist of payments of any kind received as consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work, including cinematographic films or tapes for television or broadcasting.
 
-(2) Royalties arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other Contracting State if the royalties consist of payments of any kind received as a consideration for the use of, or the right to use, any patent, trade mark, design, model, plan, secret formula or process, industrial, commercial or scientific equipment, or information concerning industrial, commercial or scientific experience. However, such royalties may also be taxed in 10 [S.L.123.09 WITH THE ISLAMIC REPUBLIC OF PAKISTAN
-
-the Contracting State in which they arise, and according to the law of that State, but if the recipient is the beneficial owner of the royalties, the tax so charged shall not exceed 10 per cent of the gross amount of such royalties.
+(2) Royalties arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other Contracting State if the royalties consist of payments of any kind received as a consideration for the use of, or the right to use, any patent, trade mark, design, model, plan, secret formula or process, industrial, commercial or scientific equipment, or information concerning industrial, commercial or scientific experience. However, such royalties may also be taxed in the Contracting State in which they arise, and according to the law of that State, but if the recipient is the beneficial owner of the royalties, the tax so charged shall not exceed 10 per cent of the gross amount of such royalties.
 
 (3) The provisions of paragraphs (1) and (2) shall not apply if the recipient of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise through a permanent establishment situated therein, or performs in that other State professional services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such a case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
@@ -334,8 +312,6 @@ the Contracting State in which they arise, and according to the law of that Stat
 (2) Gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or of movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing professional services, including such gains from the alienation of such a permanent establishment (alone or together with the whole enterprise) or of such a fixed base, may be taxed in the other State. However, gains from the alienation of ships or aircraft operated by an enterprise of a Contracting State in international traffic and movable property pertaining to the operation of such ships or aircraft, shall be taxable only in that Contracting State.
 
 (3) Gains from the alienation of any property other than those mentioned in paragraphs (1) and (2) shall be taxable only in the Contracting State of which the alienator is a resident.
-
-WITH THE ISLAMIC REPUBLIC OF PAKISTAN [S.L.123.09 11
 
 **ARTICLE 14**
 
@@ -369,9 +345,7 @@ Directors’ fees and similar payment derived by a resident of a Contracting Sta
 
 **Artistes and Athletes**
 
-(1) Notwithstanding the provisions of Articles 14 and 15, income derived by public entertainers, such as theatre, motion picture, radio or television artistes, and musicians, and by athletes, from their personal activities as such may be taxed in the 12 [S.L.123.09 WITH THE ISLAMIC REPUBLIC OF PAKISTAN
-
-Contracting State in which these activities are exercised.
+(1) Notwithstanding the provisions of Articles 14 and 15, income derived by public entertainers, such as theatre, motion picture, radio or television artistes, and musicians, and by athletes, from their personal activities as such may be taxed in the Contracting State in which these activities are exercised.
 
 (2) Notwithstanding the provisions of Article 7, where the activities mentioned in paragraph (1) of this Article are provided in a Contracting State by an enterprise of the other Contracting State the profits derived from providing these activities by such an enterprise may be taxed in the first-mentioned Contracting State.
 
@@ -405,8 +379,6 @@ Contracting State in which these activities are exercised.
 
 (4) The provisions of paragraph (1)(a) shall likewise apply in respect of remuneration paid, under a development assistance programme of a Contracting State, a political subdivision or a local authority thereof, out of funds exclusively supplied by that State, those political subdivisions or local authorities thereof, to a specialist or volunteer seconded to the other Contracting State with the consent of that other State.
 
-WITH THE ISLAMIC REPUBLIC OF PAKISTAN [S.L.123.09 13
-
 **ARTICLE 20**
 
 **Teachers, Students and Trainees**
@@ -437,9 +409,7 @@ shall not be taxed in the other Contracting State in respect of remittances from
 
 **Elimination of Double Taxation**
 
-(1) Subject to the provisions of Pakistan tax law regarding the allowance of credit against Pakistan tax in respect of foreign tax, Malta tax payable, whether directly or by deduction by a person resident in Pakistan, in respect of income from sources within Malta (including income accruing or arising in Malta but deemed, 14 [S.L.123.09 WITH THE ISLAMIC REPUBLIC OF PAKISTAN
-
-under the provisions of the law of Pakistan, to accrue or arise in Pakistan) shall be allowed as a credit against any Pakistan tax payable in respect of that income.
+(1) Subject to the provisions of Pakistan tax law regarding the allowance of credit against Pakistan tax in respect of foreign tax, Malta tax payable, whether directly or by deduction by a person resident in Pakistan, in respect of income from sources within Malta (including income accruing or arising in Malta but deemed, under the provisions of the law of Pakistan, to accrue or arise in Pakistan) shall be allowed as a credit against any Pakistan tax payable in respect of that income.
 
 (2) Subject to the provisions of the law of Malta regarding the allowance of credit against Malta tax in respect of foreign tax, where, in accordance with the provisions of this Convention there is included in a Malta assessment income from sources within Pakistan, Pakistan tax on such income shall be allowed as a credit against the relative Malta tax payable thereon.
 
@@ -459,9 +429,7 @@ under the provisions of the law of Pakistan, to accrue or arise in Pakistan) sha
 
 (5) Nothing contained in the other paragraphs of this Article shall be construed - (i) as obliging either of the Contracting States to grant to persons not resident in its territory those personal allowances and reliefs for tax purposes which are by law available only to persons who are so resident;
 
-(ii) as affecting any provisions of the law of Pakistan regarding the grant of rebate of tax to companies fulfilling specified requirements regarding WITH THE ISLAMIC REPUBLIC OF PAKISTAN [S.L.123.09 15
-
-the declaration and payment of dividends.
+(ii) as affecting any provisions of the law of Pakistan regarding the grant of rebate of tax to companies fulfilling specified requirements regarding the declaration and payment of dividends.
 
 **ARTICLE 24**
 
@@ -487,7 +455,7 @@ the declaration and payment of dividends.
 
 (b) to supply particulars which are not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;
 
-(c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public policy. 16 [S.L.123.09 WITH THE ISLAMIC REPUBLIC OF PAKISTAN
+(c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public policy.
 
 **ARTICLE 26**
 
@@ -521,9 +489,7 @@ the declaration and payment of dividends.
 
 **Termination**
 
-This Convention shall remain in force indefinitely but either of the Contracting States may, on or before the thirtieth day of June in any calendar year beginning after the expiration of a period of three years from the date of its entry into force, give to the other Contracting State, through diplomatic channels, written notice of WITH THE ISLAMIC REPUBLIC OF PAKISTAN [S.L.123.09 17
-
-termination and, in such event, the Convention shall cease to be effective:
+This Convention shall remain in force indefinitely but either of the Contracting States may, on or before the thirtieth day of June in any calendar year beginning after the expiration of a period of three years from the date of its entry into force, give to the other Contracting State, through diplomatic channels, written notice of termination and, in such event, the Convention shall cease to be effective:
 
 (a) in Pakistan, in respect of Pakistan tax for the "previous years" (as defined by the tax laws of Pakistan) beginning on or after the first day of January in the calendar year next following that in which notice of termination is given; and
 

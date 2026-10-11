@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Prime Minister and Minister of Finance for the Issue of €668,996,04 7% Malta Government Stock 2017 (S.L. 161.74)
 
-*1*
-
-GOVERNMENT STOCK 2017 [S.L.161.74
-
 **SUBSIDIARY LEGISLATION 161.74**
 
 **DIRECTIVE BY THE PRIME MINISTER AND**
@@ -58,10 +54,6 @@ An application for the Stock to be put on the official list for trading on the M
 ## 5. Charge on Government revenue and assets.
 
 The Stock and interest thereon will be a charge on the general revenue and assets of the Government of Malta.
-
-*2*
-
-[S.L.161.74 GOVERNMENT STOCK 2017
 
 ## 6. Redemption of Stock.
 

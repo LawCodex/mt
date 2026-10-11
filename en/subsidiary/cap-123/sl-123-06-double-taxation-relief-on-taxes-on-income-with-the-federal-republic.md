@@ -1,6 +1,6 @@
 ---
 title: "Double Taxation Relief on Taxes on Income with the Federal Republic of Germany Order"
-identifier: "S.L. 123.6"
+identifier: "S.L. 123.06"
 eli: "https://legislation.mt/eli/sl/123.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/123.6/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Double Taxation Relief on Taxes on Income with the Federal Republic of Germany Order (S.L. 123.6)
-
-*1*
-
-WITH THE FEDERAL REPUBLIC OF GERMANY [S.L.123.06
+# Double Taxation Relief on Taxes on Income with the Federal Republic of Germany Order (S.L. 123.06)
 
 **SUBSIDIARY LEGISLATION 123.06**
 
@@ -54,8 +50,6 @@ including the supplements levied thereon;
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Agreement has entered into force on the 27th December, 2001.
-
-2 [S.L.123.06 WITH THE FEDERAL REPUBLIC OF GERMANY
 
 ## SCHEDULE — AGREEMENT BETWEEN MALTA — AND THE FEDERAL REPUBLIC OF GERMANY
 
@@ -113,9 +107,7 @@ The Agreement shall apply also to any identical or substantially similar taxes w
 
 **GENERAL DEFINITIONS**
 
-\1. For the purposes of this Agreement, unless the context otherwise requires: a) the term "Federal Republic of Germany" means the territory of the WITH THE FEDERAL REPUBLIC OF GERMANY [S.L.123.06 3
-
-Federal Republic of Germany, as well as the area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial sea, insofar as the Federal Republic of Germany exercises there sovereign rights and jurisdiction in conformity with international law and its national legislation to explore the continental shelf and exploit its natural resources;
+\1. For the purposes of this Agreement, unless the context otherwise requires: a) the term "Federal Republic of Germany" means the territory of the Federal Republic of Germany, as well as the area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial sea, insofar as the Federal Republic of Germany exercises there sovereign rights and jurisdiction in conformity with international law and its national legislation to explore the continental shelf and exploit its natural resources;
 
 *b)*
 
@@ -159,11 +151,9 @@ bb) in the case of Malta, the Minister responsible for finance or his authorised
 
 *\2.*
 
-As regards the application of the Agreement by a Contracting State any term not defined therein shall, unless the context otherwise requires, have the meaning which it has under the law of that State concerning the taxes to which the Agreement 4 [S.L.123.06 WITH THE FEDERAL REPUBLIC OF GERMANY
+As regards the application of the Agreement by a Contracting State any term not defined therein shall, unless the context otherwise requires, have the meaning which it has under the law of that State concerning the taxes to which the Agreement Article 4
 
 *applies.*
-
-**Article 4**
 
 **RESIDENT**
 
@@ -207,9 +197,7 @@ f) a mine, an oil or gas well, a quarry or any other place of extraction of natu
 
 Notwithstanding the preceding provisions of this Article, the term "permanent establishment" shall be deemed not to include:
 
-a) the use of facilities solely for the purpose of storage, display or delivery WITH THE FEDERAL REPUBLIC OF GERMANY [S.L.123.06 5
-
-of goods or merchandise belonging to the enterprise;
+a) the use of facilities solely for the purpose of storage, display or delivery of goods or merchandise belonging to the enterprise;
 
 b) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of storage, display or delivery;
 
@@ -239,9 +227,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated.The term shall in any case include property accessory to immovable property, livestock, equipment and other business assets used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, or to explore for, mineral deposits, sources and other natural resources; ships, boats and aircraft shall not be regarded as immovable property.
 
-\3. The provisions of paragraph 1 shall apply to income derived from the direct 6 [S.L.123.06 WITH THE FEDERAL REPUBLIC OF GERMANY
-
-use, letting, or use in any other form of immovable property.
+\3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
 \4. The provisions of paragraphs 1 and 3 shall also apply to the income from immovable property of an enterprise and to income from immovable property used for the performance of independent personal services.
 
@@ -272,8 +258,6 @@ Where profits include items of income which are dealt with separately in other A
 \1. Profits from the operation of ships or aircraft in international traffic shall be taxable only in the Contracting State in which the place of effective management of the enterprise is situated.
 
 \2. For the purposes of this Article the term "profits from the operation of ships or aircraft in international traffic" shall include profits from:
-
-WITH THE FEDERAL REPUBLIC OF GERMANY [S.L.123.06 7
 
 a) the occasional chartering of ships or aircraft, and
 
@@ -307,9 +291,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \2. However, such dividends may also be taxed in the Contracting State of which the company paying the dividends is a resident and according to the laws of that State, but if the beneficial owner of the dividends is a resident of the other Contracting State the tax so charged shall not exceed:
 
-a) 5 per cent of the gross amount of the dividends if the beneficial owner is a company (other than a partnership) which holds directly at least 10 per 8 [S.L.123.06 WITH THE FEDERAL REPUBLIC OF GERMANY
-
-cent of the capital of the company paying the dividends;
+a) 5 per cent of the gross amount of the dividends if the beneficial owner is a company (other than a partnership) which holds directly at least 10 per cent of the capital of the company paying the dividends;
 
 **b) 15 per cent of the gross amount of the dividends in all other cases.**
 
@@ -331,9 +313,7 @@ b) 15 per cent on the profits out of which the dividends are paid, if the divide
 
 \1. Interest arising in a Contracting State and paid to a resident of the other Contracting State shall be taxable only in that other State if such resident is the beneficial owner of the interest.
 
-\2. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage, and in particular, income from WITH THE FEDERAL REPUBLIC OF GERMANY [S.L.123.06 9
-
-government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
+\2. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
 \3. The provisions of paragraph 1 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
@@ -355,9 +335,7 @@ government securities and income from bonds or debentures, including premiums an
 
 **CAPITAL GAINS**
 
-\1. Gains derived by a resident of a Contracting State from the alienation of immovable property situated in the other Contracting State may be taxed in that 10 [S.L.123.06 WITH THE FEDERAL REPUBLIC OF GERMANY
-
-other State.
+\1. Gains derived by a resident of a Contracting State from the alienation of immovable property situated in the other Contracting State may be taxed in that other State.
 
 \2. Gains from the alienation of shares and similar rights in a company, the assets of which consist principally of immovable property situated in a Contracting State may be taxed in that State.
 
@@ -384,8 +362,6 @@ other State.
 \2. Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in the other Contracting State shall be taxable only in the first-mentioned State if:
 
 a) the recipient is present in the other State for a period or periods not exceeding in the aggregate 183 days in any twelve-month period commencing or ending in the fiscal year concerned, and
-
-WITH THE FEDERAL REPUBLIC OF GERMANY [S.L.123.06 11
 
 b) the remuneration is paid by, or on behalf of, an employer who is not a resident of the other State, and
 
@@ -419,8 +395,6 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 \2. Notwithstanding the provisions of paragraph 1, payments received by an individual being a resident of a Contracting State from the statutory social insurance of the other Contracting State shall be taxable only in that other State.
 
-12 [S.L.123.06 WITH THE FEDERAL REPUBLIC OF GERMANY
-
 \3. Notwithstanding the provisions of paragraph 1, recurrent or non-recurrent payments made by one of the Contracting States or a political subdivision thereof to a person resident in the other Contracting State for damages sustained as a result of war or political persecution or of military or civil service (including restitution payments) shall be taxable only in the first-mentioned State.
 
 \4. The term "annuities" means certain amounts payable periodically at stated times, for life or for a specified or ascertainable period of time, under an obligation to make the payments in return for adequate and full consideration in money or money’s worth.
@@ -443,9 +417,7 @@ b) did not become a resident of that State solely for the purpose of rendering t
 
 \4. The provisions of paragraph 1 shall likewise apply in respect of remuneration paid, under a development assistance programme of a Contracting State, a Land, a political subdivision or a local authority thereof, out of funds exclusively supplied by that State, Land, political subdivision or local authority, to a specialist or volunteer seconded to the other Contracting State with the consent of that other State.
 
-\5. The provisions of paragraph 1 shall likewise apply in respect of remuneration paid by or for the Goethe Institute of the Federal Republic of Germany. Corresponding treatment of the remuneration of other comparable institutions of the Contracting States may be arranged by the competent authorities WITH THE FEDERAL REPUBLIC OF GERMANY [S.L.123.06 13
-
-by mutual agreement. If such remuneration is not taxed in the State where the institution was founded, the provisions of Article 15 shall apply.
+\5. The provisions of paragraph 1 shall likewise apply in respect of remuneration paid by or for the Goethe Institute of the Federal Republic of Germany. Corresponding treatment of the remuneration of other comparable institutions of the Contracting States may be arranged by the competent authorities by mutual agreement. If such remuneration is not taxed in the State where the institution was founded, the provisions of Article 15 shall apply.
 
 **Article 20**
 
@@ -472,10 +444,6 @@ by mutual agreement. If such remuneration is not taxed in the State where the in
 \2. Capital represented by movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or by movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing independent personal services, may be taxed in that other State.
 
 \3. Capital represented by ships and aircraft operated in international traffic and by movable property pertaining to the operation of such ships and aircraft shall be taxable only in the Contracting State in which the place of effective management of the enterprise is situated.
-
-*14*
-
-[S.L.123.06 WITH THE FEDERAL REPUBLIC OF GERMANY
 
 *\4.*
 
@@ -507,9 +475,7 @@ c) For the purposes of sub-paragraph b) of this paragraph,
 
 aa) dividends referred to in sub-paragraph b) of paragraph 3 of Article 10, and
 
-bb) dividends paid out of profits benefiting out of any time-limited exemption or reduction of tax granted under incentive provisions contained in the Malta law designed to promote economic development to the extent that such exemption or reduction is granted for profits from industrial or manufacturing activities, agriculture, fishing, tourism (including restaurants and hotels) and other activities as may be agreed upon by the competent authorities, provided that the activities have been carried out within Malta, shall be subject to German tax on the amount after the deduction of Malta tax paid (if any) on the profits out of which the dividends are paid under the laws of Malta and in accordance with this Agreement, and a tax of 20 per cent calculated on the gross amount of the dividends shall be deemed WITH THE FEDERAL REPUBLIC OF GERMANY [S.L.123.06 15
-
-to have been paid in Malta.The provisions of this sub-paragraph shall apply for the first ten years during which this Agreement is effective.This period may be extended by mutual agreement between the competent authorities.
+bb) dividends paid out of profits benefiting out of any time-limited exemption or reduction of tax granted under incentive provisions contained in the Malta law designed to promote economic development to the extent that such exemption or reduction is granted for profits from industrial or manufacturing activities, agriculture, fishing, tourism (including restaurants and hotels) and other activities as may be agreed upon by the competent authorities, provided that the activities have been carried out within Malta, shall be subject to German tax on the amount after the deduction of Malta tax paid (if any) on the profits out of which the dividends are paid under the laws of Malta and in accordance with this Agreement, and a tax of 20 per cent calculated on the gross amount of the dividends shall be deemed to have been paid in Malta.The provisions of this sub-paragraph shall apply for the first ten years during which this Agreement is effective.This period may be extended by mutual agreement between the competent authorities.
 
 d) The provisions of sub-paragraph b) shall apply instead of the provisions of sub-paragraph a) to items of income as defined in Articles 7 and 10 and to the assets from which such income is derived if the resident of the Federal Republic of Germany does not prove that the gross income of the permanent establishment in the business year in which the profit has been realised or of the company resident in Malta in the business year for which the dividends were paid was derived exclusively or almost exclusively from activities within the meaning of nos.1 to 6 of paragraph 1 of section 8 of the German Law on External Tax Relations (Aussensteuergesetz) or from participations within the meaning of paragraph 2 of section 8 of that Law; the same shall apply to immovable property used by a permanent establishment (paragraph 4 of Article 6) and to profits from the alienation of such immovable property (paragraph 1 of Article 13) and of the movable property forming part of the business property of the permanent establishment (paragraph 3 of Article 13).
 
@@ -522,8 +488,6 @@ bb) if after proper consultation and subject to the limitations of its domestic 
 \2. Tax shall be determined in the case of a resident of Malta as follows:
 
 Subject to the provisions of the law of Malta regarding the allowance of a credit against Malta tax in respect of foreign tax, where, in accordance with the provisions of this Agreement, there is included in a Malta assessment income from sources within the Federal Republic of Germany, the German tax paid on such income shall be allowed as a credit against Malta tax payable thereon.
-
-16 [S.L.123.06 WITH THE FEDERAL REPUBLIC OF GERMANY
 
 **Article 24**
 
@@ -545,9 +509,7 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 \1. Where a person considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Agreement, he may, irrespective of the remedies provided by the domestic law of those States, present his case to the competent authority of the Contracting State of which he is a resident or, if his case comes under paragraph 1 of Article 24, to that of the Contracting State of which he is a national.The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Agreement.
 
-\2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the WITH THE FEDERAL REPUBLIC OF GERMANY [S.L.123.06 17
-
-case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Agreement.Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
+\2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Agreement.Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
 
 \3. The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Agreement. They may also consult together for the avoidance of double taxation in cases not provided for in the Agreement.
 
@@ -569,11 +531,9 @@ a) to carry out administrative measures at variance with the laws and administra
 
 b) to supply information which is not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;
 
-c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public policy 18 [S.L.123.06 WITH THE FEDERAL REPUBLIC OF GERMANY
+c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public policy (ordre public).
 
 \*as substituted by Protocol reproduced in Legal Notice 383 of 2011.
-
-(ordre public).
 
 (4) If information is requested by a Contracting State in accordance with this Article, the other Contracting State shall use its information gathering measures to obtain the requested information, even though that other State may not need such information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall such limitations be construed to permit a Contracting State to decline to supply information solely because it has no domestic interest in such information.
 
@@ -609,8 +569,6 @@ Nothing in this Agreement shall effect the fiscal privileges of members of a dip
 
 Registration of this Agreement with the Secretariat of the United Nations, in accordance with Article 102 of the Charter of the United Nations, shall be initiated jointly by both Contracting States, immediately after its entry into force.
 
-WITH THE FEDERAL REPUBLIC OF GERMANY [S.L.123.06 19
-
 **Article 31**
 
 **ENTRY INTO FORCE**
@@ -643,8 +601,6 @@ Joe Borg Wolfgang Ischinger
 
 Minister of Foreign Affairs Secretary of State
 
-20 [S.L.123.06 WITH THE FEDERAL REPUBLIC OF GERMANY
-
 **PROTOCOL**
 
 Malta and The Federal Republic of Germany have agreed, at the signing at Berlin on 8 March 2001 of the Agreement between the two States for the avoidance of double taxation with respect to taxes on income and on capital, upon the following provisions, which shall form an integral part of the said Agreement:
@@ -661,7 +617,7 @@ The provisions of paragraph 3 of Article 10 shall continue to apply in Malta as 
 
 \3. With reference to Articles 10 and 11:
 
-Notwithstanding the provisions of Articles 10 and 11, income derivedin the Federal Republic of Germany from rights or debt-claims participating in profits including income of a sleeping partner ("stiller Gesellschafter") from his participation as such or from a "partiarisches Darlehen" or "Gewinnobligationen" that is deductible in determining the profits of the debtor may be taxed in the Federal Republic of Germany according to the laws of the Federal Republic of Germany. WITH THE FEDERAL REPUBLIC OF GERMANY [S.L.123.06 21
+Notwithstanding the provisions of Articles 10 and 11, income derivedin the Federal Republic of Germany from rights or debt-claims participating in profits including income of a sleeping partner ("stiller Gesellschafter") from his participation as such or from a "partiarisches Darlehen" or "Gewinnobligationen" that is deductible in determining the profits of the debtor may be taxed in the Federal Republic of Germany according to the laws of the Federal Republic of Germany.
 
 4.\* With reference to Article 26:
 
@@ -687,13 +643,9 @@ a) The data-receiving State may use such data only for the stated purpose and sh
 
 b) The data-receiving State shall on request inform the data-supplying State about the use of the supplied data and the results achieved thereby. c) Personal data may be supplied only to the competent authorities. Any subsequent supply to other authorities may be effected only with the prior approval of the supplying competent authority.
 
-d) The data-supplying State shall be obliged to ensure that the data to be supplied are accurate and that they are foreseeably relevant for and proportionate to the purpose for which they are supplied. Any bans on data supply prescribed under applicable domestic law shall be observed. [S.L.123.06 WITH THE FEDERAL REPUBLIC OF GERMANY
+d) The data-supplying State shall be obliged to ensure that the data to be supplied are accurate and that they are foreseeably relevant for and proportionate to the purpose for which they are supplied. Any bans on data supply prescribed under applicable domestic law shall be observed. If it emerges that inaccurate data or data which should not have been supplied have been supplied, the data-receiving State shall be informed of this without delay. That State shall be obliged to correct or erase such data.
 
 \*as substituted by Protocol reproduced in Legal Notice 383 of 2011.
-
-If it emerges that inaccurate data or data which should not have been supplied have been supplied, the data-receiving State shall be informed of this without delay. That State shall be obliged to correct or erase such data.
-
-*22*
 
 *e)*
 
@@ -735,9 +687,7 @@ persons entitled to any special tax benefit in respect of distributions by a tru
 
 *d)*
 
-persons entitled to any special tax benefit under any substantially similar law subsequently enacted which is considered in mutual agreement by the competent authorities of the Contracting States as special fiscal treatment within the meaning of paragraph 2 of Article 27 WITH THE FEDERAL REPUBLIC OF GERMANY [S.L.123.06 23
-
-of this Agreement.
+persons entitled to any special tax benefit under any substantially similar law subsequently enacted which is considered in mutual agreement by the competent authorities of the Contracting States as special fiscal treatment within the meaning of paragraph 2 of Article 27 of this Agreement.
 
 **Protocol**
 
@@ -779,9 +729,7 @@ a) to carry out administrative measures at variance with the laws and administra
 
 b) to supply information which is not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;
 
-c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or 24 [S.L.123.06 WITH THE FEDERAL REPUBLIC OF GERMANY
-
-information, the disclosure of which would be contrary to public policy (ordre public).
+c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public policy (ordre public).
 
 (4) If information is requested by a Contracting State in accordance with this Article, the other Contracting State shall use its information gathering measures to obtain the requested information, even though that other State may not need such information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall such limitations be construed to permit a Contracting State to decline to supply information solely because it has no domestic interest in such information.
 
@@ -809,8 +757,6 @@ f) a statement that the request is in conformity with the law and administrative
 
 (2) The requested information shall also be "foreseeably relevant" in the case of a request for information where the name of the person is unknown and the requesting competent authority confirms to the requested competent authority that it has reasonable grounds for suspecting the existence of criminal tax matters involving assets situated or persons resident in the Contracting States. For the purposes of this paragraph the term "criminal tax matters" means tax matters involving intentional conduct which is liable to prosecution under the criminal laws of the requesting Contracting State.
 
-WITH THE FEDERAL REPUBLIC OF GERMANY [S.L.123.06 25
-
 (3) Insofar as personal data are supplied under Article 26, the following additional provisions shall apply:
 
 a) The data-receiving State may use such data only for the stated purpose and shall be subject to the conditions prescribed by the data-supplying State.
@@ -833,9 +779,7 @@ i) The data-supplying and the data-receiving States shall be obliged to take eff
 
 (1) This Protocol shall be subject to ratification; the instruments of ratification shall be exchanged as soon as possible in Berlin.
 
-(2) This Protocol shall enter into force on the day of the exchange of the instruments of ratification. Upon the date of entry into force, this Protocol shall have 26 [S.L.123.06 WITH THE FEDERAL REPUBLIC OF GERMANY
-
-effect in both Contracting States even on taxes levied prior to its entry into force.
+(2) This Protocol shall enter into force on the day of the exchange of the instruments of ratification. Upon the date of entry into force, this Protocol shall have effect in both Contracting States even on taxes levied prior to its entry into force.
 
 (3) This Protocol shall be an integral part of the Agreement and shall remain in force for as long as the Agreement itself.
 

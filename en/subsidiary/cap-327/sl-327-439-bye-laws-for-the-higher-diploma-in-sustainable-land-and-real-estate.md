@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Higher Diploma in Sustainable Land and Real Estate Management under the auspices of the Institute for Sustainable Development - Repealed by Legal Notice 3 of 2020 (S.L. 327.439)
 
-HIGHER DIPLOMA IN SUSTAINABLE LAND AND REAL
-
-ESTATE MANAGEMENT UNDER THE AUSPICES OF THE
-
-*1*
-
-INSTITUTE FOR SUSTAINABLE DEVELOPMENT [S.L.327.439
-
 **SUBSIDIARY LEGISLATION 327.439**
 
 **BYE-LAWS FOR THE HIGHER DIPLOMA IN**

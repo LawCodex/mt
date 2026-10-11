@@ -1,6 +1,6 @@
 ---
 title: "Claims for Property administered as Enemy Property Regulations"
-identifier: "S.L. 179.1"
+identifier: "S.L. 179.01"
 eli: "https://legislation.mt/eli/sl/179.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/179.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Claims for Property administered as Enemy Property Regulations (S.L. 179.1)
-
-CLAIMS FOR PROPERTY
-
-*1*
-
-ADMINISTERED AS ENEMY PROPERTY [S.L.179.01
+# Claims for Property administered as Enemy Property Regulations (S.L. 179.01)
 
 **SUBSIDIARY LEGISLATION 179.01**
 

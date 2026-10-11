@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctorate in Pharmacy - Pharm.D. - under the auspices of the Faculty of Medicine and Surgery (S.L. 327.492)
 
-UNDER THE AUSPICES OF THE FACULTY
-
-*1*
-
-OF MEDICINE AND SURGERY [S.L.327.492
-
 **SUBSIDIARY LEGISLATION 327.492**
 
 BYE-LAWS FOR THE DEGREE OF DOCTORATE IN PHARMACY - Pharm.D. - UNDER THE AUSPICES OF THE FACULTY OF MEDICINE AND SURGERY 9th July, 2014
@@ -67,12 +61,6 @@ These bye-laws shall apply to courses commencing in 1st October 2018 onwards.
 
 The course shall extend over three years of full-time study or the equivalent in part-time study.
 
-UNDER THE AUSPICES OF THE FACULTY
-
-*2*
-
-[S.L.327.492 OF MEDICINE AND SURGERY
-
 ## 5. Programme of study.
 
 *Substituted by: L.N. 378 of 2018.*
@@ -109,11 +97,7 @@ The programme of study shall be published after approval by Senate, on the recom
 
 (4) The Board, upon the recommendation of the Board of Studies, shall appoint a Professional Practice Supervisor, who shall be a practising pharmacist, for each student. Professional Practice Supervisors shall provide guidance and advice on a regular basis during the students` professional practice.
 
-UNDER THE AUSPICES OF THE FACULTY
-
-*3*
-
-OF MEDICINE AND SURGERY [S.L.327.492 (5) Students shall be required to have regular contact with their Professional Practice Supervisors.
+(5) Students shall be required to have regular contact with their Professional Practice Supervisors.
 
 ## 11. Professional Practice Supervisors.
 

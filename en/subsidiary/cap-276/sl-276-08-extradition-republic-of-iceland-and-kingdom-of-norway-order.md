@@ -1,6 +1,6 @@
 ---
 title: "Extradition (Republic of Iceland and Kingdom of Norway) Order"
-identifier: "S.L. 276.8"
+identifier: "S.L. 276.08"
 eli: "https://legislation.mt/eli/sl/276.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,7 @@ version: "https://legislation.mt/eli/sl/276.8/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Extradition (Republic of Iceland and Kingdom of Norway) Order (S.L. 276.8)
-
-*1*
-
-AND KINGDOM OF NORWAY) [S.L.276.08
+# Extradition (Republic of Iceland and Kingdom of Norway) Order (S.L. 276.08)
 
 **SUBSIDIARY LEGISLATION 276.08**
 
@@ -68,10 +64,6 @@ In this Order, unless the context otherwise requires -
 
 \*not yet in force.
 
-*2*
-
-[S.L.276.08 AND KINGDOM OF NORWAY)
-
 "scheduled conduct" is a conduct in the list of conduct set out in Schedule 2;
 
 "scheduled country" means a country listed in Schedule 1;
@@ -90,38 +82,17 @@ In this Order, unless the context otherwise requires -
 
 (2) The relevant Act and any applicable Order in force before the relevant date shall continue to apply to requests for the return of a fugitive criminal to a scheduled country pending in Malta on the relevant date and to requests made by Malta to a scheduled country before the relevant date, and any arrangement applicable between that country and Malta before the relevant date shall also continue to apply to those requests.
 
-(3) Where a scheduled country has, in terms of the
+(3) Where a scheduled country has, in terms of the Arrangement, given notice that as the requested country the legislation in force before its legislation implementing the provisions of the Arrangement applies to acts committed before a date specified by it, the relevant Act and any applicable Order in force before the relevant date shall continue to apply to those acts and any arrangement applicable between that country and Malta before the relevant date shall also continue to apply thereto.
 
-Arrangement, given notice that as the requested country the  
-legislation in force before its legislation implementing the  
-provisions of the Arrangement applies to acts committed before a  
-date specified by it, the relevant Act and any applicable Order in  
-force before the relevant date shall continue to apply to those acts  
-and any arrangement applicable between that country and Malta  
-before the relevant date shall also continue to apply thereto.  
-Scheduled  4. (1) Subject to the provisions of article 3, those countries  
-countries.  
-listed in Schedule 1 are hereby being designated as foreign  
-countries for the purposes of article 7 of the relevant Act in respect  
-of requests for the return of fugitive criminals from or to a  
-scheduled country received or made by Malta on or after the  
-relevant date and any arrangement with any such country, other  
-than the Arrangement, applicable to Malta before the relevant date  
-shall, in respect of such requests, be deemed to have been revoked  
-with effect from the relevant date.  
-(2) Subject to the provisions of article 3, the provisions of the  
-S.L. 276.03  Extradition (Designated Foreign Countries) Order (No.2), of the  
-Extraditon (Designated Foreign Countries) Order, and those of the  
-S.L. 276.04  European Convention on Extradition (Fiscal Offences) Order, in so  
-far as applicable to any scheduled country before the relevant date  
-shall with effect from the relevant date no longer apply to any such  
-country in respect of requests for the return of fugitive criminals  
-from or to a scheduled country received or made by Malta after the  
-relevant date.
+### 4. Scheduled countries.
 
-*3*
+(1) Subject to the provisions of article 3, those countries listed in Schedule 1 are hereby being designated as foreign countries for the purposes of article 7 of the relevant Act in respect of requests for the return of fugitive criminals from or to a scheduled country received or made by Malta on or after the relevant date and any arrangement with any such country, other than the Arrangement, applicable to Malta before the relevant date shall, in respect of such requests, be deemed to have been revoked with effect from the relevant date.
 
-AND KINGDOM OF NORWAY) [S.L.276.08
+*S.L. 276.03*
+
+(2) Subject to the provisions of article 3, the provisions of the Extradition (Designated Foreign Countries) Order (No.2), of the Extraditon (Designated Foreign Countries) Order, and those of the European Convention on Extradition (Fiscal Offences) Order, in so far as applicable to any scheduled country before the relevant date shall with effect from the relevant date no longer apply to any such country in respect of requests for the return of fugitive criminals from or to a scheduled country received or made by Malta after the relevant date.
+
+*S.L. 276.04*
 
 ## PART II — Extradition to scheduled countries
 
@@ -162,10 +133,6 @@ Provided that this paragraph shall be deemed to have been complied with notwiths
 (b) the warrant is issued with a view to his arrest and extradition to the scheduled country for the purpose of being sentenced for the offence or of serving a sentence of imprisonment or another form of detention imposed in respect of the offence.
 
 (8) The information is -
-
-*4*
-
-[S.L.276.08 AND KINGDOM OF NORWAY)
 
 (a) to the extent applicable, the particulars mentioned in article 13(2)(b)(i) and (ii) of the relevant Act:
 
@@ -209,11 +176,7 @@ A Part II warrant shall be deemed to be a request for the return of a fugitive c
 
 (b) any information sent with the alert relating to the case were included in the warrant.
 
-(3) As applied by subarticle (2), this Order has effect with AND KINGDOM OF NORWAY) [S.L.276.08
-
-these modifications -
-
-*5*
+(3) As applied by subarticle (2), this Order has effect with these modifications -
 
 (a) in article 7 for the words "issuing arrest warrants" there shall be substituted the words "requesting the issue of alerts";
 
@@ -247,11 +210,7 @@ The Attorney General may, in his own individual judgement, issue a certificate t
 
 (6) If subarticle (4) is not complied with and the person arrested applies to the court to be discharged, the court must order his discharge.
 
-(7) A person arrested under the warrant must be treated as continuing in legal custody until he is brought before the court [S.L.276.08 AND KINGDOM OF NORWAY)
-
-under subarticle (4) or he is discharged under subarticles (5) or (6).
-
-*6*
+(7) A person arrested under the warrant must be treated as continuing in legal custody until he is brought before the court under subarticle (4) or he is discharged under subarticles (5) or (6).
 
 ### 9. Provisional arrest.
 
@@ -298,10 +257,6 @@ under subarticle (4) or he is discharged under subarticles (5) or (6).
 (a) fix a date on which the extradition hearing is to begin, which date must be not later than twenty days from the date of the initial hearing;
 
 (b) inform the person of the contents of the warrant referred to in article 5;
-
-*7*
-
-AND KINGDOM OF NORWAY) [S.L.276.08
 
 (c) give the person the required information about consent.
 
@@ -357,10 +312,6 @@ AND KINGDOM OF NORWAY) [S.L.276.08
 
 (2) Articles 14 to 22 apply for the interpretation of subarticle (1).
 
-*8*
-
-[S.L.276.08 AND KINGDOM OF NORWAY)
-
 (3) If the court decides that the person’s return is barred by any of the reasons mentioned in subarticle (1), it must order the person’s discharge.
 
 (4) If the court decides that the person’s return is not barred by any of the reasons mentioned in subarticle (1) and the person is alleged to be unlawfully at large after conviction of the extraditable offence, the court must proceed under article 23.
@@ -403,11 +354,7 @@ A person’s return to a scheduled country is barred by reason of his age if, an
 
 ### 18. Speciality.
 
-(1) A person’s return to a scheduled country is barred by reason of speciality if, and only if, there is no speciality AND KINGDOM OF NORWAY) [S.L.276.08
-
-arrangement with the scheduled country as is referred to in article 10(3) and 10(4) of the relevant Act.
-
-*9*
+(1) A person’s return to a scheduled country is barred by reason of speciality if, and only if, there is no speciality arrangement with the scheduled country as is referred to in article 10(3) and 10(4) of the relevant Act.
 
 (2) Article 10(3) of the relevant Act shall have effect subject to the following provisions of this article.
 
@@ -442,10 +389,6 @@ A person’s return to a scheduled country is barred by reason of his earlier ex
 (b) under arrangements between Malta and the extraditing country, that country’s consent is required to the person’s return from Malta to the scheduled country in respect of the extraditable offence under consideration;
 
 (c) that consent has not been given on behalf of the extraditing country.
-
-*10*
-
-[S.L.276.08 AND KINGDOM OF NORWAY)
 
 ### 20. Earlier extradition to Malta from country other than scheduled country.
 
@@ -485,11 +428,7 @@ A person’s return to a scheduled country is barred by reason of the death pena
 
 (b) the person requested, being aware of the scheduled trial, had given a mandate to legal counsel appointed by him or by the scheduled country, to defend him at his trial, and was indeed defended by the said legal counsel at the trial; or
 
-(c) the person requested, after being served with the decision and being expressly informed of the right to a retrial or an appeal, in which he has the right to AND KINGDOM OF NORWAY) [S.L.276.08
-
-participate and which allows the merits of the case, including fresh evidence, to be re-examined and which may lead to the original decision being reversed, expressly stated that he does not contest the decision or he did not request a retrial or an appeal within the applicable timeframe; or
-
-*11*
+(c) the person requested, after being served with the decision and being expressly informed of the right to a retrial or an appeal, in which he has the right to participate and which allows the merits of the case, including fresh evidence, to be re-examined and which may lead to the original decision being reversed, expressly stated that he does not contest the decision or he did not request a retrial or an appeal within the applicable timeframe; or
 
 (d) the person against whom the relevant arrest warrant was issued was not personally served with the decision but:
 
@@ -520,10 +459,6 @@ If the court is required to proceed under this article by virtue of article 13(5
 ### 25. Duty of court of committal to inform person committed of his rights.
 
 (1) Where a person is committed to custody under article 24, the provisions of article 16 of the relevant Act shall apply subject to the modification in subarticle (2).
-
-*12*
-
-[S.L.276.08 AND KINGDOM OF NORWAY)
 
 (2) Article 16 of the relevant Act shall apply as if for the words "fifteen days" therein there were substituted the words "seven days".
 
@@ -579,11 +514,7 @@ The decision on surrender shall be taken by the court within one month starting 
 
 (iv) the proceedings are put off sine die:
 
-Provided that at any time after the decision to postpone, the court may grant bail to the person whose surrender has been temporarily postponed, so however that, when any of the events mentioned in sub- AND KINGDOM OF NORWAY) [S.L.276.08
-
-paragraph (i) to (iv) occurs, the court shall forthwith order the re-arrest and surrender of the person; or
-
-*13*
+Provided that at any time after the decision to postpone, the court may grant bail to the person whose surrender has been temporarily postponed, so however that, when any of the events mentioned in sub-paragraph (i) to (iv) occurs, the court shall forthwith order the re-arrest and surrender of the person; or
 
 (b) temporarily surrender the person under conditions agreed in writing with the authority which issued the Part II warrant.
 
@@ -628,10 +559,6 @@ This article applies if at any time in the extradition hearing the court is info
 (2) The court shall decide, after consulting the Attorney General, whether -
 
 (a) to temporarily transfer the person requested to the requesting country under such conditions and for such period as may be agreed, with the concurrence of the Attorney General, with the requesting judicial authority; and
-
-*14*
-
-[S.L.276.08 AND KINGDOM OF NORWAY)
 
 (b) to order that the request shall be communicated to a magistrate for execution whereupon the provisions of article 649(1) and (6) of the Criminal Code shall apply.
 
@@ -683,11 +610,7 @@ The decision by the Court of Criminal Appeal shall be taken not later than one m
 
 (5) If subarticle (3) is not complied with and the person applies to the court to be discharged the court must order his discharge, unless reasonable cause is shown for the delay.
 
-(6) If within the period mentioned in subarticle (4), and before he is returned to the scheduled country, the person files any proceedings as those described in article 21(2)(b) and (c) of the AND KINGDOM OF NORWAY) [S.L.276.08
-
-relevant Act even if he failed to appeal within the time allowed by the relevant Act, the provisions of this article shall no longer apply and the said article 21(2) of the relevant Act, as modified by article 33(2) of this Order, and article 35 of this Order shall thereupon apply.
-
-*15*
+(6) If within the period mentioned in subarticle (4), and before he is returned to the scheduled country, the person files any proceedings as those described in article 21(2)(b) and (c) of the relevant Act even if he failed to appeal within the time allowed by the relevant Act, the provisions of this article shall no longer apply and the said article 21(2) of the relevant Act, as modified by article 33(2) of this Order, and article 35 of this Order shall thereupon apply.
 
 ### 35. Surrender following appeal or other proceedings.
 
@@ -725,11 +648,7 @@ relevant Act even if he failed to appeal within the time allowed by the relevant
 
 (b) that the person be returned to Malta to serve the remainder of his sentence on the conclusion of those proceedings.
 
-(5) The terms which may be specified by the court in relation to a person alleged to be unlawfully at large after conviction of an [S.L.276.08 AND KINGDOM OF NORWAY)
-
-offence by a court in a scheduled country include terms that the person be returned to Malta to serve the remainder of his sentence after serving any sentence imposed on him in the scheduled country for -
-
-*16*
+(5) The terms which may be specified by the court in relation to a person alleged to be unlawfully at large after conviction of an offence by a court in a scheduled country include terms that the person be returned to Malta to serve the remainder of his sentence after serving any sentence imposed on him in the scheduled country for -
 
 (a) the offence, and
 
@@ -761,11 +680,9 @@ offence by a court in a scheduled country include terms that the person be retur
 
 (4) In a case where article 35 applies, the required period for the purposes of article 35(2) is ten days starting with the first day on which, having regard to article 21(2)(b) and (c) of the relevant Act, the person could have been returned or (if later) the day on which the order under article 73(2) is made.
 
-*17*
+### 38. Asylum claim.
 
-AND KINGDOM OF NORWAY) [S.L.276.08 38. (1) This article applies if -
-
-*Asylum claim.*
+(1) This article applies if -
 
 (a) a person in respect of whom a Part II warrant is issued makes an asylum claim at any time in the relevant period;
 
@@ -803,11 +720,7 @@ AND KINGDOM OF NORWAY) [S.L.276.08 38. (1) This article applies if -
 
 (b) the person’s life and liberty would not be threatened in that country by reason of his race, religion, nationality, political opinion or membership of a particular social group;
 
-(c) the government of that country would not send the person to another country otherwise than in [S.L.276.08 AND KINGDOM OF NORWAY)
-
-accordance with the Convention.
-
-*18*
+(c) the government of that country would not send the person to another country otherwise than in accordance with the Convention.
 
 (4) In this article -
 
@@ -859,10 +772,6 @@ accordance with the Convention.
 
 (2) The relevant period is the period -
 
-*19*
-
-AND KINGDOM OF NORWAY) [S.L.276.08
-
 (a) starting when the person is first brought before the court following his arrest under this Order;
 
 (b) ending when the person is returned in pursuance of the warrant or discharged.
@@ -907,11 +816,7 @@ AND KINGDOM OF NORWAY) [S.L.276.08
 
 (c) is irrevocable.
 
-(5) A person may not give his consent under this article [S.L.276.08 AND KINGDOM OF NORWAY)
-
-unless -
-
-*20*
+(5) A person may not give his consent under this article unless -
 
 (a) he is legally represented before the court at the time he gives consent, or
 
@@ -959,11 +864,7 @@ unless -
 
 (b) if the court and the judicial authority which issued the Part II warrant agree a later date, ten days starting with the later date.
 
-(4) If subarticle (2) is not complied with and the person applies to the court to be discharged the court must order his discharge, AND KINGDOM OF NORWAY) [S.L.276.08
-
-unless reasonable cause is shown for the delay.
-
-*21*
+(4) If subarticle (2) is not complied with and the person applies to the court to be discharged the court must order his discharge, unless reasonable cause is shown for the delay.
 
 (5) If before the person is returned to the scheduled country the court is informed by the Attorney General that the Part II warrant has been withdrawn -
 
@@ -1013,10 +914,6 @@ unless reasonable cause is shown for the delay.
 
 (a) subarticle (2) does not apply, and
 
-*22*
-
-[S.L.276.08 AND KINGDOM OF NORWAY)
-
 (b) the court must order the person’s discharge.
 
 ### 48. Other warrant issued and proceedings deferred.
@@ -1061,11 +958,7 @@ the court may make an order for the proceedings to be resumed.
 
 (b) the person is serving a sentence of imprisonment or another form of detention in Malta.
 
-(2) The court may make the order for return subject to the AND KINGDOM OF NORWAY) [S.L.276.08
-
-condition that extradition is not to take place before he receives an undertaking given on behalf of the scheduled country in terms specified by it.
-
-*23*
+(2) The court may make the order for return subject to the condition that extradition is not to take place before he receives an undertaking given on behalf of the scheduled country in terms specified by it.
 
 (3) The terms which may be specified by the court in relation to a person accused in a scheduled country of the commission of an offence include terms -
 
@@ -1101,11 +994,7 @@ condition that extradition is not to take place before he receives an undertakin
 
 (a) a person is returned to a scheduled country in respect of an offence in accordance with this Order;
 
-(b) a court receives a request for consent to the person being dealt with in the scheduled country for another [S.L.276.08 AND KINGDOM OF NORWAY)
-
-offence;
-
-*24*
+(b) a court receives a request for consent to the person being dealt with in the scheduled country for another offence;
 
 (c) the request is certified under this article by the Attorney General.
 
@@ -1143,11 +1032,7 @@ offence;
 
 (a) the person were in Malta, and
 
-(b) the court were required to proceed under article 13 in respect of the offence for which consent is requested. AND KINGDOM OF NORWAY) [S.L.276.08
-
-(6) If the court decides the question in subarticle (5) in the affirmative it must give consent.
-
-*25*
+(b) the court were required to proceed under article 13 in respect of the offence for which consent is requested. (6) If the court decides the question in subarticle (5) in the affirmative it must give consent.
 
 (7) If the court decides that question in the negative it must refuse consent.
 
@@ -1183,11 +1068,7 @@ offence;
 
 (5) The consent hearing must begin before the end of the required period, which is twenty-one days starting with the day on which the request for consent is received by the Attorney General.
 
-(6) The court may extend the required period if it believes it to be in the interests of justice to do so; and this subarticle may apply [S.L.276.08 AND KINGDOM OF NORWAY)
-
-more than once.
-
-*26*
+(6) The court may extend the required period if it believes it to be in the interests of justice to do so; and this subarticle may apply more than once.
 
 (7) The power in subarticle (6) may be exercised even after the end of the required period.
 
@@ -1225,11 +1106,9 @@ more than once.
 
 (10) Subject to subarticle (8), the court must decide whether consent is required to the person’s extradition to the other scheduled country for the offence by reference to what appears to it to be the arrangements made between the requesting country and Malta.
 
-*27*
+### 56. Consent to further extradition to country other than scheduled country.
 
-AND KINGDOM OF NORWAY) [S.L.276.08 56. (1) This article applies if -
-
-*Consent to further extradition to country other than scheduled country.*
+(1) This article applies if -
 
 (a) a person is extradited to a scheduled country, in this article and in article 57 referred to as "the requesting country", in accordance with this Order;
 
@@ -1261,11 +1140,7 @@ AND KINGDOM OF NORWAY) [S.L.276.08 56. (1) This article applies if -
 
 (10) If the Minister decides the question in subarticle (9) in the negative he may give consent.
 
-(11) If the Minister decides that question in the affirmative he [S.L.276.08 AND KINGDOM OF NORWAY)
-
-must refuse consent.
-
-*28*
+(11) If the Minister decides that question in the affirmative he must refuse consent.
 
 ### 57. Return of person to serve remainder of sentence.
 
@@ -1305,10 +1180,6 @@ must refuse consent.
 
 (c) the warrant is issued with a view to his arrest and extradition to the scheduled country for the purpose of serving a sentence or another form of detention imposed in respect of the offence.
 
-*29*
-
-AND KINGDOM OF NORWAY) [S.L.276.08
-
 (3) If the scheduled country is either the imprisoning territory or the convicting territory, article 5(6)(a) has effect as if the reference to the statement referred to in subarticle (7) of that article were a reference to the statement referred to in subarticle (2) of this article.
 
 (4) If the scheduled country is the imprisoning territory -
@@ -1347,10 +1218,6 @@ AND KINGDOM OF NORWAY) [S.L.276.08
 
 (b) a certificate issued by an appropriate authority of the scheduled country shows that the conduct is scheduled conduct;
 
-*30*
-
-[S.L.276.08 AND KINGDOM OF NORWAY)
-
 (c) the certificate shows that the conduct is punishable under the law of the scheduled country with imprisonment or another form of detention for a term of three years or a greater punishment.
 
 (3) The conduct also constitutes an extraditable offence in relation to the scheduled country if these conditions are satisfied:
@@ -1386,10 +1253,6 @@ AND KINGDOM OF NORWAY) [S.L.276.08
 (c) the conduct constitutes or if committed in Malta would constitute any of the offences mentioned in article 54A(1) of the Criminal Code.
 
 *Cap. 9.*
-
-*31*
-
-AND KINGDOM OF NORWAY) [S.L.276.08
 
 (6) For the purposes of subarticles (3)(b) and (4)(c) -
 
@@ -1433,11 +1296,7 @@ AND KINGDOM OF NORWAY) [S.L.276.08
 
 (b) the conduct would constitute an offence under the law of Malta if it occurred in Malta;
 
-(c) a sentence of imprisonment or another form of [S.L.276.08 AND KINGDOM OF NORWAY)
-
-detention for a term of four months or a greater punishment has been imposed in the scheduled country in respect of the conduct.
-
-*32*
+(c) a sentence of imprisonment or another form of detention for a term of four months or a greater punishment has been imposed in the scheduled country in respect of the conduct.
 
 (4) The conduct also constitutes an extraditable offence in relation to the scheduled country if these conditions are satisfied:
 
@@ -1469,11 +1328,7 @@ detention for a term of four months or a greater punishment has been imposed in 
 
 (a) if the conduct relates to a tax or duty, it is immaterial that the law of Malta does not impose the same kind of tax or duty or does not contain rules of the same kind as those of the law of the scheduled country;
 
-(b) if the conduct relates to customs or exchange, it is immaterial that the law of Malta does not contain rules of the same kind as those of the law of the scheduled AND KINGDOM OF NORWAY) [S.L.276.08
-
-country.
-
-*33*
+(b) if the conduct relates to customs or exchange, it is immaterial that the law of Malta does not contain rules of the same kind as those of the law of the scheduled country.
 
 (7) This article applies for the purposes of this Order.
 
@@ -1521,11 +1376,7 @@ country.
 
 (a) the person in respect of whom the warrant is issued is alleged to be unlawfully at large after conviction of an extraditable offence specified in the warrant by a court in Malta, and
 
-(b) the warrant is issued with a view to his arrest and [S.L.276.08 AND KINGDOM OF NORWAY)
-
-extradition to Malta for the purpose of being sentenced for the offence or of serving a sentence of imprisonment or another form of detention imposed in respect of the offence.
-
-*34*
+(b) the warrant is issued with a view to his arrest and extradition to Malta for the purpose of being sentenced for the offence or of serving a sentence of imprisonment or another form of detention imposed in respect of the offence.
 
 (6) The certificate is one certifying -
 
@@ -1567,10 +1418,6 @@ Where a Part III warrant is issued in respect of a person whose whereabouts are 
 
 (b) the return of that person to the scheduled country.
 
-*35*
-
-AND KINGDOM OF NORWAY) [S.L.276.08
-
 (3) The terms which may be included by the Minister in an undertaking given under subarticle (2) in relation to a person accused in Malta of the commission of an offence include terms - (a) that the person be kept in custody until the conclusion of the proceedings against him for the offence and any other offence in respect of which he is permitted to be dealt with in Malta;
 
 (b) that the person be returned to the scheduled country to serve the remainder of his sentence on the conclusion of those proceedings.
@@ -1606,10 +1453,6 @@ AND KINGDOM OF NORWAY) [S.L.276.08
 (b) the certificate contained in the warrant certifies that a sentence has been imposed;
 
 (c) an undertaking is given on behalf of a scheduled country that the person will be required to serve the sentence in that country;
-
-*36*
-
-[S.L.276.08 AND KINGDOM OF NORWAY)
 
 (d) on the basis of the undertaking the person is not extradited to Malta from the scheduled country.
 
@@ -1659,11 +1502,7 @@ AND KINGDOM OF NORWAY) [S.L.276.08
 
 (3) The conditions are that -
 
-(a) under the law of the scheduled country, the effect of AND KINGDOM OF NORWAY) [S.L.276.08
-
-the person’s consent is to waive his right under article 66(2);
-
-*37*
+(a) under the law of the scheduled country, the effect of the person’s consent is to waive his right under article 66(2);
 
 (b) the person has not revoked his consent in accordance with that law, if he is permitted to do so under that law. (4) The conditions are that -
 
@@ -1707,10 +1546,6 @@ the person’s consent is to waive his right under article 66(2);
 
 (a) the conduct occurs outside Malta;
 
-*38*
-
-[S.L.276.08 AND KINGDOM OF NORWAY)
-
 (b) the conduct constitutes an extra-territorial offence;
 
 (c) a sentence of imprisonment or another form of detention for a term of four months or a greater punishment has been imposed in Malta in respect of the conduct.
@@ -1753,11 +1588,7 @@ Any period spent by the returned person in preventive detention in the scheduled
 
 (a) there is a Part II warrant in respect of a person, a certificate has been issued under article 7 in respect of the warrant, and the person has not been returned in pursuance of the warrant or discharged, and
 
-(b) there is a request for the same person’s extradition from a country other than a scheduled country (hereinafter in this article referred to as the AND KINGDOM OF NORWAY) [S.L.276.08
-
-"competing request") and the person has not been returned in pursuance of the request or discharged. (2) The Minister may -
-
-*39*
+(b) there is a request for the same person’s extradition from a country other than a scheduled country (hereinafter in this article referred to as the "competing request") and the person has not been returned in pursuance of the request or discharged. (2) The Minister may -
 
 (a) order proceedings (or further proceedings) on the warrant to be deferred until the competing request has been disposed of, if neither the warrant nor the request has been disposed of;
 
@@ -1796,10 +1627,6 @@ Any period spent by the returned person in preventive detention in the scheduled
 (a) a Part II warrant is issued in respect of him;
 
 (b) a request for his extradition is made.
-
-*40*
-
-[S.L.276.08 AND KINGDOM OF NORWAY)
 
 ### 73. Proceedings where extradition is deferred.
 
@@ -1857,11 +1684,11 @@ Articles 22(3) and 27 of the relevant Act shall apply to proceedings in connecti
 
 Provided that for the purposes of this Order, the words "the Minister may ask" in article 27 of the relevant Act, shall be read and construed as "the Court may ask".
 
-*41*
+### 73C. Transit of person surrendered to scheduled country.
 
-AND KINGDOM OF NORWAY) [S.L.276.08 73C. (1) The Commissioner of Police may authorize transit through Malta of a person who is being surrendered to a scheduled country provided that the following information is furnished:
+*Added by: L.N. 224 of 2006. Amended by: L.N. 213 of 2011.*
 
-*Transit of person surrendered to scheduled country. Added by: L.N. 224 of 2006. Amended by: L.N. 213 of 2011.*
+(1) The Commissioner of Police may authorize transit through Malta of a person who is being surrendered to a scheduled country provided that the following information is furnished:
 
 (a) the identity and nationality of the person against whom a Part II warrant has been issued;
 
@@ -1895,11 +1722,7 @@ Provided that transit may be refused if the person being surrendered is a nation
 
 *Added by: L.N. 367 of 2007.*
 
-(1) Where the person in respect of whom a Part II warrant is issued, enjoys a privilege or immunity regarding jurisdiction or execution in Malta, the time limits for surrender shall not start running unless, and counting from the day when, the court is [S.L.276.08 AND KINGDOM OF NORWAY)
-
-informed of the fact that the privilege or immunity has been waived.
-
-*42*
+(1) Where the person in respect of whom a Part II warrant is issued, enjoys a privilege or immunity regarding jurisdiction or execution in Malta, the time limits for surrender shall not start running unless, and counting from the day when, the court is informed of the fact that the privilege or immunity has been waived.
 
 (2) Where power or authority to waive the privilege or immunity lies with the Maltese authorities, the court shall forthwith request the relevant authority to exercise that power.
 
@@ -1935,11 +1758,7 @@ informed of the fact that the privilege or immunity has been waived.
 
 (3) If subarticle (1) is not complied with and the person applies to the court to be discharged, the court must order his discharge.
 
-(4) The person must be treated as continuing in legal custody until he is brought before the court under subarticle (1) or he is AND KINGDOM OF NORWAY) [S.L.276.08
-
-discharged under subarticle (3).
-
-*43*
+(4) The person must be treated as continuing in legal custody until he is brought before the court under subarticle (1) or he is discharged under subarticle (3).
 
 (5) If the person is brought before the court under subarticle (1), article 76 applies.
 
@@ -1978,10 +1797,6 @@ discharged under subarticle (3).
 ### 77. Legal aid. Cap. 9.
 
 The provisions of articles 570 to 573, both inclusive, of the Criminal Code shall mutatis mutandis apply to requests for legal aid in proceedings under this Order by a person arrested by virtue of a warrant under article 5 or article 9.
-
-*44*
-
-[S.L.276.08 AND KINGDOM OF NORWAY)
 
 Amended by: SCHEDULE 1
 
@@ -2056,10 +1871,6 @@ Racketeering and extortion.
 Counterfeiting and piracy of products.
 
 Forgery of administrative documents and trafficking therein.
-
-*45*
-
-AND KINGDOM OF NORWAY) [S.L.276.08
 
 24 Forgery of means of payment.
 

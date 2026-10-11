@@ -1,6 +1,6 @@
 ---
 title: "Electronic Central Depositary for Malta Treasury Bills Directive"
-identifier: "S.L. 133.1"
+identifier: "S.L. 133.01"
 eli: "https://legislation.mt/eli/sl/133.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/133.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Electronic Central Depositary for Malta Treasury Bills Directive (S.L. 133.1)
-
-*1*
-
-FOR MALTA TREASURY BILLS [S.L.133.01
+# Electronic Central Depositary for Malta Treasury Bills Directive (S.L. 133.01)
 
 **SUBSIDIARY LEGISLATION 133.01**
 
@@ -67,8 +63,4 @@ In this Directive, unless the context otherwise requires - "appointed dematerial
 
 (3) All Treasury bill certificates issued prior to the appointed dematerialisation date shall cease to be negotiable in the secondary market one business day prior to the appointed dematerialisation date.
 
-(4) The nominal value of Treasury bill certificates that have not [S.L.133.01 FOR MALTA TREASURY BILLS
-
-yet been returned to the Treasury by one business day prior to the appointed dematerialisation date shall be registered by the Treasury in the Central Securities Depository in a Treasury Clients’ Account.
-
-*2*
+(4) The nominal value of Treasury bill certificates that have not yet been returned to the Treasury by one business day prior to the appointed dematerialisation date shall be registered by the Treasury in the Central Securities Depository in a Treasury Clients’ Account.

@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Tax Credit (Higher Educational Qualifications) Rules (S.L. 123.180)
 
-*1*
-
-QUALIFICATIONS) [S.L. 123.180 SUBSIDIARY LEGISLATION 123.180
+**SUBSIDIARY LEGISLATION 123.180**
 
 **TAX CREDIT (HIGHER EDUCATIONAL**
 
@@ -60,10 +58,6 @@ The title of these rules is the Tax Credit (Higher Educational Qualifications) R
 
 (d) where the individual is employed in a professional capacity the qualification was not obtained in fulfilment or part-fulfilment of the conditions which he had to satisfy in order to be able to exercise that profession. For the purpose of this paragraph, a profession means an occupation that can only be held by individuals who are in possession of defined academic qualifications.
 
-*2*
-
-[S.L. 123.180 QUALIFICATIONS)
-
 *   Cap. 452.    Cap. 594.*
 
 (2) An individual shall not be deemed to be in a whole-time employment unless he is a whole-time employee or a whole-time employee with reduced hours as defined in the Employment and Industrial Relations Act and actually performs services under an employer-employee engagement that has been notified to the Corporation set up in terms of the Employment and Services Act.
@@ -92,9 +86,7 @@ The title of these rules is the Tax Credit (Higher Educational Qualifications) R
 
 (2) When the relevant qualification is an MQF 8 qualification, the tax credit shall be allowed against the tax on the income derived during the two years immediately following the year in which the course or programme of studies in question was successfully completed.
 
-*3*
-
-QUALIFICATIONS) [S.L. 123.180 (3) Notwithstanding the provisions of sub-rule (2), when the relevant qualification is an MQF 8 qualification and the individual had previously obtained an MQF 7 qualification and availed himself of a tax credit in accordance with these rules in respect of that previous qualification, the tax credit in respect of the MQF 8 qualification shall be allowed to him only for the year of assessment commencing on the 1st January of the year immediately following that in which the course or programme of studies leading to the MQF 8 qualification was successfully completed.
+(3) Notwithstanding the provisions of sub-rule (2), when the relevant qualification is an MQF 8 qualification and the individual had previously obtained an MQF 7 qualification and availed himself of a tax credit in accordance with these rules in respect of that previous qualification, the tax credit in respect of the MQF 8 qualification shall be allowed to him only for the year of assessment commencing on the 1st January of the year immediately following that in which the course or programme of studies leading to the MQF 8 qualification was successfully completed.
 
 (4) Except as provided in sub-rule (3), a tax credit under these rules shall be allowable only in respect of one relevant qualification.
 
@@ -118,11 +110,7 @@ B = the year in which the course or programme of studies commenced
 
 C = the amount calculated in accordance with sub-rule (1)
 
-(3) When the individual has obtained the relevant qualification upon the completion of a course or programme of studies on a part-time basis, the tax credit shall be equivalent to fifty percent [S.L. 123.180 QUALIFICATIONS)
-
-of the amount calculated in accordance with sub-rule (1) or sub-rule (2), as the case may be.
-
-*4*
+(3) When the individual has obtained the relevant qualification upon the completion of a course or programme of studies on a part-time basis, the tax credit shall be equivalent to fifty percent of the amount calculated in accordance with sub-rule (1) or sub-rule (2), as the case may be.
 
 (4) For the purpose of this rule, the income from the whole-time employment shall be deemed to be the first part of the individual’s chargeable income for the respective year of assessment.
 
@@ -150,6 +138,4 @@ These rules shall apply:
 
 (a) to courses commencing before 1st January 2026; and
 
-(b) if the individual who has commenced the course or programme of studies leading to a relevant qualification submits an application to the Corporation declaring the intention of benefitting from these rules by 31st December 2026 and provide the required documentation to confirm the QUALIFICATIONS) [S.L. 123.180 attainment of the relevant qualification by 31st December 2030.
-
-*5*
+(b) if the individual who has commenced the course or programme of studies leading to a relevant qualification submits an application to the Corporation declaring the intention of benefitting from these rules by 31st December 2026 and provide the required documentation to confirm the attainment of the relevant qualification by 31st December 2030.

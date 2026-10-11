@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws of 2007 for the Selection of Applicants for Admission to the Bachelor of Science (Honours) - B.Sc. (Hons) - Degree Course under the auspices of the Faculty of Health Sciences (S.L. 327.392)
 
-BACHELOR OF SCIENCE (HONOURS) DEGREE COURSE
-
-*1*
-
-UNDER THE AUSPICES OF THE INSTITUTE OF HEALTH CARE [S.L.327.392
-
 **SUBSIDIARY LEGISLATION 327.392**
 
 **BYE-LAWS OF 2007 FOR THE SELECTION OF**
@@ -71,11 +65,7 @@ Whenever the number of students that may be admitted to the Community Nursing an
 
 (ii) applicants obtaining overall percentage marks of between 70 and 79 in the Higher Diploma in Health Science (Nursing Studies) or the Diploma in Health Science (Nursing Studies) or equivalent grade points shall be awarded 35 marks;
 
-(iii) applicants obtaining overall percentage marks of between 45 and 69 in the Higher Diploma in BACHELOR OF SCIENCE (HONOURS) DEGREE COURSE UNDER THE AUSPICES OF THE INSTITUTE OF HEALTH CARE
-
-Health Science (Nursing Studies) or the Diploma in Health Science (Nursing Studies) or equivalent grade points shall be awarded 25 marks;
-
-*[S.L.327.392 2*
+(iii) applicants obtaining overall percentage marks of between 45 and 69 in the Higher Diploma in Health Science (Nursing Studies) or the Diploma in Health Science (Nursing Studies) or equivalent grade points shall be awarded 25 marks;
 
 (iv) applicants not in possession of the Higher Diploma in Health Science (Nursing Studies) or the Diploma in Health Science (Nursing Studies) but holding State Registration as Nurses shall be awarded 20 marks;
 
@@ -101,13 +91,7 @@ Health Science (Nursing Studies) or the Diploma in Health Science (Nursing Studi
 
 (ii) applicants having 5 years relevant work experience in a non-community setting shall be awarded 5 marks;
 
-(f) (i) applicants having 4 years relevant work experience in a community setting shall BACHELOR OF SCIENCE (HONOURS) DEGREE COURSE
-
-*3*
-
-UNDER THE AUSPICES OF THE INSTITUTE OF HEALTH CARE [S.L.327.392
-
-be awarded 6 marks;
+(f) (i) applicants having 4 years relevant work experience in a community setting shall be awarded 6 marks;
 
 (ii) applicants having 4 years relevant work experience in a non-community setting shall be awarded 4 marks;
 
@@ -131,11 +115,7 @@ provided that the date used for the purpose of calculating the years of work exp
 
 (a) academic qualifications (50% weighting):
 
-(i) applicants obtaining overall percentage marks of between 80 and 100 in the Diploma in Psychiatric Nursing or equivalent grade points shall be awarded BACHELOR OF SCIENCE (HONOURS) DEGREE COURSE UNDER THE AUSPICES OF THE INSTITUTE OF HEALTH CARE
-
-45 marks;
-
-*[S.L.327.392 4*
+(i) applicants obtaining overall percentage marks of between 80 and 100 in the Diploma in Psychiatric Nursing or equivalent grade points shall be awarded 45 marks;
 
 (ii) applicants obtaining overall percentage marks of between 80 and 100 in the Higher Diploma in Health Science (Nursing Studies) or the Diploma in Health Science (Nursing Studies) or equivalent grade points shall be awarded 40 marks;
 
@@ -166,11 +146,5 @@ provided that the date used for the purpose of calculating the years of work exp
 (vii) applicants having 1 year relevant work experience shall be awarded 1 mark.
 
 (c) performance during interview: between 0 and 30 marks.
-
-BACHELOR OF SCIENCE (HONOURS) DEGREE COURSE
-
-*5*
-
-UNDER THE AUSPICES OF THE INSTITUTE OF HEALTH CARE [S.L.327.392
 
 (3) For the purpose of selection, applicants who fully satisfy the entry requirements by 31st August preceding the commencement of the course shall be considered first.

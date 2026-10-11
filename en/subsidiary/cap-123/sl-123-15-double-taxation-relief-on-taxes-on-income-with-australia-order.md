@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with Australia Order (S.L. 123.15)
 
-*1*
-
-WITH AUSTRALIA [S.L.123.15
-
 **SUBSIDIARY LEGISLATION 123.15**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -44,8 +40,6 @@ the Australian income tax, including the additional tax upon the undistributed a
 (b) that it is expedient that those arrangements should have effect.
 
 \*https://cfr.gov.mt/en/inlandrevenue/itu/Documents/Malta%20-%20Aus-tralia%20DTA%20(synthesised%20text).pdf
-
-2 [S.L.123.15 WITH AUSTRALIA
 
 ## SCHEDULE — AGREEMENT BETWEEN — MALTA AND AUSTRALIA FOR THE AVOIDANCE OF DOUBLE TAXATION
 
@@ -87,8 +81,6 @@ the income tax, including prepayments of tax whether made by deduction at source
 
 (a) the term "Australia" means the Commonwealth of Australia and, when used in a geographical sense, includes:
 
-WITH AUSTRALIA [S.L.123.15 3
-
 (i) the Territory of Norfolk Island;
 
 (ii) the Territory of Christmas Island;
@@ -124,8 +116,6 @@ WITH AUSTRALIA [S.L.123.15 3
 (2) In this Agreement, the terms "Australian tax" and "Malta tax" do not include any penalty or interest imposed under the law of either Contracting State relating to the taxes to which this Agreement applies by virtue of Article 2.
 
 (3) In the application of this Agreement by a Contracting State, any term not defined in this Agreement shall, unless the context otherwise requires, have the meaning which it has under the laws of that State relating to the taxes to which this Agreement applies.
-
-4 [S.L.123.15 WITH AUSTRALIA
 
 **ARTICLE 4**
 
@@ -167,8 +157,6 @@ WITH AUSTRALIA [S.L.123.15 3
 
 (f) a mine, an oil or gas well, a quarry or any other place of extraction of natural resources;
 
-WITH AUSTRALIA [S.L.123.15 5
-
 (g) an agricultural, pastoral or forestry property;
 
 (h) a building site or construction, installation or assembly project which exists for more than 183 days in any twelve-month period.
@@ -201,9 +189,7 @@ WITH AUSTRALIA [S.L.123.15 5
 
 (6) An enterprise of one of the Contracting States shall not be deemed to have a permanent establishment in the other Contracting State merely because it carries on business in that other State through a broker, general commission agent or any other agent of an independent status, where that person is acting in the ordinary course of his business as such a broker or agent.
 
-(7) The fact that a company which is a resident of one of the Contracting States 6 [S.L.123.15 WITH AUSTRALIA
-
-controls or is controlled by a company which is a resident of the other Contracting State, or which carries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself make either company a permanent establishment of the other.
+(7) The fact that a company which is a resident of one of the Contracting States controls or is controlled by a company which is a resident of the other Contracting State, or which carries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself make either company a permanent establishment of the other.
 
 (8) The principles set forth in the preceding paragraphs of this Article shall be applied in determining for the purposes of this Agreement whether there is a permanent establishment outside both Contracting States; and whether an enterprise, not being an enterprise of one of the Contracting States, has a permanent establishment in one of the Contracting States.
 
@@ -239,8 +225,6 @@ Ships, boats and aircraft shall not be regarded as real property.
 
 (5) The provisions of paragraphs (1), (3) and (4) shall also apply to the income from real property of an enterprise and to income from real property used for the performance of professional services.
 
-WITH AUSTRALIA [S.L.123.15 7
-
 **ARTICLE 7**
 
 **Business Profits**
@@ -260,8 +244,6 @@ WITH AUSTRALIA [S.L.123.15 7
 (7) Where profits include items of income which are dealt with separately in other Articles of this Agreement, then the provisions of those Articles shall not be affected by the provisions of this Article.
 
 (8) Nothing in this Article shall affect the operation of any law of a Contracting State relating to taxation of profits from insurance with non-residents provided that if the relevant law in force in either Contracting State at the date of signature of this Agreement is varied (otherwise than in minor respects so as not to affect its general character) the Contracting States shall consult with each other with a view to agreeing to any amendment of this paragraph that may be appropriate.
-
-8 [S.L.123.15 WITH AUSTRALIA
 
 **ARTICLE 8**
 
@@ -291,9 +273,7 @@ and in either case conditions operate between the two enterprises in their comme
 
 (2) Nothing in this Article shall affect the application of any law of a Contracting State relating to the determination of the tax liability of a person, including the determination of such liability by the exercise of a discretion or the making of an estimate by the competent authority of that State in cases in which, from the information available to the competent authority of that State, it is not possible or not practicable to determine the income to be attributed to an enterprise, provided that that law shall be applied, so far as the information available to the competent authority permits, consistently with the principles of this Article.
 
-(3) Where profits on which an enterprise of one of the Contracting States has WITH AUSTRALIA [S.L.123.15 9
-
-been charged to tax in that State are also included, by virtue of paragraph (1) or (2), in the profits of an enterprise of the other Contracting State and taxed accordingly, and the profits so included are profits which might have been expected to have accrued to that enterprise of the other State if the conditions operative between the enterprises had been those which might have been expected to have operated between independent enterprises dealing wholly independently with one another, then the first-mentioned State shall make an appropriate adjustment to the amount of tax charged on those profits in the first-mentioned State. In determining such an adjustment, due regard shall be had to the other provisions of this Agreement in relation to the nature of the income and for this purpose the competent authorities of the Contracting States shall if necessary consult each other.
+(3) Where profits on which an enterprise of one of the Contracting States has been charged to tax in that State are also included, by virtue of paragraph (1) or (2), in the profits of an enterprise of the other Contracting State and taxed accordingly, and the profits so included are profits which might have been expected to have accrued to that enterprise of the other State if the conditions operative between the enterprises had been those which might have been expected to have operated between independent enterprises dealing wholly independently with one another, then the first-mentioned State shall make an appropriate adjustment to the amount of tax charged on those profits in the first-mentioned State. In determining such an adjustment, due regard shall be had to the other provisions of this Agreement in relation to the nature of the income and for this purpose the competent authorities of the Contracting States shall if necessary consult each other.
 
 **ARTICLE 10**
 
@@ -319,9 +299,7 @@ The provisions of this paragraph shall not affect the taxation of the company on
 
 (4) The provisions of paragraph (2) shall not apply if the person beneficially entitled to the dividends, being a resident of one of the Contracting States, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In any such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
-(5) Dividends paid by a company which is a resident of one of the Contracting States, being dividends to which a person who is not a resident of the other Contracting State is beneficially entitled, shall be exempt from tax in that other State except insofar as the holding in respect of which the dividends are paid is effectively 10 [S.L.123.15 WITH AUSTRALIA
-
-connected with a permanent establishment or fixed base situated in that other State. Provided that this paragraph shall not apply in relation to dividends paid by any company which is a resident of Australia for the purposes of Australian tax and which is also a resident of Malta for the purposes of Malta tax.
+(5) Dividends paid by a company which is a resident of one of the Contracting States, being dividends to which a person who is not a resident of the other Contracting State is beneficially entitled, shall be exempt from tax in that other State except insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or fixed base situated in that other State. Provided that this paragraph shall not apply in relation to dividends paid by any company which is a resident of Australia for the purposes of Australian tax and which is also a resident of Malta for the purposes of Malta tax.
 
 **ARTICLE 11**
 
@@ -343,9 +321,7 @@ connected with a permanent establishment or fixed base situated in that other St
 
 **Royalties**
 
-(1) Royalties arising in one of the Contracting States, being royalties to which a resident of the other Contracting State is beneficially entitled, may be taxed in that WITH AUSTRALIA [S.L.123.15 11
-
-other State.
+(1) Royalties arising in one of the Contracting States, being royalties to which a resident of the other Contracting State is beneficially entitled, may be taxed in that other State.
 
 (2) Such royalties may be taxed in the Contracting State in which they arise, and according to the law of that State, but the tax so charged shall not exceed 10 per cent of the gross amount of the royalties.
 
@@ -374,8 +350,6 @@ other State.
 (5) Royalties shall be deemed to arise in a Contracting State when the payer is that State itself or a political subdivision or local authority of that State or a person who is a resident of that State for the purposes of its tax. Where, however, the person paying the royalties, whether he is a resident of one of the Contracting States or not, has in one of the Contracting States or outside both Contracting States a permanent establishment or fixed base in connection with which the liability to pay the royalties was incurred, and the royalties are borne by the permanent establishment or fixed base, then the royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
 (6) Where, owing to a special relationship between the payer and the person beneficially entitled to the royalties, or between both of them and some other person, the amount of the royalties paid or credited, having regard to what they are paid or credited for, exceeds the amount which might have been expected to have been agreed upon by the payer and the person so entitled in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount.
-
-12 [S.L.123.15 WITH AUSTRALIA
 
 In that case, the excess part of the amount of the royalties paid or credited shall remain taxable according to the law of each Contracting State, but subject to the other provisions of this Agreement.
 
@@ -411,8 +385,6 @@ so much of the income derived by him as is attributable to activities so perform
 
 (3) The term "professional services" includes services performed in the exercise of independent scientific, literary, artistic, educational or teaching activities, as well as in the exercise of independent activities of physicians, lawyers, engineers, architects, dentists and accountants.
 
-WITH AUSTRALIA [S.L.123.15 13
-
 **ARTICLE 15**
 
 **Dependent Personal Services**
@@ -445,8 +417,6 @@ Directors’ fees and similar payments derived by a resident of one of the Contr
 
 (2) Where income in respect of the personal activities of an entertainer as such, accrues not to that entertainer but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the entertainer are exercised.
 
-14 [S.L.123.15 WITH AUSTRALIA
-
 **ARTICLE 18**
 
 **Pensions and Annuities**
@@ -477,8 +447,6 @@ Directors’ fees and similar payments derived by a resident of one of the Contr
 
 Where a student, who is a resident of one of the Contracting States or who was a resident of that State immediately before visiting the other Contracting State and who is temporarily present in that other State solely for the purpose of his education at a university, college, school or other similar educational institution, receives pavements from sources outside that other State for the purpose of his maintenance or education, those payments shall be exempt from tax in that other State.
 
-WITH AUSTRALIA [S.L.123.15 15
-
 **ARTICLE 21**
 
 **Income Not Expressly Mentioned**
@@ -503,9 +471,7 @@ Income derived by a resident of one of the Contracting States which, under any o
 
 (3) For the purposes of paragraph (1) and of the income tax law of Australia:
 
-(a) a resident of Australia deriving income from sources in Malta consisting of dividends to which sub-paragraph (2)(b)(ii) of Article 10 applies, interest to which Article 11 applies or royalties to which Article 12 applies, being income in respect of which Malta tax has been wholly 16 [S.L.123.15 WITH AUSTRALIA
-
-relieved or reduced for a limited period of time under the provisions of the Aids to Industries Ordinance, so far as they were in force on, and have not been modified since, the date of signature of this Agreement, or have been modified only in minor respects so as not to affect their general character, or under any other provisions which may subsequently be agreed by the Contracting States in letters exchanged for the purpose through the diplomatic channel to be of a substantially similar character, shall be deemed to have paid Malta tax in an amount, or the Malta tax paid shall be deemed to have been increased by an amount, equal to the amount by which the Malta tax that otherwise would have been payable (which tax, in the case of dividends, shall not exceed 15 per cent and, in the case of royalties or interest, 10 per cent of the gross amount thereof) is reduced by the exemption or reduction granted; and
+(a) a resident of Australia deriving income from sources in Malta consisting of dividends to which sub-paragraph (2)(b)(ii) of Article 10 applies, interest to which Article 11 applies or royalties to which Article 12 applies, being income in respect of which Malta tax has been wholly relieved or reduced for a limited period of time under the provisions of the Aids to Industries Ordinance, so far as they were in force on, and have not been modified since, the date of signature of this Agreement, or have been modified only in minor respects so as not to affect their general character, or under any other provisions which may subsequently be agreed by the Contracting States in letters exchanged for the purpose through the diplomatic channel to be of a substantially similar character, shall be deemed to have paid Malta tax in an amount, or the Malta tax paid shall be deemed to have been increased by an amount, equal to the amount by which the Malta tax that otherwise would have been payable (which tax, in the case of dividends, shall not exceed 15 per cent and, in the case of royalties or interest, 10 per cent of the gross amount thereof) is reduced by the exemption or reduction granted; and
 
 (b) the amount of the said dividends, interests or royalties shall be deemed to be the amount that would have been the amount of the dividends, interest or royalties if no Malta tax had been paid, increased by the amount by which the tax that otherwise would have been payable is reduced by the said exemption or reduction.
 
@@ -516,8 +482,6 @@ relieved or reduced for a limited period of time under the provisions of the Aid
 (b) Where a company which is a resident of Australia pays a dividend to a company which is a resident of Malta and which controls directly or indirectly at least 10 per cent of the voting power in the first-mentioned company, the credit shall take into account (in addition to any Australian tax for which credit may be allowed under sub-paragraph (a)) the Australian tax payable by that first-mentioned company in respect of the profits out of which such dividend is paid.
 
 (6) Where under this Agreement income is to be relieved from tax in one of the Contracting States and, under the law in force in the other Contracting State a person, in respect of the said income, is subject to tax by reference to the amount thereof which is remitted to or received in that other State and not by reference to the full amount thereof, then the relief to be allowed under this Agreement in the first-mentioned State shall apply only to so much of the income as is remitted to or received in the other State.
-
-WITH AUSTRALIA [S.L.123.15 17
 
 ## CHAPTER V — Special Provisions — ARTICLE 24
 
@@ -543,9 +507,7 @@ WITH AUSTRALIA [S.L.123.15 17
 
 (b) to supply particulars which are not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;
 
-(c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or to supply information the disclosure of which would be contrary to public 18 [S.L.123.15 WITH AUSTRALIA
-
-policy.
+(c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or to supply information the disclosure of which would be contrary to public policy.
 
 **ARTICLE 26**
 
@@ -577,9 +539,7 @@ in relation to taxes which are levied for the year of assessment beginning on 1 
 
 **Termination**
 
-This Agreement shall continue in effect indefinitely, but either of the Contracting WITH AUSTRALIA [S.L.123.15 19
-
-States may, on or before 30 June in any calendar year beginning after the expiration of 5 years from the date of its entry into force, give to the other Contracting State through the diplomatic channel written notice of termination and, in that event, this Agreement shall cease to be effective:
+This Agreement shall continue in effect indefinitely, but either of the Contracting States may, on or before 30 June in any calendar year beginning after the expiration of 5 years from the date of its entry into force, give to the other Contracting State through the diplomatic channel written notice of termination and, in that event, this Agreement shall cease to be effective:
 
 (a) in Australia:
 

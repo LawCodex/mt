@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Fees where Motor Vehicles are kept by the Customs Department Regulations (S.L. 35.12)
 
-FEES WHERE MOTOR VEHICLES ARE KEPT
-
-*1*
-
-BY THE CUSTOMS DEPARTMENT [S.L.35.12
-
 **SUBSIDIARY LEGISLATION 35.12**
 
 **FEES WHERE MOTOR VEHICLES ARE KEPT**

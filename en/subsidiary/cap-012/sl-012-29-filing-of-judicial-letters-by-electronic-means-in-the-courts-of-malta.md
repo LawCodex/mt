@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Filing of Judicial Letters by Electronic Means in the Courts of Malta and Gozo Regulations (S.L. 12.29)
 
-FILING OF JUDICIAL LETTERS
-
-BY ELECTRONIC MEANS IN THE
-
-*1*
-
-COURTS OF MALTA AND GOZO [S.L.12.29
-
 SUBSIDIARY LEGISLATION 12.29
 
 FILING OF JUDICIAL LETTERS BY ELECTRONIC

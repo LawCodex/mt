@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Exchange of Information (Tax Matters) (Cayman Islands) Order (S.L. 123.154)
 
-*1*
-
-(CAYMAN ISLANDS) [S.L.123.154
-
 SUBSIDIARY LEGISLATION 123.154
 
 EXCHANGE OF INFORMATION (TAX MATTERS) (CAYMAN ISLANDS) ORDER
@@ -46,8 +42,6 @@ It is hereby declared:
 (c) that the Agreement shall enter into force on such date as may be announced by notice in the Government Gazette\*.
 
 \*see Legal Notice 132 of 2014.
-
-2 [S.L.123.154 (CAYMAN ISLANDS)
 
 ## SCHEDULE
 
@@ -95,9 +89,7 @@ This Agreement shall also apply to any identical taxes imposed after the date of
 
 \1. For the purposes of this Agreement, unless otherwise defined:
 
-(a) the term "the Cayman Islands" means the territory of the Cayman Islands and includes the territorial sea, areas within the maritime (CAYMAN ISLANDS) [S.L.123.154 3
-
-boundaries of the Cayman Islands and any area within which in accordance with international law the rights of the Cayman Islands with respect to the seabed and sub-soil and their natural resources may be exercised;
+(a) the term "the Cayman Islands" means the territory of the Cayman Islands and includes the territorial sea, areas within the maritime boundaries of the Cayman Islands and any area within which in accordance with international law the rights of the Cayman Islands with respect to the seabed and sub-soil and their natural resources may be exercised;
 
 (b) the term "Malta" means the Republic of Malta and, when used in a geographical sense, the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
 
@@ -127,9 +119,7 @@ boundaries of the Cayman Islands and any area within which in accordance with in
 
 (m) the term "publicly traded company" means any company whose principal class of shares is listed on a recognised stock exchange provided its listed shares can be readily purchased or sold by the public. Shares can be purchased or sold "by the public" if the purchase or sale of shares is not implicitly or explicitly restricted to a limited group of investors;
 
-(n) the term "collective investment fund or scheme" means any pooled investment vehicle, irrespective of legal form. The term "public collective investment fund or scheme" means any collective investment fund or scheme provided the units, shares or other interests in the fund 4 [S.L.123.154 (CAYMAN ISLANDS)
-
-or scheme can be readily purchased, sold or redeemed by the public. Units, shares or other interests in the fund or scheme can be readily purchased, sold or redeemed "by the public" if the purchase, sale or redemption is not implicitly or explicitly restricted to a limited group of investors;
+(n) the term "collective investment fund or scheme" means any pooled investment vehicle, irrespective of legal form. The term "public collective investment fund or scheme" means any collective investment fund or scheme provided the units, shares or other interests in the fund or scheme can be readily purchased, sold or redeemed by the public. Units, shares or other interests in the fund or scheme can be readily purchased, sold or redeemed "by the public" if the purchase, sale or redemption is not implicitly or explicitly restricted to a limited group of investors;
 
 (o) the term "recognised stock exchange" means any stock exchange agreed upon by the competent authorities of the Contracting Parties;
 
@@ -163,8 +153,6 @@ Each Contracting Party shall ensure that its competent authorities for the purpo
 
 (b) information regarding the ownership of companies, partnerships, trusts, foundations, "Anstalten" and other persons, including, within the constraints of Article 2, ownership information on all such persons in an ownership chain; in the case of trusts, information on settlors, trustees and beneficiaries; and in the case of foundations, information on founders, members of the foundation council and beneficiaries. Further, this Agreement does not create an obligation on the Contracting Parties to obtain or provide ownership information with respect to publicly traded companies or public collective investment funds or schemes unless such information can be obtained without giving rise to disproportionate difficulties.
 
-(CAYMAN ISLANDS) [S.L.123.154 5
-
 ## 5.
 
 The competent authority of the applicant Party shall provide the following information to the competent authority of the requested Party when making a request for information under the Agreement to demonstrate the foreseeable relevance of the information to the request:
@@ -197,9 +185,7 @@ The competent authority of the requested Party shall forward the requested infor
 
 \1. A Contracting Party may allow representatives of the competent authority of the other Contracting Party to enter the territory of the first-mentioned Party to interview individuals and examine records with the written consent of the persons concerned. The competent authority of the second-mentioned Party shall notify the competent authority of the first-mentioned Party of the time and place of the meeting with the individuals concerned.
 
-\2. At the request of the competent authority of one Contracting Party, the competent authority of the other Contracting Party may allow representatives of the competent authority of the first-mentioned Party to be present at the appropriate part 6 [S.L.123.154 (CAYMAN ISLANDS)
-
-of a tax examination in the second-mentioned Party.
+\2. At the request of the competent authority of one Contracting Party, the competent authority of the other Contracting Party may allow representatives of the competent authority of the first-mentioned Party to be present at the appropriate part of a tax examination in the second-mentioned Party.
 
 \3. If the request referred to in paragraph 2 is acceded to, the competent authority of the Contracting Party conducting the examination shall, as soon as possible, notify the competent authority of the other Party about the time and place of the examination, the authority or official designated to carry out the examination and the procedures and conditions required by the first-mentioned Party for the conduct of the examination. All decisions with respect to the conduct of the tax examination shall be made by the Party conducting the examination.
 
@@ -229,9 +215,7 @@ The requested Party may decline a request for information if the information is 
 
 **Confidentiality**
 
-Any information received by a Contracting Party under this Agreement shall be treated as confidential and may be disclosed only to persons or authorities (including courts and administrative bodies) in the jurisdiction of the Contracting Party concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by this Agreement. Such persons or authorities shall use such information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions. The information may not be disclosed to any other person or (CAYMAN ISLANDS) [S.L.123.154 7
-
-entity or authority or any other jurisdiction without the express written consent of the competent authority of the requested Party.
+Any information received by a Contracting Party under this Agreement shall be treated as confidential and may be disclosed only to persons or authorities (including courts and administrative bodies) in the jurisdiction of the Contracting Party concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by this Agreement. Such persons or authorities shall use such information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions. The information may not be disclosed to any other person or entity or authority or any other jurisdiction without the express written consent of the competent authority of the requested Party.
 
 **Article 9**
 

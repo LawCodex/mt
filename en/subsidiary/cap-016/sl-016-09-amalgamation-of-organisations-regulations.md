@@ -1,6 +1,6 @@
 ---
 title: "Amalgamation of Organisations Regulations"
-identifier: "S.L. 16.9"
+identifier: "S.L. 16.09"
 eli: "https://legislation.mt/eli/sl/16.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/16.9/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Amalgamation of Organisations Regulations (S.L. 16.9)
+# Amalgamation of Organisations Regulations (S.L. 16.09)
 
 SUBSIDIARY LEGISLATION 16.09
 

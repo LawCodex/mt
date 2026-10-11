@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Master in Education Policies for Global Development Degree Course Regulations (S.L. 327.516)
 
-*1*
-
-GLOBAL DEVELOPMENT DEGREE COURSE [S.L.327.516
-
 **SUBSIDIARY LEGISLATION 327.516**
 
 MASTER IN EDUCATION POLICIES FOR GLOBAL DEVELOPMENT DEGREE COURSE REGULATIONS 7th August, 2015
@@ -59,10 +55,6 @@ These regulations shall apply to courses commencing in September 2015 or later.
 
 Educational Sciences, Sociology, Social/Cultural Anthropology, Political Sciences, Human Geography, International Relations, or International Development Studies. The duration of the first cycle degree programme should be of a minimum of three years and should comprise not less than 180 ECTS credits.
 
-*2*
-
-[S.L.327.516 GLOBAL DEVELOPMENT DEGREE COURSE
-
 (2) (i) Applicants are required to demonstrate that their standard of English is satisfactory. The offer of a place on the Course may be made subject to the applicants obtaining such proficiency qualifications prior to the commencement of their studies.
 
 (ii) Proficiency in English may be certified by one of the following:
@@ -94,10 +86,6 @@ Educational Sciences, Sociology, Social/Cultural Anthropology, Political Science
 *Course duration.*
 
 (2) The Board of Studies may allow students to extend their studies by not more than six months, provided that in special circumstances, Senate, on the recommendation of the Board of Studies, may grant students a further extension of up to two years in order to enable them to complete their studies.
-
-*3*
-
-GLOBAL DEVELOPMENT DEGREE COURSE [S.L.327.516
 
 (3) If students following the course supported by a scholarship require an extension, the scholarship shall not be extended.
 
@@ -149,11 +137,7 @@ F (Fail: no credit)
 
 (3) Students who fail in any of the taught study-units shall be allowed one re-assessment. The re-assessment shall be held at the next scheduled examination session (May or September) as the case may be. If successful on re-assessment, the grade to be awarded shall be Grade E.
 
-(4) Students who do not complete or fail in the assessment of the internship and fieldwork shall not have the right to re- [S.L.327.516 GLOBAL DEVELOPMENT DEGREE COURSE
-
-assessment and shall be required to withdraw from the course.
-
-*4*
+(4) Students who do not complete or fail in the assessment of the internship and fieldwork shall not have the right to re-assessment and shall be required to withdraw from the course.
 
 (5) Senate shall appoint a Board of Examiners for each study-unit undertaken at the University, in accordance with the provisions of the University Assessment Regulations.
 
@@ -181,11 +165,7 @@ assessment and shall be required to withdraw from the course.
 
 (b) the Board of Studies may not terminate studies prematurely according to (b) until it has first given the student a chance to be heard.
 
-(3) The role of the supervisor shall cease when the dissertation is submitted for examination but may be re-assumed, on the advice GLOBAL DEVELOPMENT DEGREE COURSE [S.L.327.516
-
-of the Board of Examiners, in order to provide guidance to students whose dissertation is referred back for significant correction pending final acceptance.
-
-*5*
+(3) The role of the supervisor shall cease when the dissertation is submitted for examination but may be re-assumed, on the advice of the Board of Examiners, in order to provide guidance to students whose dissertation is referred back for significant correction pending final acceptance.
 
 ## 10. Board of Examiners.
 

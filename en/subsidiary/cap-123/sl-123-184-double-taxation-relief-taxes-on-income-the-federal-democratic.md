@@ -15,11 +15,7 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (The Federal Democratic Republic of Ethiopia) Order (S.L. 123.184)
 
-(THE FEDERAL DEMOCRATIC
-
-*1*
-
-REPUBLIC OF ETHIOPIA) [S.L. 123.184 SUBSIDIARY LEGISLATION 123.184
+**SUBSIDIARY LEGISLATION 123.184**
 
 DOUBLE TAXATION RELIEF (TAXES ON INCOME)
 
@@ -48,12 +44,6 @@ It is hereby declared:-
 (b) that it is expedient that those arrangements should have effect following the entry into force of the Convention and in accordance with the relevant provisions of the Convention;
 
 (c) that the Convention shall enter into force on such date as may be announced by notice in the Government Gazette.
-
-(THE FEDERAL DEMOCRATIC REPUBLIC OF
-
-*2*
-
-[S.L. 123.184 ETHIOPIA)
 
 ## SCHEDULE — Article 2 — CONVENTION
 
@@ -101,11 +91,7 @@ The existing taxes to which the Convention shall apply are in particular:
 
 the income tax;
 
-(THE FEDERAL DEMOCRATIC
-
-*3*
-
-REPUBLIC OF ETHIOPIA) [S.L. 123.184 (hereinafter referred to as "Malta tax");
+(hereinafter referred to as "Malta tax");
 
 (b) in the case of Ethiopia:
 
@@ -135,12 +121,6 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 (e) the term "company" means any body corporate or any entity that is treated as a body corporate for tax purposes;
 
-(THE FEDERAL DEMOCRATIC REPUBLIC OF
-
-*4*
-
-[S.L. 123.184 ETHIOPIA)
-
 (f) the terms "enterprise of a Contracting State" and "enterprise of the other Contracting State" mean respectively an enterprise carried on by a resident of a Contracting State and an enterprise carried on by a resident of the other Contracting State;
 
 (g) the term "international traffic" means any transport by a ship or aircraft operated by an enterprise which has its place of effective management in a Contracting State, except when such transport is operated solely between places in the other Contracting State;
@@ -165,11 +145,7 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 \1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of incorporation, place of management or any other criterion of a similar nature, and also includes that State and any political subdivision or local authority thereof. This term, however, does not include any person who is liable to tax in that State in respect only of income from sources in that State.
 
-(THE FEDERAL DEMOCRATIC
-
-*5*
-
-REPUBLIC OF ETHIOPIA) [S.L. 123.184 2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
+\2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
 (a) he shall be deemed to be a resident only of the State in which he has a permanent home available to him; if he has a permanent home available to him in both States, he shall be deemed to be a resident only of the State with which his personal and economic relations are closer (centre of vital interests);
 
@@ -201,12 +177,6 @@ REPUBLIC OF ETHIOPIA) [S.L. 123.184 2. Where by reason of the provisions of para
 
 (f) a workshop;
 
-(THE FEDERAL DEMOCRATIC REPUBLIC OF
-
-*6*
-
-[S.L. 123.184 ETHIOPIA)
-
 (g) a mine, an oil or gas well, a quarry or any other place of extraction of natural resources.
 
 (h) a commercial warehouse (in relation to a person carrying on business in the field of storage); and
@@ -233,11 +203,7 @@ Notwithstanding the preceding provisions of this Article, the term "permanent es
 
 (g) the maintenance of a fixed place of business solely for the purpose of carrying on, for the enterprise, any other activity of a preparatory or auxiliary character;
 
-(h) the maintenance of a fixed place of business solely for any combination of activities mentioned in sub-paragraphs (a) to (g), provided that the overall activity of the fixed place of (THE FEDERAL DEMOCRATIC
-
-*7*
-
-REPUBLIC OF ETHIOPIA) [S.L. 123.184 business resulting from this combination is of a preparatory or auxiliary character.
+(h) the maintenance of a fixed place of business solely for any combination of activities mentioned in sub-paragraphs (a) to (g), provided that the overall activity of the fixed place of business resulting from this combination is of a preparatory or auxiliary character.
 
 ## 5.
 
@@ -254,12 +220,6 @@ An enterprise shall not be deemed to have a permanent establishment in a Contrac
 ## 8.
 
 The fact that a company which is a resident of a Contracting State controls or is controlled by a company which is a resident of the other Contracting State, or which carries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself constitute either company a permanent establishment of the other.
-
-(THE FEDERAL DEMOCRATIC REPUBLIC OF
-
-*8*
-
-[S.L. 123.184 ETHIOPIA)
 
 **Article 6**
 
@@ -281,11 +241,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \2. Subject to the provisions of paragraph 3, where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment.
 
-\3. In determining the profits of a permanent establishment, (THE FEDERAL DEMOCRATIC
-
-*9*
-
-REPUBLIC OF ETHIOPIA) [S.L. 123.184 there shall be allowed as deductions expenses which are incurred for the purposes of the permanent establishment, including executive and general administrative expenses so incurred, whether in the State in which the permanent establishment is situated or elsewhere. This provision shall apply subject to limitations under the domestic law, provided that those limitations are consistent with the principles of paragraph 2 of Article 24.
+\3. In determining the profits of a permanent establishment, there shall be allowed as deductions expenses which are incurred for the purposes of the permanent establishment, including executive and general administrative expenses so incurred, whether in the State in which the permanent establishment is situated or elsewhere. This provision shall apply subject to limitations under the domestic law, provided that those limitations are consistent with the principles of paragraph 2 of Article 24.
 
 \4. Insofar as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph 2 shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary; the method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles contained in this Article.
 
@@ -306,12 +262,6 @@ REPUBLIC OF ETHIOPIA) [S.L. 123.184 there shall be allowed as deductions expense
 \3. For the purposes of this Article, profits from the operation of ships or aircraft in international traffic include:
 
 (a) profits from the rental on a bareboat basis of ships or aircraft;
-
-(THE FEDERAL DEMOCRATIC REPUBLIC OF
-
-*10*
-
-[S.L. 123.184 ETHIOPIA)
 
 (b) profits from the use, maintenance or rental of containers (including trailers and related equipment for the transport of containers) used for the transport of goods or merchandise; and
 
@@ -335,11 +285,7 @@ where such rental, use, maintenance or sale of tickets, as the case may be, is i
 
 and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
 
-\2. Where a Contracting State includes in the profits of an enterprise of that State - and taxes accordingly - profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have (THE FEDERAL DEMOCRATIC
-
-*11*
-
-REPUBLIC OF ETHIOPIA) [S.L. 123.184 been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Convention and the competent authorities of the Contracting States shall if necessary consult each other.
+\2. Where a Contracting State includes in the profits of an enterprise of that State - and taxes accordingly - profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Convention and the competent authorities of the Contracting States shall if necessary consult each other.
 
 **Article 10**
 
@@ -357,12 +303,6 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \3. The term "dividends" as used in this Article means income from shares, "jouissance" shares or "jouissance" rights, mining shares, founders' shares or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
 
-(THE FEDERAL DEMOCRATIC REPUBLIC OF
-
-*12*
-
-[S.L. 123.184 ETHIOPIA)
-
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \5. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company's undistributed profits to a tax on the company's undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
@@ -377,11 +317,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \3. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor's profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
-\4. The provisions of paragraph 1 and 2 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is (THE FEDERAL DEMOCRATIC
-
-*13*
-
-REPUBLIC OF ETHIOPIA) [S.L. 123.184 paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
+\4. The provisions of paragraph 1 and 2 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \5. Interest shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment or fixed base, then such interest shall be deemed to arise in the Contracting State in which the permanent establishment or fixed base is situated.
 
@@ -397,13 +333,7 @@ REPUBLIC OF ETHIOPIA) [S.L. 123.184 paid is effectively connected with such perm
 
 \3. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including computer software, cinematograph films and recordings on tape or other media used for radio or television broadcasting or other means of reproduction or transmission, any patent, trade mark, design or model, plan, secret formula or process or for information concerning industrial, commercial or scientific experience.
 
-\4. The provisions of paragraph 1and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise through a permanent establishment situated therein, or (THE FEDERAL DEMOCRATIC REPUBLIC OF
-
-*14*
-
-[S.L. 123.184 ETHIOPIA)
-
-performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
+\4. The provisions of paragraph 1and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \5. Royalties shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the Contracting State in which the permanent establishment or fixed base is situated.
 
@@ -417,11 +347,7 @@ performs in that other State independent personal services from a fixed base sit
 
 \2. Gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or of movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing independent personal services, including such gains from the alienation of such a permanent establishment (alone or with the whole enterprise) or of such fixed base, may be taxed in that other State.
 
-\3. Gains from the alienation of ships or aircraft operated in international traffic or movable property pertaining to the operation of such ships or aircraft shall be taxable only in the Contracting State in which the place of effective management of the enterprise is situated. (THE FEDERAL DEMOCRATIC
-
-*15*
-
-REPUBLIC OF ETHIOPIA) [S.L. 123.184 4. Gains derived by a resident of a Contracting State from the alienation of shares deriving more than 50 per cent of their value directly or indirectly from immovable property situated in the other Contracting State may be taxed in that other State.
+\3. Gains from the alienation of ships or aircraft operated in international traffic or movable property pertaining to the operation of such ships or aircraft shall be taxable only in the Contracting State in which the place of effective management of the enterprise is situated. 4. Gains derived by a resident of a Contracting State from the alienation of shares deriving more than 50 per cent of their value directly or indirectly from immovable property situated in the other Contracting State may be taxed in that other State.
 
 \5. Gains from the alienation of any property, other than that referred to in paragraphs 1, 2, 3 and 4, shall be taxable only in the Contracting State of which the alienator is a resident.
 
@@ -445,13 +371,7 @@ REPUBLIC OF ETHIOPIA) [S.L. 123.184 4. Gains derived by a resident of a Contract
 
 (b) the remuneration is paid by, or on behalf of, an employer who is not a resident of the other State, and
 
-(c) the remuneration is not borne by a permanent (THE FEDERAL DEMOCRATIC REPUBLIC OF
-
-*16*
-
-[S.L. 123.184 ETHIOPIA)
-
-establishment or a fixed base which the employer has in the other State.
+(c) the remuneration is not borne by a permanent establishment or a fixed base which the employer has in the other State.
 
 \3. Notwithstanding the preceding provisions of this Article, remuneration derived by a resident of a Contracting State in respect of an employment exercised aboard a ship or aircraft operated in international traffic may be taxed in the Contracting State in which the place of effective management of the enterprise is situated.
 
@@ -471,11 +391,7 @@ Directors' fees and other similar payments derived by a resident of a Contractin
 
 \3. Notwithstanding the provisions of paragraphs 1 and 2, income derived from the activities referred to in paragraph 1 within the framework of cultural or sports exchanges agreed to by the Governments of the Contracting States and carried out other than for the purpose of profit, shall be exempt from tax in the Contracting State in which these activities are exercised.
 
-(THE FEDERAL DEMOCRATIC
-
-*17*
-
-REPUBLIC OF ETHIOPIA) [S.L. 123.184 Article 18
+**Article 18**
 
 **PENSIONS AND ANNUITIES**
 
@@ -501,13 +417,7 @@ REPUBLIC OF ETHIOPIA) [S.L. 123.184 Article 18
 
 (b) However, such pensions and similar remuneration shall be taxable only in the other Contracting State if the individual is a resident of, and a national of, that State.
 
-\3. The provisions of Articles 15, 16, 17 and 18 shall apply to salaries, wages, pensions and other similar remuneration in respect (THE FEDERAL DEMOCRATIC REPUBLIC OF
-
-*18*
-
-[S.L. 123.184 ETHIOPIA)
-
-of services rendered in connection with a business carried on by a Contracting State or a political subdivision or a local authority thereof.
+\3. The provisions of Articles 15, 16, 17 and 18 shall apply to salaries, wages, pensions and other similar remuneration in respect of services rendered in connection with a business carried on by a Contracting State or a political subdivision or a local authority thereof.
 
 **Article 20**
 
@@ -531,11 +441,7 @@ of services rendered in connection with a business carried on by a Contracting S
 
 \1. Items of income of a resident of a Contracting State, wherever arising, not dealt with in the foregoing Articles of this Convention shall be taxable only in that State.
 
-(THE FEDERAL DEMOCRATIC
-
-*19*
-
-REPUBLIC OF ETHIOPIA) [S.L. 123.184 2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other state independent personal services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
+\2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other state independent personal services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \3. Notwithstanding the provisions of paragraphs 1 and 2, items of income of a resident of a Contracting State not dealt with in the foregoing Articles of this Convention and arising in the other Contracting State may also be taxed in that other State.
 
@@ -555,12 +461,6 @@ Such deduction shall not, however, exceed that part of the income tax as compute
 
 \3. For the purpose of paragraph 1, where the income arising in Ethiopia is exempt or taxed at a reduced rate in Ethiopia, for a limited period of time in accordance with the laws and regulations of Ethiopia aimed at promoting economic development, then the tax on such income which has been exempt or taxed at a reduced rate in Ethiopia shall be credited against the tax on income owing in Malta where the beneficial owner of this income is a resident.
 
-(THE FEDERAL DEMOCRATIC REPUBLIC OF
-
-*20*
-
-[S.L. 123.184 ETHIOPIA)
-
 \4. The provisions of paragraph 3 shall apply for the first ten years for which this Convention is effective. The competent authorities of the Contracting States may consult each other to determine whether this period may be extended.
 
 **Article 24**
@@ -575,11 +475,9 @@ Such deduction shall not, however, exceed that part of the income tax as compute
 
 \4. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned Contracting State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
 
-\5. The provisions of this Article shall, notwithstanding the provisions of Article 2, apply to taxes of every kind and description. (THE FEDERAL DEMOCRATIC
+\5. The provisions of this Article shall, notwithstanding the provisions of Article 2, apply to taxes of every kind and description.
 
-*21*
-
-REPUBLIC OF ETHIOPIA) [S.L. 123.184 Article 25
+**Article 25**
 
 **MUTUAL AGREEMENT PROCEDURE**
 
@@ -597,13 +495,7 @@ REPUBLIC OF ETHIOPIA) [S.L. 123.184 Article 25
 
 \1. The competent authorities of the Contracting States shall exchange such information as is foreseeably relevant for carrying out the provisions of this Convention or to the administration or enforcement of the domestic laws concerning taxes of every kind and description imposed on behalf of the Contracting States, or of their political subdivisions or local authorities, insofar as the taxation thereunder is not contrary to the Convention. The exchange of information is not restricted by Articles 1 and 2.
 
-\2. Any information received under paragraph 1 by a Contracting State shall be treated as secret in the same manner as (THE FEDERAL DEMOCRATIC REPUBLIC OF
-
-*22*
-
-[S.L. 123.184 ETHIOPIA)
-
-information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to the taxes referred to in paragraph 1, or the oversight of the above. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions. Notwithstanding the foregoing, information received by a Contracting State may be used for other purposes when such information may be used for such other purposes under the laws of both States and the competent authority of the supplying State authorises such use.
+\2. Any information received under paragraph 1 by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to the taxes referred to in paragraph 1, or the oversight of the above. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions. Notwithstanding the foregoing, information received by a Contracting State may be used for other purposes when such information may be used for such other purposes under the laws of both States and the competent authority of the supplying State authorises such use.
 
 \3. In no case shall the provisions of paragraphs 1 and 2 be construed so as to impose on a Contracting State the obligation:
 
@@ -617,11 +509,7 @@ information obtained under the domestic laws of that State and shall be disclose
 
 \5. In no case shall the provisions of paragraph 3 be construed to permit a Contracting State to decline to supply information solely because the information is held by a bank, other financial institution, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person.
 
-(THE FEDERAL DEMOCRATIC
-
-*23*
-
-REPUBLIC OF ETHIOPIA) [S.L. 123.184 Article 27
+**Article 27**
 
 **MEMBERS OF DIPLOMATIC MISSIONS**
 
@@ -654,12 +542,6 @@ in respect of taxes on income derived during any fiscal year beginning on or aft
 \1. This Convention shall remain in force until terminated by a Contracting State. Either Contracting State may terminate the Convention at any time after five years from the date on which the Convention enters into force by giving notice of termination, through diplomatic channels, at least six months before the end of any fiscal year.
 
 \2. In such event, the Convention shall cease to have effect:
-
-(THE FEDERAL DEMOCRATIC REPUBLIC OF
-
-*24*
-
-[S.L. 123.184 ETHIOPIA)
 
 (a) in the case of Malta:
 

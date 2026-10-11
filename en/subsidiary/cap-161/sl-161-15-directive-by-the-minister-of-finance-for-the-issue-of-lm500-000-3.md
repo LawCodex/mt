@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister of Finance for the Issue of Lm500,000 3% Local Development Registered Stock 2001 (S.L. 161.15)
 
-ISSUE OF LM500,000 3%
-
-*1*
-
-LOCAL DEVELOPMENT REGISTERED STOCK 2001 [S.L.161.15
-
 SUBSIDIARY LEGISLATION 161.15
 
 DIRECTIVE BY THE MINISTER OF FINANCE FOR

@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy under the auspices of the Mediterranean Institute (S.L. 327.103)
 
-*1*
-
-AUSPICES OF THE MEDITERRANEAN INSTITUTE [S.L.327.103
-
 **SUBSIDIARY LEGISLATION 327.103**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR OF**
@@ -80,10 +76,6 @@ a member from the Institute Board.
 The Board may also ask the Co-ordinator of the area of study concerned and the proposed Principal Supervisor to attend the committee meeting during the consideration of the application.
 
 \*These regulations have been repealed by Legal Notice 260 of 2024.
-
-*2*
-
-[S.L.327.103 AUSPICES OF THE MEDITERRANEAN INSTITUTE
 
 ## 6. Supervision.
 

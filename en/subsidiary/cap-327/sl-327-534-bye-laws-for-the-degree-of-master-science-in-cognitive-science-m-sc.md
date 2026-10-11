@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master Science in Cognitive Science - M.Sc. - under the auspices of the Faculty of Media and Knowledge Sciences (S.L. 327.534)
 
-SCIENCE - M.Sc. - UNDER THE AUSPICES OF THE
-
-*1*
-
-FACULTY OF MEDIA AND KNOWLEDGE SCIENCES [S.L.327.534
-
 **SUBSIDIARY LEGISLATION 327.534**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -77,11 +71,7 @@ Applicants shall be selected according to the following criteria, the weighting 
 
 ## 6. Qualifications.
 
-For the purpose of selection, applicants whose qualifications as stipulated in bye-law 3 were obtained by 31 August preceding the commencement of the course shall be SCIENCE - M.Sc. - UNDER THE AUSPICES OF THE [S.L.327.534 FACULTY OF MEDIA AND KNOWLEDGE SCIENCES
-
-considered first.
-
-*2*
+For the purpose of selection, applicants whose qualifications as stipulated in bye-law 3 were obtained by 31 August preceding the commencement of the course shall be considered first.
 
 ## 7. Interviewing board.
 
@@ -123,11 +113,7 @@ The course shall extend over three semesters of full-time study.
 
 (1) Students shall be required to have regular contact with their supervisor.
 
-(2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of study, whether the student is following the course on a full-time or SCIENCE - M.Sc. - UNDER THE AUSPICES OF THE
-
-*3*
-
-FACULTY OF MEDIA AND KNOWLEDGE SCIENCES [S.L.327.534 a part-time basis. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
+(2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of study, whether the student is following the course on a full-time or a part-time basis. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 

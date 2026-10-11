@@ -16,16 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws terms of the General Regulations for University Postgraduate Awards, for the degree of Master of Science in Strategic Management and Marketing - M.Sc. - offered under the auspices of the Faculty of Economics, Management and Accountancy (S.L. 327.573)
 
-AWARDS, FOR THE DEGREE OF MASTER OF SCIENCE IN
-
-STRATEGIC MANAGEMENT AND MARKETING - M.SC. -
-
-UNDER THE AUSPICES OF THE FACULTY OF
-
-*1*
-
-ECONOMICS, MANAGEMENT AND ACCOUNTANCY [S.L. 327.573
-
 **SUBSIDIARY LEGISLATION 327.573**
 
 **BYE-LAWS IN TERMS OF THE GENERAL**
@@ -70,11 +60,7 @@ The Course shall be open to applicants in possession of:
 
 (b) the degree of Bachelor of Commerce (Honours) from this University, in management or marketing, obtained with at least Second Class Honours,
 
-AWARDS, FOR THE DEGREE OF MASTER OF SCIENCE IN STRATEGIC MANAGEMENT AND MARKETING - M.SC. - UNDER THE AUSPICES OF THE FACULTY OF
-
-*2*
-
-[S.L. 327.573 ECONOMICS, MANAGEMENT AND ACCOUNTANCY provided that subject to the submission of a portfolio covering at least three years’ experience in the management or marketing field, the Board may consider also applicants in possession of the degree obtained with Third Class Honours; or
+provided that subject to the submission of a portfolio covering at least three years’ experience in the management or marketing field, the Board may consider also applicants in possession of the degree obtained with Third Class Honours; or
 
 (c) the degree of Bachelor of Science (Honours) in Business and IT from this University, obtained with at least Second Class Honours; or
 
@@ -106,17 +92,9 @@ Interviews, when necessary, shall be conducted by a board appointed for the purp
 
 For the purpose of selection, applicants whose qualifications as stipulated in bye-law 3 were obtained by 31 August preceding the commencement of the Course shall be considered first.
 
-AWARDS, FOR THE DEGREE OF MASTER OF SCIENCE IN
+## 8. Course Duration
 
-STRATEGIC MANAGEMENT AND MARKETING - M.SC. -
-
-UNDER THE AUSPICES OF THE FACULTY OF
-
-*3*
-
-ECONOMICS, MANAGEMENT AND ACCOUNTANCY [S.L. 327.573 8. The Course shall extend over three semesters of full-time study which shall include a summer period.
-
-*Course Duration*
+The Course shall extend over three semesters of full-time study which shall include a summer period.
 
 ## 9. Programme of Study
 
@@ -148,11 +126,7 @@ ECONOMICS, MANAGEMENT AND ACCOUNTANCY [S.L. 327.573 8. The Course shall extend o
 
 (1) Students shall be required to have regular contact with their supervisor.
 
-(2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of AWARDS, FOR THE DEGREE OF MASTER OF SCIENCE IN STRATEGIC MANAGEMENT AND MARKETING - M.SC. - UNDER THE AUSPICES OF THE FACULTY OF
-
-*4*
-
-[S.L. 327.573 ECONOMICS, MANAGEMENT AND ACCOUNTANCY study. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
+(2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of study. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 

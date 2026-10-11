@@ -1,6 +1,6 @@
 ---
 title: "Commissioners for Oaths (Notaries Public) Regulations"
-identifier: "S.L. 79.1"
+identifier: "S.L. 79.01"
 eli: "https://legislation.mt/eli/sl/79.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/79.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Commissioners for Oaths (Notaries Public) Regulations (S.L. 79.1)
+# Commissioners for Oaths (Notaries Public) Regulations (S.L. 79.01)
 
 SUBSIDIARY LEGISLATION 79.01
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the degree of Master of Science in Pharmaceutical and Regulatory Sciences - M.Sc. - under the auspices of the Faculty of Medicine and Surgery (S.L. 327.341)
 
-*1*
-
-REGULATORY SCIENCES - M.SC. [S.L.327.341
-
 **SUBSIDIARY LEGISLATION 327.341**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -73,11 +69,7 @@ The course shall be open to applicants in possession of:
 
 (e) the degree of Master of Dental Surgery awarded from July 2018 onwards; or
 
-(f) a Bachelor degree in Pharmacy or in any other area [S.L.327.341 REGULATORY SCIENCES - M.SC.
-
-which the Board deems to be relevant, obtained with Third Class Honours, if they are also in possession of other qualifications, including relevant experience, obtained following the first cycle degree.
-
-*2*
+(f) a Bachelor degree in Pharmacy or in any other area which the Board deems to be relevant, obtained with Third Class Honours, if they are also in possession of other qualifications, including relevant experience, obtained following the first cycle degree.
 
 ## 4. Number of applicants.
 
@@ -121,11 +113,7 @@ The programme of study shall be published after approval by Senate, normally not
 
 (1) Students shall be required to submit an individual dissertation of approximately 25,000 words in accordance with the guidelines issued by the Board.
 
-(2) Work on the dissertation shall be undertaken during the third semester of the course. Each student shall be assigned a REGULATORY SCIENCES - M.SC. [S.L.327.341
-
-supervisor who shall provide guidance and advice on a regular basis during the period of study.
-
-*3*
+(2) Work on the dissertation shall be undertaken during the third semester of the course. Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
 
 (3) A provisional title for the dissertation and a detailed research proposal shall be submitted to the Board for approval by the beginning of the second semester.
 

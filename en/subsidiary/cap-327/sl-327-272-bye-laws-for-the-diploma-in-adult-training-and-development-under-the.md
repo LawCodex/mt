@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in Adult Training and Development under the auspices of the Faculty of Education (S.L. 327.272)
 
-DIPLOMA IN ADULT TRAINING AND DEVELOPMENT
-
-UNDER THE AUSPICES OF
-
-*1*
-
-THE FACULTY OF EDUCATION [S.L.327.272
-
 **SUBSIDIARY LEGISLATION 327.272**
 
 **BYE-LAWS FOR THE DIPLOMA IN ADULT**

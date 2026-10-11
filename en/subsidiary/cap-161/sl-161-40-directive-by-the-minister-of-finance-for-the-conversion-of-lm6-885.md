@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister of Finance for the Conversion of Lm6,885,000 6% Local Development Registered Stock 1994 (I) into Lm6,885,000 5.65% Malta Government Stock 1998 (Third Issue) (S.L. 161.40)
 
-*1*
-
-MALTA GOVERNMENT STOCKS [S.L.161.140
-
 **SUBSIDIARY LEGISLATION 161.140**
 
 DIRECTIVE BY THE MINISTER FOR FINANCE FOR THE ISSUE OF €50,000,000 MALTA
@@ -65,11 +61,7 @@ The sum of money to be raised by either Stock, or of any combination of the two 
 
 ## 7. Rate of interest and dates of payment.
 
-(1) Interest at the rate of Euro 0.75 for every Euro 100 in respect of the 1.5% Malta Government Stock 2022 (IV) shall be payable half-yearly in arrears on the 11th day of January and the [S.L.161.140 MALTA GOVERNMENT STOCKS
-
-11th day of July in every year for the duration of the Stock.
-
-*2*
+(1) Interest at the rate of Euro 0.75 for every Euro 100 in respect of the 1.5% Malta Government Stock 2022 (IV) shall be payable half-yearly in arrears on the 11th day of January and the 11th day of July in every year for the duration of the Stock.
 
 The first pro rata interest payment covering the period from the 4th day of April, 2016 to the 10th day of July, 2016 (both dates inclusive), shall be made on the 11th day of July, 2016.
 

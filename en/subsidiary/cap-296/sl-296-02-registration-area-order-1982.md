@@ -1,6 +1,6 @@
 ---
 title: "Registration Area Order (1982)"
-identifier: "S.L. 296.2"
+identifier: "S.L. 296.02"
 eli: "https://legislation.mt/eli/sl/296.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/296.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Registration Area Order (1982) (S.L. 296.2)
+# Registration Area Order (1982) (S.L. 296.02)
 
 **SUBSIDIARY LEGISLATION 296.02**
 

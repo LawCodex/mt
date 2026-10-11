@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science in Economics - M.Sc. - under the auspices of the Faculty of Economics, Management and Accountancy (S.L. 327.550)
 
-M. SC. - UNDER THE AUSPICES OF THE FACULTY OF
-
-*1*
-
-ECONOMICS, MANAGEMENT AND ACCOUNTANCY [S.L.327.550
-
 **SUBSIDIARY LEGISLATION 327.550**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -73,11 +67,9 @@ These bye-laws shall be applicable for courses commencing in October 2018 or lat
 
 (c) a degree with at least Second Class Honours or Category II, in any other area deemed relevant by the Board of Studies.
 
-(2) Students admitted under sub-paragraphs (b) and (c) of paragraph (1) may be required to follow and pass supplementary study- M. SC. - UNDER THE AUSPICES OF THE FACULTY OF [S.L.327.550 ECONOMICS, MANAGEMENT AND ACCOUNTANCY unit/s, as recommended by the Board of Studies, to which a maximum of 12 ECTS credits are assigned, in addition to the programme of study specified in bye-law 5 of these bye-laws.
+(2) Students admitted under sub-paragraphs (b) and (c) of paragraph (1) may be required to follow and pass supplementary study-unit/s, as recommended by the Board of Studies, to which a maximum of 12 ECTS credits are assigned, in addition to the programme of study specified in bye-law 5 of these bye-laws.
 
 (2) Students admitted under sub-paragraphs (b) and (c) of paragraph (1) may be required to follow and pass supplementary study-unit/s, as recommended by the Board of Studies, to which a maximum of 12 ECTS credits are assigned, in addition to the programme of study specified in bye-law 5 of these bye-laws.”
-
-*2*
 
 ## 4. Course duration.
 
@@ -113,11 +105,7 @@ The Course shall extend over three semesters of full-time study or the equivalen
 
 (1) Students shall be required to submit an individual dissertation of approximately 15,000 to 20,000 words in accordance issued by the Board of Studies.
 
-M. SC. - UNDER THE AUSPICES OF THE FACULTY OF
-
-*3*
-
-ECONOMICS, MANAGEMENT AND ACCOUNTANCY [S.L.327.550 (2) Work on the dissertation shall be undertaken during the final semester of the Course. Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
+(2) Work on the dissertation shall be undertaken during the final semester of the Course. Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
 
 (3) A provisional title for the dissertation and a detailed research proposal shall be submitted to the Board for approval by the date indicated by the Board of Studies.
 

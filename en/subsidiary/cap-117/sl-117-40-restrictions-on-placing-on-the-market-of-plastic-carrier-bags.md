@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Restrictions on Placing on the Market of Plastic Carrier Bags Regulations (S.L. 117.40)
 
-*1*
-
-LIGHTWEIGHT PLASTIC CARRIER BAGS [S.L. 117.40 SUBSIDIARY LEGISLATION 117.40
+**SUBSIDIARY LEGISLATION 117.40**
 
 RESTRICTIONS ON PLACING ON THE MARKET OF LIGHTWEIGHT PLASTIC CARRIER BAGS
 
@@ -53,11 +51,7 @@ The title of these regulations is the Restrictions on Placing on the Market of P
 
 "plastic" means a polymer within the meaning of Article 3(5) of Regulation (EC) No 1907/2006 of the European Parliament and of the Council, to which additives or other substances may have been added, and which is capable of functioning as a main structural component of carrier bags;
 
-"plastic carrier bags" means carrier bags, with or without [S.L. 117.40 LIGHTWEIGHT PLASTIC CARRIER BAGS
-
-handle, made of plastic, which are supplied to consumers at the point of sale of goods or products;
-
-*2*
+"plastic carrier bags" means carrier bags, with or without handle, made of plastic, which are supplied to consumers at the point of sale of goods or products;
 
 "point of sale" means any retail premises, whether movable or immovable, or a retail website or similar online sales facility, including a telephone service;
 
@@ -89,9 +83,7 @@ handle, made of plastic, which are supplied to consumers at the point of sale of
 
 (c) reusable plastic carrier bags.
 
-*3*
-
-LIGHTWEIGHT PLASTIC CARRIER BAGS [S.L. 117.40 (4) Producers of biodegradable and compostable plastic carrier bags shall, upon applying to renew their registration in accordance with regulation 21(2) of the Waste Management (Packaging and Packaging Waste) Regulations, submit the certificates issued by an accredited conformity assessment body indicating that all the biodegradable and compostable plastic carrier bags placed on the national market in the course of a calendar year comply with harmonised standard EN 13432:2000:
+(4) Producers of biodegradable and compostable plastic carrier bags shall, upon applying to renew their registration in accordance with regulation 21(2) of the Waste Management (Packaging and Packaging Waste) Regulations, submit the certificates issued by an accredited conformity assessment body indicating that all the biodegradable and compostable plastic carrier bags placed on the national market in the course of a calendar year comply with harmonised standard EN 13432:2000:
 
 *S.L. 549. 43.*
 

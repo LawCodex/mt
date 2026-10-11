@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in Commerce - Dip.Com. - under the auspices of the Faculty of Economics, Management and Accountancy (S.L. 327.275)
 
-AUSPICES OF THE FACULTY OF ECONOMICS,
-
-*1*
-
-MANAGEMENT AND ACCOUNTANCY [ S.L.327.275
-
 **SUBSIDIARY LEGISLATION 327.275**
 
 BYE-LAWS FOR THE DIPLOMA IN COMMERCE -
@@ -80,10 +74,6 @@ The Course shall consist of a number of taught study-units to which 60 credits s
 (2) The names of students who qualify for the award of the Diploma shall be published in a list in alphabetical order classified as follows:
 
 Pass with Distinction
-
-*2*
-
-AUSPICES OF THE FACULTY OF ECONOMICS, [ S.L.327.275 MANAGEMENT AND ACCOUNTANCY
 
 Pass with Merit
 

@@ -1,6 +1,6 @@
 ---
 title: "Simplification of Exchange of Information or Intelligence between the Malta Police Force and other State Agencies of the Member States of the European Union having similar powers Regulations"
-identifier: "S.L. 164.2"
+identifier: "S.L. 164.02"
 eli: "https://legislation.mt/eli/sl/164.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,15 +15,9 @@ version: "https://legislation.mt/eli/sl/164.2/20250408/eng"
 retrieved: 2026-10-12
 ---
 
-# Simplification of Exchange of Information or Intelligence between the Malta Police Force and other State Agencies of the Member States of the European Union having similar powers Regulations (S.L. 164.2)
+# Simplification of Exchange of Information or Intelligence between the Malta Police Force and other State Agencies of the Member States of the European Union having similar powers Regulations (S.L. 164.02)
 
-INTELLIGENCE BETWEEN THE MALTA POLICE FORCE AND OTHER
-
-STATE AGENCIES OF THE MEMBER STATES OF THE EUROPEAN
-
-*1*
-
-UNION HAVING SIMILAR POWERS [S.L.164.02 SUBSIDIARY LEGISLATION 164.02
+**SUBSIDIARY LEGISLATION 164.02**
 
 **SIMPLIFICATION OF EXCHANGE OF**
 
@@ -65,13 +59,9 @@ For the purpose of these regulations:
 
 "Member State" means any one of the Member States of the European Union;
 
-"State agencies having similar powers" means the Police, Customs Department or other authority that is authorised by national law to detect, prevent and investigate offences or criminal activities and to exercise authority and take coercive measures in the context of such activities and excludes authorities, bodies, INTELLIGENCE BETWEEN THE MALTA POLICE FORCE AND OTHER STATE AGENCIES OF THE MEMBER STATES OF THE EUROPEAN [S.L.164.02 UNION HAVING SIMILAR POWERS
+"State agencies having similar powers" means the Police, Customs Department or other authority that is authorised by national law to detect, prevent and investigate offences or criminal activities and to exercise authority and take coercive measures in the context of such activities and excludes authorities, bodies, agencies or units dealing especially with national security issues. For the purpose of these regulations, the European Police Office "Europol" and "Eurojust" shall be considered as state agencies having similar powers;
 
 \*These regulations have been repealed by Legal Notice 70 of 2025.
-
-agencies or units dealing especially with national security issues. For the purpose of these regulations, the European Police Office "Europol" and "Eurojust" shall be considered as state agencies having similar powers;
-
-*2*
 
 *S.L. 440.05*
 
@@ -101,12 +91,6 @@ agencies or units dealing especially with national security issues. For the purp
 
 (c) clearly be disproportionate or irrelevant with regard to the purpose for which it has been requested.
 
-(4) Where the request pertains to an offence punishable by a term of imprisonment of one year or less under any relevant provision of Maltese law, the Police may refrain from INTELLIGENCE BETWEEN THE MALTA POLICE FORCE AND OTHER
-
-STATE AGENCIES OF THE MEMBER STATES OF THE EUROPEAN
-
-*3*
-
-UNION HAVING SIMILAR POWERS [S.L.164.02 communicating such data.
+(4) Where the request pertains to an offence punishable by a term of imprisonment of one year or less under any relevant provision of Maltese law, the Police may refrain from communicating such data.
 
 (5) The Data Protection Regulations and other provisions on data protection shall apply to the exchange of information or intelligence depending on the chosen channel of communication.

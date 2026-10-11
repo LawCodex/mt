@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Percentage Increase in the Rate of Contributory Pensions for Retirement Regulations (S.L. 318.25)
 
-*1*
-
-CONTRIBUTORY PENSIONS FOR RETIREMENT [S.L. 318.25 SUBSIDIARY LEGISLATION 318.25
+**SUBSIDIARY LEGISLATION 318.25**
 
 **PERCENTAGE INCREASE IN THE RATE OF**
 
@@ -62,10 +60,6 @@ When the calculation is made for the purposes of establishing the additional amo
 (b) the rate of the pension that was due; and
 
 (c) the number of years in which the pension was not paid.
-
-*2*
-
-[S.L. 318.25 CONTRIBUTORY PENSIONS FOR RETIREMENT
 
 ## 5. Other conditions on the mode in which this increase is paid. Cap. 318.
 

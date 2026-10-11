@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Comparative Euro-Mediterranean Education Studies - M.A. - under the auspices of the Faculty of Education (S.L. 327.293)
 
-NEAN EDUCATION STUDIES - M.A. - UNDER THE AUS-
-
-*1*
-
-PICES OF THE FACULTY OF EDUCATION [S.L.327.293
-
 **SUBSIDIARY LEGISLATION 327.293**
 
 *Substituted by: L.N. 328 of 2024.*
@@ -72,11 +66,7 @@ These bye-laws shall be applicable for courses commencing in 1st March, 2020 or 
 
 (c) a degree from the University of Malta or another university which the Board considers comparable to the degrees indicated in paragraphs (a) and (b) of this bye-law.
 
-(2) The mainly research programme shall be open to applicants NEAN EDUCATION STUDIES - M.A. - UNDER THE AUS- [S.L.327.293 PICES OF THE FACULTY OF EDUCATION
-
-in possession of one of the following qualifications:
-
-*2*
+(2) The mainly research programme shall be open to applicants in possession of one of the following qualifications:
 
 (a) a Bachelor degree in Education with at least Second Class Honours from the University of Malta or a degree from another university recognised as equivalent for the purpose; or
 
@@ -112,13 +102,11 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 The programmes of study shall comprise study-units to which a total of 90 credits shall be assigned.
 
-NEAN EDUCATION STUDIES - M.A. - UNDER THE AUS-
+## 6. Programme of study.
 
-*3*
+*Substituted by: L.N. 42 of 2015. Amended by: L.N. 125 of 2020.*
 
-PICES OF THE FACULTY OF EDUCATION [S.L.327.293 6. (1) The programme of study may be either mainly taught or mainly by research.
-
-*Programme of study. Substituted by: L.N. 42 of 2015. Amended by: L.N. 125 of 2020.*
+(1) The programme of study may be either mainly taught or mainly by research.
 
 (2) (a) The mainly taught programme shall include a taught component which shall comprise study-units to which 60 credits are assigned and a research component which shall comprise a dissertation study-unit to which 30 credits are assigned.
 
@@ -141,10 +129,6 @@ PICES OF THE FACULTY OF EDUCATION [S.L.327.293 6. (1) The programme of study may
 (2) Students who in any academic year fail in the assessment of not more than 20 credits, if following the course full-time, or not more than 10 credits if following the course part-time, shall be given the opportunity to re-sit the failed assessments during the September supplementary examination session.
 
 (3) Students who fail in more than the number of credits permitted under paragraph (2), or students who after re-assessment fail to obtain the credits for any study-unit, shall be deemed to have failed the course.
-
-*4*
-
-NEAN EDUCATION STUDIES - M.A. - UNDER THE AUS- [S.L.327.293 PICES OF THE FACULTY OF EDUCATION
 
 ## 8. Dissertation.
 
@@ -174,11 +158,7 @@ NEAN EDUCATION STUDIES - M.A. - UNDER THE AUS- [S.L.327.293 PICES OF THE FACULTY
 
 (ii) the Board may not terminate studies prematurely according to (b) until it has first given the student a chance to be heard.
 
-(3) No dissertation may be submitted to the Board of Examiners without a certificate, signed by the supervisor, confirming the work’s originality and conformity with these bye-laws and dissertations shall include a declaration signed by the NEAN EDUCATION STUDIES - M.A. - UNDER THE AUS-
-
-*5*
-
-PICES OF THE FACULTY OF EDUCATION [S.L.327.293 students that it is their own original work.
+(3) No dissertation may be submitted to the Board of Examiners without a certificate, signed by the supervisor, confirming the work’s originality and conformity with these bye-laws and dissertations shall include a declaration signed by the students that it is their own original work.
 
 ## 10. Classification of the Awards.
 

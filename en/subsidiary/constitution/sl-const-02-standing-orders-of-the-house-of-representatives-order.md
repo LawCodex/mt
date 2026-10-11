@@ -1,6 +1,6 @@
 ---
 title: "Standing Orders of the House of Representatives Order"
-identifier: "S.L. const.2"
+identifier: "S.L. const.02"
 eli: "https://legislation.mt/eli/sl/const.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/const.2/20250716/eng"
 retrieved: 2026-10-12
 ---
 
-# Standing Orders of the House of Representatives Order (S.L. const.2)
-
-*1*
-
-REPRESENTATIVES [S.L.Const.02
+# Standing Orders of the House of Representatives Order (S.L. const.02)
 
 **SUBSIDIARY LEGISLATION CONST.02**
 
@@ -71,10 +67,6 @@ The Standing Orders of the House of Representatives established by the Malta (Co
 
 "the House" means the House of Representatives established by article 52 of the Constitution;
 
-*2*
-
-[S.L.Const.02 REPRESENTATIVES
-
 "the Leader of the House" means the Minister responsible for parliamentary affairs;
 
 "Malta" has the same meaning as is assigned to it by article 124 of the Constitution;
@@ -110,10 +102,6 @@ When the House first meets after any general election and before it proceeds to 
 *Amended by: L.N. 46 of 1965.*
 
 When the House first meets after any general election and before it proceeds to the despatch of any other business except the election of the Speaker, the House shall elect a member of the House who is not a Minister or a Parliamentary Secretary to be the Deputy Speaker of the House; and, if the office of Deputy Speaker falls vacant at any time before the next dissolution of Parliament, the House shall, as soon as convenient, elect another member to the office.
-
-*3*
-
-REPRESENTATIVES [S.L.Const.02
 
 ## 5. Members to take oath.
 
@@ -153,11 +141,7 @@ Nothing in the foregoing provisions shall be construed to prevent the interrupti
 
 ## 8. Days of meeting.
 
-(1) Unless the House otherwise orders, the House shall meet at 5 p.m., on Monday and Thursday in each week (except [S.L.Const.02 REPRESENTATIVES
-
-upon public holidays) and on such other days and at such other hour as the House may from time to time determine, or as the Speaker may upon grounds of urgency appoint.
-
-*4*
+(1) Unless the House otherwise orders, the House shall meet at 5 p.m., on Monday and Thursday in each week (except upon public holidays) and on such other days and at such other hour as the House may from time to time determine, or as the Speaker may upon grounds of urgency appoint.
 
 (2) Subject to the provisions of standing order 7 (3) private members’ business shall have precedence over Government business on every alternate Thursday upon which the House sits.
 
@@ -189,11 +173,7 @@ In case the House, from any cause whatever, shall fail to meet upon any day appo
 
 ## 13. Adjournment on matters of definite urgent public importance.
 
-(1) No motion for the Adjournment of the House on a definite matter of urgent public importance shall be made unless a member at the commencement of business (i.e., after questions and before motions or orders of the day, as the case may be) rises in his place and states that he asks leave to move the Adjournment of the House for the purpose of discussing a definite matter of urgent public importance, whereupon he shall state the matter and deliver REPRESENTATIVES [S.L.Const.02
-
-to the Speaker a written statement of the subject to be discussed.
-
-*5*
+(1) No motion for the Adjournment of the House on a definite matter of urgent public importance shall be made unless a member at the commencement of business (i.e., after questions and before motions or orders of the day, as the case may be) rises in his place and states that he asks leave to move the Adjournment of the House for the purpose of discussing a definite matter of urgent public importance, whereupon he shall state the matter and deliver to the Speaker a written statement of the subject to be discussed.
 
 (2) The Speaker shall thereupon desire the members who support the motion to rise in their places, and if not less than ten rise accordingly, the motion stands over until 7 p.m. on the same day. If, however, fewer than ten and not less than five have so risen, the member may, if he thinks fit, claim a division upon question put forthwith and decided without amendment or debate, to determine whether such motion may be made.
 
@@ -219,11 +199,7 @@ If the Speaker or the Chairman of a Committee of the whole House, shall be of th
 
 (2) When the motion "That the question be now put" has been carried, and the question consequent thereon has been decided, any further motion may be made (the assent of the Chair as aforesaid not having been withheld) which may be requisite to bring to a decision any question already proposed from the Chair; and also if a clause be then under consideration, a motion may be made (the assent of the Chair, as aforesaid, not having been withheld), that the question that certain words of the clause defined in the motion stand part of the clause or that the clause stand part of, or be added to, the bill, be now put. Such motions shall be put forthwith, and decided without amendment or debate.
 
-(3) Provided always that this rule shall not be put in force - [S.L.Const.02 REPRESENTATIVES
-
-(a) in the House, unless the Speaker or the Deputy Speaker is in the Chair; or
-
-*6*
+(3) Provided always that this rule shall not be put in force - (a) in the House, unless the Speaker or the Deputy Speaker is in the Chair; or
 
 (b) in Committee of the whole House unless the Chairman or Deputy Chairman is in the Chair.
 
@@ -279,11 +255,7 @@ Except by leave of the House, to be decided without amendment or debate, the ord
 
 (1) Save as otherwise provided in the Constitution, all questions proposed for decision in the House shall be determined by a majority of the votes of the members present and voting.
 
-(2) The Speaker shall not have an original vote, but, if upon REPRESENTATIVES [S.L.Const.02
-
-any question before the House the votes are equally divided, he shall have and exercise a casting vote.
-
-*7*
+(2) The Speaker shall not have an original vote, but, if upon any question before the House the votes are equally divided, he shall have and exercise a casting vote.
 
 (3) Any other person shall, when presiding in the House, retain his original vote as a member and, if upon any question before the House the votes are equally divided, shall also have and exercise a casting vote.
 
@@ -328,10 +300,6 @@ The right to ask questions shall be governed by the following rules:
 (4) a question shall not be asked about proceedings in a committee which have not been placed before the House by a report from the committee;
 
 (5) a question shall not ask for an expression of opinion or for the solution of an abstract legal question or of a hypothetical proposition;
-
-*8*
-
-[S.L.Const.02 REPRESENTATIVES
 
 (6) a question shall not be asked as to the character or conduct of any person except in his official or public capacity;
 
@@ -381,11 +349,7 @@ Every motion requires notice unless it falls within one of the following excepte
 
 (1) a motion by way of amendment to a question already proposed from the Chair;
 
-(2) a motion for the Adjournment of the House or of the REPRESENTATIVES [S.L.Const.02
-
-debate, or that the question be put or be not now put or a motion in committee to report progress or that the Chairman leave the Chair;
-
-*9*
+(2) a motion for the Adjournment of the House or of the debate, or that the question be put or be not now put or a motion in committee to report progress or that the Chairman leave the Chair;
 
 (3) a motion raising a question of privilege;
 
@@ -435,11 +399,7 @@ A motion may be superseded by -
 
 (b) the previous question, that is to say a motion "That that question be not now put"; and
 
-(c) a motion "That the House do proceed to the orders of [S.L.Const.02 REPRESENTATIVES
-
-the day":
-
-*10*
+(c) a motion "That the House do proceed to the orders of the day":
 
 Provided that the previous question cannot be moved in any committee, or on any amendment, or on a motion relating to the transaction of public business or the meeting of the House; provided also that if the previous question be resolved in the negative the original question shall be put forthwith without any amendment or debate.
 
@@ -481,11 +441,7 @@ Provided that a member may rise to speak on a point of order, or on a question o
 
 No member shall speak for more than forty minutes at a time in any debate in the House except on a direct motion of want of confidence, when a member shall be at liberty to speak for one hour:
 
-Provided that this rule shall not apply to a Minister REPRESENTATIVES [S.L.Const.02
-
-delivering the Financial Statements, or to the Leader of the Opposition or any member deputed by him to speak first in reply to such a statement, who shall each be at liberty to speak for one hour and a half:
-
-*11*
+Provided that this rule shall not apply to a Minister delivering the Financial Statements, or to the Leader of the Opposition or any member deputed by him to speak first in reply to such a statement, who shall each be at liberty to speak for one hour and a half:
 
 Provided also that this rule shall not apply to a member moving the second reading of a bill, or to the Prime Minister or to the Leader of the Opposition or any member deputed by them respectively to speak first in reply to such motion, who shall each be at liberty to speak for one hour and a half:
 
@@ -527,11 +483,7 @@ Whenever the Speaker or the Chairman rises during a debate, any member then spea
 
 ## 57. Irrelevance or repetition.
 
-The Speaker or the Chairman after having called the attention of the House or of the Committee to the conduct of a member who persists in irrelevance or tedious repetition, either of [S.L.Const.02 REPRESENTATIVES
-
-his own argument or of the arguments used by other members in debate, may direct him to discontinue his speech.
-
-*12*
+The Speaker or the Chairman after having called the attention of the House or of the Committee to the conduct of a member who persists in irrelevance or tedious repetition, either of his own argument or of the arguments used by other members in debate, may direct him to discontinue his speech.
 
 ## 58. Motion that member be not heard, etc.
 
@@ -569,10 +521,6 @@ Upon a question of order being raised in the House, the member called to order s
 
 (3) Members ordered to withdraw in pursuance of this standing order, or who are suspended from the service of the House in pursuance of the next following standing order, shall forthwith withdraw from the precincts of the House.
 
-*13*
-
-REPRESENTATIVES [S.L.Const.02
-
 ## 64. Member named by the Speaker, how dealt with.
 
 *Amended by: Resolution 49 of 2013.*
@@ -598,10 +546,6 @@ Any member guilty of contempt as contemplated in the preceding standing order ma
 ## 68. Power of Speaker to adjourn House or suspend sitting.
 
 In the case of great disorder arising in the House the Speaker may, if he thinks it necessary to do so, adjourn the House without question put or suspend any sitting for a time to be named by him.
-
-*14*
-
-[S.L.Const.02 REPRESENTATIVES
 
 **V. Financial Business**
 
@@ -643,10 +587,6 @@ The debate shall then be adjourned for not less than a week.
 
 *Sittings allotted for consideration of Estimates.*
 
-*15*
-
-REPRESENTATIVES [S.L.Const.02
-
 The days so allotted shall not include any day on which the business of supply does not stand as the first order of the day.
 
 On motion made after notice, to be decided without amendment or debate, additional time, not exceeding three days, may be allotted for the business of supply. (d) On the days allotted for the business of Supply no motion (other than formal motions) shall be taken until after the consideration of Supply, and no motions under standing order 13 shall be entertained.
@@ -687,11 +627,7 @@ The Committee cannot attach a condition or an expression of opinion to a vote no
 
 ## 78. Vote may be postponed.
 
-It shall be in order, at any time during the discussion of a vote or item in a vote, to move the postponement of such vote, [S.L.Const.02 REPRESENTATIVES
-
-provided such postponement be only until the remainder of the votes of the Estimates in question shall have been disposed of.
-
-*16*
+It shall be in order, at any time during the discussion of a vote or item in a vote, to move the postponement of such vote, provided such postponement be only until the remainder of the votes of the Estimates in question shall have been disposed of.
 
 ## 79. Manner in which reductions are moved.
 
@@ -728,10 +664,6 @@ Provided that the time occupied in taking divisions shall be added to the time a
 ## 85. Votes shall be taken openly.
 
 A member is not obliged to vote. Votes shall be taken openly and entered in the minutes of the proceedings of the House. The Speaker or the Chairman, as the case may be, shall forthwith declare to the House the result of the division and shall state the number of the "Ayes" and of the "Noes".
-
-*17*
-
-REPRESENTATIVES [S.L.Const.02
 
 ## 86. In case of confusion or error House divides again.
 
@@ -781,11 +713,7 @@ When a day has been fixed for the second reading of any bill the Clerk of the Ho
 
 ## 95. Amendments to second reading.
 
-(1) Motions may be made to amend the motion for the second reading of a bill by leaving out all or some of the words after "that" and substituting words which state some special reason against the second reading of the bill, or by leaving out "now" and adding at the end of the motion "upon this day six months" or other [S.L.Const.02 REPRESENTATIVES
-
-time.
-
-*18*
+(1) Motions may be made to amend the motion for the second reading of a bill by leaving out all or some of the words after "that" and substituting words which state some special reason against the second reading of the bill, or by leaving out "now" and adding at the end of the motion "upon this day six months" or other time.
 
 *Principle of bill discussed on second reading.*
 
@@ -827,11 +755,7 @@ Upon a new clause being moved in Committee the Clerk of the House shall read the
 
 ## 102. Report of progress.
 
-If the consideration of a bill in Committee of the whole REPRESENTATIVES [S.L.Const.02
-
-House is not completed by the time at which business is required to be interrupted the Chairman shall report progress and ask leave to sit again.
-
-*19*
+If the consideration of a bill in Committee of the whole House is not completed by the time at which business is required to be interrupted the Chairman shall report progress and ask leave to sit again.
 
 The Chairman may also, on motion made, be ordered to report progress at any previous time.
 
@@ -876,10 +800,6 @@ A Committee of the whole House is appointed by resolution "That this House do no
 ## 110. Quorum.
 
 The quorum in Committee of the whole House shall consist of the same number of members as shall be requisite to form a quorum of the House.
-
-*20*
-
-[S.L.Const.02 REPRESENTATIVES
 
 ## 111. Absence of quorum.
 
@@ -928,10 +848,6 @@ If any disorder shall arise in Committee of the whole House the Speaker shall re
 ## 120. Speaker to resume the Chair in case of message from President of Malta.
 
 The Speaker shall also resume the Chair if a message be announced from His Excellency the President of Malta.
-
-*21*
-
-REPRESENTATIVES [S.L.Const.02
 
 **X. Committees appointed by the House**
 
@@ -985,11 +901,7 @@ As soon as may be, and in any case not later than one month after the House firs
 
 (3) Each side of the House shall nominate the members representing it on a standing committee, and shall also nominate alternate members for any members so appointed. The members and alternate members representing the Government side shall be nominated by the Leader of the House while the members and alternate members representing the Opposition side shall be nominated by the Leader of the Opposition. The name of members and alternate members so nominated and appointed by the House shall be recorded in the minutes of the sitting.
 
-(4) Each side of the House may substitute any member or alternate member nominated by it in accordance with paragraph (3) [S.L.Const.02 REPRESENTATIVES
-
-hereof to represent it on a standing committee. Such substitution shall only have effect after the Speaker is notified therewith. The Speaker shall, at the first available opportunity, notify the House, or, if the House is in recess, the Standing Committee on House Business.
-
-*22*
+(4) Each side of the House may substitute any member or alternate member nominated by it in accordance with paragraph (3) hereof to represent it on a standing committee. Such substitution shall only have effect after the Speaker is notified therewith. The Speaker shall, at the first available opportunity, notify the House, or, if the House is in recess, the Standing Committee on House Business.
 
 (5) Government bills referred to a standing committee shall have precedence over the other business of the standing committee and shall unless otherwise ordered by the House, be considered in such order as the Standing Committee on House Business may determine.
 
@@ -1018,10 +930,6 @@ hereof to represent it on a standing committee. Such substitution shall only hav
 (4) Alternate members shall also be appointed for each member of the Standing Committee on House Business and the provisions of paragraph (4) of standing order 120B shall also apply.
 
 (5) The Standing Committee on House Business shall be chaired by the Speaker who shall not vote unless on any question the votes are equally divided, in which case he shall have and exercise a casting vote.
-
-*23*
-
-REPRESENTATIVES [S.L.Const.02
 
 ## 120D. The Standing Committee on Privileges.
 
@@ -1057,11 +965,7 @@ REPRESENTATIVES [S.L.Const.02
 
 (h) report to the House on any change that it considers desirable in the form of the accounts, on the manner in which they are kept, on revenue or expenditure or the control of money.
 
-(2) The Standing Committee on Public Accounts shall consist of not more than seven members of whom four shall constitute a quorum. The members shall be chosen so as fairly to represent the House in general and the proportion of Government and Opposition [S.L.Const.02 REPRESENTATIVES
-
-members in particular.
-
-*24*
+(2) The Standing Committee on Public Accounts shall consist of not more than seven members of whom four shall constitute a quorum. The members shall be chosen so as fairly to represent the House in general and the proportion of Government and Opposition members in particular.
 
 (3) The provisions of paragraphs (3) and (4) of standing order 120B shall apply to the Standing Committee on Public Accounts.
 
@@ -1090,10 +994,6 @@ Provided that the composition of any sub-committee appointed by the standing com
 (4) Subject to what is stated in this standing order, the provisions of paragraphs (3) and (4) of standing order 120B shall mutatis mutandis apply to the Standing Committee on Foreign and European Affairs.
 
 (5) The Standing Committee on Foreign and European Affairs shall have the following functions:
-
-*25*
-
-REPRESENTATIVES [S.L.Const.02
 
 (i) to deal with matters relating to foreign and European Union affairs which may be referred to it by the House or by the Standing Committee on House Business;
 
@@ -1127,11 +1027,7 @@ REPRESENTATIVES [S.L.Const.02
 
 (2) The Standing Committee on Family Affairs shall consist of five members, three of whom shall be appointed from the Government side, one of whom shall be nominated as Chairman and two from the Opposition side.
 
-(3) The provisions of paragraph (3) of standing order 120E [S.L.Const.02 REPRESENTATIVES
-
-shall mutatis mutandis apply to the Standing Committee on Family Affairs.
-
-*26*
+(3) The provisions of paragraph (3) of standing order 120E shall mutatis mutandis apply to the Standing Committee on Family Affairs.
 
 ## 120I. The Standing Committee on Economic and Financial Affairs.
 
@@ -1169,11 +1065,7 @@ shall mutatis mutandis apply to the Standing Committee on Family Affairs.
 
 (b) evaluate all reports, strategic plans, task plans as well as all policies referred to it by the House, by the Minister or by any other Standing Committee;
 
-(c) evaluate matters and items relating to capital and REPRESENTATIVES [S.L.Const.02
-
-recurrent expenditure of such departments, statutory authorities and public organizations which operate in the public health field;
-
-*27*
+(c) evaluate matters and items relating to capital and recurrent expenditure of such departments, statutory authorities and public organizations which operate in the public health field;
 
 (d) evaluate matters and items relating to public health and the rights of the patient;
 
@@ -1204,10 +1096,6 @@ recurrent expenditure of such departments, statutory authorities and public orga
 (4) The Standing Committee on Petitions may establish, and from time to time update, guidelines to better regulate its work in accordance with those functions and powers assigned to it under these Standing Orders and/or any other law.
 
 These guidelines shall be approved by the Standing Committee for House Business, and immediately after such approval, shall be laid on the Table of the House by the Speaker in his official capacity as Chairman of the Standing Committee for House Business.
-
-*28*
-
-[S.L.Const.02 REPRESENTATIVES
 
 ## 120L. The Standing Committee on Gozo Affairs.
 
@@ -1247,11 +1135,7 @@ These guidelines shall be approved by the Standing Committee for House Business,
 
 (b) evaluate all reports, strategic plans, task plans as well as all policies referred to it by the House, by the Minister or by any other Standing Committee.
 
-(2) The Standing Committee on Education shall be constituted of not more than seven members, where four members shall constitute a quorum. The Members should be chosen in such manner as appears practicable to the House as fairly to represent REPRESENTATIVES [S.L.Const.02
-
-the House in general and the proportion of Government and Opposition members in the House in particular.
-
-*29*
+(2) The Standing Committee on Education shall be constituted of not more than seven members, where four members shall constitute a quorum. The Members should be chosen in such manner as appears practicable to the House as fairly to represent the House in general and the proportion of Government and Opposition members in the House in particular.
 
 (3) One of the Members nominated by the Government shall be appointed as Chairman of the Committee.
 
@@ -1297,10 +1181,6 @@ At least one day’s notice shall be given of the names of members proposed to s
 
 (3) If a committee is not previously adjourned, the chairman shall adjourn the committee without putting any question at the hour of interruption of business:
 
-*30*
-
-[S.L.Const.02 REPRESENTATIVES
-
 Provided that:
 
 (i) if in the opinion of the chairman, the proceedings on the bill or other business may be concluded by a short extension of the sitting, he may postpone the Adjournment of the committee to not later than fifteen minutes after the hour of interruption of business;
@@ -1332,10 +1212,6 @@ Unless otherwise provided in these standing orders or unless otherwise ordered b
 ## 131. Proceedings of committee to be recorded.
 
 An entry shall be made of the proceedings of such committee, of the names of the members attending each meeting, and of every motion or amendment proposed in the committee together with the names of the movers thereof; and if any division takes place in the committee, the committee clerk shall take down the names of the members voting in any such division, distinguishing on which side of the question they respectively vote, and all such entries or minutes shall be recorded and reported to the House on the report of such committee.
-
-*31*
-
-REPRESENTATIVES [S.L.Const.02
 
 ## 132. Power to send for witnesses, papers and records.
 
@@ -1374,10 +1250,6 @@ The provisions of standing orders 103 and 104 shall apply to a bill which has be
 (2) The proceedings of, or evidence taken by, or the report of any standing committee or select committee, or the summary of such proceedings, evidence or report, shall not be published by any member of such committee or by any other person, except with the permission of the House, until the report of such committee has been laid on the Table of the House.
 
 (3) Where evidence before a standing committee or a select committee has been given at a meeting open to the public, no complaint of privilege shall be entertained on the ground that such evidence has been published before having been reported to the House.
-
-*32*
-
-[S.L.Const.02 REPRESENTATIVES
 
 ## 136. Report brought up.
 
@@ -1439,11 +1311,7 @@ Provided that no member may present his own petition but such petition may be pr
 
 *Amended by: Resolution 382 of 2016.*
 
-Every petition shall, before it is presented, be signed at the beginning thereof by the member in charge of it, and deposited for at least one clear day with the Clerk of the House, who, after examining the same, shall submit it for the Speaker’s approval and no petition shall be presented to the House until such approval has been obtained. Such approval shall be conveyed by the petition being certified by the Clerk of the House as follows: "House of Representatives, Passed by the Speaker". The same verifications shall be made by the Clerk of the House when a petition is REPRESENTATIVES [S.L.Const.02
-
-presented by a citizen.
-
-*33*
+Every petition shall, before it is presented, be signed at the beginning thereof by the member in charge of it, and deposited for at least one clear day with the Clerk of the House, who, after examining the same, shall submit it for the Speaker’s approval and no petition shall be presented to the House until such approval has been obtained. Such approval shall be conveyed by the petition being certified by the Clerk of the House as follows: "House of Representatives, Passed by the Speaker". The same verifications shall be made by the Clerk of the House when a petition is presented by a citizen.
 
 ## 146. Number of signatures to be ascertained.
 
@@ -1482,10 +1350,6 @@ The Chairman of Committees shall take the Chair as Deputy Speaker whenever reque
 ## 153. Vacancy in office of Speaker or Deputy Speaker
 
 When a vacancy has occurred in the office of Speaker or Deputy Speaker, the Clerk of the House shall report the same to the House, and the House shall forthwith proceed to the election of a new Speaker or Deputy Speaker in the manner hereinbefore provided.
-
-*34*
-
-[S.L.Const.02 REPRESENTATIVES
 
 ## 154. Appointment of Deputy Chairman of Committees.
 
@@ -1528,10 +1392,6 @@ Members who are sick or are subject to an extraordinary circumstance shall be en
 *Substituted by: Resolution 368 of 2016.*
 
 (2) The administrative penalties due shall be paid to the Clerk of the House within six months from when they become due and after the lapse of that period the Clerk of the House may demand the payment of the said penalties as a civil debt.
-
-*35*
-
-REPRESENTATIVES [S.L.Const.02
 
 For the purposes of this standing order "parliamentary day" means a day during which parliamentary work is carried out and which consists of a sitting or more of the House, or of such sitting or sittings and work of Parliamentary Committees.
 
@@ -1583,10 +1443,6 @@ Every member of the House may obtain for each sitting two tickets for the admiss
 
 The Serjeant at Arms attending the House shall remove, or cause to be removed, any stranger who may have entered the House without a ticket of admission, or who may be in any part of the House appropriated to the members of the House; and also any stranger who, having been admitted into any part of the House, shall misconduct himself or shall not withdraw when ordered to do so or when strangers are directed to withdraw from the House.
 
-*36*
-
-[S.L.Const.02 REPRESENTATIVES
-
 ## 169. Where strangers cannot be admitted.
 
 No member of the House shall bring any stranger into any part of the House appropriated to the members of the House while the House or a committee of the whole House is sitting.
@@ -1630,10 +1486,6 @@ In the case, however, of sittings held behind closed doors, the House may order 
 ## 174. Members may take extracts from papers tabled.
 
 Every member of the House shall be entitled to read, and if he shall so desire, take extracts from or copies of all papers laid upon the Table of the House.
-
-*37*
-
-REPRESENTATIVES [S.L.Const.02
 
 ## 175. Duties of the Clerk of the House.
 
@@ -1686,10 +1538,6 @@ Accounts, returns, reports and papers may also be ordered to be laid before the 
 ## 183. Delivery of papers to members.
 
 A copy of every paper ordered to be printed by the House shall be delivered to each member of the House.
-
-*38*
-
-[S.L.Const.02 REPRESENTATIVES
 
 **XX. Messages from the President of Malta**
 
@@ -1752,10 +1600,6 @@ However, any standing order of the House may be suspended upon motion made after
 ## 196. Limitation of suspension of standing orders.
 
 The suspension of standing orders is limited in its operation to the particular purpose for which such suspension has been sought.
-
-*39*
-
-REPRESENTATIVES [S.L.Const.02
 
 ## 197. Usages of House of Commons when to be followed.
 

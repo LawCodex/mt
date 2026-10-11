@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Ships and Aircraft with the Swiss Federation Order (S.L. 123.18)
 
-*1*
-
-WITH THE SWISS FEDERATION [S.L.123.18
-
 SUBSIDIARY LEGISLATION 123.18
 
 DOUBLE TAXATION RELIEF ON SHIPS AND AIRCRAFT WITH THE SWISS FEDERATION
@@ -40,8 +36,6 @@ It is hereby declared that -
 (a) the Schedule to this Order has been agreed and made with the Swiss Federal Council with a view to affording relief from double taxation in relation to the taxation of shipping and aviation companies in Malta and in Switzerland, hereinafter referred to as "a Contracting State" and "the other Contracting State" as the context requires; and
 
 (b) reference to the tax levied in Switzerland includes federal, cantonal and communal tax.
-
-2 [S.L.123.18 WITH THE SWISS FEDERATION
 
 ## SCHEDULE — AGREEMENT BETWEEN — THE SWISS FEDERAL COUNCIL
 

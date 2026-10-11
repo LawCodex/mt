@@ -1,6 +1,6 @@
 ---
 title: "Disposal of Movables from Requisitioned Buildings Regulations"
-identifier: "S.L. 125.1"
+identifier: "S.L. 125.01"
 eli: "https://legislation.mt/eli/sl/125.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/125.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Disposal of Movables from Requisitioned Buildings Regulations (S.L. 125.1)
+# Disposal of Movables from Requisitioned Buildings Regulations (S.L. 125.01)
 
 **SUBSIDIARY LEGISLATION 125.01**
 

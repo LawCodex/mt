@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Notice of Application Fees in Terms of the High Net Worth Individuals - EU/EEA/Swiss Nationals Rules, and of the High Net Worth Individuals - Non-EU/EEA/Swiss Nationals Rules (S.L. 123.131)
 
-APPLICATION FEES IN TERMS OF THE HIGH NET WORTH INDI-
-
-VIDUALS - EU/EEA/SWISS NATIONALS RULES AND THE HIGH NET
-
-*1*
-
-WORTH INDIVIDUALS - NON-EU/EEA/SWISS NATIONALS RULES [S.L.123.131
-
 **SUBSIDIARY LEGISLATION 123.131**
 
 **NOTICE OF APPLICATION FEES IN TERMS OF**

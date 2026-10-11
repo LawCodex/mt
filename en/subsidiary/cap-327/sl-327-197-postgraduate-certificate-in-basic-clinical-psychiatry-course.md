@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Postgraduate Certificate in Basic Clinical Psychiatry Course Regulations (S.L. 327.197)
 
-POSTGRADUATE CERTIFICATE IN
-
-*1*
-
-BASIC CLINICAL PSYCHIATRY COURSE [S.L.327.197
-
 **SUBSIDIARY LEGISLATION 327.197**
 
 **POSTGRADUATE CERTIFICATE IN BASIC**

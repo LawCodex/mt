@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in Rural Entrepreneurship under the auspices of the Institute of Agriculture (S.L. 327.322)
 
-DIPLOMA IN RURAL ENTREPRENEURSHIP UNDER THE
-
-*1*
-
-AUSPICES OF THE INSTITUTE OF AGRICULTURE [S.L.327.322
-
 **SUBSIDIARY LEGISLATION 327.322**
 
 **BYE-LAWS FOR THE DIPLOMA IN RURAL**

@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister of Finance for the Issue of Lm18,700,000 6.7% Malta Government Stock 2004 (S.L. 161.38)
 
-ISSUE OF LM18,700,000 6.7%
-
-*1*
-
-MALTA GOVERNMENT STOCK 2004 [S.L.161.38
-
 SUBSIDIARY LEGISLATION 161.38
 
 DIRECTIVE BY THE MINISTER OF FINANCE FOR

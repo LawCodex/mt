@@ -1,6 +1,6 @@
 ---
 title: "Functions and Duties of the Notarial College and Notarial Council Regulations"
-identifier: "S.L. 55.1"
+identifier: "S.L. 55.01"
 eli: "https://legislation.mt/eli/sl/55.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/55.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Functions and Duties of the Notarial College and Notarial Council Regulations (S.L. 55.1)
-
-*1*
-
-AND NOTARIAL COUNCIL [S.L.55.01
+# Functions and Duties of the Notarial College and Notarial Council Regulations (S.L. 55.01)
 
 **SUBSIDIARY LEGISLATION 55.01**
 
@@ -63,10 +59,6 @@ The office of President and that of Secretary shall be held by the Pre sident an
 
 For the validity of the proceedings, the presence of at least one-third of the notaries belonging to the college shall be required; should one-third of the notaries fail to respond to the first call, a second call will be made and the deliberations of the college, at the meeting held in response to the second call, shall be valid whatever the number of members present.
 
-*2*
-
-[S.L.55.01 AND NOTARIAL COUNCIL
-
 The provisions of regulation 14 are applicable to the college.
 
 **The Notarial Council**
@@ -105,11 +97,7 @@ The Notarial Council shall elect from its own body the President, the Secretary 
 
 They shall remain in office for the period of three years and shall be eligible for confirmation should they retain their seats on the Council.
 
-The Secretary should be selected preferably from among the notaries residing in Valletta; and on equality of votes preference should be given to the elder for the office of President AND NOTARIAL COUNCIL [S.L.55.01
-
-and to the younger for that of Secretary.
-
-*3*
+The Secretary should be selected preferably from among the notaries residing in Valletta; and on equality of votes preference should be given to the elder for the office of President and to the younger for that of Secretary.
 
 In the absence of the President and the Secretary, their duties shall be discharged by the elder and by the younger member of the Council, respectively.
 
@@ -142,10 +130,6 @@ Votes shall be recorded openly; however in matters concerning persons the voting
 ## 15. Failure to attend three consecutive sittings.
 
 Any members failing to attend three consecutive sittings, without adducing to the Council a legitimate impediment within one month from the communication made to them by the President, or the member acting as such, of the deliberation establishing their absence, shall be declared to have ceased to be members of the Council, and in case the Council is unable to take a valid deliberation for want of quorum, the declaration shall be made by the Notarial College convoked by the available members of the Council.
-
-*4*
-
-[S.L.55.01 AND NOTARIAL COUNCIL
 
 ## 16. Other duties of the council.
 
@@ -192,10 +176,6 @@ All the above registers shall be kept by the Secretary who in case of contravent
 (h) a counter-foil book for moneys to be collected from any source whatsoever;
 
 (i) a cash-book for moneys received and paid;
-
-*5*
-
-AND NOTARIAL COUNCIL [S.L.55.01
 
 (j) a register of payment-orders;
 

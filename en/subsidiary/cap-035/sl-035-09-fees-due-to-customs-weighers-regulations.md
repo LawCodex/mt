@@ -1,6 +1,6 @@
 ---
 title: "Fees due to Customs Weighers Regulations"
-identifier: "S.L. 35.9"
+identifier: "S.L. 35.09"
 eli: "https://legislation.mt/eli/sl/35.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/35.9/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Fees due to Customs Weighers Regulations (S.L. 35.9)
+# Fees due to Customs Weighers Regulations (S.L. 35.09)
 
 **SUBSIDIARY LEGISLATION 35.09**
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in Policing - Dip. Pol. - under the auspices of the Faculty for Social Wellbeing (S.L. 327.313)
 
-*1*
-
-OF THE INSTITUTE OF FACULTY FOR SOCIAL WELLBEING [S.L.327.313
-
 **SUBSIDIARY LEGISLATION 327.313**
 
 **BYE-LAWS FOR THE DIPLOMA IN POLICING -**
@@ -66,10 +62,6 @@ These bye-laws shall be applicable for courses commencing in October 2019 or lat
 *Substituted by: L.N. 235 of 2019.*
 
 The Course shall extend over two semesters of full-time study or four semesters of part-time study.
-
-*2*
-
-[S.L.327.313 OF THE INSTITUTE OF FACULTY FOR SOCIAL WELLBEING
 
 ## 5. Course programme.
 

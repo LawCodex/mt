@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in Facilitating Inclusive Education under the auspices of the Faculty of Education (S.L. 327.291)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.291
-
 **SUBSIDIARY LEGISLATION 327.291**
 
 **BYE-LAWS FOR THE DIPLOMA IN**
@@ -74,9 +70,7 @@ These bye-laws shall be applicable for courses commencing in October 2015 or lat
 
 (i) qualifications; and
 
-*2*
-
-[S.L.327.291 UNDER THE AUSPICES OF THE FACULTY OF EDUCATION (ii) work experience in a related area.
+(ii) work experience in a related area.
 
 (3) Candidates who fall within the limited number plus the next 25% (of the limited number of students) shall be called in for an interview. The final ranking shall be made on the totalling of the scores acquired in the initial ranking plus the mark acquired for the interview.
 
@@ -125,10 +119,6 @@ Students who fail to satisfy the requirements of the course shall be given the o
 ## 13. Classification of the Award.
 
 (1) The Final Weighted Average Mark for the classification of the Diploma shall be based on the results obtained in the course, all credits being weighted equally.
-
-*3*
-
-UNDER THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.291
 
 (2) The names of students who qualify for the award of the Diploma shall be published in a list in alphabetical order classified as follows:
 

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Diplomatic Studies - M.A. (Dip. St.) - under the auspices of the Mediterranean Academy of Diplomatic Studies (S.L. 327.42)
 
-\- M.A. (Dip. St.) UNDER THE AUSPICES OF THE MEDI-
-
-*1*
-
-TERRANEAN ACADEMY OF DIPLOMATIC STUDIES [S.L.327.42
-
 **SUBSIDIARY LEGISLATION 327.42**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -71,11 +65,11 @@ provided that applicants with a Bachelor degree obtained with at least Category 
 
 (2) Applicants whose mother tongue is not English must be in possession of a certificate of proficiency in English at the level required by the University.
 
-*2*
+## 4. Preparatory Programme.
 
-\- M.A. (Dip. St.) UNDER THE AUSPICES OF THE MEDI- [S.L.327.42 TERRANEAN ACADEMY OF DIPLOMATIC STUDIES 4. (1)The preparatory programme shall comprise study-units to which not less than 30 credits and not more than 60 credits are assigned, as directed by the Board.
+*Added by: L.N. 134 of 2018.*
 
-*Preparatory Programme. Added by: L.N. 134 of 2018.*
+(1)The preparatory programme shall comprise study-units to which not less than 30 credits and not more than 60 credits are assigned, as directed by the Board.
 
 (2) Students shall be required to successfully complete the preparatory programme with an overall average mark of 55% or better, prior to their registration as regular students on the Course.
 
@@ -129,11 +123,7 @@ The programme of study shall be published after approval by Senate, normally not
 
 (1) Students shall be required to have regular contact with their supervisor.
 
-\- M.A. (Dip. St.) UNDER THE AUSPICES OF THE MEDI-
-
-*3*
-
-TERRANEAN ACADEMY OF DIPLOMATIC STUDIES [S.L.327.42 (2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies, whether the student is following the course on a full-time or a part-time basis. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
+(2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies, whether the student is following the course on a full-time or a part-time basis. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 

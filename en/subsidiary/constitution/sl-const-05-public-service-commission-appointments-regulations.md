@@ -1,6 +1,6 @@
 ---
 title: "Public Service Commission Appointments Regulations"
-identifier: "S.L. const.5"
+identifier: "S.L. const.05"
 eli: "https://legislation.mt/eli/sl/const.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/const.5/20240416/eng"
 retrieved: 2026-10-12
 ---
 
-# Public Service Commission Appointments Regulations (S.L. const.5)
+# Public Service Commission Appointments Regulations (S.L. const.05)
 
 Public Service Commission Appointments Regulations
 

@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-laws for the degree of Master of Science in Signals, Systems and Control – M.Sc. - under the auspices of the Faculty of Engineering (S.L. 327.563)
 
-NALS AND CONTROL - M.SC.- UNDER THE AUSPICES OF
-
-*1*
-
-THE FACULTY OF ENGINEERING [S.L.327.563
-
 **SUBSIDIARY LEGISLATION 327.563**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -72,10 +66,6 @@ The course shall be open to applicants in possession of one of the following qua
 
 (e) any other Honours degree with a suitable mathematical and computer programming component which the Board deems comparable to the qualifications indicated in paragraphs (a), (b), (c) or (d) of this bye-law.
 
-*2*
-
-NALS AND CONTROL - M.SC.- UNDER THE AUSPICES OF [S.L.327.563 THE FACULTY OF ENGINEERING
-
 ## 4. Course duration.
 
 The course shall extend over three semesters of full-time study or the equivalent in part-time study.
@@ -108,11 +98,7 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 (4) Students shall seek approval from the Board of Studies through their supervisor for any substantial modifications in the title or content of the dissertation.
 
-(5) Students shall be required to have regular contact with their supervisor, who shall submit to the Board of Studies progress reports for the student/s under their supervision at the end of each semester of studies, whether the student is following the course on NALS AND CONTROL - M.SC.- UNDER THE AUSPICES OF
-
-*3*
-
-THE FACULTY OF ENGINEERING [S.L.327.563 a full-time or part-time basis. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
+(5) Students shall be required to have regular contact with their supervisor, who shall submit to the Board of Studies progress reports for the student/s under their supervision at the end of each semester of studies, whether the student is following the course on a full-time or part-time basis. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 

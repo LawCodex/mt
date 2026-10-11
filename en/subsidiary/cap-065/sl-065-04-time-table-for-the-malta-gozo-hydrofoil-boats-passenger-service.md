@@ -1,6 +1,6 @@
 ---
 title: "Time Table for the Malta/Gozo Hydrofoil Boats Passenger Service Regulations"
-identifier: "S.L. 65.4"
+identifier: "S.L. 65.04"
 eli: "https://legislation.mt/eli/sl/65.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/65.4/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Time Table for the Malta/Gozo Hydrofoil Boats Passenger Service Regulations (S.L. 65.4)
-
-TIME TABLE FOR THE MALTA/GOZO
-
-*1*
-
-HYDROFOIL BOATS PASSENGER SERVICE [S.L.65.04
+# Time Table for the Malta/Gozo Hydrofoil Boats Passenger Service Regulations (S.L. 65.04)
 
 SUBSIDIARY LEGISLATION 65.04
 

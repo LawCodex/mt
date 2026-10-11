@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science in Reproductive Health under the auspices of the Faculty of Medicine and Surgery (S.L. 327.384)
 
-HEALTH TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-MEDĊINA U L-KIRURĠIJA [L.S.327.384
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.384**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -77,12 +71,6 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 (2) L-istudenti li jiksbu s-60 kredtu assenjati għat-taqsimiet studiu mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw b’suċċess id-dissertazzjoni, jkunu eliġibbli għall-għoti tal-Postgraduate Diploma.
 
-HEALTH TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*2*
-
-[L.S.327.384 TAL-MEDĊINA U L-KIRURĠIJA
-
 (3) Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors.
 
 ## 6. Valutazzjoni u progress.
@@ -115,10 +103,6 @@ HEALTH TAĦT IL-PATROĊINJU TAL-FAKULTÀ
 
 Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad għandha tkun ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kredti kollha jingħataw piż indaqs.
 
-HEALTH TAĦT IL-PATROĊINJU TAL-FAKULTÀ
+## 10. Dispożizzjonijiet speċjali għall-korsijiet fuq bażi part-time.
 
-*3*
-
-TAL-MEDĊINA U L-KIRURĠIJA [L.S.327.384 10. Id-dispożizzjonijiet tal-ordinamenti preċedenti għandhom japplikaw mutatis mutandis għall-korsijiet li jsiru fuq bażi part-time, u suġġett għal dawk it-tibdiliet li jistgħu raġonevolmcnt jitqiesu mill-Bord bħala meħtieġa minħabba fin-natura part-time tal-kors.
-
-*Dispożizzjonijiet speċjali għall-korsijiet fuq bażi part-time.*
+Id-dispożizzjonijiet tal-ordinamenti preċedenti għandhom japplikaw mutatis mutandis għall-korsijiet li jsiru fuq bażi part-time, u suġġett għal dawk it-tibdiliet li jistgħu raġonevolmcnt jitqiesu mill-Bord bħala meħtieġa minħabba fin-natura part-time tal-kors.

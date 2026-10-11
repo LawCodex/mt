@@ -1,6 +1,6 @@
 ---
 title: "Motor Vehicles Insurance (Third-Party Risks) (Central Repository) Regulations"
-identifier: "S.L. 104.7"
+identifier: "S.L. 104.07"
 eli: "https://legislation.mt/eli/sl/104.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/104.7/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Motor Vehicles Insurance (Third-Party Risks) (Central Repository) Regulations (S.L. 104.7)
-
-MOTOR VEHICLES INSURANCE
-
-*1*
-
-(THIRD-PARTY RISKS) (CENTRAL REPOSITORY) [S.L.104.07
+# Motor Vehicles Insurance (Third-Party Risks) (Central Repository) Regulations (S.L. 104.07)
 
 **SUBSIDIARY LEGISLATION 104.07**
 

@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Selection of Applicants for Admission to the Bachelor of Dental Surgery - B.Ch.D. - Degree Course Regulations - Repealed by Legal Notice 3 of 2020 (S.L. 327.232)
 
-SELECTION OF APPLICANTS FOR ADMISSION
-
-TO THE BACHELOR OF DENTAL-SURGERY -
-
-*1*
-
-B.CH.D. - DEGREE COURSE [S.L.327.232
-
 **SUBSIDIARY LEGISLATION 327.232**
 
 SELECTION OF APPLICANTS FOR ADMISSION TO THE BACHELOR OF DENTAL SURGERY - B.CH.D.

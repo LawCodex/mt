@@ -1,6 +1,6 @@
 ---
 title: "National Identity Management System Regulations"
-identifier: "S.L. 258.4"
+identifier: "S.L. 258.04"
 eli: "https://legislation.mt/eli/sl/258.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/258.4/20250801/eng"
 retrieved: 2026-10-12
 ---
 
-# National Identity Management System Regulations (S.L. 258.4)
+# National Identity Management System Regulations (S.L. 258.04)
 
 **SUBSIDIARY LEGISLATION 258.04**
 

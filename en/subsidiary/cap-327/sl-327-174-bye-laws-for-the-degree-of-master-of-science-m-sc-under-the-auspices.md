@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science - M.Sc. - under the auspices of the Faculty of Science (S.L. 327.174)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF SCIENCE [S.L.327.174
-
 **SUBSIDIARY LEGISLATION 327.174**
 
 BYE-LAWS FOR THE DEGREE OF MASTER OF SCIENCE - M.SC. - UNDER THE AUSPICES OF THE FACULTY OF SCIENCE
@@ -64,11 +60,9 @@ The course may be offered in any area of study that falls within the academic re
 
 (a) the degree of Bachelor of Science with at least Second Class Honours in an area of study deemed by the Board to be relevant to the proposed area of study and obtained in the ten years previous to registration for the course; or
 
-(b) the Bachelor of Science with Third Class Honours in an area of study deemed by the Board to be relevant to the proposed area of study and obtained in the ten years previous to registration for the course, provided that the applicants have obtained other qualifications, including relevant experience, following their first cycle degree. The Board may, at its discretion, require [S.L.327.174 UNDER THE AUSPICES OF THE FACULTY OF SCIENCE such applicants to follow a preparatory programme as specified in bye-law 5.
+(b) the Bachelor of Science with Third Class Honours in an area of study deemed by the Board to be relevant to the proposed area of study and obtained in the ten years previous to registration for the course, provided that the applicants have obtained other qualifications, including relevant experience, following their first cycle degree. The Board may, at its discretion, require such applicants to follow a preparatory programme as specified in bye-law 5.
 
 (2) The Board, at its discretion, may also recommend the admission of applicants in possession of a Bachelor of Science with at least Category II in an area of study deemed by the Board to be relevant to the proposed area of study and obtained in the 10 years previous to registration for the course, provided that the admission of such applicants shall be made conditional on the result of an interview and in such cases they shall be required to follow a preparatory programme as specified in bye-law 5.
-
-*2*
 
 (3) The Board, at its discretion, may also recommend the admission of applicants with a first cycle degree deemed by the Board to be relevant to the proposed area of study and obtained in the ten years previous to registration for the course, provided that the admission of such applicants may be conditional on the result of an interview and in such cases they may be required to follow a preparatory programme as specified in bye-law 5.
 
@@ -103,10 +97,6 @@ Mainly taught programmes of study shall comprise taught study-units to which a t
 (1) Students who obtain a minimum of 30 credits assigned to taught study-units with an average mark of at least 50% and do not proceed with the Course, or having proceeded do not successfully complete the Course, shall be eligible for the award of the Postgraduate Certificate in the relevant area of study.
 
 (2) Students who obtain the 60 credits assigned to the taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the Postgraduate Diploma in the relevant area of study.
-
-*3*
-
-UNDER THE AUSPICES OF THE FACULTY OF SCIENCE [S.L.327.174
 
 ## 11. Programmes of study by research.
 
@@ -150,11 +140,7 @@ Work on the dissertation shall be undertaken at any time during the course after
 
 ## 18. Panel of Supervision.
 
-(1) The Board shall appoint a Panel of Supervision for each student, normally composed of three members as follows: the [S.L.327.174 UNDER THE AUSPICES OF THE FACULTY OF SCIENCE
-
-head of department as chairman, and two other members, one of whom being the principal supervisor, provided that when the head of department is the principal supervisor, he shall not be appointed chairman.
-
-*4*
+(1) The Board shall appoint a Panel of Supervision for each student, normally composed of three members as follows: the head of department as chairman, and two other members, one of whom being the principal supervisor, provided that when the head of department is the principal supervisor, he shall not be appointed chairman.
 
 (2) The Panel of Supervision shall follow, as it deems fit, the progress of students through the course, provided that it meets at least once every six months to review such progress.
 

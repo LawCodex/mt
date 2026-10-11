@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Certificate in Islands and Small States Studies under the auspices of Institute for the Islands and Small States - Repealed by Legal Notice 3 of 2020 (S.L. 327.278)
 
-CERTIFICATE IN ISLANDS AND SMALL STATES STUDIES
-
-UNDER THE AUSPICES OF THE INSTITUTE FOR
-
-*1*
-
-ISLANDS AND SMALL STATES [S.L.327.278
-
 **SUBSIDIARY LEGISLATION 327.278**
 
 BYE-LAWS FOR THE CERTIFICATE IN ISLANDS

@@ -1,6 +1,6 @@
 ---
 title: "Procedure Regarding Applications for Aids to Industries Rules"
-identifier: "S.L. 159.1"
+identifier: "S.L. 159.01"
 eli: "https://legislation.mt/eli/sl/159.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/159.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Procedure Regarding Applications for Aids to Industries Rules (S.L. 159.1)
-
-PROCEDURE REGARDING APPLICATIONS
-
-*1*
-
-FOR AIDS TO INDUSTRIES [S.L.159.01
+# Procedure Regarding Applications for Aids to Industries Rules (S.L. 159.01)
 
 SUBSIDIARY LEGISLATION 159.01
 

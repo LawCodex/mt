@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister of Finance, the Economy and Investment for the issue of Euro 100,000,000 Malta Government Stocks (S.L. 161.129)
 
-*1*
-
-MALTA GOVERNMENT STOCKS [S.L.161.129
-
 **SUBSIDIARY LEGISLATION 161.129**
 
 DIRECTIVE BY THE MINISTER OF FINANCE,
@@ -69,11 +65,7 @@ All persons and, or entities are eligible to apply for these Stocks. Allotment w
 
 ## 6. Sum of money to be raised.
 
-The sum of money to be raised by either Stock, or of any [S.L.161.129 MALTA GOVERNMENT STOCKS
-
-combination of the three Stocks shall in the aggregate be Euro 100,000,000. The Accountant General reserves the right to increase the sum of money to be raised by a maximum of Euro 40,000,000.
-
-*2*
+The sum of money to be raised by either Stock, or of any combination of the three Stocks shall in the aggregate be Euro 100,000,000. The Accountant General reserves the right to increase the sum of money to be raised by a maximum of Euro 40,000,000.
 
 ## 7. Rate of interest and dates of payment.
 
@@ -93,11 +85,7 @@ combination of the three Stocks shall in the aggregate be Euro 100,000,000. The 
 
 (a) the first pro rata interest payment in respect of the allotted amount from applications submitted by members of the public covering the period from the 2nd day of November, 2012 to the 10th day of March, 2013 (both dates inclusive), shall be made on the 11th day of March, 2013;
 
-(b) the first pro rata interest payment in respect of the allotted amount from bids/applications submitted by MALTA GOVERNMENT STOCKS [S.L.161.129
-
-institutional investors covering the period from the 7th day of November, 2012 to the 10th day of March, 2013 (both dates inclusive), shall be made on the 11th day of March, 2013.
-
-*3*
+(b) the first pro rata interest payment in respect of the allotted amount from bids/applications submitted by institutional investors covering the period from the 7th day of November, 2012 to the 10th day of March, 2013 (both dates inclusive), shall be made on the 11th day of March, 2013.
 
 ## 8. Redemption of Stock.
 

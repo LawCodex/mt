@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Ships and Aircraft with the United States of America Order (S.L. 123.44)
 
-*1*
-
-WITH THE UNITED STATES OF AMERICA [S.L.123.44
-
 SUBSIDIARY LEGISLATION 123.44
 
 DOUBLE TAXATION RELIEF ON SHIPS AND AIRCRAFT WITH THE UNITED STATES OF
@@ -40,8 +36,6 @@ It is hereby declared that -
 (a) the Agreement specified in the Exchange of Notes Verbales reproduced in the Schedule to this Order has been made with the United States of America with a view to affording relief from double taxation in relation to the taxation of income derived from the international operation of ships and aircraft; and
 
 (b) the Agreement has entered into force on the 11th March, 1997 and is effective in respect of income derived on or after the 1st January, 1997.
-
-2 [S.L.123.44 WITH THE UNITED STATES OF AMERICA
 
 ## SCHEDULE
 
@@ -67,8 +61,6 @@ In case of a Maltese corporation, the exemption shall apply only if the corporat
 
 For the purposes of exemption from the U.S. tax, the Government of Malta will be treated as an individual resident of Malta, and sub-paragraph (2) shall be considered to be satisfied if the corporation is a "controlled foreign corporation" under the Internal Revenue Code, so however, that U.S. shareholders of such corporations shall be treated as residents of Malta.
 
-WITH THE UNITED STATES OF AMERICA [S.L.123.44 3
-
 In this agreement -
 
 (a) the terms "contracting state" and "other contracting state" mean Malta or the United States of America, the governments of which have concluded this agreement.
@@ -93,9 +85,7 @@ The Embassy of Malta takes this opportunity to renew to the Department of State 
 
 26 December, 1996
 
-Embassy of Malta Washington. D.C. 4 [S.L.123.44 WITH THE UNITED STATES OF AMERICA
-
-The Department of State refers the Embassy of Malta to the Embassy’s note 1065 of December 26, 1996, regarding the reciprocal exemption from income tax of income derived from the international operation of ships and aircraft.
+Embassy of Malta Washington. D.C. The Department of State refers the Embassy of Malta to the Embassy’s note 1065 of December 26, 1996, regarding the reciprocal exemption from income tax of income derived from the international operation of ships and aircraft.
 
 The Department of State confirms that the proposals contained in the Embassy’s note are acceptable to the Government of the United States of America. Therefore, this note and the Embassy’s note of December 26, 1996, constitute an agreement which shall enter into force on the date of this note in reply and shall be effective in respect of income derived on or after January 1, 1997. This agreement shall continue in force until the Government of either contracting state gives written notice of termination of the agreement to the other contracting state through the diplomatic channel.
 

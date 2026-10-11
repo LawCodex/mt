@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Science (Honours) - B.Sc. (Hons) - under the auspices of the Faculty of Dental Surgery (S.L. 327.424)
 
-B.Sc. (HONS) - UNDER THE AUSPICES OF
-
-*1*
-
-THE FACULTY OF DENTAL SURGERY [S.L.327.424
-
 **SUBSIDIARY LEGISLATION 327.424**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF SCIENCE (HONOURS) - B.Sc. (HONS) - UNDER
@@ -70,13 +64,7 @@ The Degree may be offered in any one of the following areas of study: Dental Hyg
 
 (a) Maltese applicants who, in terms of regulation 13 of the Admissions Regulations, 2016 are exempted from possessing a pass in the Secondary Education Certificate examination in Maltese at Grade 5 or better or at SEC level 3, are required to present the Medical Maltese Proficiency Certificate awarded by the University of Malta, or a pass at SEC level 3 in Il- Malti bħala Lingwa Barranija prior to the commencement of the Course;
 
-(b) Non-Maltese applicants who, in terms of regulation 13 of the Admissions Regulations, 2016 are exempted from possessing a pass at SEC level 3 in Il-Malti bħala B.Sc. (HONS) - UNDER THE AUSPICES OF
-
-*2*
-
-[S.L.327.424 THE FACULTY OF DENTAL SURGERY
-
-Lingwa Barranija, are required to present the Medical Maltese Proficiency Certificate awarded by the University of Malta, or a pass in the study-unit in Medical Maltese as part of the Certificate in Foundation Studies (Medical, Dental and Health Sciences) course, prior to the commencement of the Course. Applicants presenting overseas qualifications and either a pass in the Secondary Education Certificate examination in Maltese at Grade 5 or better or at SEC level 3, or a pass at SEC level 3 in Il-Malti bħala Lingwa Barranija, shall be exempted from presenting the Medical Maltese Proficiency Certificate.
+(b) Non-Maltese applicants who, in terms of regulation 13 of the Admissions Regulations, 2016 are exempted from possessing a pass at SEC level 3 in Il-Malti bħala Lingwa Barranija, are required to present the Medical Maltese Proficiency Certificate awarded by the University of Malta, or a pass in the study-unit in Medical Maltese as part of the Certificate in Foundation Studies (Medical, Dental and Health Sciences) course, prior to the commencement of the Course. Applicants presenting overseas qualifications and either a pass in the Secondary Education Certificate examination in Maltese at Grade 5 or better or at SEC level 3, or a pass at SEC level 3 in Il-Malti bħala Lingwa Barranija, shall be exempted from presenting the Medical Maltese Proficiency Certificate.
 
 (2) Applicants in possession of the Diploma in Dental Surgery Assistance shall be considered as having satisfied both the general and special entry requirements for the Dental Hygiene and Dental Technology areas of study.
 
@@ -102,13 +90,9 @@ The course shall extend over a period of three years of full-time study.
 
 The Board shall publish the programme of study at the commencement of each course. Subject to changes that the Board may, with the approval of Senate, be constrained to make, students are bound to follow the study-units and obtain the credits as indicated in the programme of study for the Degree, provided that the programme shall be drawn up in accordance with the relevant provisions of the Principal Regulations.
 
-B.Sc. (HONS) - UNDER THE AUSPICES OF
+## 9. Credits. Re-numbered and substituted by: L.N. 40 of 2013.
 
-*3*
-
-THE FACULTY OF DENTAL SURGERY [S.L.327.424 9. Students shall be required to register and obtain credits for study-units to which a total of 180 ECTS credits are assigned.
-
-*Credits. Re-numbered and substituted by: L.N. 40 of 2013.*
+Students shall be required to register and obtain credits for study-units to which a total of 180 ECTS credits are assigned.
 
 ## 10. Classification of the Degree. Re-numbered and substituted by: L.N. 40 of 2013.
 

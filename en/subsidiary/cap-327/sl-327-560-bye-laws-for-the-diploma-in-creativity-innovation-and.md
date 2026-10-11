@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in Creativity, Innovation and Entrepreneurship - Dip. CIE - under the auspices of The Edward de Bono Institute for the Design and Development of Thinking (S.L. 327.560)
 
-DIP. CIE - UNDER THE AUSPICES OF THE EDWARD DE BONO INSTI-
-
-*1*
-
-TUTE FOR TYHE DESIGN AND DEVELOPMENT OF THINKING [S.L.327.560
-
 **SUBSIDIARY LEGISLATION 327.560**
 
 **BYE-LAWS FOR THE DIPLOMA IN CREATIVITY,**
@@ -60,10 +54,6 @@ These bye-laws shall be applicable for courses commencing in October 2016 or lat
 (3) The eligibility of applicants referred to in paragraph (2) of this bye-law shall be decided by the University Admissions Board, on the recommendation of the Institute Admissions Committee, following an interview conducted by an interviewing board appointed for the purpose.
 
 (4) The interviewing board appointed by the Board shall be composed of at least three members.
-
-*2*
-
-DIP. CIE - UNDER THE AUSPICES OF THE EDWARD DE BONO INSTI- [S.L.327.560 TUTE FOR TYHE DESIGN AND DEVELOPMENT OF THINKING
 
 ## 4. Course duration.
 

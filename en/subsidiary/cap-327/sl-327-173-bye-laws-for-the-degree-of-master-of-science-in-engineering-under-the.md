@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science in Engineering under the auspices of the Faculty of Engineering (S.L. 327.173)
 
-UNDER THE AUSPICES OF THE
-
-*1*
-
-FACULTY OF ENGINEERING [S.L.327.173
-
 **SUBSIDIARY LEGISLATION 327.173**
 
 BYE-LAWS FOR THE DEGREE OF MASTER OF
@@ -71,12 +65,6 @@ The course may be offered in any area of study that falls within the academic re
 (b) a Bachelor of Science (Honours) degree with at least Second Class Honours in appropriate subjects as approved by the Board; or
 
 (c) a Bachelor’s degree with a Third Class Honours in Engineering or in a relevant area of study and are in possession of other qualifications, including relevant experience following their first cycle degree; or
-
-UNDER THE AUSPICES OF THE
-
-*2*
-
-[S.L.327.173 FACULTY OF ENGINEERING
 
 (d) equivalent qualifications approved by Senate on the recommendation of the Board.
 
@@ -132,11 +120,7 @@ Mainly research programmes of study shall comprise study-units to which 90 credi
 
 (2) Students following the mainly taught programme of study who in any academic year fail in the assessment of not more than 20 credits for taught study units, if following the full-time course, or not more than 10 credits if following the part-time course, shall be given the opportunity to re-sit the tailed assessment during the September supplementary examination session.
 
-(3) Students who fail in more than the number of credits permitted under paragraph (2) of this bye-law, or students who fail in more than UNDER THE AUSPICES OF THE
-
-*3*
-
-FACULTY OF ENGINEERING [S.L.327.173 one taught study-unit after having sat for all the assessments and permitted re-assessments of all the taught study-units included in the programme, shall be required to withdraw from the Course.
+(3) Students who fail in more than the number of credits permitted under paragraph (2) of this bye-law, or students who fail in more than one taught study-unit after having sat for all the assessments and permitted re-assessments of all the taught study-units included in the programme, shall be required to withdraw from the Course.
 
 ## 14. Dissertations.
 
@@ -174,13 +158,7 @@ FACULTY OF ENGINEERING [S.L.327.173 one taught study-unit after having sat for a
 
 *Added by: L.N. 242 of 2023.*
 
-On successful completion of their studies, students shall be required to submit to the Faculty two hard bound copies of the dissertation and one copy in digital format within six weeks from the publication of their result. The Degree shall not be conferred on UNDER THE AUSPICES OF THE
-
-*4*
-
-[S.L.327.173 FACULTY OF ENGINEERING
-
-students who do not comply with the provisions of this bye-law.
+On successful completion of their studies, students shall be required to submit to the Faculty two hard bound copies of the dissertation and one copy in digital format within six weeks from the publication of their result. The Degree shall not be conferred on students who do not comply with the provisions of this bye-law.
 
 ## 18. Classification of the Awards.
 

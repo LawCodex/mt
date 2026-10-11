@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Statute I 17 - Foundation for International Studies (Establishment as University Entity) Statute (S.L. 327.50)
 
-*1*
-
-STUDIES (ESTABLISHMENT AS UNIVERSITY ENTITY) [S.L.327.50
-
 **SUBSIDIARY LEGISLATION 327.50**
 
 **STATUTE I 17 - FOUNDATION FOR**
@@ -59,11 +55,7 @@ The objectives of the Foundation will be:
 
 (d) the securing of financial and other resources from abroad in support of the above mentioned objectives. Article Three
 
-(i) The Foundation shall be governed by a Board of Trustees which will be finally responsible for the administration of the [S.L.327.50 STUDIES (ESTABLISHMENT AS UNIVERSITY ENTITY)
-
-property movable and immovable, bestowed upon or acquired by the Foundation.
-
-*2*
+(i) The Foundation shall be governed by a Board of Trustees which will be finally responsible for the administration of the property movable and immovable, bestowed upon or acquired by the Foundation.
 
 (ii) (a) The Board shall be composed of the following members:
 
@@ -99,11 +91,7 @@ Article Four
 
 (i) The Foundation shall be represented by the Director- General or a person duly nominated by the Board.
 
-(ii) The ordinary administration of the Foundation shall be vested in the Director-General who shall be the body’s chief academic and administrative officer. He shall also be an ex officio STUDIES (ESTABLISHMENT AS UNIVERSITY ENTITY) [S.L.327.50
-
-member of the Boards of Institutes supported by the Foundation.
-
-*3*
+(ii) The ordinary administration of the Foundation shall be vested in the Director-General who shall be the body’s chief academic and administrative officer. He shall also be an ex officio member of the Boards of Institutes supported by the Foundation.
 
 (iii) The Director-General is empowered to enter into contracts of service and to make appointments on behalf of the Foundation, in accordance with the policy established by the Board.
 

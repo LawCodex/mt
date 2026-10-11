@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Board for the Professions Supplementary to Medicine Standing Orders (S.L. 94.18)
 
-*1*
-
-SUPPLEMENTARY TO MEDICINE [S.L.94.18
-
 **SUBSIDIARY LEGISLATION 94.18**
 
 **BOARD FOR THE PROFESSIONS**
@@ -68,10 +64,6 @@ On the resignation, the death or the expiry of the term of office of the appoint
 The Board shall hold monthly meetings as specified in paragraph 4(3) of the Second Schedule to the Ordinance. In addition, meetings of the Board may be summoned at any other time by direction of the Chairman and shall also be summoned on a written request signed by not less than five of the members and addressed to the Chairman, who shall cause such meeting to be convened within seven days of the receipt of such request.
 
 \*These Orders have been repealed by Legal Notice 249 of 2025.
-
-*2*
-
-[S.L.94.18 SUPPLEMENTARY TO MEDICINE
 
 #### 6. Notice of meetings.
 
@@ -137,11 +129,7 @@ No amendment motion shall be withdrawn after having been read unless by permissi
 
 #### 18. Debate on motion.
 
-The seconder of a motion or of an amendment may reserve SUPPLEMENTARY TO MEDICINE [S.L.94.18
-
-his speech to any period of the debate; but only the proposer has the right of final reply.
-
-*3*
+The seconder of a motion or of an amendment may reserve his speech to any period of the debate; but only the proposer has the right of final reply.
 
 #### 19. Amendment motion.
 
@@ -191,10 +179,6 @@ When an amendment is under debate, no further proposal shall be received except 
 
 The proposal for the postponement of the question may specify a date for the further consideration of the question, or be made sine die.
 
-*4*
-
-[S.L.94.18 SUPPLEMENTARY TO MEDICINE
-
 #### 26. Subsequent business and adjourned motion.
 
 If the proposal for the adjournment of the debate is carried, the Board shall pass to the next item on the agenda, and the debate shall be resumed at the next ordinary meeting of the Board. The proposer of the adjournment shall, on the resumption of the debate, be entitled to speak first.
@@ -241,11 +225,7 @@ No motion or discussion shall take place upon the minutes except upon their accu
 
 #### 37. Proceedings to be regarded as confidential.
 
-All proceedings of the Board and of its committees shall be regarded as confidential. The Board, however, may issue statements and directives as it considers appropriate from time to SUPPLEMENTARY TO MEDICINE [S.L.94.18
-
-time.
-
-*5*
+All proceedings of the Board and of its committees shall be regarded as confidential. The Board, however, may issue statements and directives as it considers appropriate from time to time.
 
 ## PART IV — REGISTERS AND REGISTRATION
 
@@ -309,11 +289,7 @@ The entries made in the registers shall be permanent, subject to the provisions 
 
 #### 45. Alterations in registers.
 
-Subject to the provisions of standing order 46, when a [S.L.94.18 SUPPLEMENTARY TO MEDICINE
-
-registered person whose name is entered in any of the registers applies to the Registrar to have an alteration made in his registered name or in his registered address, or to have any registrable qualification possessed by him entered in the register in substitution for or in addition to a qualification already registered, the Board shall, on being satisfied that all the requirements of these Standing Orders have been complied with, cause to be entered in the appropriate register the alteration or addition so notified.
-
-*6*
+Subject to the provisions of standing order 46, when a registered person whose name is entered in any of the registers applies to the Registrar to have an alteration made in his registered name or in his registered address, or to have any registrable qualification possessed by him entered in the register in substitution for or in addition to a qualification already registered, the Board shall, on being satisfied that all the requirements of these Standing Orders have been complied with, cause to be entered in the appropriate register the alteration or addition so notified.
 
 #### 46. Requirements for alteration of registered name.
 
@@ -349,11 +325,7 @@ Subject to any directions which may be given by the Board, letters shall be sent
 
 (b) to have withdrawn from him any registrable qualification which he holds.
 
-(2) The application shall be considered by the Board, who SUPPLEMENTARY TO MEDICINE [S.L.94.18
-
-may, if they think fit, adjourn consideration to a future date, and may require the applicant to furnish further information or explanation either in writing, or orally and in person before the Board.
-
-*7*
+(2) The application shall be considered by the Board, who may, if they think fit, adjourn consideration to a future date, and may require the applicant to furnish further information or explanation either in writing, or orally and in person before the Board.
 
 (3) After considering the application, the Board may, if they think fit, by resolution put from the chair, direct the Registrar to remove, and the Registrar shall thereupon remove, the name of the applicant from the register.
 
@@ -378,10 +350,6 @@ Unless the Board shall otherwise direct, the Registrar shall not restore to the 
 (2) Save as aforesaid, the seal shall be affixed only by order or under the authority of the Board.
 
 (3) Any order for affixing the seal shall state the object of its use and shall be entered in the minutes of the Board.
-
-*8*
-
-[S.L.94.18 SUPPLEMENTARY TO MEDICINE
 
 ## FIRST SCHEDULE
 
@@ -413,11 +381,9 @@ Registration Additional Qualification
 
 ...................... ...................... ...................... ..................... .........................
 
-...................... ...................... ...................... ..................... ......................... SUPPLEMENTARY TO MEDICINE [S.L.94.18
+...................... ...................... ...................... ..................... .........................
 
 ## SECOND SCHEDULE
-
-*9*
 
 (Standing Order 41)
 
@@ -451,13 +417,11 @@ University or Body by which granted ..........................................
 
 Signature of applicant .................................................................
 
-Date of application ..................................................................... [S.L.94.18 SUPPLEMENTARY TO MEDICINE
+Date of application .....................................................................
 
 \*Give these addresses in full.
 
 ## THIRD SCHEDULE
-
-*10*
 
 (Standing Order 43)
 
@@ -483,11 +447,7 @@ Seal
 
 Board for the Professions Supplementary to Medicine - Malta
 
-REGISTRAR SUPPLEMENTARY TO MEDICINE [S.L.94.18
-
-## FOURTH SCHEDULE
-
-*11*
+REGISTRAR FOURTH SCHEDULE
 
 (Standing Order 48)
 

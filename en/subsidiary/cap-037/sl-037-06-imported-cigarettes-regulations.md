@@ -1,6 +1,6 @@
 ---
 title: "Imported Cigarettes Regulations"
-identifier: "S.L. 37.6"
+identifier: "S.L. 37.06"
 eli: "https://legislation.mt/eli/sl/37.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/37.6/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Imported Cigarettes Regulations (S.L. 37.6)
+# Imported Cigarettes Regulations (S.L. 37.06)
 
 **SUBSIDIARY LEGISLATION 37.06**
 

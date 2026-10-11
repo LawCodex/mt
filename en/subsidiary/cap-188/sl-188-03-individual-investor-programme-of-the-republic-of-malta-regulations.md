@@ -1,6 +1,6 @@
 ---
 title: "Individual Investor Programme of the Republic of Malta Regulations"
-identifier: "S.L. 188.3"
+identifier: "S.L. 188.03"
 eli: "https://legislation.mt/eli/sl/188.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,7 @@ version: "https://legislation.mt/eli/sl/188.3/20131226/eng"
 retrieved: 2026-10-12
 ---
 
-# Individual Investor Programme of the Republic of Malta Regulations (S.L. 188.3)
-
-*1*
-
-OF THE REPUBLIC OF MALTA [S.L.188.03
+# Individual Investor Programme of the Republic of Malta Regulations (S.L. 188.03)
 
 **SUBSIDIARY LEGISLATION 188.03**
 
@@ -64,10 +60,6 @@ In these regulations, unless the context otherwise requires -
 
 \*Repealed by Legal Notice 437 of 2020. See Regulation 31 of the same Legal Notice.
 
-*2*
-
-[S.L.188.03 OF THE REPUBLIC OF MALTA
-
 "dependant" means:
 
 (a) the spouse of the main applicant in a monogamous marriage or in another relationship having the same or a similar status to marriage, unless the Minister authorises otherwise on a case by case basis;
@@ -96,11 +88,9 @@ Provided that such person has the capacity to take an oath of allegiance;
 
 "public service concession" means the public service concession awarded to the concessionaire to design, implement, administer, operate and promote the programme.
 
-*3*
+## 3. Establishment of Individual Investor Programme.
 
-OF THE REPUBLIC OF MALTA [S.L.188.03 3. (1) There is hereby established a programme, to be known as the "Individual Investor Programme of the Republic of Malta", which shall allow for the grant of citizenship by a certificate of naturalization to foreign individuals and their families who contribute to the economic development of Malta, as provided in these regulations.
-
-*Establishment of Individual Investor Programme.*
+(1) There is hereby established a programme, to be known as the "Individual Investor Programme of the Republic of Malta", which shall allow for the grant of citizenship by a certificate of naturalization to foreign individuals and their families who contribute to the economic development of Malta, as provided in these regulations.
 
 (2) The operation of the programme shall be carried out by the concessionaire.
 
@@ -136,11 +126,7 @@ Provided that beneficiaries of the Global Residence Programme provided for under
 
 (2) Applications shall be made on the forms prescribed under the Citizenship Regulations and shall be accompanied by the prescribed due diligence and bank charges fees, as specified in the Schedule, and by the originals or certified copies of the following:
 
-(a) a certificate in the form prescribed by the Agency from a reputable health system to the satisfaction of the [S.L.188.03 OF THE REPUBLIC OF MALTA
-
-Agency that the main applicant and his dependants are not suffering from any contagious disease and that they are otherwise in good health;
-
-*4*
+(a) a certificate in the form prescribed by the Agency from a reputable health system to the satisfaction of the Agency that the main applicant and his dependants are not suffering from any contagious disease and that they are otherwise in good health;
 
 (b) a police certificate or certificates, which may however also be submitted subsequently at a later date but in any case before the application is approved;
 
@@ -170,11 +156,7 @@ Agency that the main applicant and his dependants are not suffering from any con
 
 (8) If an applicant makes a false statement or omits information requested, the application may be declined solely on that basis.
 
-(9) Applications shall only be accepted and processed on condition that all forms are properly completed, dated and signed, OF THE REPUBLIC OF MALTA [S.L.188.03
-
-and accompanied by all required documents, fees and undertakings, including, but not limited to, an undertaking to remit the required contribution as called upon by the Agency following the approval in principle of the application:
-
-*5*
+(9) Applications shall only be accepted and processed on condition that all forms are properly completed, dated and signed, and accompanied by all required documents, fees and undertakings, including, but not limited to, an undertaking to remit the required contribution as called upon by the Agency following the approval in principle of the application:
 
 Provided that police certificates may be submitted at a later date provided that they are submitted before the application is approved.
 
@@ -194,11 +176,7 @@ In addition to the qualifications and general requirements as set out in regulat
 
 (f) the applicant and, or any of his dependants shall not be an individual who, at any time, had pending charges related to crimes of terrorism, money laundering, funding of terrorism, crimes against humanity, war crimes, or crimes that infringe upon such Protection of Human Rights and Fundamental Freedoms as established by the European Convention on Human Rights, or who has been found guilty of any such crimes;
 
-(g) the applicant and, or any of his dependants shall not be an individual who has been found guilty or has charges brought against him regarding any of the criminal offences that disturb the good order of the family, which criminal offences include, without limitation, [S.L.188.03 OF THE REPUBLIC OF MALTA
-
-the following:
-
-*6*
+(g) the applicant and, or any of his dependants shall not be an individual who has been found guilty or has charges brought against him regarding any of the criminal offences that disturb the good order of the family, which criminal offences include, without limitation, the following:
 
 (i) paedophilia,
 
@@ -234,11 +212,9 @@ An applicant who -
 
 (f) has been denied a visa to a country with which Malta has visa-free travel arrangements and has not subsequently obtained a visa to the country that issued the denial,
 
-shall not be approved for citizenship under the programme, unless the Agency is satisfied that the applicant is still worthy of being considered for approval due to special circumstances to be demonstrated by the applicant. In such case, the Agency shall issue a reasoned opinion as to why such applicant should still be considered for approval and shall refer such application to the Minister, who will have the sole authority to grant such approval. OF THE REPUBLIC OF MALTA [S.L.188.03 7. (1) Every application shall be presented to, and examined by, the Agency, either directly or through the concessionaire.
+shall not be approved for citizenship under the programme, unless the Agency is satisfied that the applicant is still worthy of being considered for approval due to special circumstances to be demonstrated by the applicant. In such case, the Agency shall issue a reasoned opinion as to why such applicant should still be considered for approval and shall refer such application to the Minister, who will have the sole authority to grant such approval. 7. (1) Every application shall be presented to, and examined by, the Agency, either directly or through the concessionaire.
 
 (2) the Agency shall either directly or through the concessionaire cause due diligence checks to be performed by one or more internationally recognized specialised due diligence agents which in any case are to be approved by the Agency, in respect of every applicant. Such due diligence checks shall be of a four tier nature. The Agency shall in any case be responsible for the proper carrying out of due diligence tests and shall also carry out due diligence tests independently of the concessionaire.
-
-*7*
 
 *Application process. Amended by: L.N. 161 of 2020; L.N. 235 of 2020.*
 
@@ -266,10 +242,6 @@ shall not be approved for citizenship under the programme, unless the Agency is 
 
 (a) approved in principle;
 
-*8*
-
-[S.L.188.03 OF THE REPUBLIC OF MALTA
-
 (b) refused; or
 
 (c) delayed for the cause that it is still being processed:
@@ -292,11 +264,7 @@ Provided further that when the applicant has purchased or taken on lease a resid
 
 Provided that the proof required under this sub-regulation shall be provided within four months from the issue of the Letter of Approval in Principle by the submission to the Agency of proof that the said investments have been made.
 
-(7) A personal interview with an applicant shall not be a mandatory requirement but may be recommended by the OF THE REPUBLIC OF MALTA [S.L.188.03
-
-concessionaire and, or considered by the Agency, on a case by case basis. The procedures applicable to personal interviews shall be determined by the Agency.
-
-*9*
+(7) A personal interview with an applicant shall not be a mandatory requirement but may be recommended by the concessionaire and, or considered by the Agency, on a case by case basis. The procedures applicable to personal interviews shall be determined by the Agency.
 
 (8) Within five days of the approval in principle under sub-regulation (5)(a) the main applicant shall be instructed to remit the contribution less the non-refundable payment already received, to be received within twenty days from such instruction. Upon receipt of the contribution less the non-refundable payment, the Agency shall, provided that the conditions of the Letter of Approval in Principle have been satisfied, notify the Minister to issue a certificate of naturalisation.
 
@@ -320,11 +288,7 @@ concessionaire and, or considered by the Agency, on a case by case basis. The pr
 
 ## 9. Dissemination of information.
 
-No person, except the Agency, the concessionaire or an Approved Agent shall for gain and without being duly authorised, advertise, publish or disseminate publicly through any means [S.L.188.03 OF THE REPUBLIC OF MALTA
-
-whatsoever any information relating to the programme:
-
-*10*
+No person, except the Agency, the concessionaire or an Approved Agent shall for gain and without being duly authorised, advertise, publish or disseminate publicly through any means whatsoever any information relating to the programme:
 
 Provided that Approved Agents shall only advertise, publish or disseminate publicly any information relating to the programme in strict compliance with guidelines issued from time to time by the Agency.
 
@@ -354,11 +318,7 @@ The number of successful main applicants, excluding dependants, shall not exceed
 
 (5) The Board of Governors of the Fund shall be responsible to ensure the highest level of governance of the Fund and that the funds held in the Fund are used solely for the said intended purposes.
 
-(6) The Fund shall publish its audited accounts on an annual basis and shall report to the Minister responsible for Finance on its activities as the said Minister may require but in any case not less than once a year. The audited accounts and the annual report of the Fund shall be laid on the table of the House of Representatives by OF THE REPUBLIC OF MALTA [S.L.188.03
-
-the Minister responsible for Finance.
-
-*11*
+(6) The Fund shall publish its audited accounts on an annual basis and shall report to the Minister responsible for Finance on its activities as the said Minister may require but in any case not less than once a year. The audited accounts and the annual report of the Fund shall be laid on the table of the House of Representatives by the Minister responsible for Finance.
 
 (7) The Fund shall be subject to being audited by the Auditor General.
 
@@ -375,8 +335,6 @@ the Minister responsible for Finance.
 *Cap. 35.*
 
 (2) The provisions of the Fees Ordinance shall apply to the fees set out in the Schedule as if they were fees prescribed under the said Ordinance.
-
-12 [S.L.188.03 OF THE REPUBLIC OF MALTA
 
 ## SCHEDULE — Contribution Requirements and Schedule of Fees
 

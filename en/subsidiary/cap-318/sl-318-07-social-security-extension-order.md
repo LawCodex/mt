@@ -1,6 +1,6 @@
 ---
 title: "Social Security (Extension) Order"
-identifier: "S.L. 318.7"
+identifier: "S.L. 318.07"
 eli: "https://legislation.mt/eli/sl/318.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/318.7/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Social Security (Extension) Order (S.L. 318.7)
+# Social Security (Extension) Order (S.L. 318.07)
 
 **SUBSIDIARY LEGISLATION 318.07**
 

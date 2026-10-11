@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy under the auspices of the Institute of Linguistics (S.L. 327.176)
 
-*1*
-
-THE AUSPICES OF THE INSTITUTE OF LINGUISTICS [S.L.327.176
-
 **SUBSIDIARY LEGISLATION 327.176**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR OF**
@@ -79,13 +75,9 @@ Principal supervisors shall be required to submit a written report to the Board,
 
 ## 7. Progress reports.
 
-Students shall only be allowed to proceed with their studies subject to satisfactory progress reports from their principal [S.L.327.176 THE AUSPICES OF THE INSTITUTE OF LINGUISTICS
+Students shall only be allowed to proceed with their studies subject to satisfactory progress reports from their principal supervisor. If the report is negative, the Board shall make recommendations to Senate on the student’s continuing registration for the Degree.
 
 \*These bye-laws have been repealed by Legal Notice 223 of 2024.
-
-supervisor. If the report is negative, the Board shall make recommendations to Senate on the student’s continuing registration for the Degree.
-
-*2*
 
 ## 8. Submission of report.
 

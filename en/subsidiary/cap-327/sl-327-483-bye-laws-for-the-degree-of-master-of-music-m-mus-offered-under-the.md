@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Music - M.Mus. - offered under the auspices of the School of Performing Arts (S.L. 327.483)
 
-*1*
-
-AUSPICES OF THE SCHOOL OF PERFORMING ARTS [S.L.327.483
-
 **SUBSIDIARY LEGISLATION 327.483**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER**
@@ -72,13 +68,11 @@ Composition, Performance, Musicology, and Ethnomusicology.
 
 (2) The admission of applicants under sub-paragraphs (b) and, if necessary, (c) of paragraph (1) of this bye-law may be made conditional on the results of an audition/interview conducted for the purpose, or the submission of essays/musical compositions.
 
-(3) Interviews, when necessary, shall be conducted by a board [S.L.327.483 AUSPICES OF THE SCHOOL OF PERFORMING ARTS composed of at least three members appointed for the purpose.
+(3) Interviews, when necessary, shall be conducted by a board composed of at least three members appointed for the purpose.
 
 ## 5. Application form.
 
 Applicants may submit their application form, together with a comprehensive research proposal that includes the compositional tools and techniques in the case of the Degree by composition, and the analytical tools and performance practices in the case of the Degree by performance, at any time of the year.
-
-*2*
 
 ## 6. Preparatory and supplementary programmes.
 
@@ -104,11 +98,7 @@ The programme of study shall comprise study-units to which a total of 90 ECTs cr
 
 (2) When submitting a portfolio of composition/s students shall include a signed declaration that the entire portfolio is their own personal work and that it has been done after their registration for the Degree.
 
-(3) The dissertation must on no account have already been AUSPICES OF THE SCHOOL OF PERFORMING ARTS [S.L.327.483
-
-submitted for any qualification elsewhere, and must not have been published independently by the student, entirely or substantially.
-
-*3*
+(3) The dissertation must on no account have already been submitted for any qualification elsewhere, and must not have been published independently by the student, entirely or substantially.
 
 ## 10. Examination of portfolio of composition/s or performance programme and dissertation.
 
@@ -135,10 +125,6 @@ submitted for any qualification elsewhere, and must not have been published inde
 (2) Following the viva voce examination, the Board of Examiners may refer the dissertation and the programme notes back to the student for amendments.
 
 (3) In the area of specialisation of performance, if a student does not show a complete mastery of technique and interpretative skills, the Board of Examiners may request a repeat of the performance after a time decided upon by the Board of Examiners. There shall only be a single repeat performance for the purpose of examination.
-
-*4*
-
-[S.L.327.483 AUSPICES OF THE SCHOOL OF PERFORMING ARTS
 
 ## 12. Dissertation format.
 
@@ -190,11 +176,7 @@ Any expenses related to the performance, dissertation and portfolio of compositi
 
 The Degree shall be awarded to students who satisfy all the criteria in any one of the following areas of specialisation:
 
-(a) by composition: successfully pass the taught study-units for which 10 ECTs credits are assigned, present a AUSPICES OF THE SCHOOL OF PERFORMING ARTS [S.L.327.483
-
-dissertation and a portfolio of new and original compositions followed by a successful viva voce examination for which 80 ECTs credits are assigned; or
-
-*5*
+(a) by composition: successfully pass the taught study-units for which 10 ECTs credits are assigned, present a dissertation and a portfolio of new and original compositions followed by a successful viva voce examination for which 80 ECTs credits are assigned; or
 
 (b) by performance: successfully pass the taught study-units for which 10 ECTs credits are assigned, present a dissertation, and programme notes followed by a successful viva voce for which 20 ECTs credits are assigned, perform three public recitals for each of which 20 ECTs credits are assigned. The recitals shall be assessed by at least three members of the Board of Examiners. They shall use standard criteria and shall assign a mark and grade which shall contribute towards the final result. The final recital shall be recorded; or
 

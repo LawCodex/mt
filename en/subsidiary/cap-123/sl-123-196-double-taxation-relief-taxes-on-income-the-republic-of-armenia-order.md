@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (The Republic of Armenia) Order (S.L. 123.196)
 
-*1*
-
-(THE REPUBLIC OF ARMENIA) [S.L. 123.196 SUBSIDIARY LEGISLATION 123.196
+**SUBSIDIARY LEGISLATION 123.196**
 
 DOUBLE TAXATION RELIEF (TAXES ON INCOME)
 
@@ -39,13 +37,11 @@ It is hereby declared:
 
 (ii) the income tax;
 
-(b) that it is expedient that those arrangements shall have effect following the entry into force of the Agreement and in accordance with the relevant provisions of the Agreement. [S.L. 123.196 (THE REPUBLIC OF ARMENIA)
+(b) that it is expedient that those arrangements shall have effect following the entry into force of the Agreement and in accordance with the relevant provisions of the Agreement.
 
 \*See Legal Notice 41 of 2022.
 
 ## SCHEDULE
-
-*2*
 
 (Article 2)
 
@@ -91,9 +87,7 @@ The existing taxes to which the Agreement shall apply are in particular:
 
 the income tax;
 
-*3*
-
-(THE REPUBLIC OF ARMENIA) [S.L. 123.196 (hereinafter referred to as "Malta tax");
+(hereinafter referred to as "Malta tax");
 
 (b) in Armenia:
 
@@ -123,11 +117,7 @@ The Agreement shall apply also to any identical or substantially similar taxes t
 
 (e) the term "company" means any body corporate or any entity that is treated as a body corporate for tax purposes;
 
-(f) the term "enterprise" applies to the carrying on of [S.L. 123.196 (THE REPUBLIC OF ARMENIA)
-
-any business;
-
-*4*
+(f) the term "enterprise" applies to the carrying on of any business;
 
 (g) the terms "enterprise of a Contracting State" and "enterprise of the other Contracting State" mean respectively an enterprise carried on by a resident of a Contracting State and an enterprise carried on by a resident of the other Contracting State;
 
@@ -153,11 +143,9 @@ any business;
 
 **Resident**
 
-\1. For the purposes of this Agreement, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of incorporation, place of management or any other criterion of a similar nature, and also includes that State. This term, however, does (THE REPUBLIC OF ARMENIA) [S.L. 123.196 not include any person who is liable to tax in that State in respect only of income from sources in that State.
+\1. For the purposes of this Agreement, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of incorporation, place of management or any other criterion of a similar nature, and also includes that State. This term, however, does not include any person who is liable to tax in that State in respect only of income from sources in that State.
 
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
-
-*5*
 
 (a) he shall be deemed to be a resident only of the State in which he has a permanent home available to him; if he has a permanent home available to him in both States, he shall be deemed to be a resident only of the State with which his personal and economic relations are closer (centre of vital interests);
 
@@ -182,10 +170,6 @@ any business;
 (b) a branch;
 
 (c) an office;
-
-*6*
-
-[S.L. 123.196 (THE REPUBLIC OF ARMENIA)
 
 (d) a factory;
 
@@ -215,13 +199,11 @@ Notwithstanding the preceding provisions of this Article, the term "permanent es
 
 ## 5.
 
-Notwithstanding the provisions of paragraphs 1 and 2, where a person - other than an agent of an independent status to whom (THE REPUBLIC OF ARMENIA) [S.L. 123.196 paragraph 6 applies - is acting on behalf of an enterprise and has, and habitually exercises, in a Contracting State an authority to conclude contracts in the name of the enterprise, that enterprise shall be deemed to have a permanent establishment in that State in respect of any activities which that person undertakes for the enterprise unless the activities of such person are limited to those mentioned in paragraph 4 which, if exercised through a fixed place of business, would not make this fixed place of business a permanent establishment under the provisions of that paragraph.
+Notwithstanding the provisions of paragraphs 1 and 2, where a person - other than an agent of an independent status to whom paragraph 6 applies - is acting on behalf of an enterprise and has, and habitually exercises, in a Contracting State an authority to conclude contracts in the name of the enterprise, that enterprise shall be deemed to have a permanent establishment in that State in respect of any activities which that person undertakes for the enterprise unless the activities of such person are limited to those mentioned in paragraph 4 which, if exercised through a fixed place of business, would not make this fixed place of business a permanent establishment under the provisions of that paragraph.
 
 ## 6.
 
 An enterprise shall not be deemed to have a permanent establishment in a Contracting State merely because it carries on business in that State through a broker, general commission agent or any other agent of an independent status, provided that such persons are acting in the ordinary course of their business.
-
-*7*
 
 ## 7.
 
@@ -243,10 +225,6 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 **Business Profits**
 
-*8*
-
-[S.L. 123.196 (THE REPUBLIC OF ARMENIA)
-
 \1. The profits of an enterprise of a Contracting State shall be taxable only in that State unless the enterprise carries on business in the other Contracting State through a permanent establishment situated therein. If the enterprise carries on business as aforesaid, the profits of the enterprise may be taxed in the other State but only so much of them as is attributable to that permanent establishment.
 
 \2. Subject to the provisions of paragraph 3, where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment.
@@ -262,10 +240,6 @@ The fact that a company which is a resident of a Contracting State controls or i
 ## 7.
 
 Where profits include items of income which are dealt with separately in other Articles of this Agreement, then the provisions of those Articles shall not be affected by the provisions of this Article.
-
-*9*
-
-(THE REPUBLIC OF ARMENIA) [S.L. 123.196
 
 **ARTICLE 8**
 
@@ -289,11 +263,7 @@ Where profits include items of income which are dealt with separately in other A
 
 and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
 
-\2. Where a Contracting State includes in the profits of an enterprise of that State - and taxes accordingly - profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits, where that other State considers the adjustment justified. In determining such adjustment, due regard shall [S.L. 123.196 (THE REPUBLIC OF ARMENIA)
-
-be had to the other provisions of this Agreement and the competent authorities of the Contracting States shall if necessary consult each other.
-
-*10*
+\2. Where a Contracting State includes in the profits of an enterprise of that State - and taxes accordingly - profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits, where that other State considers the adjustment justified. In determining such adjustment, due regard shall be had to the other provisions of this Agreement and the competent authorities of the Contracting States shall if necessary consult each other.
 
 **ARTICLE 10**
 
@@ -315,9 +285,7 @@ The competent authorities of the Contracting States shall by mutual agreement se
 
 \3. The term "dividends" as used in this Article means income from shares or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
 
-*11*
-
-(THE REPUBLIC OF ARMENIA) [S.L. 123.196 4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
+\4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
 \5. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment situated in that other State, nor subject the company's undistributed profits to a tax on the company's undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
 
@@ -335,11 +303,7 @@ The competent authorities of the Contracting States shall by mutual agreement se
 
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises through a permanent establishment situated therein and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
-\5. Interest shall be deemed to arise in a Contracting State [S.L. 123.196 (THE REPUBLIC OF ARMENIA)
-
-when the payer is a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment, then such interest shall be deemed to arise in the State in which the permanent establishment is situated.
-
-*12*
+\5. Interest shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment, then such interest shall be deemed to arise in the State in which the permanent establishment is situated.
 
 \6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Agreement.
 
@@ -357,11 +321,9 @@ The competent authorities of the Contracting States shall by mutual agreement se
 
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise through a permanent establishment situated therein and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
-\5. Royalties shall be deemed to arise in a Contracting State (THE REPUBLIC OF ARMENIA) [S.L. 123.196 when the payer is that State itself or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment, then such royalties shall be deemed to arise in the Contracting State in which the permanent establishment is situated.
+\5. Royalties shall be deemed to arise in a Contracting State when the payer is that State itself or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment, then such royalties shall be deemed to arise in the Contracting State in which the permanent establishment is situated.
 
 \6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Agreement.
-
-*13*
 
 **ARTICLE 13**
 
@@ -376,10 +338,6 @@ The competent authorities of the Contracting States shall by mutual agreement se
 \4. Gains derived by a resident of a Contracting State from the alienation of shares or comparable interests, such as interests in a partnership or trust, may be taxed in the other Contracting State if, at any time during the 365 days preceding the alienation, these shares or comparable interests derived more than 50 per cent of their value directly or indirectly from immovable property, as defined in Article 6, situated in that other State.
 
 \5. Gains from the alienation of any property, other than that referred to in paragraphs 1, 2, 3 and 4, shall be taxable only in the Contracting State of which the alienator is a resident.
-
-*14*
-
-[S.L. 123.196 (THE REPUBLIC OF ARMENIA)
 
 **ARTICLE 14**
 
@@ -409,9 +367,7 @@ Directors' fees and other similar payments derived by a resident of a Contractin
 
 \1. Notwithstanding the provisions of Articles 7 and 14, income derived by a resident of a Contracting State as an entertainer, such as a theatre, motion picture, radio or television artiste, or a musician, or as a sportsman, from his personal activities as such exercised in the other Contracting State, may be taxed in that other State.
 
-*15*
-
-(THE REPUBLIC OF ARMENIA) [S.L. 123.196 2. Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman himself but to another person, that income may, notwithstanding the provisions of Articles 7 and 14, be taxed in the Contracting State in which the activities of the entertainer or sportsman are exercised.
+\2. Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman himself but to another person, that income may, notwithstanding the provisions of Articles 7 and 14, be taxed in the Contracting State in which the activities of the entertainer or sportsman are exercised.
 
 \3. Notwithstanding the provisions of paragraphs 1 and 2, income derived by a resident of a Contracting State from his personal activities as an entertainer or as a sportsman shall be taxable only in that State if the activities are exercised in the other Contracting State within the framework of a cultural or sports exchange program approved by both Contracting States.
 
@@ -437,11 +393,7 @@ Subject to the provisions of paragraph 2 of Article 18, pensions and other simil
 
 (b) However, such pensions and similar remuneration shall be taxable only in the other Contracting State if the individual is a resident of, and a national of, that State.
 
-\3. The provisions of Articles 14, 15, 16 and 17 shall apply to salaries, wages, pensions and other similar remuneration in respect of services rendered in connection with a business carried on by a [S.L. 123.196 (THE REPUBLIC OF ARMENIA)
-
-Contracting State.
-
-*16*
+\3. The provisions of Articles 14, 15, 16 and 17 shall apply to salaries, wages, pensions and other similar remuneration in respect of services rendered in connection with a business carried on by a Contracting State.
 
 **ARTICLE 19**
 
@@ -465,11 +417,9 @@ Payments which a student or business apprentice who is or was immediately before
 
 \2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein and the right or property in respect of which the income is paid is effectively connected with such permanent establishment. In such case, the provisions of Article 7 shall apply.
 
-\3. Notwithstanding the provisions of paragraph 1, if a resident of a Contracting State derives income from sources within the other Contracting State in the form of winnings from lotteries, (THE REPUBLIC OF ARMENIA) [S.L. 123.196 crossword puzzles, races including horse races, card games and other games of any sort or gambling or betting of any form or nature whatsoever, such income may be taxed in the other Contracting State.
+\3. Notwithstanding the provisions of paragraph 1, if a resident of a Contracting State derives income from sources within the other Contracting State in the form of winnings from lotteries, crossword puzzles, races including horse races, card games and other games of any sort or gambling or betting of any form or nature whatsoever, such income may be taxed in the other Contracting State.
 
 **ARTICLE 22**
-
-*17*
 
 **Elimination of Double Taxation**
 
@@ -486,10 +436,6 @@ Payments which a student or business apprentice who is or was immediately before
 \2. Stateless persons who are residents of a Contracting State shall not be subjected in either Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of the State concerned in the same circumstances, in particular with respect to residence, are or may be subjected.
 
 \3. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
-
-*18*
-
-[S.L. 123.196 (THE REPUBLIC OF ARMENIA)
 
 \4. Except where the provisions of paragraph 1 of Article 9, paragraph 6 of Article 11, or paragraph 6 of Article 12 apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
 
@@ -509,10 +455,6 @@ Payments which a student or business apprentice who is or was immediately before
 
 \4. The competent authorities of the Contracting States may communicate with each other directly, including through a joint commission consisting of themselves or their representatives, for the purpose of reaching an agreement in the sense of the preceding paragraphs.
 
-*19*
-
-(THE REPUBLIC OF ARMENIA) [S.L. 123.196
-
 **ARTICLE 25**
 
 **Exchange of Information**
@@ -531,11 +473,7 @@ Payments which a student or business apprentice who is or was immediately before
 
 \4. If information is requested by a Contracting State in accordance with this Article, the other Contracting State shall use its information gathering measures to obtain the requested information, even though that other State may not need such information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall such limitations be construed to permit a Contracting State to decline to supply information solely because it has no domestic interest in such information.
 
-\5. In no case shall the provisions of paragraph 3 be [S.L. 123.196 (THE REPUBLIC OF ARMENIA)
-
-construed to permit a Contracting State to decline to supply information solely because the information is held by a bank, other financial institution, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person.
-
-*20*
+\5. In no case shall the provisions of paragraph 3 be construed to permit a Contracting State to decline to supply information solely because the information is held by a bank, other financial institution, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person.
 
 **ARTICLE 26**
 
@@ -563,11 +501,9 @@ Notwithstanding the other provisions of this Agreement, a benefit under this Agr
 
 (i) in respect of taxes withheld at source on income derived on or after the first day of January in the calendar year next following the year in which the Agreement enters into force;
 
-(ii) in respect of other taxes on income chargeable for any tax year beginning on the first day of (THE REPUBLIC OF ARMENIA) [S.L. 123.196 January in the calendar year next following the year in which this Agreement enters into force.
+(ii) in respect of other taxes on income chargeable for any tax year beginning on the first day of January in the calendar year next following the year in which this Agreement enters into force.
 
 **ARTICLE 29**
-
-*21*
 
 **Termination**
 

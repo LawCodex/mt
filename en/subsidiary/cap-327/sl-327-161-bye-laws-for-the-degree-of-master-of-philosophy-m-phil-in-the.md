@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Philosophy - M.Phil. - in the Institute for Energy Technology (S.L. 327.161)
 
-DEGREE OF MASTER OF PHILOSOPHY - M.PHIL. -
-
-*1*
-
-IN THE INSTITUTE FOR ENERGY TECHNOLOGY [S.L.327.161
-
 2SUBSIDIARY LEGISLATION 327.161
 
 BYE-LAWS FOR THE DEGREE OF MASTER OF

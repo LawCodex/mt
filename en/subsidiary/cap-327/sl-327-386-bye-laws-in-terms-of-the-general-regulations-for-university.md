@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws in terms of the General Regulations for University Postgraduate Awards, for the Degree of Master in Performance Studies (Dance) – M. PS(Dance) – under the auspices of the School of Performing Arts (S.L. 327.386)
 
-(DANCE) – M.PS (DANCE) - UNDER THE AUSPICES OF
-
-*1*
-
-THE SCHOOL OF PERFORMING ARTS [S.L.327.386
-
 **SUBSIDIARY LEGISLATION 327.386**
 
 **BYE-LAWS IN TERMS OF THE GENERAL**
@@ -73,11 +67,7 @@ LEGAL NOTICE 407 of 2010, as amended by Legal Notice 145 of 2011 and 178 of 2017
 
 (b) a Bachelor’s degree in a subject other than Dance or a Dance-related subject, with at least Second Class (Honours) or placement in Category II, together with substantial proven Dance experience; or
 
-(c) a professional qualification/qualifications and/or experience deemed by Senate, on the recommendation of the Board, to satisfy in part, the admission requirements to the course, provided that applicants (DANCE) – M.PS (DANCE) - UNDER THE AUSPICES OF [S.L.327.386 THE SCHOOL OF PERFORMING ARTS
-
-may be required to complete a preparatory theoretical programme as specified in bye-law 4.
-
-*2*
+(c) a professional qualification/qualifications and/or experience deemed by Senate, on the recommendation of the Board, to satisfy in part, the admission requirements to the course, provided that applicants may be required to complete a preparatory theoretical programme as specified in bye-law 4.
 
 (2) All applicants who are not in possession of a first degree in Dance shall be interviewed and/or auditioned by a board composed of at least three members. Applicants shall be asked to provide evidence of their professional experience in dance by way of writing sample, performance documentation and video. Applicants unable to attend the interview and dance audition in person may arrange to complete the process through electronic means of communication.
 
@@ -113,13 +103,9 @@ The course shall extend over five semesters of part-time study.
 
 (3) Students who fail in more than the number of credits permitted under paragraph (2), or students who after re-assessment fail to obtain credits for any study-unit, shall be deemed to have failed the course.
 
-(DANCE) – M.PS (DANCE) - UNDER THE AUSPICES OF
+## 8. Dissertation.
 
-*3*
-
-THE SCHOOL OF PERFORMING ARTS [S.L.327.386 8. (1) Students shall be required to submit an individual dissertation of about 20,000 words in accordance with the guidelines issued by the Board.
-
-*Dissertation.*
+(1) Students shall be required to submit an individual dissertation of about 20,000 words in accordance with the guidelines issued by the Board.
 
 (2) Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
 

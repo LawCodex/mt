@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Custodial Sentences or Measures Involving Deprivation of Liberty Orders (Execution in the European Union) Regulations (S.L. 9.17)
 
-DEPRIVATION OF LIBERTY ORDERS (EXECUTION
-
-*1*
-
-IN THE EUROPEAN UNION) [S.L.9.17
-
 **SUBSIDIARY LEGISLATION 9.17**
 
 **CUSTODIAL SENTENCES OR MEASURES**
@@ -61,11 +55,7 @@ In these regulations, unless the context otherwise requires - "the Arrangement" 
 
 (a) a scheduled offence; or
 
-(b) any other offence liable to the punishment of DEPRIVATION OF LIBERTY ORDERS (EXECUTION [S.L.9.17 IN THE EUROPEAN UNION)
-
-imprisonment or of detention for a term of more than one year;
-
-*2*
+(b) any other offence liable to the punishment of imprisonment or of detention for a term of more than one year;
 
 "scheduled offence" means any offence in the list of offences set out in Schedule I;
 
@@ -103,13 +93,7 @@ Provided that it shall not be necessary for the judgment to be in either the Mal
 
 (2) The judgment, together with the certificate, shall be transmitted to one of the following Member States:
 
-(a) the Member State of nationality of the sentenced person in which the said person habitually resides; or (b) the Member State of nationality, to which, while not being the Member State where the said person habitually resides, the sentenced person will be deported, once he is released from the enforcement of the sentence on the basis of an expulsion or DEPRIVATION OF LIBERTY ORDERS (EXECUTION
-
-*3*
-
-IN THE EUROPEAN UNION) [S.L.9.17
-
-deportation order included in the judgment or in a judicial or administrative decision or any other measure taken consequential to the judgment; or
+(a) the Member State of nationality of the sentenced person in which the said person habitually resides; or (b) the Member State of nationality, to which, while not being the Member State where the said person habitually resides, the sentenced person will be deported, once he is released from the enforcement of the sentence on the basis of an expulsion or deportation order included in the judgment or in a judicial or administrative decision or any other measure taken consequential to the judgment; or
 
 (c) any Member State other than a Member State referred to in paragraphs (a) or (b), the competent authority of which consents to the forwarding of the judgment and the certificate to that Member State.
 
@@ -145,11 +129,7 @@ Provided that in such cases there shall be no verification of the double crimina
 
 (a) to the Member State of nationality in which the sentenced person habitually resides; or
 
-(b) to the Member State to which the sentenced person will be deported once he or she is released from the enforcement of the sentence on the basis of an DEPRIVATION OF LIBERTY ORDERS (EXECUTION [S.L.9.17 IN THE EUROPEAN UNION)
-
-expulsion or deportation order included in the judgment or in a judicial or administrative decision or any other measure consequential to the judgment; or (c) to the Member State to which the sentenced person has fled or otherwise returned in view of the criminal proceedings pending against him in the issuing State or following the conviction in that issuing State.
-
-*4*
+(b) to the Member State to which the sentenced person will be deported once he or she is released from the enforcement of the sentence on the basis of an expulsion or deportation order included in the judgment or in a judicial or administrative decision or any other measure consequential to the judgment; or (c) to the Member State to which the sentenced person has fled or otherwise returned in view of the criminal proceedings pending against him in the issuing State or following the conviction in that issuing State.
 
 (3) (a) Where the sentenced person is still in the issuing State, the said person shall be given an opportunity to state his opinion orally or in writing. Where the issuing State considers it necessary in view of the sentenced person’s age or his physical or mental condition, that opportunity shall be given to the person vested with legal representation of the sentenced person.
 
@@ -173,12 +153,6 @@ expulsion or deportation order included in the judgment or in a judicial or admi
 
 (1) Subject to the provisions of regulation 12, a judgment shall not be recognized by the Attorney General if:
 
-DEPRIVATION OF LIBERTY ORDERS (EXECUTION
-
-*5*
-
-IN THE EUROPEAN UNION) [S.L.9.17
-
 (a) the certificate provided for in Schedule II is not produced, is incomplete or manifestly does not correspond to the judgment and has not been completed or corrected within a reasonable deadline set by the competent authority of the executing State;
 
 (b) the provisions of regulation 6 are not satisfied;
@@ -201,11 +175,7 @@ IN THE EUROPEAN UNION) [S.L.9.17
 
 (ii) being aware of the scheduled trial, had given a mandate to his legal counsel appointed by the said person or by the State, to defend him at his trial, and was indeed defended by the said legal counsel at the trial, or
 
-(iii) after being served with the decision and being expressly informed of the right to a retrial, or an appeal, in which the person has the right to participate and which allows the merits of the case, including fresh evidence, to be re-examined, and which may lead to the original decision being reversed, he expressly stated that DEPRIVATION OF LIBERTY ORDERS (EXECUTION [S.L.9.17 IN THE EUROPEAN UNION)
-
-he does not contest the decision, or he did not request a retrial or an appeal within the applicable time-frame;
-
-*6*
+(iii) after being served with the decision and being expressly informed of the right to a retrial, or an appeal, in which the person has the right to participate and which allows the merits of the case, including fresh evidence, to be re-examined, and which may lead to the original decision being reversed, he expressly stated that he does not contest the decision, or he did not request a retrial or an appeal within the applicable time-frame;
 
 (j) before a decision is taken on the recognition of the judgment a request is made to the issuing State in terms of Article 18(3) of the Arrangement, and the issuing State does not consent, in accordance with Article 18(2)(g) of the Arrangement, to the person concerned being prosecuted, sentenced or otherwise deprived of his liberty in the executing State for an offence committed prior to the transfer other than that for which the person was transferred;
 
@@ -223,19 +193,13 @@ Provided that any decision under sub-regulation (1)(l) shall be taken by the Att
 
 (3) The competent authority of the issuing State may also be consulted by the Attorney General in cases where it is deemed possible to give partial recognition to the judgment and enforcement of the sentence with a view to finding an agreement as provided for under this sub-regulation:
 
-Provided that if agreement is reached to give partial recognition and enforcement of the sentence in accordance to conditions set out by them, such recognition and enforcement does not result in the aggravation of the duration of the sentence, and in the absence of such agreement, the certificate shall be withdrawn. DEPRIVATION OF LIBERTY ORDERS (EXECUTION
-
-*7*
-
-IN THE EUROPEAN UNION) [S.L.9.17
-
-## 12. Grounds for postponement of execution.
-
-The Attorney General may postpone recognition of the judgment where the certificate referred to is incomplete or manifestly does not correspond to the judgment, until such reasonable deadline set by him for the certificate to be completed or corrected.
+Provided that if agreement is reached to give partial recognition and enforcement of the sentence in accordance to conditions set out by them, such recognition and enforcement does not result in the aggravation of the duration of the sentence, and in the absence of such agreement, the certificate shall be withdrawn. 12. The Attorney General may postpone recognition of the judgment where the certificate referred to is incomplete or manifestly does not correspond to the judgment, until such reasonable deadline set by him for the certificate to be completed or corrected.
 
 ## 13. Decision on enforcement and time-limits.
 
 (1) The Attorney General shall, as soon as practicable, decide whether to recognise the judgment, and shall inform the issuing State thereof and of any decision to adapt the sentence in accordance with these regulations.
+
+*Grounds for postponement of execution.*
 
 (2) A decision on the recognition of the judgment and the enforcement of the sentence shall be taken within a period of ninety days of receipt of the judgment and the certificate, unless there exists any ground for postponement in terms of the Arrangement. When in exceptional cases it is not practicable for a decision to be taken within this period, the Attorney General shall inform the issuing State giving the reasons for the delay and the estimated time needed for the final decision to be taken.
 
@@ -258,10 +222,6 @@ Provided that such a punishment or measure shall correspond as closely as possib
 (3) The Attorney General shall, upon request, inform the competent authority of the issuing State of the applicable provisions on remission and possible early or conditional release. The issuing State may agree to the application of such provisions or it may withdraw the certificate.
 
 (4) Where the Attorney General is informed by the competent authority of the executing State of any decision or measure as a result of which the sentence ceases to be enforceable, immediately or within a certain period of time, the enforcement of that sentence shall be immediately terminated.
-
-*8*
-
-DEPRIVATION OF LIBERTY ORDERS (EXECUTION [S.L.9.17 IN THE EUROPEAN UNION)
 
 ## 16. Provisional arrest.
 
@@ -296,12 +256,6 @@ Provided that in such case renunciation shall be given before the Court in the p
 (1) An amnesty or pardon may be granted by the issuing State and also by the executing State.
 
 (2) Only the issuing State may decide on applications for review of the judgment imposing the sentence to be enforced under the Arrangement.
-
-DEPRIVATION OF LIBERTY ORDERS (EXECUTION
-
-*9*
-
-IN THE EUROPEAN UNION) [S.L.9.17
 
 ## 19. Information on the result of the execution.
 
@@ -343,10 +297,6 @@ The Attorney General shall forthwith inform the competent authority of the execu
 
 (2) The right to enforce a sentence shall revert to the Maltese authorities upon information by the executing State of the partial non-enforcement of the sentence pursuant to the sentenced person’s escape from custody.
 
-*10*
-
-DEPRIVATION OF LIBERTY ORDERS (EXECUTION [S.L.9.17 IN THE EUROPEAN UNION)
-
 ## 23. Transfer of sentenced persons.
 
 (1) If the sentenced person is in Malta, he shall be transferred to the executing State at a time agreed with the executing State which shall be within thirty days, which period shall commence to run on the date when the final decision, of the executing State on the recognition of the judgment and enforcement of the sentence, has been taken.
@@ -370,10 +320,6 @@ DEPRIVATION OF LIBERTY ORDERS (EXECUTION [S.L.9.17 IN THE EUROPEAN UNION)
 (5) When the transport of the sentenced person is to take place by air, it will only be necessary to provide the Commissioner of Police with the information required in sub-regulation (1) in the event that an unscheduled landing occurs.
 
 (6) A person being conveyed through Malta in the course of his transfer to the issuing State shall be kept in custody during the period of transit.
-
-DEPRIVATION OF LIBERTY ORDERS (EXECUTION
-
-IN THE EUROPEAN UNION) [S.L.9.17 11
 
 SCHEDULE I
 
@@ -509,35 +455,9 @@ unlawful seizure of aircraft/ships,
 
 sabotage.
 
-*12*
-
-DEPRIVATION OF LIBERTY ORDERS (EXECUTION [S.L.9.17 IN THE EUROPEAN UNION)
-
 SCHEDULE II
 
 (Regulation 5)
-
-DEPRIVATION OF LIBERTY ORDERS (EXECUTION
-
-*13*
-
-IN THE EUROPEAN UNION) [S.L.9.17 DEPRIVATION OF LIBERTY ORDERS (EXECUTION [S.L.9.17 IN THE EUROPEAN UNION)
-
-*14*
-
-DEPRIVATION OF LIBERTY ORDERS (EXECUTION
-
-*15*
-
-IN THE EUROPEAN UNION) [S.L.9.17 DEPRIVATION OF LIBERTY ORDERS (EXECUTION [S.L.9.17 IN THE EUROPEAN UNION)
-
-*16*
-
-DEPRIVATION OF LIBERTY ORDERS (EXECUTION
-
-*17*
-
-IN THE EUROPEAN UNION) [S.L.9.17 DEPRIVATION OF LIBERTY ORDERS (EXECUTION 18 [S.L.9.17 IN THE EUROPEAN UNION)
 
 ## SCHEDULE III
 

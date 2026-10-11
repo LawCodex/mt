@@ -15,13 +15,9 @@ retrieved: 2026-10-12
 
 # Merchant Shipping (Shipping Organisations - Private Companies) Regulations (S.L. 234.42)
 
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42 1
+SUBSIDIARY LEGISLATION 234.42 MERCHANT SHIPPING (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) REGULATIONS
 
-**SUBSIDIARY LEGISLATION 234.42**
-
-MERCHANT SHIPPING (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) REGULATIONS
-
-1st May, 2004\*
+*1st May, 2004\**
 
 LEGAL NOTICE 223 of 2004, as amended by Legal Notices 181 and 186 of 2006, 411 of 2007 and 31 of 2020.
 
@@ -62,10 +58,6 @@ meetings
 Chapter III  Proof and Ranking of Claims  159 - 163  
 \*see regulation 1(2).
 
-*2*
-
-[S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
 *Part VI*
 
 Company Reconstructions, Conversions, Amalgamations 164 and Division of Companies
@@ -103,10 +95,6 @@ Conversion rules applicable on a change in the currency in which the share capit
 Form relating to Notice to be governed by the Companies Act
 
 Penalties
-
-*3*
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
 
 ##### 1. Title.
 
@@ -152,11 +140,7 @@ These regulations shall apply to any organisation formed as a private limited li
 
 *Cap. 281.*
 
-"auditor" means a person who is an individual who holds a warrant to act as auditor issued under the Accountancy Profession [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-Act or is a partnership of auditors duly registered under the said Act;
-
-*4*
+"auditor" means a person who is an individual who holds a warrant to act as auditor issued under the Accountancy Profession Act or is a partnership of auditors duly registered under the said Act;
 
 "body corporate" means any entity having a legal personality distinct from that of its members, and includes a foreign body corporate;
 
@@ -198,11 +182,7 @@ Act or is a partnership of auditors duly registered under the said Act;
 
 (a) has a majority of the members’ voting rights in another undertaking (subsidiary undertaking); or
 
-(b) has the right to appoint or remove a majority of the members of the board of directors or persons entrusted (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
-with the administration of another undertaking (a subsidiary undertaking) and is at the same time a member of that undertaking; or
-
-*5*
+(b) has the right to appoint or remove a majority of the members of the board of directors or persons entrusted with the administration of another undertaking (a subsidiary undertaking) and is at the same time a member of that undertaking; or
 
 (c) has the right to exercise a dominant influence over an undertaking (a subsidiary undertaking) of which it is a member, pursuant to a contract entered into with that undertaking or to a provision in that undertaking’s memorandum or articles of association; or
 
@@ -230,13 +210,9 @@ and the term "parent undertaking" shall be construed accordingly;
 
 (2) For the purposes of these regulations, where a document required to be delivered to the Registrar for registration is required to state the name and residence or address of a person, it shall be deemed to require further the official identification, by number or otherwise of such person, as may be applicable.
 
-(3) Where a matter is not specifically dealt with under these regulations, reference shall be made to the provisions of the Companies Act on such matter including any relevant regulations [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
+(3) Where a matter is not specifically dealt with under these regulations, reference shall be made to the provisions of the Companies Act on such matter including any relevant regulations issued under the Companies Act.
 
 *Cap. 386.*
-
-issued under the Companies Act.
-
-*6*
 
 ## PART II — GENERAL PROVISIONS
 
@@ -276,10 +252,6 @@ A company to which these regulations apply has a legal personality distinct from
 
 (3) Where a private company contravenes the provisions of subregulation (2), every officer thereof who is in default shall be liable to a penalty.
 
-*7*
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
 ##### 7. Resolutions in writing.
 
 Subject to the provisions of these regulations, a resolution in writing signed by all the members for the time being entitled to receive notice of and to attend and vote at the general meetings shall be as valid and effective as if the same had been passed at a general meeting of the company duly convened and held.
@@ -306,11 +278,7 @@ Provided that current operations concluded under normal conditions need not be r
 
 (7) All decisions taken by the single member as aforesaid shall be considered as extraordinary resolutions for the purposes of these regulations.
 
-(8) If default is made in complying with the provisions of subregulations (2) and (6) every officer of the company who is in [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-default shall be liable to a penalty and, for every day during which the default continues, to a further penalty.
-
-*8*
+(8) If default is made in complying with the provisions of subregulations (2) and (6) every officer of the company who is in default shall be liable to a penalty and, for every day during which the default continues, to a further penalty.
 
 ##### 9. Change of status of company. Cap. 386.
 
@@ -352,11 +320,7 @@ A company shall not be validly constituted under these regulations unless a memo
 
 (i) the manner in which the representation of the company is to be exercised, and the name of the first person or persons vested with such representation:
 
-Provided that the company may appoint other persons in addition to the said named representatives (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
-to represent the company in a class or classes of cases by means of a clause in the memorandum or articles of association, by a resolution of the board of directors or by means of a power of attorney issued by such named representatives;
-
-*9*
+Provided that the company may appoint other persons in addition to the said named representatives to represent the company in a class or classes of cases by means of a clause in the memorandum or articles of association, by a resolution of the board of directors or by means of a power of attorney issued by such named representatives;
 
 (j) the period, if any, fixed for the duration of the company.
 
@@ -386,11 +350,7 @@ to represent the company in a class or classes of cases by means of a clause in 
 
 (b) is in the opinion of the Registrar offensive or otherwise undesirable; or
 
-(c) has been reserved for registration for another commercial partnership by a notice in writing to the [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-Registrar given not more than three months before the date of the second request:
-
-*10*
+(c) has been reserved for registration for another commercial partnership by a notice in writing to the Registrar given not more than three months before the date of the second request:
 
 Provided that the Registrar shall notify any refusal under this paragraph without delay to the person requesting the registration:
 
@@ -432,11 +392,7 @@ The memorandum and articles, if any, shall be delivered for registration to the 
 
 ##### 18. Duty of Registrar and effects of registration.
 
-(1) On the registration of the memorandum and articles, if any, of a company, the Registrar shall certify under his hand that the company is registered as stated under these regulations, and the company shall come into existence and shall be authorised to (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
-commence business as from the date of registration which date shall be indicated in the certificate.
-
-*11*
+(1) On the registration of the memorandum and articles, if any, of a company, the Registrar shall certify under his hand that the company is registered as stated under these regulations, and the company shall come into existence and shall be authorised to commence business as from the date of registration which date shall be indicated in the certificate.
 
 (2) A certificate of registration given in respect of a company is conclusive evidence that the requirements of these regulations in respect of registration and of matters precedent and incidental to it have been complied with and that the company is duly registered as a private company under these regulations.
 
@@ -464,11 +420,7 @@ Provided that it shall be permissible for the members without prejudice to the c
 
 (c) amend the articles of the company relating to internal administration provided the rights of the members are not affected; and
 
-(d) amend the objects and powers of the company so as to facilitate the carrying on of the business of the [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-company as a shipping organisation.
-
-*12*
+(d) amend the objects and powers of the company so as to facilitate the carrying on of the business of the company as a shipping organisation.
 
 (2) It shall be the duty of the directors to deliver to the Registrar for registration a printed copy of any resolution as aforesaid within fourteen days after the date of the resolution, together with a revised and updated copy of the memorandum, and of the articles, if any, as amended by the said resolution and incorporating all the changes effected to date relating to the directors, the representation of the company or any transfer or transmission of shares or any allotment of shares. Any previous amended text of the memorandum and articles, if any, may be discarded by the Registrar when a subsequent amended text is delivered to him for registration:
 
@@ -490,11 +442,7 @@ Where a company changes its name under the provisions of regulation 20, the Regi
 
 Notwithstanding anything in the memorandum or articles of a company no member shall be bound by any alteration made in the memorandum or articles after the date on which he became a member if and so far as the alteration requires him to subscribe for more shares than the number held by him at the date on which the alteration is made, or in any way increases his liability as at that date to contribute to the share capital of, or otherwise pay money to, the company:
 
-Provided that this regulation shall not apply in any case where the member agrees in writing, either before or after the (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
-alteration is made, to be bound thereby.
-
-*13*
+Provided that this regulation shall not apply in any case where the member agrees in writing, either before or after the alteration is made, to be bound thereby.
 
 ##### 23. Authentication of documents.
 
@@ -524,10 +472,6 @@ Provided further that a reduction in share capital shall be void to the extent t
 
 Provided that, following this operation, the amount of such reserve is not more than ten per cent of the reduced issued share capital:
 
-*14*
-
-[S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
 Provided further that any such reserve shall be used only for offsetting losses incurred or for increasing the issued share capital by the capitalisation of such reserve.
 
 (6) In the cases referred to in subregulation (5) the amounts deriving from the reduction of the issued share capital may not be used for making payments or distributions to shareholders or to discharge shareholders from the obligation to pay calls on their shares:
@@ -551,10 +495,6 @@ Provided that if the provisions of subregulations (1) and (2) relating to the ri
 (6) Where an increase in the issued share capital is not fully taken up, the issued share capital shall be increased by the amount of subscriptions received only if the conditions of the issue so provide.
 
 (7) Whenever a company makes any allotment of its shares, the company shall, within one month thereafter, deliver to the Registrar in accordance with the provisions of the Seventh Schedule for registration -
-
-*15*
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
 
 (a) a return of the allotments stating the number and the nominal amount of the share comprised in the allotment, the names and addresses of the allottees and the amount paid and that due, and payable, on each share, whether on account of the nominal value of the share or by way of premiums; and
 
@@ -584,10 +524,6 @@ Provided that -
 
 (a) authority therefor is given by the memorandum or articles; and
 
-*16*
-
-[S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
 (b) the commission, discount or allowance does not exceed ten per cent of the price at which the shares are issued or the amount authorised by the memorandum or articles, whichever is the less; and
 
 (c) the amount or rate per cent of the commission, discount or allowance and the number of shares which persons have agreed in consideration thereof to subscribe absolutely shall be disclosed in any circular or notice whereby the shares are privately offered; and (d) in no event may the value of such shares be reduced to below their nominal value as a result of the payment of such commission, discount or allowance.
@@ -612,10 +548,6 @@ Provided that -
 
 (a) no such shares shall be redeemed except out of the profits of the company which would otherwise be available for dividend or, in accordance with subregulation (4), out of the proceeds of a fresh issue of shares made for the purpose of the redemption;
 
-*17*
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
 (b) no such shares shall be issued unless the following conditions are satisfied as regards the terms and manner of redemption -
 
 (i) the date on or by which, or dates between which, the shares are to be or may be redeemed must be specified in the company’s memorandum or articles or, if the memorandum or articles so provide, fixed by the directors, and in the latter case the date or dates must be fixed before the shares are issued;
@@ -636,11 +568,7 @@ Provided that -
 
 (3) Preference shares redeemed under this regulation shall be treated as cancelled on redemption, and the amount of the company’s issued share capital shall be diminished by the nominal value of those shares accordingly:
 
-Provided that a redemption of preference shares by a company shall not be taken as reducing the amount of the [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-company’s authorised share capital.
-
-*18*
+Provided that a redemption of preference shares by a company shall not be taken as reducing the amount of the company’s authorised share capital.
 
 (4) Without prejudice to the provisions of subregulation (3), where a company is about to redeem preference shares, it shall have the power to issue shares up to the nominal value of the preference shares to be redeemed as if those preference shares had never been issued.
 
@@ -662,15 +590,11 @@ company’s authorised share capital.
 
 (5) Where no provision is made by the memorandum or articles for authorising the change or variation referred to in subregulation (1), no such change or variation may be made.
 
-Chapter VI - Miscellaneous provisions about shares and debentures (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
-##### 33. Numbering of shares.
-
-Each share in a company shall be distinguished by its appropriate number:
-
-*19*
+Chapter VI - Miscellaneous provisions about shares and debentures 33. Each share in a company shall be distinguished by its appropriate number:
 
 Provided that, if at any time all the issued shares in a company, or all the issued shares therein of a particular class, are fully paid up and rank pari passu for all purposes, none of those shares need thereafter have a distinguishing number so long as they remain fully paid up and rank pari passu for all purposes with all shares of the same class for the time being issued and fully paid up.
+
+*Numbering of shares.*
 
 ##### 34. Transfer of shares or debentures.
 
@@ -694,11 +618,7 @@ Provided that, if at any time all the issued shares in a company, or all the iss
 
 ##### 36. Issue of certificates.
 
-(1) Every company shall, within two months after the allotment of any of its shares or debentures and within two months after the date on which a transfer of any such shares or debentures is registered with the company, and within one month from the date on which any such shares or debentures transmitted causa mortis [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-have been registered in the name of the person entitled to be registered as the holder thereof, deliver the certificates of all shares, debentures or debenture stock allotted, transferred or transmitted causa mortis to the persons entitled thereto, unless the conditions of issue of the shares or debentures otherwise provide.
-
-*20*
+(1) Every company shall, within two months after the allotment of any of its shares or debentures and within two months after the date on which a transfer of any such shares or debentures is registered with the company, and within one month from the date on which any such shares or debentures transmitted causa mortis have been registered in the name of the person entitled to be registered as the holder thereof, deliver the certificates of all shares, debentures or debenture stock allotted, transferred or transmitted causa mortis to the persons entitled thereto, unless the conditions of issue of the shares or debentures otherwise provide.
 
 (2) The expression "transfer" for the purposes of this regulation means a transfer on which the relevant duty, if any, has been paid and is otherwise valid, and does not include such a transfer as the company is for any reason entitled to refuse to register and does not register.
 
@@ -720,10 +640,6 @@ Provided that in relation to transfers of shares, any restriction resulting from
 
 (4) Saving the provisions of subregulation (3), during the existence of a pledge of securities, any transfer or other assignment, made by the pledgor, whether by onerous or gratuitous title, of the pledged securities shall be null and void.
 
-*21*
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
 (5) Notwithstanding the provisions of subregulation (4), any transfer or other assignment of securities made with the consent of the pledgee shall be valid and the securities to be transferred shall continue to be subject to the pledge.
 
 (6) Without prejudice to the right of the pledgee to apply for the judicial sale of the securities and notwithstanding the provisions of the Civil Code or of the memorandum or articles of the company, in the event of a default under the agreement of pledge and upon giving notice by judicial act to the pledgor and the company, the pledgee shall be entitled to:
@@ -744,11 +660,7 @@ Provided that, in case of disagreement, the fair value for the sale or appropria
 
 (11) In the exercise of his rights under this regulation, the pledgee shall only sell or appropriate such number of securities as are needed to raise sufficient proceeds to repay the debt due. All remaining shares shall be released to the pledgor:
 
-Provided that it shall be lawful for a pledgee to sell all the shares pledged in the event that it is not possible to achieve a fair [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-price for the sale of only part of the pledged shares and any excess in the proceeds shall be released to the pledgor.
-
-*22*
+Provided that it shall be lawful for a pledgee to sell all the shares pledged in the event that it is not possible to achieve a fair price for the sale of only part of the pledged shares and any excess in the proceeds shall be released to the pledgor.
 
 (12) It shall be lawful for the parties to an agreement of pledge of securities to agree on the person or persons who shall exercise all the rights belonging to the holder of securities including voting rights and the right to receive dividends and interest payments:
 
@@ -771,10 +683,6 @@ Provided further that, unless the pledgor and the pledgee have otherwise agreed 
 (c) the date at which any person ceased to be a member:
 
 Provided that where the company has converted any of its shares into stock and has registered the conversion with the Registrar, the register shall show the amount of stock held by each member instead of the amount of shares and the particulars relating to shares specified in paragraph (a).
-
-*23*
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
 
 (2) Where two or more persons hold one or more shares in a company jointly, they shall, for the purposes of these regulations, be treated as a single member; and, unless otherwise provided in the memorandum or articles, the name of only one of such persons shall be entered in the register of members. Such person shall be elected by the joint holders and shall for all intents and purposes be deemed in relation to the company to be the member of the company in respect of all the shares so held.
 
@@ -802,11 +710,7 @@ Except when duly closed in accordance with the provisions of regulation 41, and 
 
 (1) A company may, on giving notice to the members, close the register of members to inspection for any period or periods not exceeding in the whole thirty days in each year.
 
-(2) The register of debentures may be closed to inspection in accordance with provisions contained in the memorandum or articles or in the debentures or, in the case of debenture stock, in the stock certificates, during such period or periods, not exceeding [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-in the whole thirty days in any one year, as may be therein specified.
-
-*24*
+(2) The register of debentures may be closed to inspection in accordance with provisions contained in the memorandum or articles or in the debentures or, in the case of debenture stock, in the stock certificates, during such period or periods, not exceeding in the whole thirty days in any one year, as may be therein specified.
 
 (3) The memorandum or articles may provide that, during such time as the register of members or the register of debentures is closed in accordance with the provisions of subregulations (1) or (2), no new particulars may be entered therein.
 
@@ -834,11 +738,7 @@ Provided that so long as a company holds its first annual general meeting within
 
 (3) If the directors do not within twenty-one days from the date of the deposit of the requisition proceed duly to convene a meeting, the requisitionist or requisitionists may convene a meeting in the same manner, as nearly as possible, as that in which meetings are to be convened by the directors, but a meeting so convened shall not be held after the expiration of three months from the date of the deposit of the requisition.
 
-(4) Any reasonable expense incurred by the requisitionist or (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
-requisitionists by reason of the failure of the directors duly to convene a meeting shall be repaid to the requisitionist or requisitionists by the company, and any sum so paid shall be due personally by the directors who were in default and may be retained by the company out of any sums due or to become due from the company by way of fees or other remuneration in respect of their services to such of the directors as were in default.
-
-*25*
+(4) Any reasonable expense incurred by the requisitionist or requisitionists by reason of the failure of the directors duly to convene a meeting shall be repaid to the requisitionist or requisitionists by the company, and any sum so paid shall be due personally by the directors who were in default and may be retained by the company out of any sums due or to become due from the company by way of fees or other remuneration in respect of their services to such of the directors as were in default.
 
 ##### 45. Length of notice for calling general meetings.
 
@@ -864,11 +764,7 @@ The following provisions shall have effect in so far as the articles of a compan
 
 ##### 47. Powers of court to order meeting.
 
-(1) If for any reason it is impracticable to call a meeting of a company in any manner in which meetings of the company may be called, or to conduct the meetings of that company in the manner prescribed by the articles or these regulations, the court may, either on its own motion or on the demand of either of the parties to the proceedings during the course of such proceedings or, in the absence of any proceedings, on the application of any director of the company or of any member of the company who would be entitled to vote at the meeting, order a meeting of the company to be called, held and conducted in such manner as the court thinks fit, and where any such order is made, may give such ancillary or consequential directions as it thinks expedient, including a [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-direction that one member of the company present in person or by proxy shall be deemed to constitute a meeting.
-
-*26*
+(1) If for any reason it is impracticable to call a meeting of a company in any manner in which meetings of the company may be called, or to conduct the meetings of that company in the manner prescribed by the articles or these regulations, the court may, either on its own motion or on the demand of either of the parties to the proceedings during the course of such proceedings or, in the absence of any proceedings, on the application of any director of the company or of any member of the company who would be entitled to vote at the meeting, order a meeting of the company to be called, held and conducted in such manner as the court thinks fit, and where any such order is made, may give such ancillary or consequential directions as it thinks expedient, including a direction that one member of the company present in person or by proxy shall be deemed to constitute a meeting.
 
 (2) The provisions of subregulation (1) shall also apply to the calling of meetings of the board of directors of a company, if the court considers that the circumstances justify such course of action.
 
@@ -894,11 +790,7 @@ Provided that an officer shall not be liable to a penalty by reason only of the 
 
 (a) of excluding the right to demand a poll at a general meeting on any question other than the election of the chairman of the meeting or the adjournment of the meeting; or
 
-(b) of making ineffective a demand for a poll on any such (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
-question which is made either -
-
-*27*
+(b) of making ineffective a demand for a poll on any such question which is made either -
 
 (i) by not less than five members having the right to vote at the meeting; or
 
@@ -928,11 +820,7 @@ Provided that an extraordinary resolution shall be taken at a general meeting of
 
 "corporate benefit" shall mean any financial, commercial, trading or reputational benefit to be derived by the company, its holding company, its subsidiaries or subsidiaries of its holding company, any related company or its subsidiaries, its trading partners or counterparts or its members but not only its officers.
 
-(2) A company shall, unless otherwise provided in its memorandum or articles, have the power to borrow money and to guarantee the obligations of any third party and, for such purpose, [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-to hypothecate or charge its undertaking, property and uncalled capital or any part thereof including as security for its direct obligations or for those of third parties, and to issue debentures, debenture stock and other securities whether outright or as security for its direct liabilities or obligations or for those of any third party:
-
-*28*
+(2) A company shall, unless otherwise provided in its memorandum or articles, have the power to borrow money and to guarantee the obligations of any third party and, for such purpose, to hypothecate or charge its undertaking, property and uncalled capital or any part thereof including as security for its direct obligations or for those of third parties, and to issue debentures, debenture stock and other securities whether outright or as security for its direct liabilities or obligations or for those of any third party:
 
 Provided that when the grant of a guarantee for the obligations of a third party by a company is made on a purely gratuitous basis, with no corporate benefit being derived therefrom by the company, unless the memorandum states otherwise, the issue of such guarantee shall require the consent of the members by extraordinary resolution:
 
@@ -955,10 +843,6 @@ Provided further that nothing in this regulation shall render invalid any guaran
 Provided that the publication of the memorandum and articles of the company shall not in itself be sufficient to prove that the third party knew, or could not have been unaware, that the act was outside the company’s objects.
 
 (6) When a vacancy arises in the board of directors the vacancy can be filled by a general meeting or equivalent resolution or in its absence a board of directors’ resolution. In the absence of either one any member may apply to the court to appoint a director until the next annual general meeting.
-
-*29*
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
 
 (7) A person appointed by the court in accordance with the provisions of subregulation (6) shall hold office until the next annual general meeting although he shall be eligible for re-election.
 
@@ -985,10 +869,6 @@ Provided that he shall vacate his office if he fails to obtain his qualification
 (4) A vacancy created by the removal of a director under this regulation, if not filled at the meeting at which he is removed, may be filled as a casual vacancy.
 
 (5) Nothing in this regulation shall be taken as -
-
-*30*
-
-[S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
 
 (a) depriving a person removed hereunder of compensation or damages payable to him in respect of the termination of his appointment as director or of any other appointment terminating with the termination of his appointment as director; or
 
@@ -1022,10 +902,6 @@ Provided that he shall vacate his office if he fails to obtain his qualification
 
 (d) he is subject to a disqualification order under article 320 of the Companies Act or equivalent legislation overseas.
 
-*31*
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
 (2) Notwithstanding the provisions of these regulations or of the memorandum and articles of a company relating to the formalities of the appointment of a director or other officer and to his qualification, any irregularity concerning the appointment of a director or other officer of a company raised after the completion of the publication of his appointment shall not be relied upon by the company as against third parties unless the company proves that such parties were aware of the irregularity at the relevant time.
 
 (3) Third parties who were not aware of the irregularities referred to in subregulation (2) at the relevant time may rely on that irregularity as against the company.
@@ -1050,11 +926,7 @@ Provided that nothing in this paragraph shall apply either -
 
 (ii) in the case of a company whose ordinary business includes the lending of money or the giving of guarantees in connection with loans made by other persons, to anything done by the company in the ordinary course of that business;
 
-(b) to make to any director of the company any payment by way of compensation for loss of office, or as consideration for or in connection with his retirement from office, without particulars with respect to the [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-proposed payment, including the amount thereof, being disclosed to members of the company and the proposal being approved by the company in general meeting.
-
-*32*
+(b) to make to any director of the company any payment by way of compensation for loss of office, or as consideration for or in connection with his retirement from office, without particulars with respect to the proposed payment, including the amount thereof, being disclosed to members of the company and the proposal being approved by the company in general meeting.
 
 ##### 59. Duty of director to disclose interest in a contract with company.
 
@@ -1085,10 +957,6 @@ Provided that where a particular duty has been entrusted to one or more of the d
 (a) that he did not know of the breach of duty before or at the time of its occurrence and that on becoming aware of it after its occurrence he signified forthwith to the co-directors his dissent in writing; or
 
 (b) that, knowing that the co-directors intended to commit a breach of duty, he took all reasonable steps to prevent it.
-
-*33*
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
 
 ##### 62. Provisions as to liability of officers and auditors.
 
@@ -1125,10 +993,6 @@ Provided that a company may, in pursuance of any such provision as aforesaid, in
 \- aggregate balance sheet total: six million euro (6,000,000) net or seven million and two hundred thousand euro (7,200,000) gross;
 
 *Cap. 386.*
-
-*34*
-
-[S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
 
 \- aggregate turnover: twelve million euro (12,000,000) net or fourteen million and four hundred thousand euro (14,400,000) gross:
 
@@ -1192,10 +1056,6 @@ Deleted by Legal Notice 31 of 2020.
 
 Deleted by Legal Notice 31 of 2020.
 
-*35*
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
 ##### 76. Persons to whom a copy of the accounts of a company are to be sent.
 
 Deleted by Legal Notice 31 of 2020.
@@ -1246,11 +1106,7 @@ Deleted by Legal Notice 31 of 2020.
 
 *Amended by: L.N. 31 of 2020.*
 
-(1) A company shall, at each general meeting at which the annual accounts are laid, appoint an auditor or auditors to hold office from the conclusion of that meeting until the conclusion of the next general meeting at which the accounts are laid. The company may appoint joint auditors and reference in these [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-regulations to auditor or auditors shall be deemed to include references to single or joint auditors as the case may be.
-
-*36*
+(1) A company shall, at each general meeting at which the annual accounts are laid, appoint an auditor or auditors to hold office from the conclusion of that meeting until the conclusion of the next general meeting at which the accounts are laid. The company may appoint joint auditors and reference in these regulations to auditor or auditors shall be deemed to include references to single or joint auditors as the case may be.
 
 (2) The first auditors of the company may be appointed by the directors at any time before the first general meeting of the company at which the annual accounts are laid, and the auditors so appointed shall hold office until the conclusion of that meeting.
 
@@ -1279,10 +1135,6 @@ Provided that the company in general meeting may fill such a casual vacancy itse
 notice specifying in terms of the proposed resolution shall be given forthwith to the person proposed to be appointed and, if the casual vacancy was caused by the resignation of an auditor, to the auditor who resigned.
 
 (4) Any director who fails to comply with the provisions of subregulation (1) shall be liable to the same penalty as that provided for in regulation 83(6).
-
-*37*
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
 
 ##### 85. Disqualification from appointment as auditor.
 
@@ -1320,11 +1172,7 @@ shall be guilty of an offence and liable on conviction to a fine (multa) of not 
 
 (3) A subsidiary undertaking which is registered in Malta, and the auditors of such an undertaking, shall give to the auditors of any parent company of the subsidiary undertaking such information and explanations as they may reasonably require for the purposes of their duties as auditors of that company. If a subsidiary undertaking fails to comply with the provisions of this paragraph, every officer thereof who is in default shall be liable to a penalty; and if an auditor fails without reasonable cause to comply with this paragraph he shall be liable to a penalty.
 
-(4) A parent company having a subsidiary undertaking which is not registered in Malta shall, if required by its auditors to do so, take all such steps as are reasonably open to it to obtain from the subsidiary undertaking such information and explanations as they may reasonably require for the purposes of their duties as auditors of that company. If a parent company fails to comply with the provisions of this subregulation, every officer of the company who [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-is in default shall be liable to a penalty.
-
-*38*
+(4) A parent company having a subsidiary undertaking which is not registered in Malta shall, if required by its auditors to do so, take all such steps as are reasonably open to it to obtain from the subsidiary undertaking such information and explanations as they may reasonably require for the purposes of their duties as auditors of that company. If a parent company fails to comply with the provisions of this subregulation, every officer of the company who is in default shall be liable to a penalty.
 
 ##### 87. Right to attend company meetings.
 
@@ -1356,11 +1204,7 @@ A company’s auditors shall be entitled -
 
 (4) An auditor of a company who has been removed shall have, notwithstanding his removal, the rights conferred by regulation 87 in relation to any general meeting of the company -
 
-(a) at which his term of office would otherwise have (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
-expired; or
-
-*39*
+(a) at which his term of office would otherwise have expired; or
 
 (b) at which it is proposed to fill the vacancy caused by his removal.
 
@@ -1394,11 +1238,7 @@ shall be sent forthwith by the company to the person proposed to be removed, to 
 
 (2) An effective notice of resignation shall operate to bring the auditor’s term of office to an end as of the date on which the notice is deposited or on such later date as may be specified in it.
 
-(3) The company shall within fourteen days of the deposit of a notice of resignation send a copy of the notice to the Registrar for registration. If default is made in complying with this subregulation, every officer of the company who is in default shall [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-be liable to a penalty and, for every day during which the default continues, to a further penalty.
-
-*40*
+(3) The company shall within fourteen days of the deposit of a notice of resignation send a copy of the notice to the Registrar for registration. If default is made in complying with this subregulation, every officer of the company who is in default shall be liable to a penalty and, for every day during which the default continues, to a further penalty.
 
 ##### 92. Rights of resigning auditor.
 
@@ -1425,10 +1265,6 @@ be liable to a penalty and, for every day during which the default continues, to
 (6) If a copy of the statement is not sent out as required because it was received too late or because of the company’s default, the auditor may, without prejudice to his right to be heard orally, require that the statement be read out at the meeting.
 
 (7) An auditor who has resigned has, notwithstanding his resignation, the rights conferred by regulation 87 in relation to any such general meeting of the company as is mentioned in subregulation (3)(a) or (b), and, in such a case, the references in that regulation to matters concerning the auditor as auditor shall be construed as references to matters concerning him as a former auditor.
-
-*41*
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
 
 ##### 93. Statement by person ceasing to hold office as auditor.
 
@@ -1461,10 +1297,6 @@ and the company shall within fourteen days of the court’s decision send to the
 (b) notify the auditor of the court’s decision,
 
 and the auditor shall within seven days of receiving such notice send a copy of the statement to the Registrar.
-
-*42*
-
-[S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
 
 ##### 94. Failure to comply with regulation 93.
 
@@ -1502,11 +1334,7 @@ and the auditor shall within seven days of receiving such notice send a copy of 
 
 Provided that nothing in this paragraph shall prohibit a company from distributing interim dividends:
 
-Provided further that a decision to do so is based on a reasonable expectation that the amount distributed will form part of the distributable assets of the company at the end of the accounting (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
-period.
-
-*43*
+Provided further that a decision to do so is based on a reasonable expectation that the amount distributed will form part of the distributable assets of the company at the end of the accounting period.
 
 (2) The provisions of this regulation shall apply without prejudice to any obligation imposed apart from this regulation on a member of a company to repay a distribution unlawfully made to him.
 
@@ -1526,11 +1354,7 @@ The provisions of this chapter shall be without prejudice to any other provision
 
 (3) If, in any case where a company is being wound up voluntarily, the Registrar has reasonable cause to believe either that no liquidator is acting or that the affairs of the company are fully wound up, and the returns required to be made by the liquidator in terms of regulation 131 are overdue by six months or more, the Registrar may publish in the Gazette or on a website maintained by the Registrar and in a daily newspaper circulating wholly or mainly in Malta, a notice that at the expiration of three months from the date of the last publication of the said notice, the winding up of the company shall, unless cause is previously shown to the contrary, be deemed to be concluded and consequently that the company’s name be struck off the register. The Registrar shall also cause a copy of the said notice to be sent by post to the company and to the liquidator, if any. At the expiration of the aforesaid period of three months the winding up of the company shall, unless cause is previously shown to the contrary, be deemed to be concluded and the Registrar shall strike the name of the company off the register and the company’s assets shall devolve upon the Government of Malta.
 
-(4) If any member or creditor of the company, or any other person who appears to the court to have an interest feels aggrieved by the fact that the name of the company has been struck off the [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-register by virtue of this regulation, the court on an application made by the member or creditor or such other person before the expiration of five years from the publication of the notice of the striking off provided for in subregulations (2) and (3) may, if satisfied that it is proper that the name be restored to the register, order that such name be restored to the register, and upon an official copy of the order being delivered by the Registrar of Courts to the Registrar for registration, the company shall be deemed to have continued in existence as if its name had not been struck off; and the court may by its order give such directions and make such provisions as seem fit for placing the company and all other persons in the same position as nearly as may be as if the name of the company had not been struck off. The Registrar shall forthwith proceed to publish a notice in the Gazette or on a website maintained by the Registrar and in a daily newspaper circulating wholly or mainly in Malta that the name of the company has been restored to the register.
-
-*44*
+(4) If any member or creditor of the company, or any other person who appears to the court to have an interest feels aggrieved by the fact that the name of the company has been struck off the register by virtue of this regulation, the court on an application made by the member or creditor or such other person before the expiration of five years from the publication of the notice of the striking off provided for in subregulations (2) and (3) may, if satisfied that it is proper that the name be restored to the register, order that such name be restored to the register, and upon an official copy of the order being delivered by the Registrar of Courts to the Registrar for registration, the company shall be deemed to have continued in existence as if its name had not been struck off; and the court may by its order give such directions and make such provisions as seem fit for placing the company and all other persons in the same position as nearly as may be as if the name of the company had not been struck off. The Registrar shall forthwith proceed to publish a notice in the Gazette or on a website maintained by the Registrar and in a daily newspaper circulating wholly or mainly in Malta that the name of the company has been restored to the register.
 
 (5) A notice to be sent under this regulation to a liquidator may be addressed to the liquidator at his last known place of business or address, and a letter or notice to be sent under this regulation to a company may be addressed to the company at its registered office.
 
@@ -1550,11 +1374,7 @@ For the purposes of this subregulation a resolution of the company shall be eith
 
 (2) In addition to the modes of dissolution referred to in subregulation (1) -
 
-(a) a company may be dissolved and wound up by the Court when the company is unable to pay its debts; and (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
-(b) a company shall be dissolved by the court in the following cases:
-
-*45*
+(a) a company may be dissolved and wound up by the Court when the company is unable to pay its debts; and (b) a company shall be dissolved by the court in the following cases:
 
 (i) when the period fixed for its duration expires;
 
@@ -1594,11 +1414,7 @@ An application to the court (hereinafter referred to as the "winding up applicat
 
 ##### 101. Powers of the court.
 
-(1) On the hearing of the winding up application, the court may either dismiss the application or make an order acceding [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-thereto (hereinafter referred to as a "winding up order") and such other orders, including provisional orders, and adjourn the hearing conditionally or otherwise as it thinks fit; but no winding up order shall be made before the application has been served on such persons as the court in the circumstances, and upon information given by the applicant, deems it appropriate to call upon to make their submissions.
-
-*46*
+(1) On the hearing of the winding up application, the court may either dismiss the application or make an order acceding thereto (hereinafter referred to as a "winding up order") and such other orders, including provisional orders, and adjourn the hearing conditionally or otherwise as it thinks fit; but no winding up order shall be made before the application has been served on such persons as the court in the circumstances, and upon information given by the applicant, deems it appropriate to call upon to make their submissions.
 
 (2) Where the sole asset of the company is a ship subject to a registered mortgage or other maritime claims and the outstanding sums due under the mortgage or such maritime claims exceed the value of the ship, the court shall not order the winding up of the company until it is satisfied that there are excess funds deriving to the company in Malta in relation to which a winding up order may usefully be made.
 
@@ -1608,11 +1424,7 @@ thereto (hereinafter referred to as a "winding up order") and such other orders,
 
 (5) Should it result that there are any funds in Malta deriving to the company from proceedings contemplated in the preceding paragraph, the court may order the winding up of the company in accordance with these regulations.
 
-(6) If the winding up application is presented by members of the company on the basis that there are grounds of sufficient gravity to warrant the dissolution and winding up of the company, the court, if it is of the opinion that such grounds exist but that the applicants are entitled to some other remedy, including the liquidation of only their shares, apart from the dissolution and winding up of the company, shall only make a winding up order so long as the applicants are not acting unreasonably in seeking to have the company dissolved and wound up instead of pursuing that other remedy. On the demand of any interested party, the court shall have all the necessary powers to provide such remedy, as it considers reasonable in the circumstances to ensure that the (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
-company is in a position to carry on its business.
-
-*47*
+(6) If the winding up application is presented by members of the company on the basis that there are grounds of sufficient gravity to warrant the dissolution and winding up of the company, the court, if it is of the opinion that such grounds exist but that the applicants are entitled to some other remedy, including the liquidation of only their shares, apart from the dissolution and winding up of the company, shall only make a winding up order so long as the applicants are not acting unreasonably in seeking to have the company dissolved and wound up instead of pursuing that other remedy. On the demand of any interested party, the court shall have all the necessary powers to provide such remedy, as it considers reasonable in the circumstances to ensure that the company is in a position to carry on its business.
 
 ##### 102. Power to stay proceedings against company.
 
@@ -1649,10 +1461,6 @@ When a company is being wound up by the court, any act or warrant, whether preca
 (1) On the making of a winding up order, or on the dismissal of a winding up application, a copy thereof shall forthwith be forwarded by the Registrar of Courts to the Registrar for registration.
 
 (2) Where a winding up order has been made or a provisional administrator has been appointed in accordance with the provisions of regulation 107, no action or proceeding, other than any action instituted by a holder of a registered mortgage or a privileged creditor, shall be proceeded with or commenced against the company or its property except by the leave of the court and subject to such terms as the court may impose.
-
-*48*
-
-[S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
 
 ### Chapter II - Liquidators in a winding up by the court
 
@@ -1694,10 +1502,6 @@ or to do any other act which will in any manner hinder or obstruct the exercise 
 
 (1) The liquidator in a winding up by the court shall have the power, with the sanction either of the court or of any liquidation committee -
 
-*49*
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
 (a) to bring or to defend any action or other legal proceeding in the name and on behalf of the company;
 
 (b) to carry on the business of the company so far as may be necessary for the beneficial winding up thereof;
@@ -1726,11 +1530,7 @@ Provided that nothing in this regulation shall permit the liquidator to impede o
 
 ##### 111. Exercise and control of liquidator’s powers.
 
-(1) Subject to the provisions of these regulations, the liquidator of a company which is being wound up by the court shall, in the administration of the assets of the company and in the distribution thereof among its creditors, have regard to any directives that might be given by resolution of the creditors at any general meeting of the creditors as well as to directives given by [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-the general meeting of the shareholders but in case of conflict precedence shall be given to the directives of the creditors and in case of disagreement among the creditors precedence shall be given to the directives of the holders of a registered mortgage.
-
-*50*
+(1) Subject to the provisions of these regulations, the liquidator of a company which is being wound up by the court shall, in the administration of the assets of the company and in the distribution thereof among its creditors, have regard to any directives that might be given by resolution of the creditors at any general meeting of the creditors as well as to directives given by the general meeting of the shareholders but in case of conflict precedence shall be given to the directives of the creditors and in case of disagreement among the creditors precedence shall be given to the directives of the holders of a registered mortgage.
 
 (2) The liquidator may summon general meetings of the creditors or the officers and the members of the company for the purpose of ascertaining their wishes, and it shall be his duty to summon meetings at such times as the creditors or the officers or the members of the company, by resolution, either at the meeting appointing the liquidator or otherwise, may direct, or whenever requested in writing to do so by one-tenth in value of the creditors.
 
@@ -1752,11 +1552,7 @@ Every liquidator of a company which is being wound up by the court shall keep pr
 
 (1) Upon his appointment the liquidator shall notify the Registrar of any bank account which the liquidator shall use for the purposes of receiving and making payments on behalf of the company. The liquidator shall not be entitled to receive and make payments until he has made such notification.
 
-(2) A liquidator of a company which is being wound up by the court shall not pay any sums received by him as liquidator into an account or accounts other than an account or accounts which have (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
-been notified to the Registrar.
-
-*51*
+(2) A liquidator of a company which is being wound up by the court shall not pay any sums received by him as liquidator into an account or accounts other than an account or accounts which have been notified to the Registrar.
 
 (3) In the event that any proceeds from the sale of a ship are received by the liquidator, the rights of preference of a holder of a registered mortgage and of a privileged creditor shall continue to apply over the sale proceeds in substitution of the ship in accordance with the Act.
 
@@ -1782,11 +1578,7 @@ been notified to the Registrar.
 
 ##### 116. Release of liquidator from his appointment.
 
-(1) When the liquidator of a company which is being wound up by the court has realised all the property of the company, or so much thereof as can, in his opinion, be realised without needlessly protracting the liquidation, and has distributed a final dividend, if any, to the creditors, or has resigned, or has been removed from office, the Registrar shall, on the liquidator’s application to be released, cause a report to be prepared on the liquidator’s accounts at the company’s expense. On being satisfied that the liquidator has complied with all the requirements laid down by the Registrar and, after taking into consideration the report and any objection which may be raised by any creditor or person [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-interested against the release of the liquidator, the Registrar shall either grant or withhold the release accordingly, subject nevertheless to an appeal to the court made by the liquidator.
-
-*52*
+(1) When the liquidator of a company which is being wound up by the court has realised all the property of the company, or so much thereof as can, in his opinion, be realised without needlessly protracting the liquidation, and has distributed a final dividend, if any, to the creditors, or has resigned, or has been removed from office, the Registrar shall, on the liquidator’s application to be released, cause a report to be prepared on the liquidator’s accounts at the company’s expense. On being satisfied that the liquidator has complied with all the requirements laid down by the Registrar and, after taking into consideration the report and any objection which may be raised by any creditor or person interested against the release of the liquidator, the Registrar shall either grant or withhold the release accordingly, subject nevertheless to an appeal to the court made by the liquidator.
 
 (2) Where the release of a liquidator is withheld, the court may, on the application of any creditor or person interested, make such order as it thinks fit, holding the liquidator responsible for the consequences of any act or default which he may have made contrary to his duty.
 
@@ -1816,11 +1608,7 @@ Provided that no such order may be issued in relation to any property under the 
 
 ##### 119. Appointment of special manager.
 
-(1) The liquidator may, if satisfied that the business of the company, or the interests of the creditors generally, require the appointment of a special manager of the estate or business of the (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
-company or any ship belonging to the company other than himself, apply to the court, and the court may, on such application, appoint a special manager of the said estate or business or ship to act during such time as the court may direct, with such powers as may be entrusted to him by the court.
-
-*53*
+(1) The liquidator may, if satisfied that the business of the company, or the interests of the creditors generally, require the appointment of a special manager of the estate or business of the company or any ship belonging to the company other than himself, apply to the court, and the court may, on such application, appoint a special manager of the said estate or business or ship to act during such time as the court may direct, with such powers as may be entrusted to him by the court.
 
 (2) The special manager shall give such security and account in such manner as the court directs.
 
@@ -1856,11 +1644,7 @@ The court may, at any time after making a winding up order, make such order for 
 
 (g) any necessary disbursements by the liquidator in the course of his administration;
 
-(h) the remuneration of any person employed by the liquidator to perform any services for the company, as [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-required or authorised by the provisions of these regulations;
-
-*54*
+(h) the remuneration of any person employed by the liquidator to perform any services for the company, as required or authorised by the provisions of these regulations;
 
 (i) the remuneration of the liquidator;
 
@@ -1892,11 +1676,7 @@ may, subject to the provisions of this regulation or any other provision of thes
 
 ##### 125. Striking of name of the company off the register.
 
-(1) When the affairs of the company have been completely wound up, or the circumstances specified in regulation 111(4) the court, if the liquidator makes an application in that behalf, shall make an order that the name of the company be struck (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
-off the register under such conditions as to publicity and notifications as it deems fit.
-
-*55*
+(1) When the affairs of the company have been completely wound up, or the circumstances specified in regulation 111(4) the court, if the liquidator makes an application in that behalf, shall make an order that the name of the company be struck off the register under such conditions as to publicity and notifications as it deems fit.
 
 (2) A copy of the order shall within fourteen days from the date thereof be forwarded by the Registrar of the Courts to the Registrar who shall comply therewith.
 
@@ -1923,10 +1703,6 @@ Provided further that a liquidator, appointed by the directors, may be removed f
 (4) The remuneration of the liquidator shall be fixed by the company in general meeting or where appropriate in a meeting of the board of directors, subject nevertheless to the right of the liquidator to demand that it be fixed or varied by the court.
 
 (5) All costs, charges and expenses properly incurred in the winding up, including the remuneration of the liquidator, shall be payable out of the assets of the company in priority to all claims other than those with preference over a ship in terms of the Act unless with the prior written consent of the relevant creditor.
-
-*56*
-
-[S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
 
 ##### 127. Notice by liquidator of his appointment.
 
@@ -1958,11 +1734,7 @@ If default is made in complying with any of the requirements of regulations 126,
 
 *Amended by: L.N. 31 of 2020.*
 
-(1) In the event of the winding up continuing for more than twelve months, the liquidator shall unless the previous general meeting has resolved otherwise, summon a general meeting of the company at the end of the first period of twelve months from the commencement of the winding up, and of each succeeding period of twelve months, or at the first convenient date within three months from the end of the period of twelve months, or within a longer term as the Registrar may allow, and shall lay before the meeting an account of his acts and dealings and of the conduct of the winding up during the preceding twelve months, including a (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
-summary of receipts and expenditure.
-
-*57*
+(1) In the event of the winding up continuing for more than twelve months, the liquidator shall unless the previous general meeting has resolved otherwise, summon a general meeting of the company at the end of the first period of twelve months from the commencement of the winding up, and of each succeeding period of twelve months, or at the first convenient date within three months from the end of the period of twelve months, or within a longer term as the Registrar may allow, and shall lay before the meeting an account of his acts and dealings and of the conduct of the winding up during the preceding twelve months, including a summary of receipts and expenditure.
 
 (2) If the liquidator fails to comply with the provisions of subregulation (1) he shall be liable to a penalty and, for every day during which the default continues, to a further penalty.
 
@@ -1994,10 +1766,6 @@ When a company is dissolved in accordance with the provisions of regulation 99(1
 
 Provided that where the court has ordered that the company be wound up voluntarily by virtue of the provisions of regulation 99(1)(b), the company shall be deemed to have been dissolved at the time of the filing of the winding up application.
 
-*58*
-
-[S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
 Chapter II - Provisions applicable to a members’ voluntary
 
 **winding up**
@@ -2028,11 +1796,7 @@ The provisions contained in the following regulations shall apply in relation to
 
 Provided that, if a quorum is not present at the meeting, the liquidator shall in the notice mentioned above state that the meeting was duly summoned and that no quorum was present thereat.
 
-(3) On receiving the account together with the auditor’s report, if any, the notice of completion of liquidation and of the holding of (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
-the meeting, the Registrar shall forthwith register them and on the expiration of three months from a notice published in the Gazette or on a website maintained by the Registrar proceed to strike the name of the company off the register:
-
-*59*
+(3) On receiving the account together with the auditor’s report, if any, the notice of completion of liquidation and of the holding of the meeting, the Registrar shall forthwith register them and on the expiration of three months from a notice published in the Gazette or on a website maintained by the Registrar proceed to strike the name of the company off the register:
 
 Provided that the court may, on an application filed within the said period of three months by the liquidator or by any other person who appears to the court to have an interest, make an order deferring the date at which the name of the company shall be struck off the register for such time and subject to such conditions as the court may provide.
 
@@ -2064,11 +1828,7 @@ Chapter III - Provisions applicable to a creditors’ voluntary
 
 (2) The directors of the company shall -
 
-(a) cause a full statement of the position of the company’s [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-affairs, together with a list of the creditors of the company and the estimated amount of their claims to be laid before the meeting of the creditors to be held as aforesaid; and
-
-*60*
+(a) cause a full statement of the position of the company’s affairs, together with a list of the creditors of the company and the estimated amount of their claims to be laid before the meeting of the creditors to be held as aforesaid; and
 
 (b) appoint one of their number to preside at the said meeting.
 
@@ -2092,11 +1852,7 @@ affairs, together with a list of the creditors of the company and the estimated 
 
 (1) The creditors at the meeting to be held in pursuance of regulation 136, or at any subsequent meeting may, if they think fit, appoint not more than five representatives of the creditors to a liquidation committee:
 
-Provided that the creditors may, if they think fit, resolve that all or any of the persons so appointed by the company ought (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
-not to be members of the liquidation committee, and, if the creditors so resolve, the persons mentioned in the resolution shall not, unless the court otherwise directs, be qualified to act as members of the committee, and on any application to the court under the provisions of this subregulation the court may, if it thinks fit, appoint other persons to act as such members in place of the persons mentioned in the resolution.
-
-*61*
+Provided that the creditors may, if they think fit, resolve that all or any of the persons so appointed by the company ought not to be members of the liquidation committee, and, if the creditors so resolve, the persons mentioned in the resolution shall not, unless the court otherwise directs, be qualified to act as members of the committee, and on any application to the court under the provisions of this subregulation the court may, if it thinks fit, appoint other persons to act as such members in place of the persons mentioned in the resolution.
 
 (2) Subject to the provisions of subregulation (1) or as may be otherwise prescribed, the regulation on the constitution and proceedings of the liquidation committee other than subregulations (1) to (4) thereof, shall apply with respect to a liquidation committee appointed under this regulation as they apply with respect to a liquidation committee appointed in a winding up by the court.
 
@@ -2122,11 +1878,7 @@ Provided that if a liquidator is not appointed in accordance with the provisions
 
 ##### 147. Final meetings.
 
-(1) As soon as the affairs of the company are fully wound up, the liquidator shall make an account of the winding up, showing how the winding up has been conducted and how the property of the company has been disposed of, and thereupon shall call a general meeting of the company and a meeting of the creditors for the purpose of laying the account before the meetings and giving [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-any explanations thereof.
-
-*62*
+(1) As soon as the affairs of the company are fully wound up, the liquidator shall make an account of the winding up, showing how the winding up has been conducted and how the property of the company has been disposed of, and thereupon shall call a general meeting of the company and a meeting of the creditors for the purpose of laying the account before the meetings and giving any explanations thereof.
 
 (2) Within seven days after the date of the meetings or, if the meetings are not held on the same date, after the date of the later meeting, the liquidator shall send to the Registrar a copy of the account, and shall make a return to him of the holding of the meetings and of their dates; and if the copy is not sent or the return is not made in accordance with this paragraph the liquidator shall be liable to a penalty, and, for every day during which the default continues, to a further penalty:
 
@@ -2156,11 +1908,7 @@ Chapter IV - Provisions applicable to every voluntary winding up.
 
 (2) The liquidator may -
 
-(a) in the case of a members’ voluntary winding up, with (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
-the sanction of an extraordinary resolution of the company, and, in the case of a creditors’ voluntary winding up, with the sanction of the court or of the liquidation committee or, if there is no such committee, of a meeting of the creditors, exercise any of the powers given by regulation 110(1)(c), (d) and (e) to a liquidator in a winding up by the court;
-
-*63*
+(a) in the case of a members’ voluntary winding up, with the sanction of an extraordinary resolution of the company, and, in the case of a creditors’ voluntary winding up, with the sanction of the court or of the liquidation committee or, if there is no such committee, of a meeting of the creditors, exercise any of the powers given by regulation 110(1)(c), (d) and (e) to a liquidator in a winding up by the court;
 
 (b) without sanction, exercise any of the other powers given by these regulations to a liquidator in a winding up by the court;
 
@@ -2184,11 +1932,7 @@ the sanction of an extraordinary resolution of the company, and, in the case of 
 
 (3) The court, if satisfied that the determination of the question or the required exercise of power referred to in subregulation (1) will be just and beneficial, may, but subject to the limitations under article 37C of the Act, accede wholly or partially to the application on such terms and conditions as it thinks fit or may make such other order on the application as it so determines.
 
-(4) A copy of any order made by virtue of this regulation staying the proceedings in the winding up shall forthwith be forwarded by the Registrar of Courts to the Registrar who shall make a minute of the order in the register relating to the company. [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-SUB-PART III - PROVISIONS APPLICABLE TO EVERY MODE OF WINDING UP
-
-*64*
+(4) A copy of any order made by virtue of this regulation staying the proceedings in the winding up shall forthwith be forwarded by the Registrar of Courts to the Registrar who shall make a minute of the order in the register relating to the company. SUB-PART III - PROVISIONS APPLICABLE TO EVERY MODE OF WINDING UP
 
 ### Chapter I - General Provisions
 
@@ -2224,10 +1968,6 @@ On the appointment of a liquidator, all the powers of the directors shall cease 
 
 (3) A copy of every resolution of a meeting of creditors in a winding up by the court shall be certified by the liquidator, and filed in the Registry of the Superior Courts.
 
-*65*
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
 (4) Where a resolution is passed at an adjourned meeting of any creditors of a company, the resolution shall, for all purposes, be treated as having been passed on the date on which it was in fact passed, and shall not be deemed to have been passed at any earlier date.
 
 ##### 156. Other proceedings at meetings.
@@ -2259,10 +1999,6 @@ Provided that where there are present in a creditors’ meeting at least three c
 (2) Where a liquidator is removed from office by the court in accordance with the provisions of this Part, the Registrar of Courts shall forthwith deliver a notice of such removal to the Registrar for registration.
 
 (3) Where a liquidator has been removed by an extraordinary resolution of the company in a members’ voluntary winding up, a notice thereof shall be delivered to the Registrar for registration by any member of the company who has duly been authorised by the same resolution or by the company in general meeting.
-
-*66*
-
-[S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
 
 (4) Where a liquidator has been removed by a resolution of the creditors in terms of regulation 155, in a creditors’ voluntary winding up, a notice thereof shall be delivered to the Registrar for registration by any creditor of the company who has been duly authorised by the same resolution or by the creditors’ meeting.
 
@@ -2298,10 +2034,6 @@ The provisions of the Commercial Code on bankruptcy shall not apply to shipping 
 
 Articles 327 to 329 in Part VI and Part VII to Part IX of the Companies Act shall apply mutatis mutandis to these Regulations provided that Article 344 (3) of the Companies Act, shall be construed to require that the draft terms of merger, duly completed, shall be signed by at least two directors unless the Board of directors is composed of one in which case it will be signed by that director.
 
-*67*
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
 ## PART VI A — CONTINUATION OF COMPANIES
 
 #### SUB-PART I - Continuation in Malta of a Foreign Company
@@ -2322,11 +2054,7 @@ A request by a foreign company for registration as being continued in Malta shal
 
 (c) a certificate of good standing or equivalent document in respect of the foreign company issued by the competent authority in which the foreign company was formed and incorporated or registered or other evidence to the satisfaction of the Registrar that the foreign company is in compliance with the registration requirements of that authority, and, if the instrument is not written in the English language, a translation thereof in the English language, certified to be a correct translation in such manner as may be prescribed;
 
-(d) a declaration signed by at least two directors of the foreign company, unless the Board of Directors is composed of one, or, where that foreign company does not have directors, (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-by at least two persons vested with the administration or the representation of the foreign company to be registered as continued in Malta, confirming:
-
-*[S.L. 234.42 68*
+(d) a declaration signed by at least two directors of the foreign company, unless the Board of Directors is composed of one, or, where that foreign company does not have directors, by at least two persons vested with the administration or the representation of the foreign company to be registered as continued in Malta, confirming:
 
 (i) the name of the foreign company and the name under which it is being continued;
 
@@ -2346,11 +2074,7 @@ Provided that any director of the foreign company, or the persons vested with th
 
 (e) a list of directors of the foreign company as well as of the company secretary, if any, or of the persons vested with the administration or the representation of the foreign company, where that foreign company does not have directors or a company secretary;
 
-(f) such material as the Registrar may require to (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
-satisfy himself that -
-
-*69*
+(f) such material as the Registrar may require to satisfy himself that -
 
 (i) such request is permitted by the laws of the country or jurisdiction in which the foreign company has been formed and incorporated or registered; and
 
@@ -2380,10 +2104,6 @@ With effect from the date of the Provisional Certificate of Continuation issued 
 
 (i) to create a new legal entity;
 
-*70*
-
-[S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
 (ii) to prejudice or affect the continuity of the company;
 
 (iii) to affect the property of the company and such company shall retain all its assets, rights, liabilities and obligations;
@@ -2406,11 +2126,7 @@ Provided that failure to deliver notice of the pledge to the Registrar or the co
 
 (2) A pledge of shares as mentioned in sub-regulation (1):
 
-(a) shall continue to be regulated by the law chosen by the parties and such law shall apply to all the rights, including rights of enforcement thereof, and obligations of the parties thereto, except to the extent (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
-the pledge is enforced in Malta in which case the relevant provisions of regulation 37 shall apply;
-
-*71*
+(a) shall continue to be regulated by the law chosen by the parties and such law shall apply to all the rights, including rights of enforcement thereof, and obligations of the parties thereto, except to the extent the pledge is enforced in Malta in which case the relevant provisions of regulation 37 shall apply;
 
 (b) shall continue to be subject to any submission made by the parties to the jurisdiction of any foreign court or arbitration which submission shall be valid and effective and shall remain fully in force.
 
@@ -2440,10 +2156,6 @@ No request for the registration of a foreign company as being continued in Malta
 
 (c) there is any scheme or order in relation thereto whereby the rights of creditors are suspended or restricted;
 
-*72*
-
-[S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
 (d) any proceedings for breach of laws of the country or jurisdiction of incorporation have been commenced against such foreign company, not being proceedings arising out of an event which on the date of the occurrence thereof did not constitute such a breach.
 
 SUB-PART II - Continuation outside Malta of companies incorporated in Malta
@@ -2470,11 +2182,7 @@ No company may request the Registrar for his consent under regulation 164J unles
 
 (b) (i) the company has delivered to the Registrar for registration a declaration signed by at least two directors of the company, unless the Board of Directors is composed of one, confirming the solvency of the company and confirming that the directors are not aware of any circumstances which could negatively affect in a material manner the solvency position of the company within a period of twelve months;
 
-(ii) any director of a company making a (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
-declaration of solvency under sub-paragraph (b) (i) without having any reasonable grounds on which to make this declaration shall be guilty of an offence and liable on conviction to a fine (multa) of not more than fifty thousand euro (€50,000);
-
-*73*
+(ii) any director of a company making a declaration of solvency under sub-paragraph (b) (i) without having any reasonable grounds on which to make this declaration shall be guilty of an offence and liable on conviction to a fine (multa) of not more than fifty thousand euro (€50,000);
 
 (c) payment has been made of all fees and penalties due under these regulations or any other law or regulations which may be applicable; and
 
@@ -2502,11 +2210,7 @@ Provided that the Registrar may in his discretion give his consent if payment of
 
 ##### 164N. Removal from register.
 
-Upon an instrument of continuation continuing the company in another country or jurisdiction being issued by the relevant authority of the said country or jurisdiction, the company shall forthwith deliver to the Registrar a copy of the instrument of [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-continuation and the company shall be deemed to have ceased to be a company incorporated in Malta from the date when its continuation in that other country or jurisdiction takes effect, and the Registrar shall strike the name of the company off the register:
-
-*74*
+Upon an instrument of continuation continuing the company in another country or jurisdiction being issued by the relevant authority of the said country or jurisdiction, the company shall forthwith deliver to the Registrar a copy of the instrument of continuation and the company shall be deemed to have ceased to be a company incorporated in Malta from the date when its continuation in that other country or jurisdiction takes effect, and the Registrar shall strike the name of the company off the register:
 
 Provided that nothing in this regulation shall -
 
@@ -2534,10 +2238,6 @@ Provided that nothing in this regulation shall -
 
 (i) any document is required to be delivered or given to or served on him for registration; or (ii) any certificate is issued by him on the registration or change of name or conversion or amalgamation or division of a company, or the name of a company is struck off the register, (iii) to cause without delay a statement to be published in the Gazette or on a website maintained by the Registrar showing the date at which the registration, delivery or service was made, or at which the certificate was issued or at which the name of the company was struck off the register, and the general nature of the document or certificate, and giving such particulars as are necessary to distinguish the company to which the statement related:
 
-*75*
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
 Provided that the Registrar shall additionally be required to publish without delay in a daily newspaper circulating wholly or mainly in Malta a notice showing substantially the same information contained in the statement published in the Gazette or on the website, consequent to the registration referred to in the following provisions of these regulations:
 
 Sub-regulation (1) of regulation 106;
@@ -2558,11 +2258,7 @@ The publication of the notice referred to in this proviso shall be subject to th
 
 (b) to supply copies, certified copies or verified and certified copies of documents registered pursuant to this regulation against payment of the prescribed fee to any person who requests them, and such copies may also be supplied by electronic means;
 
-(c) to deliver to the Director of the Public Registry for registration at the Public Registry Office a notice containing the particulars of any conversion, amalgamation or division which has taken effect in [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-accordance with Part VI, or the striking off of the name of a company, under the provisions of regulation 98. Such notice shall show substantially the same particulars as the statement published in the Gazette or on the website maintained by the Registrar pursuant to the proviso to this regulation; and it shall be the duty of the Director of the Public Registry to register the notice or a note thereof in like manner as notes of reference, in so far as applicable, as the Director may consider appropriate.
-
-*76*
+(c) to deliver to the Director of the Public Registry for registration at the Public Registry Office a notice containing the particulars of any conversion, amalgamation or division which has taken effect in accordance with Part VI, or the striking off of the name of a company, under the provisions of regulation 98. Such notice shall show substantially the same particulars as the statement published in the Gazette or on the website maintained by the Registrar pursuant to the proviso to this regulation; and it shall be the duty of the Director of the Public Registry to register the notice or a note thereof in like manner as notes of reference, in so far as applicable, as the Director may consider appropriate.
 
 (3) Any document, certificate or other particular required to be delivered, given to or served on the Registrar for registration may be relied on by the company as against third parties only after it has been duly published in accordance with sub-regulation (2), unless the company proves that third parties had knowledge thereof in which case the company may rely on any such document, certificate or other particular notwithstanding that it has not yet been so published. Any transactions taking place before the sixteenth day following the publication of any such document, certificate or other particular, shall not be relied on as against third parties who prove that it was not possible for them to have had knowledge thereof:
 
@@ -2578,11 +2274,7 @@ Provided further that where these regulations require that any provision shall n
 
 (6) Where any person desires to institute proceedings objecting to a penalty referred to in sub-regulation (4), such proceedings shall be instituted by application against the Registrar.
 
-(7) The application shall, under pain of nullity, state clearly (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
-and concisely the nature of the complaint, the facts out of which the complaint arises, the reasons why such complaint should be upheld, and the claim that the penalty is not due at law or is due at law only in a smaller amount.
-
-*77*
+(7) The application shall, under pain of nullity, state clearly and concisely the nature of the complaint, the facts out of which the complaint arises, the reasons why such complaint should be upheld, and the claim that the penalty is not due at law or is due at law only in a smaller amount.
 
 (8) The court shall not annul or reduce a penalty as aforesaid unless such penalty cannot at law be imposed in the circumstances of the case, or cannot at law be fixed in the amount fixed by the Registrar.
 
@@ -2606,11 +2298,7 @@ and concisely the nature of the complaint, the facts out of which the complaint 
 
 (16) Notwithstanding the provisions of sub-article (2) of article 256 of the Code of Organization and Civil Procedure, the executive title referred to in sub-regulation (5) shall not be enforceable before the lapse of thirty days from the service of the judicial act therein referred to.
 
-(17) The decision of the court upon an application referred to in sub-regulation (6), confirming the imposition of a penalty fixed by the Registrar or reducing any such penalty, shall upon becoming res [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-judicata be deemed to be a judgment of the court ordering the payment by the applicant of the penalty as confirmed or reduced.
-
-*78*
+(17) The decision of the court upon an application referred to in sub-regulation (6), confirming the imposition of a penalty fixed by the Registrar or reducing any such penalty, shall upon becoming res judicata be deemed to be a judgment of the court ordering the payment by the applicant of the penalty as confirmed or reduced.
 
 (18) An appeal from a decision of the court upon an application referred to in sub-regulation (6), shall be made by means of an application to the Court of Appeal to be filed within six working days of the date of the decision; the person against whom the appeal is entered shall within six working days from the service upon him of the application file a reply to the appeal.
 
@@ -2648,10 +2336,6 @@ The fees prescribed in the Companies Act (Fees) Regulations shall apply mutatis 
 
 *Cap. 168.*
 
-*79*
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
 (ii) within a period of five years from such date take such action as is necessary to align the memorandum and articles of association of the company with the requirements of these regulations and for such purpose a resolution of the board of directors or the sole director, as the case may be, shall be sufficient.
 
 (3) The provisions of regulation 37 relating to pledge of securities issued by a shipping company shall apply to all pledges done after the coming into force of these regulations.
@@ -2676,10 +2360,6 @@ Provided that -
 
 (1) The dissolution of a shipping company occurring before the date of these regulations shall continue to be administered in accordance with the provisions of the Commercial Partnerships Ordinance and the consequential winding up of such a company shall be regulated accordingly unless the liquidator of the company elects, by notice in writing to the Registrar, that the dissolution and winding up be governed by these regulations.
 
-*80*
-
-[S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
 (2) In relation to a shipping company, bankruptcy proceedings commenced before the date of these regulations shall, after the appointed day, continue to be governed by the provisions of Part III of the Commercial Code relating to bankruptcy.
 
 *Cap. 13.*
@@ -2687,8 +2367,6 @@ Provided that -
 ##### 170. Transitory provisions as to public companies formed under the Commercial Partnerships Ordinance. Cap. 168. Cap. 386.
 
 A shipping company formed and registered as a public company in terms of the Commercial Partnerships Ordinance shall be governed by the Companies Act from the date on which these regulations come into force and shall comply with the Companies Act within six months from the date of these regulations.
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42 81
 
 Amended by: FIRST SCHEDULE
 
@@ -2714,9 +2392,7 @@ Calls on shares
 
 \6. The directors may from time to time make calls upon the members in respect of any moneys unpaid on their shares. A call may be revoked, modified or postponed as the directors may determine. Any member shall be entitled to at least 7 days’ notice.
 
-\7. The joint holders of a share shall be jointly and severally liable to pay all 82 [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-calls in respect thereof.
+\7. The joint holders of a share shall be jointly and severally liable to pay all calls in respect thereof.
 
 \8. If a sum called in respect of a share is not paid before or on the date appointed for payment thereof, the person from whom the sum is due shall pay interest thereon from the day appointed for payment thereof to the time of actual payment at such rate not exceeding eight per cent per annum as the directors may determine, but the directors shall be at liberty to waive payment of such interest wholly or in part.
 
@@ -2742,9 +2418,7 @@ Transfer and transmission of shares
 
 \16. The registration of transfers may be suspended at such times and for such periods as the directors may from time to time determine, provided always that such registration shall not be suspended for more than thirty days in any year.
 
-\17. Any person becoming entitled to a share in consequence of the death of a member may, upon such evidence being produced as may from time to time properly be required by the directors and subject as hereinafter provided, elect either to be registered himself as holder of the share or to have some person nominated by him registered as the transferee thereof, but the directors shall, in either case, have the (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42 83
-
-same right to decline or suspend registration as they would have had in the case of a transfer of the share by that member before his death.
+\17. Any person becoming entitled to a share in consequence of the death of a member may, upon such evidence being produced as may from time to time properly be required by the directors and subject as hereinafter provided, elect either to be registered himself as holder of the share or to have some person nominated by him registered as the transferee thereof, but the directors shall, in either case, have the same right to decline or suspend registration as they would have had in the case of a transfer of the share by that member before his death.
 
 \18. If the person so becoming entitled shall elect to be registered himself, he shall deliver or send to the company a notice in writing signed by him stating that he so elects. If he shall elect to have another person registered he shall testify his election by executing to that person a transfer of the share.
 
@@ -2770,8 +2444,6 @@ Failure to pay upon call
 
 \23. Where a member fails to pay up such part of any share after a call has been made to this effect such member shall be liable to the company and the company may sue the member for the collection of a civil debt.
 
-84 [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
 General meetings
 
 \24. Subject to the provisions of the 2004 Regulations, the annual general meetings shall be held at such time and place as the directors shall appoint.
@@ -2796,9 +2468,7 @@ Proceedings at general meetings
 
 \31. If at any meeting no director is willing to act as chairman or if no director is present within fifteen minutes after the time appointed for holding the meeting, or is unwilling to act, the directors present shall elect one of their number to be chairman of the meeting.
 
-\32. The chairman may, with the consent of any meeting at which a quorum is present (and shall if so directed by the meeting), adjourn the meeting from time to time and from place to place, but no business shall be transacted at any adjourned meeting other than the business left unfinished at the meeting from which the (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42 85
-
-adjournment took place. When a meeting is adjourned for thirty days or more, notice of the adjourned meeting shall be given as in the case of an original meeting. Save as aforesaid it shall not be necessary to give any notice of an adjourned meeting or of the business to be transacted at such meeting.
+\32. The chairman may, with the consent of any meeting at which a quorum is present (and shall if so directed by the meeting), adjourn the meeting from time to time and from place to place, but no business shall be transacted at any adjourned meeting other than the business left unfinished at the meeting from which the adjournment took place. When a meeting is adjourned for thirty days or more, notice of the adjourned meeting shall be given as in the case of an original meeting. Save as aforesaid it shall not be necessary to give any notice of an adjourned meeting or of the business to be transacted at such meeting.
 
 \33. At any general meeting a resolution put to the vote of the meeting shall be approved by more than 50% of the voting rights in the company unless a higher majority is required by the memorandum and articles.
 
@@ -2824,9 +2494,7 @@ of .............................................................................
 
 Signed this ................ day of ............................ 20.......
 
-This form is to be used in favour of/against\* the resolution. Unless otherwise 86 [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-instructed, the proxy will vote as he thinks fit.".
+This form is to be used in favour of/against\* the resolution. Unless otherwise instructed, the proxy will vote as he thinks fit.".
 
 \*Strike out whichever is not desired.
 
@@ -2854,8 +2522,6 @@ Proceedings of directors
 
 \46. The directors may meet together for the despatch of business, adjourn and otherwise regulate their meetings, as they think fit. Questions arising at any meeting shall be decided by a majority of votes. In case of an equality of votes, the chairman shall have a second or casting vote. A director may at any time summon a meeting of the directors. It shall not be necessary to give notice of a meeting of directors to any director for the time being absent from Malta.
 
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42 87
-
 \47. The continuing directors may act notwithstanding any vacancy in their body, but, if and so long as their number is reduced below the number fixed by or pursuant to the regulations of the company as the necessary quorum of directors, the continuing directors or director may act for the purpose of increasing the number of directors to that number, or of summoning a general meeting of the company, but for no other purpose.
 
 \48. The directors may elect a chairman of their meetings and determine the period for which he is to hold office; but if no such chairman is elected, or if at any meeting the chairman is not present within five minutes after the time appointed for holding the same, the directors present may choose one of their number to be chairman of the meeting.
@@ -2881,8 +2547,6 @@ Dividends and reserve
 \55. Subject to the rights of persons, if any, entitled to shares with special rights as to dividend, all dividends shall be declared and paid according to the amounts paid or credited as paid on a share in advance of calls shall be treated for the purposes of this regulation as paid on the share. All dividends shall be apportioned and paid proportionately to the amounts paid or credited as paid on the shares during any portion or portions of the period in respect of which the dividend is paid; but if any share is issued on terms providing that it shall rank for dividend as from a particular date such share shall rank for dividend accordingly.
 
 \56. The directors may deduct from any dividend payable to any member all sums of money, if any, presently payable by him to the company on account of calls or otherwise in relation to the shares of the company.
-
-88 [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
 
 \57. No dividend shall bear interest against the company.
 
@@ -2912,9 +2576,7 @@ Indemnity
 
 (b) the single member minutes shall be recorded in the minute book in terms of regulation 63 of the 2004 regulations.
 
-\3. Regulations 24 to 39 of these Model Regulations both inclusive shall not (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42 89
-
-apply.
+\3. Regulations 24 to 39 of these Model Regulations both inclusive shall not apply.
 
 ## SECOND SCHEDULE
 
@@ -2944,9 +2606,7 @@ Company No: ........................
 
 **CONTENTS AND FORM OF ANNUAL RETURN**
 
-ANNUAL RETURN of ......................................................................................... ........................................................................................ (name of the company) 90 [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-Date to which this return is made up: ......................................
+ANNUAL RETURN of ......................................................................................... ........................................................................................ (name of the company) Date to which this return is made up: ......................................
 
 (being the anniversary of the company’s date of registration)
 
@@ -2984,11 +2644,7 @@ Nominal Share Capital € ......................................................
 
 Number Class
 
-Number of shares of each class ....................... ...................... shares taken up to the date of this return ....................... ...................... shares (which number must agree with the ....................... ...................... shares total shown on the list as held by ....................... ...................... shares existing members). ....................... ...................... shares (SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
-
-Number of shares of each class issued as paid up to the extent of .............. issued as partly paid up and extent per share .................... ................... shares to which each such share is so paid issued as paid up to the extent of .............. up. per share .................... ................... shares issued as paid up to the extent of .............. per share .................... ................... shares issued as paid up to the extent of .............. per share .................... ................... shares
-
-*91*
+Number of shares of each class ....................... ...................... shares taken up to the date of this return ....................... ...................... shares (which number must agree with the ....................... ...................... shares total shown on the list as held by ....................... ...................... shares existing members). ....................... ...................... shares Number of shares of each class issued as paid up to the extent of .............. issued as partly paid up and extent per share .................... ................... shares to which each such share is so paid issued as paid up to the extent of .............. up. per share .................... ................... shares issued as paid up to the extent of .............. per share .................... ................... shares issued as paid up to the extent of .............. per share .................... ................... shares
 
 Number of shares of each class ....................... ...................... shares issued as fully paid up for a ....................... ...................... shares consideration other than cash. ....................... ...................... shares ....................... ...................... shares ....................... ...................... shares
 
@@ -2999,8 +2655,6 @@ Total number of shares of each Number Class class forfeited. ...................
 Total amount paid, if any, on
 
 shares forfeited. ........... .............. .........................................
-
-92 [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
 
 ##### 3.
 
@@ -3052,8 +2706,6 @@ or transfer
 
 (a) (b)
 
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42 93
-
 ##### 3.
 
 List of Past and Present Members (cont. sheet)
@@ -3064,15 +2716,15 @@ List of Past and Present Members (cont. sheet)
 
 \*\* The date of registration of each transfer or transmission causa mortis shall be given as well as the number of shares transferred or transmitted causa mortis on each date. The particulars shall be placed opposite the name of the transferor and not opposite that of the transferee, but the name of the transferee may be inserted in the "Remarks" column immediately opposite the particulars of each transfer. (The word "transferor" shall mean the deceased and the word "transferee" shall mean the heir or legatee, in the case of transmission causa mortis).
 
-94 [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
 ##### 4.
 
 Particulars of Directors
 
 Particulars of the persons who are directors of the company at the date of this return.
 
-Name Nationality Usual residential address
+*Name*
+
+Nationality Usual residential address
 
 (in the case of an individual, (in the case of a body
 
@@ -3081,8 +2733,6 @@ name or names and surname. corporate, its registered office) In the case of a bo
 rate, the corporate name)
 
 Signed …………………………… Director/Secretary/Representative
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42 95
 
 ## SIXTH SCHEDULE
 
@@ -3138,9 +2788,7 @@ Rights which are exercisable only in certain circumstances shall be taken into a
 
 (a) when the circumstances have arisen, and for so long as they continue to exist; or
 
-(b) when the circumstances are within the control of the person having the 96 [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-rights.
+(b) when the circumstances are within the control of the person having the rights.
 
 ##### 8.
 
@@ -3182,8 +2830,6 @@ Disregard of certain rights
 
 The voting rights in an undertaking shall be reduced by any rights held by the undertaking itself.
 
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42 97
-
 Amended by: SEVENTH SCHEDULE
 
 L.N. 31 of 2020. FORM S
@@ -3216,8 +2862,6 @@ This form must be completed in typed form.
 
 \* Delete as necessary
 
-98 [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
 **Form B**
 
 No. of Company .............................
@@ -3243,8 +2887,6 @@ This form must be completed in typed form.
 (a) State company name.
 
 \* Delete as necessary
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42 99
 
 **Form C**
 
@@ -3300,15 +2942,15 @@ Consideration for which the shares have been
 
 allotted
 
-100 [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
+*C.*
 
-C. This section must be completed in all cases
+This section must be completed in all cases
 
 Names and Addresses of the allottees Number of shares allotted
 
 Ordinary Preference Others
 
-**TOTAL**
+TOTAL
 
 Signature ............................................... Director/Secretary/Representative\*
 
@@ -3318,11 +2960,11 @@ Dated this .......................... day of ...................... of the year 
 
 This form must be completed in typed form.
 
-(a) To be delivered within one month.
+*(a) \**
 
-\* Delete as necessary
+To be delivered within one month.
 
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42 101
+Delete as necessary
 
 **Form D**
 
@@ -3345,8 +2987,6 @@ Dated this .......................... day of ...................... of the year 
 This form must be completed in typed form.
 
 \* Delete as necessary
-
-102 [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
 
 **Form E**
 
@@ -3384,8 +3024,6 @@ This form must be completed in typed form.
 
 \* Delete as necessary.
 
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42 103
-
 **Form F**
 
 No. of Company ...............................
@@ -3415,8 +3053,6 @@ This form must be completed in typed form.
 (b) State number of shares.
 
 \* Delete as necessary.
-
-104 [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
 
 **Form G**
 
@@ -3450,8 +3086,6 @@ This form must be completed in typed form.
 
 \* Delete as necessary.
 
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42 105
-
 **Form H**
 
 No. of Company ...............................
@@ -3479,8 +3113,6 @@ Dated this .......................... day of ...................... of the year 
 -------------------------------------------------------------------------------------------------
 
 This form must be completed in typed form.
-
-106 [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
 
 **Form I**
 
@@ -3512,8 +3144,6 @@ This form must be completed in typed form.
 
 \* Delete as necessary
 
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42 107
-
 **Form J**
 
 No. of Company ...............................
@@ -3539,8 +3169,6 @@ This form must be completed in typed form.
 (a) State company name.
 
 \* Delete as necessary.
-
-108 [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
 
 **Form K**
 
@@ -3568,8 +3196,6 @@ This form must be completed in typed form.
 
 \* Delete as necessary
 
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42 109
-
 **Form L**
 
 No. of Company ...............................
@@ -3593,8 +3219,6 @@ This form must be completed in typed form.
 (a) State company name.
 
 \* Delete as necessary
-
-110 [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
 
 **Form M**
 
@@ -3620,8 +3244,6 @@ This form must be completed in typed form.
 
 \* Delete as necessary
 
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42 111
-
 **Form N**
 
 No. of Company ...............................
@@ -3643,8 +3265,6 @@ Dated this .......................... day of ...................... of the year 
 This form must be completed in typed form.
 
 (a) State company name.
-
-112 [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
 
 **Form O**
 
@@ -3678,8 +3298,6 @@ This form must be completed in typed form.
 
 (c) State name of bank.
 
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42 113
-
 **Form P**
 
 No. of Company .................................
@@ -3709,8 +3327,6 @@ Dated this .......................... day of ...................... of the year 
 This form must be completed in typed form.
 
 (a) To be signed by each liquidator, if more than one.
-
-114 [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
 
 Substituted by: Form Q
 
@@ -3749,8 +3365,6 @@ Dated this ……………......…….. day of …………………...........
 This form must be completed in typed form.
 
 (a) State company name.
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42 115
 
 **Form R**
 
@@ -3792,8 +3406,6 @@ This form must be completed in typed form.
 
 (c) State company name.
 
-116 [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
 **Form S**
 
 No. of Company .............................
@@ -3817,8 +3429,6 @@ This form must be completed in typed form.
 (a) State company name.
 
 \* Delete as necessary.
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42 117
 
 **Form T**
 
@@ -3846,8 +3456,6 @@ This form must be completed in typed form.
 
 (a) State company name.
 
-118 [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
 **Form U**
 
 No. of Company ...............................
@@ -3869,8 +3477,6 @@ Dated this …………………..day of…………………of the year ……�
 This form must be completed in typed form.
 
 (a) State company name.
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42 119
 
 Added by: FORM V
 
@@ -3907,8 +3513,6 @@ This form must be completed in typed form.
 (a) State company name.
 
 \*Delete as necessary.
-
-120 [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
 
 ## EIGHTH SCHEDULE
 
@@ -3952,8 +3556,6 @@ On a change in the reporting currency, the new reporting currency shall become a
 
 Conversion rules
 
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42 121
-
 ##### 4.
 
 (1) The paid-up share capital and the balance on the share premium account shall be converted at the exchange rate or rates applicable on the respective date or dates when the shares in question were issued by the company.
@@ -3988,9 +3590,7 @@ the conversion of the nominal value per share to the new reporting currency shal
 
 (4) Where at the date of conversion there is an amount representing accumulated losses such amount shall be converted at the average annual exchange rate for the accounting period or periods during which such losses were incurred.
 
-(5) For the purposes of sub-paragraph (4) above, any profits earned during any accounting period shall not be netted off against losses incurred in other accounting 122 [S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
-periods, but shall be converted at the average annual exchange rate for the accounting period or periods during which such profits were earned.
+(5) For the purposes of sub-paragraph (4) above, any profits earned during any accounting period shall not be netted off against losses incurred in other accounting periods, but shall be converted at the average annual exchange rate for the accounting period or periods during which such profits were earned.
 
 (6) Reserves which were not created out of profits shall be converted at the exchange rate or rates applicable on the date or dates when such reserves were created.
 
@@ -4024,8 +3624,6 @@ Disclosure
 
 In the first annual accounts following the conversion, the notes to the accounts, whether individual or consolidated, shall include full details of the method of conversion and the exchange rates used for each category of assets and liabilities as categorised in this Schedule.
 
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42 123
-
 ## NINTH SCHEDULE
 
 (Regulation 1(4)(a))
@@ -4049,10 +3647,6 @@ This form must be completed in typed form.
 (a) State company name.
 
 \* Delete as necessary.
-
-*124*
-
-[S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
 
 ## TENTH SCHEDULE
 
@@ -4157,10 +3751,6 @@ Failure of officers to comply 500 euro 25 euro
 with provisions as to issue of
 
 share certificates
-
-*125*
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
 
 **Regulation Default Penalty**
 
@@ -4282,10 +3872,6 @@ give notice to Registrar of
 
 resignation of auditor
 
-*126*
-
-[S.L. 234.42 (SHIPPING ORGANISATIONS - PRIVATE COMPANIES)
-
 Daily
 
 *Regulation*
@@ -4401,10 +3987,6 @@ winding up
 Failure of directors to apply to 2,500 euro 50 euro
 
 the court to appoint liquidator
-
-*127*
-
-(SHIPPING ORGANISATIONS - PRIVATE COMPANIES) [S.L. 234.42
 
 **Regulation Default Penalty**
 

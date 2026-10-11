@@ -1,6 +1,6 @@
 ---
 title: "Service of Summons by Electronic Mail Regulations"
-identifier: "S.L. 291.7"
+identifier: "S.L. 291.07"
 eli: "https://legislation.mt/eli/sl/291.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/291.7/20230804/eng"
 retrieved: 2026-10-12
 ---
 
-# Service of Summons by Electronic Mail Regulations (S.L. 291.7)
+# Service of Summons by Electronic Mail Regulations (S.L. 291.07)
 
 **SUBSIDIARY LEGISLATION 291.07**
 

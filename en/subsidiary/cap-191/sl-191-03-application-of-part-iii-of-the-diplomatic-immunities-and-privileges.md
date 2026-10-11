@@ -1,6 +1,6 @@
 ---
 title: "Application of Part III of the Diplomatic Immunities and Privileges Act (International Organisation for Migration - IOM Malta) Order"
-identifier: "S.L. 191.3"
+identifier: "S.L. 191.03"
 eli: "https://legislation.mt/eli/sl/191.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,15 +13,7 @@ version: "https://legislation.mt/eli/sl/191.3/20120105/eng"
 retrieved: 2026-10-12
 ---
 
-# Application of Part III of the Diplomatic Immunities and Privileges Act (International Organisation for Migration - IOM Malta) Order (S.L. 191.3)
-
-APPLICATION OF PART III OF THE DIPLOMATIC
-
-IMMUNITIES AND PRIVILEGES ACT (INTERNATIONAL
-
-*1*
-
-ORGANISATION FOR MIGRATION - IOM MALTA) [S.L.191.03
+# Application of Part III of the Diplomatic Immunities and Privileges Act (International Organisation for Migration - IOM Malta) Order (S.L. 191.03)
 
 **SUBSIDIARY LEGISLATION 191.03**
 

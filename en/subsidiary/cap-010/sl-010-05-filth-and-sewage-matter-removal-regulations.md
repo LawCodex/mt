@@ -1,6 +1,6 @@
 ---
 title: "Filth and Sewage Matter (Removal) Regulations"
-identifier: "S.L. 10.5"
+identifier: "S.L. 10.05"
 eli: "https://legislation.mt/eli/sl/10.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/10.5/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Filth and Sewage Matter (Removal) Regulations (S.L. 10.5)
+# Filth and Sewage Matter (Removal) Regulations (S.L. 10.05)
 
 **SUBSIDIARY LEGISLATION 10.05**
 

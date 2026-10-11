@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts under the auspices of the Faculty of Arts (S.L. 327.175)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF ARTS [S.L.327.175
-
 **SUBSIDIARY LEGISLATION 327.175**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -62,11 +58,11 @@ These bye-laws shall be applicable for courses commencing in October 2018 or lat
 
 The course shall be offered in any area of study that falls within the academic responsibility of the Board, after approval by Senate.
 
-*2*
+## 4. Requirements for admission.
 
-[S.L.327.175 UNDER THE AUSPICES OF THE FACULTY OF ARTS 4. (1) Subject to the conditions laid down in bye-law 5, the Course shall be open to applicants in possession of one of the following qualifications:
+*Amended by: L.N. 304 of 2010.*
 
-*Requirements for admission. Amended by: L.N. 304 of 2010.*
+(1) Subject to the conditions laid down in bye-law 5, the Course shall be open to applicants in possession of one of the following qualifications:
 
 *Substituted by: L.N. 49 of 2013. Amended by: L.N. 208 of 2013; L.N. 314 of 2014; L.N. 343 of 2014; L.N. 271 of 2015; L.N. 349 of 2015; L.N. 23 of 2016; L.N. 200 of 2016; L.N. 235 of 2017; L.N. 78 of 2018; L.N. 375 of 2018.*
 
@@ -84,11 +80,7 @@ The course shall be offered in any area of study that falls within the academic 
 
 (5) The Admissions Board may admit into the area of study ‘Film Studies’ up to two applicants not in possession of a first cycle degree, if it is satisfied that such applicants are in possession of professional qualifications or experience closely related to the area of study, which in the judgement of the interviewing board enable such applicants to follow the course with profit. The admission of such applicants shall not be subject to the selection criteria approved by Senate in terms of these bye-laws. If there are more than two such applicants, selection shall be based on the length of the relevant experience or the quality of relevant output.
 
-(6) Depending on the availability of resources, the Board shall determine the number of applicants that may be allowed to register in particular areas of study. For areas where student enrolment is UNDER THE AUSPICES OF THE FACULTY OF ARTS [S.L.327.175
-
-limited, the Board shall announce the number of available places, and the criteria for selection of applicants at the time of the call for applications.
-
-*3*
+(6) Depending on the availability of resources, the Board shall determine the number of applicants that may be allowed to register in particular areas of study. For areas where student enrolment is limited, the Board shall announce the number of available places, and the criteria for selection of applicants at the time of the call for applications.
 
 (7) For the purpose of selection, applicants whose qualifications, as stipulated in paragraph (1) of this bye-law were obtained by 31 August preceding the commencement of the course shall be considered first.
 
@@ -121,10 +113,6 @@ The programme of study shall comprise study-units to which a total of 90 credits
 (b) Students who obtain the 60 credits assigned to the taught study-units with an average mark of at least 50% and do not proceed with the Course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of a Postgraduate Diploma in the relevant area of study. (c) Students who obtain 30 credits assigned to the taught study-units and do not proceed with the course, shall be eligible for the award of a Postgraduate Certificate in the relevant area of study.
 
 (3) Mainly research programmes of study shall comprise taught study-units to which 10 credits are assigned and a dissertation study-unit to which 80 credits are assigned.
-
-*4*
-
-[S.L.327.175 UNDER THE AUSPICES OF THE FACULTY OF ARTS
 
 (4) In cases where applicants lack essential knowledge in the area of research methodology, the Board may require students admitted to the Course to follow and pass supplementary study-unit/s in the said area to which a maximum of 10 credits are assigned in addition to the programme of study specified in bye-law 7.
 
@@ -159,10 +147,6 @@ The programme of study shall comprise study-units to which a total of 90 credits
 provided that in cases where a project and a dissertation are required, the dissertation shall be of between 20,000 and 25,000 words.
 
 (2) Work on the dissertation may be undertaken at any time during the course after approval of the proposal. Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
-
-*5*
-
-UNDER THE AUSPICES OF THE FACULTY OF ARTS [S.L.327.175
 
 (3) A provisional title for the dissertation and a detailed research proposal shall be submitted to the Board for approval at the time of application.
 

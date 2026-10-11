@@ -1,6 +1,6 @@
 ---
 title: "Indemnity Insurance Regulations"
-identifier: "S.L. 321.3"
+identifier: "S.L. 321.03"
 eli: "https://legislation.mt/eli/sl/321.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/321.3/20210723/eng"
 retrieved: 2026-10-12
 ---
 
-# Indemnity Insurance Regulations (S.L. 321.3)
+# Indemnity Insurance Regulations (S.L. 321.03)
 
 SUBSIDIARY LEGISLATION 321.03
 

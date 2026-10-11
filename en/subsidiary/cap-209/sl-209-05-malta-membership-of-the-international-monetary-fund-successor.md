@@ -1,6 +1,6 @@
 ---
 title: "Malta Membership of the International Monetary Fund (Successor Agreement to the 2020 Borrowing Agreement) Order"
-identifier: "S.L. 209.5"
+identifier: "S.L. 209.05"
 eli: "https://legislation.mt/eli/sl/209.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,15 +14,9 @@ version: "https://legislation.mt/eli/sl/209.5/20250110/eng"
 retrieved: 2026-10-12
 ---
 
-# Malta Membership of the International Monetary Fund (Successor Agreement to the 2020 Borrowing Agreement) Order (S.L. 209.5)
+# Malta Membership of the International Monetary Fund (Successor Agreement to the 2020 Borrowing Agreement) Order (S.L. 209.05)
 
-MONETARY FUND (SUCCESSOR AGREEMENT TO THE
-
-*1*
-
-2020 BORROWING AGREEMENT) [S.L. 209.05
-
-**SUBSIDIARY LEGISLATION 209.05**
+SUBSIDIARY LEGISLATION 209.05
 
 MALTA MEMBERSHIP OF THE INTERNATIONAL MONETARY FUND (SUCCESSOR AGREEMENT TO
 
@@ -51,7 +45,3 @@ It is hereby declared:
 (d) that it is expedient that those arrangements under the Successor Agreement to the 2020 Borrowing Agreement shall be effective upon the entry into force, and in accordance with the relevant provisions of the said Successor Agreement to the 2020 Borrowing Agreement;
 
 (e) that the Successor Agreement to the 2020 Borrowing Agreement shall enter into force immediately upon the signing thereof.
-
-*2*
-
-MONETARY FUND (SUCCESSOR AGREEMENT TO THE [S.L. 209.05 2020 BORROWING AGREEMENT)

@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Fees levied at Agricultural Produce Marketing Centres Regulations (S.L. 35.13)
 
-FEES LEVIED AT AGRICULTURAL PRODUCE
-
-*1*
-
-MARKETING CENTRES [S.L.35.13
-
 **SUBSIDIARY LEGISLATION 35.13**
 
 **FEES LEVIED AT AGRICULTURAL PRODUCE**

@@ -1,0 +1,56 @@
+---
+title: "Conservation of Wild Birds (Declaration on a Derogation for a 2015 Autumn livecapturing season for Finches) Regulations"
+identifier: "S.L. 549.98"
+eli: "https://legislation.mt/eli/sl/549.98"
+type: subsidiary_legislation
+jurisdiction: mt
+language: en
+parent: "Cap. 549"
+last_amended: 2015-11-11
+status: in_force
+source: "https://legislation.mt/eli/sl/549.98/eng/pdf"
+version: "https://legislation.mt/eli/sl/549.98/20151111/eng"
+retrieved: 2026-10-12
+---
+
+# Conservation of Wild Birds (Declaration on a Derogation for a 2015 Autumn livecapturing season for Finches) Regulations (S.L. 549.98)
+
+**SUBSIDIARY LEGISLATION 549.98**
+
+CONSERVATION OF WILD BIRDS (DECLARATION ON A DEROGATION FOR A 2015 AUTUMN LIVE-
+
+**CAPTURING SEASON FOR FINCHES)**
+
+**REGULATIONS**
+
+16th October, 2015
+
+LEGAL NOTICE 330 of 2015.
+
+## 1. Citation.
+
+The title of these regulations is the Conservation of Wild Birds (Declaration on a Derogation for a 2015 Autumn live-capturing season for Finches) Regulations.
+
+## 2. Interpretation.
+
+Terms and expressions used in these regulations, unless the context otherwise requires, shall have the same meaning as given to them in the Conservation of Wild Birds Regulations, hereinafter referred to as the "the Wild Birds Regulations", and in the Conservation of Wild Birds (Framework for Allowing a Derogation Opening an Autumn Live-Capturing Season for Finches) Regulations.
+
+*S.L. 549.42*
+
+*S.L. 549.93*
+
+## 3. Establishment of season.
+
+For the purposes of establishing the period for the live-capturing of wild birds under regulation 10(6)(ii) and (iii) of the Wild Birds Regulations, and for the purpose of these regulations the period for the live-capturing of Finches for the year 2015, hereinafter referred to as "the Autumn live-capturing season", shall be on the following dates:
+
+live-capturing of Linnet, Goldfinch, Greenfinch, Siskin, Hawfinch, Chaffinch and Serin between the 20th October 2015 and the 31st December 2015, both dates included.
+
+## 4. Live-Capturing according to set framework. S.L. 549.93
+
+For the purposes of these regulations, the Autumn live-capturing season shall be in accordance with the provisions of the Conservation of Wild Birds (Framework for Allowing a Derogation Opening an Autumn Live-Capturing Season for Finches), Regulations.
+
+## 5. Quotas and special licence fee.
+
+(1) The Autumn live-Capturing license, which shall be issued upon the payment of a nominal fee of fifty-five euro (€55), shall set the overall seasonal bag limit for the Autumn live-capturing season at 12,000 for Linnet, 800 for Goldfinch, 4,500 for Greenfinch, 2,350 for Siskin, 500 for Hawfinch, 5,000 for Chaffinch and 2,350 for Serin as the total number of birds which may be captured under the authority of all issued licences taken together.
+
+(2) The Autumn live-capturing licence shall set the live-capturing season’s bag limit to ten (10) finches for each Autumn live-capturing licence or however many below this number might have been captured before the season is closed.

@@ -1,6 +1,6 @@
 ---
 title: "Directive by the Minister of Finance for the Issue of Lm500,000 3% Local Development Registered Stock 2001"
-identifier: "S.L. 161.8"
+identifier: "S.L. 161.08"
 eli: "https://legislation.mt/eli/sl/161.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/161.8/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Directive by the Minister of Finance for the Issue of Lm500,000 3% Local Development Registered Stock 2001 (S.L. 161.8)
-
-ISSUE OF LM500,000 3%
-
-*1*
-
-LOCAL DEVELOPMENT REGISTERED STOCK 2001 [S.L.161.08
+# Directive by the Minister of Finance for the Issue of Lm500,000 3% Local Development Registered Stock 2001 (S.L. 161.08)
 
 SUBSIDIARY LEGISLATION 161.08
 

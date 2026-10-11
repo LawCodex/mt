@@ -1,6 +1,6 @@
 ---
 title: "Procedure regarding Information required by any Court of Civil Jurisdiction from the Ecclesiastical Tribunal Regulations"
-identifier: "S.L. 255.3"
+identifier: "S.L. 255.03"
 eli: "https://legislation.mt/eli/sl/255.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,15 +13,7 @@ version: "https://legislation.mt/eli/sl/255.3/20130311/eng"
 retrieved: 2026-10-12
 ---
 
-# Procedure regarding Information required by any Court of Civil Jurisdiction from the Ecclesiastical Tribunal Regulations (S.L. 255.3)
-
-PROCEDURE REGARDING INFORMATION REQUIRED
-
-BY ANY COURT OF CIVIL JURISDICTION FROM
-
-*1*
-
-THE ECCLESIASTICAL TRIBUNAL [S.L.255.03
+# Procedure regarding Information required by any Court of Civil Jurisdiction from the Ecclesiastical Tribunal Regulations (S.L. 255.03)
 
 **SUBSIDIARY LEGISLATION 255.03**
 

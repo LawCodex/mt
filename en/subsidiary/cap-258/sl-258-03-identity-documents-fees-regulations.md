@@ -1,6 +1,6 @@
 ---
 title: "Identity Documents (Fees) Regulations"
-identifier: "S.L. 258.3"
+identifier: "S.L. 258.03"
 eli: "https://legislation.mt/eli/sl/258.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/258.3/20250801/eng"
 retrieved: 2026-10-12
 ---
 
-# Identity Documents (Fees) Regulations (S.L. 258.3)
+# Identity Documents (Fees) Regulations (S.L. 258.03)
 
 **SUBSIDIARY LEGISLATION 258.03**
 

@@ -1,6 +1,6 @@
 ---
 title: "Internal Control of Dangerous Drugs Rules"
-identifier: "S.L. 101.2"
+identifier: "S.L. 101.02"
 eli: "https://legislation.mt/eli/sl/101.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/101.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Internal Control of Dangerous Drugs Rules (S.L. 101.2)
+# Internal Control of Dangerous Drugs Rules (S.L. 101.02)
 
 **SUBSIDIARY LEGISLATION 101.02**
 

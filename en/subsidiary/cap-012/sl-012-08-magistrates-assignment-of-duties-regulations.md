@@ -1,6 +1,6 @@
 ---
 title: "Magistrates (Assignment of Duties) Regulations"
-identifier: "S.L. 12.8"
+identifier: "S.L. 12.08"
 eli: "https://legislation.mt/eli/sl/12.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/12.8/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Magistrates (Assignment of Duties) Regulations (S.L. 12.8)
+# Magistrates (Assignment of Duties) Regulations (S.L. 12.08)
 
 **SUBSIDIARY LEGISLATION 12.08**
 

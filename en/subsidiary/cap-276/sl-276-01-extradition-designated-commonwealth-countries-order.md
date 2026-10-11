@@ -1,6 +1,6 @@
 ---
 title: "Extradition (Designated Commonwealth Countries) Order"
-identifier: "S.L. 276.1"
+identifier: "S.L. 276.01"
 eli: "https://legislation.mt/eli/sl/276.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/276.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Extradition (Designated Commonwealth Countries) Order (S.L. 276.1)
+# Extradition (Designated Commonwealth Countries) Order (S.L. 276.01)
 
 **SUBSIDIARY LEGISLATION 276.01**
 

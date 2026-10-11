@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Republic of Singapore Order (S.L. 123.103)
 
-*1*
-
-WITH THE REPUBLIC OF SINGAPORE [S.L.123.103
-
 **SUBSIDIARY LEGISLATION 123.103**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -46,8 +42,6 @@ the income tax;
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Agreement has entered into force on the 29 February, 2008.
-
-2 [S.L.123.103 WITH THE REPUBLIC OF SINGAPORE
 
 Amended by: SCHEDULE
 
@@ -115,9 +109,7 @@ The Agreement shall apply also to any identical or substantially similar taxes w
 
 \1. For the purposes of this Agreement, unless the context otherwise requires:
 
-(a) the term "Malta" means the Republic of Malta and, when used in a WITH THE REPUBLIC OF SINGAPORE [S.L.123.103 3
-
-geographical sense, means the Island of Malta, the Island of Gozo and other Maltese islands including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein the Republic of Malta may, in accordance with international law, exercise sovereign rights or jurisdiction with respect to the exploration and exploitation of natural resources;
+(a) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and other Maltese islands including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein the Republic of Malta may, in accordance with international law, exercise sovereign rights or jurisdiction with respect to the exploration and exploitation of natural resources;
 
 (b) the term "Singapore" means the territories of the Republic of Singapore, the territorial waters of Singapore and the sea bed and sub-soil of the territorial waters, and when used in a geographical sense includes any area extending beyond the limits of the territorial waters of Singapore, and the sea bed and sub-soil of any such area, which has been or may hereafter be designated under the laws of Singapore and in accordance with international law as an area over which Singapore has sovereign rights for the purposes of exploring and exploiting the natural resources, whether living or non-living;
 
@@ -149,9 +141,7 @@ geographical sense, means the Island of Malta, the Island of Gozo and other Malt
 
 **RESIDENT**
 
-\1. For the purposes of this Agreement, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a 4 [S.L.123.103 WITH THE REPUBLIC OF SINGAPORE
-
-similar nature.
+\1. For the purposes of this Agreement, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature.
 
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
@@ -195,9 +185,7 @@ similar nature.
 
 Notwithstanding the preceding provisions of this Article, the term "permanent establishment" shall be deemed not to include:
 
-(a) the use of facilities solely for the purpose of storage, display or delivery WITH THE REPUBLIC OF SINGAPORE [S.L.123.103 5
-
-of goods or merchandise belonging to the enterprise;
+(a) the use of facilities solely for the purpose of storage, display or delivery of goods or merchandise belonging to the enterprise;
 
 (b) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of storage, display or delivery;
 
@@ -231,8 +219,6 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
-6 [S.L.123.103 WITH THE REPUBLIC OF SINGAPORE
-
 \4. The provisions of paragraphs 1 and 3 shall also apply to the income from immovable property of an enterprise and to income from immovable property used for the performance of independent personal services.
 
 **Article 7**
@@ -265,8 +251,6 @@ Where profits include items of income which are dealt with separately in other A
 
 (a) profits from the rental on a bareboat basis of ships and aircraft; and
 
-WITH THE REPUBLIC OF SINGAPORE [S.L.123.103 7
-
 (b) profits from the use, maintenance or rental of containers (including trailers and related equipment for the transport of containers), used for the transport of goods or merchandise;
 
 where such rental or such use, maintenance or rental, as the case may be, is incidental to the operation of ships or aircraft in international traffic.
@@ -295,9 +279,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \2. However, such dividends may also be taxed in the Contracting State of which the company paying the dividends is a resident and according to the laws of that State. Under the full imputation system adopted currently by both Contracting States, where dividends are paid by a company which is a resident of one Contracting State to a resident of the other Contracting State who is the beneficial owner of such dividends, the tax on the gross amount of the dividends in the first-mentioned State shall not exceed the tax chargeable on the profits or income of the company out of which the dividends are paid.
 
-\3. Under the full imputation system adopted by both Contacting State, there is no final withholding tax on dividends in addition to the tax chargeable in respect of the profits or income of the company out of which the dividends are paid. If, subsequent to the signing of the Agreement, any of the Contracting States introduces 8 [S.L.123.103 WITH THE REPUBLIC OF SINGAPORE
-
-a final withholding tax on dividends in addition to the tax chargeable in respect of the profits or income of the company, dividends paid by a company which is a resident of such Contracting State to the Government of the other Contracting State shall be exempt from such final withholding tax in the first-mentioned State.
+\3. Under the full imputation system adopted by both Contacting State, there is no final withholding tax on dividends in addition to the tax chargeable in respect of the profits or income of the company out of which the dividends are paid. If, subsequent to the signing of the Agreement, any of the Contracting States introduces a final withholding tax on dividends in addition to the tax chargeable in respect of the profits or income of the company, dividends paid by a company which is a resident of such Contracting State to the Government of the other Contracting State shall be exempt from such final withholding tax in the first-mentioned State.
 
 \4. For the purposes of paragraph 3, the term "Government":
 
@@ -335,8 +317,6 @@ Where a company which is a resident of a Contracting State derives profits or in
 
 \1. Interest arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other State.
 
-WITH THE REPUBLIC OF SINGAPORE [S.L.123.103 9
-
 \2. However, such interest may also be taxed in the Contracting State in which it arises and according to the laws of that State, but if the recipient is the beneficial owner of the interest the tax so charged shall not exceed:
 
 (a) 7 per cent of the gross amount of the interest if it is received by a bank;
@@ -371,9 +351,7 @@ WITH THE REPUBLIC OF SINGAPORE [S.L.123.103 9
 
 ## 8.
 
-Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount 10 [S.L.123.103 WITH THE REPUBLIC OF SINGAPORE
-
-which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Agreement.
+Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Agreement.
 
 **Article 12**
 
@@ -396,8 +374,6 @@ which would have been agreed upon by the payer and the beneficial owner in the a
 **CAPITAL GAINS**
 
 \1. Gains derived by a resident of a Contracting State from the alienation of immovable property referred to in Article 6 and situated in the other Contracting State may be taxed in that other State.
-
-WITH THE REPUBLIC OF SINGAPORE [S.L.123.103 11
 
 \2. Gains derived by a resident of a Contracting State from the alienation of shares (other than shares traded on a recognised Stock Exchange) deriving at least 75 per cent of their value directly or indirectly from immovable property situated in the other Contracting State may be taxed in that other State.
 
@@ -428,8 +404,6 @@ WITH THE REPUBLIC OF SINGAPORE [S.L.123.103 11
 \2. Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in the other Contracting State shall be taxable only in the first-mentioned State if:
 
 (a) the recipient is present in the other State for a period or periods not exceeding in the aggregate 183 days in any twelve-month period commencing or ending in the calendar year concerned, and
-
-12 [S.L.123.103 WITH THE REPUBLIC OF SINGAPORE
 
 (b) the remuneration is paid by, or on behalf of, an employer who is not a resident of the other State, and
 
@@ -467,8 +441,6 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 \1. (a) Salaries, wages and other similar remuneration, other than a pension, paid by a Contracting State or a political subdivision or a local authority or a statutory body thereof to an individual in respect of services rendered to that State or subdivision or authority or body shall be taxable only in that State.
 
-WITH THE REPUBLIC OF SINGAPORE [S.L.123.103 13
-
 (b) However, such salaries, wages and other similar remuneration shall be taxable only in the other Contracting State if the services are rendered in that State and the individual is a resident of that State who:
 
 (i) is a national of that State; or
@@ -503,9 +475,7 @@ A student or business apprentice who is present in a Contracting State solely fo
 
 \1. In the case of Malta, double taxation shall be eliminated as follows:
 
-Subject to the provisions of the law of Malta regarding the allowance of a credit against Malta tax in respect of foreign tax, where, in accordance with the provisions of this Agreement, there is included in a Malta assessment income from sources within Singapore, the Singapore tax on such income shall be allowed as a 14 [S.L.123.103 WITH THE REPUBLIC OF SINGAPORE
-
-credit against the relative Malta tax payable thereon.
+Subject to the provisions of the law of Malta regarding the allowance of a credit against Malta tax in respect of foreign tax, where, in accordance with the provisions of this Agreement, there is included in a Malta assessment income from sources within Singapore, the Singapore tax on such income shall be allowed as a credit against the relative Malta tax payable thereon.
 
 \2. In the case of Singapore, double taxation shall be eliminated as follows:
 
@@ -529,8 +499,6 @@ Where a resident of Singapore derives income from Malta which, in accordance wit
 
 \4. Except where the provisions of paragraph 1 of Article 9, paragraph 8 of Article 11, or paragraph 6 of Article 12 apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
 
-WITH THE REPUBLIC OF SINGAPORE [S.L.123.103 15
-
 \5. Enterprises of a Contacting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
 
 \6. Where a Contracting State grants tax incentives to its nationals designed to promote economic or social development in accordance with its national policy and criteria, it shall not be construed as discrimination under this Article.
@@ -553,11 +521,9 @@ WITH THE REPUBLIC OF SINGAPORE [S.L.123.103 15
 
 \1. The competent authorities of the Contracting States shall exchange such information as is foreseeably relevant for carrying out the provisions of this Agreement or to the administration or enforcement of the domestic laws concerning taxes of every kind and description imposed on behalf of the Contracting States, or of their political subdivisions or local authorities, insofar as the taxation thereunder is not contrary to the Agreement. The exchange of information is not restricted by Articles 1 and 2.
 
-\2. Any information received under paragraph 1 by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to the taxes referred to in paragraph 1, or the oversight of the above. Such persons or 16 [S.L.123.103 WITH THE REPUBLIC OF SINGAPORE
+\2. Any information received under paragraph 1 by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to the taxes referred to in paragraph 1, or the oversight of the above. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
 
 \*as substituted by Protocol reproduced in Legal Notice 257 of 2013.
-
-authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
 
 \3. In no case shall the provisions of paragraphs 1 and 2 be construed so as to impose on a Contracting State the obligation:
 
@@ -589,9 +555,7 @@ Nothing in this Agreement shall affect the fiscal privileges of members of diplo
 
 **TERMINATION**
 
-This Agreement shall remain in force until terminated by a Contracting State. Either Contracting State may terminate the Agreement, through diplomatic channels, by giving notice of termination at least six months before the end of any calendar year beginning after the expiration of a period of five years from the date on which the Agreement enters into force. In such event, the Agreement shall cease to have effect in respect of tax chargeable for any year of assessment beginning on or after WITH THE REPUBLIC OF SINGAPORE [S.L.123.103 17
-
-the first day of January in the second calendar year following the year in which the notice is given.
+This Agreement shall remain in force until terminated by a Contracting State. Either Contracting State may terminate the Agreement, through diplomatic channels, by giving notice of termination at least six months before the end of any calendar year beginning after the expiration of a period of five years from the date on which the Agreement enters into force. In such event, the Agreement shall cease to have effect in respect of tax chargeable for any year of assessment beginning on or after the first day of January in the second calendar year following the year in which the notice is given.
 
 IN WITNESS WHEREOF the undersigned, duly authorised thereto by their respective Governments, have signed this Agreement.
 
@@ -617,9 +581,7 @@ With reference to paragraph 4, it is understood that, for the purposes of allowi
 
 IN WITNESS WHEREOF the undersigned, duly authorised thereto by their respective Governments, have signed this Protocol.
 
-DONE in duplicate at Singapore on this 21st day of March, 2006 in the English 18 [S.L.123.103 WITH THE REPUBLIC OF SINGAPORE
-
-language.
+DONE in duplicate at Singapore on this 21st day of March, 2006 in the English language.
 
 Dr Michael Frendo Mr Raymond Lim
 
@@ -653,9 +615,7 @@ The text of Article 25 (Exchange of Information) of the Agreement is deleted and
 
 \3. In no case shall the provisions of paragraphs 1 and 2 be construed so as to impose on a Contracting State the obligation:
 
-(a) to carry out administrative measures at variance with the laws and WITH THE REPUBLIC OF SINGAPORE [S.L.123.103 19
-
-administrative practice of that or of the other Contracting State;
+(a) to carry out administrative measures at variance with the laws and administrative practice of that or of the other Contracting State;
 
 (b) to supply information which is not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;
 

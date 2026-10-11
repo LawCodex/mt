@@ -1,6 +1,6 @@
 ---
 title: "Rats Infestation (Prevention) Regulations"
-identifier: "S.L. 36.2"
+identifier: "S.L. 36.02"
 eli: "https://legislation.mt/eli/sl/36.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/36.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Rats Infestation (Prevention) Regulations (S.L. 36.2)
+# Rats Infestation (Prevention) Regulations (S.L. 36.02)
 
 **SUBSIDIARY LEGISLATION 36.02**
 

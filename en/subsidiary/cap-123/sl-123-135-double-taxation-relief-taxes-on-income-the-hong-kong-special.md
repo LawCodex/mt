@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (The Hong Kong Special Administrative Region of the People’s Republic of China) Order (S.L. 123.135)
 
-(THE HONG KONG SPECIAL ADMINISTRATIVE
-
-*1*
-
-REGION OF THE PEOPLE’S REPUBLIC OF CHINA) [S.L.123.135
-
 **SUBSIDIARY LEGISLATION 123.135**
 
 DOUBLE TAXATION RELIEF (TAXES ON INCOME) (THE HONG KONG SPECIAL ADMINISTRATIVE REGION OF THE PEOPLE’S REPUBLIC OF CHINA) ORDER
@@ -48,10 +42,6 @@ It is hereby declared:
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Agreement has entered into force on the 18th July, 2012.
-
-(THE HONG KONG SPECIAL ADMINISTRATIVE
-
-**2 [S.L.123.135 REGION OF THE PEOPLE’S REPUBLIC OF CHINA)**
 
 ## SCHEDULE
 
@@ -113,9 +103,7 @@ The Agreement shall apply also to any identical or substantially similar taxes t
 
 The existing taxes, together with the taxes imposed after the signature of the Agreement, are hereinafter referred to as "Hong Kong Special Administrative Region tax" or "Malta tax", as the context requires.
 
-(THE HONG KONG SPECIAL ADMINISTRATIVE
-
-REGION OF THE PEOPLE’S REPUBLIC OF CHINA) [S.L.123.135 3 Article 3
+Article 3
 
 General Definitions
 
@@ -157,11 +145,7 @@ For the purposes of this Agreement, unless the context otherwise requires:
 
 *\2.*
 
-In the Agreement, the terms "Hong Kong Special Administrative Region tax" and "Malta tax" do not include any penalty or interest imposed under the laws of (THE HONG KONG SPECIAL ADMINISTRATIVE
-
-**4 [S.L.123.135 REGION OF THE PEOPLE’S REPUBLIC OF CHINA)**
-
-either Contracting Party relating to the taxes to which the Agreement applies by virtue of Article 2.
+In the Agreement, the terms "Hong Kong Special Administrative Region tax" and "Malta tax" do not include any penalty or interest imposed under the laws of either Contracting Party relating to the taxes to which the Agreement applies by virtue of Article 2.
 
 \3. As regards the application of the Agreement at any time by a Contracting Party, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that Party for the purposes of the taxes to which the Agreement applies, any meaning under the applicable tax laws of that Party prevailing over a meaning given to the term under other laws of that Party.
 
@@ -190,10 +174,6 @@ either Contracting Party relating to the taxes to which the Agreement applies by
 (b) if the Party in which he has his centre of vital interests cannot be determined, or if he has not a permanent home available to him in either Party, he shall be deemed to be a resident only of the Party in which he has an habitual abode;
 
 (c) if he has an habitual abode in both Parties or in neither of them, he shall be deemed to be a resident only of the Party in which he has the right of abode (in the case of the Hong Kong Special Administrative Region) or of which he is a national (in the case of Malta);
-
-(THE HONG KONG SPECIAL ADMINISTRATIVE
-
-**REGION OF THE PEOPLE’S REPUBLIC OF CHINA) [S.L.123.135 5**
 
 (d) if he has the right of abode in the Hong Kong Special Administrative Region and is also a national of Malta, or if he does not have the right of abode in the Hong Kong Special Administrative Region nor is he a national of Malta, the competent authorities of the Contracting Parties shall settle the question by mutual agreement.
 
@@ -237,10 +217,6 @@ either Contracting Party relating to the taxes to which the Agreement applies by
 
 (e) the maintenance of a fixed place of business solely for the purpose of carrying on, for the enterprise, any other activity of a preparatory or auxiliary character;
 
-(THE HONG KONG SPECIAL ADMINISTRATIVE
-
-**6 [S.L.123.135 REGION OF THE PEOPLE’S REPUBLIC OF CHINA)**
-
 (f) the maintenance of a fixed place of business solely for any combination of activities mentioned in subparagraphs (a) to (e), provided that the overall activity of the fixed place of business resulting from this combination is of a preparatory or auxiliary character.
 
 ## 5.
@@ -273,11 +249,7 @@ The fact that a company which is a resident of a Contracting Party controls or i
 
 **Business Profits**
 
-\1. The profits of an enterprise of a Contracting Party shall be taxable only in that Party unless the enterprise carries on business in the other Contracting Party through a permanent establishment situated therein. If the enterprise carries on (THE HONG KONG SPECIAL ADMINISTRATIVE
-
-**REGION OF THE PEOPLE’S REPUBLIC OF CHINA) [S.L.123.135 7**
-
-business as aforesaid, the profits of the enterprise may be taxed in the other Party but only so much of them as is attributable to that permanent establishment.
+\1. The profits of an enterprise of a Contracting Party shall be taxable only in that Party unless the enterprise carries on business in the other Contracting Party through a permanent establishment situated therein. If the enterprise carries on business as aforesaid, the profits of the enterprise may be taxed in the other Party but only so much of them as is attributable to that permanent establishment.
 
 \2. Subject to the provisions of paragraph 3, where an enterprise of a Contracting Party carries on business in the other Contracting Party through a permanent establishment situated therein, there shall in each Contracting Party be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment.
 
@@ -309,11 +281,7 @@ Where profits include items of income which are dealt with separately in other A
 
 (a) an enterprise of a Contracting Party participates directly or indirectly in the management, control or capital of an enterprise of the other Contracting Party, or
 
-(b) the same persons participate directly or indirectly in the management, (THE HONG KONG SPECIAL ADMINISTRATIVE
-
-**8 [S.L.123.135 REGION OF THE PEOPLE’S REPUBLIC OF CHINA)**
-
-control or capital of an enterprise of a Contracting Party and an enterprise of the other Contracting Party,
+(b) the same persons participate directly or indirectly in the management, control or capital of an enterprise of a Contracting Party and an enterprise of the other Contracting Party,
 
 and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
 
@@ -337,10 +305,6 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \1. Interest arising in a Contracting Party and beneficially owned by a resident of the other Contracting Party shall be taxable only in that other Party.
 
-(THE HONG KONG SPECIAL ADMINISTRATIVE
-
-**REGION OF THE PEOPLE’S REPUBLIC OF CHINA) [S.L.123.135 9**
-
 \2. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor’s profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
 \3. The provisions of paragraph 1 shall not apply if the beneficial owner of the interest, being a resident of a Contracting Party, carries on business in the other Contracting Party in which the interest arises through a permanent establishment situated therein and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
@@ -361,11 +325,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \5. Royalties shall be deemed to arise in a Contracting Party when the payer is a resident of that Party. Where, however, the person paying the royalties, whether he is a resident of a Contracting Party or not, has in a Contracting Party a permanent establishment in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment, then such royalties shall be deemed to arise in the Party in which the permanent establishment is situated.
 
-\6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the (THE HONG KONG SPECIAL ADMINISTRATIVE
-
-**10 [S.L.123.135 REGION OF THE PEOPLE’S REPUBLIC OF CHINA)**
-
-royalties exceeds, for whatever reasons, the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting Party, due regard being had to the other provisions of this Agreement.
+\6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties exceeds, for whatever reasons, the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting Party, due regard being had to the other provisions of this Agreement.
 
 **Article 13**
 
@@ -395,11 +355,7 @@ royalties exceeds, for whatever reasons, the amount which would have been agreed
 
 (c) the remuneration is not borne by a permanent establishment which the employer has in the other Party.
 
-\3. Notwithstanding the preceding provisions of this Article, remuneration derived in respect of an employment exercised aboard a ship or aircraft operated in (THE HONG KONG SPECIAL ADMINISTRATIVE
-
-**REGION OF THE PEOPLE’S REPUBLIC OF CHINA) [S.L.123.135 11**
-
-international traffic by an enterprise of a Contracting Party may be taxed in that Party.
+\3. Notwithstanding the preceding provisions of this Article, remuneration derived in respect of an employment exercised aboard a ship or aircraft operated in international traffic by an enterprise of a Contracting Party may be taxed in that Party.
 
 **Article 15**
 
@@ -437,10 +393,6 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 (i) in the case of the Hong Kong Special Administrative Region, has the right of abode therein and in the case of Malta, is a national thereof; or
 
-(THE HONG KONG SPECIAL ADMINISTRATIVE
-
-**12 [S.L.123.135 REGION OF THE PEOPLE’S REPUBLIC OF CHINA)**
-
 (ii) did not become a resident of that Party solely for the purpose of rendering the services.
 
 \2. (a) Any pension (including a lump sum payment) paid by, or paid out of funds created or contributed by, the Government of a Contracting Party to an individual in respect of services rendered to that Party shall be taxable only in that Party.
@@ -471,11 +423,7 @@ Payments which a student who is or was immediately before visiting a Contracting
 
 \1. In the case of the Hong Kong Special Administrative Region, double taxation shall be eliminated as follows:
 
-Subject to the provisions of the laws of the Hong Kong Special Administrative Region relating to the allowance of a credit against Hong Kong Special Administrative Region tax of tax paid in a jurisdiction outside the Hong Kong Special Administrative Region (which shall not affect the general principle of this Article), Malta tax paid under the laws of Malta and in accordance with this (THE HONG KONG SPECIAL ADMINISTRATIVE
-
-**REGION OF THE PEOPLE’S REPUBLIC OF CHINA) [S.L.123.135 13**
-
-Agreement, whether directly or by deduction, in respect of income derived by a person who is a resident of the Hong Kong Special Administrative Region from sources in Malta, shall be allowed as a credit against Hong Kong Special Administrative Region tax payable in respect of that income, provided that the credit so allowed does not exceed the amount of Hong Kong Special Administrative Region tax computed in respect of that income in accordance with the tax laws of the Hong Kong Special Administrative Region.
+Subject to the provisions of the laws of the Hong Kong Special Administrative Region relating to the allowance of a credit against Hong Kong Special Administrative Region tax of tax paid in a jurisdiction outside the Hong Kong Special Administrative Region (which shall not affect the general principle of this Article), Malta tax paid under the laws of Malta and in accordance with this Agreement, whether directly or by deduction, in respect of income derived by a person who is a resident of the Hong Kong Special Administrative Region from sources in Malta, shall be allowed as a credit against Hong Kong Special Administrative Region tax payable in respect of that income, provided that the credit so allowed does not exceed the amount of Hong Kong Special Administrative Region tax computed in respect of that income in accordance with the tax laws of the Hong Kong Special Administrative Region.
 
 \2. In the case of Malta, double taxation shall be eliminated as follows:
 
@@ -493,11 +441,7 @@ Subject to the provisions of the laws of Malta regarding the allowance of a cred
 
 \4. Except where the provisions of paragraph l of Article 9, paragraph 4 of Article 11, or paragraph 6 of Article 12, apply, interest, royalties and other disbursements paid by an enterprise of a Contracting Party to a resident of the other Contracting Party shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned Party.
 
-\5. Enterprises of a Contracting Party, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other (THE HONG KONG SPECIAL ADMINISTRATIVE
-
-**14 [S.L.123.135 REGION OF THE PEOPLE’S REPUBLIC OF CHINA)**
-
-Contracting Party, shall not be subjected in the first-mentioned Party to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned Party are or may be subjected.
+\5. Enterprises of a Contracting Party, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting Party, shall not be subjected in the first-mentioned Party to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned Party are or may be subjected.
 
 \6. The provisions of this Article shall, notwithstanding the provisions of Article 2, apply to taxes of every kind and description.
 
@@ -520,10 +464,6 @@ Contracting Party, shall not be subjected in the first-mentioned Party to any ta
 \1. The competent authorities of the Contracting Parties shall exchange such information as is foreseeably relevant for carrying out the provisions of this Agreement or to the administration or enforcement of the domestic laws of the Contracting Parties concerning taxes covered by the Agreement, insofar as the taxation thereunder is not contrary to the Agreement. The exchange of information is not restricted by Article 1.
 
 \2. Any information received under paragraph 1 by a Contracting Party shall be treated as secret in the same manner as information obtained under the domestic laws of that Party and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to the taxes referred to in paragraph 1. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
-
-(THE HONG KONG SPECIAL ADMINISTRATIVE
-
-**REGION OF THE PEOPLE’S REPUBLIC OF CHINA) [S.L.123.135 15**
 
 \3. In no case shall the provisions of paragraphs 1 and 2 be construed so as to impose on a Contracting Party the obligation:
 
@@ -559,10 +499,6 @@ in respect of Hong Kong Special Administrative Region tax, for any year of asses
 
 in respect of taxes on income derived during any calendar year or accounting period, as the case may be, beginning on or after the first day of January immediately following the date on which the Agreement enters into force.
 
-(THE HONG KONG SPECIAL ADMINISTRATIVE
-
-**16 [S.L.123.135 REGION OF THE PEOPLE’S REPUBLIC OF CHINA)**
-
 **Article 27**
 
 **Termination**
@@ -595,9 +531,7 @@ I. General
 
 \2. Nothing in the Agreement shall prejudice the right of each Contracting Party to apply its domestic laws and measures concerning tax avoidance, whether or not described as such.
 
-(THE HONG KONG SPECIAL ADMINISTRATIVE
-
-REGION OF THE PEOPLE’S REPUBLIC OF CHINA) [S.L.123.135 17 II. With reference to Article 13 (Capital Gains)
+II. With reference to Article 13 (Capital Gains)
 
 It is understood that the term "recognised stock exchange" means:
 

@@ -1,6 +1,6 @@
 ---
 title: "Motor Driven Agricultural Tractors Exemption Order"
-identifier: "S.L. 104.2"
+identifier: "S.L. 104.02"
 eli: "https://legislation.mt/eli/sl/104.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/104.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Motor Driven Agricultural Tractors Exemption Order (S.L. 104.2)
+# Motor Driven Agricultural Tractors Exemption Order (S.L. 104.02)
 
 **SUBSIDIARY LEGISLATION 104.02**
 

@@ -1,6 +1,6 @@
 ---
 title: "Motor Route Buses Regulations"
-identifier: "S.L. 65.1"
+identifier: "S.L. 65.01"
 eli: "https://legislation.mt/eli/sl/65.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/65.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Motor Route Buses Regulations (S.L. 65.1)
+# Motor Route Buses Regulations (S.L. 65.01)
 
 SUBSIDIARY LEGISLATION 65.01
 

@@ -33,37 +33,23 @@ The title of these regulations is the European Protection Order (Execution) Regu
 
 In these regulations, unless the context otherwise requires - "the Arrangement" mean s the Directive 2011/99/EU of the European Parliament and of the Council of 13 December 2011 on the European protection order;
 
-"certificate" means the form, as contained in the Annex to the
+"certificate" means the form, as contained in the Annex to the Arrangement, purporting to reproduce details setting out the information required by the same form, set out in Schedule 1;
 
-Arrangement, purporting to reproduce details setting out the  
-information required by the same form, set out in Schedule 1;  
-"court" means a court of criminal jurisdiction;  
-"European protection order" means a decision, taken by a  
-judicial or equivalent authority of a Member State in relation to a  
-protection measure, on the basis of which a judicial or equivalent  
-authority of another Member State takes any appropriate measure  
-or measures under its own national law with a view to continuing  
-the protection of the protected person;  
-"the European Union" means the European Union as referred to  
-in the Treaty;  
-"executing State" means the Member State to which a European  
-protection order has been forwarded with a view to its recognition;  
-"issuing State" means the Member State in which a protection  
-measure has been adopted that constitutes the basis for issuing a  
-European protection order;  
-"person causing danger" means the natural person on whom one  
-or more of the prohibitions or restrictions referred to in regulation 6  
-have been imposed;  
-"protected person" means a natural person who is the object of  
-the protection resulting from a protection measure adopted by the  
-issuing State;  
-"protection measure" means a decision in criminal matters  
-adopted in the issuing State in accordance with its national law and  
-procedures by which one or more of the prohibitions or restrictions  
-referred to in regulation 6 are imposed on a person causing danger  
-in order to protect a protected person against a criminal act which  
-may endanger his life, physical or psychological integrity, dignity,  
-personal liberty or sexual integrity;
+"court" means a court of criminal jurisdiction;
+
+"European protection order" means a decision, taken by a judicial or equivalent authority of a Member State in relation to a protection measure, on the basis of which a judicial or equivalent authority of another Member State takes any appropriate measure or measures under its own national law with a view to continuing the protection of the protected person;
+
+"the European Union" means the European Union as referred to in the Treaty;
+
+"executing State" means the Member State to which a European protection order has been forwarded with a view to its recognition;
+
+"issuing State" means the Member State in which a protection measure has been adopted that constitutes the basis for issuing a European protection order;
+
+"person causing danger" means the natural person on whom one or more of the prohibitions or restrictions referred to in regulation 6 have been imposed;
+
+"protected person" means a natural person who is the object of the protection resulting from a protection measure adopted by the issuing State;
+
+"protection measure" means a decision in criminal matters adopted in the issuing State in accordance with its national law and procedures by which one or more of the prohibitions or restrictions referred to in regulation 6 are imposed on a person causing danger in order to protect a protected person against a criminal act which may endanger his life, physical or psychological integrity, dignity, personal liberty or sexual integrity;
 
 "State of supervision" means the Member State to which a judgment within the meaning of Article 2 of Framework Decision 2008/947/JHA, to which reference is made in the Probation Act, or a decision on supervision measures within the meaning of Article 4 of Framework Decision 2009/829/JHA to which reference is made in the Decisions on Supervision Measures (Execution in the European Union) Regulations, has been transferred;
 

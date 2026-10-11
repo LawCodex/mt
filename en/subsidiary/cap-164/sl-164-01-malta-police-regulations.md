@@ -1,6 +1,6 @@
 ---
 title: "Malta Police Regulations"
-identifier: "S.L. 164.1"
+identifier: "S.L. 164.01"
 eli: "https://legislation.mt/eli/sl/164.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/164.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Malta Police Regulations (S.L. 164.1)
+# Malta Police Regulations (S.L. 164.01)
 
 **SUBSIDIARY LEGISLATION 164.01**
 

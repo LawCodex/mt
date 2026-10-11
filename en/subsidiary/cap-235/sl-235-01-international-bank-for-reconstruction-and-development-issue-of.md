@@ -1,6 +1,6 @@
 ---
 title: "International Bank for Reconstruction and Development (Issue of Securities) Order"
-identifier: "S.L. 235.1"
+identifier: "S.L. 235.01"
 eli: "https://legislation.mt/eli/sl/235.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/235.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# International Bank for Reconstruction and Development (Issue of Securities) Order (S.L. 235.1)
-
-*1*
-
-AND DEVELOPMENT (ISSUE OF SECURITIES) [S.L.235.01
+# International Bank for Reconstruction and Development (Issue of Securities) Order (S.L. 235.01)
 
 **SUBSIDIARY LEGISLATION 235.01**
 
@@ -67,11 +63,7 @@ In any issues of securities by the Bank, the terms of the issue shall specify a 
 
 ## 7. Equal trealment. Cap. 235.
 
-Pursuant to Article VII, Section 9(c)(i) of the Second Schedule to the Membership of International Financial [S.L.235.01 AND DEVELOPMENT (ISSUE OF SECURITIES)
-
-Organisations Act, in addition to the above, no security issued by the Bank shall be subjected to any taxation, duty or requirement connected therewith which is other or more burdensome than the taxation, duty or requirement to which a security issued by a Maltese entity or resident in the same circumstances is or may be subjected. In so far as any law or regulation imposes other or more burdensome taxation, duty or other requirement, such provisions shall not apply to the securities issued by the Bank and to such extent.
-
-*2*
+Pursuant to Article VII, Section 9(c)(i) of the Second Schedule to the Membership of International Financial Organisations Act, in addition to the above, no security issued by the Bank shall be subjected to any taxation, duty or requirement connected therewith which is other or more burdensome than the taxation, duty or requirement to which a security issued by a Maltese entity or resident in the same circumstances is or may be subjected. In so far as any law or regulation imposes other or more burdensome taxation, duty or other requirement, such provisions shall not apply to the securities issued by the Bank and to such extent.
 
 ## 8. Exchange Control Act.
 

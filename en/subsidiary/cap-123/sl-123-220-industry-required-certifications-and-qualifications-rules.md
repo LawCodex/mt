@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Industry Required Certifications and Qualifications Rules (S.L. 123.220)
 
-*1*
-
-QUALIFICATIONS [S.L. 123.220] SUBSIDIARY LEGISLATION 123.220
+SUBSIDIARY LEGISLATION 123.220
 
 INDUSTRY REQUIRED CERTIFICATIONS AND QUALIFICATIONS RULES
 
@@ -58,11 +56,7 @@ In these rules, unless the context otherwise requires:
 
 "Malta Further and Higher Education Authority" means the Malta Further and Higher Education Authority established by article 3 of the Further and Higher Education Act;
 
-"public funding sources" means any initiative provided at [S.L. 123.220] QUALIFICATIONS
-
-national level by any public entity excluding any sponsorships or similar funding awarded to public service employees granted on the basis of their employment;
-
-*2*
+"public funding sources" means any initiative provided at national level by any public entity excluding any sponsorships or similar funding awarded to public service employees granted on the basis of their employment;
 
 "relevant award" means a relevant qualification or relevant certificate;
 
@@ -88,9 +82,7 @@ An individual may claim a tax credit that shall not exceed seventy percent (70%)
 
 (a) one thousand five hundred euro (€1,500) when the relevant certificate is determined by the Corporation to qualify as Vocational Education Training and has been classified by the Malta Further and Higher Education Authority at a Level 3 certificate under the Malta Qualifications Framework;
 
-*3*
-
-QUALIFICATIONS [S.L. 123.220] (b) two thousand five hundred euro (€2,500) when the relevant certificate is determined by the Corporation to qualify as Vocational Education Training and has been classified by the Malta Further and Higher Education Authority at a Level 4 certificate under the Malta Qualifications Framework;
+(b) two thousand five hundred euro (€2,500) when the relevant certificate is determined by the Corporation to qualify as Vocational Education Training and has been classified by the Malta Further and Higher Education Authority at a Level 4 certificate under the Malta Qualifications Framework;
 
 (c) two thousand five hundred euro (€2,500) when the relevant certificate is determined by the Corporation to qualify as an industry-recognised certification;
 
@@ -108,11 +100,7 @@ Provided that the attainment of a doctorate degree or equivalent may be supporte
 
 Provided that:
 
-(i) the tax credits referred to in this rule may not be claimed if the study costs have been fully or partially financed through other public funding sources or through third parties, [S.L. 123.220] QUALIFICATIONS
-
-unless the funding is to be repaid in full by the individual;
-
-*4*
+(i) the tax credits referred to in this rule may not be claimed if the study costs have been fully or partially financed through other public funding sources or through third parties, unless the funding is to be repaid in full by the individual;
 
 (ii) the tax credit awarded as referred to in this rule shall be due as a deduction from the tax payable by the individual on his chargeable income from the year of assessment following the calendar year in which the relevant award is attained or the year of assessment following the calendar year in which the tax credit is awarded as shall be determined by the Corporation; and
 
@@ -130,13 +118,11 @@ unless the funding is to be repaid in full by the individual;
 
 (d) at Level 8 under the Malta Qualifications Framework which is determined by the Corporation to qualify as a STEM qualification shall be entitled to an attainment bonus tax credit of ten thousand euro (€10,000).
 
-(2) Up to half of the attainment bonus tax credit, shall be utilised in the third (3) year of assessment following the year in which the qualification is attained and the remaining half of the attainment bonus shall be utilised in the fourth (4) year of assessment following the year in which the qualification is attained and any attainment bonus tax credit which may not be utilised, shall be forfeited and shall not be carried forward to any subsequent years. In the relevant years of the attainment bonus tax credit, the tax credit may be utilised prior and in QUALIFICATIONS [S.L. 123.220] conjunction with the Get Qualified tax credit awarded under rule 3.
+(2) Up to half of the attainment bonus tax credit, shall be utilised in the third (3) year of assessment following the year in which the qualification is attained and the remaining half of the attainment bonus shall be utilised in the fourth (4) year of assessment following the year in which the qualification is attained and any attainment bonus tax credit which may not be utilised, shall be forfeited and shall not be carried forward to any subsequent years. In the relevant years of the attainment bonus tax credit, the tax credit may be utilised prior and in conjunction with the Get Qualified tax credit awarded under rule 3.
 
 ## 5. Application.
 
 (1) When an individual attains a relevant award, the individual shall within twelve (12) months from the day of the attainment of the relevant award, submit an application to the Corporation for the benefits provided in these rules.
-
-*5*
 
 (2) In any continuous five (5) calendar year period, an individual may only submit four (4) applications and may not be awarded a further tax credit in respect of the attainment of any other award.
 

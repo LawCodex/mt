@@ -1,6 +1,6 @@
 ---
 title: "Central Bank of Malta Bye-Laws"
-identifier: "S.L. 204.1"
+identifier: "S.L. 204.01"
 eli: "https://legislation.mt/eli/sl/204.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/204.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Central Bank of Malta Bye-Laws (S.L. 204.1)
+# Central Bank of Malta Bye-Laws (S.L. 204.01)
 
 SUBSIDIARY LEGISLATION 204.01
 

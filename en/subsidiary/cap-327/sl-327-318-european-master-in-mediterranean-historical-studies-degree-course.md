@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # European Master in Mediterranean Historical Studies Degree Course Regulations - Repealed by Legal Notice 3 of 2020 (S.L. 327.318)
 
-*1*
-
-HISTORICAL STUDIES DEGREE COURSE [S.L.327.318
-
 **SUBSIDIARY LEGISLATION 327.318**
 
 EUROPEAN MASTER IN MEDITERRANEAN
@@ -32,7 +28,3 @@ EUROPEAN MASTER IN MEDITERRANEAN
 LEGAL NOTICE 256 of 2007, as amended by Legal Notice 116 of 2009.
 
 Repealed by Legal Notice 3 of 2020
-
-*2*
-
-[S.L.327.318 HISTORICAL STUDIES DEGREE COURSE

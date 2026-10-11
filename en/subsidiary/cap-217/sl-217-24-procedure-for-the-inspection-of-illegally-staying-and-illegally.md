@@ -15,16 +15,6 @@ retrieved: 2026-10-12
 
 # Procedure for the Inspection of Illegally Staying and Illegally Employed Third-country Nationals and the Monitoring of Third Country Nationals enrolled in Educational Establishments Regulations (S.L. 217.24)
 
-STAYING AND ILLEGALLY EMPLOYED THIRD-COUNTRY
-
-NATIONALS AND THE MONITORING OF THIRD
-
-COUNTRY NATIONALS ENROLLED
-
-*1*
-
-IN EDUCATIONAL ESTABLISHMENTS [S.L. 217.24
-
 **SUBSIDIARY LEGISLATION 217.24**
 
 PROCEDURE FOR THE INSPECTION OF ILLEGALLY STAYING AND ILLEGALLY EMPLOYED THIRD- COUNTRY NATIONALS AND THE MONITORING OF THIRD COUNTRY NATIONALS ENROLLED IN
@@ -61,16 +51,6 @@ In these regulations, unless the context otherwise requires:
 
 *S.L. 217.14.*
 
-STAYING AND ILLEGALLY EMPLOYED THIRD-COUNTRY
-
-**NATIONALS AND THE MONITORING OF THIRD**
-
-**COUNTRY NATIONALS ENROLLED**
-
-**IN EDUCATIONAL ESTABLISHMENTS**
-
-*[S.L. 217.24 2*
-
 "residence permit" includes a permit issued under the Act and subsidiary legislation authorizing a third country national, who is not a dependent upon a citizen of the European Union as defined by the provisions of Free Movement of European Union Nationals and their Family Members Order, to reside in Malta;
 
 *S.L. 460.17.*
@@ -91,17 +71,7 @@ Provided that the Reporting Unit may enter places of residence with the assistan
 
 (b) carry out in any such premises any examination or inquiry which it may consider necessary in order to satisfy itself that the provisions of the Act or of any regulations thereunder as well as any conditions issued in the residence permit or visa are being observed;
 
-(c) require any person to produce for inspection residence documentation and take extracts from any books, registers, attendance sheets, documents or records relating to any activities regulated by or under the Act or any regulations thereunder which are under the control of that person and, in the STAYING AND ILLEGALLY EMPLOYED THIRD-COUNTRY
-
-NATIONALS AND THE MONITORING OF THIRD
-
-COUNTRY NATIONALS ENROLLED
-
-*3*
-
-IN EDUCATIONAL ESTABLISHMENTS [S.L. 217.24
-
-case of information in a non-legible form to reproduce it in a legible form, and to give the Reporting Unit such information as it may reasonably require in relation to any entries in such books, attendance sheets, documents or records; and
+(c) require any person to produce for inspection residence documentation and take extracts from any books, registers, attendance sheets, documents or records relating to any activities regulated by or under the Act or any regulations thereunder which are under the control of that person and, in the case of information in a non-legible form to reproduce it in a legible form, and to give the Reporting Unit such information as it may reasonably require in relation to any entries in such books, attendance sheets, documents or records; and
 
 (d) retain copies of such books, registers, attendance sheets, documents or records for such period as may be reasonable for further examination.
 
@@ -125,15 +95,7 @@ Any person who:-
 
 (c) alters, suppresses or destroys any books, registers, attendance sheets, documents or records which the person concerned has been required to produce, or may reasonably expect to be required to produce;
 
-(d) falsely presents himself to be an officer of the STAYING AND ILLEGALLY EMPLOYED THIRD-COUNTRY NATIONALS AND THE MONITORING OF THIRD
-
-COUNTRY NATIONALS ENROLLED
-
-*4*
-
-[S.L. 217.24 IN EDUCATIONAL ESTABLISHMENTS
-
-Reporting Unit or of the Agency;
+(d) falsely presents himself to be an officer of the Reporting Unit or of the Agency;
 
 (e) furnishes any information to the Reporting Unit or to the Agency which it may require in the exercise of its functions under these regulations, which he knows, or has reasonable cause to believe to be false or misleading,
 

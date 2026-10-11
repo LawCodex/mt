@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Fees for Applications for the Mutual Recognition of Qualifications for Advocates Regulations (S.L. 12.28)
 
-FEES FOR APPLICATIONS FOR THE MUTUAL
-
-*1*
-
-RECOGNITION OF QUALIFICATIONS FOR ADVOCATES [S.L.12.28
-
 **SUBSIDIARY LEGISLATION 12.28**
 
 **FEES FOR APPLICATIONS FOR THE MUTUAL**

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Master of Science in Orthodontics Degree Course Regulations (S.L. 327.411)
 
-*1*
-
-DEGREE COURSE [S.L.327.411
-
 **SUBSIDIARY LEGISLATION 327.411**
 
 **MASTER OF SCIENCE IN ORTHODONTICS**
@@ -71,10 +67,6 @@ The course shall extend over three consecutive years (including three summer sem
 
 (1) The programme of study comprises study-units totalling 90 ECTS credits, of which 60 ECTS credits are assigned to taught and clinical study-units and 30 ECTS credits to the dissertation study-unit.
 
-*2*
-
-[S.L.327.411 DEGREE COURSE
-
 (2) The programme also comprises an additional 150 ECTS credits of clinical work to be undertaken as directed by the Board during the entire period of study.
 
 (3) The Board of Studies shall draw up a catalogue of all study-units. The catalogue shall indicate the level, code, title, description and type of each study-unit, the credits assigned to each study-unit and the methods of teaching and assessment.
@@ -115,11 +107,7 @@ Students wishing to defer entry to any of the examination processes shall submit
 
 (2) The provisional title of the dissertation and a detailed research proposal shall be submitted to the Board for approval at the end of the first semester.
 
-(3) Each student shall be assigned a supervisor who shall DEGREE COURSE [S.L.327.411
-
-provide guidance and advice on a regular basis during the period of study. Work on the dissertation may be undertaken after approval of the research proposal.
-
-*3*
+(3) Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study. Work on the dissertation may be undertaken after approval of the research proposal.
 
 ## 10. Supervisor.
 
@@ -155,11 +143,7 @@ provide guidance and advice on a regular basis during the period of study. Work 
 
 (2) Students may be required to take a viva voce examination to defend their dissertation and this may also be conducted using electronic means of communication if so approved by the Joint Examination Board.
 
-(3) Students whose dissertation is found unsatisfactory may either fail or may be required by the Joint Examination Board to rewrite the document in whole or in part and to re-submit it for examination. Students may re-submit the dissertation not earlier than two months and not later than six months from notification of [S.L.327.411 DEGREE COURSE
-
-the decision by the Joint Examination Board.
-
-*4*
+(3) Students whose dissertation is found unsatisfactory may either fail or may be required by the Joint Examination Board to rewrite the document in whole or in part and to re-submit it for examination. Students may re-submit the dissertation not earlier than two months and not later than six months from notification of the decision by the Joint Examination Board.
 
 ## 13. Classification of the Award.
 

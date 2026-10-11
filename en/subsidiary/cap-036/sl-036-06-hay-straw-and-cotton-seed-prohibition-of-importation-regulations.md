@@ -1,6 +1,6 @@
 ---
 title: "Hay, Straw and Cotton Seed (Prohibition of Importation) Regulations"
-identifier: "S.L. 36.6"
+identifier: "S.L. 36.06"
 eli: "https://legislation.mt/eli/sl/36.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/36.6/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Hay, Straw and Cotton Seed (Prohibition of Importation) Regulations (S.L. 36.6)
-
-HAY, STRAW AND COTTON SEED
-
-*1*
-
-(PROHIBITION OF IMPORTATION) [ S.L.36.06
+# Hay, Straw and Cotton Seed (Prohibition of Importation) Regulations (S.L. 36.06)
 
 **SUBSIDIARY LEGISLATION 36.06**
 

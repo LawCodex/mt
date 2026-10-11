@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Trident Park, Mrieħel (Special Designated Area) Order (S.L. 246.30)
 
-*1*
-
-(SPECIAL DESIGNATED AREA) [S.L. 246.30 SUBSIDIARY LEGISLATION 246.30
+**SUBSIDIARY LEGISLATION 246.30**
 
 TRIDENT PARK, MRIEĦEL (SPECIAL DESIGNATED AREA) ORDER
 
@@ -37,7 +35,3 @@ Trident Park, Mrieħel consisting of immovable property situated in the area bor
 ## 3. Addition to the First Schedule to the Immovable Property (Acquisition by Non-Residents) Act. Cap. 246.
 
 Trident Park, Mrieħel shall be added to the List of Scheduled Zones in the First Schedule to the Immovable Property (Acquisition by Non-Residents) Act.
-
-*2*
-
-[S.L. 246.30 (SPECIAL DESIGNATED AREA)

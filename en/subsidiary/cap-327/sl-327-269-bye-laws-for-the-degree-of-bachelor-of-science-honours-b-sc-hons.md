@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Science (Honours) - B.Sc. (Hons) - under the auspices of the Faculty of Health Sciences (S.L. 327.269)
 
-B.SC. (HONS) - UNDER THE AUSPICES OF
-
-*1*
-
-THE FACULTY OF HEALTH SCIENCES [S.L.327.269
-
 **SUBSIDIARY LEGISLATION 327.269**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF SCIENCE (HONOURS) - B.SC. (HONS) - UNDER
@@ -58,12 +52,6 @@ LEGAL NOTICE 186 of 2005, as amended by Legal Notices 122 of 2006, 122 of 2009, 
 
 These bye-laws shall be applicable for courses commencing in October 2020 or later.
 
-**B.SC. (HONS) - UNDER THE AUSPICES OF**
-
-**THE FACULTY OF HEALTH SCIENCES**
-
-*[S.L.327.269 2*
-
 *\3.*
 
 *Special course requirements for admission. Amended by: L.N. 122 of 2009; L.N. 1 of 2010. Substituted by: L.N. 391 of 2011. Amended by: L.N. 163 of 2012; L.N. 350 of 2014; L.N. 307 of 2015; L.N. 182 of 2016; L.N. 277 of 2017; L.N. 131 of 2018; L.N. 325 of 2018; L.N. 269 of 2020; L.N. 354 of 2020; L.N. 430 of 2021; L.N. 179 of 2023; L.N. 243 of 2024; L.N. 117 of 2025.*
@@ -86,11 +74,7 @@ To be registered as regular students in the Course applicants shall satisfy the 
 
 (iii) Applicants who are not in possession of the general entry requirements or adult learners who are unsuccessful at the interview referred to in sub-paragraph (ii) of paragraph (f) of this bye-law, may be admitted to the Preparatory Course specifically related to Nursing as detailed in Appendix I to these bye-laws. Such applicants will be eligible to proceed to the Course if they successfully complete all the study-units included in the programme for the Preparatory Course immediately prior to the commencement of the Course. The requirements for admission and successful completion of the Preparatory Course are listed in Appendix I to these bye-laws.
 
-B.SC. (HONS) - UNDER THE AUSPICES OF
-
-*3*
-
-THE FACULTY OF HEALTH SCIENCES [S.L.327.269 (g) Occupational Therapy: a pass at Advanced Level at Grade C or better in Biology;
+(g) Occupational Therapy: a pass at Advanced Level at Grade C or better in Biology;
 
 (h) Physiotherapy: a pass at Advanced Level at Grade C or better in Biology; and a pass at Intermediate Level in Physics;
 
@@ -125,12 +109,6 @@ During the first year of the Course, students are also required to undergo an oc
 *Renumbered by: L.N. 346 of 2022. Substituted by: L.N. 179 of 2023. Amended by: L.N. 243 of 2024.*
 
 (2) The Course for the Mental Health Nursing and Nursing areas shall extend over a period of three years of full-time study, or their equivalent in part-time study.
-
-B.SC. (HONS) - UNDER THE AUSPICES OF
-
-*4*
-
-[S.L.327.269 THE FACULTY OF HEALTH SCIENCES
 
 ## 7. Areas of study.
 
@@ -178,13 +156,9 @@ Provided that course programmes and programmes of study are drawn up in accordan
 
 Students admitted in terms of bye-law 4, who would have successfully completed the Certificate in Clinical Nursing Practice course with the same area of study for which they are being accepted, will be allowed to transfer the study-units passed during the Certificate course to the course leading to the Degree on condition that they renounce the Certificate.
 
-B.SC. (HONS) - UNDER THE AUSPICES OF
+## 14. Conditions for re-assessment of practical/clinical study-units. Re-numbered by: L.N. 290 of 2011; L.N. 346 of 2022.
 
-*5*
-
-THE FACULTY OF HEALTH SCIENCES [S.L.327.269 14. (1) Students who fail a clinical practice study-unit or a study-unit involving a practical placement may be required to repeat the study-unit during the summer months before being re-assessed, or if such an arrangement is found not to be possible, re-do the study-unit in an additional year of study.
-
-*Conditions for re-assessment of practical/clinical study-units. Re-numbered by: L.N. 290 of 2011; L.N. 346 of 2022.*
+(1) Students who fail a clinical practice study-unit or a study-unit involving a practical placement may be required to repeat the study-unit during the summer months before being re-assessed, or if such an arrangement is found not to be possible, re-do the study-unit in an additional year of study.
 
 (2) The conditions for the re-assessment of such study-units shall be indicated in the description of each study-unit that is published in the catalogue.
 
@@ -246,12 +220,6 @@ Radiography:
 
 First Year Average Mark 15%
 
-B.SC. (HONS) - UNDER THE AUSPICES OF
-
-*6*
-
-[S.L.327.269 THE FACULTY OF HEALTH SCIENCES
-
 Second Year Average Mark 25%
 
 Third Year Average Mark 30%
@@ -298,10 +266,4 @@ Students shall be considered as having successfully completed the Preparatory Co
 
 ## 7.
 
-The provisions regarding assessment, progression and successful completion of the Preparatory Course, and any other provisions not outlined in this Appendix to these bye-laws shall be those stipulated in the Principal Regulations and shall apply B.SC. (HONS) - UNDER THE AUSPICES OF
-
-*7*
-
-THE FACULTY OF HEALTH SCIENCES [S.L.327.269
-
-mutatis mutandis.
+The provisions regarding assessment, progression and successful completion of the Preparatory Course, and any other provisions not outlined in this Appendix to these bye-laws shall be those stipulated in the Principal Regulations and shall apply mutatis mutandis.

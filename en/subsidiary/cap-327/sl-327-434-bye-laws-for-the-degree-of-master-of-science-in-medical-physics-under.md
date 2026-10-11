@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science in Medical Physics under the auspices of the Faculty of Health Sciences (S.L. 327.434)
 
-PHYSICS UNDER THE AUSPICES OF THE
-
-*1*
-
-FACULTY OF HEALTH SCIENCES [S.L.327.434
-
 **SUBSIDIARY LEGISLATION 327.434**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER**
@@ -76,13 +70,7 @@ These bye-laws shall be applicable for courses commencing in October 2020 or lat
 
 (ii) Applicants in possession of a first cycle degree in the above areas of study, comprising not less than 180 ECTS credits, may also be admitted to the Course subject to the successful completion of a Preparatory Programme.
 
-(2) The Board shall recommend to Senate the number of applicants that may be allowed to register for the course, depending on the availability of resources. The Board shall announce the PHYSICS UNDER THE AUSPICES OF THE
-
-*2*
-
-[S.L.327.434 FACULTY OF HEALTH SCIENCES
-
-number of available places at the time of the call for applications.
+(2) The Board shall recommend to Senate the number of applicants that may be allowed to register for the course, depending on the availability of resources. The Board shall announce the number of available places at the time of the call for applications.
 
 (3) When the number of places is so limited and the number of eligible applicants exceeds the number of places available, applicants will be selected using the following criteria, the weighting of which shall be published at the time of the call for applications:
 
@@ -122,13 +110,11 @@ The Course shall extend over three semesters of full-time study or the equivalen
 
 Students who obtain 60 ECTS credits assigned to taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the Postgraduate Diploma.
 
-PHYSICS UNDER THE AUSPICES OF THE
+## 8. Publication of programme of study.
 
-*3*
+*Renumbered by: L.N. 213 of 2024.*
 
-FACULTY OF HEALTH SCIENCES [S.L.327.434 8. The programme of study shall be published after approval by Senate, normally not less than eight months prior to the commencement of the course.
-
-*Publication of programme of study. Renumbered by: L.N. 213 of 2024.*
+The programme of study shall be published after approval by Senate, normally not less than eight months prior to the commencement of the course.
 
 ## 9. Assessment and progress.
 
@@ -167,12 +153,6 @@ FACULTY OF HEALTH SCIENCES [S.L.327.434 8. The programme of study shall be publi
 *Renumbered by: L.N. 213 of 2024.*
 
 The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma and of the Degree shall be based on the results obtained in all the components of the programme of study, all credits being weighted equally.
-
-PHYSICS UNDER THE AUSPICES OF THE
-
-*4*
-
-[S.L.327.434 FACULTY OF HEALTH SCIENCES
 
 ## 13. Special provisions for part-time courses.
 

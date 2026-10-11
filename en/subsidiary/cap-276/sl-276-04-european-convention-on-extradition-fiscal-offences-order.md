@@ -1,6 +1,6 @@
 ---
 title: "European Convention on Extradition (Fiscal Offences) Order"
-identifier: "S.L. 276.4"
+identifier: "S.L. 276.04"
 eli: "https://legislation.mt/eli/sl/276.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/276.4/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# European Convention on Extradition (Fiscal Offences) Order (S.L. 276.4)
-
-*1*
-
-(FISCAL OFFENCES) [S.L.276.04
+# European Convention on Extradition (Fiscal Offences) Order (S.L. 276.04)
 
 **SUBSIDIARY LEGISLATION 276.04**
 
@@ -50,10 +46,6 @@ In this Order, unless the context otherwise requires -
 The Extradition (Designated Foreign Countries) (No. 2) Order shall have effect as regards a country listed in the Schedule with the provision set out in Article 2 of the Protocol in place of Article 5 of the Convention.
 
 \*but see the Extradition (Designated Foreign Countries) Order - S.L. 276.05
-
-**[S.L.276.04 (FISCAL OFFENCES)**
-
-*2*
 
 Amended by: SCHEDULE
 
@@ -128,10 +120,6 @@ Slovakia
 Slovenia
 
 South Africa
-
-*3*
-
-(FISCAL OFFENCES) [S.L.276.04
 
 Spain
 

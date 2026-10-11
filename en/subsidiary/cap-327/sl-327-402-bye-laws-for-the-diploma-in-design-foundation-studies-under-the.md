@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in Design Foundation Studies under the auspices of the Faculty for the Built Environment (S.L. 327.402)
 
-*1*
-
-AUSPICES OF THE FACULTY FOR THE BUILT ENVIRONMENT [ S.L.327.402
-
 **SUBSIDIARY LEGISLATION 327.402**
 
 **BYE-LAWS FOR THE DIPLOMA IN DESIGN**
@@ -70,10 +66,6 @@ The course shall extend over a period of two semesters of full-time study.
 (2) The programme of study shall include a common core of visual design fundamentals, and elective study-units chosen from an approved list of study-units designed to, amongst other things, develop visual literacy and visual communication skills, and language, cognitive, and human communication skills.
 
 (3) The programme of study shall be drawn up by the Board of Studies and published by the Board after approval by Senate, normally not less than eight months prior to the commencement of the course.
-
-*2*
-
-[ S.L.327.402 AUSPICES OF THE FACULTY FOR THE BUILT ENVIRONMENT
 
 (4) Students who successfully complete a prescribed set of study-units totalling 30 credits and opt not to proceed with the course, or having proceeded do not successfully complete the course, shall be eligible for the award of the Certificate.
 

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the degree of Master in Translation and Terminology Studies or for the Degree of Master in Interpreting Studies under the auspices of the Faculty of Arts (S.L. 327.306)
 
-STUDIES OR DEGREE OF MASTER IN INTERPRETING
-
-*1*
-
-STUDIES UNDER THE AUSPICES OF THE FACULTY OF ARTS [S.L.327.306
-
 **SUBSIDIARY LEGISLATION 327.306**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER IN**
@@ -61,11 +55,11 @@ LEGAL NOTICE 67 of 2009, as amended by Legal Notices 7 of 2010, 393 of 2012, 207
 
 These bye-laws shall be applicable for courses commencing in October 2018 or later.
 
-*2*
+## 3. Requirements for admission.
 
-STUDIES OR DEGREE OF MASTER IN INTERPRETING [S.L.327.306 STUDIES UNDER THE AUSPICES OF THE FACULTY OF ARTS 3. (1) The Course shall be open to applicants who shall satisfy the following requirements:
+*Substituted by: L.N. 7 of 2009; L.N. 393 of 2012; L.N. 207 of 2013. Amended by: L.N. 315 of 2014. Substituted by: L.N.324 of 2017. Amended by: L.N. 44 of 2022.*
 
-*Requirements for admission. Substituted by: L.N. 7 of 2009; L.N. 393 of 2012; L.N. 207 of 2013. Amended by: L.N. 315 of 2014. Substituted by: L.N.324 of 2017. Amended by: L.N. 44 of 2022.*
+(1) The Course shall be open to applicants who shall satisfy the following requirements:
 
 (a) be in possession of any first cycle degree from this University or another higher education institution recognized by Senate, obtained with at least Second Class Honours or Category II or equivalent;
 
@@ -101,12 +95,6 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 (2) The list of languages offered in the programme of study shall be published prior to the commencement of each course.
 
-STUDIES OR DEGREE OF MASTER IN INTERPRETING
-
-*3*
-
-STUDIES UNDER THE AUSPICES OF THE FACULTY OF ARTS [S.L.327.306
-
 ## 6. Assessment and progress
 
 (1) The assessment of each taught study-unit shall be completed by the end of the semester in which the teaching of this study-unit is held.
@@ -137,11 +125,9 @@ STUDIES UNDER THE AUSPICES OF THE FACULTY OF ARTS [S.L.327.306
 
 (ii) the Board may not terminate studies prematurely according to (b) until it has first given the student a chance to be heard.
 
-*4*
+## 9. Classification of the Awards.
 
-STUDIES OR DEGREE OF MASTER IN INTERPRETING [S.L.327.306 STUDIES UNDER THE AUSPICES OF THE FACULTY OF ARTS 9. The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma and the Degree shall be based on the results obtained in all the components of the programme of study, all credits being weighted equally.
-
-*Classification of the Awards.*
+The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma and the Degree shall be based on the results obtained in all the components of the programme of study, all credits being weighted equally.
 
 ## 10. Special provisions for part-time courses.
 

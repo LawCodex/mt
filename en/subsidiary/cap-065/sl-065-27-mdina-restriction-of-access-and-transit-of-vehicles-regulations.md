@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Mdina (Restriction of Access and Transit of Vehicles) Regulations (S.L. 65.27)
 
-*1*
-
-AND TRANSIT OF VEHICLES) [S.L.65.27
-
 **SUBSIDIARY LEGISLATION 65.27**
 
 MDINA (RESTRICTION OF ACCESS AND TRANSIT OF VEHICLES) REGULATIONS
@@ -57,11 +53,7 @@ Notwithstanding the provisions of regulation 2 -
 
 *Form of application.*
 
-(2) The application for the permit referred to in subregulation (1) shall be in writing on the appropriate form appearing in the Schedule, and such application shall be processed by the Mdina [S.L.65.27 AND TRANSIT OF VEHICLES)
-
-Local Council following the payment to the Mdina Local Council of an administration fee of two euros and thirty-three cents (2.33) for each application.
-
-*2*
+(2) The application for the permit referred to in subregulation (1) shall be in writing on the appropriate form appearing in the Schedule, and such application shall be processed by the Mdina Local Council following the payment to the Mdina Local Council of an administration fee of two euros and thirty-three cents (2.33) for each application.
 
 *Permit to be signed by Mayor and Executive Secretary.*
 
@@ -70,8 +62,6 @@ Local Council following the payment to the Mdina Local Council of an administrat
 *Permit not to exceed twelve months and is not transferable.*
 
 (4) The said permit shall be issued for a period which does not exceed twelve months from the date of issue, and it shall be neither transferable to any other person or to any other vehicle.
-
-AND TRANSIT OF VEHICLES) [S.L.65.27 3
 
 SCHEDULE Substituted by:
 

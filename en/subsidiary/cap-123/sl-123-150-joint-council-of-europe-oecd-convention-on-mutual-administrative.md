@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Joint Council of Europe/OECD Convention on Mutual Administrative Assistance in Tax Matters Order (S.L. 123.150)
 
-*1*
-
-MUTUAL ADMINISTRATIVE ASSISTANCE IN TAX MATTERS [S.L.123.150
-
 **SUBSIDIARY LEGISLATION 123.150**
 
 JOINT COUNCIL OF EUROPE/OECD CONVENTION ON MUTUAL ADMINISTRATIVE ASSISTANCE
@@ -43,7 +39,7 @@ It is hereby declared:
 
 (c) that the Convention shall enter into force in Malta in accordance with the relevant provisions of Article 28 of the Convention;
 
-(d) that the date of entry into force of the Convention in Malta shall be announced by notice in the Gazette.\* 2 [S.L.123.150 MUTUAL ADMINISTRATIVE ASSISTANCE IN TAX MATTERS
+(d) that the date of entry into force of the Convention in Malta shall be announced by notice in the Gazette.\*
 
 \*the Agreement came into force on 1st September, 2013 - see L.N. 282 of 2013.
 
@@ -89,9 +85,7 @@ The Parties shall, subject to the provisions of Chapter IV, provide administrati
 
 Such administrative assistance shall comprise:
 
-a exchange of information, including simultaneous tax examinations and MUTUAL ADMINISTRATIVE ASSISTANCE IN TAX MATTERS [S.L.123.150 3
-
-participation in tax examinations abroad;
+a exchange of information, including simultaneous tax examinations and participation in tax examinations abroad;
 
 **b assistance in recovery, including measures of conservancy; and**
 
@@ -145,8 +139,6 @@ The Parties shall notify the Secretary General of the Council of Europe or the S
 
 The Convention shall also apply, as from their adoption, to any identical or substantially similar taxes which are imposed in a Contracting State after the entry into force of the Convention in respect of that Party in addition to or in place of the existing taxes listed in Annex A and, in that event, the Party concerned shall notify one of the Depositaries of the adoption of the tax in question.
 
-4 [S.L.123.150 MUTUAL ADMINISTRATIVE ASSISTANCE IN TAX MATTERS
-
 Chapter II - General definitions
 
 Article 3 - Definitions
@@ -187,8 +179,6 @@ Article 5 - Exchange of information on request
 
 \2. If the information available in the tax files of the requested State is not sufficient to enable it to comply with the request for information, that State shall take all relevant measures to provide the applicant State with the information requested.
 
-MUTUAL ADMINISTRATIVE ASSISTANCE IN TAX MATTERS [S.L.123.150 5
-
 Article 6 - Automatic exchange of information
 
 With respect to categories of cases and in accordance with procedures which they shall determine by mutual agreement, two or more Parties shall automatically exchange the information referred to in Article 4.
@@ -221,9 +211,7 @@ Article 9 - Tax examinations abroad
 
 \2. If the request is acceded to, the competent authority of the requested State shall, as soon as possible, notify the competent authority of the applicant State about the time and place of the examination, the authority or official designated to carry out the examination and the procedures and conditions required by the requested State for the conduct of the examination. All decisions with respect to the conduct of the tax examination shall be made by the requested State.
 
-\3. A Party may inform one of the Depositaries of its intention not to accept, as a general rule, such requests as are referred to in paragraph 1. Such a declaration 6 [S.L.123.150 MUTUAL ADMINISTRATIVE ASSISTANCE IN TAX MATTERS
-
-may be made or withdrawn at any time.
+\3. A Party may inform one of the Depositaries of its intention not to accept, as a general rule, such requests as are referred to in paragraph 1. Such a declaration may be made or withdrawn at any time.
 
 Article 10 - Conflicting information
 
@@ -257,9 +245,7 @@ Article 14 - Time limits
 
 \1. Questions concerning any period beyond which a tax claim cannot be enforced shall be governed by the law of the applicant State. The request for assistance shall give particulars concerning that period.
 
-\2. Acts of recovery carried out by the requested State in pursuance of a request for assistance, which, according to the laws of that State, would have the effect of suspending or interrupting the period mentioned in paragraph 1, shall also have this MUTUAL ADMINISTRATIVE ASSISTANCE IN TAX MATTERS [S.L.123.150 7
-
-effect under the laws of the applicant State. The requested State shall inform the applicant State about such acts.
+\2. Acts of recovery carried out by the requested State in pursuance of a request for assistance, which, according to the laws of that State, would have the effect of suspending or interrupting the period mentioned in paragraph 1, shall also have this effect under the laws of the applicant State. The requested State shall inform the applicant State about such acts.
 
 \3. In any case, the requested State is not obliged to comply with a request for assistance which is submitted after a period of 15 years from the date of the original instrument permitting enforcement.
 
@@ -303,9 +289,7 @@ a the authority or agency which initiated the request made by the competent auth
 
 b the name, address, or any other particulars assisting in the identification of the person in respect of whom the request is made;
 
-c in the case of a request for information, the form in which the applicant State wishes the information to be supplied in order to meet its needs; d in the case of a request for assistance in recovery or measures of conservancy, the nature of the tax claim, the components of the tax 8 [S.L.123.150 MUTUAL ADMINISTRATIVE ASSISTANCE IN TAX MATTERS
-
-claim and the assets from which the tax claim may be recovered;
+c in the case of a request for information, the form in which the applicant State wishes the information to be supplied in order to meet its needs; d in the case of a request for assistance in recovery or measures of conservancy, the nature of the tax claim, the components of the tax claim and the assets from which the tax claim may be recovered;
 
 e in the case of a request for service of documents, the nature and the subject of the document to be served;
 
@@ -337,9 +321,7 @@ e to provide administrative assistance if and insofar as it considers the taxati
 
 f to provide administrative assistance for the purpose of administering or enforcing a provision of the tax law of the applicant State, or any requirement connected therewith, which discriminates against a national of the requested State as compared with a national of the applicant State in the same circumstances;
 
-g to provide administrative assistance if the applicant State has not MUTUAL ADMINISTRATIVE ASSISTANCE IN TAX MATTERS [S.L.123.150 9
-
-pursued all reasonable measures available under its laws or administrative practice, except where recourse to such measures would give rise to disproportionate difficulty;
+g to provide administrative assistance if the applicant State has not pursued all reasonable measures available under its laws or administrative practice, except where recourse to such measures would give rise to disproportionate difficulty;
 
 h to provide assistance in recovery in those cases where the administrative burden for that State is clearly disproportionate to the benefit to be derived by the applicant State.
 
@@ -361,9 +343,7 @@ Article 23 - Proceedings
 
 \1. Proceedings relating to measures taken under this Convention by the requested State shall be brought only before the appropriate body of that State.
 
-\2. Proceedings relating to measures taken under this Convention by the 10 [S.L.123.150 MUTUAL ADMINISTRATIVE ASSISTANCE IN TAX MATTERS
-
-applicant State, in particular those which, in the field of recovery, concern the existence or the amount of the tax claim or the instrument permitting its enforcement, shall be brought only before the appropriate body of that State. If such proceedings are brought, the applicant State shall inform the requested State which shall suspend the procedure pending the decision of the body in question. However, the requested State shall, if asked by the applicant State, take measures of conservancy to safeguard recovery. The requested State can also be informed of such proceedings by any interested person. Upon receipt of such information the requested State shall consult on the matter, if necessary, with the applicant State.
+\2. Proceedings relating to measures taken under this Convention by the applicant State, in particular those which, in the field of recovery, concern the existence or the amount of the tax claim or the instrument permitting its enforcement, shall be brought only before the appropriate body of that State. If such proceedings are brought, the applicant State shall inform the requested State which shall suspend the procedure pending the decision of the body in question. However, the requested State shall, if asked by the applicant State, take measures of conservancy to safeguard recovery. The requested State can also be informed of such proceedings by any interested person. Upon receipt of such information the requested State shall consult on the matter, if necessary, with the applicant State.
 
 \3. As soon as a final decision in the proceedings has been given, the requested State or the applicant State, as the case may be, shall notify the other State of the decision and the implications which it has for the request for assistance.
 
@@ -390,8 +370,6 @@ The Secretary General of OECD shall inform the Parties, and the Signatory States
 Article 25 - Language
 
 Requests for assistance and answers thereto shall be drawn up in one of the official languages of the OECD and of the Council of Europe or in any other language agreed bilaterally between the Contracting States concerned.
-
-MUTUAL ADMINISTRATIVE ASSISTANCE IN TAX MATTERS [S.L.123.150 11
 
 Article 26 - Costs
 
@@ -421,8 +399,6 @@ Article 28 - Signature and entry into force of the Convention
 
 \5. After the entry into force of the 2010 Protocol, any State which is not a member of the Council of Europe or of the OECD may request to be invited to sign and ratify this Convention as amended by the 2010 Protocol. Any request to this effect shall be addressed to one of the Depositaries, who shall transmit it to the Parties. The Depositary shall also inform the Committee of Ministers of the Council of Europe and the OECD Council. The decision to invite States which so request to become Party to this Convention shall be taken by consensus by the Parties to the Convention through the co-ordinating body. In respect of any State ratifying the Convention as amended by the 2010 Protocol in accordance with this paragraph, this Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of deposit of the instrument of ratification with one of the Depositaries.
 
-12 [S.L.123.150 MUTUAL ADMINISTRATIVE ASSISTANCE IN TAX MATTERS
-
 ## 6.
 
 The provisions of this Convention, as amended by the 2010 Protocol, shall have effect for administrative assistance related to taxable periods beginning on or after 1 January of the year following the one in which the Convention, as amended by the 2010 Protocol, entered into force in respect of a Party, or where there is no taxable period, for administrative assistance related to charges to tax arising on or after 1 January of the year following the one in which the Convention, as amended by the 2010 Protocol, entered into force in respect of a Party. Any two or more Parties may mutually agree that the Convention, as amended by the 2010 Protocol, shall have effect for administrative assistance related to earlier taxable periods or charges to tax.
@@ -451,9 +427,7 @@ c not to provide assistance in respect of any tax claim, which is in existence a
 
 d not to provide assistance in the service of documents for all taxes or only for taxes in one or more of the categories listed in paragraph 1 of Article 2;
 
-e not to permit the service of documents through the post as provided for MUTUAL ADMINISTRATIVE ASSISTANCE IN TAX MATTERS [S.L.123.150 13
-
-in paragraph 3 of Article 17;
+e not to permit the service of documents through the post as provided for in paragraph 3 of Article 17;
 
 f to apply paragraph 7 of Article 28 exclusively for administrative assistance related to taxable periods beginning on or after 1 January of the third year preceding the one in which the Convention, as amended by the 2010 Protocol, entered into force in respect of a Party, or where there is no taxable period, for administrative assistance related to charges to tax arising on or after 1 January of the third year preceding the one in which the Convention, as amended by the 2010 Protocol, entered into force in respect of a Party.
 
@@ -485,9 +459,7 @@ d any declaration made in pursuance of the provisions of paragraph 3 of Article 
 
 e any reservation made in pursuance of the provisions of Article 30 and the withdrawal of any reservation effected in pursuance of the provisions of paragraph 4 of Article 30;
 
-f any notification received in pursuance of the provisions of paragraph 3 14 [S.L.123.150 MUTUAL ADMINISTRATIVE ASSISTANCE IN TAX MATTERS
-
-or 4 of Article 2, paragraph 3 of Article 3, Article 29 or paragraph 1 of Article 31;
+f any notification received in pursuance of the provisions of paragraph 3 or 4 of Article 2, paragraph 3 of Article 3, Article 29 or paragraph 1 of Article 31;
 
 g any other act, notification or communication relating to this Convention.
 
@@ -522,8 +494,6 @@ IN WITNESS WHEREOF this Instrument of Ratificationis signed and sealed for the R
 Done at Valletta, this 23rd day of May, Two Thousand and Thirteen.
 
 George W. Vella
-
-MUTUAL ADMINISTRATIVE ASSISTANCE IN TAX MATTERS [S.L.123.150 15
 
 Annex A Joint Council of Europe/OECD Convention on Mutual Administrative Assistance in Tax Matters
 
@@ -583,9 +553,7 @@ D. specific taxes on goods and services such as excise taxes;
 
 E. taxes on the use or ownership of motor vehicles;
 
-F. taxes on the use or ownership of movable property 16 [S.L.123.150 MUTUAL ADMINISTRATIVE ASSISTANCE IN TAX MATTERS
-
-other than motor vehicles;
+F. taxes on the use or ownership of movable property other than motor vehicles;
 
 G. any other taxes;
 

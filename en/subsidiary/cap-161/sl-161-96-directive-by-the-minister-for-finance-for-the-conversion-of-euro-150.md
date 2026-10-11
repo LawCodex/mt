@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister for Finance for the Conversion of Euro 150,000,000 out of the Euro 388,915,541 5.1% Malta Government Stock 2014 (III) into an aggregate of Euro 150,000,000 (S.L. 161.96)
 
-388,915,541 5.1% MALTA GOVERNMENT STOCK 2014
-
-*1*
-
-(III) INTO AN AGGREGATE OF EURO 150,000,000 [S.L.161.96
-
 **SUBSIDIARY LEGISLATION 161.96**
 
 **DIRECTIVE BY THE MINISTER FOR FINANCE**
@@ -66,10 +60,6 @@ In terms of the Financial Markets Act, when these Stocks have been allotted, an 
 ## 6. Amount of Stock to be issued for conversion.
 
 The amount to be created and issued by either of the Destination Stocks (Conversion Stocks), or any combination of the two Destination Stocks (Conversion Stocks) shall in the aggregate be Euro 150,000,000.
-
-*2*
-
-388,915,541 5.1% MALTA GOVERNMENT STOCK 2014 [S.L.161.96 (III) INTO AN AGGREGATE OF EURO 150,000,000
 
 ## 7. Rate of interest and dates of payment.
 

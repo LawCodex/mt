@@ -1,6 +1,6 @@
 ---
 title: "Il-Monti (Procedure) Regulations"
-identifier: "S.L. 269.1"
+identifier: "S.L. 269.01"
 eli: "https://legislation.mt/eli/sl/269.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/269.1/20210330/eng"
 retrieved: 2026-10-12
 ---
 
-# Il-Monti (Procedure) Regulations (S.L. 269.1)
+# Il-Monti (Procedure) Regulations (S.L. 269.01)
 
 **SUBSIDIARY LEGISLATION 269.01**
 

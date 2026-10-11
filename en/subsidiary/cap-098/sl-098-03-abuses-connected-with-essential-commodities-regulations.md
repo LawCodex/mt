@@ -1,6 +1,6 @@
 ---
 title: "Abuses connected with Essential Commodities Regulations"
-identifier: "S.L. 98.3"
+identifier: "S.L. 98.03"
 eli: "https://legislation.mt/eli/sl/98.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/98.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Abuses connected with Essential Commodities Regulations (S.L. 98.3)
+# Abuses connected with Essential Commodities Regulations (S.L. 98.03)
 
 **SUBSIDIARY LEGISLATION 98.03**
 

@@ -1,6 +1,6 @@
 ---
 title: "Extradition (Designated Foreign Countries) Order"
-identifier: "S.L. 276.5"
+identifier: "S.L. 276.05"
 eli: "https://legislation.mt/eli/sl/276.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/276.5/20260901/eng"
 retrieved: 2026-10-12
 ---
 
-# Extradition (Designated Foreign Countries) Order (S.L. 276.5)
+# Extradition (Designated Foreign Countries) Order (S.L. 276.05)
 
 **SUBSIDIARY LEGISLATION 276.05**
 
@@ -80,33 +80,17 @@ In this Order, unless the context otherwise requires -
 
 (2) The relevant Act and any applicable Order in force before the relevant date shall continue to apply to requests for the return of a fugitive criminal to a scheduled country pending in Malta on the relevant date and to requests made by Malta to a scheduled country before the relevant date, and any arrangement applicable between that country and Malta before the relevant date shall also continue to apply to those requests.
 
-(3) Where a scheduled country has, in terms of the
+(3) Where a scheduled country has, in terms of the Arrangement, given notice that as the requested country the legislation in force before its legislation implementing the provisions of the Arrangement applies to acts committed before a date specified by it, the relevant Act and any applicable Order in force before the relevant date shall continue to apply to those acts and any arrangement applicable between that country and Malta before the relevant date shall also continue to apply thereto.
 
-Arrangement, given notice that as the requested country the  
-legislation in force before its legislation implementing the  
-provisions of the Arrangement applies to acts committed before a  
-date specified by it, the relevant Act and any applicable Order in  
-force before the relevant date shall continue to apply to those acts  
-and any arrangement applicable between that country and Malta  
-before the relevant date shall also continue to apply thereto.  
-Scheduled  4. (1) Subject to the provisions of article 3, those countries  
-countries.  
-listed in Schedule 1 are hereby being designated as foreign  
-countries for the purposes of article 7 of the relevant Act in respect  
-of requests for the return of fugitive criminals from or to a  
-scheduled country received or made by Malta on or after the  
-relevant date and any arrangement with any such country, other  
-than the Arrangement, applicable to Malta before the relevant date  
-shall, in respect of such requests, be deemed to have been revoked  
-with effect from the relevant date.  
-(2) Subject to the provisions of article 3, the provisions of the  
-S.L. 276.03  Extradition (Designated Foreign Countries) Order (No.2), of the  
-Extraditon (Designated Foreign Countries) Order, and those of the  
-S.L. 276.04  European Convention on Extradition (Fiscal Offences) Order, in so  
-far as applicable to any scheduled country before the relevant date  
-shall with effect from the relevant date no longer apply to any such
+### 4. Scheduled countries.
 
-country in respect of requests for the return of fugitive criminals from or to a scheduled country received or made by Malta after the relevant date.
+(1) Subject to the provisions of article 3, those countries listed in Schedule 1 are hereby being designated as foreign countries for the purposes of article 7 of the relevant Act in respect of requests for the return of fugitive criminals from or to a scheduled country received or made by Malta on or after the relevant date and any arrangement with any such country, other than the Arrangement, applicable to Malta before the relevant date shall, in respect of such requests, be deemed to have been revoked with effect from the relevant date.
+
+*S.L. 276.03*
+
+(2) Subject to the provisions of article 3, the provisions of the Extradition (Designated Foreign Countries) Order (No.2), of the Extraditon (Designated Foreign Countries) Order, and those of the European Convention on Extradition (Fiscal Offences) Order, in so far as applicable to any scheduled country before the relevant date shall with effect from the relevant date no longer apply to any such country in respect of requests for the return of fugitive criminals from or to a scheduled country received or made by Malta after the relevant date.
+
+*S.L. 276.04*
 
 ## PART II — Extradition to scheduled countries
 

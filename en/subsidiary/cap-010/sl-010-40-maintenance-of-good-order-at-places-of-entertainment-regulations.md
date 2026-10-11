@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Maintenance of Good Order at Places of Entertainment Regulations (S.L. 10.40)
 
-*1*
-
-PLACES OF ENTERTAINMENT [S.L.10.40
-
 **SUBSIDIARY LEGISLATION 10.40**
 
 MAINTENANCE OF GOOD ORDER AT PLACES OF ENTERTAINMENT REGULATIONS
@@ -55,11 +51,7 @@ In these regulations, unless the context otherwise requires -
 
 "place of entertainment" means any dancing hall, discotheque or dancing theatre, excluding places where seats are provided for stage performances or plays to be watched by a completely seated audience, and includes any other premises licensed for the sale of wine, beer and spirituous liquor, and any place in the open air, where any entertainment, show or dancing is carried out but does not include a concert venue. Any unlicensed venue that is being used to host outdoor events for persons under the age of seventeen shall, for the purposes of these regulations, be considered as a place of entertainment.
 
-"proprietor" in relation to any entertainment means the person organising or managing the entertainment or who is responsible for the organisation or management thereof and includes any person having any pecuniary interest in the entertainment or in the proceeds thereof, and any person on whose behalf payments for an entertainment are received; and in the case of a juridical person, the expression "proprietor" shall also include the manager or any other principal officer of such juridical person. "Proprietor" shall not include the Commissioner of land in relation to places of entertainment or concert venues which consist of streets or other [S.L.10.40 PLACES OF ENTERTAINMENT
-
-public property.
-
-*2*
+"proprietor" in relation to any entertainment means the person organising or managing the entertainment or who is responsible for the organisation or management thereof and includes any person having any pecuniary interest in the entertainment or in the proceeds thereof, and any person on whose behalf payments for an entertainment are received; and in the case of a juridical person, the expression "proprietor" shall also include the manager or any other principal officer of such juridical person. "Proprietor" shall not include the Commissioner of land in relation to places of entertainment or concert venues which consist of streets or other public property.
 
 ## 3. Admission to dancing place.
 
@@ -99,10 +91,6 @@ Provided further that outdoor events held in areas of 750 square metres or less 
 
 Provided that:
 
-*3*
-
-PLACES OF ENTERTAINMENT [S.L.10.40
-
 (a) where alcoholic beverages are sold or made available at a concert venue to which persons under the age of seventeen are admitted, such alcoholic beverages shall only be sold or served in a physically separate area of the concert venue as indicated or approved by the Commissioner to which access shall be limited to persons over seventeen years of age; and
 
 (b) the Commissioner may if he considers it necessary:
@@ -126,10 +114,6 @@ PLACES OF ENTERTAINMENT [S.L.10.40
 (4) The Commissioner may remove from the premises any person who is disorderly or who disobeys his lawful orders.
 
 (5) In the case of serious disorder, the Commissioner may stop the entertainment at any time and close the premises and require the public to leave the premises.
-
-*4*
-
-[S.L.10.40 PLACES OF ENTERTAINMENT
 
 ## 8. Display of admission charges.
 
@@ -173,11 +157,7 @@ No permit or licence shall be granted which allows a party, concert or disco in 
 
 (1) The permit or licence authorising a party, concert or disco at any place of entertainment or concert venue shall lay down the maximum number of persons which may be admitted to the place of entertainment or concert venue.
 
-(2) Where the number of persons at any place of entertainment PLACES OF ENTERTAINMENT [S.L.10.40
-
-or at the concert venue exceeds the maximum number laid down in the relative permit or licence, the proprietor and the owner or administrator of the place of entertainment or of the concert venue as the case may be shall be guilty of an offence and shall be liable to the same punishments laid down in regulation 6(4).
-
-*5*
+(2) Where the number of persons at any place of entertainment or at the concert venue exceeds the maximum number laid down in the relative permit or licence, the proprietor and the owner or administrator of the place of entertainment or of the concert venue as the case may be shall be guilty of an offence and shall be liable to the same punishments laid down in regulation 6(4).
 
 ## 13. Right to refuse permit or licence.
 
@@ -211,11 +191,7 @@ Where any person has been found guilty of an offence against these regulations, 
 
 (1) The Minister responsible for Home Affairs shall appopint a board to be styled the Health and Safety Monitoring Board, hereinafter in this regulation referred to as "the board", which shall be composed of a chairman and three members, one of whom shall act as secretary to the Board, to be appointed from amongst persons who are experienced in matters relating to health, safety, noise pollution and civil protection.
 
-(2) The board shall have the right to regularly monitor all places of entertainment to ascertain that health, noise levels and [S.L.10.40 PLACES OF ENTERTAINMENT
-
-safety conditions meet satisfactory standards and for such purpose shall have the right to inspect any place of entertainment or concert venue at any time.
-
-*6*
+(2) The board shall have the right to regularly monitor all places of entertainment to ascertain that health, noise levels and safety conditions meet satisfactory standards and for such purpose shall have the right to inspect any place of entertainment or concert venue at any time.
 
 (3) The board shall have the right to order any proprietor of any premises used or intended to be used as a place of entertainment or as a concert venue to carry out, within a period of time to be fixed by the board, such alterations, additions and adjustments of any nature or any other measure as the board may deem fit to ensure satisfactory health, noise levels and safety conditions.
 

@@ -1,6 +1,6 @@
 ---
 title: "Export of Grapes Rules"
-identifier: "S.L. 85.5"
+identifier: "S.L. 85.05"
 eli: "https://legislation.mt/eli/sl/85.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/85.5/20231017/eng"
 retrieved: 2026-10-12
 ---
 
-# Export of Grapes Rules (S.L. 85.5)
+# Export of Grapes Rules (S.L. 85.05)
 
 **SUBSIDIARY LEGISLATION 85.05**
 

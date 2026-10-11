@@ -1,6 +1,6 @@
 ---
 title: "Organisation and Content of the Exchange of Information Extracted from the Criminal Record between Malta and other Member States Regulations."
-identifier: "S.L. 77.1"
+identifier: "S.L. 77.01"
 eli: "https://legislation.mt/eli/sl/77.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/77.1/20240802/eng"
 retrieved: 2026-10-12
 ---
 
-# Organisation and Content of the Exchange of Information Extracted from the Criminal Record between Malta and other Member States Regulations. (S.L. 77.1)
-
-INFORMATION FROM THE CRIMINAL RECORD
-
-*1*
-
-BETWEEN MALTA AND OTHER MEMBER STATES [S.L.77.01
+# Organisation and Content of the Exchange of Information Extracted from the Criminal Record between Malta and other Member States Regulations. (S.L. 77.01)
 
 **SUBSIDIARY LEGISLATION 77.01**
 
@@ -70,12 +64,6 @@ For the purpose of these regulations:
 
 "Member State" means any one of the Member States of the European Union;
 
-INFORMATION FROM THE CRIMINAL RECORD
-
-*2*
-
-[S.L.77.01 BETWEEN MALTA AND OTHER MEMBER STATES
-
 "National Central Authority" means the Director, Department of Justice within the Ministry responsible for Justice who by means of the Conducts and Criminal Records Office within the Department of Justice, is the designated central authority responsible for the national register of the criminal records;
 
 "third-country national" means a person who is not a citizen of the European Union within the meaning of Article 20(1) TFEU, or who is a stateless person or a person whose nationality is unknown;
@@ -104,11 +92,7 @@ Provided that if it is known that the convicted person is a national of several 
 
 (2) Any alteration or deletion of information transmitted by the central authorities of other Member States to the National Central Authority shall entail identical alteration or deletion by the National Central Authority regarding information stored in accordance with sub-regulation (1) for the purpose of re-transmission.
 
-(3) For the purpose of re-transmission, the National Central INFORMATION FROM THE CRIMINAL RECORD
-
-*3*
-
-BETWEEN MALTA AND OTHER MEMBER STATES [S.L.77.01 Authority may only use information which has been updated in accordance with sub-regulation (2).
+(3) For the purpose of re-transmission, the National Central Authority may only use information which has been updated in accordance with sub-regulation (2).
 
 ## 5. Request for information on convictions.
 
@@ -136,13 +120,7 @@ Provided that if the National Central Authority is the requested Member State, t
 
 (b) any convictions handed down in other Member States which were transmitted to the National Central Authority and entered in the criminal record;
 
-(c) any convictions handed down in third countries and subsequently transmitted to the National Central INFORMATION FROM THE CRIMINAL RECORD
-
-*4*
-
-[S.L.77.01 BETWEEN MALTA AND OTHER MEMBER STATES
-
-**Authority and entered in the criminal record.**
+(c) any convictions handed down in third countries and subsequently transmitted to the National Central Authority and entered in the criminal record.
 
 (2) When information extracted from the criminal record of a Maltese national is requested from the National Central Authority, for any purposes other than that of criminal proceedings, the National Central Authority shall in respect of convictions handed down within its territory, and of convictions handed down in third countries, which have been subsequently transmitted to it and entered in the criminal records, reply in accordance with Maltese legislation:
 
@@ -156,11 +134,7 @@ Provided further that when the central authority of the other Member State trans
 
 (4) When information extracted from the criminal record on convictions handed down against a national of a Member State other than a Maltese national is requested, the National Central Authority shall transmit such information to the same extent as provided for in article 13 of the European Convention on Mutual Assistance in Criminal Matters:
 
-Provided that if the National Central Authority is the requested INFORMATION FROM THE CRIMINAL RECORD
-
-*5*
-
-BETWEEN MALTA AND OTHER MEMBER STATES [S.L.77.01 Member State, the National Central Authority shall transmit its reply within twenty working days from the date the request was received.
+Provided that if the National Central Authority is the requested Member State, the National Central Authority shall transmit its reply within twenty working days from the date the request was received.
 
 (4a) When information extracted from the criminal record of a third-country national is requested, the National Central Authority shall transmit information on any conviction handed down in Malta and entered in the criminal records and on any conviction handed down in third countries and subsequently transmitted to the National Central Authority and entered into the criminal records:
 
@@ -184,13 +158,7 @@ Provided that, when the National Central Authority requires further information 
 
 (2) Personal data provided by the central authorities of other Member States for any purposes other than that of criminal proceedings may be used by the National Central Authority in accordance with Maltese legislation only for the purposes for which it was requested and within the limits specified in the form set out in Schedule I.
 
-(3) Without prejudice to sub-regulations (1) and (2), personal INFORMATION FROM THE CRIMINAL RECORD
-
-*6*
-
-[S.L.77.01 BETWEEN MALTA AND OTHER MEMBER STATES
-
-data provided by the central authorities of other Member States may be used for preventing an immediate and serious threat to public security.
+(3) Without prejudice to sub-regulations (1) and (2), personal data provided by the central authorities of other Member States may be used for preventing an immediate and serious threat to public security.
 
 (4) The National Central Authority shall take the necessary measures to ensure that personal data received from another Member State, if transmitted to a third country in accordance with regulation 6(3), is subject to the same usage limitations as those applicable in a requesting Member State in accordance with sub-regulation (2) of this regulation. The National Central Authority shall specify that personal data, if transmitted to a third country for the purposes of criminal proceedings, may be further used by that third country only for the purposes of criminal proceedings.
 
@@ -224,11 +192,7 @@ data provided by the central authorities of other Member States may be used for 
 
 (c) information that shall be transmitted, if available to the National Central Authority (additional information):
 
-INFORMATION FROM THE CRIMINAL RECORD
-
-*7*
-
-BETWEEN MALTA AND OTHER MEMBER STATES [S.L.77.01 (i) the convicted person’s identity number, or the type and number of the person’s identification document;
+(i) the convicted person’s identity number, or the type and number of the person’s identification document;
 
 (ii) fingerprints, which have been taken from that person;
 
@@ -253,12 +217,6 @@ Provided that the National Central Authority may transmit any other information 
 (4) If the mode of transmission referred to in sub-regulation (3) is not available, the National Central Authority shall transmit all information referred to in sub-regulation (3) by any means capable of producing a written record under conditions allowing the central authority of the receiving Member State to establish the authenticity of the information, taking the security of transmission into consideration.
 
 (5) If the mode of transmission referred to in sub-regulation (3) is not available for an extended period of time, the National Central Authority shall inform the other Member States and the European Commission.
-
-INFORMATION FROM THE CRIMINAL RECORD
-
-*8*
-
-[S.L.77.01 BETWEEN MALTA AND OTHER MEMBER STATES
 
 ## SCHEDULE I — [Regulations 5(4) and 8(1) and (2)] — Request for information extracted from the criminal record
 
@@ -288,11 +246,7 @@ File reference, if known:
 
 Full name (forenames and all surnames):
 
-INFORMATION FROM THE CRIMINAL RECORD
-
-*9*
-
-BETWEEN MALTA AND OTHER MEMBER STATES [S.L.77.01 Previous names:
+Previous names:
 
 Pseudonym and, or alias, if any:
 
@@ -335,12 +289,6 @@ Name:
 Telephone:
 
 \* To facilitate the identification of the person as much information as possible is to be provided.
-
-INFORMATION FROM THE CRIMINAL RECORD
-
-*10*
-
-[S.L.77.01 BETWEEN MALTA AND OTHER MEMBER STATES
 
 E-mail address:
 
@@ -390,8 +338,4 @@ Signature and official stamp (if appropriate):
 
 Name and position/organisation:
 
-INFORMATION FROM THE CRIMINAL RECORD
-
-*11*
-
-BETWEEN MALTA AND OTHER MEMBER STATES [S.L.77.01 If appropriate, please attach a list of convictions and send the complete package to the requesting Member State. It is not necessary to translate the form or the list into the language of the requesting Member State.
+If appropriate, please attach a list of convictions and send the complete package to the requesting Member State. It is not necessary to translate the form or the list into the language of the requesting Member State.

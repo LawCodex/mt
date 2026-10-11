@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science in Nursing or Midwifery under the auspices of the Faculty of Health Sciences (S.L. 327.339)
 
-DEGREE OF MASTER OF SCIENCE IN NURSING
-
-OR MIDWIFERY UNDER THE AUSPICES
-
-*1*
-
-OF THE FACULTY OF HEALTH SCIENCES [S.L.327.339
-
 **SUBSIDIARY LEGISLATION 327.339**
 
 BYE-LAWS FOR THE DEGREE OF MASTER OF

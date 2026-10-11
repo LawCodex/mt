@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister of Finance for the Issue of an amount not exceeding €61,881,201.96 4.8% Malta Government Stock 2016 (Second Issue) (S.L. 161.105)
 
-ISSUE OF AN AMOUNT NOT EXCEEDING €61,881,201.96
-
-4.8% MALTA GOVERNMENT STOCK 2016
-
-*1*
-
-(SECOND ISSUE) [S.L.161.105
-
 **SUBSIDIARY LEGISLATION 161.105**
 
 DIRECTIVE BY THE MINISTER OF FINANCE FOR THE ISSUE OF AN AMOUNT NOT EXCEEDING

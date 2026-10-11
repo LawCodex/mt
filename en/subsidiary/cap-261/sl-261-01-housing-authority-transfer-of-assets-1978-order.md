@@ -1,6 +1,6 @@
 ---
 title: "Housing Authority (Transfer of Assets) (1978) Order"
-identifier: "S.L. 261.1"
+identifier: "S.L. 261.01"
 eli: "https://legislation.mt/eli/sl/261.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/261.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Housing Authority (Transfer of Assets) (1978) Order (S.L. 261.1)
-
-*1*
-
-OF THE COMMISSIONER OF LAND [S.L.169.01
+# Housing Authority (Transfer of Assets) (1978) Order (S.L. 261.01)
 
 **SUBSIDIARY LEGISLATION 169.01**
 
@@ -65,10 +61,6 @@ I. As from 1st January, 1992:
 
 (8) The areas of land including any buildings thereon at }al- Far, limits of Bir\\ebbu[ia, shown bordered in red on plan L.D. 9/ 92.
 
-*2*
-
-[S.L.169.01 OF THE COMMISSIONER OF LAND
-
 Plans L.D. 1/92, L.D. 2/92 and L.D. 3/92 are enrolled in the acts of Notary Vincent Miceli by deed number 7 of 1992 dated 15th January, 1992 whilst plans L.D. 4/92, L.D. 6/92, L.D. 7/92, L.D. 8/92 and L.D. 9/92 are enrolled in the acts of Notary Vincent Miceli by deed number 116 of 1992 dated 30th March, 1992.
 
 (9) An area of land including any building built thereon at Safi shown bordered in red on plan L.D. 177/93, which plan is enrolled in the acts of Notary Vincent Miceli by virtue of deed dated 13th October, 1993.
@@ -97,11 +89,7 @@ II. 1st January, 1993
 
 (4) An area of land including any buildings thereon at }al Far, limits of Bir\\ebbu[ia, shown bordered in red on plan L.D. 9/92/4.
 
-(5) An area of land including any buildings thereon at Ricasoli, limits of Kalkara, shown bordered in red on plan L.D. 5/ OF THE COMMISSIONER OF LAND [S.L.169.01
-
-\92.
-
-*3*
+(5) An area of land including any buildings thereon at Ricasoli, limits of Kalkara, shown bordered in red on plan L.D. 5/ 92.
 
 Plans L.D. 9/92/1, L.D. 9/92/2 L.D. 9/92/3 and L.D. 9/92/4 are enrolled in the acts of Notary Vincent Miceli by virtue of deed dated 30th April, 1993. Plan L.D. 10/92 is enrolled in the acts of Notary Vincent Miceli by virtue of deed dated 3rd June, 1992.
 
@@ -137,11 +125,7 @@ An area of land, including any building thereon, at Marsa, shown bordered in red
 
 X. 13th May, 2003
 
-An area of land, including any building thereon, at Luqa, shown bordered in red on plan P.D. No. 115/2002, which plan is enrolled [S.L.169.01 OF THE COMMISSIONER OF LAND
-
-in the acts of Notary Vincent Miceli by virture of deed dated 7th November, 2002.
-
-*4*
+An area of land, including any building thereon, at Luqa, shown bordered in red on plan P.D. No. 115/2002, which plan is enrolled in the acts of Notary Vincent Miceli by virture of deed dated 7th November, 2002.
 
 XI. 9th September, 2003
 

@@ -1,6 +1,6 @@
 ---
 title: "Application of Part III of the Diplomatic Immunities and Privileges Act (European Stability Mechanism) Order"
-identifier: "S.L. 191.7"
+identifier: "S.L. 191.07"
 eli: "https://legislation.mt/eli/sl/191.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/191.7/20140730/eng"
 retrieved: 2026-10-12
 ---
 
-# Application of Part III of the Diplomatic Immunities and Privileges Act (European Stability Mechanism) Order (S.L. 191.7)
-
-DIPLOMATIC IMMUNITIES AND PRIVILEGES ACT
-
-*1*
-
-(EUROPEAN STABILITY MECHANISM) [S.L.191.07
+# Application of Part III of the Diplomatic Immunities and Privileges Act (European Stability Mechanism) Order (S.L. 191.07)
 
 **SUBSIDIARY LEGISLATION 191.07**
 
@@ -71,10 +65,6 @@ The ESM shall have full legal personality; it shall have full legal capacity to:
 
 (c) be a party to legal proceedings; and
 
-*2*
-
-DIPLOMATIC IMMUNITIES AND PRIVILEGES ACT [S.L.191.07 (EUROPEAN STABILITY MECHANISM)
-
 (d) enter into a headquarter agreement and/or protocols as necessary for ensuring that its legal status and its privileges and immunities are recognised and enforced.
 
 ## 3.
@@ -115,12 +105,4 @@ The ESM shall be exempted from any requirement to be authorised or licensed as a
 
 \3. The Managing Director may waive any such immunity in respect of any member of the staff of the ESM other than himself or herself.
 
-DIPLOMATIC IMMUNITIES AND PRIVILEGES ACT
-
-*3*
-
-(EUROPEAN STABILITY MECHANISM) [S.L.191.07 4 - omissis
-
-*4*
-
-DIPLOMATIC IMMUNITIES AND PRIVILEGES ACT [S.L.191.07 (EUROPEAN STABILITY MECHANISM)
+4 - omissis

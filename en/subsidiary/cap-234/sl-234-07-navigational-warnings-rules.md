@@ -1,6 +1,6 @@
 ---
 title: "Navigational Warnings Rules"
-identifier: "S.L. 234.7"
+identifier: "S.L. 234.07"
 eli: "https://legislation.mt/eli/sl/234.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/234.7/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Navigational Warnings Rules (S.L. 234.7)
+# Navigational Warnings Rules (S.L. 234.07)
 
 \*SUBSIDIARY LEGISLATION 234.07
 

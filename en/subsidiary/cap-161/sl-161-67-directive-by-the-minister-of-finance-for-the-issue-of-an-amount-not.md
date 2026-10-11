@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister of Finance for the Issue of an amount not exceeding €48,916,841.37 5.7% Malta Government Stock 2007 (Third Issue) (S.L. 161.67)
 
-ISSUE OF €48,916,841.37 5.7% MALTA
-
-*1*
-
-GOVERNMENT STOCK 2012 (THIRD ISSUE) [S.L.161.67
-
 **SUBSIDIARY LEGISLATION 161.67**
 
 DIRECTIVE BY THE MINISTER OF FINANCE FOR THE ISSUE OF AN AMOUNT NOT EXCEEDING

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with Barbados Order (S.L. 123.65)
 
-*1*
-
-WITH BARBADOS [S.L.123.65
-
 SUBSIDIARY LEGISLATION 123.65
 
 DOUBLE TAXATION RELIEF ON TAXES ON
@@ -50,8 +46,6 @@ It is hereby declared:-
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Convention has entered into force on the 19th June, 2002.
-
-2 [S.L.123.65 WITH BARBADOS
 
 ## SCHEDULE — CONVENTION BETWEEN MALTA AND BARBADOS — FOR THE AVOIDANCE OF DOUBLE TAXATION
 
@@ -109,9 +103,7 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 \1. For the purposes of this Convention, unless the context otherwise requires:
 
-(a) the term ''Barbados'' means the island of Barbados and the territorial waters thereof, including any area outside such territorial waters which WITH BARBADOS [S.L.123.65 3
-
-in accordance with international law and the laws of Barbados is an area within which the rights of Barbados with respect to the seabed and subsoil and their natural resources may be exercised;
+(a) the term ''Barbados'' means the island of Barbados and the territorial waters thereof, including any area outside such territorial waters which in accordance with international law and the laws of Barbados is an area within which the rights of Barbados with respect to the seabed and subsoil and their natural resources may be exercised;
 
 (b) the term ''Malta'' means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
 
@@ -145,7 +137,7 @@ in accordance with international law and the laws of Barbados is an area within 
 
 (b) any legal person, partnership or association deriving its status as such from the laws in force in Malta.
 
-\2. As regards the application of the Convention at any time by a Contracting State, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that State for the purposes of the taxes to which the Convention applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State. 4 [S.L.123.65 WITH BARBADOS
+\2. As regards the application of the Convention at any time by a Contracting State, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that State for the purposes of the taxes to which the Convention applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State.
 
 **ARTICLE 4**
 
@@ -189,8 +181,6 @@ in accordance with international law and the laws of Barbados is an area within 
 
 (a) a building site, a construction, assembly or installation project or supervisory activities in connection therewith, but only where such site, project or activities continue for a period of more than six months;
 
-WITH BARBADOS [S.L.123.65 5
-
 (b) the furnishing of services, including consultancy services, by an enterprise through employees or other personnel engaged by the enterprise for such purpose, but only where activities of that nature continue (for the same or a connected project) within a Contracting State for a period or periods aggregating more than six months within any twelve-month period.
 
 ## 4.
@@ -221,8 +211,6 @@ An enterprise shall not be deemed to have a permanent establishment in a Contrac
 
 The fact that a company which is a resident of a Contracting State controls or is controlled by a company which is a resident of the other Contracting State, or which carries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself constitute either company a permanent establishment of the other.
 
-6 [S.L.123.65 WITH BARBADOS
-
 **ARTICLE 6**
 
 **INCOME FROM IMMOVABLE PROPERTY**
@@ -247,9 +235,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \4. In determining the profits of a permanent establishment, there shall be allowed as deductions expenses which are incurred for the purposes of the permanent establishment, including executive and general administrative expenses so incurred, whether in the Contracting State in which the permanent establishment is situated or elsewhere.
 
-\5. Insofar as it has been customary in a Contracting State to determine the WITH BARBADOS [S.L.123.65 7
-
-profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph 3 shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary; the method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles contained in this Article.
+\5. Insofar as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph 3 shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary; the method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles contained in this Article.
 
 \6. No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
 
@@ -281,9 +267,7 @@ Where profits include items of income which are dealt with separately in other A
 
 and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
 
-\2. Where a Contracting State includes in the profits of an enterprise of that State - and taxes accordingly - profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Convention and the competent authorities of the Contracting 8 [S.L.123.65 WITH BARBADOS
-
-States shall if necessary consult each other.
+\2. Where a Contracting State includes in the profits of an enterprise of that State - and taxes accordingly - profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Convention and the competent authorities of the Contracting States shall if necessary consult each other.
 
 **ARTICLE 10**
 
@@ -309,9 +293,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \5. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company's undistributed profits to a tax on the company's undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
 
-\6. Where a company, which is a resident of a Contracting State having a permanent establishment in the other Contracting State, derives profits or income from that permanent establishment, any remittances or deemed remittances of such profits or income by the permanent establishment to the company which is a resident WITH BARBADOS [S.L.123.65 9
-
-of the first-mentioned Contracting State may, notwithstanding any other provisions of the Convention, be taxed in accordance with the law of the other Contracting State, but the rate of tax imposed on such remittance shall not exceed 5 percent.
+\6. Where a company, which is a resident of a Contracting State having a permanent establishment in the other Contracting State, derives profits or income from that permanent establishment, any remittances or deemed remittances of such profits or income by the permanent establishment to the company which is a resident of the first-mentioned Contracting State may, notwithstanding any other provisions of the Convention, be taxed in accordance with the law of the other Contracting State, but the rate of tax imposed on such remittance shall not exceed 5 percent.
 
 **ARTICLE 11**
 
@@ -330,8 +312,6 @@ of the first-mentioned Contracting State may, notwithstanding any other provisio
 \6. Interest shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment or fixed base, then such interest shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
 \7. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
-
-10 [S.L.123.65 WITH BARBADOS
 
 **ARTICLE 12**
 
@@ -355,9 +335,7 @@ of the first-mentioned Contracting State may, notwithstanding any other provisio
 
 **CAPITAL GAINS**
 
-\1. Gains derived by a resident of a Contracting State from the alienation of immovable property referred to in Article 6 and situated in the other Contracting WITH BARBADOS [S.L.123.65 11
-
-State may be taxed in that other State.
+\1. Gains derived by a resident of a Contracting State from the alienation of immovable property referred to in Article 6 and situated in the other Contracting State may be taxed in that other State.
 
 \2. Gains from the alienation of shares or comparable interests in a company the assets of which consist directly or indirectly principally of immovable property situated in a Contracting State may be taxed in that State.
 
@@ -385,9 +363,7 @@ State may be taxed in that other State.
 
 \1. Subject to the provisions of Articles 16, 18 and 19, salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
 
-\2. Notwithstanding the provisions of paragraph 1, remuneration derived by a 12 [S.L.123.65 WITH BARBADOS
-
-resident of a Contracting State in respect of an employment exercised in the other Contracting State shall be taxable only in the first-mentioned State if:
+\2. Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in the other Contracting State shall be taxable only in the first-mentioned State if:
 
 (a) the recipient is present in the other State for a period or periods not exceeding in the aggregate 183 days in any twelve-month period commencing or ending in the fiscal year concerned, and
 
@@ -420,8 +396,6 @@ Directors' fees and other similar payments derived by a resident of a Contractin
 \1. Subject to the provisions of paragraph 2 of Article 19, pensions and other similar remuneration paid to a resident of a Contracting State in consideration of past employment shall be taxable only in that State.
 
 \2. Notwithstanding the provisions of paragraph 1, pensions paid and other payments made under the social security legislation of a Contracting State shall be taxable only in that State.
-
-WITH BARBADOS [S.L.123.65 13
 
 **ARTICLE 19**
 
@@ -457,8 +431,6 @@ Payments which a student or trainee, who is or was immediately before visiting a
 
 \2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
-14 [S.L.123.65 WITH BARBADOS
-
 **ARTICLE 22**
 
 **ELIMINATION OF DOUBLE TAXATION**
@@ -483,9 +455,7 @@ where, in accordance with the provisions of this Convention, there is included i
 
 \1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith which is other than or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances and in particular, with respect to residence, are or may be subjected. This provision shall, notwithstanding the provisions of Article 1, also apply to persons who are not residents of one or both of the Contracting States.
 
-\2. The taxation on a permanent establishment, that an enterprise of a WITH BARBADOS [S.L.123.65 15
-
-Contracting State has in the other Contracting State, shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
+\2. The taxation on a permanent establishment, that an enterprise of a Contracting State has in the other Contracting State, shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
 
 \3. Except where the provisions of paragraph 1 of Article 9, paragraph 7 of Article 11, or paragraph 7 of Article 12 apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
 
@@ -506,8 +476,6 @@ Contracting State has in the other Contracting State, shall not be less favourab
 \3. The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Convention. They may also consult together for the elimination of double taxation in cases not provided for in the Convention.
 
 \4. The competent authorities of the Contracting States may communicate with each other directly for the purpose of reaching an agreement in the sense of the preceding paragraphs.
-
-16 [S.L.123.65 WITH BARBADOS
 
 **ARTICLE 25\***
 
@@ -536,8 +504,6 @@ Contracting State has in the other Contracting State, shall not be less favourab
 Nothing in this Convention shall affect the fiscal privileges of members of diplomatic missions or consular posts under the general rules of international law or under the provisions of special agreements.
 
 \*as substituted by Protocol set out in the Schedule to Legal Notice 447 of 2013 (see L.N. 142 of 2014).
-
-WITH BARBADOS [S.L.123.65 17
 
 **ARTICLE 27**
 
@@ -581,9 +547,7 @@ For the Government of Malta For the Government of Barbados
 
 The Government of Malta and the Government of Barbados,
 
-Desiring to conclude a Protocol to amend the Convention between Malta and Barbados for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion 18 [S.L.123.65 WITH BARBADOS
-
-with respect to Taxes on Income, signed at London on the 5th day of December 2001 (hereinafter referred to as "the Convention");
+Desiring to conclude a Protocol to amend the Convention between Malta and Barbados for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income, signed at London on the 5th day of December 2001 (hereinafter referred to as "the Convention");
 
 Have agreed as follows:
 
@@ -613,9 +577,7 @@ Article 25 of the Convention shall be deleted and replaced by the following:
 
 **Article 2**
 
-\1. Each of the Contracting States shall notify the other in writing, through diplomatic channels, of the completion of the procedures required by its law for the WITH BARBADOS [S.L.123.65 19
-
-bringing into force of this Protocol.
+\1. Each of the Contracting States shall notify the other in writing, through diplomatic channels, of the completion of the procedures required by its law for the bringing into force of this Protocol.
 
 \2. The Protocol shall enter into force on the thirtieth day after the receipt of the later of the notifications referred to in paragraph 1 and shall thereupon have effect in respect of Article 25 (Exchange of Information) of the Convention, for requests made on or after the date of entry into force of this Protocol.
 

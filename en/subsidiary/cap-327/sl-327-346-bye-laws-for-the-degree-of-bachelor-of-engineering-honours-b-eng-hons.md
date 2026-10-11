@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Engineering (Honours) - B.Eng. (Hons) - under the auspices of the Faculty of Engineering (S.L. 327.346)
 
-(HONOURS) - B.IND. ENG. (HONS) - UNDER THE
-
-*1*
-
-AUSPICES OF THE FACULTY OF ENGINEERING [S.L.327.346
-
 **SUBSIDIARY LEGISLATION 327.346**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF ENGINEERING (HONOURS) - B.ING. ENG. (HONS) - UNDER THE AUSPICES OF THE FACULTY
@@ -71,13 +65,7 @@ either (a) satisfy the general requirements for admission as specified in the Ad
 
 or (b) be in possession of passes in the Secondary Education Certificate Examination at Grade 5 or better in Maltese and English Language, and of either the MCAST-BTEC Higher National Diploma in an area deemed by the Board to be relevant to the Course, or the MCAST Diploma in Industrial Electronics.
 
-(2) If applicants are graduates of a university or have other qualifications considered to be sufficient, they may be exempted by the University Admissions Board, on the advice of the Faculty (HONOURS) - B.IND. ENG. (HONS) - UNDER THE
-
-*2*
-
-[S.L.327.346 AUSPICES OF THE FACULTY OF ENGINEERING
-
-Admissions Committee, from the whole or part of these special course requirements.
+(2) If applicants are graduates of a university or have other qualifications considered to be sufficient, they may be exempted by the University Admissions Board, on the advice of the Faculty Admissions Committee, from the whole or part of these special course requirements.
 
 (3) Applicants considered as “Adult Learners” (mature applicants) in terms of paragraph (c) of regulation 6 of the Admissions Regulations must be in possession of those qualifications and/or experience that would satisfy the Faculty Admissions Committee that they have reached the academic standard required to follow the Course with profit. Such applicants shall be required to submit with their application a letter written in English giving their motivation for applying for the Course together with a copy of their Curriculum Vitae (C.V.).
 

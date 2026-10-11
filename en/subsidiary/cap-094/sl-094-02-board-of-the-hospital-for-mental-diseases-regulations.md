@@ -1,6 +1,6 @@
 ---
 title: "Board of the Hospital for Mental Diseases Regulations"
-identifier: "S.L. 94.2"
+identifier: "S.L. 94.02"
 eli: "https://legislation.mt/eli/sl/94.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/94.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Board of the Hospital for Mental Diseases Regulations (S.L. 94.2)
+# Board of the Hospital for Mental Diseases Regulations (S.L. 94.02)
 
 **SUBSIDIARY LEGISLATION 94.02**
 

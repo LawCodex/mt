@@ -1,6 +1,6 @@
 ---
 title: "Central Bank of Malta (Penalties for Offences and Infringements) Regulations"
-identifier: "S.L. 204.5"
+identifier: "S.L. 204.05"
 eli: "https://legislation.mt/eli/sl/204.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/204.5/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Central Bank of Malta (Penalties for Offences and Infringements) Regulations (S.L. 204.5)
-
-CENTRAL BANK OF MALTA
-
-*1*
-
-(PENALTIES FOR OFFENCES AND INFRINGEMENTS) [S.L.204.05
+# Central Bank of Malta (Penalties for Offences and Infringements) Regulations (S.L. 204.05)
 
 SUBSIDIARY LEGISLATION 204.05
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Interview of Suspects and Accused Persons (Procedure) Regulations (S.L. 9.24)
 
-*1*
-
-(PROCEDURE) [S.L.9.24
-
 **SUBSIDIARY LEGISLATION 9.24**
 
 **INTERVIEW OF SUSPECTS AND ACCUSED**
@@ -43,11 +39,7 @@ retrieved: 2026-10-12
 
 (2) A suspect or accused person who elects for legal assistance may not be interviewed or continue to be interviewed until he has received such legal assistance unless there are lawfully authorised delays made in terms of these regulations.
 
-(3) If a lawyer has been contacted and has agreed to provide legal assistance to a suspect or an accused person, he should attend at the place where the suspect or accused person is detained or arrested promptly but not later than two hours after he has consented to provide legal assistance. Should two hours elapse from the time when the lawyer has agreed to provide legal assistance and the lawyer shall not have arrived at the place where legal assistance is required without such delay having been authorised by a Police officer not below the rank of Superintendent, awaiting further for the lawyer’s arrival shall be considered to cause unreasonable delay to the process of investigation. In such circumstances, the investigating officer shall request the Duty [S.L.9.24 (PROCEDURE)
-
-Advocate for Legal Aid to attend instead of the said lawyer so that the interview shall commence. Once the interview has commenced, it shall be the Duty Advocate for Legal Aid who shall assist the suspect or accused person and the lawyer who did not arrive within two hours from when he consented to provide legal assistance shall not be allowed in the room where the interview is taking place so as not to interrupt the interview from continuing in terms of law.
-
-*2*
+(3) If a lawyer has been contacted and has agreed to provide legal assistance to a suspect or an accused person, he should attend at the place where the suspect or accused person is detained or arrested promptly but not later than two hours after he has consented to provide legal assistance. Should two hours elapse from the time when the lawyer has agreed to provide legal assistance and the lawyer shall not have arrived at the place where legal assistance is required without such delay having been authorised by a Police officer not below the rank of Superintendent, awaiting further for the lawyer’s arrival shall be considered to cause unreasonable delay to the process of investigation. In such circumstances, the investigating officer shall request the Duty Advocate for Legal Aid to attend instead of the said lawyer so that the interview shall commence. Once the interview has commenced, it shall be the Duty Advocate for Legal Aid who shall assist the suspect or accused person and the lawyer who did not arrive within two hours from when he consented to provide legal assistance shall not be allowed in the room where the interview is taking place so as not to interrupt the interview from continuing in terms of law.
 
 (4) An investigating officer shall request the participation of the Duty Advocate for Legal Aid when a lawyer of choice of the suspect or accused person:
 
@@ -69,11 +61,7 @@ Advocate for Legal Aid to attend instead of the said lawyer so that the intervie
 
 ## 3. Misbehaviour by lawyer.
 
-(1) It shall not be lawful for a lawyer to conduct himself in such a way as to hinder the interviewer from being able properly to put questions to the suspect or accused person or for the lawyer to interrupt the interview from taking place. Nor shall it be lawful for a lawyer to answer questions on his client’s behalf or to act in any manner which prevents, interferes with or unreasonably obstructs the proper questioning of the suspect or the accused person or the suspect’s or accused person’s responses from being (PROCEDURE) [S.L.9.24
-
-recorded or in any manner hinders any investigative or evidence gathering act.
-
-*3*
+(1) It shall not be lawful for a lawyer to conduct himself in such a way as to hinder the interviewer from being able properly to put questions to the suspect or accused person or for the lawyer to interrupt the interview from taking place. Nor shall it be lawful for a lawyer to answer questions on his client’s behalf or to act in any manner which prevents, interferes with or unreasonably obstructs the proper questioning of the suspect or the accused person or the suspect’s or accused person’s responses from being recorded or in any manner hinders any investigative or evidence gathering act.
 
 (2) The interviewer, if he is of the view that the lawyer is misbehaving during the interview, shall warn the lawyer that if the latter does not behave properly, then the interviewer would have to request the lawyer to leave or be removed from the room where the interview is taking place, if need be by force.
 
@@ -90,10 +78,6 @@ Should the lawyer allege that there has been any irregularity in the interview, 
 ## 5. Place and conduct of interview.
 
 (1) Interviews shall take place in interview rooms which are adequately heated or cooled, as the case may be, and also adequately lit.
-
-*4*
-
-[S.L.9.24 (PROCEDURE)
 
 (2) The suspect or accused person, including his lawyer, shall not be required to stand during the interview but shall be asked to sit.
 
@@ -121,10 +105,6 @@ Should the lawyer allege that there has been any irregularity in the interview, 
 
 (a) cameras shall be placed in the interview room so as to ensure coverage of as much of the room as is practically possible whilst the interviews are taking place;
 
-*5*
-
-(PROCEDURE) [S.L.9.24
-
 (b) a sign or indicator which is visible to the suspect or the accused person shall be shown when the visual recording equipment is recording;
 
 (c) when the suspect or accused person is brought into the interview room, the interviewer shall without delay, but in the sight of the suspect or accused person, load the recording equipment and set it to record. The recording media shall be unwrapped or otherwise opened in the presence of the suspect or accused person;
@@ -149,10 +129,6 @@ Should the lawyer allege that there has been any irregularity in the interview, 
 
 (3) No transcription need be made of the recording when used in proceedings before any court of justice unless the court directs otherwise for reasons to be stated in its decree authorising the transcription. Nor need the suspect or the accused person sign any written statement made following the conclusion of the questioning once all the questions and answers, if any, are recorded on audio-visual means.
 
-(4) When recordings of interviews are exhibited in court and the court orders their transcription in terms of sub-regulation (3) [S.L.9.24 (PROCEDURE)
-
-the said transcription shall be made by the Registrar of Courts and a copy thereof shall be given to all the parties to the proceedings.
-
-*6*
+(4) When recordings of interviews are exhibited in court and the court orders their transcription in terms of sub-regulation (3) the said transcription shall be made by the Registrar of Courts and a copy thereof shall be given to all the parties to the proceedings.
 
 (5) It shall not be lawful for the court to order the Executive Police to do the transcription mentioned in sub-regulation (3).

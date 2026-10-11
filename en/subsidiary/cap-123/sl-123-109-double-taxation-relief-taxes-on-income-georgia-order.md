@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (Georgia) Order (S.L. 123.109)
 
-*1*
-
-WITH GEORGIA [ S.L.123.109
-
 SUBSIDIARY LEGISLATION 123.109
 
 DOUBLE TAXATION RELIEF ON TAXES ON
@@ -48,8 +44,6 @@ It is hereby declared:-
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Convention has entered into force on the 30th December, 2009.
-
-2 [ S.L.123.109 WITH GEORGIA
 
 ## SCHEDULE — AGREEMENT BETWEEN — THE GOVERNMENT OF MALTA
 
@@ -115,8 +109,6 @@ This Agreement shall apply also to any identical or substantially similar taxes 
 
 \1. For the purposes of this Agreement, unless the context otherwise requires:
 
-WITH GEORGIA [ S.L.123.109 3
-
 (a) the term "Georgia" means the territory defined by Georgian legislation, including land territory, its subsoil and the air space above it, internal waters and territorial sea, the sea bed, its sub-soil and the air space above them, in respect of which Georgia exercises its jurisdiction and sovereignty, as well as the contiguous zone, the exclusive economic zone and continental shelf adjacent to its territorial sea, in respect of which Georgia may exercise its sovereign rights and jurisdiction in accordance with the international law;
 
 (b) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
@@ -143,7 +135,7 @@ WITH GEORGIA [ S.L.123.109 3
 
 (ii) any legal person, partnership or association deriving its status as such from the laws in force in a Contracting State.
 
-\2. As regards the application of the Agreement at any time by a Contracting State, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that State for the purposes of the taxes to which the Agreement applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State. 4 [ S.L.123.109 WITH GEORGIA
+\2. As regards the application of the Agreement at any time by a Contracting State, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that State for the purposes of the taxes to which the Agreement applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State.
 
 **Article 4**
 
@@ -189,8 +181,6 @@ WITH GEORGIA [ S.L.123.109 3
 
 Notwithstanding the preceding provisions of this Article, the term "permanent establishment" shall be deemed not to include:
 
-WITH GEORGIA [ S.L.123.109 5
-
 (a) the use of facilities solely for the purpose of storage, display or delivery of goods or merchandise belonging to the enterprise;
 
 (b) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of storage, display or delivery;
@@ -225,8 +215,6 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
-6 [ S.L.123.109 WITH GEORGIA
-
 \4. The provisions of paragraphs 1 and 3 shall also apply to the income from immovable property of an enterprise and to income from immovable property used for the performance of independent personal services.
 
 **Article 7**
@@ -257,8 +245,6 @@ Where profits include items of income which are dealt with separately in other A
 
 \2. The provisions of paragraph 1 shall also apply to profits from the participation in a pool, a joint business or an international operating agency.
 
-WITH GEORGIA [ S.L.123.109 7
-
 **Article 9**
 
 **ASSOCIATED ENTERPRISES**
@@ -285,9 +271,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \3. The provisions of paragraph 1 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident through a perma ne nt e st ablis hment s ituat ed t herei n, or performs i n t hat ot her St ate independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14 of this Agreement, as the case may be, shall apply.
 
-\4. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a 8 [ S.L.123.109 WITH GEORGIA
-
-resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company’s undistributed profits to a tax on the company's undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
+\4. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company’s undistributed profits to a tax on the company's undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
 
 **Article 11**
 
@@ -310,8 +294,6 @@ resident of that other State or insofar as the holding in respect of which the d
 \1. Royalties arising in a Contracting State and beneficially owned by a resident of other Contracting State shall be taxable only in that other State.
 
 \2. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including cinematograph films, any patent, trade mark, design or model, plan, secret formula or process, or for information concerning industrial, commercial or scientific experience.
-
-WITH GEORGIA [ S.L.123.109 9
 
 \3. The provisions of paragraph 1 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7, or Article 14 of this Agreement, as the case may be, shall apply.
 
@@ -337,9 +319,7 @@ WITH GEORGIA [ S.L.123.109 9
 
 **INDEPENDENT PERSONAL SERVICES**
 
-\1. Income derived by an individual who is a resident of a Contracting State in 10 [ S.L.123.109 WITH GEORGIA
-
-respect of professional services or other activities of an independent character shall be taxable only in that State unless he has a fixed base regularly available to him in the other Contacting State for the purpose of performing his activities. If he has such a fixed base, the income may be taxed in the other State but only so much of it as is attributable to that fixed base.
+\1. Income derived by an individual who is a resident of a Contracting State in respect of professional services or other activities of an independent character shall be taxable only in that State unless he has a fixed base regularly available to him in the other Contacting State for the purpose of performing his activities. If he has such a fixed base, the income may be taxed in the other State but only so much of it as is attributable to that fixed base.
 
 \2. The term "professional services" includes especially independent scientific, literary, artistic, educational or teaching activities as well as the independent activities of physicians, lawyers, engineers, architects, dentists and accountants.
 
@@ -372,8 +352,6 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 \1. Notwithstanding the provisions of Articles 14 and 15 of this Agreement, income derived by a resident of a Contracting State as an entertainer, such as a theatre, motion picture, radio or television artiste, or a musician, or as a sportsman, from his personal activities as such exercised in the other Contracting State, may be taxed in that other State.
 
 \2. Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman himself but to another person, that income may, notwithstanding the provisions of Articles 14 and 15 of this Agreement, be taxed in the Contracting State in which the activities of the entertainer or sportsman are exercised.
-
-WITH GEORGIA [ S.L.123.109 11
 
 \3. The provisions of paragraphs 1 and 2 of this Article shall not apply to income derived from activities performed in a Contracting State by artistes or sportsmen if the visit to that State is wholly or mainly supported by public funds of one or both of the Contracting States or local authorities thereof. In such a case, the income shall be taxable only in the Contracting State in which the artiste or the sportsman is a resident.
 
@@ -411,9 +389,7 @@ Payments which a student or business apprentice who is or was immediately before
 
 **OTHER INCOME**
 
-\1. Items of income of a resident of a Contracting State, wherever arising, not 12 [ S.L.123.109 WITH GEORGIA
-
-dealt with in the foregoing Articles of this Agreement shall be taxable only in that State.
+\1. Items of income of a resident of a Contracting State, wherever arising, not dealt with in the foregoing Articles of this Agreement shall be taxable only in that State.
 
 \2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6 of this Agreement, if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein or performs in that other State independent personal services from a fixed base situated therein and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14 of this Agreement shall apply.
 
@@ -447,8 +423,6 @@ Such deduction in either case shall not, however, exceed that part of the income
 
 \2. In the case of Malta, double taxation shall be eliminated as follows:
 
-WITH GEORGIA [ S.L.123.109 13
-
 Subject to the provisions of the law of Malta regarding the allowance of a credit against Malta tax in respect of foreign tax, where, in accordance with the provisions of this Agreement, there is included in a Malta assessment income from sources within Georgia, the Georgian tax on such income shall be allowed as a credit against the relative Malta tax payable thereon.
 
 **Article 24**
@@ -471,9 +445,7 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 \1. Where a person considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Agreement, he may, irrespective of the remedies provided by the domestic law of those States, present his case to the competent authority of the Contracting State of which he is a resident or, if his case comes under paragraph 1 of Article 24, to that of the Contracting State of which he is a national. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of this Agreement.
 
-\2. The competent authority shall endeavour, if the objection appears to it to be 14 [ S.L.123.109 WITH GEORGIA
-
-justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Agreement. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
+\2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Agreement. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
 
 \3. The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Agreement. They may also consult together for the elimination of double taxation in cases not provided for in the Agreement.
 
@@ -496,8 +468,6 @@ justified and if it is not itself able to arrive at a satisfactory solution, to 
 (c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information the disclosure of which would be contrary to public policy (ordre public).
 
 \4. If information is requested by a Contracting State in accordance with this Article, the other Contracting State shall use its information gathering measures to obtain the requested information, even though that other State may not need such information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall such limitations be construed to permit a Contracting State to decline to supply information solely because it has no domestic interest in such information.
-
-WITH GEORGIA [ S.L.123.109 15
 
 \5. In no case shall the provisions of paragraph 3 be construed to permit a Contracting State to decline to supply information solely because the information is held by a bank, other financial institution, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person.
 
@@ -539,9 +509,7 @@ This Agreement shall remain in force until terminated by a Contracting State. Ei
 
 (b) in the case of Malta:
 
-in respect of taxes on income derived during any calendar year or 16 [ S.L.123.109 WITH GEORGIA
-
-accounting period, as the case may be, beginning on or after the first day of January immediately following the date on which the notice is given.
+in respect of taxes on income derived during any calendar year or accounting period, as the case may be, beginning on or after the first day of January immediately following the date on which the notice is given.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized thereto by their respective Governments, have signed this Agreement.
 

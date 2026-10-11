@@ -1,6 +1,6 @@
 ---
 title: "Local Enforcement System Committee Regulations"
-identifier: "S.L. 291.6"
+identifier: "S.L. 291.06"
 eli: "https://legislation.mt/eli/sl/291.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/291.6/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Local Enforcement System Committee Regulations (S.L. 291.6)
+# Local Enforcement System Committee Regulations (S.L. 291.06)
 
 SUBSIDIARY LEGISLATION 291.06
 

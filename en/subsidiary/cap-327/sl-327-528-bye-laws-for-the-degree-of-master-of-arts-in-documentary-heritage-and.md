@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-laws for the Degree of Master of Arts in Documentary Heritage and Melitensia Studies - M.Doc.Mel. - under the auspices of the Faculty of Media and Knowledge Sciences (S.L. 327.528)
 
-*1*
-
-MELITENSIA STUDIES - M.A. [S.L.327.528
-
 **SUBSIDIARY LEGISLATION 327.528**
 
 *Substituted by: L.N. 222 of 2019.*
@@ -61,11 +57,7 @@ These bye-laws shall be applicable for courses commencing in October 2019 or lat
 
 (c) the Diploma in Library and Information Studies, or the Diploma in Archives and Records Management, obtained from the University of Malta, or an equivalent qualification obtained from any other recognised university,
 
-provided that such applicants submit a portfolio [S.L.327.528 MELITENSIA STUDIES - M.A.
-
-documenting and describing a minimum of four years of proven professional experience in the library, archive or information management sector, which experience was obtained following the completion of their Diploma in Library and Information Studies, or the Diploma in Archives and Records Management course.
-
-*2*
+provided that such applicants submit a portfolio documenting and describing a minimum of four years of proven professional experience in the library, archive or information management sector, which experience was obtained following the completion of their Diploma in Library and Information Studies, or the Diploma in Archives and Records Management course.
 
 (2) Applicants in terms of paragraph (1)(b) and (c) of this bye-laws shall be interviewed by a board appointed for the purpose, to assess their suitability to follow the course with profit. The Board shall announce the assessment criteria for admission into the course at the time of the call for applications.
 
@@ -96,10 +88,6 @@ The course shall extend over three semesters of full-time study or six semesters
 (1) Students shall be required to submit an individual dissertation of approximately 25,000 words in accordance with the guidelines issued by the Board.
 
 (2) Each dissertation shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
-
-*3*
-
-MELITENSIA STUDIES - M.A. [S.L.327.528
 
 (3) A provisional title of the dissertation and a detailed research proposal shall be submitted to the Board for approval not later than six weeks before the end of the second semester.
 

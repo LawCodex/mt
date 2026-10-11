@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (The Republic of Turkey) Order (S.L. 123.147)
 
-*1*
-
-(THE REPUBLIC OF TURKEY) [S.L.123.147
-
 **SUBSIDIARY LEGISLATION 123.147**
 
 DOUBLE TAXATION RELIEF (TAXES ON INCOME) (THE REPUBLIC OF TURKEY) ORDER
@@ -46,8 +42,6 @@ It is hereby declared:
 (c) that the Agreement shall enter into force on such date as may be announced by notice in the Government Gazette.\*
 
 \*the Agreement came into force on 13th June, 2013 - see L.N. 177 of 2013.
-
-2 [S.L.123.147 (THE REPUBLIC OF TURKEY)
 
 ## SCHEDULE
 
@@ -119,11 +113,7 @@ The Agreement shall apply also to any identical or substantially similar taxes w
 
 **GENERAL DEFINITIONS**
 
-\1. For the purposes of this Agreement, unless the context otherwise requires:
-
-(THE REPUBLIC OF TURKEY) [S.L.123.147 3
-
-a) the term "Turkey" or "Malta" means, its land territory, internal waters, territorial sea and the airspace above them as well as maritime areas over which it has jurisdiction or sovereign rights for the purpose of exploration, exploitation or conservation of natural resources, pursuant to international law;
+\1. For the purposes of this Agreement, unless the context otherwise requires: a) the term "Turkey" or "Malta" means, its land territory, internal waters, territorial sea and the airspace above them as well as maritime areas over which it has jurisdiction or sovereign rights for the purpose of exploration, exploitation or conservation of natural resources, pursuant to international law;
 
 b) the terms "a Contracting State" and "the other Contracting State" mean Turkey or Malta as the context requires;
 
@@ -157,9 +147,7 @@ j) the term "international traffic" means any transport by a ship, aircraft or r
 
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
-a) he shall be deemed to be a resident of the State in which he has a permanent home available to him; if he has a permanent home available 4 [S.L.123.147 (THE REPUBLIC OF TURKEY)
-
-to him in both States, he shall be deemed to be a resident of the State with which his personal and economic relations are closer (centre of vital interests);
+a) he shall be deemed to be a resident of the State in which he has a permanent home available to him; if he has a permanent home available to him in both States, he shall be deemed to be a resident of the State with which his personal and economic relations are closer (centre of vital interests);
 
 b) if the State in which he has his centre of vital interests cannot be determined, or if he has not a permanent home available to him in either State, he shall be deemed to be a resident of the State in which he has an habitual abode;
 
@@ -199,9 +187,7 @@ b) the furnishing of services, including consultancy services by an enterprise t
 
 Notwithstanding the preceding provisions of this Article, the term "permanent establishment" shall be deemed not to include:
 
-a) the use of facilities solely for the purposes of storage, display or (THE REPUBLIC OF TURKEY) [S.L.123.147 5
-
-delivery of goods or merchandise belonging to the enterprise;
+a) the use of facilities solely for the purposes of storage, display or delivery of goods or merchandise belonging to the enterprise;
 
 b) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of storage, display or delivery;
 
@@ -229,9 +215,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \1. Income derived by a resident of a Contracting State from immovable property (including income from agriculture or forestry) situated in the other Contracting State may be taxed in that other State.
 
-\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture (including the breeding and cultivation of fish) and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, or to explore for, mineral deposits, sources and other natural resources; ships, boats and aircraft shall not be 6 [S.L.123.147 (THE REPUBLIC OF TURKEY)
-
-regarded as immovable property.
+\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture (including the breeding and cultivation of fish) and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, or to explore for, mineral deposits, sources and other natural resources; ships, boats and aircraft shall not be regarded as immovable property.
 
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
@@ -267,8 +251,6 @@ regarded as immovable property.
 
 a) an enterprise of a Contracting State participates directly or indirectly in the management, control or capital of an enterprise of the other Contracting State, or
 
-(THE REPUBLIC OF TURKEY) [S.L.123.147 7
-
 b) the same persons participate directly or indirectly in the management, control or capital of an enterprise of a Contracting State and an enterprise of the other Contracting State,
 
 and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
@@ -289,9 +271,7 @@ i) 10 per cent of the gross amount of the dividends if the beneficial owner is a
 
 ii) 15 per cent of the gross amount of the dividends in all other cases. b) Where the dividends paid by a company which is a resident of Malta to a resident of Turkey who is the beneficial owner thereof shall be exempt from any tax in Malta which is chargeable on dividends in addition to the tax chargeable in respect of the profits of the company. Furthermore, Malta tax chargeable with respect to distributed profits of the company shall not exceed 15 per cent of the gross amount thereof if the distributed profits consist of gains or profits earned in any year in respect of which that company is in receipt of any benefit under the provisions regulating aids to industries in Malta: provided that the receiving company submits returns and accounts to the taxation authorities of Malta in respect of its income liable to Malta tax for the relative year of assessment.
 
-This paragraph shall not affect the taxation of the company in respect of the profits out of which distributions are made, but the recipient of any distributed profits shall be entitled to any refund which may be available under the law of Malta 8 [S.L.123.147 (THE REPUBLIC OF TURKEY)
-
-on account of the tax paid by the company, if the tax so paid is in excess of that chargeable on the distributed profits in accordance with the provisions of this paragraph or of the law of Malta.
+This paragraph shall not affect the taxation of the company in respect of the profits out of which distributions are made, but the recipient of any distributed profits shall be entitled to any refund which may be available under the law of Malta on account of the tax paid by the company, if the tax so paid is in excess of that chargeable on the distributed profits in accordance with the provisions of this paragraph or of the law of Malta.
 
 \3. The term "dividends" as used in this Article means income from shares, "jouissance" shares or "jouissance" rights, founders’ shares or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident and income derived from an investment fund and investment trust.
 
@@ -313,9 +293,7 @@ on account of the tax paid by the company, if the tax so paid is in excess of th
 
 \4. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor’s profits, and in particular, income from government securities and income from bonds or debentures, including premiums attaching to such securities, bonds or debentures as well as all other income assimilated to income from money lent by the taxation law of the State in which the income arises.
 
-\5. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner (THE REPUBLIC OF TURKEY) [S.L.123.147 9
-
-of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
+\5. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \6. Interest shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment or fixed base, then such interest shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
@@ -335,9 +313,7 @@ Where, by reason of a special relationship between the payer and the beneficial 
 
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
-\5. Royalties shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a 10 [S.L.123.147 (THE REPUBLIC OF TURKEY)
-
-Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the right or property giving rise to the royalties is effectively connected, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
+\5. Royalties shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the right or property giving rise to the royalties is effectively connected, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
 \6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Agreement.
 
@@ -361,9 +337,7 @@ Contracting State or not, has in a Contracting State a permanent establishment o
 
 \1. Income derived by a resident of a Contracting State in respect of professional services or other activities of an independent character shall be taxable only in that State. However, such income may be taxed in the other Contracting State in the following circumstances:
 
-a) if he has a fixed base regularly available to him in the other Contracting State for the purpose of performing his activities; in that case, only so much of the income as is attributable to that fixed base may be taxed in (THE REPUBLIC OF TURKEY) [S.L.123.147 11
-
-that other Contracting State; or
+a) if he has a fixed base regularly available to him in the other Contracting State for the purpose of performing his activities; in that case, only so much of the income as is attributable to that fixed base may be taxed in that other Contracting State; or
 
 b) if his stay in the other Contracting State is for a period or periods amounting to or exceeding in the aggregate 183 days in any 12 month period commencing or ending in the fiscal year concerned; in that case, only so much of the income as is derived from the activity exercised in the other Contracting State may be taxed in that other State.
 
@@ -399,8 +373,6 @@ Directors' fees and other similar payments derived by a resident of a Contractin
 
 \2. Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman himself but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the entertainer or sportsman are exercised.
 
-12 [S.L.123.147 (THE REPUBLIC OF TURKEY)
-
 \3. Income derived by an entertainer or a sportsman from activities exercised in a Contracting State shall be exempt from tax in that State, if the visit to that State is supported wholly or mainly by public funds of the other Contracting State or a political subdivision or a local authority thereof.
 
 **Article 18**
@@ -435,9 +407,7 @@ b) However, such pension shall be taxable only in the other Contracting State if
 
 \1. Payments which a student or business apprentice who is a national of a Contracting State and who is present in the other Contracting State solely for the purpose of his education or training receives for the purpose of his maintenance, education or training shall not be taxed in that other State, provided that such payments arise from sources outside that other State.
 
-\2. Likewise, remuneration received by a teacher or by an instructor who is a national of a Contracting State and who is present in the other Contracting State for a period or periods not exceeding two years for the primary purpose of teaching or engaging in scientific research shall be exempt from tax in that other State on his (THE REPUBLIC OF TURKEY) [S.L.123.147 13
-
-remuneration from personal services for teaching or research, provided that such payments arise from sources outside that other State.
+\2. Likewise, remuneration received by a teacher or by an instructor who is a national of a Contracting State and who is present in the other Contracting State for a period or periods not exceeding two years for the primary purpose of teaching or engaging in scientific research shall be exempt from tax in that other State on his remuneration from personal services for teaching or research, provided that such payments arise from sources outside that other State.
 
 \3. Remuneration which a student or a trainee who is a national of a Contracting State derives from an employment which he exercises in the other Contracting State for a period or periods not exceeding 183 days in a fiscal year, in order to obtain practical experience related to his education or formation, shall not be taxed in that other State.
 
@@ -469,9 +439,7 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 \1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected. This provision shall, notwithstanding the provisions of Article 1, also apply to persons who are not residents of one or both of the Contracting States.
 
-\2. Subject to the provisions of paragraph 4 of Article 10, the taxation on a 14 [S.L.123.147 (THE REPUBLIC OF TURKEY)
-
-permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities.
+\2. Subject to the provisions of paragraph 4 of Article 10, the taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities.
 
 \3. Except where the provisions of paragraph 1 of Article 9, paragraph 7 of Article 11, or paragraph 6 of Article 12 apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
 
@@ -490,8 +458,6 @@ permanent establishment which an enterprise of a Contracting State has in the ot
 \3. The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Agreement. They may also consult together for the elimination of double taxation in cases not provided for in the Agreement.
 
 \4. The competent authorities of the Contracting States may communicate with each other directly for the purpose of reaching an agreement in the sense of the preceding paragraphs. When it seems advisable in order to reach agreement to have an oral exchange of opinions, such exchange may take place through a Commission consisting of representatives of the competent authorities of the Contracting States.
-
-(THE REPUBLIC OF TURKEY) [S.L.123.147 15
 
 **Article 25**
 
@@ -518,8 +484,6 @@ c) to supply information which would disclose any trade, business, industrial, c
 **LIMITATION OF BENEFITS**
 
 \1. Where under any provision of this Agreement any income is relieved from tax in a Contracting State and, under the law in force in the other Contracting State, a person, in respect of that income, is subject to tax by reference to the amount thereof which is remitted to or received in that other Contracting State and not by reference to the full amount thereof, then the relief to be allowed under this Agreement in the first-mentioned Contracting State shall apply only to so much of the income as is taxed in the other Contracting State.
-
-16 [S.L.123.147 (THE REPUBLIC OF TURKEY)
 
 \2. The provisions of Articles 6 to 21 of this Agreement shall not apply to:
 
@@ -557,9 +521,7 @@ b) in Malta, in respect of taxes on income derived during any calendar year or a
 
 **TERMINATION**
 
-\1. This Agreement shall remain in force until terminated by a Contracting State. Either Contracting State may terminate the Agreement, through diplomatic channels, by giving notice of termination at least six months before the end of any calendar year beginning after the expiration of a period of five years from the date of (THE REPUBLIC OF TURKEY) [S.L.123.147 17
-
-entry into force of the Agreement.
+\1. This Agreement shall remain in force until terminated by a Contracting State. Either Contracting State may terminate the Agreement, through diplomatic channels, by giving notice of termination at least six months before the end of any calendar year beginning after the expiration of a period of five years from the date of entry into force of the Agreement.
 
 \2. In such event, the Agreement shall cease to have effect:
 

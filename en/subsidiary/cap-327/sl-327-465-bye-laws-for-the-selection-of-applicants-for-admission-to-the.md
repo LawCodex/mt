@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Selection of Applicants for Admission to the Bachelor of Science (Honours) (Communication Therapy) Degree Course under the auspices of the Faculty of Health Sciences (S.L. 327.465)
 
-BACHELOR OF SCIENCE (HONOURS) (COMMUNICATION
-
-THERAPY) DEGREE COURSE UNDER THE AUSPICES OF
-
-*1*
-
-THE FACULTY OF HEALTH SCIENCES [S.L.327.465 SUBSIDIARY LEGISLATION 327.465
-
 BYE-LAWS FOR THE SELECTION OF APPLICANTS FOR ADMISSION TO THE BACHELOR OF
 
 **SCIENCE (HONOURS) (COMMUNICATION**
@@ -69,12 +61,6 @@ Grade B at Advanced Level equated to Grade A at Intermediate Level
 
 Grade A at Advanced Level equated to Grade A at Intermediate Level.
 
-BACHELOR OF SCIENCE (HONOURS) (COMMUNICATION THERAPY) DEGREE COURSE UNDER THE AUSPICES OF [S.L.327.465 THE FACULTY OF HEALTH SCIENCES
-
-*2*
-
-(c) The qualification categories, shall be the following:
-
 1st Category: those with an ‘A’ in the primary subject and an ‘A’ in the secondary subject
 
 2nd Category: those with an ‘A’ in the primary subject and a ‘B’ in the secondary subject
@@ -105,22 +91,16 @@ BACHELOR OF SCIENCE (HONOURS) (COMMUNICATION THERAPY) DEGREE COURSE UNDER THE AU
 
 (a) the applicant’s overall performance in all subjects presented for the award of the Matriculation Certificate. This shall be determined from the sum of points allocated for each subject, which shall be assigned as follows:
 
-BACHELOR OF SCIENCE (HONOURS) (COMMUNICATION
+Advanced Level Intermediate Level
 
-THERAPY) DEGREE COURSE UNDER THE AUSPICES OF
+**Grade A 30 points 10 points**
 
-*3*
+**Grade B 24 points 8 points**
 
-THE FACULTY OF HEALTH SCIENCES [S.L.327.465
+**Grade C 18 points 6 points**
 
-Advanced Level Intermediate Level Grade A 30 points 10 points
+**Grade D 12 points 4 points**
 
-Grade B 24 points 8 points
-
-Grade C 18 points 6 points
-
-Grade D 12 points 4 points
-
-Grade E 6 points 2 points
+**Grade E 6 points 2 points**
 
 (b) if this is not sufficient, the remaining eligible applicants shall be interviewed by an Interviewing Board appointed by the Board for the purpose, in order to fill the remaining place/s.

@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Individual Study-Units and Awards Regulations (S.L. 327.219)
 
-*1*
-
-STUDY-UNITS AND AWARDS [S.L.327.219
-
 **SUBSIDIARY LEGISLATION 327.219**
 
 **CERTIFICATION OF INDIVIDUAL STUDY-UNITS**
@@ -58,10 +54,6 @@ These regulations shall apply from October 2020 onwards. 3. (1) The University m
 (ii) On successful completion of all study-units included in a short course, visiting students shall be entitled to an Award, indicating the title of the short course, MQF level, and the title, number of credits and mark/grade achieved in each study-unit included in the short course.
 
 \*These regulations have been repealed by Legal Notice 165 of 2024.
-
-*2*
-
-[S.L.327.219 STUDY-UNITS AND AWARDS
 
 (4) The Board of a Faculty offering a certificate, diploma or degree course may accept the transfer of such credits to one of its courses if the content and level are comparable and if the study-units concerned have been completed not more than seven years previously.
 

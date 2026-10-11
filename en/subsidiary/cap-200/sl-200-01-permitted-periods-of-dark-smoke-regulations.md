@@ -1,6 +1,6 @@
 ---
 title: "Permitted Periods of Dark Smoke Regulations"
-identifier: "S.L. 200.1"
+identifier: "S.L. 200.01"
 eli: "https://legislation.mt/eli/sl/200.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/200.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Permitted Periods of Dark Smoke Regulations (S.L. 200.1)
+# Permitted Periods of Dark Smoke Regulations (S.L. 200.01)
 
 **SUBSIDIARY LEGISLATION 200.01**
 

@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Post Qualification Diploma in Health Science - PQ Dip. H.Sc. - and the Degree of Master of Health Science - M.Sc. (Health) - Course Regulations (S.L. 327.154)
 
-POST QUALIFICATION DIPLOMA IN HEALTH SCIENCE -
-
-PQ DIP.H.SC. - AND DEGREE OF MASTER OF HEALTH
-
-*1*
-
-SCIENCE - M.SC. (HEALTH) - COURSE [S.L.327.154
-
 **SUBSIDIARY LEGISLATION 327.154**
 
 **POST QUALIFICATION DIPLOMA IN HEALTH**

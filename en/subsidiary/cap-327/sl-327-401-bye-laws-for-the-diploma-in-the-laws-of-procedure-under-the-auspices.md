@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in the Laws of Procedure under the Auspices of the Faculty of Laws (S.L. 327.401)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF LAWS [S.L.327.401
-
 **SUBSIDIARY LEGISLATION 327.401**
 
 **BYE-LAWS FOR THE DIPLOMA**
@@ -61,15 +57,15 @@ These bye-laws shall be applicable as from October 2018 or later
 
 (3) Applicants admitted in terms of paragraph (2) of this bye-law shall be in possession of a pass in an English language proficiency test as approved by the University before being admitted to the Course, provided that applicants in possession of at least a Secondary Education Certificate pass at Grade 5 or higher in English Language shall be exempted from sitting for the proficiency test
 
-(4) The eligibility of applicants referred to in paragraph (2) of this bye-law shall be decided by an interviewing board, composed of at least three members, appointed by the Board for this purpose. [S.L.327.401 UNDER THE AUSPICES OF THE FACULTY OF LAWS 4. The course shall extend over a period of two semesters of full-time study or the equivalent in part-time study.
+(4) The eligibility of applicants referred to in paragraph (2) of this bye-law shall be decided by an interviewing board, composed of at least three members, appointed by the Board for this purpose.
+
+## 4. Course duration.
+
+The course shall extend over a period of two semesters of full-time study or the equivalent in part-time study.
 
 ## 5. Programme of study.
 
 (1) The course shall consist of a number of taught study-units to which a total of 60 credits are assigned.
-
-*2*
-
-*Course duration.*
 
 (2) The programme of study shall be drawn up by the Board of Studies and published by the Board after approval by Senate, normally not less than eight months prior to the commencement of the course.
 

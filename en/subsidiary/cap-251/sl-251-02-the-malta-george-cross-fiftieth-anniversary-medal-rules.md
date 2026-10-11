@@ -1,6 +1,6 @@
 ---
 title: "The Malta George Cross Fiftieth Anniversary Medal Rules"
-identifier: "S.L. 251.2"
+identifier: "S.L. 251.02"
 eli: "https://legislation.mt/eli/sl/251.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/251.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# The Malta George Cross Fiftieth Anniversary Medal Rules (S.L. 251.2)
+# The Malta George Cross Fiftieth Anniversary Medal Rules (S.L. 251.02)
 
 **SUBSIDIARY LEGISLATION 251.02**
 

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science in Integrated Product Development under the auspices of the Faculty of Engineering (S.L. 327.307)
 
-PRODUCT DEVELOPMENT UNDER THE AUSPICES
-
-*1*
-
-OF THE FACULTY OF ENGINEERING [ S.L.327.307
-
 **SUBSIDIARY LEGISLATION 327.307**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER**
@@ -75,11 +69,7 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 (1) The programme of study shall comprise study-units to which a total of 90 credits are assigned, of which 60 credits are assigned to taught study-units and 30 credits assigned to the dissertation study-unit.
 
-(2) Students who obtain the 60 credits assigned to the taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully PRODUCT DEVELOPMENT UNDER THE AUSPICES [ S.L.327.307 OF THE FACULTY OF ENGINEERING
-
-complete the dissertation, shall be eligible for the award of the Postgraduate Diploma.
-
-*2*
+(2) Students who obtain the 60 credits assigned to the taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the Postgraduate Diploma.
 
 (3) The programme of study shall be published after approval by Senate, normally not less than eight months prior to the commencement of the course.
 
@@ -115,13 +105,7 @@ complete the dissertation, shall be eligible for the award of the Postgraduate D
 
 ## 9. Classification of the Awards.
 
-The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma and of the Degree shall PRODUCT DEVELOPMENT UNDER THE AUSPICES
-
-*3*
-
-OF THE FACULTY OF ENGINEERING [ S.L.327.307
-
-be based on the results obtained in all the components of the programme of study, all credits being weighted equally.
+The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma and of the Degree shall be based on the results obtained in all the components of the programme of study, all credits being weighted equally.
 
 ## 10. Special provisions for part-time courses.
 

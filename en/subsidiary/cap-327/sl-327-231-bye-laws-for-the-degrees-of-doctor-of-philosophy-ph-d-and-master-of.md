@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degrees of Doctor of Philosophy - Ph. D. - and Master of Philosophy - M. Phil. (S.L. 327.231)
 
-OF DOCTOR OF PHILOSOPHY UNDER THE AUSPICES OF THE
-
-*1*
-
-INSTITUTE OF PUBLIC ADMINISTRATION AND MANAGEMENT [S.L.327.231
-
 **SUBSIDIARY LEGISLATION 327.231**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR OF**
@@ -71,11 +65,7 @@ Applicants for the Degree offered by the Institute shall be in possession of one
 
 ## 5. Complete of study-units.
 
-When the Board deems it necessary, it may require students to successfully complete a number of study-units during their studies, and, or to satisfactorily undertake tasks recommended by OF DOCTOR OF PHILOSOPHY UNDER THE AUSPICES OF THE [S.L.327.231 INSTITUTE OF PUBLIC ADMINISTRATION AND MANAGEMENT
-
-the Board, under those conditions that it may impose, after approval by Senate.
-
-*2*
+When the Board deems it necessary, it may require students to successfully complete a number of study-units during their studies, and, or to satisfactorily undertake tasks recommended by the Board, under those conditions that it may impose, after approval by Senate.
 
 ## 6. Institute Doctoral Committee.
 
@@ -115,8 +105,4 @@ The Board shall approve and publish guidelines on the format and presentation of
 
 (1) Students shall be required to submit a loose bound copy of their thesis for each member of the Board of Examiners, together with an electronic version. The officer in charge of the Institute shall issue a dated receipt.
 
-(2) On successful completion of their studies, students shall be required to submit to the Institute two hard bound copies and one electronic version of the thesis, which shall include a signed declaration of authenticity, within six weeks from the publication of their result. One copy of the thesis shall be kept in the Library of the Institute. The electronic version must conform to the standards set up by the University of Malta Library. Students who do not OF DOCTOR OF PHILOSOPHY UNDER THE AUSPICES OF THE INSTITUTE OF PUBLIC ADMINISTRATION AND MANAGEMENT
-
-comply with this bye-law shall not be awarded the Degree.
-
-*[S.L.327.231 3*
+(2) On successful completion of their studies, students shall be required to submit to the Institute two hard bound copies and one electronic version of the thesis, which shall include a signed declaration of authenticity, within six weeks from the publication of their result. One copy of the thesis shall be kept in the Library of the Institute. The electronic version must conform to the standards set up by the University of Malta Library. Students who do not comply with this bye-law shall not be awarded the Degree.

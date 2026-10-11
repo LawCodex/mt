@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Higher Diploma in Banking and Finance under the auspices of the Faculty of Economics, Management and Accountancy - Repealed by Legal Notice 3 of 2020 (S.L. 327.396)
 
-HIGHER DIPLOMA IN BANKING AND FINANCE UNDER
-
-THE AUSPICES OF THE FACULTY OF ECONOMICS,
-
-*1*
-
-MANAGEMENT AND ACCOUNTANCY [S.L.327.396
-
 **SUBSIDIARY LEGISLATION 327.396**
 
 **BYE-LAWS FOR THE HIGHER DIPLOMA IN**

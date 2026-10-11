@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science in Biomedical Sciences under the auspices of the Faculty of Medicine and Surgery (S.L. 327.353)
 
-SCIENCES UNDER THE AUSPICES OF THE FACULTY
-
-*1*
-
-OF MEDICINE AND SURGERY [S.L.327.353
-
 **SUBSIDIARY LEGISLATION 327.353**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER**
@@ -71,10 +65,6 @@ If there are more eligible applicants than the number of places available, appli
 
 (a) degree type and class/category;
 
-*2*
-
-SCIENCES UNDER THE AUSPICES OF THE FACULTY [S.L.327.353 OF MEDICINE AND SURGERY
-
 (b) experience in the area of the proposed study; and
 
 (c) performance during the interview.
@@ -123,11 +113,7 @@ Mainly research programmes of study shall comprise taught study-units to which a
 
 ## 13. Publication of programmes of study.
 
-The programmes of study shall be published after approval by Senate, normally not less than eight months prior to the SCIENCES UNDER THE AUSPICES OF THE FACULTY
-
-*3*
-
-OF MEDICINE AND SURGERY [S.L.327.353 commencement of the course.
+The programmes of study shall be published after approval by Senate, normally not less than eight months prior to the commencement of the course.
 
 ## 14. Assessment and progress.
 
@@ -165,11 +151,7 @@ OF MEDICINE AND SURGERY [S.L.327.353 commencement of the course.
 
 (i) the extension of the study period referred to in paragraph (a) shall be in accordance with the provisions of the Principal Regulations; and
 
-(ii) the Board may not terminate studies prematurely SCIENCES UNDER THE AUSPICES OF THE FACULTY [S.L.327.353 OF MEDICINE AND SURGERY
-
-according to paragraph (b) until it has first given the student a chance to be heard.
-
-*4*
+(ii) the Board may not terminate studies prematurely according to paragraph (b) until it has first given the student a chance to be heard.
 
 ## 18. Classification of the Awards.
 

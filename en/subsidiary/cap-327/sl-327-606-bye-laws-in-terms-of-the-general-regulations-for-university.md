@@ -15,11 +15,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws in terms of the General Regulations for University Postgraduate Awards, 2008 for the degree of Master of Arts in Social Practice Arts and Critical Education - M.A. - under the auspices of the Faculty of Education (S.L. 327.606)
 
-CRITICAL EDUCATION - M.A. -UNDER THE AUSPICES
-
-*1*
-
-OF THE FACULTY OF EDUCATION [S.L. 327.606 SUBSIDIARY LEGISLATION 327.606
+**SUBSIDIARY LEGISLATION 327.606**
 
 **BYE-LAWS IN TERMS OF THEGENERAL**
 
@@ -55,11 +51,7 @@ These bye-laws shall be applicable for courses commencing in October 2020 or lat
 
 (1) The Course shall be open to applicants in possession of a Bachelor degree obtained with at least Second Class Honours or with at least Category II in theatre studies, fine arts, art education, drama education or any other area deemed relevant by the Board:
 
-provided that applicants in possession of a degree with Third Class Honours or Category III shall satisfy the Board that they are in possession of other qualifications, including relevant CRITICAL EDUCATION - M.A. -UNDER THE AUSPICES [S.L. 327.606 OF THE FACULTY OF EDUCATION
-
-experience, obtained following the first cycle degree.
-
-*2*
+provided that applicants in possession of a degree with Third Class Honours or Category III shall satisfy the Board that they are in possession of other qualifications, including relevant experience, obtained following the first cycle degree.
 
 (2) In exceptional cases the Admissions Board, on the recommendation of the Board, may admit into the Course applicants not in possession of a first degree, provided that it is satisfied that such applicants are in possession of other relevant academic or professional qualifications and experience that together are deemed to be comparable to the level of a first degree in the areas indicated in paragraph (1) of this bye-law.
 
@@ -91,11 +83,7 @@ Students who obtain the 30 ECTS credits assigned to the taught study-units with 
 
 ## 7.
 
-Students shall be eligible for the award of the Degree if CRITICAL EDUCATION - M.A. -UNDER THE AUSPICES
-
-*3*
-
-OF THE FACULTY OF EDUCATION [S.L. 327.606 they obtain the 90 ECTS credits as outlined in the programme of study for the Course with an average mark of at least 50%.
+Students shall be eligible for the award of the Degree if they obtain the 90 ECTS credits as outlined in the programme of study for the Course with an average mark of at least 50%.
 
 ## 8.
 
@@ -123,11 +111,7 @@ The programme of study shall be published after approval by Senate, normally not
 
 (2) Students shall seek approval from the Board of Studies for any substantial modification in the title or content of the dissertation.
 
-(3) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor CRITICAL EDUCATION - M.A. -UNDER THE AUSPICES [S.L. 327.606 OF THE FACULTY OF EDUCATION
-
-deems this to be proper in the circumstances, provided that:
-
-*4*
+(3) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 

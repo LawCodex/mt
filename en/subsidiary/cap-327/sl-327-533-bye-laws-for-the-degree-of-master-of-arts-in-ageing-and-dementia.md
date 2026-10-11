@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Ageing and Dementia Studies - M.A. under the auspices of the Faculty for Social Wellbeing (S.L. 327.533)
 
-DEMENTIA STUDIES - M.A. - UNDER THE AUSPICES
-
-*1*
-
-OF THE FACULTY FOR SOCIAL WELLBEING [S.L.327.533
-
 **SUBSIDIARY LEGISLATION 327.533**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -68,11 +62,7 @@ These bye-laws shall be applicable for courses commencing in February 2016 or la
 
 (4) Senate, on the recommendation of the Board, shall determine the number of applicants that may be allowed to register for the course, depending on the availability of resources. The number of available places shall be announced at the time of the call for applications.
 
-(5) When the number of places is limited and the number of eligible applicants exceeds the number of places available, applicants shall be selected using the following criteria, the weighting of which shall be published at the time of the call for DEMENTIA STUDIES - M.A. - UNDER THE AUSPICES [S.L.327.533 OF THE FACULTY FOR SOCIAL WELLBEING
-
-applications:
-
-*2*
+(5) When the number of places is limited and the number of eligible applicants exceeds the number of places available, applicants shall be selected using the following criteria, the weighting of which shall be published at the time of the call for applications:
 
 (a) degree type and class;
 
@@ -118,11 +108,7 @@ The programme of study shall be published after approval by Senate, normally not
 
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 
-(ii) the Board may not terminate studies prematurely DEMENTIA STUDIES - M.A. - UNDER THE AUSPICES
-
-*3*
-
-OF THE FACULTY FOR SOCIAL WELLBEING [S.L.327.533 according to (b) until it has first given the student a chance to be heard.
+(ii) the Board may not terminate studies prematurely according to (b) until it has first given the student a chance to be heard.
 
 ## 10. Classification of the Awards.
 

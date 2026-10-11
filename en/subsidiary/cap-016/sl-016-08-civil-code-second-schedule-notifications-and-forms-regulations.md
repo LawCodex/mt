@@ -1,6 +1,6 @@
 ---
 title: "Civil Code (Second Schedule) (Notifications and Forms) Regulations"
-identifier: "S.L. 16.8"
+identifier: "S.L. 16.08"
 eli: "https://legislation.mt/eli/sl/16.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/16.8/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Civil Code (Second Schedule) (Notifications and Forms) Regulations (S.L. 16.8)
-
-*1*
-
-(NOTIFICATIONS AND FORMS) [S.L.16.08
+# Civil Code (Second Schedule) (Notifications and Forms) Regulations (S.L. 16.08)
 
 **SUBSIDIARY LEGISLATION 16.08**
 
@@ -65,11 +61,7 @@ It shall not be necessary to notify the Registrar for Legal Persons of any chang
 
 (a) the amending document authenticated by one administrator, when made by resolution or private writing; or
 
-(b) the amending document authenticated by a Notary [ S.L.16.08 (NOTIFICATIONS AND FORMS)
-
-when made by notarial deed; and
-
-*2*
+(b) the amending document authenticated by a Notary when made by notarial deed; and
 
 (c) the consolidated version of the statute, duly authenticated by a notary when it forms part of a notarial deed and by an administrator in any other case.
 
@@ -105,11 +97,7 @@ Foreign and international organisations (unless exempted by express provision of
 
 (4) A segregated cell may be wound up voluntarily or by order of the Court. A cell will be dissolved and consequently wound up in the following cases:
 
-(a) the organisation has by a majority of the (NOTIFICATIONS AND FORMS) [S.L.16.08
-
-administrators resolved to wind up the cell. A certified copy of a winding up resolution shall be delivered to the Registrar for Legal Persons within fourteen days from when it is passed according to the prescribed form. A cell may be wound up voluntarily only if its assets exceed its liabilities and all its debts have been paid. The administrators shall prepare a scheme of distribution of the remaining assets of the cell which shall be notified to the Registrar for Legal Persons and all interested parties in the prescribed form. In the absence of a clear statement in the statute of an organisation, as to how assets in a particular cell are to be disposed of on termination of a cell, the administrators may apply for directions and shall dispose of the assets as ordered by the Court;
-
-*3*
+(a) the organisation has by a majority of the administrators resolved to wind up the cell. A certified copy of a winding up resolution shall be delivered to the Registrar for Legal Persons within fourteen days from when it is passed according to the prescribed form. A cell may be wound up voluntarily only if its assets exceed its liabilities and all its debts have been paid. The administrators shall prepare a scheme of distribution of the remaining assets of the cell which shall be notified to the Registrar for Legal Persons and all interested parties in the prescribed form. In the absence of a clear statement in the statute of an organisation, as to how assets in a particular cell are to be disposed of on termination of a cell, the administrators may apply for directions and shall dispose of the assets as ordered by the Court;
 
 (b) a cell shall be wound up on order of the Court, upon the application from any interested party, for reasons valid at law in terms of the statute of the organisation or the Second Schedule, Civil Code;
 
@@ -133,10 +121,6 @@ Any decision to amalgamate or divide an organisation pursuant to article 22 of t
 
 (2) When an organisation adopts a scheme in terms of which regular contributions are to be made to the organisation, such scheme shall be submitted to the Registrar for Legal Persons for registration by filing the prescribed form within thirty days of its adoption by the administrators.
 
-*4*
-
-[ S.L.16.08 (NOTIFICATIONS AND FORMS)
-
 (3) For purposes of notice of endowments to the organisation pursuant to a scheme which is required to be given on an annual basis in virtue of articles 34(4) and 55 of the Second Schedule, Civil Code, such notice shall be given within thirty days of -
 
 *Cap. 16.*
@@ -155,11 +139,7 @@ as may be selected by the administrator when registering the scheme.
 
 ## 12. Forms. Cap. 16.
 
-The following forms prescribed in the Schedule shall be the forms to be used under the Second Schedule to the Civil Code.
-
-(NOTIFICATIONS AND FORMS) [S.L.16.08 5
-
-SCHEDULE Amended by:
+The following forms prescribed in the Schedule shall be the forms to be used under the Second Schedule to the Civil Code. SCHEDULE Amended by:
 
 L.N. 440 of 2010.
 
@@ -200,8 +180,6 @@ I/We declare that
 \*This could be a school, a union or employers association, a co-operative or any other legal organisation seeking to register to acquire legal personality.
 
 This Form A must be accompanied by an original or authenticated copy of the constitutive deed or statute, or in the case of a foundation created by a will, an extract of the relevant part, duly authenticated, the written consents of the administrators and the relevant registration fees.
-
-6 [ S.L.16.08 (NOTIFICATIONS AND FORMS)
 
 **Form B**
 
@@ -251,8 +229,6 @@ This form must be accompanied by an authenticated copy of the constitutive deed 
 
 It must also be accompanied by a statement of the current officers of the organisation.
 
-(NOTIFICATIONS AND FORMS) [S.L.16.08 7
-
 **Form C**
 
 **CIVIL CODE, SECOND SCHEDULE**
@@ -288,8 +264,6 @@ Signature: ................................................ Name: ..............
 .............................................................................................................................
 
 (a) State date when new appointment made
-
-8 [ S.L.16.08 (NOTIFICATIONS AND FORMS)
 
 **Form D**
 
@@ -333,8 +307,6 @@ Signature: ................................................ Name: ..............
 
 \*Delete as applicable
 
-(NOTIFICATIONS AND FORMS) [S.L.16.08 9
-
 **Form E**
 
 **CIVIL CODE, SECOND SCHEDULE**
@@ -357,7 +329,7 @@ Signature: ................................................ Name: ..............
 
 Dated this .............. day of .................................... of the year ...................
 
-............................................................................................................................. 10 [ S.L.16.08 (NOTIFICATIONS AND FORMS)
+.............................................................................................................................
 
 **Form F**
 
@@ -397,8 +369,6 @@ Dated this .............. day of .................................... of the yea
 
 This Form F must be accompanied by the written consent of the administrator appointed to so act.
 
-(NOTIFICATIONS AND FORMS) [S.L.16.08 11
-
 **Form G**
 
 **CIVIL CODE, SECOND SCHEDULE**
@@ -430,8 +400,6 @@ Dated this .............. day of .................................... of the yea
 This Form G is required to be filed with the Registrar, the founder or his heirs and the persons named as succeeding, if any, within fifteen days from his/her appointment.
 
 \* Delete as applicable
-
-12 [ S.L.16.08 (NOTIFICATIONS AND FORMS)
 
 **Form H**
 
@@ -466,8 +434,6 @@ Signature: ................................................ Name: ..............
 .............................................................................................................................
 
 \* Delete as applicable
-
-(NOTIFICATIONS AND FORMS) [S.L.16.08 13
 
 **Form I**
 
@@ -504,8 +470,6 @@ Dated this .............. day of .................................... of the yea
 .............................................................................................................................
 
 (a) State date when new appointment made
-
-14 [ S.L.16.08 (NOTIFICATIONS AND FORMS)
 
 **Form J**
 
@@ -545,8 +509,6 @@ Dated this .............. day of .................................... of the yea
 
 (b) State name and residence of the current legal representative
 
-(NOTIFICATIONS AND FORMS) [S.L.16.08 15
-
 **Form K**
 
 **CIVIL CODE, SECOND SCHEDULE**
@@ -574,8 +536,6 @@ Dated this .............. day of .................................... of the yea
 .............................................................................................................................
 
 \* This form applies to hybrid organisations which are required to register as a foundation although having elements of associations. These organisations have an option to amend the statute to comply with the requirements of associations which are to be registered as associations within two years from the relevant date.
-
-16 [ S.L.16.08 (NOTIFICATIONS AND FORMS)
 
 **Form L**
 
@@ -607,8 +567,6 @@ Dated this .............. day of .................................... of the yea
 
 (c) State date of conversion into a trust
 
-(NOTIFICATIONS AND FORMS) [S.L.16.08 17
-
 **Form M**
 
 **CIVIL CODE, SECOND SCHEDULE**
@@ -634,8 +592,6 @@ Dated this .............. day of .................................... of the yea
 .............................................................................................................................
 
 (a) State date of resolution
-
-18 [ S.L.16.08 (NOTIFICATIONS AND FORMS)
 
 **Form N**
 
@@ -663,8 +619,6 @@ Dated this .............. day of .................................... of the yea
 
 (a) State name and residence of Administrator
 
-(NOTIFICATIONS AND FORMS) [S.L.16.08 19
-
 **Form O**
 
 **CIVIL CODE, SECOND SCHEDULE**
@@ -690,8 +644,6 @@ Dated this .............. day of .................................... of the yea
 .............................................................................................................................
 
 (a) State date of Court order
-
-20 [ S.L.16.08 (NOTIFICATIONS AND FORMS)
 
 **Form P**
 
@@ -720,8 +672,6 @@ Dated this .............. day of .................................... of the yea
 .............................................................................................................................
 
 (a) State date of cessation of operations
-
-(NOTIFICATIONS AND FORMS) [S.L.16.08 21
 
 **Form Q**
 
@@ -763,8 +713,6 @@ Dated this ....................... day of ........................... of the yea
 
 (d) Signature of liquidator(s)
 
-22 [ S.L.16.08 (NOTIFICATIONS AND FORMS)
-
 **Form R**
 
 **CIVIL CODE, SECOND SCHEDULE**
@@ -788,8 +736,6 @@ Dated this ....................... day of ........................... of the yea
 .............................................................................................................................
 
 (a) State date of appointment of liquidator
-
-(NOTIFICATIONS AND FORMS) [S.L.16.08 23
 
 **Form S**
 
@@ -818,8 +764,6 @@ Dated this .............. day of .................................... of the yea
 (b) State date of completion of winding up
 
 \* Delete as applicable
-
-24 [ S.L.16.08 (NOTIFICATIONS AND FORMS)
 
 **Form T**
 
@@ -855,8 +799,6 @@ Signature: ................................................ Name: ..............
 
 Important notice: article 20(5) of the Second Schedule, Civil Code, states that when a segregated cell is established (a) the assets and liabilities of the cell shall constitute a distinct patrimony which shall be distinct from all other assets and liabilities of the organisation or other cells which may be established; (b) the assets of such cell shall be available for the fulfilment of any obligations undertaken by the organisation in relation to that cell but not for any other liabilities entered into by the organisation for itself or in respect of other cells; (c) the general assets of an organisation shall not be available for the fulfilment of the obligations undertaken in relation to the cell; and (d) there shall be implied (except in so far as the same is expressly excluded in writing) in every transaction entered into by an organisation with segregated cells the following terms that - (i) no party shall seek, whether in any proceedings or by any other means whatsoever, to make or attempt to use any assets attributable to any cell to satisfy a liability not attributable to that cell; and (ii) if any party succeeds by any means whatsoever in using any assets attributable to any cell to satisfy a liability not attributable to that cell, that party shall be liable to pay to the organisation a sum equal to the value of the benefit thereby obtained by him; and (iii) any asset or sum recovered by the organisation under the implied term set out in this paragraph or by any other means whatsoever in the events referred to herein shall, after the deduction or payment of any costs of recovery, be applied by the organisation so as to compensate the cell affected.
 
-(NOTIFICATIONS AND FORMS) [S.L.16.08 25
-
 **Form U**
 
 **CIVIL CODE, SECOND SCHEDULE**
@@ -889,8 +831,6 @@ Dated this .............. day of .................................... of the yea
 
 (b) State the new name of the cell.
 
-26 [ S.L.16.08 (NOTIFICATIONS AND FORMS)
-
 **Form V**
 
 **CIVIL CODE, SECOND SCHEDULE**
@@ -918,8 +858,6 @@ Signature: ................................................ Name: ..............
 (a) State date of resolution
 
 (b) State name of cell
-
-(NOTIFICATIONS AND FORMS) [S.L.16.08 27
 
 **Form W**
 
@@ -951,8 +889,6 @@ Dated this .............. day of .................................... of the yea
 
 (b) State name of Cell
 
-28 [ S.L.16.08 (NOTIFICATIONS AND FORMS)
-
 **Form X**
 
 **CIVIL CODE, SECOND SCHEDULE**
@@ -982,8 +918,6 @@ Dated this .............. day of .................................... of the yea
 (a) State name of cell
 
 (b) State date of Court order
-
-(NOTIFICATIONS AND FORMS) [S.L.16.08 29
 
 **Form Y**
 
@@ -1027,8 +961,6 @@ Dated this ....................... day of ........................... of the yea
 
 (d) Signature of liquidator(s)
 
-30 [ S.L.16.08 (NOTIFICATIONS AND FORMS)
-
 **Form Z**
 
 **CIVIL CODE, SECOND SCHEDULE**
@@ -1057,8 +989,6 @@ Dated this ....................... day of ........................... of the yea
 
 (b) State date of appointment of liquidator
 
-(NOTIFICATIONS AND FORMS) [S.L.16.08 31
-
 **Form AA**
 
 **CIVIL CODE, SECOND SCHEDULE**
@@ -1086,8 +1016,6 @@ Dated this .............. day of .................................... of the yea
 .............................................................................................................................
 
 (a) State date of completion of winding up
-
-32 [ S.L.16.08 (NOTIFICATIONS AND FORMS)
 
 **Form BB**
 
@@ -1135,8 +1063,6 @@ Dated this .............. day of .................................... of the yea
 
 (b) State name of organisation amalgamated
 
-(NOTIFICATIONS AND FORMS) [S.L.16.08 33
-
 **Form CC**
 
 **CIVIL CODE, SECOND SCHEDULE**
@@ -1179,8 +1105,6 @@ Dated this .............. day of .................................... of the yea
 
 (b) State name(s) of organisations into which the Organisation is being divided.
 
-34 [ S.L.16.08 (NOTIFICATIONS AND FORMS)
-
 **Form DD**
 
 **CIVIL CODE, SECOND SCHEDULE**
@@ -1222,8 +1146,6 @@ Dated this .............. day of .................................... of the yea
 ............................................................................................................................. \* The inventory or descriptive note of the assets must be filed within 3 months from any endowment.
 
 \*\* Other than cash endowments made pursuant to a scheme registered with the Registrar in accordance with article 34(4) / article 55 of the Second Schedule of the Civil Code in which case Form EE is to be used to register the scheme and this Form DD is to be used thereafter for notice of the endowments.
-
-(NOTIFICATIONS AND FORMS) [S.L.16.08 35
 
 **Form EE**
 

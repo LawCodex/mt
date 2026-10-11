@@ -1,6 +1,6 @@
 ---
 title: "Petitions (Local Tribunals) Regulations"
-identifier: "S.L. 291.4"
+identifier: "S.L. 291.04"
 eli: "https://legislation.mt/eli/sl/291.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/291.4/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Petitions (Local Tribunals) Regulations (S.L. 291.4)
+# Petitions (Local Tribunals) Regulations (S.L. 291.04)
 
 **SUBSIDIARY LEGISLATION 291.04**
 

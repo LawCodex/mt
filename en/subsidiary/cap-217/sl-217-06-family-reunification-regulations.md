@@ -1,6 +1,6 @@
 ---
 title: "Family Reunification Regulations"
-identifier: "S.L. 217.6"
+identifier: "S.L. 217.06"
 eli: "https://legislation.mt/eli/sl/217.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/217.6/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Family Reunification Regulations (S.L. 217.6)
+# Family Reunification Regulations (S.L. 217.06)
 
 **SUBSIDIARY LEGISLATION 217.06**
 

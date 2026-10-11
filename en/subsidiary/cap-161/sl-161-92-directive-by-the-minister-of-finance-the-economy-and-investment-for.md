@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister Of Finance, the Economy and Investment for the Conversion of Euro 150,000,000 out of the Euro 287,014,800 3.60% Malta Government Stock 2013 (IV) into an aggregate of Euro 150,000,000 in any one or any combination of the 3.75% Malta Government Stock 2017 (Iv) Fungibility Issue And 3.85% Malta Government Stock 2018 (V) (S.L. 161.92)
 
-287,014,800 3.60% MALTA GOVERNMENT STOCK 2013
-
-*1*
-
-(IV) INTO AN AGGREGATE OF EURO 150,000,000 [S.L.161.92
-
 **SUBSIDIARY LEGISLATION 161.92**
 
 DIRECTIVE BY THE MINISTER OF FINANCE, THE ECONOMY AND INVESTMENT FOR THE
@@ -67,11 +61,7 @@ On the 20th February, 2013 after payment of the first interest instalment as ind
 
 ## 5. Amount of Stock to be issued for conversion.
 
-The amount to be created and issued by either of the Destination Stocks (Conversion Stocks), or any combination of the 287,014,800 3.60% MALTA GOVERNMENT STOCK 2013 [S.L.161.92 (IV) INTO AN AGGREGATE OF EURO 150,000,000
-
-two Destination Stocks (Conversion Stocks) shall in the aggregate be Euro 150,000,000.
-
-*2*
+The amount to be created and issued by either of the Destination Stocks (Conversion Stocks), or any combination of the two Destination Stocks (Conversion Stocks) shall in the aggregate be Euro 150,000,000.
 
 ## 6. Rate of interest and dates of payment.
 

@@ -1,6 +1,6 @@
 ---
 title: "Compensation Body Regulations"
-identifier: "S.L. 104.4"
+identifier: "S.L. 104.04"
 eli: "https://legislation.mt/eli/sl/104.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/104.4/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Compensation Body Regulations (S.L. 104.4)
+# Compensation Body Regulations (S.L. 104.04)
 
 **SUBSIDIARY LEGISLATION 104.04**
 

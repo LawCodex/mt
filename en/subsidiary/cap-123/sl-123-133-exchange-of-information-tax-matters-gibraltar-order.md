@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Exchange of Information (Tax Matters) (Gibraltar) Order (S.L. 123.133)
 
-*1*
-
-(TAX MATTERS) (GIBRALTAR) [S.L.123.133
-
 SUBSIDIARY LEGISLATION 123.133
 
 EXCHANGE OF INFORMATION
@@ -46,8 +42,6 @@ It is hereby declared:
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Agreement has entered into force on 1 April 2012.
-
-2 [S.L.123.133 (TAX MATTERS) (GIBRALTAR)
 
 ## SCHEDULE
 
@@ -97,9 +91,7 @@ This Agreement shall apply to taxes of every kind and description in the Contrac
 
 ## 2.
 
-This Agreement shall apply also to any identical taxes imposed after the date of signature of the Agreement in addition to or in place of the existing taxes. This Agreement shall also apply to any substantially similar taxes imposed after the date of signature of the Agreement in addition to or in place of the existing taxes if the (TAX MATTERS) (GIBRALTAR) [S.L.123.133 3
-
-Parties so agree. The competent authority of each Party shall notify the other of substantial changes in laws which may affect the obligations of that Party pursuant to this Agreement.
+This Agreement shall apply also to any identical taxes imposed after the date of signature of the Agreement in addition to or in place of the existing taxes. This Agreement shall also apply to any substantially similar taxes imposed after the date of signature of the Agreement in addition to or in place of the existing taxes if the Parties so agree. The competent authority of each Party shall notify the other of substantial changes in laws which may affect the obligations of that Party pursuant to this Agreement.
 
 Article 4
 
@@ -131,9 +123,7 @@ In this Agreement:
 
 "publicly traded company" means any company whose principal class of shares is listed on a recognised stock exchange provided its listed shares can be readily purchased or sold by the public. Shares can be purchased or sold "by the public" if the purchase or sale of shares is not implicitly or explicitly restricted to a limited group of investors;
 
-"collective investment fund or scheme" means any pooled investment vehicle, irrespective of legal form. "Public collective investment fund or scheme" means any collective investment fund or scheme provided the units, shares or other interests in the fund or scheme can be readily purchased, sold or redeemed by the public. Units, shares or other interests in the fund or scheme can be readily purchased, sold or redeemed "by the public" if the purchase, sale or redemption is not 4 [S.L.123.133 (TAX MATTERS) (GIBRALTAR)
-
-implicitly or explicitly restricted to a limited group of investors;
+"collective investment fund or scheme" means any pooled investment vehicle, irrespective of legal form. "Public collective investment fund or scheme" means any collective investment fund or scheme provided the units, shares or other interests in the fund or scheme can be readily purchased, sold or redeemed by the public. Units, shares or other interests in the fund or scheme can be readily purchased, sold or redeemed "by the public" if the purchase, sale or redemption is not implicitly or explicitly restricted to a limited group of investors;
 
 "requested Party" means the Party to this Agreement which is requested to provide or has provided information in response to a request;
 
@@ -171,8 +161,6 @@ Each Party shall ensure that its competent authorities for the purposes specifie
 
 Further, this Agreement does not create an obligation for a Party to obtain or provide ownership information with respect to publicly traded companies or public collective investment funds or schemes, unless such information can be obtained without giving rise to disproportionate difficulties.
 
-(TAX MATTERS) (GIBRALTAR) [S.L.123.133 5
-
 ## 5.
 
 The competent authority of the requesting Party shall provide the following information to the competent authority of the requested Party when making a request for information under the Agreement to demonstrate the foreseeable relevance of the information to the request:
@@ -204,8 +192,6 @@ The competent authority of the requested Party shall acknowledge receipt of the 
 \2. At the request of the competent authority of the requesting Party, the competent authority of the requested Party may permit representatives of the competent authority of the requesting Party to attend a tax examination in the territory of the requested Party.
 
 \3. If the request referred to in paragraph 2 is granted, the competent authority of the requested Party conducting the examination shall, as soon as possible, notify the competent authority of the requesting Party of the time and place of the examination, the authority or person authorised to carry out the examination and the procedures and conditions required by the requested Party for the conduct of the examination. All decisions regarding the conduct of the examination shall be made by the requested Party conducting the examination.
-
-6 [S.L.123.133 (TAX MATTERS) (GIBRALTAR)
 
 **Article 7**
 
@@ -239,9 +225,7 @@ Any information received by the competent authorities of a Party shall be treate
 
 **Costs**
 
-Unless the competent authorities of the Parties otherwise agree, indirect costs incurred in providing assistance shall be borne by the requested Party, and direct costs incurred in providing assistance (including costs of engaging external advisors in connection with litigation or otherwise necessary to comply with the request) shall be borne by the requesting Party. The respective competent authorities shall consult (TAX MATTERS) (GIBRALTAR) [S.L.123.133 7
-
-from time to time with regard to this Article, and in particular the competent authority of the requested Party shall consult with the competent authority of the requesting Party in advance if the costs of providing information with respect to a specific request are expected to be significant.
+Unless the competent authorities of the Parties otherwise agree, indirect costs incurred in providing assistance shall be borne by the requested Party, and direct costs incurred in providing assistance (including costs of engaging external advisors in connection with litigation or otherwise necessary to comply with the request) shall be borne by the requesting Party. The respective competent authorities shall consult from time to time with regard to this Article, and in particular the competent authority of the requested Party shall consult with the competent authority of the requesting Party in advance if the costs of providing information with respect to a specific request are expected to be significant.
 
 **Article 10**
 

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Philosophy - M.Phil. - in the Faculty of Science (S.L. 327.107)
 
-DEGREE OF MASTER OF PHILOSOPHY -
-
-*1*
-
-M.PHIL. - IN THE FACULTY OF SCIENCE [S.L.327.107
-
 SUBSIDIARY LEGISLATION 327.107
 
 BYE-LAWS FOR THE DEGREE OF

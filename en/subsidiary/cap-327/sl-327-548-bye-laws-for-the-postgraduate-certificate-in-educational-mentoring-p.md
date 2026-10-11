@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Postgraduate Certificate in Educational Mentoring - P.G.Cert. - under the auspices of the Faculty of Education (S.L. 327.548)
 
-MENTORING - P.G.Cert. - UNDER THE AUSPICES
-
-*1*
-
-OF THE FACULTY OF EDUCATION [S.L.327.548
-
 **SUBSIDIARY LEGISLATION 327.548**
 
 **BYE-LAWS FOR THE POSTGRADUATE**
@@ -71,13 +65,7 @@ These bye-laws shall be applicable for courses commencing in in October 2019 or 
 
 (c) shall have a minimum of four years’ teaching experience.
 
-(2) The Board shall recommend to Senate the number of applicants that may be allowed to register on the course, depending on the availability of resources. The number of available places in the different learning areas, shall be announced at the time of the call for applications. Should any places remain vacant in a MENTORING - P.G.Cert. - UNDER THE AUSPICES
-
-*2*
-
-[S.L.327.548 OF THE FACULTY OF EDUCATION
-
-particular learning area such places shall be distributed amongst the other learning areas.
+(2) The Board shall recommend to Senate the number of applicants that may be allowed to register on the course, depending on the availability of resources. The number of available places in the different learning areas, shall be announced at the time of the call for applications. Should any places remain vacant in a particular learning area such places shall be distributed amongst the other learning areas.
 
 (3) When the number of places is so limited and the number of eligible applicants exceeds the number of available places, applicants will be selected using the following criteria, the weighting of which shall be published at the time of the call for applications:
 

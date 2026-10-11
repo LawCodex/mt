@@ -1,6 +1,6 @@
 ---
 title: "Practice of Engineering (Definition) Regulations"
-identifier: "S.L. 321.5"
+identifier: "S.L. 321.05"
 eli: "https://legislation.mt/eli/sl/321.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/321.5/20210723/eng"
 retrieved: 2026-10-12
 ---
 
-# Practice of Engineering (Definition) Regulations (S.L. 321.5)
+# Practice of Engineering (Definition) Regulations (S.L. 321.05)
 
 SUBSIDIARY LEGISLATION 321.05
 

@@ -1,6 +1,6 @@
 ---
 title: "Deposits in Court Regulations"
-identifier: "S.L. 12.6"
+identifier: "S.L. 12.06"
 eli: "https://legislation.mt/eli/sl/12.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/12.6/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Deposits in Court Regulations (S.L. 12.6)
+# Deposits in Court Regulations (S.L. 12.06)
 
 **SUBSIDIARY LEGISLATION 12.06**
 

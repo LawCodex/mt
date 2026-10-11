@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science in Digital Games - M.Sc. - under the auspices of the Institute of Digital Games (S.L. 327.458)
 
-M.Sc. - UNDER THE AUSPICES OF THE INSTITUTE
-
-*1*
-
-OF DIGITAL GAMES [S.L.327.458
-
 **SUBSIDIARY LEGISLATION 327.458**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -70,11 +64,7 @@ These bye-laws shall be applicable for courses commencing in October 2016 or lat
 
 (3) Applicants for the mainly by research courses shall submit a research proposal aligned with their previous degree(s). Their admission may be made conditional on the results of an interview conducted by a board composed of at least three members appointed for the purpose by the Board.
 
-(4) The Board shall recommend to Senate the number of applicants that may be allowed to register for the course, depending M.Sc. - UNDER THE AUSPICES OF THE INSTITUTE [S.L.327.458 OF DIGITAL GAMES
-
-on the availability of resources. The Board shall announce the number of available places at the time of the call for applications.
-
-*2*
+(4) The Board shall recommend to Senate the number of applicants that may be allowed to register for the course, depending on the availability of resources. The Board shall announce the number of available places at the time of the call for applications.
 
 (5) When the number of places for the mainly taught course is so limited and the number of eligible applicants exceeds the number of places available, applicants shall be selected using the following criteria and weightings:
 
@@ -110,13 +100,11 @@ The programme of study may be either mainly taught or mainly research and shall 
 
 (3) Students who obtain 30 ECTS credits assigned to taught study-units with an average mark of at least 50% and do not proceed with the Course, or having proceeded do not obtain all the credits for the taught units, shall be eligible for the award of the Postgraduate Certificate.
 
-M.Sc. - UNDER THE AUSPICES OF THE INSTITUTE
+## 7. Mainly by research programmes of study.
 
-*3*
+*Substituted by: L.N. 7 of 2025.*
 
-OF DIGITAL GAMES [S.L.327.458 7. (1) Mainly by research programmes of study shall comprise taught study-units to which not more than 30 ECTS credits are assigned and a dissertation study-unit to which not less than 60 ECTS credits are assigned.
-
-*Mainly by research programmes of study. Substituted by: L.N. 7 of 2025.*
+(1) Mainly by research programmes of study shall comprise taught study-units to which not more than 30 ECTS credits are assigned and a dissertation study-unit to which not less than 60 ECTS credits are assigned.
 
 ## 8. Publication of programmes of study.
 
@@ -150,11 +138,7 @@ Programmes of study shall be published by the Board after approval by Senate nor
 
 (4) A provisional title for the dissertation and a detailed research proposal shall be submitted to the Board for approval at the time of the call for applications.
 
-(5) Work on the dissertation shall be undertaken at any time M.Sc. - UNDER THE AUSPICES OF THE INSTITUTE [S.L.327.458 OF DIGITAL GAMES
-
-during the course after approval of the proposal. Each student shall be assigned a principal supervisor who shall provide guidance and advice on a regular basis during the period of study.
-
-*4*
+(5) Work on the dissertation shall be undertaken at any time during the course after approval of the proposal. Each student shall be assigned a principal supervisor who shall provide guidance and advice on a regular basis during the period of study.
 
 ## 11. Supervisor.
 

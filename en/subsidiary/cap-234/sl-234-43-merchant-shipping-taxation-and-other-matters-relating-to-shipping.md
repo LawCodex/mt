@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Merchant Shipping (Taxation and Other Matters relating to Shipping Organisations) Regulations (S.L. 234.43)
 
-*1*
-
-MATTERS RELATING TO SHIPPING ORGANISATIONS) [S.L. 234.43 SUBSIDIARY LEGISLATION 234.43
+**SUBSIDIARY LEGISLATION 234.43**
 
 **MERCHANT SHIPPING (TAXATION AND OTHER**
 
@@ -63,10 +61,6 @@ By virtue of sub-article (9) of article 84Z of the Act, articles 85 and 85A of t
 
 ''operation'' in respect of a tonnage tax ship includes the operation of such ship in any shipping activities, whether under charter or under any other commercial arrangement and "operator" shall be construed accordingly:
 
-*2*
-
-[S.L. 234.43 MATTERS RELATING TO SHIPPING ORGANISATIONS)
-
 Provided that, for the purposes of these regulations, a shipping organisation shall not qualify as the operator of a tonnage tax ship where the ship has been chartered out by the said shipping organisation on bareboat charter terms unless:
 
 (a) the ship is bareboat chartered to a shipping organisation forming part of the same group as the aforementioned shipping organisation; or
@@ -93,9 +87,7 @@ Provided further that, for the purposes of paragraph (b) above, the term ‘shor
 
 (a) has a majority of the members’ voting rights in another shipping organisation (a subsidiary organisation); or
 
-*3*
-
-MATTERS RELATING TO SHIPPING ORGANISATIONS) [S.L. 234.43 (b) has the right to appoint or remove a majority of the members of the board of directors or persons entrusted with the administration of another shipping organisation (a subsidiary organisation) and is at the same time a member of that shipping organisation; or
+(b) has the right to appoint or remove a majority of the members of the board of directors or persons entrusted with the administration of another shipping organisation (a subsidiary organisation) and is at the same time a member of that shipping organisation; or
 
 (c) has the right to exercise a dominant influence on matters relating to the strategic and/or commercial management of a shipping organisation (a subsidiary organisation) of which it is a member, pursuant to a contract entered into with that shipping organisation or to a provision in that shipping organisation’s memorandum or articles of association; or
 
@@ -118,10 +110,6 @@ MATTERS RELATING TO SHIPPING ORGANISATIONS) [S.L. 234.43 (b) has the right to ap
 (e) multi-purpose, break-bulk and other types of support vessels:
 
 Provided that the following ships are excluded for the purposes of these regulations:
-
-*4*
-
-[S.L. 234.43 MATTERS RELATING TO SHIPPING ORGANISATIONS)
 
 (a) fishing and fish factory ships;
 
@@ -153,11 +141,9 @@ Provided that the following ships are excluded for the purposes of these regulat
 
 Provided that for the purposes of these regulations, such shipping organisation shall be an organisation duly organised and existing under the laws of a Union State;
 
-''ship manager'' means a shipping organisation which is MATTERS RELATING TO SHIPPING ORGANISATIONS) [S.L. 234.43 established in the Union that:
+''ship manager'' means a shipping organisation which is established in the Union that:
 
 (a) has assumed responsibility for either or both of the technical or crew management of a ship or ships referred to in regulation 6(1)(b) hereof; and
-
-*5*
 
 (b) complies with international standards and fulfils requirements established under the law of the European Union; and
 
@@ -179,10 +165,6 @@ Provided that the particular shipping organisation shall notify the Registrar-Ge
 
 ''ship management activities'' means those activities carried out by a ship manager and consisting in, but not limited to, the provision of competent personnel to supervise the management and general efficiency of a ship referred to in regulation 6(1)(b) hereof, and/or the provision of other technical management services usually performed by the ship manager as defined by the Baltic and International Maritime Council (BIMCO) Standard Ship Management Agreement, in its up-to-date version;
 
-*6*
-
-[S.L. 234.43 MATTERS RELATING TO SHIPPING ORGANISATIONS)
-
 ''tonnage tax ship'' means a ship that is declared to be a tonnage tax ship by the Minister in terms of regulation 4 hereof;
 
 ''Union State'' means a Member State of the European Union (including, for the avoidance of doubt, Malta) or of the European Economic Area;
@@ -203,9 +185,7 @@ Provided further that relief shall be granted for any tonnage tax imposed under 
 
 (b) a percentage of the tonnage owned, managed or operated by the shipping organisation is Union-flagged and that the percentage of Union-flagged tonnage that is owned, managed, administered or otherwise operated by shipping organisations established in Malta has not decreased on average over a period of three years:
 
-*7*
-
-MATTERS RELATING TO SHIPPING ORGANISATIONS) [S.L. 234.43 Provided that, when a shipping organisation submits an application in terms of sub-regulation (4), the Registrar-General may, accept applications where the said applicable threshold is not less than twenty-five per cent (25%):
+Provided that, when a shipping organisation submits an application in terms of sub-regulation (4), the Registrar-General may, accept applications where the said applicable threshold is not less than twenty-five per cent (25%):
 
 Provided further that an amount equivalent to the annual tonnage tax calculated by reference to rates stipulated in the First Schedule to the Act is paid to the Registrar-General by the respective shipping organisation in respect of such tonnage tax ship, with relief being granted for any tonnage tax imposed under the laws of a territory outside Malta relative to the said tonnage tax ship operated by the said shipping organisation, subject to an amount of minimum tonnage tax equivalent to twenty-five per cent (25%) of the annual tonnage tax that would have been payable had the said tonnage tax ship been registered under Part II or IIA of the Act.
 
@@ -219,11 +199,9 @@ Provided further that an amount equivalent to the annual tonnage tax calculated 
 
 (1) Notwithstanding anything contained in the Income Tax Act, or in any enactment replacing that Act, if the condition contained in sub-regulation (3) hereof is complied with, and provided that all relevant tonnage taxes are duly paid by the shipping organisation as may be prescribed by regulations under the Act, including, in the case of a ship operated under charter as referred to in the relevant provisions of the Act, an amount paid to the Registrar by the shipping organisation equal to the annual tonnage tax for that year in addition to that paid by the owner:
 
-*8*
-
-[S.L. 234.43 MATTERS RELATING TO SHIPPING ORGANISATIONS) (a) no further tax under the Income Tax Act shall be charged or payable on the income of that shipping organisation, to the extent that such income is derived from shipping activities, and
-
 *Cap. 123.*
+
+(a) no further tax under the Income Tax Act shall be charged or payable on the income of that shipping organisation, to the extent that such income is derived from shipping activities, and
 
 *Cap. 123.*
 
@@ -239,11 +217,9 @@ Provided that where the person in receipt of such dividend is itself a company (
 
 (3) The condition referred to in sub-regulation (1)is that for the year in respect of which exemption from tax is applied, separate accounts were kept clearly distinguishing the payments and receipts by the shipping organisation concerned in respect of shipping activities, including the ownership, operation, administration or management of a tonnage tax ship, and payments and receipts in respect of any other business.
 
-Furthermore, for the avoidance of doubt, it is hereby clarified that in determining the chargeable income of any person, the provisions of the Income Tax Act shall, mutatis mutandis, apply to any income not falling within paragraph (a) of sub-article (1) including, but not limited to, that all outgoings and expenses incurred by such MATTERS RELATING TO SHIPPING ORGANISATIONS) [S.L. 234.43 person during the year preceding the year of assessment shall be deductable only to the extent to which such outgoings and expenses were wholly and exclusively incurred in the production of the income in terms of article 14 of that Act.
+Furthermore, for the avoidance of doubt, it is hereby clarified that in determining the chargeable income of any person, the provisions of the Income Tax Act shall, mutatis mutandis, apply to any income not falling within paragraph (a) of sub-article (1) including, but not limited to, that all outgoings and expenses incurred by such person during the year preceding the year of assessment shall be deductable only to the extent to which such outgoings and expenses were wholly and exclusively incurred in the production of the income in terms of article 14 of that Act.
 
 (4) In the case of a shipping organisation whose activities fall under these regulations, which has no income whatsoever, or which has no income other than income from shipping activities, a return shall be submitted to the Commissioner for Revenue and the Registrar-General in such form set out in the relevant Merchant Shipping Notice, by a person holding the warrant of a certified public accountant and auditor under the Accountancy Profession Act, or by a person holding the warrant of advocate in terms of the Code of Organization and Civil Procedure in lieu of a tax return required in terms of the Income Tax Management Act, and the relative provisions of the Income Tax Management Act shall, for the purpose of these regulations, be construed accordingly:
-
-*9*
 
 *Cap. 281. Cap. 12.*
 
@@ -262,10 +238,6 @@ Provided that where such person has income which is not income from shipping act
 (i) in respect of any tonnage tax ship registered under Part II or IIA of the Act, an amount equivalent to twenty-five per cent (25%) of the annual tonnage tax payable in respect of the particular ship on the basis of the rates stipulated in the First Schedule to the Act; and
 
 (ii) in respect of any other ship not referred to in paragraph (i) above, an amount equivalent to twenty-five per cent (25%) of the annual tonnage tax calculated by reference to the rates stipulated in the First Schedule to the Act which would have been payable had the ship been registered under Part II or IIA of the Act;
-
-*10*
-
-[S.L. 234.43 MATTERS RELATING TO SHIPPING ORGANISATIONS)
 
 (c) at least two-thirds of the tonnage of the ships to which the ship manager provides ship management activities is managed from the territory of the Union;
 
@@ -287,11 +259,9 @@ Provided that revenues generated from such activities is up to fifty per cent (5
 
 (a) the embarkation and disembarkation of passengers on a tonnage tax ship operated by the shipping organisation;
 
-(b) sales and facilities which are normally provided to customers by seagoing passenger ships, including - MATTERS RELATING TO SHIPPING ORGANISATIONS) [S.L. 234.43 (i) the provision of food or drink for immediate consumption,
+(b) sales and facilities which are normally provided to customers by seagoing passenger ships, including - (i) the provision of food or drink for immediate consumption,
 
 (ii) entertainment for which no additional fee is charged, but not betting or gambling;
-
-*11*
 
 (c) activities carried on by the shipping organisation in relation to a tonnage tax ship operated by another qualifying shipping organisation in the same group, which would be shipping activities of the first-mentioned shipping organisation if carried on in relation to a tonnage tax ship operated by that shipping organisation;
 
@@ -313,11 +283,7 @@ Provided further that any waiting time shall be proportionally assimilated to th
 
 (a) the ship providing such services is self propelled and is a Union ship;
 
-(b) the ship spends at least fifty per cent (50%) of its yearly operational time in maritime transport which includes time spent for travelling to the dredging site located at sea and for carriage of the dredged [S.L. 234.43 MATTERS RELATING TO SHIPPING ORGANISATIONS)
-
-**goods to the place of discharge; and**
-
-*12*
+(b) the ship spends at least fifty per cent (50%) of its yearly operational time in maritime transport which includes time spent for travelling to the dredging site located at sea and for carriage of the dredged goods to the place of discharge; and
 
 (c) sub-regulation 5(1) above shall only apply in respect of income derived from maritime transport services.
 
@@ -343,9 +309,9 @@ For the avoidance of doubt it is hereby clarified that no person shall receive a
 
 (2) Ancillary activities shall mean activities related to a tonnage tax ship as provided for in paragraphs (3) to (4) of this Schedule, other than commercial activities which form part of the operation of a port carried on for profit, that have a substantial connection with the shipping organisation’s shipping activities or, where the licensed shipping organisation is a member of a group, the shipping activities of another qualifying licensed shipping organisation in that group.
 
-*13*
+*(3)*
 
-MATTERS RELATING TO SHIPPING ORGANISATIONS) [S.L. 234.43 (3) The following ancillary activities benefit, provided that the gross revenue from those activities is less than fifty per cent (50%) compared to the gross revenue from the licensed shipping organisation’s shipping activities, which threshold shall be applied on a ship-by-ship basis:
+The following ancillary activities benefit, provided that the gross revenue from those activities is less than fifty per cent (50%) compared to the gross revenue from the licensed shipping organisation’s shipping activities, which threshold shall be applied on a ship-by-ship basis:
 
 (a) the carriage of passengers or cargo otherwise than on board a tonnage tax ship operated by the licensed shipping organisation, where -
 
@@ -369,11 +335,7 @@ MATTERS RELATING TO SHIPPING ORGANISATIONS) [S.L. 234.43 (3) The following ancil
 
 (ii) the land-based part is purchased or obtained by the licensed shipping organisation by arm’s length provision, and
 
-(iii) the cost to the licensed shipping organisation [S.L. 234.43 MATTERS RELATING TO SHIPPING ORGANISATIONS)
-
-of the land-based part in accordance with sub-paragraph (ii) is less than one half of the price paid by the customer under the single contract;
-
-*14*
+(iii) the cost to the licensed shipping organisation of the land-based part in accordance with sub-paragraph (ii) is less than one half of the price paid by the customer under the single contract;
 
 (e) the loading and unloading of cargo carried on a tonnage tax ship operated by the licensed shipping organisation, and the provision by the licensed shipping organisation of facilities used exclusively for those purposes;
 

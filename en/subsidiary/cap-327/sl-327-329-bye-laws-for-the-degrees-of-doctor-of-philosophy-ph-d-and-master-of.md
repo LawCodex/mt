@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degrees of Doctor of Philosophy - Ph.D. - and Master of Philosophy - M.Phil. - in the Faculty of Information and Communication Technology (S.L. 327.329)
 
-AUSPICES OF THE FACULTY OF INFORMATION
-
-*1*
-
-AND COMMUNICATION TECHNOLOGY [S.L.327.329
-
 **SUBSIDIARY LEGISLATION 327.329**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR OF**
@@ -71,15 +65,9 @@ These bye-laws shall be applicable from October 2008 onwards.
 
 ## 4. Application form.
 
-(1) Applicants may submit their application form, together AUSPICES OF THE FACULTY OF INFORMATION
+(1) Applicants may submit their application form, together with a comprehensive research proposal outlining the proposed project, including research sources and materials, at any time of the year. The proposal shall include the research questions to be addressed, the hypothesis to be tested, and the methodology to be adopted in dealing with the research issues.
 
 \*These regulations have been repealed by Legal Notice 308 of 2023.
-
-*2*
-
-[S.L.327.329 AND COMMUNICATION TECHNOLOGY
-
-with a comprehensive research proposal outlining the proposed project, including research sources and materials, at any time of the year. The proposal shall include the research questions to be addressed, the hypothesis to be tested, and the methodology to be adopted in dealing with the research issues.
 
 (2) Applicants may also be asked to demonstrate competence in those skills required by the nature of the proposed research.
 
@@ -117,13 +105,9 @@ Students registered at the Faculty may be required to participate in the Faculty
 
 The Faculty attaches great importance to the association of doctoral students with other research students and members of staff. Students shall therefore be required to participate fully in the research seminars of the Faculty and present at least one per year, or equivalent in the case of part-time registration, during the course of their studies.
 
-AUSPICES OF THE FACULTY OF INFORMATION
+## 11. Change in title or content.
 
-*3*
-
-AND COMMUNICATION TECHNOLOGY [S.L.327.329 11. Further to regulation 13 of the Principal Regulations, any substantial modification to the title or content of the thesis shall be subject to approval by Senate, following a recommendation of the Board, on the advice of the Faculty Doctoral Committee, and following a written recommendation by the student’s supervisor.
-
-*Change in title or content.*
+Further to regulation 13 of the Principal Regulations, any substantial modification to the title or content of the thesis shall be subject to approval by Senate, following a recommendation of the Board, on the advice of the Faculty Doctoral Committee, and following a written recommendation by the student’s supervisor.
 
 ## 12. Eligibility for the Award of the Ph.D. Degree.
 

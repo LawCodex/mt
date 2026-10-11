@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the degree of Bachelor of Arts (Honours) (Tourism Studies) - B.A. (Hons) - under the auspices of the Faculty of Economics, Management and Accountancy (S.L. 327.300)
 
-B.A. (HONS) -UNDER THE AUSPICES OF THE FACULTY
-
-*1*
-
-OF ECONOMICS, MANAGEMENT AND ACCOUNTANCY [S.L.327.300
-
 **SUBSIDIARY LEGISLATION 327.300**
 
 **BYE-LAWS FOR THE DEGREE OF BACHELOR OF**
@@ -77,10 +71,6 @@ Bye-Laws 3, 5, 6 and 7 of these bye-laws shall apply from 15th May, 2021 onwards
 (1) To be registered as regular students in the course, applicants must satisfy the general requirements for admission as specified in the Admission Regulations of the University.
 
 (2) Applicants who are in possession of a qualification comprising not less than 60 ECTS credits classified at Level 5 on the Malta Qualifications Framework, in an area of study related to Hospitality Management or Tourism Studies, may be admitted to Year 2 of the Course under those conditions as the Board may impose.
-
-*2*
-
-[S.L.327.300 B.A. (HONS)
 
 ## 4. Course duration.
 

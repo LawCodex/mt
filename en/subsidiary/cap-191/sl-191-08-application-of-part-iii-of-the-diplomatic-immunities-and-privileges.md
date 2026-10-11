@@ -1,6 +1,6 @@
 ---
 title: "Application of Part III of the Diplomatic Immunities and Privileges Act (Global Centre for Maritime Sanctions Monitoring) Order"
-identifier: "S.L. 191.8"
+identifier: "S.L. 191.08"
 eli: "https://legislation.mt/eli/sl/191.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,15 +14,7 @@ version: "https://legislation.mt/eli/sl/191.8/20251128/eng"
 retrieved: 2026-10-12
 ---
 
-# Application of Part III of the Diplomatic Immunities and Privileges Act (Global Centre for Maritime Sanctions Monitoring) Order (S.L. 191.8)
-
-APPLICATION OF PART III OF THE DIPLOMATIC
-
-IMMUNITIES AND PRIVILEGES ACT (GLOBAL CENTRE
-
-*1*
-
-FOR MARITIME SANCTIONS MONITORING) [S.L. 191.08
+# Application of Part III of the Diplomatic Immunities and Privileges Act (Global Centre for Maritime Sanctions Monitoring) Order (S.L. 191.08)
 
 **SUBSIDIARY LEGISLATION 191.08**
 

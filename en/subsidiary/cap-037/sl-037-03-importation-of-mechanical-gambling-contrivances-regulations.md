@@ -1,6 +1,6 @@
 ---
 title: "Importation of Mechanical Gambling Contrivances Regulations"
-identifier: "S.L. 37.3"
+identifier: "S.L. 37.03"
 eli: "https://legislation.mt/eli/sl/37.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/37.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Importation of Mechanical Gambling Contrivances Regulations (S.L. 37.3)
-
-IMPORTATION OF MECHANICAL GAMBLING
-
-*1*
-
-CONTRIVANCES [S.L.37.03
+# Importation of Mechanical Gambling Contrivances Regulations (S.L. 37.03)
 
 SUBSIDIARY LEGISLATION 37.03
 

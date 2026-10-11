@@ -97,58 +97,39 @@ Provided that a beneficiary may hold a non-executive post on the board of a comp
 
 "occupational retirement scheme" means a retirement scheme established for, or by, an employer or a number of employers or an association representing employers, jointly or separately, for the benefit of employees and includes an overseas retirement scheme;
 
-"overseas retirement plan" means a bona fide scheme or
+"overseas retirement plan" means a bona fide scheme or arrangement, organized under the laws of a country outside of Malta, which govern the rights and responsibilities of the parties thereto, and under which payments are made to beneficiaries for the principal purpose of providing retirement benefits;
 
-arrangement, organized under the laws of a country outside of  
-Malta, which govern the rights and responsibilities of the parties  
-thereto, and under which payments are made to beneficiaries for the  
-principal purpose of providing retirement benefits;  
-"overseas retirement scheme" means a scheme or arrangement,  
-organised under the laws of a country outside Malta with the  
-principal purpose of providing retirement benefits;  
-"pension" means periodic payments paid to a former employee in  
-respect of past employment including where remunerations are paid  
-in respect of services rendered to a State or a political subdivision  
-or local authority thereof. The term "pension" also includes  
-remunerations paid as lifetime or temporary annuities, as well as  
-regular income from an occupational retirement scheme, personal  
-overseas retirement plan and insurance policies but does not  
-include a pension in the form of a lump sum payment without  
-periodic pension payments and any capital sum received by way of  
-commutation of pension, retiring or death gratuity or received as  
-consolidated compensation for death or injuries that are exempt  
-under article 12(1)(h) of the Act;  
-"permanent resident of Malta" means:  
-(a) a person who has right of permanent residence in terms  
-of article 6 and is in possession of a permanent  
-residence certificate issued in terms of article 7 of the  
-Free Movement of European Union Nationals and their  
-S.L. 460.17.  
-Family Members Order; or  
-(b) a person who applies for right of permanent residence  
-in terms of article 6 of the Free Movement of European  
-S.L. 460.17.  
-Union Nationals and their Family Members Order;  
-"primary residence" means the dwelling house in which an  
-individual habitually resides as his principal place of abode  
-worldwide;  
-"property" means any immovable property situated in Malta or  
-Gozo and any right over such property;  
-"public interest" includes the interests of public safety, the  
-protection of public order, national security, territorial integrity,  
-public health or morals;  
-"qualifying property" means either a qualifying owned property  
-or a qualifying rented property, as the case may be;  
-"qualifying property holding" means a holding which arises  
-where a beneficiary either:  
-(a) owns qualifying owned property; or  
-(b) rents qualifying rented property as a lessee;  
-and, in either case, occupies such property as his primary  
-residence:  
-Provided that the persons who reside in the qualifying  
-property are not persons other than (a) the beneficiary, and (b)
+"overseas retirement scheme" means a scheme or arrangement, organised under the laws of a country outside Malta with the principal purpose of providing retirement benefits;
 
-persons that qualify as his dependants or household staff provided that the Commissioner has been notified that such dependants or household staff will be so residing;
+"pension" means periodic payments paid to a former employee in respect of past employment including where remunerations are paid in respect of services rendered to a State or a political subdivision or local authority thereof. The term "pension" also includes remunerations paid as lifetime or temporary annuities, as well as regular income from an occupational retirement scheme, personal overseas retirement plan and insurance policies but does not include a pension in the form of a lump sum payment without periodic pension payments and any capital sum received by way of commutation of pension, retiring or death gratuity or received as consolidated compensation for death or injuries that are exempt under article 12(1)(h) of the Act;
+
+"permanent resident of Malta" means:
+
+(a) a person who has right of permanent residence in terms of article 6 and is in possession of a permanent residence certificate issued in terms of article 7 of the Free Movement of European Union Nationals and their Family Members Order; or
+
+*S.L. 460.17.*
+
+(b) a person who applies for right of permanent residence in terms of article 6 of the Free Movement of European Union Nationals and their Family Members Order;
+
+*S.L. 460.17.*
+
+"primary residence" means the dwelling house in which an individual habitually resides as his principal place of abode worldwide;
+
+"property" means any immovable property situated in Malta or Gozo and any right over such property;
+
+"public interest" includes the interests of public safety, the protection of public order, national security, territorial integrity, public health or morals;
+
+"qualifying property" means either a qualifying owned property or a qualifying rented property, as the case may be;
+
+"qualifying property holding" means a holding which arises where a beneficiary either:
+
+(a) owns qualifying owned property; or
+
+(b) rents qualifying rented property as a lessee;
+
+and, in either case, occupies such property as his primary residence:
+
+Provided that the persons who reside in the qualifying property are not persons other than (a) the beneficiary, and (b) persons that qualify as his dependants or household staff provided that the Commissioner has been notified that such dependants or household staff will be so residing;
 
 "qualifying owned property" means an immovable property purchased:
 

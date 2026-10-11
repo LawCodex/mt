@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Single Application Procedure for a Single Permit as regards Residence and Work and a Common Set of Rights for those Third-Country Workers legally residing in Malta Regulations (S.L. 217.17)
 
-REGARDS RESIDENCE AND WORK AND A COMMON SET OF RIGHTS
-
-*1*
-
-FOR THOSE THIRD-COUNTRY WORKERS LEGALLY RESIDING IN MALTA [S.L.217.17
-
 **SUBSIDIARY LEGISLATION 217.17**
 
 **SINGLE APPLICATION PROCEDURE FOR A**
@@ -63,10 +57,6 @@ LEGAL NOTICE 160 of 2014.
 
 "Act" means the Immigration Act;
 
-*2*
-
-REGARDS RESIDENCE AND WORK AND A COMMON SET OF RIGHTS [S.L.217.17 FOR THOSE THIRD-COUNTRY WORKERS LEGALLY RESIDING IN MALTA
-
 "Board" means the Immigration Appeals Board constituted by article 25A of the Act;
 
 "Director" means the Director for Citizenship and Expatriate Affairs and who is the authority competent to receive the application and to issue the single permit;
@@ -97,15 +87,9 @@ These regulations shall apply to:
 
 These regulations shall not apply to third-country nationals:
 
-(a) who are family members of Union citizens who have exercised, or are exercising, their right to free movement within the Community in conformity with Directive 2004/38/EC of the European Parliament and of the Council of 29 April 2004 on the right of citizens if the Union and their family members to move and reside freely within the territory of the Member States or have exercised their right of free movement in Malta in accordance with the Free Movement of European Union Nationals and their Family Members REGARDS RESIDENCE AND WORK AND A COMMON SET OF RIGHTS
+(a) who are family members of Union citizens who have exercised, or are exercising, their right to free movement within the Community in conformity with Directive 2004/38/EC of the European Parliament and of the Council of 29 April 2004 on the right of citizens if the Union and their family members to move and reside freely within the territory of the Member States or have exercised their right of free movement in Malta in accordance with the Free Movement of European Union Nationals and their Family Members Order;
 
 *L.S. 460.17.*
-
-*3*
-
-FOR THOSE THIRD-COUNTRY WORKERS LEGALLY RESIDING IN MALTA [S.L.217.17
-
-Order;
 
 (b) family members, whatever their nationality, who enjoy rights of free movement equivalent to those of citizens of the Union under agreements between the Community and the Member States and those of Union citizens;
 
@@ -132,10 +116,6 @@ Order;
 (k) who have applied for admission or who have been admitted to Malta as self-employed workers;
 
 (l) who have applied for admission or have been admitted as seafarers for employment or work in any capacity on board a ship registered in or sailing under the flag of a Member State.
-
-*4*
-
-REGARDS RESIDENCE AND WORK AND A COMMON SET OF RIGHTS [S.L.217.17 FOR THOSE THIRD-COUNTRY WORKERS LEGALLY RESIDING IN MALTA
 
 ### 5. Non-applicability of Part II.
 
@@ -183,13 +163,7 @@ The Director shall issue a single permit, where the conditions provided for are 
 
 ### 12. Adoption of decision.
 
-Following the necessary internal consultations with the pertinent authorities as to whether the third-country national has been granted permission to work in Malta in accordance with article 11(3) of the Act, whereby the pertinent authorities shall assess such application on the basis of labour market requirements, established volumes of admission, or any other exceptional circumstances that may be deemed justified, the Director shall REGARDS RESIDENCE AND WORK AND A COMMON SET OF RIGHTS
-
-*5*
-
-FOR THOSE THIRD-COUNTRY WORKERS LEGALLY RESIDING IN MALTA [S.L.217.17
-
-adopt a decision on the complete application, as soon as possible, and in any event within four months of the date on which the application was lodged:
+Following the necessary internal consultations with the pertinent authorities as to whether the third-country national has been granted permission to work in Malta in accordance with article 11(3) of the Act, whereby the pertinent authorities shall assess such application on the basis of labour market requirements, established volumes of admission, or any other exceptional circumstances that may be deemed justified, the Director shall adopt a decision on the complete application, as soon as possible, and in any event within four months of the date on which the application was lodged:
 
 Provided that this time limit may be extended in exceptional circumstances linked to the complexity of the examination of the application.
 
@@ -227,11 +201,7 @@ Without prejudice to the relevant provisions of these regulations, the Director,
 
 ### 20. Rejections.
 
-(1) The Director shall give reasons, in the notifications referred to in regulation 15 when rejecting an application to issue, REGARDS RESIDENCE AND WORK AND A COMMON SET OF RIGHTS [S.L.217.17 FOR THOSE THIRD-COUNTRY WORKERS LEGALLY RESIDING IN MALTA
-
-amend or renew a single permit or when a decision is taken withdrawing a single permit.
-
-*6*
+(1) The Director shall give reasons, in the notifications referred to in regulation 15 when rejecting an application to issue, amend or renew a single permit or when a decision is taken withdrawing a single permit.
 
 (2) Where the Director has refused an application for the issue, amendment or renewal of a single permit or has withdrawn such permit, the third country national shall have the right to appeal to the Board.
 
@@ -265,13 +235,7 @@ Without prejudice to the right of the Director to withdraw or refuse to renew a 
 
 Provided that such equal treatment shall apply only to third country workers who are in employment or who have been employed and who are registered as unemployed in Malta and shall not:
 
-(i) include study and maintenance grants and loans REGARDS RESIDENCE AND WORK AND A COMMON SET OF RIGHTS
-
-*7*
-
-FOR THOSE THIRD-COUNTRY WORKERS LEGALLY RESIDING IN MALTA [S.L.217.17
-
-or other grants and loans;
+(i) include study and maintenance grants and loans or other grants and loans;
 
 (ii) be given to third-country nationals who have been admitted to Malta in accordance with the provisions of Conditions of Admission of Third Country Nationals for the purposes of Studies Regulations:
 
@@ -297,16 +261,14 @@ Provided further that, third-country workers moving to a third country, or their
 
 *Cap. 318.*
 
-(f) tax benefits, insofar as the worker is deemed to be resident for tax purposes in Malta:
+*(f)*
+
+tax benefits, insofar as the worker is deemed to be resident for tax purposes in Malta:
 
 Provided that such equal treatment shall apply to cases where the third country worker's situation of residence is the same as that obtaining for a Maltese national in the same situation;
 
 (g) access to goods and services and the supply of goods and services made available to the public, excluding access to housing:
 
-Provided that such equal treatment shall apply only to third country workers who are in employment and REGARDS RESIDENCE AND WORK AND A COMMON SET OF RIGHTS FOR THOSE THIRD-COUNTRY WORKERS LEGALLY RESIDING IN MALTA
-
-shall be without prejudice to the freedom of contract in accordance with Community and Maltese legislation;
-
-*[S.L.217.17 8*
+Provided that such equal treatment shall apply only to third country workers who are in employment and shall be without prejudice to the freedom of contract in accordance with Community and Maltese legislation;
 
 (h) advice services afforded by employment offices.

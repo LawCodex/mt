@@ -1,6 +1,6 @@
 ---
 title: "The Malta Independence Fiftieth Anniversary Medal Rules"
-identifier: "S.L. 251.5"
+identifier: "S.L. 251.05"
 eli: "https://legislation.mt/eli/sl/251.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/251.5/20140828/eng"
 retrieved: 2026-10-12
 ---
 
-# The Malta Independence Fiftieth Anniversary Medal Rules (S.L. 251.5)
-
-*1*
-
-ANNIVERSARY MEDAL RULES [S.L.251.05
+# The Malta Independence Fiftieth Anniversary Medal Rules (S.L. 251.05)
 
 **SUBSIDIARY LEGISLATION 251.05**
 
@@ -62,10 +58,6 @@ The title of these rules is The Malta Independence Fiftieth Anniversary Medal Ru
 Provided that, where it shall not be convenient or practical for the presentation to be made in person, the Medal may be delivered by such means as may be considered expedient.
 
 (2) When the Medal is presented by the President of Malta, the recipient shall be addressed as follows:
-
-*2*
-
-[S.L.251.05 ANNIVERSARY MEDAL RULES
 
 "On behalf of the Government and people of Malta, I confer on you the National Commemorative Medal to mark the Fiftieth Anniversary of the award of the Independence to Malta.".
 

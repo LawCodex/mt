@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Assignments of Rights Acquired under a Promise of Sale Agreement Rules (S.L. 123.198)
 
-*1*
-
-PROMISE OF SALE AGREEMENT [S.L. 123.198 SUBSIDIARY LEGISLATION 123.198
+**SUBSIDIARY LEGISLATION 123.198**
 
 **ASSIGNMENTS OF RIGHTS ACQUIRED UNDER A**
 
@@ -60,10 +58,6 @@ In these rules, unless the subject or context otherwise requires:
 
 (3) The notice of the assignment shall be furnished to the Commissioner in three (3) copies within twenty-one (21) days from the date of the relative written agreement.
 
-*2*
-
-[S.L. 123.198 PROMISE OF SALE AGREEMENT
-
 ## 4. Allowable deductions.
 
 (1) In the computation of the income derived from an assignment to which these rules apply, deductions shall only be allowable in respect of the following expenses, to the extent that they are incurred by the assignor and are not reimbursed or reimbursable by any other person:
@@ -88,9 +82,7 @@ In these rules, unless the subject or context otherwise requires:
 
 *Cap. 372.*
 
-*3*
-
-PROMISE OF SALE AGREEMENT [S.L. 123.198 (3) The income derived from an assignment mentioned in sub-rule (1) shall not form part of the total income of the person deriving that income. Any loss that may be incurred in any such assignment shall not be available by way of deduction from or set off against income derived from any other assignment or from any other source. When the assignor is an individual, he shall not be required to disclose that income in any return made pursuant to article 10 of the Income Tax Management Act. When the assignor is a company resident in Malta, it shall allocate the distributable profits derived from the assignment to its final tax account.
+(3) The income derived from an assignment mentioned in sub-rule (1) shall not form part of the total income of the person deriving that income. Any loss that may be incurred in any such assignment shall not be available by way of deduction from or set off against income derived from any other assignment or from any other source. When the assignor is an individual, he shall not be required to disclose that income in any return made pursuant to article 10 of the Income Tax Management Act. When the assignor is a company resident in Malta, it shall allocate the distributable profits derived from the assignment to its final tax account.
 
 *Cap. 372.*
 
@@ -112,11 +104,9 @@ When the consideration for an assignment to which these rules apply exceeds one-
 
 ## 8. The tax on the excess.
 
-(1) The deduction allowable against the excess portion is an amount equivalent to the difference between the total deductions allowable in respect of the assignment in question in terms of rule 4 and the deduction allowable in accordance with rule 7(1). [S.L. 123.198 PROMISE OF SALE AGREEMENT
+(1) The deduction allowable against the excess portion is an amount equivalent to the difference between the total deductions allowable in respect of the assignment in question in terms of rule 4 and the deduction allowable in accordance with rule 7(1).
 
 (2) The excess portion, after the deduction mentioned in sub-rule (1), shall form part of the assignor’s chargeable income for the year of assessment in question and shall be subject to tax at the appropriate rate or rates in terms of article 56 of the Act. It shall represent income to which article 4(1)(a) of the Act applies and shall be disclosed as such by the assignor in a return filed in accordance with the provisions of the Income Tax Management Act together with his other income.
-
-*4*
 
 *Cap. 372.*
 
@@ -138,11 +128,9 @@ Provided that the liability of the said notary or advocate in terms of this rule
 
 (b) when rights are assigned by two (2) or more persons conjointly or in undivided parts, the value of the consideration shall be deemed to be the total consideration paid or payable to all those persons;
 
-(c) when rights acquired under a promise of sale are assigned by means of more than one (1) transaction entered into between the same parties, the said rights shall be deemed to have been assigned by means of one (1) assignment for the total PROMISE OF SALE AGREEMENT [S.L. 123.198 consideration paid or payable in terms of all the transactions in questions.
+(c) when rights acquired under a promise of sale are assigned by means of more than one (1) transaction entered into between the same parties, the said rights shall be deemed to have been assigned by means of one (1) assignment for the total consideration paid or payable in terms of all the transactions in questions.
 
 (2) This rule is without prejudice to article 51 of the Act. 10. The provisions of article 19 of the Income Tax Management Act shall apply to a person who makes an assignment to which these rules apply in the same manner as they apply to any other person carrying on a trade, business, profession or vocation.
-
-*5*
 
 *Records to be kept. Cap. 372.*
 

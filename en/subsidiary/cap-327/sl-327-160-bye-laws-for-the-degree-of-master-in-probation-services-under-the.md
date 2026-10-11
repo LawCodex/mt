@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master in Probation Services under the auspices of the Institute of Criminology (S.L. 327.160)
 
-UNDER THE AUSPICES OF THE FACULTY
-
-*1*
-
-FOR SOCIAL WELLBEING [S.L.327.160
-
 **SUBSIDIARY LEGISLATION 327.160**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER IN**
@@ -71,12 +65,6 @@ These bye-laws shall be applicable for courses commencing in October 2019 or lat
 
 (b) a Bachelor degree obtained with at least Category II from this University in an area of study deemed relevant by the Board; or
 
-UNDER THE AUSPICES OF THE FACULTY
-
-*2*
-
-[S.L.327.160 FOR SOCIAL WELLBEING
-
 (c) a Bachelor degree from another university recognized by Senate comparable to the qualifications indicated in paragraphs (a) and (b) of this bye-law.
 
 (2) The admission of applicants under paragraph (1) shall be made conditional on the result of an interview conducted by an interviewing board appointed for the purpose.
@@ -119,13 +107,11 @@ The programme of study shall consist of two parts, namely:
 
 Students who obtain a total of 30 credits assigned to taught study-units with an average mark of at least 50% and do not proceed with the Course, or having proceeded do not successfully complete the Course, shall be eligible for the award of the Postgraduate Certificate.
 
-UNDER THE AUSPICES OF THE FACULTY
+## 7. Postgraduate Diploma.
 
-*3*
+*Renumbered by: L.N. 291 of 2017.*
 
-FOR SOCIAL WELLBEING [S.L.327.160 7. Students who obtain the 60 credits assigned to the taught study-units covered in Part One of the course, with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the Postgraduate Diploma.
-
-*Postgraduate Diploma. Renumbered by: L.N. 291 of 2017.*
+Students who obtain the 60 credits assigned to the taught study-units covered in Part One of the course, with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the Postgraduate Diploma.
 
 ## 8. Programme of study.
 

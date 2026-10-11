@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the degree of Master of Arts in Tourism and Culture - M.A. - under the auspices of the Faculty of Economics, Management and Accountancy (S.L. 327.470)
 
-UNDER THE AUSPICES OF THE FACULTY OF ECONOM-
-
-*1*
-
-ICS, MANAGEMENT AND ACCOUNTANCY [S.L.327.470
-
 **SUBSIDIARY LEGISLATION 327.470**
 
 *Substituted by: L.N. 388 of 2018; L.N. 99 of 2024.*
@@ -76,11 +70,7 @@ The course shall extend over three semesters of full-time study or five semester
 
 ## 5. Programme of study.
 
-The programme of study shall comprise study-units to which a total of 90 ECTS credits are assigned, of which 60 ECTS credits are assigned to taught study-units and 30 ECTS credits are UNDER THE AUSPICES OF THE FACULTY OF ECONOM- [S.L.327.470 ICS, MANAGEMENT AND ACCOUNTANCY
-
-assigned to the dissertation study-unit.
-
-*2*
+The programme of study shall comprise study-units to which a total of 90 ECTS credits are assigned, of which 60 ECTS credits are assigned to taught study-units and 30 ECTS credits are assigned to the dissertation study-unit.
 
 ## 6. Postgraduate Diploma.
 

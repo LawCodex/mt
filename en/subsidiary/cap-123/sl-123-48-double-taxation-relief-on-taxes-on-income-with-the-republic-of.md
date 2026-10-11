@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Republic of Croatia Order (S.L. 123.48)
 
-*1*
-
-WITH THE REPUBLIC OF CROATIA [S.L.123.48
-
 SUBSIDIARY LEGISLATION 123.48
 
 DOUBLE TAXATION RELIEF ON TAXES ON
@@ -44,8 +40,6 @@ It is hereby declared:-
 (ii) the income tax;
 
 (b) that it is expedient that those arrangements should have effect.
-
-2 [S.L.123.48 WITH THE REPUBLIC OF CROATIA
 
 ## SCHEDULE — AGREEMENT BETWEEN THE REPUBLIC OF MALTA AND THE REPUBLIC — OF CROATIA
 
@@ -99,9 +93,7 @@ The Agreement shall apply also to any identical or substantially similar taxes w
 
 \1. For the purposes of this Agreement, unless the context otherwise requires:
 
-(a) the term “Croatia”, used in a geographical sense, means the territory of the Republic of Croatia within its internationally recognised borders, as WITH THE REPUBLIC OF CROATIA [S.L.123.48 3
-
-well as any area beyond the territorial waters of the Republic of Croatia in which, in accordance with international law and the laws of the Republic of Croatia, the Republic of Croatia exercises its sovereign rights and jurisdiction;
+(a) the term “Croatia”, used in a geographical sense, means the territory of the Republic of Croatia within its internationally recognised borders, as well as any area beyond the territorial waters of the Republic of Croatia in which, in accordance with international law and the laws of the Republic of Croatia, the Republic of Croatia exercises its sovereign rights and jurisdiction;
 
 (b) the term “Malta” means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, and any area outside the territorial waters of Malta which has been or may hereafter be designated, in accordance with international law and under the law of Malta concerning the continental shelf, as an area within which the rights of Malta with respect to the seabed and subsoil and their natural resources may be exercised;
 
@@ -133,9 +125,7 @@ well as any area beyond the territorial waters of the Republic of Croatia in whi
 
 \1. For the purposes of this Agreement, the term “resident of a Contracting State” means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature. But this term does not include any person who is liable to tax in that State in respect only of income from sources in that State.
 
-\2. Where by reason of the provisions of paragraph 1 an individual is a resident 4 [S.L.123.48 WITH THE REPUBLIC OF CROATIA
-
-of both Contracting States, then his status shall be determined as follows:
+\2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
 (a) he shall be deemed to be a resident of the State in which he has a permanent home available to him; if he has a permanent home available to him in both States, he shall be deemed to be a resident of the State with which his personal and economic relations are closer (centre of vital interests);
 
@@ -179,8 +169,6 @@ Notwithstanding the preceding provisions of this Article, the term “permanent 
 
 (a) the use of facilities solely for the purpose of storage, display or delivery of goods or merchandise belonging to the enterprise;
 
-WITH THE REPUBLIC OF CROATIA [S.L.123.48 5
-
 (b) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of storage, display or delivery;
 
 (c) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of processing by another enterprise;
@@ -210,8 +198,6 @@ The fact that a company which is a resident of a Contracting State controls or i
 \1. Income derived by a resident of a Contracting State from immovable property (including income from agriculture or forestry) situated in the other Contracting State may be taxed in that other State.
 
 \2. The term “immovable property” shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, or to explore for, mineral deposits, sources and other natural resources. Ships, boats and aircraft shall not be regarded as immovable property.
-
-6 [S.L.123.48 WITH THE REPUBLIC OF CROATIA
 
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
@@ -245,9 +231,7 @@ The provisions of this Article shall not affect the provisions of the law of a C
 
 **INTERNATIONAL TRAFFIC**
 
-\1. Profits of an enterprise of a Contracting State from the operation of ships or WITH THE REPUBLIC OF CROATIA [S.L.123.48 7
-
-aircraft in international traffic shall be taxable only in that State.
+\1. Profits of an enterprise of a Contracting State from the operation of ships or aircraft in international traffic shall be taxable only in that State.
 
 \2. The provisions of paragraph 1 shall also apply to profits from the participation in a pool, a joint business or an international operating agency.
 
@@ -279,8 +263,6 @@ and in either case conditions are made or imposed between the two enterprises in
 
 This paragraph shall not affect the taxation of the company in respect of the profits out of which the dividends are paid.
 
-8 [S.L.123.48 WITH THE REPUBLIC OF CROATIA
-
 \3. The term “dividends” as used in this Article means income from shares or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
 
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
@@ -298,8 +280,6 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 \3. The provisions of paragraph 1 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \4. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Agreement.
-
-WITH THE REPUBLIC OF CROATIA [S.L.123.48 9
 
 **Article 12**
 
@@ -325,9 +305,7 @@ WITH THE REPUBLIC OF CROATIA [S.L.123.48 9
 
 \4. Gains from the alienation of ships or aircraft operated in international traffic by an enterprise of a Contracting State, or movable property pertaining to the operation of such ships or aircraft shall be taxable only in that State.
 
-\5. Gains from the alienation of any property other than that referred to in 10 [S.L.123.48 WITH THE REPUBLIC OF CROATIA
-
-paragraphs 1 to 4 shall be taxable only in the Contracting State of which the alienator is a resident.
+\5. Gains from the alienation of any property other than that referred to in paragraphs 1 to 4 shall be taxable only in the Contracting State of which the alienator is a resident.
 
 **Article 14**
 
@@ -356,8 +334,6 @@ paragraphs 1 to 4 shall be taxable only in the Contracting State of which the al
 (c) the remuneration is not borne by a permanent establishment or a fixed base which the employer has in the other State.
 
 \3. Notwithstanding the preceding provisions of this Article, remuneration derived in respect of an employment exercised aboard a ship or aircraft operated in international traffic by an enterprise of a Contracting State may be taxed in that State.
-
-WITH THE REPUBLIC OF CROATIA [S.L.123.48 11
 
 **Article 16**
 
@@ -397,8 +373,6 @@ Subject to the provisions of paragraph 2 of Article 19, pensions and other simil
 
 \3. The provisions of Articles 15, 16 and 18 shall apply to remuneration and pensions in respect of services rendered in connection with a business carried on by a Contracting State or a local authority thereof.
 
-12 [S.L.123.48 WITH THE REPUBLIC OF CROATIA
-
 **Article 20**
 
 **STUDENTS AND BUSINESS APPRENTICES**
@@ -427,9 +401,7 @@ Where a resident of Croatia derives income which, in accordance with the provisi
 
 (b) where a company which is a resident of Croatia pays a dividend to a resident of Malta, the Croatian tax payable by the company paying the dividend in respect of the profits out of which such dividend is paid shall be allowed as a credit against the Malta tax payable in respect of that dividend.
 
-\3. Where in accordance with any provision of the Agreement income derived WITH THE REPUBLIC OF CROATIA [S.L.123.48 13
-
-by a resident of a Contracting State is exempt from tax in that State, such State may nevertheless, in calculating the amount of tax on the remaining income of such resident, take into account the exempted income.
+\3. Where in accordance with any provision of the Agreement income derived by a resident of a Contracting State is exempt from tax in that State, such State may nevertheless, in calculating the amount of tax on the remaining income of such resident, take into account the exempted income.
 
 **Article 23**
 
@@ -453,9 +425,7 @@ by a resident of a Contracting State is exempt from tax in that State, such Stat
 
 \1. Where a person considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Agreement, he may, irrespective of the remedies provided by the domestic law of those States, present his case to the competent authority of the Contracting State of which he is resident or, if his case comes under paragraph 1 of Article 23, to that of the Contracting State of which he is a national. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Agreement.
 
-\2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the 14 [S.L.123.48 WITH THE REPUBLIC OF CROATIA
-
-case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Agreement. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
+\2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Agreement. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
 
 \3. The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Agreement. They may also consult together for the elimination of double taxation in cases not provided for in the Agreement.
 
@@ -480,8 +450,6 @@ case by mutual agreement with the competent authority of the other Contracting S
 **MEMBERS OF DIPLOMATIC MISSIONS AND CONSULAR POSTS**
 
 Nothing in this Agreement shall affect the fiscal privileges of members of diplomatic missions or consular posts under the general rules of international law or under the provisions of special agreements.
-
-WITH THE REPUBLIC OF CROATIA [S.L.123.48 15
 
 **Article 27**
 
@@ -512,8 +480,6 @@ DONE at Rome, on the 21st day of October, 1998, in duplicate in the Croatian and
 Henry G. De Gabriele Dr Davorin Rudolf
 
 For the Republic of Malta For the Republic of Croatia
-
-16 [S.L.123.48 WITH THE REPUBLIC OF CROATIA
 
 **PROTOCOL**
 

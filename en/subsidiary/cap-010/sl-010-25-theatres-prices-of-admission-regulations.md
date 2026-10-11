@@ -39,27 +39,15 @@ In these Regulations, unless the context otherwise requires -
 
 "price" means the total amount, including the duty payable under the Value Added Tax Act;
 
-"theatre" means a public theatre or a public cinematograph hall. 3. The licensee of a theatre shall display, and keep displayed until the end of any performance referred to in this regulation, in the entrance to his theatre and in such a position and manner as to be plainly and distinctly legible, a plan, suitably framed, showing - (a) the seating accommodation in such theatre and any
+"theatre" means a public theatre or a public cinematograph hall. 3. The licensee of a theatre shall display, and keep displayed until the end of any performance referred to in this regulation, in the entrance to his theatre and in such a position and manner as to be plainly and distinctly legible, a plan, suitably framed, showing - (a) the seating accommodation in such theatre and any arrangement thereof into different classes of seats; and (b) the price charged for admission to any of the seats or to different classes of seats in such theatre in respect of any performance in the theatre for which tickets are sold or seats are booked.
 
 *Display of plans of seating accommodation and prices of admission.*
 
-arrangement thereof into different classes of seats; and  
-(b) the price charged for admission to any of the seats or  
-to different classes of seats in such theatre in respect  
-of any performance in the theatre for which tickets are  
-sold or seats are booked.  
-\4. (1) The licensee of a theatre shall, if so required by a  Delivery of copies  
-of plans to the  
-notice in writing signed by or on behalf of the Commissioner of  
-Police.  
-Police, deliver to the Police Station and within the time specified in  
-the notice, an accurate copy of any plan which he is required to  
-display under the provisions of regulation 3.  
-(2) A notice issued under sub-regulation (1) of this regulation  
-to the licensee of a theatre may be made so as to apply either to  
-performances generally or to performances held or to be held on  
-any particular occasions, and so as to have effect either until the  
-notice is cancelled or during any period specified therein.
+## 4. Delivery of copies of plans to the Police.
+
+(1) The licensee of a theatre shall, if so required by a notice in writing signed by or on behalf of the Commissioner of Police, deliver to the Police Station and within the time specified in the notice, an accurate copy of any plan which he is required to display under the provisions of regulation 3.
+
+(2) A notice issued under sub-regulation (1) of this regulation to the licensee of a theatre may be made so as to apply either to performances generally or to performances held or to be held on any particular occasions, and so as to have effect either until the notice is cancelled or during any period specified therein.
 
 ## 5. Prices shown on plans to be maximum prices.
 

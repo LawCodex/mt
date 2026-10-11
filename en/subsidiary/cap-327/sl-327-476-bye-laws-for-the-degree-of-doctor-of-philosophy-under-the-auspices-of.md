@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy under the auspices of the School of Performing Arts (S.L. 327.476)
 
-UNDER THE AUSPICES OF THE SCHOOL
-
-*1*
-
-OF PERFORMING ARTS [S.L.327.476
-
 **SUBSIDIARY LEGISLATION 327.476**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR OF**
@@ -79,15 +73,9 @@ The Director of the School or delegate (chair)
 
 ## 6. Supervision.
 
-Principal supervisors shall be required to submit a written UNDER THE AUSPICES OF THE SCHOOL
+Principal supervisors shall be required to submit a written report to the Board, through the School Doctoral Committee, every June for all students under their supervision.
 
 \*These bye-laws have been repealed by Legal Notice 28 of 2024.
-
-*2*
-
-[S.L.327.476 OF PERFORMING ARTS
-
-report to the Board, through the School Doctoral Committee, every June for all students under their supervision.
 
 ## 7. Progress.
 

@@ -73,10 +73,6 @@ LEGAL NOTICE 484 of 2011.
 
 \*see regulation 1(2) as originally promulgated.
 
-*2*
-
-[S.L.234.50 (INSURANCE FOR MARITIME CLAIMS)
-
 (3) The insurance referred to in sub-regulations (1) and (2) shall cover maritime claims subject to limitation under the Merchant Shipping (Limitation of Liability for Maritime Claims) Regulations. The amount of the insurance for each and every ship per incident shall be equal to the relevant maximum amount for the limitation of liability, as laid down in the said regulations.
 
 *S.L. 234.16*

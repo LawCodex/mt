@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Convention on the Elimination of Double Taxation in connection with the Adjustment of Profits of Associated Enterprises Order (S.L. 123.99)
 
-TAXATION IN CONNECTION WITH THE ADJUSTMENT OF
-
-*1*
-
-PROFITS OF ASSOCIATED ENTERPRISES [S.L.123.99
-
 **SUBSIDIARY LEGISLATION 123.99**
 
 **CONVENTION ON THE ELIMINATION**
@@ -46,8 +40,6 @@ It is hereby declared that -
 (c) it is expedient that those arrangements be implemented and interpreted, where applicable, in terms of the Code of Conduct Convention adopted by the EU Council on 7th December, 2004 for the effective implementation of the Convention on the elimination of double taxation in connection with the adjustment of profits of associated enterprises (90/436/EEC);
 
 (d) the Convention set out in the Schedule to this Order has entered into force on the 1st November, 2006.
-
-TAXATION IN CONNECTION WITH THE ADJUSTMENT OF 2 [S.L.123.99 PROFITS OF ASSOCIATED ENTERPRISES
 
 ## SCHEDULE — Regulation 2(a)
 
@@ -101,9 +93,7 @@ THE PRESIDENT OF THE PORTUGUESE REPUBLIC,
 
 THE PRESIDENT OF THE REPUBLIC OF SLOVENIA,
 
-TAXATION IN CONNECTION WITH THE ADJUSTMENT OF
-
-PROFITS OF ASSOCIATED ENTERPRISES [S.L.123.99 3 THE PRESIDENT OF THE SLOVAK REPUBLIC,
+THE PRESIDENT OF THE SLOVAK REPUBLIC,
 
 THE PRESIDENT OF THE REPUBLIC OF FINLAND,
 
@@ -156,10 +146,6 @@ The Convention on the elimination of double taxation in connection with the adju
 (f) subparagraph (e) shall become subparagraph (g) and shall be replaced by the following text:
 
 ‘(g) in Spain:
-
-*4*
-
-TAXATION IN CONNECTION WITH THE ADJUSTMENT OF [S.L.123.99 PROFITS OF ASSOCIATED ENTERPRISES
 
 \- Impuesto sobre la Renta de las Personas Físicas,
 
@@ -241,9 +227,7 @@ TAXATION IN CONNECTION WITH THE ADJUSTMENT OF [S.L.123.99 PROFITS OF ASSOCIATED 
 
 (v) in the Slovak Republic:
 
-TAXATION IN CONNECTION WITH THE ADJUSTMENT OF
-
-PROFITS OF ASSOCIATED ENTERPRISES [S.L.123.99 5 - Daň z príjmov právnických osôb,
+\- Daň z príjmov právnických osôb,
 
 \- Daň z príjmov fyzických osôb;’
 
@@ -313,9 +297,7 @@ shall be replaced by the following:
 
 **Article 3**
 
-The Secretary-General of the Council of the European Union shall transmit to the Governments of the Czech Republic, the Republic of Estonia, the Republic of TAXATION IN CONNECTION WITH THE ADJUSTMENT OF 6 [S.L.123.99 PROFITS OF ASSOCIATED ENTERPRISES
-
-Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic a certified copy of:
+The Secretary-General of the Council of the European Union shall transmit to the Governments of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic a certified copy of:
 
 \- the Convention on the elimination of double taxation in connection with the adjustment of profits of associated enterprises,
 
@@ -343,8 +325,6 @@ The Secretary-General of the Council of the European Union shall notify all sign
 
 **Article 7**
 
-This Convention, drawn up in a single original in the Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Slovenian, Slovakian, Spanish and Swedish languages, all twenty-one texts being equally authentic, shall be deposited TAXATION IN CONNECTION WITH THE ADJUSTMENT OF
-
-PROFITS OF ASSOCIATED ENTERPRISES [S.L.123.99 7 in the archives of the General Secretariat of the Council of the European Union. The Secretary-General shall transmit a certified copy to the Governments of each signatory State.
+This Convention, drawn up in a single original in the Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Slovenian, Slovakian, Spanish and Swedish languages, all twenty-one texts being equally authentic, shall be deposited in the archives of the General Secretariat of the Council of the European Union. The Secretary-General shall transmit a certified copy to the Governments of each signatory State.
 
 Done at Brussels on the eighth day of December in the year two thousand and four.

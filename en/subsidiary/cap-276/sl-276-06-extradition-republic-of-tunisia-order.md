@@ -1,6 +1,6 @@
 ---
 title: "Extradition (Republic of Tunisia) Order"
-identifier: "S.L. 276.6"
+identifier: "S.L. 276.06"
 eli: "https://legislation.mt/eli/sl/276.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/276.6/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Extradition (Republic of Tunisia) Order (S.L. 276.6)
+# Extradition (Republic of Tunisia) Order (S.L. 276.06)
 
 **SUBSIDIARY LEGISLATION 276.06**
 
@@ -92,14 +92,7 @@ For purposes of this Order, article 10 of the relevant Act shall be amended as f
 
 (b) immediately after sub-article (3) of the relevant Act there shall be added the following:
 
-(3A) When the description of the offence charged is altered in the course of proceedings, a person shall not be returned under this Act to any country, or committed to or kept in custody for the purpose of such return, unless provision is made by the law of that country, or by an
-
-arrangement made with that country, that the  
-extradited person will only be dealt with  
-insofar as the offence, under its new  
-description, is shown to be an extraditable  
-offence and is based on the same facts  
-contained in the extradition request.".
+(3A) When the description of the offence charged is altered in the course of proceedings, a person shall not be returned under this Act to any country, or committed to or kept in custody for the purpose of such return, unless provision is made by the law of that country, or by an arrangement made with that country, that the extradited person will only be dealt with insofar as the offence, under its new description, is shown to be an extraditable offence and is based on the same facts contained in the extradition request.".
 
 ## 8. Amends article 11 of the relevant Act.
 

@@ -59,10 +59,6 @@ Provided that, in respect to Malta shall mean an area extending to twenty-five n
 
 \*see regulation 1(3) of these regulations, as originally promulgated.
 
-*2*
-
-[S.L.234.53 (WRECK REMOVAL CONVENTION)
-
 "operator of the ship" means the owner of the ship or any other organisation or person such as the manager, or the bareboat charterer, who has assumed responsibility for operation of the ship from the owner of the ship and who, on assuming such responsibility, has agreed to take over all duties and responsibilities established under the International Safety Management Code, as amended;
 
 "registered owner" means the person or persons registered as the owner of the ship or, in the absence of registration, the person or persons owning the ship at the time of the maritime casualty:
@@ -141,11 +137,7 @@ A ship of a gross tonnage of 300 or more shall not enter or leave a port in Malt
 
 ## 9. Insurance certificates.
 
-The competent authority for the purpose of issuing the certificate attesting that an insurance cover or other financial security is in force, as referred to in the Convention, in respect of ships registered in Malta shall be the Registrar-General who shall determine the conditions of issue and validity of such certificate, and, in respect of ships registered in a State not party to the [S.L.234.53 (WRECK REMOVAL CONVENTION)
-
-Convention shall be the said Registrar-General who shall have such powers as aforesaid, or the appropriate authority of a State Party to the Convention.
-
-*4*
+The competent authority for the purpose of issuing the certificate attesting that an insurance cover or other financial security is in force, as referred to in the Convention, in respect of ships registered in Malta shall be the Registrar-General who shall determine the conditions of issue and validity of such certificate, and, in respect of ships registered in a State not party to the Convention shall be the said Registrar-General who shall have such powers as aforesaid, or the appropriate authority of a State Party to the Convention.
 
 ## 10. Issue of certificates by the competent authority.
 

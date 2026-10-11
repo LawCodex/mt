@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Republic of Hungary Order (S.L. 123.29)
 
-WITH THE REPUBLIC OF HUNGARY [ L.S.123.29
-
 **SUBSIDIARY LEGISLATION 123.29**
 
 DOUBLE TAXATION RELIEF ON TAXES ON
@@ -90,8 +88,6 @@ the income tax
 **General Definitions**
 
 (1) For the purposes of this Agreement, unless the context otherwise requires:
-
-**WITH THE REPUBLIC OF HUNGARY [ L.S.123.29**
 
 (a) the term "Hungary" when used in a geographical sense means the territory of the Republic of Hungary; and
 
@@ -169,8 +165,6 @@ home available to him in both States, he shall be deemed to be a resident solely
 
 (d) the maintenance of a fixed place of business solely for the purpose of purchasing goods or merchandise, or of collecting information, for the enterprise;
 
-**WITH THE REPUBLIC OF HUNGARY [ L.S.123.29**
-
 (e) the maintenance of a fixed place of business solely for the purpose of carrying on, for the enterprise, any other activity of a preparatory or auxiliary character;
 
 (f) the maintenance of a fixed place of business solely for any combination of activities mentioned in sub-paragraphs (a) to (e), provided that the overall activity of the fixed place of business resulting from this combination is of a preparatory or auxiliary character.
@@ -215,9 +209,7 @@ general law respecting immovable property apply, usufruct of immovable property 
 
 (5) Nothing in this Article shall affect the application of any law of a Contracting State relating to the determination of the tax liability of a person, including the determination of such liability by the exercise of discretion or the making of an estimate by the competent authority of that State in cases in which, from the information available to the competent authority of that State, it is not possible or not practicable to ascertain the profits to be attributed to a permanent establishment, provided that that law shall be applied, so far as the information available to the competent authority permits, consistently with the principles of this Article.
 
-(6) No profits shall be attributed to a permanent establishment by reason of the WITH THE REPUBLIC OF HUNGARY [ L.S.123.29
-
-mere purchase by that permanent establishment of goods or merchandise for the enterprise.
+(6) No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
 
 (7) For the purposes of the preceding paragraphs, the profits to be attributed to the permanent establishment shall be determined by the same method year by year unless there is good and sufficient reason to the contrary.
 
@@ -275,8 +267,6 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 (5) Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company’s undistributed profits to a tax on the company’s undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
 
-**WITH THE REPUBLIC OF HUNGARY [ L.S.123.29**
-
 **ARTICLE 11**
 
 **Interest**
@@ -333,9 +323,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 (5) Royalties shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or fixed base in connection with which the obligation to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
-(6) Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, WITH THE REPUBLIC OF HUNGARY [ L.S.123.29
-
-exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Agreement.
+(6) Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Agreement.
 
 **ARTICLE 13**
 
@@ -395,9 +383,7 @@ Directors’ fees and similar payments derived by a resident of one of the Contr
 
 (2) Where income in respect of personal activities exercised by an entertainer or an athlete in his capacity as such accrues not to the entertainer or athlete himself but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the entertainer or athlete are exercised, if that person is directly or indirectly controlled by the entertainer or athlete.
 
-(3) Notwithstanding the provisions of paragraphs (1) and (2) of this Article, WITH THE REPUBLIC OF HUNGARY [ L.S.123.29
-
-income mentioned in this Article shall be exempt from tax in the Contracting State in which the activity of the entertainer or athlete is exercised provided that this activity is supported in a considerable part out of public funds of this State or of the other State or the activity is exercised under a cultural agreement or arrangement between the Contracting States.
+(3) Notwithstanding the provisions of paragraphs (1) and (2) of this Article, income mentioned in this Article shall be exempt from tax in the Contracting State in which the activity of the entertainer or athlete is exercised provided that this activity is supported in a considerable part out of public funds of this State or of the other State or the activity is exercised under a cultural agreement or arrangement between the Contracting States.
 
 **ARTICLE 18**
 
@@ -465,8 +451,6 @@ shall be exempt from tax in that other State on:
 
 (2) The provisions of paragraph (1) shall not apply to income, other than income from immovable property as defined in paragraph (2) of Article 6, if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
-**WITH THE REPUBLIC OF HUNGARY [ L.S.123.29**
-
 ## CHAPTER IV — Elimination of Double Taxation — ARTICLE 23
 
 **Elimination of Double Taxation**
@@ -513,9 +497,7 @@ nationals of that other State in the same circumstances are or may be subjected.
 
 (3) The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Agreement. They may also consult together for the elimination of double taxation in cases not provided for in the Agreement.
 
-(4) The competent authorities of the Contracting States may communicate with each other directly for the purpose of reaching an agreement in the sense of the WITH THE REPUBLIC OF HUNGARY [ L.S.123.29
-
-preceding paragraphs.
+(4) The competent authorities of the Contracting States may communicate with each other directly for the purpose of reaching an agreement in the sense of the preceding paragraphs.
 
 **ARTICLE 26**
 
@@ -584,8 +566,6 @@ Joseph Cassar Török Béla
 FOR THE GOVERNMENT OF FOR THE GOVERNMENT OF THE
 
 **MALTA REPUBLIC OF HUNGARY**
-
-**WITH THE REPUBLIC OF HUNGARY [ L.S.123.29**
 
 **PROTOCOL**
 

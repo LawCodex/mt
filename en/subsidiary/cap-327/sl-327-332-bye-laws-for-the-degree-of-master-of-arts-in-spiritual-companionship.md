@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Spiritual Companionship under the auspices of the Faculty of Theology (S.L. 327.332)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF THEOLOGY [S.L.327.332
-
 **SUBSIDIARY LEGISLATION 327.332**
 
 BYE-LAWS FOR THE DEGREE OF MASTER OF ARTS IN SPIRITUAL COMPANIONSHIP UNDER THE AUSPICES OF THE FACULTY OF
@@ -64,11 +60,7 @@ These bye-laws shall be applicable for courses commencing in October 2017 or lat
 
 (b) a Bachelor degree in any area of study together with experience related to Spiritual Companionship.
 
-(2) The Faculty Admissions Committee may, after thorough examination of documents submitted in support of the qualifications presented, and following an interview, recommend the admission of applicants applying for admission in terms of the University’s Policy for the Recognition and Accreditation of Prior Learning (RPL) who are in possession of other academic or professional qualifications and documented experience if these are deemed to be comparable to the qualifications referred to in paragraph (1) of this bye-law. The admission of such applicants may be made subject to those conditions that may be imposed to address any lacunae in the applicants’ academic preparation.and [S.L.327.332 UNDER THE AUSPICES OF THE FACULTY OF THEOLOGY
-
-experience that together are deemed to be comparable to the level of a first degree.
-
-*2*
+(2) The Faculty Admissions Committee may, after thorough examination of documents submitted in support of the qualifications presented, and following an interview, recommend the admission of applicants applying for admission in terms of the University’s Policy for the Recognition and Accreditation of Prior Learning (RPL) who are in possession of other academic or professional qualifications and documented experience if these are deemed to be comparable to the qualifications referred to in paragraph (1) of this bye-law. The admission of such applicants may be made subject to those conditions that may be imposed to address any lacunae in the applicants’ academic preparation.and experience that together are deemed to be comparable to the level of a first degree.
 
 (3) All applicants shall satisfy the Board through an interview, that they have the necessary academic background, professional aptitude and disposition to follow the Course with profit. The interview shall be conducted by an interviewing board appointed by the Board, and shall be composed of at least three members.
 
@@ -107,10 +99,6 @@ The programme of study shall be published after approval by Senate, normally not
 (1) Students shall be required to submit an individual dissertation of approximately 15,000 - 20,000 words in accordance with the guidelines issued by the Board.
 
 (2) Work on the dissertation may be undertaken during the third semester of the course. Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
-
-*3*
-
-UNDER THE AUSPICES OF THE FACULTY OF THEOLOGY [S.L.327.332
 
 (3) A provisional title for the dissertation and a detailed research proposal shall be submitted to the Board for approval by the beginning of the second semester.
 

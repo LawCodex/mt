@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degrees of Bachelor of Library, Information and Archive Studies (Honours) - B.LIAS (Hons) - and Bachelor of Library, Information and Archive Studies - B.LIAS - under the Auspices of the Faculty of Media and Knowledge Sciences (S.L. 327.241)
 
-STUDIES (HONOURS) - B. LIAS (HONS) - AND BACHELOR OF LIBRARY
-
-INFORMATION AND ARCHIVE STUDIES - B. LIAS - UNDER THE
-
-*1*
-
-AUSPICES OF THE FACULTY OF MEDIA AND KNOWLEDGE SCIENCES [ S.L.327.241
-
 **SUBSIDIARY LEGISLATION 327.241**
 
 BYE-LAWS FOR THE DEGREES OF BACHELOR OF LIBRARY INFORMATION AND ARCHIVE STUDIES (HONOURS) - B. LIAS (HONS) -
@@ -67,11 +59,11 @@ These bye-laws shall be applicable for courses commencing in October 2012 or lat
 
 (3) The Board shall announce the areas of study that may be taken with Library Information and Archive Studies in the Degree before the commencement of the course.
 
-STUDIES (HONOURS) - B. LIAS (HONS) - AND BACHELOR OF LIBRARY INFORMATION AND ARCHIVE STUDIES - B. LIAS - UNDER THE [ S.L.327.241 AUSPICES OF THE FACULTY OF MEDIA AND KNOWLEDGE SCIENCES 4. To be registered as regular students in the course, applicants shall satisfy the general requirements for admission as specified in the Admission Regulations.
+## 4. Requirements for admission.
 
-*2*
+*Substituted by: L.N. 39 of 2013.*
 
-*Requirements for admission. Substituted by: L.N. 39 of 2013.*
+To be registered as regular students in the course, applicants shall satisfy the general requirements for admission as specified in the Admission Regulations.
 
 ## 5. Course duration.
 
@@ -115,13 +107,7 @@ Part Two shall consist of study-units to which 120 credits are assigned.
 
 ## 12. Classification of the Awards.
 
-(1) The Final Weighted Average Mark for the classification of the Bachelor of Library Information and Archive Studies (Honours) degree shall be based on the results obtained in each of the last two years of the course, which shall be weighted as STUDIES (HONOURS) - B. LIAS (HONS) - AND BACHELOR OF LIBRARY
-
-INFORMATION AND ARCHIVE STUDIES - B. LIAS - UNDER THE
-
-*3*
-
-AUSPICES OF THE FACULTY OF MEDIA AND KNOWLEDGE SCIENCES [ S.L.327.241 follows:
+(1) The Final Weighted Average Mark for the classification of the Bachelor of Library Information and Archive Studies (Honours) degree shall be based on the results obtained in each of the last two years of the course, which shall be weighted as follows:
 
 Second Year Average Mark 40%
 

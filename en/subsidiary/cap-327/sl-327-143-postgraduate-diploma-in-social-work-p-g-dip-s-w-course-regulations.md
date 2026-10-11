@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Postgraduate Diploma in Social Work - P.G. Dip. S.W. - Course Regulations (S.L. 327.143)
 
-*1*
-
-SOCIAL WORK - P.G.DIP.S.W. - COURSE [S.L.327.143
-
 **SUBSIDIARY LEGISLATION 327.143**
 
 **POSTGRADUATE DIPLOMA IN SOCIAL WORK -**
@@ -63,10 +59,6 @@ These regulations shall apply to courses starting in October 1998 or later.
 
 (2) Candidates who satisfy the requirements of subregulation (1) with Psychology as a subsidiary area of study or who are in possession of a Bachelor of Arts (Honours) degree in Social Administration shall be required to successfully complete the following two study-units, or others which the Board, considers to be equivalent:
 
-*2*
-
-[S.L.327.143 SOCIAL WORK - P.G.DIP.S.W. - COURSE
-
 Counselling I & II or Helping Skills I & II; and
 
 Psychopathology I.
@@ -105,11 +97,7 @@ Psychopathology I.
 
 (5) Students who are able to demonstrate that they have successfully completed one or more study-units, equivalent to those forming part of this course, may apply for exemption, provided that students shall not be exempted from more than 20% of the credits required for the course.
 
-(6) Except with the permission of the Board, students may not take a study-unit for which they do not have the prerequisites or take a study-unit without taking also the concurrent study-units as SOCIAL WORK - P.G.DIP.S.W. - COURSE [S.L.327.143
-
-advised.
-
-*3*
+(6) Except with the permission of the Board, students may not take a study-unit for which they do not have the prerequisites or take a study-unit without taking also the concurrent study-units as advised.
 
 ## 6. Assessment.
 

@@ -1,6 +1,6 @@
 ---
 title: "State Aid Monitoring Regulations"
-identifier: "S.L. 325.7"
+identifier: "S.L. 325.07"
 eli: "https://legislation.mt/eli/sl/325.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/325.7/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# State Aid Monitoring Regulations (S.L. 325.7)
+# State Aid Monitoring Regulations (S.L. 325.07)
 
 **SUBSIDIARY LEGISLATION 325.07**
 

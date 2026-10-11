@@ -1,6 +1,6 @@
 ---
 title: "Part-time Employment of Persons with Disability Regulations"
-identifier: "S.L. 210.4"
+identifier: "S.L. 210.04"
 eli: "https://legislation.mt/eli/sl/210.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/210.4/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Part-time Employment of Persons with Disability Regulations (S.L. 210.4)
-
-PART-TIME EMPLOYMENT OF
-
-*1*
-
-PERSONS WITH DISABILITY [S.L.210.04
+# Part-time Employment of Persons with Disability Regulations (S.L. 210.04)
 
 **SUBSIDIARY LEGISLATION 210.04**
 

@@ -1,6 +1,6 @@
 ---
 title: "Examination of Title Regulations"
-identifier: "S.L. 55.6"
+identifier: "S.L. 55.06"
 eli: "https://legislation.mt/eli/sl/55.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/55.6/20121107/eng"
 retrieved: 2026-10-12
 ---
 
-# Examination of Title Regulations (S.L. 55.6)
+# Examination of Title Regulations (S.L. 55.06)
 
 **SUBSIDIARY LEGISLATION 55.06**
 

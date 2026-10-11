@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Laws (Honours) - LL.B. (Hons), the Degree of Bachelor of Laws - LL.B., and the Diploma of Legal Procurator - Dip. L.P. - under the auspices of the Faculty of Laws (S.L. 327.507)
 
-THE DEGREE OF BACHELOR OF LAWS - LL.B. - AND THE
-
-*1*
-
-DIPLOMA OF LEGAL PROCURATOR - Dip.L.P. [S.L.327.507
-
 **SUBSIDIARY LEGISLATION 327.507**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF LAWS (HONOURS) - LL.B. (Hons.), BACHELOR OF LAWS - LL.B. - AND THE DIPLOMA OF LEGAL PROCURATOR - DIP.L.P. - UNDER THE AUSPICES
@@ -64,11 +58,7 @@ These bye-laws shall be applicable as from October 2018 onwards.
 
 (1) Apart from satisfying the general requirements for admission as specified in the Admissions Regulations of the University of Malta, applicants for the Honours Degree, the Degree, and the Diploma shall also be in possession of the following requirements:
 
-(a) two passes at Grade C or better at Advanced Matriculation Level or equivalent in English and Maltese, and three passes at Intermediate Matriculation Level or equivalent, one of which at THE DEGREE OF BACHELOR OF LAWS - LL.B. - AND THE [S.L.327.507 DIPLOMA OF LEGAL PROCURATOR - Dip.L.P.
-
-grade C or better, in subjects chosen as follows: one subject from Group 2, one subject from Group 3, and any another subject (except English and Maltese); or (b) for entry in October 2020 or later, a degree at MQF level 6 in any area of study awarded by the University of Malta or any other higher education institution recognised by Senate, and a pass at Grade C or better at Advanced Matriculation Level in Maltese:
-
-*2*
+(a) two passes at Grade C or better at Advanced Matriculation Level or equivalent in English and Maltese, and three passes at Intermediate Matriculation Level or equivalent, one of which at grade C or better, in subjects chosen as follows: one subject from Group 2, one subject from Group 3, and any another subject (except English and Maltese); or (b) for entry in October 2020 or later, a degree at MQF level 6 in any area of study awarded by the University of Malta or any other higher education institution recognised by Senate, and a pass at Grade C or better at Advanced Matriculation Level in Maltese:
 
 provided that if the degree is in Maltese a pass at Grade C or better at Advanced Matriculation Level or equivalent in English is also required.
 
@@ -94,13 +84,7 @@ provided that if the degree is in Maltese a pass at Grade C or better at Advance
 
 (4) Students who obtain 120 credits assigned to taught study-units with an average mark of at least 50% and do not proceed with the Course, or having proceeded do not successfully complete the Course, shall be eligible for the award of the Higher Diploma in Law.
 
-(5) Students have the option of following the programme for the Diploma either concurrently with the course leading to the THE DEGREE OF BACHELOR OF LAWS - LL.B. - AND THE
-
-*3*
-
-DIPLOMA OF LEGAL PROCURATOR - Dip.L.P. [S.L.327.507
-
-Degree or following the award of the Degree or the Honours Degree with at least Category II or Second Class (Honours).
+(5) Students have the option of following the programme for the Diploma either concurrently with the course leading to the Degree or following the award of the Degree or the Honours Degree with at least Category II or Second Class (Honours).
 
 (6) Students who take up the option to follow the course leading to the Diploma concurrently with the course leading to the Degree shall indicate their option at the end of the first year of the course and prior to registering in the second year and shall only qualify for the Diploma if they also satisfy all the requirements for the Degree as set out in the programme of study.
 

@@ -1,6 +1,6 @@
 ---
 title: "Commission for the Administration of Justice (Election of Members) Rules"
-identifier: "S.L. const.4"
+identifier: "S.L. const.04"
 eli: "https://legislation.mt/eli/sl/const.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/const.4/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Commission for the Administration of Justice (Election of Members) Rules (S.L. const.4)
-
-COMMISSION FOR THE ADMINISTRATION OF
-
-*1*
-
-JUSTICE (ELECTION OF MEMBERS) [S.L.Const.04
+# Commission for the Administration of Justice (Election of Members) Rules (S.L. const.04)
 
 **SUBSIDIARY LEGISLATION CONST.04**
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (The Republic of Mauritius) Order (S.L. 123.161)
 
-*1*
-
-(THE REPUBLIC OF MAURITIUS) [S.L.123.161
-
 **SUBSIDIARY LEGISLATION 123.161**
 
 DOUBLE TAXATION RELIEF (TAXES ON INCOME) (THE REPUBLIC OF MAURITIUS) ORDER
@@ -44,8 +40,6 @@ It is hereby declared:
 (c) that the Agreement shall enter into force on such date as may be announced by notice in the Gazette\*.
 
 \*23rd April, 2015 - see Legal Notice 362 of 2015.
-
-2 [S.L.123.161 (THE REPUBLIC OF MAURITIUS)
 
 ## SCHEDULE — Article 2 — AGREEMENT BETWEEN
 
@@ -103,9 +97,7 @@ The Agreement shall apply also to any identical or substantially similar taxes t
 
 \1. For the purposes of this Agreement, unless the context otherwise requires:
 
-(a) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance (THE REPUBLIC OF MAURITIUS) [S.L.123.161 3
-
-with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
+(a) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
 
 (b) the term "Mauritius" means the Republic of Mauritius and includes:
 
@@ -139,7 +131,7 @@ with international law and its national law, including its legislation relating 
 
 (ii) any legal person, partnership or association deriving its status as such from the laws in force in that Contracting State;
 
-(k) the term "tax" means Malta tax or Mauritius tax, as the context requires. 2. As regards the application of the Agreement at any time by a Contracting State, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that State for the purposes of the taxes to which the Agreement applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State. 4 [S.L.123.161 (THE REPUBLIC OF MAURITIUS)
+(k) the term "tax" means Malta tax or Mauritius tax, as the context requires. 2. As regards the application of the Agreement at any time by a Contracting State, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that State for the purposes of the taxes to which the Agreement applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State.
 
 **Article 4**
 
@@ -183,8 +175,6 @@ with international law and its national law, including its legislation relating 
 
 (a) a building site or construction, installation or assembly project, or supervisory activities in connection therewith only if the site, project or activity lasts more than 12 months;
 
-(THE REPUBLIC OF MAURITIUS) [S.L.123.161 5
-
 (b) the furnishing of services, including consultancy services, by an enterprise of a Contracting State through employees or other personnel engaged in the other Contracting State, provided that such activities continue for the same or a connected project for a period of more than 12 months.
 
 ## 4.
@@ -221,9 +211,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \1. Income derived by a resident of a Contracting State from immovable property (including income from agriculture or forestry) situated in the other Contracting State may be taxed in that other State.
 
-\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The 6 [S.L.123.161 (THE REPUBLIC OF MAURITIUS)
-
-term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources. Ships and aircraft shall not be regarded as immovable property.
+\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources. Ships and aircraft shall not be regarded as immovable property.
 
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
@@ -241,9 +229,7 @@ term shall in any case include property accessory to immovable property, livesto
 
 \4. Insofar as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph 2 shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary. The method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles contained in this Article.
 
-\5. No profits shall be attributed to a permanent establishment by reason of the (THE REPUBLIC OF MAURITIUS) [S.L.123.161 7
-
-mere purchase by that permanent establishment of goods or merchandise for the enterprise.
+\5. No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
 
 \6. For the purposes of the preceding paragraphs, the profits to be attributed to the permanent establishment shall be determined by the same method year by year unless there is good and sufficient reason to the contrary.
 
@@ -279,9 +265,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \1. Dividends paid by a company which is a resident of a Contracting State to a resident of the other Contracting State shall, if the recipient is the beneficial owner of the dividends, be taxable only in that other State.
 
-\2. The term "dividends" as used in this Article means income from shares, or 8 [S.L.123.161 (THE REPUBLIC OF MAURITIUS)
-
-other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the Contracting State of which the company making the distribution is a resident.
+\2. The term "dividends" as used in this Article means income from shares, or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the Contracting State of which the company making the distribution is a resident.
 
 \3. The provisions of paragraph 1 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment. In such a case, the provisions of Article 7 shall apply.
 
@@ -303,9 +287,7 @@ other rights, not being debt-claims, participating in profits, as well as income
 
 **ROYALTIES**
 
-\1. Royalties arising in a Contracting State and paid to a resident of the other Contracting State shall, if the recipient is the beneficial owner of the royalties, be (THE REPUBLIC OF MAURITIUS) [S.L.123.161 9
-
-taxable only in that other State.
+\1. Royalties arising in a Contracting State and paid to a resident of the other Contracting State shall, if the recipient is the beneficial owner of the royalties, be taxable only in that other State.
 
 \2. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work (including cinematographic films and films, tapes or discs for radio or television broadcasting), any patent, trade mark, design or model, computer programme, plan, secret formula or process, or for information concerning industrial, commercial or scientific experience.
 
@@ -331,9 +313,7 @@ taxable only in that other State.
 
 (ii) in the case of Mauritius, the Stock Exchange of Mauritius; and (iii) any other stock exchange that may be agreed upon by the competent authorities of the Contracting States.
 
-\5. Gains from the alienation of any property, other than that referred to in paragraphs 1, 2, 3 and 4, shall be taxable only in the Contracting State of which the 10 [S.L.123.161 (THE REPUBLIC OF MAURITIUS)
-
-alienator is a resident.
+\5. Gains from the alienation of any property, other than that referred to in paragraphs 1, 2, 3 and 4, shall be taxable only in the Contracting State of which the alienator is a resident.
 
 **Article 14**
 
@@ -367,8 +347,6 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 \3. Notwithstanding the provisions of paragraphs 1 and 2, income derived from activities, referred to in paragraph 1, performed under a cultural agreement or arrangement between the Contracting States shall be exempt from tax in the Contracting State in which the activities are exercised if the visit to that State is wholly or substantially supported by funds of either Contracting State, a local authority or public institution thereof.
 
-(THE REPUBLIC OF MAURITIUS) [S.L.123.161 11
-
 **Article 17**
 
 **PENSIONS**
@@ -401,9 +379,7 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 \1. Notwithstanding the provisions of Article 14, a professor or teacher who makes a temporary visit to one of the Contracting States for a period not exceeding two years for the purpose of teaching or carrying out research at a university, college, school or other educational institution in that State and who is, or immediately before such visit was, a resident of the other Contracting State shall, in respect of remuneration for such teaching or research, be exempt from tax in the first-mentioned State, provided that such remuneration is derived by him from outside that State.
 
-\2. The provisions of this Article shall not apply to income from research if such research is undertaken not in the public interest but wholly or mainly for the 12 [S.L.123.161 (THE REPUBLIC OF MAURITIUS)
-
-private benefit of a specific person or persons.
+\2. The provisions of this Article shall not apply to income from research if such research is undertaken not in the public interest but wholly or mainly for the private benefit of a specific person or persons.
 
 **Article 20**
 
@@ -439,9 +415,7 @@ Provided that any credit allowed under this paragraph shall not exceed the Mauri
 
 **NON-DISCRIMINATION**
 
-\1. Nationals of a Contracting State shall not be subjected in the other (THE REPUBLIC OF MAURITIUS) [S.L.123.161 13
-
-Contracting State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected. This provision shall, notwithstanding the provisions of Article 1, also apply to persons who are not residents of one or both of the Contracting States.
+\1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected. This provision shall, notwithstanding the provisions of Article 1, also apply to persons who are not residents of one or both of the Contracting States.
 
 \2. Stateless persons who are residents of a Contracting State shall not be subjected in either Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of the State concerned in the same circumstances, in particular with respect to residence, are or may be subjected.
 
@@ -461,9 +435,7 @@ Contracting State to any taxation or any requirement connected therewith which i
 
 \2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Agreement. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
 
-\3. The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the 14 [S.L.123.161 (THE REPUBLIC OF MAURITIUS)
-
-interpretation or application of the Agreement. They may also consult together for the elimination of double taxation in cases not provided for in the Agreement.
+\3. The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Agreement. They may also consult together for the elimination of double taxation in cases not provided for in the Agreement.
 
 \4. The competent authorities of the Contracting States may communicate with each other directly, including through a joint commission consisting of themselves or their representatives, for the purpose of reaching an agreement in the sense of the preceding paragraphs.
 
@@ -486,8 +458,6 @@ interpretation or application of the Agreement. They may also consult together f
 \4. If information is requested by a Contracting State in accordance with this Article, the other Contracting State shall use its information gathering measures to obtain the requested information, even though that other State may not need such information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall such limitations be construed to permit a Contracting State to decline to supply information solely because it has no domestic interest in such information.
 
 \5. In no case shall the provisions of paragraph 3 be construed to permit a Contracting State to decline to supply information solely because the information is held by a bank, other financial institution, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person.
-
-(THE REPUBLIC OF MAURITIUS) [S.L.123.161 15
 
 **Article 26**
 
@@ -512,8 +482,6 @@ Where, at any time after a request has been made by a Contracting State under pa
 (a) in the case of a request under paragraph 3, a revenue claim of the first-mentioned State that is enforceable under the laws of that State and is owed by a person who at that time, cannot under the laws of that State, prevent its collection, or
 
 (b) in the case of a request under paragraph 4, a revenue claim of the first-mentioned State in respect of which that State may, under its laws, take measures of conservancy with a view to ensure its collection
-
-16 [S.L.123.161 (THE REPUBLIC OF MAURITIUS)
 
 the competent authority of the first-mentioned State shall promptly notify the competent authority of the other State of that fact and at the option of the other State, the first-mentioned State shall either suspend or withdraw its request.
 
@@ -554,8 +522,6 @@ Nothing in this Agreement shall affect the fiscal privileges of members of diplo
 This Agreement shall remain in force until terminated by a Contracting State. Either Contracting State may terminate the Agreement, through diplomatic channels, by giving notice of termination at least six months before the end of any calendar year beginning after the expiration of a period of five years from the date of its entry into force. In such event, the Agreement shall cease to have effect:
 
 (a) in Malta, in respect of taxes on income derived during any calendar year or accounting period, as the case may be, beginning on or after the first day of January immediately following the date on which the notice of termination is given;
-
-(THE REPUBLIC OF MAURITIUS) [S.L.123.161 17
 
 (b) in Mauritius, in respect of income derived during any calendar year or accounting period, as the case may be, beginning on or after the first day of January immediately following the date on which the notice of termination is given.
 

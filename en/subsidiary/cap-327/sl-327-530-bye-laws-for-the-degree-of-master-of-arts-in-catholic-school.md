@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Catholic School Leadership - M.A. under the auspices of the Faculty of Theology and the Faculty of Education (S.L. 327.530)
 
-LEADERSHIP - M.A. - UNDER THE AUSPICES OF THE FAC-
-
-*1*
-
-ULTY OF THEOLOGY AND THE FACULTY OF EDUCATION [S.L.327.530
-
 **SUBSIDIARY LEGISLATION 327.530**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -70,11 +64,7 @@ The Course shall be open to applicants in possession of:
 
 (c) a degree in education or a Teacher's Certificate, together with at least three years’ teaching experience and other suitable qualifications obtained following the degree or after the Teacher's Certificate; or
 
-(d) any first cycle degree with either the Postgraduate LEADERSHIP - M.A. - UNDER THE AUSPICES OF THE FAC- [S.L.327.530 ULTY OF THEOLOGY AND THE FACULTY OF EDUCATION
-
-Certificate in Education or a recognised teaching qualification, together with three years’ experience in an education setting; or
-
-*2*
+(d) any first cycle degree with either the Postgraduate Certificate in Education or a recognised teaching qualification, together with three years’ experience in an education setting; or
 
 (e) any first cycle degree obtained with at least Third Class Honours or Category III, together with a minimum of three years’ experience in an educational setting, provided that the applicant is a member of a Religious Order, the Society of Christian Doctrine (M.U.S.E.U.M.) or the Diocesan Clergy; or
 
@@ -116,13 +106,7 @@ The programme of study shall be published after approval by Senate, normally not
 
 (1) Students shall be required to have regular contact with their supervisor.
 
-(2) Supervisors shall submit to the Board of Studies progress reports for each student under their supervision at the end of each semester of studies. Such reports may include recommendations to LEADERSHIP - M.A. - UNDER THE AUSPICES OF THE FAC-
-
-*3*
-
-ULTY OF THEOLOGY AND THE FACULTY OF EDUCATION [S.L.327.530
-
-either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
+(2) Supervisors shall submit to the Board of Studies progress reports for each student under their supervision at the end of each semester of studies. Such reports may include recommendations to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 

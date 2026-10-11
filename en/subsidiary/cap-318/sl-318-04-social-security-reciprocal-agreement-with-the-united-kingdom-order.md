@@ -1,6 +1,6 @@
 ---
 title: "Social Security (Reciprocal Agreement with the United Kingdom) Order"
-identifier: "S.L. 318.4"
+identifier: "S.L. 318.04"
 eli: "https://legislation.mt/eli/sl/318.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/318.4/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Social Security (Reciprocal Agreement with the United Kingdom) Order (S.L. 318.4)
-
-*1*
-
-AGREEMENT WITH THE UNITED KINGDOM) [S.L.318.04
+# Social Security (Reciprocal Agreement with the United Kingdom) Order (S.L. 318.04)
 
 **SUBSIDIARY LEGISLATION 318.04**
 
@@ -36,10 +32,6 @@ The title of this Order is the Social Security (Reciprocal Agreement with the Un
 ### 2. Agreement.
 
 The provisions contained in the Agreement set out in the Schedule to this Order shall have full force and effect; and the Social Security Act shall have effect subject to the modifications required therein for the purpose of giving effect to those provisions.
-
-*2*
-
-[S.L.318.04 AGREEMENT WITH THE UNITED KINGDOM)
 
 Amended by: SCHEDULE
 
@@ -81,9 +73,7 @@ The provisions of the present Agreement shall apply -
 
 (a) in relation to the United Kingdom, to -
 
-(i) the National Insurance Act, 1946, the National Insurance Act (Northern Ireland) 1946, the National Insurance (Isle of Man) AGREEMENT WITH THE UNITED KINGDOM) [S.L.318.04 3
-
-Act, 1948, and the legislation in force before the 5th July, 1948, which was replaced by those Acts;
+(i) the National Insurance Act, 1946, the National Insurance Act (Northern Ireland) 1946, the National Insurance (Isle of Man) Act, 1948, and the legislation in force before the 5th July, 1948, which was replaced by those Acts;
 
 (ii) the National Insurance (Industrial Injuries) Act, 1946, the National Insurance (Industrial Injuries) Act (Northern Ireland), 1946, and the National Insurance (Industrial Injuries) (Isle of Man) Act, 1948;
 
@@ -115,9 +105,7 @@ and the employed person is not ordinarily resident in the former territory, then
 
 (4) The provisions of sub-pragraphs (a) and (b) of paragraph (1) shall apply to an employed person in relation also to any other employment which he may undertake in the territory where he is temporarily employed during the period of twelve months specified in that paragraph.
 
-(5) Where the employment specified in paragraph (1) lasts longer than twelve months, the provision of paragraphs (1), (3) and (4) shall continue to apply to the employed person if the competent authority of the territory where he is employed agrees thereto before the end of the period of twelve months specified in paragraph 4 [S.L.318.04 AGREEMENT WITH THE UNITED KINGDOM)
-
-(1).
+(5) Where the employment specified in paragraph (1) lasts longer than twelve months, the provision of paragraphs (1), (3) and (4) shall continue to apply to the employed person if the competent authority of the territory where he is employed agrees thereto before the end of the period of twelve months specified in paragraph (1).
 
 **Article 4**
 
@@ -157,8 +145,6 @@ None of the provisions of Articles 3, 4 and 6 of this Agreement shall affect the
 
 (b) is based in the former territory;
 
-AGREEMENT WITH THE UNITED KINGDOM) [S.L.318.04 5
-
 (c) is engaged in the home trade of the former territory; or
 
 (d) is manned wholly or mainly by persons who are ordinarily resident in the former territory;
@@ -192,8 +178,6 @@ Where a person is employed in one territory and those provisions of the legislat
 (b) for the purpose of any claim to receive benefit for an industrial accident occurring, or an industrial disease contracted, in the course of his employment in the former territory, as if that employment were insurable and as if the accident had occurred or the disease had been contracted in the latter territory.
 
 **Article 9A.**
-
-6 [S.L.318.04 AGREEMENT WITH THE UNITED KINGDOM)
 
 Where a person is temporarily in one territory and is not entitled to receive sickness benefit or injury benefit under the legislation of that territory but would be entitled to receive such benefit under the legislation of the other territory he shall, subject to the approval of the competent authority of the latter territory, be entitled to receive that benefit for such period as that authority may determine.
 
@@ -231,9 +215,7 @@ Where a person, who is entitled to receive any benefit under the legislation of 
 
 (a) he had paid a contribution under that legislation for every week for which he has paid a contribution under the legislation of the other territory;
 
-(b) he had had a contribution credited to him under that legislation for AGREEMENT WITH THE UNITED KINGDOM) [S.L.318.04 7
-
-every week for which he has had a contribution credited to him under the legislation of the other territory;
+(b) he had had a contribution credited to him under that legislation for every week for which he has had a contribution credited to him under the legislation of the other territory;
 
 (c) (deleted);
 
@@ -259,9 +241,7 @@ If a man has been insured under the legislation of both territories, then - (a) 
 
 **Article 15**
 
-For the purpose of any claim to receive guardian’s allowance under the legislation of one territory for a child who is resident in that territory, any contribution paid by a parent of the child under the legislation of the other territory shall be treated, unless guardian’s allowance is payable for the child under that legislation, as if it had been paid by that parent under the legislation of the former 8 [S.L.318.04 AGREEMENT WITH THE UNITED KINGDOM)
-
-territory.
+For the purpose of any claim to receive guardian’s allowance under the legislation of one territory for a child who is resident in that territory, any contribution paid by a parent of the child under the legislation of the other territory shall be treated, unless guardian’s allowance is payable for the child under that legislation, as if it had been paid by that parent under the legislation of the former territory.
 
 **Old Age Pensions**
 
@@ -285,9 +265,7 @@ territory.
 
 **Article 18**
 
-Where a person has contracted an industrial disease and has been employed AGREEMENT WITH THE UNITED KINGDOM) [S.L.318.04 9
-
-in both territories in occupations involving the risk of that disease, he shall, subject to the provisions of Articles 9 and 19, be treated, for the purpose of any claim to receive benefit for that disease under the legislation of the territory in which he was last so employed, as if he had been so employed only in that territory.
+Where a person has contracted an industrial disease and has been employed in both territories in occupations involving the risk of that disease, he shall, subject to the provisions of Articles 9 and 19, be treated, for the purpose of any claim to receive benefit for that disease under the legislation of the territory in which he was last so employed, as if he had been so employed only in that territory.
 
 **Article 19**
 
@@ -325,8 +303,6 @@ Subject to the provisions of Articles 19 and 21, any person claiming benefit und
 
 The competent authorities -
 
-10 [S.L.318.04 AGREEMENT WITH THE UNITED KINGDOM)
-
 (i) shall make such administrative arrangements as may be required for the application of this Agreement;
 
 (ii) shall communicate to each other information regarding any measure taken by them for the application of the Agreement;
@@ -363,6 +339,4 @@ The provisions of Articles 5 and 7 shall have effect from the 7th May, 1956. The
 
 **Article 31**
 
-This Agreement shall enter into force on the 29th October, 1956, and shall remain in force for a period of one year from that date. Thereafter, it shall continue AGREEMENT WITH THE UNITED KINGDOM) [S.L.318.04 11
-
-in force from year to year unless notice of termination is given in writing by the government of either territory at least three months before the expiry of any such yearly period.
+This Agreement shall enter into force on the 29th October, 1956, and shall remain in force for a period of one year from that date. Thereafter, it shall continue in force from year to year unless notice of termination is given in writing by the government of either territory at least three months before the expiry of any such yearly period.

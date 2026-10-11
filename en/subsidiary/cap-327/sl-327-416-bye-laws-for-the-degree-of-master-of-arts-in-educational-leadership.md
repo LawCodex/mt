@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Educational Leadership and Management - M.A. – under the auspices of the Faculty of Education (S.L. 327.416)
 
-LEADERSHIP AND MANAGEMENT - M.A. - UNDER
-
-*1*
-
-THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.416
-
 **SUBSIDIARY LEGISLATION 327.416**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -72,10 +66,6 @@ These bye-laws shall be applicable for courses commencing in February 2018 or la
 
 (c) a Master’s degree that qualified applicants for a Teacher’s Warrant, together with a minimum of five year’s teaching experience; or
 
-*2*
-
-LEADERSHIP AND MANAGEMENT - M.A. - UNDER [S.L.327.416 THE AUSPICES OF THE FACULTY OF EDUCATION
-
 (d) any other recognised teaching qualification together with at least five years’ teaching experience.
 
 (2) Applicants in possession of the Postgraduate Diploma in Educational Leadership may be allowed to join Part Two of the course, if they have completed successfully this Postgraduate Diploma with a minimum average mark of 65%.
@@ -116,13 +106,9 @@ provided that subject to approval by the Board, students may be allowed to repla
 
 (3) In cases where students lack essential knowledge in the area of research methodology, the Board may require students admitted to the course to follow and pass supplementary study-unit/ s in the said area to which a maximum of 12 ECTS credits are assigned in addition to the programme specified in paragraph (1) of this bye-law.
 
-LEADERSHIP AND MANAGEMENT - M.A. - UNDER
+## 6. Publication of programme of study.
 
-*3*
-
-THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.416 6. The programme of study shall be published after approval by Senate, normally not less than eight months prior to the commencement of the course.
-
-*Publication of programme of study.*
+The programme of study shall be published after approval by Senate, normally not less than eight months prior to the commencement of the course.
 
 ## 7. Assessment and progress.
 
@@ -166,8 +152,6 @@ f not more than 20 credits, if following the full-time course, or not more than 
 
 The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma and of the Degree shall be based on the results obtained in all the components of the programme of study, all credits being weighted equally.
 
-*4*
+## 11. Special provisions for part-time courses. Re-numbered by: L.N. 323 of 2015.
 
-LEADERSHIP AND MANAGEMENT - M.A. - UNDER [S.L.327.416 THE AUSPICES OF THE FACULTY OF EDUCATION 11. The provisions of the foregoing bye-laws shall apply mutatis mutandis to courses followed on a part-time basis, and subject to such changes as may reasonably be deemed by the Board as necessary due to the part-time nature of the course.
-
-*Special provisions for part-time courses. Re-numbered by: L.N. 323 of 2015.*
+The provisions of the foregoing bye-laws shall apply mutatis mutandis to courses followed on a part-time basis, and subject to such changes as may reasonably be deemed by the Board as necessary due to the part-time nature of the course.

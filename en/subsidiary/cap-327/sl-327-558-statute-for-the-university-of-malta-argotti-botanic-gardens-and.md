@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Statute for the University of Malta Argotti Botanic Gardens and Resource Centre (S.L. 327.558)
 
-*1*
-
-BOTANIC GARDENS AND RESOURCE CENTRE [S.L.327.558
-
 SUBSIDIARY LEGISLATION 327.558
 
 STATUTE FOR THE UNIVERSITY OF MALTA
@@ -33,5 +29,3 @@ RESOURCE CENTRE
 LEGAL NOTICE 355 of 2016 and 98 of 2017.
 
 Repealed by Legal Notice 259 of 2019.
-
-2 [S.L.327.558 BOTANIC GARDENS AND RESOURCE CENTRE

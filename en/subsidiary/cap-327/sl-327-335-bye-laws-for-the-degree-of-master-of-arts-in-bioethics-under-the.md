@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Bioethics under the auspices of the Faculty of Theology (S.L. 327.335)
 
-*1*
-
-THE AUSPICES OF THE FACULTY OF THEOLOGY [S.L.327.335
-
 **SUBSIDIARY LEGISLATION 327.335**
 
 BYE-LAWS FOR THE DEGREE OF MASTER OF ARTS IN BIOETHICS UNDER THE AUSPICES
@@ -59,11 +55,7 @@ These bye-laws shall be applicable for courses commencing in October 2017 or lat
 
 (a) a Bachelor degree with at least Second Class Honours or Category II in the following areas: Theology, Health Care, Social Work, Law, Medicine, Dentistry, Psychology, Philosophy, Science, or in any other area which the Board deems suitable; and
 
-(b) a Bachelor degree with Third Class Honours or Category III in the following areas: Theology, Health Care, Social Work, Law, Medicine, Dentistry, Psychology, Philosophy, Science, or in any other area which the Board deems suitable, if they are also in possession of other qualifications, including relevant experience, obtained following the first cycle degree. (2) In exceptional cases the Admissions Board, on the recommendation of the Board, may admit into the course applicants not in possession of a Bachelor degree, provided that it is satisfied that such applicants are in possession of other academic or professional qualifications in the following areas: Theology, Health [S.L.327.335 THE AUSPICES OF THE FACULTY OF THEOLOGY
-
-Care, Social Work, Law, Medicine, Dentistry, Psychology, Philosophy, Science, or any other area which the Board deems suitable and a minimum of two years’ professional experience, obtained after the award of the academic or professional qualification, that together are deemed to be comparable to the level of a first degree.
-
-*2*
+(b) a Bachelor degree with Third Class Honours or Category III in the following areas: Theology, Health Care, Social Work, Law, Medicine, Dentistry, Psychology, Philosophy, Science, or in any other area which the Board deems suitable, if they are also in possession of other qualifications, including relevant experience, obtained following the first cycle degree. (2) In exceptional cases the Admissions Board, on the recommendation of the Board, may admit into the course applicants not in possession of a Bachelor degree, provided that it is satisfied that such applicants are in possession of other academic or professional qualifications in the following areas: Theology, Health Care, Social Work, Law, Medicine, Dentistry, Psychology, Philosophy, Science, or any other area which the Board deems suitable and a minimum of two years’ professional experience, obtained after the award of the academic or professional qualification, that together are deemed to be comparable to the level of a first degree.
 
 ## 4. Course duration.
 
@@ -101,11 +93,9 @@ The programme of study shall be published after approval by Senate, normally not
 
 (3) A provisional title for the dissertation and a detailed research proposal shall be submitted to the Board for approval by the beginning of the second semester.
 
-*3*
+## 10. Supervisor.
 
-THE AUSPICES OF THE FACULTY OF THEOLOGY [S.L.327.335 10. (1) Students shall be required to have regular contact with their supervisor.
-
-*Supervisor.*
+(1) Students shall be required to have regular contact with their supervisor.
 
 (2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies, whether the student is following the course on a full-time or a part-time basis. Such reports may include recommendations to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 

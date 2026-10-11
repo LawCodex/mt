@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy under the auspices of the Faculty of Science (S.L. 327.105)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF SCIENCE [S.L.327.105
-
 **SUBSIDIARY LEGISLATION 327.105**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR**
@@ -75,7 +71,7 @@ These bye-laws shall be applicable as from 1 October 2017.
 
 *Added by: L.N. 51 of 2018.*
 
-When the Board deems it necessary, it may require students to successfully complete a number of study-units during the first part of [S.L.327.105 UNDER THE AUSPICES OF THE FACULTY OF SCIENCE their studies, and/or to satisfactorily undertake tasks recommended by the Board, under those conditions that it may impose, after approval by Senate.
+When the Board deems it necessary, it may require students to successfully complete a number of study-units during the first part of their studies, and/or to satisfactorily undertake tasks recommended by the Board, under those conditions that it may impose, after approval by Senate.
 
 \*These regulations have been repealed by Legal Notice 162 of 2024.
 
@@ -84,8 +80,6 @@ When the Board deems it necessary, it may require students to successfully compl
 *Renumbered by: L.N. 51 of 2018.*
 
 The Board shall recommend to Senate the appointment of a Faculty Doctoral Committee composed as follows:
-
-*2*
 
 The Dean of the Faculty (Chairman)
 
@@ -141,8 +135,4 @@ The Board shall approve and publish guidelines on the format and presentation of
 
 (1) Students shall be required to submit a soft-bound copy of their thesis for each member of the Board of Examiners, together with a copy in digital format.
 
-(2) On successful completion of their studies, students shall be required to submit to the Faculty three hard-bound copies of the thesis and one copy in digital format within six weeks from the publication of their result. One copy of the thesis shall be kept in UNDER THE AUSPICES OF THE FACULTY OF SCIENCE [S.L.327.105
-
-the Library of the department and another at the University Library. Students who do not comply with this bye-law shall not be awarded the Degree.
-
-*3*
+(2) On successful completion of their studies, students shall be required to submit to the Faculty three hard-bound copies of the thesis and one copy in digital format within six weeks from the publication of their result. One copy of the thesis shall be kept in the Library of the department and another at the University Library. Students who do not comply with this bye-law shall not be awarded the Degree.

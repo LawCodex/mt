@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Laws (LL.M) under the auspices of the Faculty of Laws (S.L. 327.207)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF LAWS [S.L.327.207
-
 **SUBSIDIARY LEGISLATION 327.207**
 
 *Substituted by: L.N. 382 of 2010.*
@@ -74,13 +70,11 @@ The Course shall be open to applicants in possession of one of the following qua
 
 (b) a Bachelor degree in Law as the main area of study, obtained with at least Second Class Honours or Category II; or
 
-(c) a degree from the University of Malta or any recognised overseas institution which the Board considers to be comparable to any of the degrees indicated in paragraphs (a) and (b) of this bye-law: provided that for the Degree in European and Comparative Law [S.L.327.207 UNDER THE AUSPICES OF THE FACULTY OF LAWS only, the Board of Studies may consider also applicants in possession of a Bachelor degree in European Studies, Political Science, Economics or in any other area of study it deems appropriate, if the first cycle degree presented for admission is obtained with Second Class Honours or Category II.
+(c) a degree from the University of Malta or any recognised overseas institution which the Board considers to be comparable to any of the degrees indicated in paragraphs (a) and (b) of this bye-law: provided that for the Degree in European and Comparative Law only, the Board of Studies may consider also applicants in possession of a Bachelor degree in European Studies, Political Science, Economics or in any other area of study it deems appropriate, if the first cycle degree presented for admission is obtained with Second Class Honours or Category II.
 
 ## 5. Course duration. Re-numbered by: L.N. 382 of 2010.
 
 The course shall extend over three semesters of full-time study or the equivalent in part-time study.
-
-*2*
 
 ## 6. Programme of study. Re-numbered by: L.N. 382 of 2010.
 
@@ -120,11 +114,7 @@ Programmes of study shall be published by the Board after approval by Senate, no
 
 (2) Students who in any academic year fail in the assessment of not more than 20 credits for taught study-units, if following the Course on a full-time basis, or not more than 10 credits if following the Course on a part-time basis, shall be given the opportunity to re-sit the failed assessments during the September supplementary examination session.
 
-(3) Students who fail in more than the number of credits permitted under paragraph (2), or students who after re-assessment fail to obtain the credits for any study-unit, shall be deemed to have UNDER THE AUSPICES OF THE FACULTY OF LAWS [S.L.327.207
-
-failed the course.
-
-*3*
+(3) Students who fail in more than the number of credits permitted under paragraph (2), or students who after re-assessment fail to obtain the credits for any study-unit, shall be deemed to have failed the course.
 
 ## 14. Dissertations. Re-numbered by: L.N. 382 of 2010.
 
@@ -161,7 +151,3 @@ The Final Weighted Average Mark for the purpose of the classification of the Pos
 ## 18. Special provisions for part-time courses. Re-numbered by: L.N. 382 of 2010; L.N. 199 of 2016.
 
 The provisions of the foregoing bye-laws shall apply mutatis mutandis to courses followed on a part-time basis, and subject to such changes as may reasonably be deemed by the Board as necessary due to the part-time nature of the course.
-
-*4*
-
-[S.L.327.207 UNDER THE AUSPICES OF THE FACULTY OF LAWS

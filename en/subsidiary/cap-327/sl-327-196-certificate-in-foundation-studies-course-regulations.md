@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Certificate in Foundation Studies Course Regulations (S.L. 327.196)
 
-*1*
-
-STUDIES COURSE [S.L.327.196
-
 **SUBSIDIARY LEGISLATION 327.196**
 
 **CERTIFICATE IN FOUNDATION**
@@ -62,11 +58,7 @@ These regulations shall be applicable for courses commecing in October 2020 or l
 
 (b) satisfy the University’s English language requirement as published on the University’s official website at the time of applications; and
 
-(c) are in possession of qualifications allowing access to an undergraduate course in the selected discipline in the country where such qualifications originate; but (d) are deemed to require further study to be admitted to undergraduate degree courses at the University of Malta, provided that the Medical and Dental Sciences and the Health Sciences programmes referred to in paragraph (1) of regulation 6 shall be open only to qualified applicants from non-EU/EEA countries in terms of agreements signed by the University with the State of Kuwait, the Sultanate of Oman, and the Kingdom of Saudi Arabia and [S.L.327.196 STUDIES COURSE
-
-to qualified nationals from other non-EU/EEA countries. (2) At the discretion of the Board, applicants shall be required to pass an interview and/or a written test.
-
-*2*
+(c) are in possession of qualifications allowing access to an undergraduate course in the selected discipline in the country where such qualifications originate; but (d) are deemed to require further study to be admitted to undergraduate degree courses at the University of Malta, provided that the Medical and Dental Sciences and the Health Sciences programmes referred to in paragraph (1) of regulation 6 shall be open only to qualified applicants from non-EU/EEA countries in terms of agreements signed by the University with the State of Kuwait, the Sultanate of Oman, and the Kingdom of Saudi Arabia and to qualified nationals from other non-EU/EEA countries. (2) At the discretion of the Board, applicants shall be required to pass an interview and/or a written test.
 
 (3) Applicants who are deemed ineligible to join the Course may be allowed by the Board to enrol as students in the Foundation Commencement Programme which is detailed in Appendix I to these regulations.
 
@@ -122,11 +114,7 @@ Medical and Dental Sciences; and
 
 Health Sciences (in areas of study approved by the Board).
 
-(2) The Board of Studies shall draw up programmes of study indicating the code, title, type of each study-unit, and the credits assigned to each study-unit, as well as study-unit descriptions including the methods of teaching and assessment. The Board of Studies shall propose to the Board of the School the programmes of STUDIES COURSE [S.L.327.196
-
-study and study-units descriptions prior to the commencement of each course. These shall be published following the approval of Senate. Subject to the approval of Senate, the Board of Studies may make any necessary changes to the programmes of study and to the study-units descriptions as required.
-
-*3*
+(2) The Board of Studies shall draw up programmes of study indicating the code, title, type of each study-unit, and the credits assigned to each study-unit, as well as study-unit descriptions including the methods of teaching and assessment. The Board of Studies shall propose to the Board of the School the programmes of study and study-units descriptions prior to the commencement of each course. These shall be published following the approval of Senate. Subject to the approval of Senate, the Board of Studies may make any necessary changes to the programmes of study and to the study-units descriptions as required.
 
 ## 7. Attendance and assessment.
 
@@ -178,11 +166,7 @@ Practical work constituting the whole or part of a study-unit or work that is as
 
 (2) The best marks obtained in each study-unit during the same academic year shall be recorded in the students’ academic record and transcript.
 
-(3) The Certificate shall show a grade A+, A, B+, B, C+, C, D+ or D (grade A+ being the highest and D the lowest) indicating the standard attained by students. In calculating the average mark for the Course, each individual mark obtained for each study-unit registered for during [S.L.327.196 STUDIES COURSE
-
-the year shall be weighted by the credit value of the study-unit. The resultant marks are added and divided by the total number of credits to give the average mark for the year. This mark is then translated into a grade.
-
-*4*
+(3) The Certificate shall show a grade A+, A, B+, B, C+, C, D+ or D (grade A+ being the highest and D the lowest) indicating the standard attained by students. In calculating the average mark for the Course, each individual mark obtained for each study-unit registered for during the year shall be weighted by the credit value of the study-unit. The resultant marks are added and divided by the total number of credits to give the average mark for the year. This mark is then translated into a grade.
 
 ## 12. Access and admission to University undergraduate courses.
 
@@ -208,11 +192,7 @@ At the discretion of the Board, applicants who are deemed ineligible to join the
 
 ## 2.
 
-The Foundation Commencement Programme shall consist of a number of study-units to which 60 ECTS credits are assigned and shall extend over a period of one year of full-time study. Subject to changes that the Board may, with the approval of Senate, STUDIES COURSE [S.L.327.196
-
-be constrained to make, students are bound to follow the study-units and obtain the credits as indicated in the programme of study.
-
-*5*
+The Foundation Commencement Programme shall consist of a number of study-units to which 60 ECTS credits are assigned and shall extend over a period of one year of full-time study. Subject to changes that the Board may, with the approval of Senate, be constrained to make, students are bound to follow the study-units and obtain the credits as indicated in the programme of study.
 
 ## 3.
 

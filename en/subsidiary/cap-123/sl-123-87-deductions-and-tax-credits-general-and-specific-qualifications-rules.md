@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Deductions and Tax Credits (General and Specific Qualifications) Rules (S.L. 123.87)
 
-*1*
-
-(GENERAL AND SPECIFIC QUALIFICATIONS) [S.L.123.87
-
 **SUBSIDIARY LEGISLATION 123.87**
 
 **DEDUCTIONS AND TAX CREDITS**
@@ -65,11 +61,7 @@ Provided that any question that may arise in general or in any particular case a
 
 "small enterprise" and "medium-sized enterprise" have the meaning assigned to them under the provisions of the Business Promotion Regulations;
 
-"specific qualification" means an internationally recognised [S.L.123.87 (GENERAL AND SPECIFIC QUALIFICATIONS)
-
-certificate in information technology, sciences or engineering, awarded by a university or other institution recognised by the Corporation to an employee of a company on the successful completion of a course which, in the opinion of the Corporation, directly contributes to high level specialisation in areas directly and principally applicable to that employee’s present and future position in the company as the Corporation may approve.
-
-*2*
+"specific qualification" means an internationally recognised certificate in information technology, sciences or engineering, awarded by a university or other institution recognised by the Corporation to an employee of a company on the successful completion of a course which, in the opinion of the Corporation, directly contributes to high level specialisation in areas directly and principally applicable to that employee’s present and future position in the company as the Corporation may approve.
 
 ## Part II
 
@@ -99,11 +91,7 @@ Deduction and Tax Credit for Wages and Tuition Expenditure 3. (1) When a company
 
 (a) provide such particulars on the applicant as are necessary to determine whether it qualifies or not as a small or medium-sized enterprise;
 
-(b) describe in detail each course of studies to which it refers, including the date of the commencement and of (GENERAL AND SPECIFIC QUALIFICATIONS) [S.L.123.87
-
-the completion of the course, the relative qualification and the particulars of the respective employee;
-
-*3*
+(b) describe in detail each course of studies to which it refers, including the date of the commencement and of the completion of the course, the relative qualification and the particulars of the respective employee;
 
 (c) contain a description of each item of qualifying wages and tuition expenditure that the applicant has incurred or intends to incur, which items shall be grouped according to the categories of expenditure listed in sub-rule (2);
 
@@ -131,11 +119,7 @@ Provided that the Corporation shall not make such a determination in respect of 
 
 (2) The Corporation may make the determination under this rule subject to such conditions as it may consider appropriate.
 
-(3) When the Corporation makes a determination under this [S.L.123.87 (GENERAL AND SPECIFIC QUALIFICATIONS)
-
-rule, it shall issue a letter of approval in respect of each course of studies to which that determination refers showing -
-
-*4*
+(3) When the Corporation makes a determination under this rule, it shall issue a letter of approval in respect of each course of studies to which that determination refers showing -
 
 (a) the particulars of the applicant and of the employee in question, including the date of the commencement of the employee’s employment with the applicant;
 
@@ -171,11 +155,7 @@ rule, it shall issue a letter of approval in respect of each course of studies t
 
 Expenditure shall constitute allowable wages and tuition expenditure if and to the extent that it meets all the following conditions:
 
-(a) it is qualifying wages and tuition expenditure actually incurred by a company and is not reimbursed to or (GENERAL AND SPECIFIC QUALIFICATIONS) [S.L.123.87
-
-otherwise recoverable by it;
-
-*5*
+(a) it is qualifying wages and tuition expenditure actually incurred by a company and is not reimbursed to or otherwise recoverable by it;
 
 (b) it is an item of expenditure to which a letter of approval issued under rule 5 refers, which does not exceed the maximum qualifying wages and tuition expenditure for that item, and in respect of which any conditions that may have been made applicable in terms of rule 5(2) have been satisfied;
 
@@ -204,10 +184,6 @@ Provided that the tax credit under this sub-rule shall not be due unless -
 (4) Where the company in question has benefited from any State aid in respect of expenditure to which the tax credit refers, other than as provided for in this Part, the said threshold shall be reduced by the value of that aid.
 
 (5) The correct calculation of the reduction mentioned in sub-rule (4), where applicable, shall be the sole responsibility of the company.
-
-*6*
-
-[S.L.123.87 (GENERAL AND SPECIFIC QUALIFICATIONS)
 
 (6) The deduction referred to sub-rule (1) shall be due for the year of assessment immediately following the year in which the relative expenditure is incurred, and the tax credit referred to in sub-rule (2) shall be due for the year of assessment immediately following the year in which the course of studies in question is successfully completed:
 
@@ -241,10 +217,6 @@ Provided that -
 
 (b) the tax credit due to a company under this Part shall not exceed, in the aggregate, the ceiling laid down in Article 4 of Commission Regulation (EC) No 2204/ 2202 on the application of Articles 87 and 88 of the EC Treaty to State Aid for employment, as may be subsequently amended;
 
-*7*
-
-(GENERAL AND SPECIFIC QUALIFICATIONS) [S.L.123.87
-
 (c) where the company in question has benefited from any State aid in respect of expenditure to which the tax credit refers, other than as provided in this Part, the said ceiling shall be reduced by the value of that other benefit;
 
 (d) the correct calculation of the said ceiling and, where applicable, reduction, shall be the sole responsibility of the company.
@@ -265,11 +237,7 @@ Provided that -
 
 Provided that -
 
-(a) to the extent that the tax credit cannot be availed of in [S.L.123.87 (GENERAL AND SPECIFIC QUALIFICATIONS)
-
-a year of assessment, it may be carried forward to be availed of in subsequent years of assessment;
-
-*8*
+(a) to the extent that the tax credit cannot be availed of in a year of assessment, it may be carried forward to be availed of in subsequent years of assessment;
 
 (b) a tax credit shall not give rise to a right to a refund of tax;
 
@@ -299,11 +267,7 @@ A company to whom a letter of approval has been issued in terms of rule 5 or 10(
 
 *S.L. 325.06*
 
-(2) In addition to the database kept under the provisions of the Business Promotion Regulations, the Corporation shall also keep a database of all assistance provided to, or claimed by, a company (GENERAL AND SPECIFIC QUALIFICATIONS) [S.L.123.87
-
-under Parts II and III for ten years from the date on which the last individual assistance was granted, in order to enable it to -
-
-*9*
+(2) In addition to the database kept under the provisions of the Business Promotion Regulations, the Corporation shall also keep a database of all assistance provided to, or claimed by, a company under Parts II and III for ten years from the date on which the last individual assistance was granted, in order to enable it to -
 
 (a) verify whether the provisions of these rules have been complied with;
 
@@ -335,10 +299,6 @@ If a company avails itself of a tax credit under Part II or III in respect of ex
 
 (2) The tax credit referred to in this rule is an amount equivalent to the study costs as defined in rule 20 paid by the individual for the period commencing on the date of the commencement of the course or the 1st January, 2005, whichever is the later, and ending on the date of the conclusion of the course or thirty six months from the commencement of the course, whichever is the earlier.
 
-*10*
-
-[S.L.123.87 (GENERAL AND SPECIFIC QUALIFICATIONS)
-
 (3) The tax credit shall be spread over three years and, accordingly, one third of the amount determined in accordance with sub-rule (2) shall be due as a deduction from the tax payable by the individual on his chargeable income for the year of assessment commencing on the 1st January of the year immediately following that in which the relevant qualification is obtained and for each of the subsequent two years of assessment, and any amount not absorbed by the tax payable for a year of assessment may be carried forward to be allowed as a tax credit for subsequent years.
 
 (4) The tax credit referred to in this rule shall not be due unless the individual is in possession of receipts of the study costs to which the credit refers and submits to the Commissioner, together with the tax return for the first year of assessment for which the tax credit is claimed -
@@ -367,10 +327,6 @@ The study costs to which this Part applies are:
 
 \*This sub-rule shall apply to qualifying expenditure incurred on or after 1st June, 2007.
 
-*11*
-
-(GENERAL AND SPECIFIC QUALIFICATIONS) [S.L.123.87
-
 (a) fees paid to the university or educational establishment in question for the admission of the individual to the course and his attendance for that course;
 
 (b) the cost of course materials directly related to the training programme, as may be approved by the Corporation.
@@ -382,10 +338,6 @@ The study costs to which this Part applies are:
 *Added by: L.N. 182 of 2014.*
 
 No new applications under these rules shall be received by the Corporation after the 30th June 2014.
-
-**[S.L.123.87 (GENERAL AND SPECIFIC QUALIFICATIONS)**
-
-*12*
 
 ## SCHEDULE — TABLE A — Rule 8(2)
 

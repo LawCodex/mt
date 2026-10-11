@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the State of Kuwait Order (S.L. 123.77)
 
-*1*
-
-WITH THE STATE OF KUWAIT [S.L.123.77
-
 SUBSIDIARY LEGISLATION 123.77
 
 DOUBLE TAXATION RELIEF ON TAXES ON
@@ -48,8 +44,6 @@ It is hereby declared:
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Convention has entered into force on the 19th March, 2004.
-
-2 [S.L.123.77 WITH THE STATE OF KUWAIT
 
 ## SCHEDULE — CONVENTION — BETWEEN THE GOVERNMENT OF MALTA
 
@@ -113,8 +107,6 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 \1. For the purposes of this Convention, unless the context otherwise requires:
 
-WITH THE STATE OF KUWAIT [S.L.123.77 3
-
 (a) the term "Kuwait" means the State of Kuwait and includes any area beyond the territorial sea which in accordance with international law has been or may be designated under the laws of Kuwait as an area in which Kuwait may exercise sovereign rights or jurisdiction;
 
 (b) the term "Malta", when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, and any area outside the territorial sea of Malta which, in accordance with international law, has been or may hereafter be designated, under the law of Malta concerning the Continental Shelf, as an area within which the rights of Malta with respect to the seabed and subsoil and their natural resources may be exercised;
@@ -157,9 +149,7 @@ For the purposes of this Convention, the term "resident of a Contracting State" 
 
 (a) in the case of Kuwait, an individual who has his domicile in Kuwait and is a Kuwaiti national and a company which is incorporated in Kuwait;
 
-(b) in the case of Malta, a person who is resident in Malta for the purposes 4 [S.L.123.77 WITH THE STATE OF KUWAIT
-
-of Malta tax.
+(b) in the case of Malta, a person who is resident in Malta for the purposes of Malta tax.
 
 \2. For the purposes of paragraph 1, a resident of a Contracting State shall include:
 
@@ -203,8 +193,6 @@ Where by reason of the provisions of paragraph 1 a person other than an individu
 
 (e) a workshop; and
 
-WITH THE STATE OF KUWAIT [S.L.123.77 5
-
 (f) a mine, an oil or gas well, a quarry or any other place of extraction of natural resources including an offshore drilling site.
 
 \3. A building site or a construction, assembly or installation project or supervisory activity in connection therewith constitutes a permanent establishment only if such site, project or activity continues for a period of more than three months.
@@ -243,8 +231,6 @@ Notwithstanding the provisions of paragraphs 1 and 2 above, where a person - oth
 
 (c) he habitually secures orders in the first-mentioned Contracting State, exclusively or almost exclusively for the enterprise itself or for such enterprise and other enterprises which are controlled by it or have a controlling interest in it; or
 
-6 [S.L.123.77 WITH THE STATE OF KUWAIT
-
 (d) in so acting, he manufactures in that Contracting State for the enterprise goods or merchandise belonging to the enterprise.
 
 ## 8.
@@ -273,9 +259,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \1. The profits of an enterprise of a Contracting State shall be taxable only in that Contracting State unless the enterprise carries on business in the other Contracting State through a permanent establishment situated therein. If the enterprise carries on business as aforesaid, the profits of the enterprise may be taxed in the other Contracting State but only so much of them as is attributable to that permanent establishment.
 
-\2. Subject to the provisions of paragraph 3, where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently WITH THE STATE OF KUWAIT [S.L.123.77 7
-
-with the enterprise of which it is a permanent establishment or with other associated enterprises with which it deals.
+\2. Subject to the provisions of paragraph 3, where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment or with other associated enterprises with which it deals.
 
 \3. In the determination of the profits of a permanent establishment, there shall be allowed as deductions expenses of the enterprise which are incurred for the purposes of the permanent establishment, including executive and general administrative expenses so incurred and which would be deductible if the permanent establishment were an independent entity which paid those expenses, whether incurred in the Contracting State in which the permanent establishment is situated or elsewhere. However, in so far as Kuwait is concerned, no such deduction shall be allowed in respect of amounts, if any, paid (otherwise than towards reimbursement of actual expenses) by the permanent establishment to the head office of the enterprise or any of its other offices, by way of royalties, fees or other similar payments in return for the use of patents or other rights, or by way of commission, for specific services performed or for management, or, except in the case of a banking enterprise, by way of interest on moneys lent to the permanent establishment. Likewise, no account shall be taken, in the determination of the profits of a permanent establishment, for amounts charged (otherwise than towards reimbursement of actual expenses), by the permanent establishment to the head office of the enterprise or any of its other offices, by way of royalties, fees or other similar payments in return for the use of patents or other rights, or by way of commission for specific services performed or for management, or, except in the case of a banking enterprise, by way of interest on moneys lent to the head office or any of its other offices.
 
@@ -291,7 +275,7 @@ with the enterprise of which it is a permanent establishment or with other assoc
 
 ## 9.
 
-The provisions of this Article shall not affect the provisions of the law of a Contracting State regarding the taxation of profits from the business of insurance. 8 [S.L.123.77 WITH THE STATE OF KUWAIT
+The provisions of this Article shall not affect the provisions of the law of a Contracting State regarding the taxation of profits from the business of insurance.
 
 **Article 8**
 
@@ -325,9 +309,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 (a) dividends are paid by a company resident of Kuwait to a resident of Malta who is the beneficial owner thereof, no Kuwaiti tax shall be charged on such dividend;
 
-(b) dividends are paid by a company which is a resident of Malta to a resident of Kuwait who is the beneficial owner thereof, Malta tax on the gross amount of the dividends shall in no case exceed that chargeable on the profits out of which the dividends are paidg provided, however, that such tax on the gross amount of dividends payable to the Government of WITH THE STATE OF KUWAIT [S.L.123.77 9
-
-Kuwait or any of its institutions or any inter-governmental entities referred to in paragraph 2 of Article 4 shall not exceed ten per cent (10%), and that in all other cases such tax shall not exceed fifteen per cent (15%) of the gross amount of the dividends.
+(b) dividends are paid by a company which is a resident of Malta to a resident of Kuwait who is the beneficial owner thereof, Malta tax on the gross amount of the dividends shall in no case exceed that chargeable on the profits out of which the dividends are paidg provided, however, that such tax on the gross amount of dividends payable to the Government of Kuwait or any of its institutions or any inter-governmental entities referred to in paragraph 2 of Article 4 shall not exceed ten per cent (10%), and that in all other cases such tax shall not exceed fifteen per cent (15%) of the gross amount of the dividends.
 
 \3. The term "dividends" as used in this Article means:
 
@@ -347,9 +329,7 @@ income from shares, "jouissance" shares or "jouissance" rights, mining shares, f
 
 \3. The provisions of paragraph 1 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other Contracting State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
-\4. Interest shall be deemed to arise in a Contracting State when the payer is that Contracting State itself, a political subdivision, a local authority or a resident of that Contracting State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent 10 [S.L.123.77 WITH THE STATE OF KUWAIT
-
-establishment or fixed base, then such interest shall be deemed to arise in the Contracting State in which the permanent establishment or fixed base is situated.
+\4. Interest shall be deemed to arise in a Contracting State when the payer is that Contracting State itself, a political subdivision, a local authority or a resident of that Contracting State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment or fixed base, then such interest shall be deemed to arise in the Contracting State in which the permanent establishment or fixed base is situated.
 
 \5. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
@@ -368,8 +348,6 @@ establishment or fixed base, then such interest shall be deemed to arise in the 
 \5. Royalties shall be deemed to arise in a Contracting State when the payer is that Contracting State itself, a political subdivision, a local authority or a resident of that Contracting State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the Contracting State in which the permanent establishment or fixed base is situated.
 
 \6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payment shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
-
-WITH THE STATE OF KUWAIT [S.L.123.77 11
 
 **Article 13**
 
@@ -401,9 +379,7 @@ WITH THE STATE OF KUWAIT [S.L.123.77 11
 
 **DEPENDENT PERSONAL SERVICES**
 
-\1. Subject to the provisions of Articles 16, 18, 19, 20 and 21, salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that Contracting State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other 12 [S.L.123.77 WITH THE STATE OF KUWAIT
-
-Contracting State.
+\1. Subject to the provisions of Articles 16, 18, 19, 20 and 21, salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that Contracting State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other Contracting State.
 
 \2. Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in the other Contracting State shall be taxable only in the first-mentioned State if:
 
@@ -437,9 +413,7 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 **PENSIONS AND ANNUITIES**
 
-\1. Subject to the provisions of paragraph 2 of Article 19, pensions and other similar remuneration and annuities paid to a resident of a Contracting State in WITH THE STATE OF KUWAIT [S.L.123.77 13
-
-consideration of past employment shall be taxable only in that Contracting State.
+\1. Subject to the provisions of paragraph 2 of Article 19, pensions and other similar remuneration and annuities paid to a resident of a Contracting State in consideration of past employment shall be taxable only in that Contracting State.
 
 \2. Notwithstanding the provisions of paragraph 1, any pension and other payment paid out under the provisions of a social security system of a Contracting State to a resident of the other Contracting State shall be taxable only in the first-mentioned Contracting State.
 
@@ -473,9 +447,7 @@ consideration of past employment shall be taxable only in that Contracting State
 
 **TEACHERS AND RESEARCHERS**
 
-\1. Remuneration which a professor or teacher who is or was immediately before visiting a Contracting State a resident of the other Contracting State and who is present in the first-mentioned State for a period not exceeding two years for the 14 [S.L.123.77 WITH THE STATE OF KUWAIT
-
-purpose of carrying out advanced study or research or for teaching at a university, college, school or other educational institution received for such work shall not be taxed in that State, provided that such remuneration is derived by him from outside that State.
+\1. Remuneration which a professor or teacher who is or was immediately before visiting a Contracting State a resident of the other Contracting State and who is present in the first-mentioned State for a period not exceeding two years for the purpose of carrying out advanced study or research or for teaching at a university, college, school or other educational institution received for such work shall not be taxed in that State, provided that such remuneration is derived by him from outside that State.
 
 \2. This Article shall not apply to income from research if such research is undertaken primarily for the private benefit of a specific person or persons.
 
@@ -507,9 +479,7 @@ If a resident of Kuwait derives income which in accordance with the provisions o
 
 In such a case, Kuwait shall deduct from the taxes so calculated the tax paid in Malta but in an amount not exceeding that proportion of the aforesaid Kuwaiti tax which such income bears to the entire income. (b) In the case of Malta:
 
-(i) Subject to the provisions of the law of Malta regarding the allowance of a credit against Malta tax in respect of foreign tax, where, in accordance with the provisions of this Convention, there is included in a Malta assessment income from sources within Kuwait, the Kuwaiti tax on such income shall be allowed WITH THE STATE OF KUWAIT [S.L.123.77 15
-
-as a credit against the relative Malta tax payable thereon.
+(i) Subject to the provisions of the law of Malta regarding the allowance of a credit against Malta tax in respect of foreign tax, where, in accordance with the provisions of this Convention, there is included in a Malta assessment income from sources within Kuwait, the Kuwaiti tax on such income shall be allowed as a credit against the relative Malta tax payable thereon.
 
 (ii) For the purpose of (i) of this sub-paragraph the Kuwaiti tax Zakat mentioned in paragraph 3 of Article 2 shall be considered an income tax.
 
@@ -533,9 +503,7 @@ as a credit against the relative Malta tax payable thereon.
 
 \7. The provisions of this Article shall, notwithstanding the provisions of Article 2, apply to taxes of every kind and description.
 
-Article 25 MUTUAL AGREEMENT PROCEDURE 1. Where a person considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Convention, he may, irrespective of the remedies provided by the domestic law of those Contracting States, present his case to the competent authority of the 16 [S.L.123.77 WITH THE STATE OF KUWAIT
-
-Contracting State of which he is a resident or if his case comes under paragraph 1 of Article 24, to that of the Contracting State of which he is a national. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of this Convention.
+Article 25 MUTUAL AGREEMENT PROCEDURE 1. Where a person considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Convention, he may, irrespective of the remedies provided by the domestic law of those Contracting States, present his case to the competent authority of the Contracting State of which he is a resident or if his case comes under paragraph 1 of Article 24, to that of the Contracting State of which he is a national. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of this Convention.
 
 \2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with this Convention. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
 
@@ -562,8 +530,6 @@ Contracting State of which he is a resident or if his case comes under paragraph
 **DIPLOMATIC AND CONSULAR PRIVILEGES**
 
 Nothing in this Convention shall affect the fiscal privileges of members of a diplomatic mission, a consular post or an international organization under the general rules of international law or under the provisions of special agreements.
-
-WITH THE STATE OF KUWAIT [S.L.123.77 17
 
 **Article 28**
 
@@ -604,8 +570,6 @@ IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed t
 DONE at Riyadh, this 14th day of Jamad Al-Awwal 1423 A.H. corresponding to the 24th day of July, 2002, in three originals, in the Arabic, Maltese and English languages, in the case of divergence in interpretation the English text shall prevail. For the Government of Malta For the Government of the State of Kuwait
 
 H.E. Dr Saviour P. Gauci H.E. Sheikh Jaber Duaij Al-Ibrahim Al-Sabah Ambassador of Malta Ambassador of the State of Kuwait
-
-18 [S.L.123.77 WITH THE STATE OF KUWAIT
 
 **PROTOCOL**
 

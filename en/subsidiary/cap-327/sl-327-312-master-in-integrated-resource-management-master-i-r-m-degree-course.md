@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Master in Integrated Resource Management - Master - I.R.M - Degree Course Regulations (S.L. 327.312)
 
-MASTER IN INTEGRATED RESOURCE
-
-*1*
-
-MANAGEMENT - MASTER I.R.M. - DEGREE COURSE [S.L.327.312
-
 **SUBSIDIARY LEGISLATION 327.312**
 
 **MASTER IN INTEGRATED RESOURCE**

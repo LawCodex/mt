@@ -1,6 +1,6 @@
 ---
 title: "Extension of Applicable Period Order"
-identifier: "S.L. 62.1"
+identifier: "S.L. 62.01"
 eli: "https://legislation.mt/eli/sl/62.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/62.1/20130730/eng"
 retrieved: 2026-10-12
 ---
 
-# Extension of Applicable Period Order (S.L. 62.1)
+# Extension of Applicable Period Order (S.L. 62.01)
 
 **SUBSIDIARY LEGISLATION 62.01**
 

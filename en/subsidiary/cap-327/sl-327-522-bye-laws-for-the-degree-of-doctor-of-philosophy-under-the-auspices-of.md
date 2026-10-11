@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy under the auspices of the Centre for Biomedical Cybernetics (S.L. 327.522)
 
-UNDER THE AUSPICES OF THE CENTRE
-
-*1*
-
-FOR BIOMEDICAL CYBERNETICS [S.L.327.522
-
 **SUBSIDIARY LEGISLATION 327.522**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR OF**
@@ -73,15 +67,9 @@ The Degree shall be open to applicants in possession of the following qualificat
 
 ## 5. Application form.
 
-(1) Applicants may submit their application form, together with a comprehensive research proposal outlining the proposed project, including research sources and materials, at any time of the UNDER THE AUSPICES OF THE CENTRE
+(1) Applicants may submit their application form, together with a comprehensive research proposal outlining the proposed project, including research sources and materials, at any time of the year.
 
 \*These bye-laws have been repealed by Legal Notice 215 of 2024.
-
-*2*
-
-[S.L.327.522 FOR BIOMEDICAL CYBERNETICS
-
-year.
 
 (2) Applicants may also be asked to demonstrate competence in those skills required by the nature of the proposed research.
 
@@ -129,10 +117,6 @@ The Board shall approve and publish guidelines on the format and presentation of
 
 (1) Students shall be required to submit a loose bound copy of their thesis for each member of the Board of Examiners, together with a copy in digital format. The officer in charge of the Faculty shall issue a dated receipt.
 
-(2) Students may publish the whole or part of their thesis UNDER THE AUSPICES OF THE CENTRE
-
-*3*
-
-FOR BIOMEDICAL CYBERNETICS [S.L.327.522 before submitting it for examination. Such published work may later be included in the thesis submitted for examination, provided that a statement to this effect is included.
+(2) Students may publish the whole or part of their thesis before submitting it for examination. Such published work may later be included in the thesis submitted for examination, provided that a statement to this effect is included.
 
 (3) On successful completion of their studies, students shall be required to submit to the Centre two hard bound copies and one electronic version of the thesis, which shall include a signed declaration of authenticity, within six weeks from the publication of their result. One copy of the thesis shall be kept in the Library of the Centre. The electronic version must conform to the standards set up by the University of Malta Library. Students who do not comply with this bye-law shall not be awarded the Degree.

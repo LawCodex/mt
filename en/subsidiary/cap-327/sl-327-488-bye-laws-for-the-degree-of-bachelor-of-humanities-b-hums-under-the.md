@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Humanities - B.Hums - under the auspices of the Faculty of Arts (S.L. 327.488)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF ARTS [S.L.327.488
-
 **SUBSIDIARY LEGISLATION 327.488**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF HUMANITIES - B.Hums - UNDER THE AUSPICES
@@ -70,11 +66,11 @@ These bye-laws shall be applicable for courses commencing in 30th April, 2020 on
 
 The course shall extend over a period of three years of full-time study or up to six years of part-time (day) study.
 
-*2*
+## 5. Programme of study.
 
-[S.L.327.488 UNDER THE AUSPICES OF THE FACULTY OF ARTS 5. The programme of study shall consist of study-units to which 180 ECTS credits are assigned. Subject to time-table constraints, students may register for study-units from any area of study offered by the Faculty, provided that not more than 40% of the credits are taken from the same area of study, which concession shall apply to one area of study only. Students may also register for up to 25% of the credits for units offered by other faculties and academic entities within the University.
+*Substituted by: L.N. 213 of 2020; L.N. 124 of 2023.*
 
-*Programme of study. Substituted by: L.N. 213 of 2020; L.N. 124 of 2023.*
+The programme of study shall consist of study-units to which 180 ECTS credits are assigned. Subject to time-table constraints, students may register for study-units from any area of study offered by the Faculty, provided that not more than 40% of the credits are taken from the same area of study, which concession shall apply to one area of study only. Students may also register for up to 25% of the credits for units offered by other faculties and academic entities within the University.
 
 ## 6. Certificate.
 

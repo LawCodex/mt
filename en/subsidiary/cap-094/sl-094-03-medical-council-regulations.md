@@ -1,6 +1,6 @@
 ---
 title: "Medical Council Regulations"
-identifier: "S.L. 94.3"
+identifier: "S.L. 94.03"
 eli: "https://legislation.mt/eli/sl/94.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/94.3/20251017/eng"
 retrieved: 2026-10-12
 ---
 
-# Medical Council Regulations (S.L. 94.3)
+# Medical Council Regulations (S.L. 94.03)
 
 **SUBSIDIARY LEGISLATION 94.03**
 

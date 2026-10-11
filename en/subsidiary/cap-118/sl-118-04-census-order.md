@@ -1,6 +1,6 @@
 ---
 title: "Census Order"
-identifier: "S.L. 118.4"
+identifier: "S.L. 118.04"
 eli: "https://legislation.mt/eli/sl/118.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/118.4/20211109/eng"
 retrieved: 2026-10-12
 ---
 
-# Census Order (S.L. 118.4)
+# Census Order (S.L. 118.04)
 
 **SUBSIDIARY LEGISLATION 118.04**
 

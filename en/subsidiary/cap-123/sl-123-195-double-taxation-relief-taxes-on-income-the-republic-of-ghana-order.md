@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (The Republic of Ghana) Order (S.L. 123.195)
 
-*1*
-
-REPUBLIC OF GHANA) [S.L. 123.195 SUBSIDIARY LEGISLATION 123.195
+**SUBSIDIARY LEGISLATION 123.195**
 
 DOUBLE TAXATION RELIEF (TAXES ON INCOME)
 
@@ -44,10 +42,6 @@ the income tax
 (c) that the Agreement shall enter into force on such date as may be announced by notice in the Government Gazette.
 
 \*Not yet in force.
-
-*2*
-
-[S.L. 123.195 REPUBLIC OF GHANA)
 
 ## SCHEDULE — ARTICLE 2 — AGREEMENT BETWEEN THE GOVERNMENT OF THE
 
@@ -93,9 +87,7 @@ the income tax;
 
 the income tax;
 
-*3*
-
-REPUBLIC OF GHANA) [S.L. 123.195 (hereinafter referred to as "Ghana tax").
+(hereinafter referred to as "Ghana tax").
 
 ## 4.
 
@@ -119,11 +111,7 @@ The Agreement shall apply also to any identical or substantially similar taxes t
 
 (f) the terms "enterprise of a Contracting State" and "enterprise of the other Contracting State" mean respectively an enterprise carried on by a resident of a Contracting State and an enterprise carried on by a resident of the other Contracting State;
 
-(g) the term "international traffic" means any [S.L. 123.195 REPUBLIC OF GHANA)
-
-transport by a ship or aircraft operated by an enterprise of a Contracting State except when the ship or aircraft is operated solely between places in the other Contracting State;
-
-*4*
+(g) the term "international traffic" means any transport by a ship or aircraft operated by an enterprise of a Contracting State except when the ship or aircraft is operated solely between places in the other Contracting State;
 
 (h) the term "competent authority" means:
 
@@ -145,9 +133,7 @@ transport by a ship or aircraft operated by an enterprise of a Contracting State
 
 \2. As regards the application of the Agreement at any time by a Contracting State, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that State for the purposes of the taxes to which the Agreement applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State.
 
-*5*
-
-REPUBLIC OF GHANA) [S.L. 123.195 ARTICLE 4
+**ARTICLE 4**
 
 **RESIDENT**
 
@@ -174,10 +160,6 @@ REPUBLIC OF GHANA) [S.L. 123.195 ARTICLE 4
 \2. The term "permanent establishment" includes especially:
 
 (a) a place of management;
-
-*6*
-
-[S.L. 123.195 REPUBLIC OF GHANA)
 
 (b) a branch;
 
@@ -211,9 +193,9 @@ Notwithstanding the preceding provisions of this Article, the term "permanent es
 
 (f) the maintenance of a fixed place of business solely for any combination of activities mentioned in sub-paragraphs (a) to (e), provided that the overall activity of the fixed place of business resulting from this combination is of a preparatory or auxiliary character.
 
-*7*
+## 5.
 
-REPUBLIC OF GHANA) [S.L. 123.195 5. Notwithstanding the provisions of paragraphs 1 and 2, where a person - other than an agent of an independent status to whom paragraph 6 applies - is acting on behalf of an enterprise and has, and habitually exercises, in a Contracting State an authority to conclude contracts in the name of the enterprise, that enterprise shall be deemed to have a permanent establishment in that State in respect of any activities which that person undertakes for the enterprise, unless the activities of such person are limited to those mentioned in paragraph 4 which, if exercised through a fixed place of business, would not make this fixed place of business a permanent establishment under the provisions of that paragraph.
+Notwithstanding the provisions of paragraphs 1 and 2, where a person - other than an agent of an independent status to whom paragraph 6 applies - is acting on behalf of an enterprise and has, and habitually exercises, in a Contracting State an authority to conclude contracts in the name of the enterprise, that enterprise shall be deemed to have a permanent establishment in that State in respect of any activities which that person undertakes for the enterprise, unless the activities of such person are limited to those mentioned in paragraph 4 which, if exercised through a fixed place of business, would not make this fixed place of business a permanent establishment under the provisions of that paragraph.
 
 ## 6.
 
@@ -233,11 +215,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
-\4. The provisions of paragraphs 1 and 3 shall also apply to the income from immovable property of an enterprise and to income from immovable property used for the performance of independent [S.L. 123.195 REPUBLIC OF GHANA)
-
-personal services.
-
-*8*
+\4. The provisions of paragraphs 1 and 3 shall also apply to the income from immovable property of an enterprise and to income from immovable property used for the performance of independent personal services.
 
 **ARTICLE 7**
 
@@ -249,11 +227,9 @@ personal services.
 
 \3. In determining the profits of a permanent establishment, there shall be allowed as deductions expenses which are incurred for the purposes of the permanent establishment, including executive and general administrative expenses so incurred, whether in the State in which the permanent establishment is situated or elsewhere which are allowed under the provisions of the domestic law of the Contracting State in which the permanent establishment is situated. However, no such deduction shall be allowed in respect of amounts, if any, paid (otherwise than towards reimbursement of actual expenses) by the permanent establishment to the head office of the enterprise or any of its other offices, by way of royalties, fees or other similar payments in return for the use of patents or other rights, or by way of commission, for specific services performed or for management, or, except in the case of a banking enterprise, by way of interest on moneys lent to the permanent establishment. Likewise, no account shall be taken, in determining the profits of a permanent establishment, of amounts charged (otherwise than towards reimbursement of actual expenses), by the permanent establishment to the head office of the enterprise or any of its other offices, by way of royalties, fees or other similar payments in return for the use of patents or other rights, or by way of commission for specific services performed or for management, or, except in the case of a banking enterprise, by way of interest on moneys lent to the head office of the enterprise or any of its other offices.
 
-\4. Insofar as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph 2 shall preclude that Contracting REPUBLIC OF GHANA) [S.L. 123.195 State from determining the profits to be taxed by such an apportionment as may be customary; the method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles contained in this Article.
+\4. Insofar as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph 2 shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary; the method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles contained in this Article.
 
 \5. No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
-
-*9*
 
 \6. For the purposes of the preceding paragraphs, the profits to be attributed to the permanent establishment shall be determined by the same method year by year unless there is good and sufficient reason to the contrary.
 
@@ -281,10 +257,6 @@ Where profits include items of income which are dealt with separately in other A
 
 and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
 
-*10*
-
-[S.L. 123.195 REPUBLIC OF GHANA)
-
 \2. Where a Contracting State includes in the profits of an enterprise of that State - and taxes accordingly - profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Agreement and the competent authorities of the Contracting States shall if necessary consult each other.
 
 **ARTICLE 10**
@@ -303,11 +275,9 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \3. The term "dividends" as used in this Article means income from shares, or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
 
-\4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and REPUBLIC OF GHANA) [S.L. 123.195 the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 16, as the case may be, shall apply.
+\4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 16, as the case may be, shall apply.
 
 \5. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company's undistributed profits to a tax on the company's undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
-
-*11*
 
 **ARTICLE 11**
 
@@ -323,11 +293,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 (b) the interest is paid in connection with a loan granted, approved, guaranteed or insured by the Government of a Contracting State, the central bank of a Contracting State, or any agency or instrumentality (including a financial institution) owned or controlled by the Government of a Contracting State.
 
-\4. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor's profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such [S.L. 123.195 REPUBLIC OF GHANA)
-
-securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
-
-*12*
+\4. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor's profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
 \5. The provisions of paragraph 1 and 2 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 16, as the case may be, shall apply.
 
@@ -345,11 +311,9 @@ Where, by reason of a special relationship between the payer and the beneficial 
 
 \2. However, such royalties may also be taxed in the Contracting State in which they arise and according to the laws of that State, but if the beneficial owner of the royalties is a resident of the other Contracting State, the tax so charged shall not exceed eight percent of the gross amount of the royalties. The competent authorities of the Contracting States shall by mutual agreement settle the mode of application of this paragraph.
 
-\3. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the REPUBLIC OF GHANA) [S.L. 123.195 right to use, any copyright of literary, artistic or scientific work including cinematograph film or films or tapes used for radio or television broadcasting, any patent, trade mark, design or model, plan, secret formula or process, or for information concerning industrial, commercial or scientific experience.
+\3. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including cinematograph film or films or tapes used for radio or television broadcasting, any patent, trade mark, design or model, plan, secret formula or process, or for information concerning industrial, commercial or scientific experience.
 
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 16, as the case may be, shall apply.
-
-*13*
 
 \5. Royalties shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
@@ -361,11 +325,7 @@ Where, by reason of a special relationship between the payer and the beneficial 
 
 \1. Services fees arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other State.
 
-\2. However, such services fees may also be taxed in the Contracting State in which they arise, and according to the laws of that State, but if the beneficial owner of the services fees is a resident of the other Contracting State the tax so charged shall not exceed twelve per cent of the gross amount of the services fees. The competent authorities of the Contracting State shall by mutual agreement settle [S.L. 123.195 REPUBLIC OF GHANA)
-
-the mode of application of this paragraph.
-
-*14*
+\2. However, such services fees may also be taxed in the Contracting State in which they arise, and according to the laws of that State, but if the beneficial owner of the services fees is a resident of the other Contracting State the tax so charged shall not exceed twelve per cent of the gross amount of the services fees. The competent authorities of the Contracting State shall by mutual agreement settle the mode of application of this paragraph.
 
 \3. The term "services fees" as used in this article means payment of any kind to any person, other than to an employee of the person making the payment, in consideration for any services of a managerial, technical or consultancy nature rendered in a contracting state. However, the term services fees shall not include any payments in consideration of supervisory activities in connection with a building site or construction, assembly or installation project or for supervisory activities in connection with installation incidental to the sale of machinery or parts thereof.
 
@@ -379,11 +339,9 @@ the mode of application of this paragraph.
 
 **CAPITAL GAINS**
 
-\1. Gains derived by a resident of a Contracting State from the alienation of immovable property referred to in Article 6 and situated in the other Contracting State may be taxed in that other State. REPUBLIC OF GHANA) [S.L. 123.195 2. Gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or of movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing independent personal services, including such gains from the alienation of such a permanent establishment (alone or with the whole enterprise) or of such fixed base, may be taxed in that other State.
+\1. Gains derived by a resident of a Contracting State from the alienation of immovable property referred to in Article 6 and situated in the other Contracting State may be taxed in that other State. 2. Gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or of movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing independent personal services, including such gains from the alienation of such a permanent establishment (alone or with the whole enterprise) or of such fixed base, may be taxed in that other State.
 
 \3. Gains that an enterprise of a Contracting State that operates ships or aircraft operated in international traffic derives from the alienation of such ships or aircraft, or of movable property pertaining to the operation of such ships or aircraft, shall be taxable only in that State.
-
-*15*
 
 \4. Gains derived by a resident of a Contracting State from the alienation of shares or comparable interests, such as interests in a partnership or trusts, may be taxed in the other Contracting State if, at any time during the 365 days preceding the alienation, these shares or comparable interests deriving more than 50 per cent of their value directly or indirectly from immovable property (as defined in Article 6), situated in that other Contracting State.
 
@@ -400,10 +358,6 @@ the mode of application of this paragraph.
 (a) the recipient is present in the other State for a period or periods not exceeding in the aggregate 183 days in any 12 month period commencing or ending in the fiscal year concerned; and
 
 (b) the remuneration is paid by, or on behalf of, an employer who is not a resident of the other State; and
-
-*16*
-
-[S.L. 123.195 REPUBLIC OF GHANA)
 
 (c) the remuneration is not borne by a permanent establishment which the employer has in the other State.
 
@@ -431,11 +385,9 @@ Directors' fees and other similar payments derived by a resident of a Contractin
 
 **ENTERTAINERS AND SPORTSPERSONS**
 
-\1. Notwithstanding the provisions of Articles 7, 15 and 16 income derived by a resident of a Contracting State as an entertainer, such as a theatre, motion picture, radio or television artiste, or a musician, or as a sportsperson from that resident’s personal activities as REPUBLIC OF GHANA) [S.L. 123.195 such exercised in the other Contracting State, may be taxed in that other State.
+\1. Notwithstanding the provisions of Articles 7, 15 and 16 income derived by a resident of a Contracting State as an entertainer, such as a theatre, motion picture, radio or television artiste, or a musician, or as a sportsperson from that resident’s personal activities as such exercised in the other Contracting State, may be taxed in that other State.
 
 \2. Where income in respect of personal activities exercised by an entertainer or a sportsperson acting as such accrues not to the entertainer or sportsperson but to another person, that income may, notwithstanding the provisions of Articles 7, 15 and 16, be taxed in the Contracting State in which the activities of the entertainer or sportsperson are exercised.
-
-*17*
 
 \3. Notwithstanding the provisions of paragraphs 1 and 2, income derived from activities, referred to in paragraph 1, performed under a cultural or sports agreement or arrangement between the Contracting States shall be exempt from tax in the Contracting State in which the activities are exercised if the visit to that State is wholly or substantially supported by funds of either Contracting State, a local authority or public institution thereof.
 
@@ -459,11 +411,7 @@ Directors' fees and other similar payments derived by a resident of a Contractin
 
 (ii) did not become a resident of that State solely for the purpose of rendering the services.
 
-\2. (a) Notwithstanding the provisions of paragraph 1, [S.L. 123.195 REPUBLIC OF GHANA)
-
-pensions and other similar remuneration paid by, or out of funds created by, a Contracting State or a political subdivision, or a local authority thereof to an individual in respect of services rendered to that State or subdivision or authority shall be taxable only in that State.
-
-*18*
+\2. (a) Notwithstanding the provisions of paragraph 1, pensions and other similar remuneration paid by, or out of funds created by, a Contracting State or a political subdivision, or a local authority thereof to an individual in respect of services rendered to that State or subdivision or authority shall be taxable only in that State.
 
 (b) However, such pensions and similar remuneration shall be taxable only in the other Contracting State if the individual is a resident of, and a national of, that State.
 
@@ -487,11 +435,9 @@ Payments which a student or business apprentice who is or was immediately before
 
 \3. Relevant activities which are carried on by an enterprise of a Contracting State in the other Contracting State for a period or periods not exceeding in the aggregate 30 days within any period of twelve months shall not constitute the carrying on of business through a permanent establishment situated therein. For the purposes of this paragraph:
 
-(a) where an enterprise of a Contracting State carrying on relevant activities in the other Contracting State is associated REPUBLIC OF GHANA) [S.L. 123.195 with another enterprise carrying on substantially similar relevant activities there, the former enterprise shall be deemed to be carrying on all such activities of the latter enterprise, except to the extent that those activities are carried on at the same time as its own activities;
+(a) where an enterprise of a Contracting State carrying on relevant activities in the other Contracting State is associated with another enterprise carrying on substantially similar relevant activities there, the former enterprise shall be deemed to be carrying on all such activities of the latter enterprise, except to the extent that those activities are carried on at the same time as its own activities;
 
 (b) an enterprise shall be regarded as associated with another enterprise if one participates directly or indirectly in the management, control or capital of the other or if the same persons participate directly or indirectly in the management, control or capital of both enterprises.
-
-*19*
 
 \4. Salaries, wages and similar remuneration derived by a resident of a Contracting State in respect of an employment connected with relevant activities in the other Contracting State may, to the extent that the duties are performed offshore in that other State, be taxed in that other State.
 
@@ -510,10 +456,6 @@ In this paragraph "exploration or exploitation rights" mean rights to assets to 
 \1. Items of income of a resident of a Contracting State, wherever arising, not dealt with in the foregoing Articles of this Agreement shall be taxable only in that State.
 
 \2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment or performs in that other State independent personal services from a fixed base situated therein and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case, the provisions of Article 7 or Article 16, as the case may be, shall apply.
-
-*20*
-
-[S.L. 123.195 REPUBLIC OF GHANA)
 
 **ARTICLE 24**
 
@@ -537,9 +479,7 @@ Provided that any credit allowed under subparagraphs (a) and (b) of this paragra
 
 \1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected. This provision shall, notwithstanding the provisions of Article 1, also apply to persons who are not residents of one or both of the Contracting States.
 
-*21*
-
-REPUBLIC OF GHANA) [S.L. 123.195 2. Stateless persons who are residents of a Contracting State shall not be subjected in either Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of the State concerned in the same circumstances, in particular with respect to residence, are or may be subjected.
+\2. Stateless persons who are residents of a Contracting State shall not be subjected in either Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of the State concerned in the same circumstances, in particular with respect to residence, are or may be subjected.
 
 \3. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
 
@@ -553,11 +493,7 @@ REPUBLIC OF GHANA) [S.L. 123.195 2. Stateless persons who are residents of a Con
 
 **MUTUAL AGREEMENT PROCEDURE**
 
-\1. Where a person considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Agreement, he may, irrespective of the remedies provided by the domestic law of those States, present his case to the competent authority of either Contracting State. The case must be presented within three years from the first notification of [S.L. 123.195 REPUBLIC OF GHANA)
-
-the action resulting in taxation not in accordance with the provisions of the Agreement.
-
-*22*
+\1. Where a person considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Agreement, he may, irrespective of the remedies provided by the domestic law of those States, present his case to the competent authority of either Contracting State. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Agreement.
 
 \2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Agreement. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
 
@@ -573,9 +509,7 @@ the action resulting in taxation not in accordance with the provisions of the Ag
 
 \2. Any information received under paragraph 1 by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of the determination of appeals in relation to, the taxes referred to in paragraph 1, or the oversight of the above. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions. Notwithstanding the foregoing, information received by a Contracting State may be used for other purposes when such information may be used for such other purposes under the laws of both States and the competent authority of the supplying State authorises such use.
 
-*23*
-
-REPUBLIC OF GHANA) [S.L. 123.195 3. In no case shall the provisions of paragraphs 1 and 2 be construed so as to impose on a Contracting State the obligation:
+\3. In no case shall the provisions of paragraphs 1 and 2 be construed so as to impose on a Contracting State the obligation:
 
 (a) to carry out administrative measures at variance with the laws and administrative practice of that or of the other Contracting State;
 
@@ -597,11 +531,7 @@ Nothing in this Agreement shall affect the fiscal privileges of members of diplo
 
 **ENTITLEMENT TO BENEFITS**
 
-\1. Notwithstanding the other provisions of this Agreement, a benefit under this Agreement shall not be granted in respect of an item of income if it is reasonable to conclude, having regard to all relevant facts and circumstances, that obtaining that benefit was one of the principal purposes of any arrangement or transaction that results directly or indirectly in that benefit, unless it is established that granting that benefit in these circumstances would be in accordance [S.L. 123.195 REPUBLIC OF GHANA)
-
-with the object and purpose of the relevant provisions of this Agreement.
-
-*24*
+\1. Notwithstanding the other provisions of this Agreement, a benefit under this Agreement shall not be granted in respect of an item of income if it is reasonable to conclude, having regard to all relevant facts and circumstances, that obtaining that benefit was one of the principal purposes of any arrangement or transaction that results directly or indirectly in that benefit, unless it is established that granting that benefit in these circumstances would be in accordance with the object and purpose of the relevant provisions of this Agreement.
 
 \2. Where a benefit under this Agreement is denied to a person under provisions of this Agreement that deny all or part of the benefits that would otherwise be provided under the Agreement where the principal purpose or one of the principal purposes of any arrangement or transaction, or of any person concerned with an arrangement or transaction, was to obtain those benefits, the competent authority of the Contracting State that would otherwise have granted this benefit shall nevertheless treat that person as being entitled to this benefit, or to different benefits with respect to a specific item of income if such competent authority, upon request from that person and after consideration of the relevant facts and circumstances, determines that such benefits would have been granted to that person in the absence of the transaction or arrangement. The competent authority of the Contracting State to which a request has been made under this paragraph by a resident of the other Contracting State shall consult with the competent authority of that other Contracting State before rejecting the request.
 
@@ -625,11 +555,9 @@ in respect of taxes on income for the year of assessment beginning, on or after 
 
 **TERMINATION**
 
-This Agreement shall remain in force until terminated by a REPUBLIC OF GHANA) [S.L. 123.195 Contracting State. Either Contracting State may terminate the Agreement, through diplomatic channels, by giving notice of termination at least six months before the end of any calendar year beginning after the expiration of a period of five years from the date of its entry into force. In such event, the Agreement shall cease to have effect:
+This Agreement shall remain in force until terminated by a Contracting State. Either Contracting State may terminate the Agreement, through diplomatic channels, by giving notice of termination at least six months before the end of any calendar year beginning after the expiration of a period of five years from the date of its entry into force. In such event, the Agreement shall cease to have effect:
 
 (a) in Malta:
-
-*25*
 
 in respect of taxes on income derived during any calendar year or accounting period, as the case may be, beginning on or after the first day of January immediately following the date on which the notice is given.
 

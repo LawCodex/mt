@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Kempinski Residences, San Lawrenz, Gozo (Designated Special Area) Order (S.L. 246.15)
 
-*1*
-
-GOZO (DESIGNATED SPECIAL AREA) [S.L.246.15
-
 **SUBSIDIARY LEGISLATION 246.15**
 
 KEMPINSKI RESIDENCES, SAN LAWRENZ, GOZO (DESIGNATED SPECIAL AREA) ORDER
@@ -40,7 +36,3 @@ Kempinski Residences, San Lawrenz, Gozo consisting of immovable property situate
 ## 3. Addition to the First Schedule to the Act. Cap. 246.
 
 Kempinski Residences, San Lawrenz, Gozo shall be added to the List of Scheduled Zones in the First Schedule to the Immovable Property (Acquisition by Non-Residents) Immovable Property (Acquisition by Non-Residents) Act.
-
-*2*
-
-[S.L.246.15 GOZO (DESIGNATED SPECIAL AREA)

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Certificate in Lace Studies under the auspices of the Institute for Islands and Small States - Repealed by Legal Notice 3 of 2020 (S.L. 327.264)
 
-*1*
-
-OF THE INSTITUTE FOR ISLANDS AND SMALL STATES [S.L.327.264
-
 **SUBSIDIARY LEGISLATION 327.264**
 
 **BYE-LAWS FOR THE CERTIFICATE IN LACE**
@@ -30,7 +26,3 @@ INSTITUTE FOR ISLANDS AND SMALL STATES 31st May, 2005
 LEGAL NOTICE 173 of 2005.
 
 Repealed by Legal Notice 3 of 2020.
-
-*2*
-
-[S.L.327.264 OF THE INSTITUTE FOR ISLANDS AND SMALL STATES

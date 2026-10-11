@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Clamping and Removal of Motor Vehicles and Encumbering Objects Regulations (S.L. 65.13)
 
-*1*
-
-MOTOR VEHICLES AND ENCUMBERING OBJECTS [S.L.65.13
-
 **SUBSIDIARY LEGISLATION 65.13**
 
 **CLAMPING AND REMOVAL OF MOTOR**
@@ -58,11 +54,9 @@ In these regulations, unless the context otherwise requires - "abandoned vehicle
 
 (a) is in such a state that it cannot be identified; and, or (b) is in such a state whereby it is clearly unfit for use on the road; and, or
 
-(c) whose current Maltese market value, when taking into consideration arrears of circulation licence fees and all other costs, dues and expenses payable to the Authority and, or any other public entity in order for the holder of the registration certificate of such vehicle to be able to retrieve it, amounts to less than seventy- [S.L.65.13 MOTOR VEHICLES AND ENCUMBERING OBJECTS five per cent (75%) of the Maltese market value of the said motor vehicle as established by the Authority for Transport in Malta or any other standard of motor vehicle valuation which may be adopted by the Authority from time to time;
+(c) whose current Maltese market value, when taking into consideration arrears of circulation licence fees and all other costs, dues and expenses payable to the Authority and, or any other public entity in order for the holder of the registration certificate of such vehicle to be able to retrieve it, amounts to less than seventy-five per cent (75%) of the Maltese market value of the said motor vehicle as established by the Authority for Transport in Malta or any other standard of motor vehicle valuation which may be adopted by the Authority from time to time;
 
 "encumbering objects" means any motor vehicle, seacraft or any other thing obstructing or otherwise causing any nuisance or inconvenience in any street, road, quay, wharf or other place;
-
-*2*
 
 "maritime officer" means such officer of the Authority for Transport in Malta as may be responsible for the registration of sea-going vessels less than 24 metres in length;
 
@@ -91,10 +85,6 @@ Provided that any encumbering object which has been so removed or stored or is s
 (1) It shall be lawful for the Commissioner or the Authority or the Council or the Agency or the Authority to fix wheel clamps to any motor vehicle parked or left unattended in an area specifically indicated as a clamping zone.
 
 (2) It shall also be lawful for the Commissioner or the Authority or the Council or the Agency to remove, store and dispose or to fix wheel clamps to:
-
-*3*
-
-MOTOR VEHICLES AND ENCUMBERING OBJECTS [S.L.65.13
 
 (a) any motor vehicle which does not have a valid circulation licence issued by the Authority affixed to its windscreen;
 
@@ -126,10 +116,6 @@ Provided that should the owner of the clamped vehicle fail to pay such fee withi
 
 The Commissioner or the Council or the Authority or, where applicable, the Agency, shall be exempt from any liability for damages arising in connection with the fixing of clamps or the removal thereof, and the storage and disposal of encumbering objects or derelict or abandoned vehicles in accordance with regulations 3, 4, 5 and 8.
 
-*4*
-
-[S.L.65.13 MOTOR VEHICLES AND ENCUMBERING OBJECTS
-
 ## 7. Notice of removal and storage.
 
 *Amended by: L.N. 192 of 1999; L.N. 197 of 2009; L.N.48 of 2018; L.N. 55 of 2021.*
@@ -150,11 +136,7 @@ Provided that with regard to derelict vehicles the Commissioner or the Authority
 
 Provided further that with regard to vehicles, whether abandoned or derelict, which have been sold under a hire purchase agreement, the Commissioner or the Authority or the Council or the Agency, prior to proceeding with the sale by auction or destruction thereof, as the case may be, shall first send a written notice by registered letter to the seller of the said vehicle under the hire purchase agreement informing him that the vehicle is being held in the custody of such entity and shall be sold by auction or destroyed, as the case may be, unless he proceeds to retrieve the vehicle in question by not later than fifteen (15) days from the date of notification of such notice upon paying in full and final settlement all amounts due to the Authority and, or any other public entity with regard to the said vehicle.
 
-(2) The Commissioner or the Authority, or the Council or the Agency, shall utilise the proceeds of the sale first to settle any outstanding removal or storage fees due to them, as well as the payment of any registration tax, administrative fines, administrative fees, any fines imposed by a court order or judgment or an order or judgment given by a tribunal, any arrears of circulation licence fees and all other amounts due to the Authority; and subsequently to MOTOR VEHICLES AND ENCUMBERING OBJECTS [S.L.65.13
-
-refund any remaining balance in favour of the persons who would have been entitled to retrieve the encumbering object or motor vehicle.
-
-*5*
+(2) The Commissioner or the Authority, or the Council or the Agency, shall utilise the proceeds of the sale first to settle any outstanding removal or storage fees due to them, as well as the payment of any registration tax, administrative fines, administrative fees, any fines imposed by a court order or judgment or an order or judgment given by a tribunal, any arrears of circulation licence fees and all other amounts due to the Authority; and subsequently to refund any remaining balance in favour of the persons who would have been entitled to retrieve the encumbering object or motor vehicle.
 
 (3) Any sale made in terms of sub-regulation (1) shall be made either by public auction or after a call for tenders.
 
@@ -210,11 +192,7 @@ or part thereof €200
 
 ........................................... €2,500:
 
-Provided that when additional expenses in excess of each particular fee in paragraphs (a), (b) and (c) above have been incurred, the Commissioner or the Authority or the Council shall also have the right to collect such expenses and subsequently to [S.L.65.13 MOTOR VEHICLES AND ENCUMBERING OBJECTS
-
-detract them for the proceeds of any sale or disposal of the object and to exact payment thereof before surrendering any object either to its lawful owner or to the purchaser in the event of a sale by auction.
-
-*6*
+Provided that when additional expenses in excess of each particular fee in paragraphs (a), (b) and (c) above have been incurred, the Commissioner or the Authority or the Council shall also have the right to collect such expenses and subsequently to detract them for the proceeds of any sale or disposal of the object and to exact payment thereof before surrendering any object either to its lawful owner or to the purchaser in the event of a sale by auction.
 
 ## 10. Criminal and civil actions to remain unprejudiced.
 

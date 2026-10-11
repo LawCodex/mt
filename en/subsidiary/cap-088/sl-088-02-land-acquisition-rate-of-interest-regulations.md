@@ -1,6 +1,6 @@
 ---
 title: "Land Acquisition (Rate of Interest) Regulations"
-identifier: "S.L. 88.2"
+identifier: "S.L. 88.02"
 eli: "https://legislation.mt/eli/sl/88.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/88.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Land Acquisition (Rate of Interest) Regulations (S.L. 88.2)
+# Land Acquisition (Rate of Interest) Regulations (S.L. 88.02)
 
 **SUBSIDIARY LEGISLATION 88.02**
 

@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Merchant Shipping (Maritime Labour Convention) Rules (S.L. 234.51)
 
-*1*
-
-(MARITIME LABOUR CONVENTION) [S.L.234.51
-
 **SUBSIDIARY LEGISLATION 234.51**
 
 **MERCHANT SHIPPING**
@@ -62,10 +58,6 @@ The title of these rules is the Merchant Shipping (Maritime Labour Convention) R
 
 \*see rule 1(2) of these Rules, as originally promulgated.
 
-*2*
-
-[S.L.234.51 (MARITIME LABOUR CONVENTION)
-
 "piracy" means the same as the meaning assigned to it in the United Nations Convention on the Law of the Sea, 1982;
 
 "proper authority" means, if in Malta, any person appointed by the competent authority, or, if in a place outside Malta, a Maltese consular officer, or, if there is no such officer in that place, such officer as is authorised in that behalf by the Minister or other appropriate authority;
@@ -92,11 +84,7 @@ The title of these rules is the Merchant Shipping (Maritime Labour Convention) R
 
 *Amended by: L.N. 262 of 2013.*
 
-(1) Subject to sub-rule (2), these rules shall apply to all Maltese seagoing ships wherever they are and to all other ships while they are in Maltese ports as determined by the Convention (MARITIME LABOUR CONVENTION) [S.L.234.51
-
-and to all seafarers serving onboard such ships.
-
-*3*
+(1) Subject to sub-rule (2), these rules shall apply to all Maltese seagoing ships wherever they are and to all other ships while they are in Maltese ports as determined by the Convention and to all seafarers serving onboard such ships.
 
 (2) These rules shall not apply to:
 
@@ -138,11 +126,7 @@ Subject to the provisions of this rule and notwithstanding the provisions of any
 
 (2) A seafarer aged sixteen years or seventeen years may work at night when:
 
-(a) the work forms part of an established programme of [S.L.234.51 (MARITIME LABOUR CONVENTION)
-
-training the effectiveness of which would be impaired by the prohibition in sub-rule (1); or
-
-*4*
+(a) the work forms part of an established programme of training the effectiveness of which would be impaired by the prohibition in sub-rule (1); or
 
 (b) the specific nature of the duty or a recognised training programme requires that the seafarers covered by the exception perform duties at night and the competent authority determines, after consultation with the shipowners’ and seafarers’ organisations concerned, that the work will not be detrimental to their health or well-being.
 
@@ -172,11 +156,7 @@ training the effectiveness of which would be impaired by the prohibition in sub-
 
 *Amended by: L.N. 262 of 2013.*
 
-(1) Every applicant for a medical certificate shall be examined by a duly qualified medical practitioner or, in the case of a certificate solely concerning eyesight, by a person recognised by the authority and, subject to rule 9, if the medical practitioner considers that the applicant is fit, the practitioner shall issue the applicant with a medical certificate in terms of sub-rule (2) and rule 11; and such certificate may be restricted to such capacity of sea service or geographical areas as the practitioner considers (MARITIME LABOUR CONVENTION) [S.L.234.51
-
-appropriate.
-
-*5*
+(1) Every applicant for a medical certificate shall be examined by a duly qualified medical practitioner or, in the case of a certificate solely concerning eyesight, by a person recognised by the authority and, subject to rule 9, if the medical practitioner considers that the applicant is fit, the practitioner shall issue the applicant with a medical certificate in terms of sub-rule (2) and rule 11; and such certificate may be restricted to such capacity of sea service or geographical areas as the practitioner considers appropriate.
 
 (2) The medical certificate shall contain the personal details of the person examined including the name and surname, nationality, age and relevant identity document number such as the sea service record book or passport number and shall attest -
 
@@ -206,11 +186,7 @@ If a qualified medical practitioner has reasonable grounds to believe that -
 
 (a) there has been a significant change in the medical fitness of a seafarer during the period of validity of the medical certificate; or
 
-(b) had he been in possession of full details of the seafarer’s conditions when issuing the medical certificate, and having regard to the provisions of rule [S.L.234.51 (MARITIME LABOUR CONVENTION)
-
-9, would not have reasonably considered the seafarer fit to be issued with such certificate; or
-
-*6*
+(b) had he been in possession of full details of the seafarer’s conditions when issuing the medical certificate, and having regard to the provisions of rule 9, would not have reasonably considered the seafarer fit to be issued with such certificate; or
 
 (c) the medical certificate was issued otherwise than in accordance with these rules,
 
@@ -242,10 +218,6 @@ may apply to the Registrar-General for the matter to be reviewed by a single med
 
 (3) The medical referee to whom the matter is referred by the Registrar-General may obtain a report from the qualified medical practitioner by whom the applicant was examined and may examine the medical condition of the applicant. The medical referee shall, if the applicant so requests, disclose to the applicant the report of the qualified medical practitioner and any other evidence not produced by the applicant himself except that if the medical referee considers that such disclosure would be harmful to the applicant’s health the referee shall not be required to make such disclosure. The medical referee shall have regard to any relevant medical evidence, whether produced by the applicant, the employer, or otherwise, and whether or not disclosed as aforesaid.
 
-*7*
-
-(MARITIME LABOUR CONVENTION) [S.L.234.51
-
 (4) If the medical referee, in the light of the medical evidence available, considers that the applicant is fit, having regard to the provisions of rule 9, he shall issue the applicant with a medical certificate. Where the medical referee considers that restrictions as to capacity or geographical area other than those imposed on the medical certificate issued to the applicant should be imposed, or that any restrictions so imposed should be deleted or varied, the medical referee shall issue to the applicant a revised medical certificate and the former certificate shall thereupon cease to have effect. In any other case the medical referee shall notify the applicant of his decision. Any such action by the medical referee shall be taken not later than two months from the date on which the application for review is lodged with the Registrar-General (which date shall be notified to the medical referee by him) or within such longer period as the Registrar-General may determine.
 
 ### 15. Certificates’ equivalent.
@@ -267,10 +239,6 @@ shall be deemed for the purposes of these rules to be equivalent to a medical ce
 Provided that any medical certificate issued by any such authority shall remain in force, unless renewed, only until the expiration of the period of validity specified in that certificate, but in no case for more than the appropriate maximum period prescribed in rule 11.
 
 (2) A medical certificate issued in accordance with the medical standards of the STCW Convention, or a medical certificate meeting in substance the same requirements for seafarers not covered by the STCW Convention, shall be accepted as meeting the standards of these rules.
-
-*8*
-
-[S.L.234.51 (MARITIME LABOUR CONVENTION)
 
 **Recruitment and Placement**
 
@@ -310,10 +278,6 @@ Shipowners and, or recruitment and placement services shall ensure that there is
 
 (1) A seafarer’s employment agreement shall be dated at the time of the first signature thereof, and shall be signed by the shipowner before a seafarer signs his name.
 
-*9*
-
-(MARITIME LABOUR CONVENTION) [S.L.234.51
-
 (2) The seafarer’s employment agreement shall show the date and place at which it is made, the surname and other names of the seafarer, his birthplace, and his age or the date of his birth, and shall contain as terms thereof the following particulars:
 
 (a) the name of the ship on board which the seafarer undertakes to serve;
@@ -351,10 +315,6 @@ Shipowners and, or recruitment and placement services shall ensure that there is
 (4) Saving any other provision of these rules, a seafarer’s employment agreement shall be terminated by -
 
 (a) the mutual consent of the parties thereto; or
-
-*10*
-
-[S.L.234.51 (MARITIME LABOUR CONVENTION)
 
 (b) the death of the seafarer; or
 
@@ -398,10 +358,6 @@ Seafarers shall be given a seafarer’s record book of their employment onboard 
 
 Except where otherwise provided in the Act or these rules, all correspondence, documents, forms or other writings shall be in the English language if the ship is involved in international voyages:
 
-*11*
-
-(MARITIME LABOUR CONVENTION) [S.L.234.51
-
 Provided that a foreign language version of any document may be appended to the English language version thereof.
 
 ### 28A. Seafarer held captive.
@@ -440,11 +396,7 @@ For the purpose of rules 30 to 36, both inclusive, "appropriate certificate" mea
 
 (b) designation of a knowledgeable crew member who will be responsible for ensuring that an opportunity is provided to each newly employed seafarer to receive essential information in a language the seafarer understands.
 
-(3) It shall be the duty of any master and any member of a crew [S.L.234.51 (MARITIME LABOUR CONVENTION)
-
-designated with an obligation under sub-rule (2) to carry out that obligation.
-
-*12*
+(3) It shall be the duty of any master and any member of a crew designated with an obligation under sub-rule (2) to carry out that obligation.
 
 ### 32. Safe manning document.
 
@@ -471,10 +423,6 @@ designated with an obligation under sub-rule (2) to carry out that obligation.
 (2) Without prejudice to the duties of the master provided by sub-rule (1), the master shall give directions to the deck watchkeeping officers responsible for navigating the ship safely during their periods of duty, in accordance with Part 3-1 of Section VIII/2 of the STCW Code and any requirements specified by the Registrar-General.
 
 (3) The chief engineer officer of any ship shall ensure that the engineering watchkeeping arrangements for the ship are at all times adequate for maintaining a safe watch in accordance with Part 3-2 of Section A-VIII/2 of the STCW Code, and when deciding the composition of the watch the chief engineer officer shall observe the principles set out in Part 3-2 of that section and the requirements specified by the Registrar-General.
-
-*13*
-
-(MARITIME LABOUR CONVENTION) [S.L.234.51
 
 ### 34. Watchkeeping arrangements in ports.
 
@@ -520,10 +468,6 @@ Without prejudice to rule 42, it shall be the duty of an employer of a seafarer 
 
 (1) Without prejudice to rules 40 and 42, the minimum hours of rest shall be not less than -
 
-*14*
-
-[S.L.234.51 (MARITIME LABOUR CONVENTION)
-
 (a) ten hours in any 24-hour period; and
 
 (b) seventy-seven hours in any seven-day period.
@@ -562,11 +506,7 @@ Without prejudice to rule 42, it shall be the duty of an employer of a seafarer 
 
 ### 43. Records.
 
-(1) A record of a seafarer’s daily hours of rest shall be (MARITIME LABOUR CONVENTION) [S.L.234.51
-
-maintained by the master or a person authorised by the master.
-
-*15*
+(1) A record of a seafarer’s daily hours of rest shall be maintained by the master or a person authorised by the master.
 
 (2) The record kept under sub-rule (1) shall -
 
@@ -607,10 +547,6 @@ maintained by the master or a person authorised by the master.
 Where -
 
 (a) a medical practitioner has certified that a seafarer engaged on watchkeeping duties is suffering from health problems which the practitioner considers to be due to the fact that the seafarer performs night work, and
-
-*16*
-
-[S.L.234.51 (MARITIME LABOUR CONVENTION)
 
 (b) it is possible for the employer to transfer the seafarer to work -
 
@@ -656,10 +592,6 @@ Where during any period a seafarer is entitled to hours of rest or annual leave 
 
 Without prejudice to collective bargaining agreements, it shall be the duty of an employer of a seafarer and an owner of a ship to ensure that a seafarer is not paid less than the determined minimum basic wage.
 
-*17*
-
-(MARITIME LABOUR CONVENTION) [S.L.234.51
-
 ### 50. Remuneration.
 
 *Amended by: L.N. 262 of 2013. S.L. 234.17*
@@ -692,11 +624,7 @@ Without prejudice to collective bargaining agreements, it shall be the duty of a
 
 ### 51. Minimum wage.
 
-The Registrar-General shall, through the issue of Merchant Shipping Notices, determine the minimum basic wage for a calendar month of service for an able seamen or the equivalent thereof in the specific currency stated in the seafarer’s employment agreement, and in so doing, the Registrar-General shall be guided by the amount periodically set by the Joint Maritime Commission [S.L.234.51 (MARITIME LABOUR CONVENTION)
-
-or another body authorised by the Governing Body of the International Labour Organisation.
-
-*18*
+The Registrar-General shall, through the issue of Merchant Shipping Notices, determine the minimum basic wage for a calendar month of service for an able seamen or the equivalent thereof in the specific currency stated in the seafarer’s employment agreement, and in so doing, the Registrar-General shall be guided by the amount periodically set by the Joint Maritime Commission or another body authorised by the Governing Body of the International Labour Organisation.
 
 ### 52. When right to wages begins.
 
@@ -730,11 +658,7 @@ A seafarer shall not be entitled to wages for any time during which he unlawfull
 
 ### 58. Forfeiture of wages when illness caused by own fault.
 
-When a seafarer is by reason of illness incapable of performing his duty and it is proved that the illness has been caused by his own wilful act or default, he shall not be entitled to wages (MARITIME LABOUR CONVENTION) [S.L.234.51
-
-for the time during which he is by reason of the illness incapable of performing his duty.
-
-*19*
+When a seafarer is by reason of illness incapable of performing his duty and it is proved that the illness has been caused by his own wilful act or default, he shall not be entitled to wages for the time during which he is by reason of the illness incapable of performing his duty.
 
 ### 59. Compensation to seafarer improperly discharged.
 
@@ -772,11 +696,7 @@ All wages to which a seafarer may be entitled, subject to deductions made in acc
 
 ### 63. Wages to be paid in legal tender whenever possible.
 
-Wages shall be paid in legal tender whenever possible, paid by bank transfer, bank cheque, postal cheque or money order or directly to a seafarer’s designated bank account unless the seafarer [S.L.234.51 (MARITIME LABOUR CONVENTION)
-
-requests otherwise in writing.
-
-*20*
+Wages shall be paid in legal tender whenever possible, paid by bank transfer, bank cheque, postal cheque or money order or directly to a seafarer’s designated bank account unless the seafarer requests otherwise in writing.
 
 ### 64. Provision of means to transfer earnings.
 
@@ -808,11 +728,7 @@ Where a seafarer has agreed with the owner for payment of his wages in a specifi
 
 *Added by: L.N. 465 of 2020.*
 
-Where a seafarer is held captive on or off the ship as a result of acts of piracy or armed robbery against ships, wages and other entitlements under the seafarers’ employment agreement or relevant collective bargaining agreement, including the remittance of any allotments as provided in rule 64 (1), shall continue to be paid during (MARITIME LABOUR CONVENTION) [S.L.234.51
-
-the entire period of captivity and until the seafarer is released and duly repatriated or, where the seafarer dies while in captivity, until the date of death.
-
-*21*
+Where a seafarer is held captive on or off the ship as a result of acts of piracy or armed robbery against ships, wages and other entitlements under the seafarers’ employment agreement or relevant collective bargaining agreement, including the remittance of any allotments as provided in rule 64 (1), shall continue to be paid during the entire period of captivity and until the seafarer is released and duly repatriated or, where the seafarer dies while in captivity, until the date of death.
 
 **Discharge and repatriation of seafarers**
 
@@ -848,10 +764,6 @@ he shall for each offence be liable to imprisonment for a period not exceeding t
 
 (2) Where a seafarer is discharged under this rule, the provisions of these rules as to the certificate of discharge and the return of the seafarer to a proper return port shall apply as if his service had terminated otherwise than by his consent to be discharged during the currency of the agreement.
 
-*22*
-
-[S.L.234.51 (MARITIME LABOUR CONVENTION)
-
 ### 72. Owner responsible for return of seafarer left behind at a port other than the port of engagement.
 
 (1) Except as hereinafter provided, every seafarer’s employment agreement shall provide that if the agreement terminates at a port other than the port of engagement (whether by effluxion of time, or by any act of the parties, or by shipwreck or sale of the ship, or by the inability of the seafarer to proceed on the ship by reason of sickness or injury or any other cause whatsoever), he is returned to a proper return port at the expense of the shipowner who shall make such arrangements as may be necessary and pay all expenses incurred for the return of such seafarer and such liability shall include the cost of any maintenance and medical treatment which is necessary for the seafarer until his arrival at a proper return port, and such seafarer shall not become a charge upon the Government of Malta.
@@ -868,15 +780,11 @@ he shall for each offence be liable to imprisonment for a period not exceeding t
 
 (1) A seafarer shall be entitled to repatriation at the cost of the owner if he has served the maximum duration of service periods on board, such periods being of less than twelve months, or at the expense of any third party exercising an executive title against the ship or its shipowner should such shipowner default in his obligations toward the seafarer with regard to repatriation and other expenses owed to the seafarer following the exercise of the executive title
 
-(2) The provisions of this rule are without prejudice to any further action that the seafarer may take under the laws of Malta. (MARITIME LABOUR CONVENTION) [S.L.234.51
-
-### 74. Repatriation of seafarers on termination of service at foreign port.
-
-(1) Where the service of a seafarer terminates otherwise than by his consent to be discharged during the currency of the agreement, the master of the ship shall, besides giving the certificate of discharge required under this rule and besides paying the wages to which the seafarer is entitled, make adequate provision in accordance with this rule for his maintenance and for his return to a proper return port.
-
-*23*
+(2) The provisions of this rule are without prejudice to any further action that the seafarer may take under the laws of Malta. 74. (1) Where the service of a seafarer terminates otherwise than by his consent to be discharged during the currency of the agreement, the master of the ship shall, besides giving the certificate of discharge required under this rule and besides paying the wages to which the seafarer is entitled, make adequate provision in accordance with this rule for his maintenance and for his return to a proper return port.
 
 (2) If the master fails, without reasonable cause, to comply with this rule, the expenses of maintenance and of the journey to the proper return port -
+
+*Repatriation of seafarers on termination of service at foreign port.*
 
 (a) if paid by the seafarer, shall be recoverable as wages due to him;
 
@@ -900,11 +808,7 @@ he shall for each offence be liable to imprisonment for a period not exceeding t
 
 (b) all expenses reasonably incurred by the seafarer, including the cost of repatriation referred to in sub-rule (4); and
 
-(c) the essential needs of the seafarer including such items as: adequate food, clothing where necessary, accommodation, drinking water supplies, essential fuel [S.L.234.51 (MARITIME LABOUR CONVENTION)
-
-for survival on board the ship, necessary medical care and any other reasonable costs or charges from the act or omission constituting the abandonment until the seafarer’s arrival at home.
-
-*24*
+(c) the essential needs of the seafarer including such items as: adequate food, clothing where necessary, accommodation, drinking water supplies, essential fuel for survival on board the ship, necessary medical care and any other reasonable costs or charges from the act or omission constituting the abandonment until the seafarer’s arrival at home.
 
 (4) The cost of repatriation shall cover travel by appropriate and expeditious means, normally by air, and include provision for food and accommodation of the seafarer from the time of leaving the ship until arrival at the seafarer’s home, necessary medical care, passage and transport of personal effects and any other reasonable costs or charges arising from the abandonment.
 
@@ -932,11 +836,7 @@ Provided that the relevant authority shall facilitate the repatriation of seafar
 
 ### 76. Provisions as to taking distressed seafarers on ships.
 
-(1) Where a distressed seafarer is, for the purposes of his return to a proper return port, placed on board a Maltese ship, the master shall endorse on the seafarer’s employment agreement, (MARITIME LABOUR CONVENTION) [S.L.234.51
-
-specifying the date in which he embarks, the name and port of registry of the ship on which the seafarer was last engaged, the port to which the seafarer is entitled to be conveyed, together with any particulars directed to be endorsed by the distressed seafarer.
-
-*25*
+(1) Where a distressed seafarer is, for the purposes of his return to a proper return port, placed on board a Maltese ship, the master shall endorse on the seafarer’s employment agreement, specifying the date in which he embarks, the name and port of registry of the ship on which the seafarer was last engaged, the port to which the seafarer is entitled to be conveyed, together with any particulars directed to be endorsed by the distressed seafarer.
 
 (2) The master of every Maltese ship shall receive on board his ship, and afford a passage and maintenance to, all distressed seafarers whom he is required under these rules to take on board his ship, not exceeding one for every fifty net tons, and shall during the passage provide every such distressed seafarer with a proper berth or sleeping place, effectually protected against sea and weather.
 
@@ -960,11 +860,7 @@ If any master of a Maltese ship fails without reasonable cause to comply with ru
 
 ### 80. Rescued seafarers.
 
-Whenever a ship with distressed seafarers on board, who [S.L.234.51 (MARITIME LABOUR CONVENTION)
-
-have been rescued or picked up at sea, arrives at a port, the proper authority may pay the master of the ship for their subsistence an allowance at the rate set out in rule 78.
-
-*26*
+Whenever a ship with distressed seafarers on board, who have been rescued or picked up at sea, arrives at a port, the proper authority may pay the master of the ship for their subsistence an allowance at the rate set out in rule 78.
 
 ### 81. Seafarers mentally deranged.
 
@@ -984,11 +880,7 @@ In the case of a seafarer discharged or left behind suffering from any illness d
 
 (2) Provision may be made for the return of a seafarer, if he is fit to work, by providing him with suitable employment on board a ship, proceeding to a proper return port, which is in want of personnel to make up its complement, or, if that is not practicable, by providing him with a passage by aircraft, ship, train or other mode of transport, or, with the money for his passage and, as to any part of the route which is by land, by paying the expenses of his journey and of his maintenance during the journey, or providing him with the means to pay those expenses.
 
-(3) Where the master of a ship is required by these rules to provide for the return of a discharged seafarer to a proper return port, the master may, instead of providing the passage or the expenses of his journey, or of providing him with the means to pay his passage or those expenses, deposit with the officer whose sanction or certificate is required under these rules such sum as that (MARITIME LABOUR CONVENTION) [S.L.234.51
-
-officer considers sufficient to pay the expenses of the return of the seafarer to a proper return port.
-
-*27*
+(3) Where the master of a ship is required by these rules to provide for the return of a discharged seafarer to a proper return port, the master may, instead of providing the passage or the expenses of his journey, or of providing him with the means to pay his passage or those expenses, deposit with the officer whose sanction or certificate is required under these rules such sum as that officer considers sufficient to pay the expenses of the return of the seafarer to a proper return port.
 
 (4) Whilst a distressed seafarer is in transit to a proper return port, the proper authority at any place at which that seafarer may be, may pay on behalf of the authority originally making arrangements for the distressed seafarer’s return to a proper return port, any expenses on account of that seafarer which the authority originally acting in respect of such seafarer could pay.
 
@@ -1002,11 +894,7 @@ officer considers sufficient to pay the expenses of the return of the seafarer t
 
 (2) In any proceedings for such recovery, a certificate of the expenses signed by the person, authority or government paying the expenses together with such vouchers (if any) as the case requires, shall be sufficient proof that the said expenses were duly paid.
 
-(3) For the purposes of this rule, "excluded expenses" are expenses incurred in cases where the certificate obtained under these rules on leaving a seafarer behind stipulates, or the Registrar- General is otherwise satisfied, that the cause of the seafarer being left behind is desertion, disappearance, imprisonment for misconduct or discharge from his ship by a competent court on the [S.L.234.51 (MARITIME LABOUR CONVENTION)
-
-ground of misconduct, and expenses incurred on account of the return to the proper port of a distressed seafarer who has been discharged at the port at which he was shipped or at some neighbouring port.
-
-*28*
+(3) For the purposes of this rule, "excluded expenses" are expenses incurred in cases where the certificate obtained under these rules on leaving a seafarer behind stipulates, or the Registrar- General is otherwise satisfied, that the cause of the seafarer being left behind is desertion, disappearance, imprisonment for misconduct or discharge from his ship by a competent court on the ground of misconduct, and expenses incurred on account of the return to the proper port of a distressed seafarer who has been discharged at the port at which he was shipped or at some neighbouring port.
 
 ### 85. Expenses to be a charge on the Consolidated Fund.
 
@@ -1046,11 +934,7 @@ For the purposes of this Part of the rules:
 
 (a) before the construction of the ship commences, submit for approval to the certifying authority a plan of the ship, on a scale not smaller than 1 in 200, showing the proposed location and general arrangement of the crew accommodation; and
 
-(b) before the construction of any part of the crew (MARITIME LABOUR CONVENTION) [S.L.234.51
-
-accommodation is commenced, submit for approval to the certifying authority, plans of the proposed accommodation, on a scale not smaller than 1 in 50, showing clearly and in detail the purpose for which each space in the crew accommodation is to be used, the proposed disposition of furniture and fittings, the proposed arrangements for heating and ventilation, lighting, sanitary arrangements, noise and vibration and other ambient factors.
-
-*29*
+(b) before the construction of any part of the crew accommodation is commenced, submit for approval to the certifying authority, plans of the proposed accommodation, on a scale not smaller than 1 in 50, showing clearly and in detail the purpose for which each space in the crew accommodation is to be used, the proposed disposition of furniture and fittings, the proposed arrangements for heating and ventilation, lighting, sanitary arrangements, noise and vibration and other ambient factors.
 
 (2) The owner of a ship to which these rules apply shall, before any reconstruction or alteration of the ship’s crew accommodation is carried out, submit for approval to the certifying authority plans of the proposed crew accommodation as reconstructed or altered as the case may be, in accordance with the requirements of sub-rule (1)(b):
 
@@ -1084,11 +968,7 @@ Provided that the Registrar-General may authorise alternative arrangements in re
 
 (a) from the sleeping room of the member of the crew who is, and is employed as, a medical practitioner or a nurse; or
 
-(b) if no such doctor or nurse is carried, from the master’s [S.L.234.51 (MARITIME LABOUR CONVENTION)
-
-accommodation or from the accommodation provided for the person in charge of the patients.
-
-*30*
+(b) if no such doctor or nurse is carried, from the master’s accommodation or from the accommodation provided for the person in charge of the patients.
 
 (5) The minimum width of the entrance to any permanent hospital shall, where practicable, be 760 millimetres and every hospital, whether permanent or temporary, shall be so situated and arranged that a stretcher can be easily carried into it with a person lying on the stretcher.
 
@@ -1115,10 +995,6 @@ accommodation or from the accommodation provided for the person in charge of the
 (16) A water closet provided with the items specified in Appendix I, paragraph 17.9 and Appendix II, paragraph 17.14 of the Third Schedule shall be fitted in every permanent hospital either in a separate closet or in washing accommodation in the hospital.
 
 (17) In passenger ships, the hospital may be provided to serve both crew and passengers.
-
-*31*
-
-(MARITIME LABOUR CONVENTION) [S.L.234.51
 
 ### 93. Medical stores.
 
@@ -1162,10 +1038,6 @@ accommodation or from the accommodation provided for the person in charge of the
 
 (1) The crew and hospital accommodation of a ship to which these rules apply shall be surveyed by the certifying authority whenever -
 
-*32*
-
-[S.L.234.51 (MARITIME LABOUR CONVENTION)
-
 (a) the ship is or is being registered as a Maltese ship under Part II or Part IIA of the Act; or
 
 (b) all or part of the crew or hospital accommodation of a Maltese ship undergoes substantial alteration or repair. (2) If the Registrar-General is not satisfied that the ship complies with the requirements of these rules, he may:
@@ -1196,11 +1068,7 @@ accommodation or from the accommodation provided for the person in charge of the
 
 ''dangerous substances'' means substances listed as such in the Sixth Schedule.
 
-(2) Any reference to the British Pharmacopoeia, the European (MARITIME LABOUR CONVENTION) [S.L.234.51
-
-Pharmacopoeia, or the British National Formulary shall, in its application to a particular case, be construed as a reference to the edition thereof current at, or not more than three months before, the time in question.
-
-*33*
+(2) Any reference to the British Pharmacopoeia, the European Pharmacopoeia, or the British National Formulary shall, in its application to a particular case, be construed as a reference to the edition thereof current at, or not more than three months before, the time in question.
 
 (3) Any reference to a publication includes a reference to any amendment thereof published before the date on which these rules come into force, and shall include any document amending the same, or shall mean any new edition thereof together with any document amending the same.
 
@@ -1227,10 +1095,6 @@ Pharmacopoeia, or the British National Formulary shall, in its application to a 
 (5) Subject to sub-rule (1) and notwithstanding the provisions of sub-rule (4), any ferry-type ship to which these rules apply carrying dangerous substances shall carry on board at least the antidotes specified in Part III of the Fifth Schedule:
 
 Provided that in the case of a ferry-type ship operating on a regular route where the crossing is due to last less than two hours, the antidotes may be limited to those which have to be administered in cases of extreme emergency within a period of time not exceeding the normal duration of the crossing.
-
-*34*
-
-[S.L.234.51 (MARITIME LABOUR CONVENTION)
 
 ### 99. Allocation of responsibility.
 
@@ -1266,11 +1130,7 @@ All medical stores required by these rules to be kept on board a ship shall conf
 
 (a) the ordering name by which the medical store is referred to in the Fifth Schedule;
 
-(b) any storage requirements laid down in any of the (MARITIME LABOUR CONVENTION) [S.L.234.51
-
-publications referred to in rule 100, elsewhere in these rules or in the Schedules to these rules;
-
-*35*
+(b) any storage requirements laid down in any of the publications referred to in rule 100, elsewhere in these rules or in the Schedules to these rules;
 
 (c) if the medical stores are perishable, the expiry date as defined in rule 103;
 
@@ -1304,11 +1164,7 @@ Provided that in an emergency the required medical stores which are not availabl
 
 ### 104. Responsibility for costs.
 
-The owner of a ship to which these rules apply shall be responsible for the cost of any medical stores including the cost of [S.L.234.51 (MARITIME LABOUR CONVENTION)
-
-periodic replacements.
-
-*36*
+The owner of a ship to which these rules apply shall be responsible for the cost of any medical stores including the cost of periodic replacements.
 
 ### 105. Carriage of guides.
 
@@ -1348,10 +1204,6 @@ The owner of a ship to which these rules apply shall ensure that the medical sto
 
 The master, or any officer authorised by the master, shall, together with a member of the crew employed in catering on the ship, inspect not less than once a week provisions and water for the purpose of checking whether the provisions and water still comply with rule 107(1), all spaces and equipment used for the storage and handling of food and drinking water; and galley and other equipment for the preparation and service of meals. The results of such inspections shall be recorded in the official log book of the ship.
 
-*37*
-
-(MARITIME LABOUR CONVENTION) [S.L.234.51
-
 ### 109. Ship’s cook and catering staff.
 
 *Amended by: L.N. 262 of 2013; L.N. 390 of 2016.*
@@ -1390,10 +1242,6 @@ For the purposes of article 168A of the Act, the Registrar General may at any ti
 
 Without prejudice to article 158 of the Act, in the event of any sickness, disease or injury suffered by any seafarer, the shipowner shall, on the same basis as provided in the said rule:
 
-*38*
-
-[S.L.234.51 (MARITIME LABOUR CONVENTION)
-
 (a) provide, at his own expense, for adequate board and lodging for such seafarer;
 
 (b) pay such seafarer who is, by reason of such sickness, disease or injury rendered incapable for work:
@@ -1420,11 +1268,7 @@ Ships which do not require a medical doctor onboard as stipulated in rule 36 sha
 
 (c) where the nature of the long-term disability of a seafarer makes it difficult to assess the full compensation to which the seafarer may be entitled, an interim payment or payments shall be made to the seafarer so as to avoid undue hardship;
 
-(d) the seafarer shall receive payment without prejudice to other legal rights, but such payment may be offset by the shipowner against any damages resulting from any other claim made by the seafarer against the shipowner (MARITIME LABOUR CONVENTION) [S.L.234.51
-
-**and arising from the same incident; and**
-
-*39*
+(d) the seafarer shall receive payment without prejudice to other legal rights, but such payment may be offset by the shipowner against any damages resulting from any other claim made by the seafarer against the shipowner and arising from the same incident; and
 
 (e) the claim for contractual compensation may be brought directly by the seafarer concerned, or their next of kin, or a representative of the seafarer or designated beneficiary.
 
@@ -1452,11 +1296,7 @@ Provided that, when carrying out such assessments, the shipowner shall also take
 
 (4) The shipowner shall implement the protective measures appropriate to the nature of the work being carried out which are required to be taken following these assessments and, if necessary, the protective equipment to be used, in accordance with recognised industry standards which may be regulated by Maltese law or international treaties.
 
-(5) The assessments referred to in this rule shall be reviewed whenever there is any major change in working conditions, or whenever the shipowner or seafarer concerned by the assessments [S.L.234.51 (MARITIME LABOUR CONVENTION)
-
-have reason to suspect that they are no longer valid.
-
-*40*
+(5) The assessments referred to in this rule shall be reviewed whenever there is any major change in working conditions, or whenever the shipowner or seafarer concerned by the assessments have reason to suspect that they are no longer valid.
 
 ### 115. Health and safety hazard assessments.
 
@@ -1500,10 +1340,6 @@ Provided that seafarers have a right to complain directly to the master and, whe
 
 The on-board complaint procedures shall include the right of the seafarer to be accompanied or represented during the complaint procedure, as well as safeguards against the possibility of victimisation of seafarers for filing complaints which are neither manifestly vexatious nor maliciously made.
 
-*41*
-
-(MARITIME LABOUR CONVENTION) [S.L.234.51
-
 ### 120. Access to procedure.
 
 In addition to a copy of their seafarers’ employment agreement, all seafarers shall be provided with a copy of the on-board complaint procedures applicable on the ship. This shall include contact information about the competent authority and the name of the person or persons on board the ship who can, on a confidential basis, provide seafarers with impartial advice on their complaint and otherwise assist them in following the complaint procedures available to them on board the ship.
@@ -1539,10 +1375,6 @@ the Registrar-General shall take the steps necessary to investigate the matter a
 (2) The identity of the person lodging the complaint must not be revealed to the master or the owner of the ship concerned, or give any intimation that an inspection was carried out following such a complaint.
 
 (3) Any person lodging a complaint with flag or port authorities which is found to be without basis in fact and done maliciously or vexatiously will be subject to disciplinary provisions.
-
-*42*
-
-[S.L.234.51 (MARITIME LABOUR CONVENTION)
 
 ### 124. Inspections of ships other than Maltese ships.
 
@@ -1588,10 +1420,6 @@ shall be liable to a fine (multa) of not more than one thousand units for each o
 
 (a) 500 gross tonnage or over, engaged in international voyages; and
 
-*43*
-
-(MARITIME LABOUR CONVENTION) [S.L.234.51
-
 (b) 500 gross tonnage or over, flying the Maltese flag and operating from a port, or between ports, in another State.
 
 (2) For the purposes of this Part of the rules "international voyage" means a voyage from a State to a port outside such a State.
@@ -1618,19 +1446,11 @@ It shall be the duty of the shipowner and of the master to ensure that the ship 
 
 (2) For the purposes of this rule, the provisions of article 154(2) and (3) of the Act shall mutatis mutandis apply to the Registrar-General and to appropriate inspectors.
 
-*44*
-
-[S.L.234.51 (MARITIME LABOUR CONVENTION)
-
 ### 130. Saving.
 
 *Amended by: L.N. 262 of 2013.*
 
 Any certificate issued in terms of the Merchant Shipping (Distressed Seamen) Regulations, 1973, the Merchant Shipping (Provisions and Water) Regulations, 2001, the Merchant Shipping (Medical Stores) Regulations, 2002, the Merchant Shipping (Medical Examination) Regulations, 2001, the Merchant Shipping (Minimum Wage) Regulations, 2002, the Merchant Shipping (Hours of Work) Regulations, 2002, the Merchant Shipping (Protection of Seamen) Regulations, 2003, the Merchant Shipping (Safe Manning and Watchkeeping) Regulations, 2003 and the Merchant Shipping (Crew Accommodation) Regulations, 2004 (revoked by these rules) shall remain valid until their expiry and shall not be renewed unless they comply with the provisions of these rules.
-
-*45*
-
-(MARITIME LABOUR CONVENTION) [S.L.234.51
 
 FIRST SCHEDULE
 
@@ -1638,15 +1458,7 @@ FIRST SCHEDULE
 
 SECOND SCHEDULE
 
-*46*
-
-[S.L.234.51 (MARITIME LABOUR CONVENTION)
-
 (Rule 43)
-
-*47*
-
-(MARITIME LABOUR CONVENTION) [S.L.234.51 48 [S.L.234.51 (MARITIME LABOUR CONVENTION)
 
 THIRD SCHEDULE Amended by:
 
@@ -1694,9 +1506,7 @@ Provided that in the case of a passenger ship the crew accommodation may, on con
 
 1.2.2. if the ship regularly trades to or in the tropics or the Persian Gulf, be fitted with suitable awnings.
 
-1.3 Crew accommodation shall be accessible at all times from the open deck. An opening from an open deck into the crew accommodation shall be protected against (MARITIME LABOUR CONVENTION) [S.L.234.51 49
-
-the weather and the sea.
+1.3 Crew accommodation shall be accessible at all times from the open deck. An opening from an open deck into the crew accommodation shall be protected against the weather and the sea.
 
 \2. Bulkheads
 
@@ -1750,8 +1560,6 @@ shall be so constructed as to be gastight and, where necessary to protect the cr
 
 (c) lamp rooms or paint rooms;
 
-50 [S.L.234.51 (MARITIME LABOUR CONVENTION)
-
 (d) store rooms not forming part of the crew accommodation;
 
 (e) chain lockers; or
@@ -1800,8 +1608,6 @@ shall be so constructed as to be gastight and, where necessary to protect the cr
 
 6.2. Where a composition or other like material is used to cover a metal deck, the material shall be properly laid and the joins where the floor meets the walls shall be rounded in such a way as to avoid crevices.
 
-(MARITIME LABOUR CONVENTION) [S.L.234.51 51
-
 6.3. Floors of wash places, bathrooms, shower recesses, laundries and other compartments where water is used shall be:
 
 (a) covered with rubber-based or other impervious material; and
@@ -1841,8 +1647,6 @@ Provided that one only of these means need be adopted in spaces where this ensur
 9.5. In every ship, every enclosed space in the crew accommodation which is not ventilated either by an air conditioning system or by a mechanical ventilation system shall be provided with a natural system of inlet and exhaust ventilation suitable to its purpose.
 
 \10. Heating system
-
-52 [S.L.234.51 (MARITIME LABOUR CONVENTION)
 
 10.1. Except in the case of ships engaged exclusively in the tropics and the Persian Gulf, the crew accommodation of all the ships shall be provided with a heating system which shall:
 
@@ -1898,8 +1702,6 @@ Provided that one only of these means need be adopted in spaces where this ensur
 
 (e) hospital accommodation:
 
-(MARITIME LABOUR CONVENTION) [S.L.234.51 53
-
 (i) general lighting 50 lux
 
 (ii) at any wash basin 100 lux
@@ -1942,9 +1744,7 @@ Provided that one only of these means need be adopted in spaces where this ensur
 
 12.10. Sleeping rooms shall be so planned as to ensure reasonable comfort for the occupants and to facilitate tidiness.
 
-12.11. The maximum number of persons that may be accommodated in a sleeping 54 [S.L.234.51 (MARITIME LABOUR CONVENTION)
-
-room shall be indelibly and legibly marked in that room.
+12.11. The maximum number of persons that may be accommodated in a sleeping room shall be indelibly and legibly marked in that room.
 
 \13. Sleeping berths
 
@@ -1988,9 +1788,7 @@ room shall be indelibly and legibly marked in that room.
 
 (e) a book rack;
 
-(f) one coat hook in addition to any coat hooks which may be fitted in a (MARITIME LABOUR CONVENTION) [S.L.234.51 55
-
-locker or wardrobe; and
+(f) one coat hook in addition to any coat hooks which may be fitted in a locker or wardrobe; and
 
 (g) a curtain or blind fitted to each sidescuttle.
 
@@ -2030,9 +1828,7 @@ Provided further that in ships of less than 300 gross tonnage, if not combined w
 
 17.1. Sufficient sanitary accommodation, including wash basins and baths and/or showers, shall be provided in all ships.
 
-17.2. Separate sanitary accommodation shall be provided for males and females. 56 [S.L.234.51 (MARITIME LABOUR CONVENTION)
-
-17.3. The following minimum number of separate water closets shall be provided:
+17.2. Separate sanitary accommodation shall be provided for males and females. 17.3. The following minimum number of separate water closets shall be provided:
 
 (a) in ships of less than 800 gross tonnage: three;
 
@@ -2076,8 +1872,6 @@ Provided that this requirement shall not apply where a water closet is located i
 
 17.13. In all ships facilities for washing, drying and ironing clothes shall be provided on a scale appropriate to the size of the crew and the normal duration of the voyage.
 
-(MARITIME LABOUR CONVENTION) [S.L.234.51 57
-
 17.14. The facilities for washing clothes shall include suitable sinks which may be installed in wash rooms if provision of a separate laundry facility is not reasonable and practicable with an adequate supply of cold and hot fresh water or means of heating water.
 
 17.15. The facilities for drying clothes shall be provided in a compartment separate from sleeping rooms and mess rooms, adequately ventilated and heated and equipped with lines or other fittings for hanging clothes.
@@ -2118,9 +1912,7 @@ Provided that this requirement shall not apply where a water closet is located i
 
 (b) the maximum number of the crew to be carried.
 
-21.2. Dry provision store rooms shall be so situated, constructed and ventilated as 58 [S.L.234.51 (MARITIME LABOUR CONVENTION)
-
-to avoid deterioration of the stores through heat, draught, condensation or infestation by insects or vermin.
+21.2. Dry provision store rooms shall be so situated, constructed and ventilated as to avoid deterioration of the stores through heat, draught, condensation or infestation by insects or vermin.
 
 21.3. A dry provision store shall not be:
 
@@ -2163,8 +1955,6 @@ Provided that in the case of a passenger ship the crew accommodation may, on con
 (g) the prevention of the harbouring of vermin.
 
 1.2. Where the crew accommodation of a ship is not normally air-conditioned, the crew accommodation shall:
-
-(MARITIME LABOUR CONVENTION) [S.L.234.51 59
 
 1.2.1. if the ship regularly trades to mosquito-infested ports, be provided with appropriate protection devices as required by the competent authority; and
 
@@ -2211,8 +2001,6 @@ shall be so constructed as to be gastight and, where necessary to protect the cr
 (e) en suite sanitary accommodation from its associated sleeping room or rooms.
 
 2.6. Inside paneling in the crew accommodation shall be constructed of material with a surface that can easily be kept clean.
-
-60 [S.L.234.51 (MARITIME LABOUR CONVENTION)
 
 2.7. Bulkheads or paneling shall not be constructed of material likely to harbour vermin.
 
@@ -2262,9 +2050,7 @@ shall be so constructed as to be gastight and, where necessary to protect the cr
 
 \5. Batteries
 
-5.1. Batteries shall not be located in the crew accommodation, and precautions shall be taken to ensure that fumes from batteries do not discharge into any part of (MARITIME LABOUR CONVENTION) [S.L.234.51 61
-
-the crew accommodation.
+5.1. Batteries shall not be located in the crew accommodation, and precautions shall be taken to ensure that fumes from batteries do not discharge into any part of the crew accommodation.
 
 \6. Floors
 
@@ -2310,8 +2096,6 @@ the crew accommodation.
 
 9.3. Ships regularly engaged on voyages in the tropics and the Persian Gulf shall be provided with an air conditioning system.
 
-62 [S.L.234.51 (MARITIME LABOUR CONVENTION)
-
 9.4. Wherever an air conditioning system is provided, it shall be designed:
 
 (a) to maintain the air at a satisfactory temperature and relative humidity as compared with outside air conditions, and to ensure a sufficiency of air changes in all air-conditioned spaces; and
@@ -2350,9 +2134,7 @@ the crew accommodation.
 
 11.5. The head of each berth shall be fitted with an electric light that is capable of supplying sufficient light to enable a person of normal vision to read in the berth.
 
-11.6. If two sources of electricity are not installed independent of each other, (MARITIME LABOUR CONVENTION) [S.L.234.51 63
-
-reserve lighting shall be provided for use in case of emergency. Such emergency lighting may, for example, consist of permanently installed electric battery lamps that are recharged when the main current is on a similar system.
+11.6. If two sources of electricity are not installed independent of each other, reserve lighting shall be provided for use in case of emergency. Such emergency lighting may, for example, consist of permanently installed electric battery lamps that are recharged when the main current is on a similar system.
 
 11.7. The following guidelines are laid down as to the luminous power that shall be considered suitable for artificial lighting:
 
@@ -2408,8 +2190,6 @@ reserve lighting shall be provided for use in case of emergency. Such emergency 
 
 (c) in the case of a ship of 1000 gross tonnage or more but less than 3000 gross tonnage, 3.75 square metres;
 
-64 [S.L.234.51 (MARITIME LABOUR CONVENTION)
-
 (d) in the case of a ship of 3000 gross tonnage or more but less than 10000 gross tonnage, 4.25 square metres; and
 
 (e) in the case of a ship of 10000 gross tonnage or more, 4.75 square metres.
@@ -2448,9 +2228,7 @@ reserve lighting shall be provided for use in case of emergency. Such emergency 
 
 (b) exclude small or irregularly shaped floor spaces that cannot be used for installing furniture and that do not contribute to the space available for free movement.
 
-12.13. Where practicable, in the case of a ship of 3000 gross tonnage or more, a (MARITIME LABOUR CONVENTION) [S.L.234.51 65
-
-sitting room or a day room adjoining their sleeping room shall be provided for the Chief Mate and the Chief Engineer.
+12.13. Where practicable, in the case of a ship of 3000 gross tonnage or more, a sitting room or a day room adjoining their sleeping room shall be provided for the Chief Mate and the Chief Engineer.
 
 12.14. Sleeping rooms shall be so planned as to ensure reasonable comfort for the occupants and to facilitate tidiness.
 
@@ -2492,9 +2270,7 @@ sitting room or a day room adjoining their sleeping room shall be provided for t
 
 (b) a drawer or equivalent space of at least 0.056 cubic metres for each occupant of the room;
 
-(c) a table or desk, which may be of the fixed, drop-leaf or slide-out type, 66 [S.L.234.51 (MARITIME LABOUR CONVENTION)
-
-and with comfortable seating accommodation as necessary;
+(c) a table or desk, which may be of the fixed, drop-leaf or slide-out type, and with comfortable seating accommodation as necessary;
 
 (d) a mirror and a cabinet for toilet requisites;
 
@@ -2540,8 +2316,6 @@ Provided further that in ships of less than 300 gross tonnage, if not combined w
 
 (c) facilities for getting cold drinking water.
 
-(MARITIME LABOUR CONVENTION) [S.L.234.51 67
-
 \16. Recreation rooms
 
 16.1. In ships of 300 gross tonnage or more, one or more places shall be provided on an open deck to which the crew have access when off duty. Such space/s shall be of a suitable size taking into consideration the size and arrangement of the crew and the ship.
@@ -2572,9 +2346,7 @@ Provided further that in ships of less than 300 gross tonnage, if not combined w
 
 17.6. Without prejudice to the requirements of paragraph 17.5, in ships of 10000 gross tonnage or more but less than 15000 gross tonnage, every officer’s sleeping room which is not provided with adjoining private bathroom shall have an intercommunicating bathroom similarly fitted.
 
-17.7. In ships of 15000 gross tonnage or more, every officer’s sleeping room shall be provided with an adjoining private bathroom facilities fitted with a water closet, bath and/or shower and a wash basin. The wash basin may be situated in the sleeping 68 [S.L.234.51 (MARITIME LABOUR CONVENTION)
-
-room.
+17.7. In ships of 15000 gross tonnage or more, every officer’s sleeping room shall be provided with an adjoining private bathroom facilities fitted with a water closet, bath and/or shower and a wash basin. The wash basin may be situated in the sleeping room.
 
 17.8. In ships of 25000 gross tonnage or more, other than passenger ships, at least one bathroom shall be provided to every two members of other crew. The bathroom shall be located either in an intercommunicating compartment between adjoining sleeping rooms or opposite the entrance of such rooms and shall be fitted with a water closet, bath and/or shower and a wash basin.
 
@@ -2608,9 +2380,7 @@ Provided that this requirement shall not apply where a water closet is located i
 
 17.16. Where there are more than one water closet in a compartment, they shall be sufficiently screened to ensure privacy.
 
-17.17. All soil pipes and waste pipes shall be of adequate dimensions and shall be (MARITIME LABOUR CONVENTION) [S.L.234.51 69
-
-fitted in a manner that will facilitate cleaning and minimise the risk of obstruction.
+17.17. All soil pipes and waste pipes shall be of adequate dimensions and shall be fitted in a manner that will facilitate cleaning and minimise the risk of obstruction.
 
 17.18. In all ships facilities for washing, drying and ironing clothes shall be provided on a scale appropriate to the size of the crew and the normal duration of the voyage. The facilities to be provided shall include:
 
@@ -2650,8 +2420,6 @@ fitted in a manner that will facilitate cleaning and minimise the risk of obstru
 
 \21. Dry provision store rooms
 
-70 [S.L.234.51 (MARITIME LABOUR CONVENTION)
-
 21.1. Dry provision store rooms used exclusively for the storage of dry provisions for the crew shall be provided and shall have sufficient capacity having regard to:
 
 (a) the maximum period likely to elapse between successive replenishments of stores, and
@@ -2690,9 +2458,7 @@ L.N. 390 of 2016;
 
 (c) in ships other than passenger ships, as defined in the International Convention for the Safety of Life at Sea, 1974, in its up to date version, (SOLAS Convention), sleeping rooms shall be situated above the load line amidships or aft, except that in exceptional cases, where the size, type or intended service of the ship renders any other location impracticable, sleeping rooms may be located in the fore part of the ship, but in no case forward of the collision bulkhead;
 
-(d) in passenger ships, and in special ships constructed in compliance with the IMO Code of Safety for Special Purpose Ships, 1983, in its up to date version (hereinafer referred to as special purpose ships), the (MARITIME LABOUR CONVENTION) [S.L.234.51 71
-
-competent authority may, on condition that satisfactory arrangements are made for lighting and ventilation, permit the location of sleeping rooms below the load line, but in no case shall they be located immediately beneath working alleyways;
+(d) in passenger ships, and in special ships constructed in compliance with the IMO Code of Safety for Special Purpose Ships, 1983, in its up to date version (hereinafer referred to as special purpose ships), the competent authority may, on condition that satisfactory arrangements are made for lighting and ventilation, permit the location of sleeping rooms below the load line, but in no case shall they be located immediately beneath working alleyways;
 
 (e) there shall be no direct openings into sleeping rooms from cargo and machinery spaces or from galleys, storerooms, drying rooms or communal sanitary areas; that part of a bulkhead separating such places from sleeping rooms and external bulkheads shall be efficiently constructed of steel or other approved substance and be watertight and gas-tight;
 
@@ -2719,8 +2485,6 @@ competent authority may, on condition that satisfactory arrangements are made fo
 2.3. All sanitary spaces shall have ventilation to the open air, independently of any other part of the accommodation; and
 
 2.4. Adequate heat through an appropriate heating system shall be provided, except in ships exclusively on voyages in tropical climates.
-
-72 [S.L.234.51 (MARITIME LABOUR CONVENTION)
 
 \3. Lighting
 
@@ -2766,9 +2530,7 @@ competent authority may, on condition that satisfactory arrangements are made fo
 
 (c) 10 square metres in ships of 10,000 gross tonnage or over;
 
-4.12. On passenger ships and special purpose ships the floor area for seafarers (MARITIME LABOUR CONVENTION) [S.L.234.51 73
-
-performing the duties of ships' officers where no private sitting room or day room is provided, the floor area per person for junior officers shall not be less than 7.5 square metres and for senior officers not less than 8.5 square metres; junior officers are understood to be at the operational level, and senior officers at the management level;
+4.12. On passenger ships and special purpose ships the floor area for seafarers performing the duties of ships' officers where no private sitting room or day room is provided, the floor area per person for junior officers shall not be less than 7.5 square metres and for senior officers not less than 8.5 square metres; junior officers are understood to be at the operational level, and senior officers at the management level;
 
 4.13. The master, the chief engineer and the chief navigating officer shall have, in addition to their sleeping rooms, an adjoining sitting room, day room or equivalent additional space; ships of less than 3,000 gross tonnage may be exempted by the competent authority from this requirement after consultation with the shipowners’ and the bona fide seafarers’ organizations concerned;
 
@@ -2797,8 +2559,6 @@ performing the duties of ships' officers where no private sitting room or day ro
 6.6. Hot and cold running fresh water shall be available in all wash places.
 
 \7. Hospital Accommodation
-
-74 [S.L.234.51 (MARITIME LABOUR CONVENTION)
 
 7.1. The hospital accommodation shall, in all weathers, be easy of access, provide comfortable housing for the occupants and be conducive to their receiving prompt and proper attention.
 
@@ -2838,9 +2598,7 @@ The bulkhead surfaces and deckheads should be of material with a surface easily 
 
 ### 4.
 
-The bulkhead surfaces and deckheads in sleeping rooms and mess rooms (MARITIME LABOUR CONVENTION) [S.L.234.51 75
-
-should be capable of being easily kept clean and light in colour with a durable, non-toxic finish.
+The bulkhead surfaces and deckheads in sleeping rooms and mess rooms should be capable of being easily kept clean and light in colour with a durable, non-toxic finish.
 
 ### 5.
 
@@ -2890,9 +2648,7 @@ In all ships, electric light should be provided in the seafarer accommodation. I
 
 ### 2.
 
-In sleeping rooms an electric reading lamp should be installed at the head of 76 [S.L.234.51 (MARITIME LABOUR CONVENTION)
-
-each berth.
+In sleeping rooms an electric reading lamp should be installed at the head of each berth.
 
 ## Appendix V — SLEEPING ROOMS
 
@@ -2958,8 +2714,6 @@ Sleeping rooms should be fitted with a mirror, small cabinets for toilet requisi
 
 Where separate mess room facilities are to be provided to seafarers, then separate mess rooms should be provided for:
 
-(MARITIME LABOUR CONVENTION) [S.L.234.51 77
-
 (a) master and officers; and
 
 (b) petty officers and other seafarers.
@@ -3022,8 +2776,6 @@ The laundry facilities provided for seafarers' use should include:
 
 (b) drying machines or adequately heated and ventilated drying rooms; and (c) irons and ironing boards or their equivalent.
 
-78 [S.L.234.51 (MARITIME LABOUR CONVENTION)
-
 ## Appendix VIII — OTHER FACILITIES
 
 Where separate facilities for engine department personnel to change their clothes are provided, they should be:
@@ -3074,8 +2826,6 @@ Where practicable, consideration may be given to including the following facilit
 
 (i) where appropriate, the provision of bars on board for seafarers unless these are contrary to national, religious or social customs; and
 
-(MARITIME LABOUR CONVENTION) [S.L.234.51 79
-
 (j) reasonable access to ship-to-shore telephone communications, where available, with any charges for the use of these services being reasonable in amount.
 
 ### 4.
@@ -3104,19 +2854,11 @@ Engine rooms and other machinery spaces should be provided, wherever practicable
 
 No accommodation or recreational or catering facilities should be exposed to excessive vibration.
 
-*80*
-
-[S.L.234.51 (MARITIME LABOUR CONVENTION)
-
 ## FIFTH SCHEDULE
 
 *Substituted by: L.N. 465 of 2020.*
 
 (Rules 97, 98, 99, 100, 101 and 103)
-
-*81*
-
-(MARITIME LABOUR CONVENTION) [S.L.234.51
 
 Part I -MEDICINES
 
@@ -3170,13 +2912,9 @@ Categories of vessels A 1. Cardiovascular
 
 *x*
 
-(a)Anti-histaminics x (b) Glucocorticoids x [S.L.234.51 (MARITIME LABOUR CONVENTION)
+(a)Anti-histaminics x (b) Glucocorticoids x Categories of vessels
 
 *x*
-
-Categories of vessels
-
-*82*
 
 A B C
 
@@ -3256,10 +2994,6 @@ x x x — Hypotonic myotic drops
 
 x x
 
-*83*
-
-(MARITIME LABOUR CONVENTION) [S.L.234.51
-
 (c)Ear medicines
 
 —Anaestheticandanti-inflammatorysolutions
@@ -3280,11 +3014,7 @@ x —Localanaestheticsgiven by subcutaneousinjection
 
 *x*
 
-x [S.L.234.51 (MARITIME LABOUR CONVENTION)
-
-Part II - MEDICAL EQUIPMENT
-
-*84*
+x Part II - MEDICAL EQUIPMENT
 
 Categories of vessels
 
@@ -3366,10 +3096,6 @@ x x
 
 x x
 
-*85*
-
-(MARITIME LABOUR CONVENTION) [S.L.234.51
-
 — Dissecting forceps x x —Haemostaticclamps x x — Needleforceps x
 
 —Disposablerazors x
@@ -3417,8 +3143,6 @@ women)
 Immobilisation and setting equipment
 
 — Set of splints of different sizes for the extremities x x — Collar for neck immobilisation x x 8. Disinfection, disinsectisation and prophylaxis
-
-86 [S.L.234.51 (MARITIME LABOUR CONVENTION)
 
 —Water-disinfectioncompound x
 
@@ -3480,8 +3204,6 @@ The substances listed in this Schedule are to be taken into account in whatever 
 
 \- Radioactive substances;
 
-(MARITIME LABOUR CONVENTION) [S.L.234.51 87
-
 \- Corrosive substances;
 
 \- Various dangerous substances, i.e. any other substances which experience has shown, or may show to be dangerous.
@@ -3533,10 +3255,6 @@ Persons responsible for treatment aboard category A ships should if possible rec
 Detailed knowledge of how to use the various remote medical consultation facilities.
 
 This training should take account of the programmes of instruction detailed in relevant recent international documents.
-
-*88*
-
-[S.L.234.51 (MARITIME LABOUR CONVENTION)
 
 NINTH SCHEDULE
 
@@ -3610,10 +3328,6 @@ canned potatoes or
 
 canned vegetables
 
-*89*
-
-(MARITIME LABOUR CONVENTION) [S.L.234.51
-
 76g dehydrated potatoes can replace 454g fresh potatoes
 
 Onions 227g 14g dehydrated Fresh, stored or onions can replace dried in season ½ the fresh onions or 227g of other canned or fresh vegetables can replace 227g onions
@@ -3639,10 +3353,6 @@ Rise or Pasta 340g
 FATS:
 
 Butter, 454g Includes cooking Lard or Shortening 113g purposes SUGARS:
-
-*90*
-
-[S.L.234.51 (MARITIME LABOUR CONVENTION)
 
 **794g Includes**
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Kingdom of Sweden Order (S.L. 123.38)
 
-*1*
-
-WITH THE KINGDOM OF SWEDEN [S.L.123.38
-
 SUBSIDIARY LEGISLATION 123.38
 
 DOUBLE TAXATION RELIEF ON TAXES ON
@@ -50,8 +46,6 @@ It is hereby declared:
 (iv) the municipal income tax;
 
 (b) that it is expedient that those arrangements should have effect.
-
-2 [S.L.123.38 WITH THE KINGDOM OF SWEDEN
 
 ## SCHEDULE — CONVENTION — BETWEEN MALTA
 
@@ -105,8 +99,6 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 Notwithstanding the other provisions of this Article, the Convention shall not apply to tax paid or payable in Malta in accordance with the provisions of sub-article (13) of article 56 of the Income Tax Act, concerning the chargeable income of any person engaged in the production of petroleum produced in Malta, or any substantially similar provision which is imposed after the date of signature of this Convention.
 
-WITH THE KINGDOM OF SWEDEN [S.L.123.38 3
-
 **ARTICLE 3**
 
 **General Definitions**
@@ -145,9 +137,7 @@ WITH THE KINGDOM OF SWEDEN [S.L.123.38 3
 
 **Resident**
 
-\1. For the purposes of this Convention, the term "resident of a Contracting 4 [S.L.123.38 WITH THE KINGDOM OF SWEDEN
-
-State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature. But this term does not include any person who is liable to tax in that State in respect only of income from sources in that State.
+\1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature. But this term does not include any person who is liable to tax in that State in respect only of income from sources in that State.
 
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
@@ -191,8 +181,6 @@ A building site or a construction, assembly or installation project or superviso
 
 Notwithstanding the preceding provisions of this Article, the furnishing of services, including consultancy services, by an enterprise through employees or other personnel engaged by the enterprise for such purpose shall be considered to constitute a permanent establishment where activities of that nature continue (for the same or a connected project) within a Contracting State for a period or periods aggregating more than six months within any twelve-month period.
 
-WITH THE KINGDOM OF SWEDEN [S.L.123.38 5
-
 ## 5.
 
 Notwithstanding the preceding provisions of this Article, the term "permanent establishment" shall be deemed not to include:
@@ -227,9 +215,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \1. Income derived by a resident of a Contracting State from immovable property (including income from agriculture or forestry) situated in the other Contracting State may be taxed in that other State.
 
-\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture, rights to which the provisions of general law 6 [S.L.123.38 WITH THE KINGDOM OF SWEDEN
-
-respecting landed property apply, buildings, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources; ships, boats and aircraft shall not be regarded as immovable property.
+\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture, rights to which the provisions of general law respecting landed property apply, buildings, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources; ships, boats and aircraft shall not be regarded as immovable property.
 
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
@@ -255,7 +241,7 @@ respecting landed property apply, buildings, usufruct of immovable property and 
 
 ## 8.
 
-The provisions of this Article shall not affect the provisions of the law of a Contracting State regarding the taxation of profits from the business of insurance. WITH THE KINGDOM OF SWEDEN [S.L.123.38 7
+The provisions of this Article shall not affect the provisions of the law of a Contracting State regarding the taxation of profits from the business of insurance.
 
 **ARTICLE 8**
 
@@ -289,9 +275,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \2. However, such dividends may also be taxed in the Contracting State of which the company paying the dividends is a resident and according to the laws of that State, but:
 
-(a) Where the dividends are paid by a company which is a resident of Sweden to a resident of Malta who is the beneficial owner thereof, the Swedish tax so charged shall not exceed 15 per cent of the gross amount 8 [S.L.123.38 WITH THE KINGDOM OF SWEDEN
-
-of the dividends. However, if the beneficial owner is a company which holds at least 10 per cent of the voting power of the company paying the dividends, the dividends shall be exempt from tax in Sweden.
+(a) Where the dividends are paid by a company which is a resident of Sweden to a resident of Malta who is the beneficial owner thereof, the Swedish tax so charged shall not exceed 15 per cent of the gross amount of the dividends. However, if the beneficial owner is a company which holds at least 10 per cent of the voting power of the company paying the dividends, the dividends shall be exempt from tax in Sweden.
 
 (b) (i) Where the dividends are paid by a company which is a resident of Malta to a resident of Sweden who is the beneficial owner thereof, Malta tax on the gross amount of the dividends shall not exceed that chargeable on the profits out of which the dividends are paid.
 
@@ -313,8 +297,6 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \1. Interest arising in a Contracting State and paid to a resident of the other Contracting State shall be taxable only in that other State, if such resident is the beneficial owner of the interest.
 
-WITH THE KINGDOM OF SWEDEN [S.L.123.38 9
-
 \2. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor’s profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
 \3. The provisions of paragraph 1 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
@@ -332,8 +314,6 @@ WITH THE KINGDOM OF SWEDEN [S.L.123.38 9
 \3. The provisions of paragraph 1 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \4. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
-
-10 [S.L.123.38 WITH THE KINGDOM OF SWEDEN
 
 **ARTICLE 13**
 
@@ -361,9 +341,7 @@ With respect to income or gains derived by the air transport consortium Scandina
 
 (b) if his stay in the other Contracting State is for a period or periods amounting to or exceeding in the aggregate 183 days in any twelve month period commencing or ending in the fiscal year concerned; in that case, only so much of the income as is derived from the activity exercised in the other Contracting State may be taxed in that other State; or
 
-(c) if the remuneration for his activities in the other Contracting State is paid by a resident of that Contracting State or is borne by a permanent establishment or fixed base situated in that Contracting State and WITH THE KINGDOM OF SWEDEN [S.L.123.38 11
-
-exceeds in the fiscal year the equivalent of 25,000 United States dollars. 2. The term "professional services" includes especially independent scientific literary, artistic, educational or teaching activities as well as the independent activities of physicians, lawyers, engineers, architects, dentists and accountants.
+(c) if the remuneration for his activities in the other Contracting State is paid by a resident of that Contracting State or is borne by a permanent establishment or fixed base situated in that Contracting State and exceeds in the fiscal year the equivalent of 25,000 United States dollars. 2. The term "professional services" includes especially independent scientific literary, artistic, educational or teaching activities as well as the independent activities of physicians, lawyers, engineers, architects, dentists and accountants.
 
 **ARTICLE 15**
 
@@ -393,9 +371,7 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 \1. Notwithstanding the provisions of Articles 14 and 15, income derived by a resident of a Contracting State as an entertainer, such as a theatre, motion picture, radio or television artiste, or a musician, or as a sportsman, from his personal activities as such exercised in the other Contracting State, may be taxed in that other State.
 
-\2. Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman himself but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the 12 [S.L.123.38 WITH THE KINGDOM OF SWEDEN
-
-entertainer or sportsman are exercised.
+\2. Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman himself but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the entertainer or sportsman are exercised.
 
 **ARTICLE 18**
 
@@ -433,9 +409,7 @@ Payments which a student or business apprentice who is or was immediately before
 
 **Other Income**
 
-\1. Items of income of a resident of a Contracting State, wherever arising, not WITH THE KINGDOM OF SWEDEN [S.L.123.38 13
-
-dealt with in the foregoing Articles of this Convention shall be taxable only in that State.
+\1. Items of income of a resident of a Contracting State, wherever arising, not dealt with in the foregoing Articles of this Convention shall be taxable only in that State.
 
 \2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
@@ -456,8 +430,6 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 (c) Notwithstanding the provisions of sub-paragraph (a) of this paragraph, dividends paid by a company which is a resident of Malta to a company which is a resident of Sweden shall be exempt from Swedish tax according to the provisions of Swedish law governing the exemption of tax on dividends paid to Swedish companies by subsidiaries abroad. (d) For the purposes of sub-paragraph (a) of this paragraph the term "Malta tax paid" shall be deemed to include the Malta tax which would have been paid but for any time-limited exemption or reduction of tax granted under incentive provisions contained in the Malta law designed to promote economic development to the extent that such exemption or reduction is granted for profits from industrial or manufacturing activities or from agriculture, fishing or tourism (including restaurants and hotels) provided that the activities have been carried out within Malta. For the purposes of sub-paragraph (c) of this paragraph a tax of 15 per cent calculated on a Swedish tax base shall be considered to have been paid for such activities under those conditions mentioned in the previous sentence.
 
 The competent authorities may agree to extend the application of this provision also to other activities.
-
-14 [S.L.123.38 WITH THE KINGDOM OF SWEDEN
 
 (e) The provisions of sub-paragraph (d) of this paragraph shall apply for the first ten years during which this convention is effective. This period may be extended by a mutual agreement between the competent authorities.
 
@@ -481,9 +453,7 @@ The competent authorities may agree to extend the application of this provision 
 
 **Mutual Agreement Procedure**
 
-\1. Where a person considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Convention, he may, irrespective of the remedies provided by the domestic law of those States, present his case to the competent authority of the Contracting State of which he is a resident or, if his case comes under paragraph 1 of Article 23, WITH THE KINGDOM OF SWEDEN [S.L.123.38 15
-
-to that of the Contracting State of which he is a national. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Convention.
+\1. Where a person considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Convention, he may, irrespective of the remedies provided by the domestic law of those States, present his case to the competent authority of the Contracting State of which he is a resident or, if his case comes under paragraph 1 of Article 23, to that of the Contracting State of which he is a national. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Convention.
 
 \2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Convention. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
 
@@ -511,9 +481,7 @@ to that of the Contracting State of which he is a national. The case must be pre
 
 The provisions of this Convention shall not apply to persons entitled to any special tax benefit under:
 
-(a) a law of either one of the Contracting States which has been identified 16 [S.L.123.38 WITH THE KINGDOM OF SWEDEN
-
-**in an Exchange of Notes between the Contracting States; or**
+(a) a law of either one of the Contracting States which has been identified in an Exchange of Notes between the Contracting States; or
 
 (b) any substantially similar law subsequently enacted.
 
@@ -544,8 +512,6 @@ Nothing in this Convention shall affect the fiscal privileges of diplomatic agen
 **Termination**
 
 This Convention shall remain in force until terminated by a Contracting State. Either Contracting State may terminate the Convention, through diplomatic channels, by giving notice of termination at least six months before the end of any calendar year beginning after the expiration of a period of five years from the date of its entry into force. In such event, the Convention shall cease to have effect:
-
-WITH THE KINGDOM OF SWEDEN [S.L.123.38 17
 
 (a) in Sweden, on income derived on or after the first day of January of the calendar year next following the date on which the notice is given; and (b) in Malta, on income derived during any calendar year or accounting period, as the case may be, beginning on or after the first day of January immediately following the date on which the notice is given.
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Statute for the Centre for the Liberal Arts and Sciences (S.L. 327.494)
 
-*1*
-
-FOR THE LIBERAL ARTS AND SCIENCES [S.L.327.494
-
 **SUBSIDIARY LEGISLATION 327.494**
 
 **STATUTE FOR THE CENTRE FOR**
@@ -75,10 +71,6 @@ The Centre shall be governed by a Board that shall consist of the following:
 
 (ii) Vice-Chairman: the Director of the Centre;
 
-*2*
-
-[S.L.327.494 FOR THE LIBERAL ARTS AND SCIENCES
-
 (iii) a person appointed by the Council of the University;
 
 (iv) Two Resident Academics with a background in the Arts and Humanities appointed by the Senate of the University;
@@ -117,9 +109,7 @@ The functions of the Board shall be:
 
 (viii) propose for the Senate’s approval Boards of Examiners for the Centre’s programme of studies;
 
-*3*
-
-FOR THE LIBERAL ARTS AND SCIENCES [S.L.327.494 (c) to carry out, mutatis mutandis, the functions of a Board of Studies as provided in regulation 31(d) of the General Regulations for Undergraduate Awards.
+(c) to carry out, mutatis mutandis, the functions of a Board of Studies as provided in regulation 31(d) of the General Regulations for Undergraduate Awards.
 
 *S.L. 327.236 9.*
 
@@ -155,10 +145,6 @@ The duties of the Vice-Chairman/Director shall include:
 
 • September session - by the end of September;
 
-**FOR THE LIBERAL ARTS AND SCIENCES**
-
-*[S.L.327.494 4*
-
 (g) administering the Centre in full consultation with the members; monitoring and approving requests for leave of absence of members of the Centre; maintaining records of all leave taken by members and passing on these records to the Director of Human Resources Management and Development upon request;
 
 (h) encouraging and facilitating co-operation with other universities and institutions;
@@ -190,10 +176,6 @@ The Director moreover:
 (a) is to report directly to the Chairman of the Board governing the Centre and shall collaborate with all senior administrative officers of the University;
 
 (b) shall be a Resident Academic engaged with the University on a full-time basis for the duration of his/her tenure as Director;
-
-*5*
-
-FOR THE LIBERAL ARTS AND SCIENCES [S.L.327.494
 
 (c) should not be engaged in any other activity outside the University which may be in conflict with, or distract him/her from, his duties at the University;
 

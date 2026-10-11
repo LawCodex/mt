@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Prime Minister and Minister of Finance for the Issue of €34,940,601 4.8% Malta Government Stock 2016 (Second Issue) (S.L. 161.72)
 
-ISSUE OF €34,940,601 4.8% MALTA
-
-*1*
-
-GOVERNMENT STOCK 2016 (SECOND ISSUE) [S.L.161.72
-
 **SUBSIDIARY LEGISLATION 161.72**
 
 **DIRECTIVE BY THE PRIME MINISTER AND**

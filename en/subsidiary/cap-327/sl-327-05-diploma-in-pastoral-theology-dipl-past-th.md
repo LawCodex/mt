@@ -1,6 +1,6 @@
 ---
 title: "Diploma in Pastoral Theology - Dipl. Past. Th."
-identifier: "S.L. 327.5"
+identifier: "S.L. 327.05"
 eli: "https://legislation.mt/eli/sl/327.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/327.5/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Diploma in Pastoral Theology - Dipl. Past. Th. (S.L. 327.5)
-
-DIPLOMA IN PASTORAL THEOLOGY -
-
-*1*
-
-DIPL. PAST. TH. [S.L.327.05
+# Diploma in Pastoral Theology - Dipl. Past. Th. (S.L. 327.05)
 
 SUBSIDIARY LEGISLATION 327.05
 

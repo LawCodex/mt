@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the degree of Master of Arts - M.A. - under the auspices of the Faculty of Economics, Management and Accountancy (S.L. 327.502)
 
-AUSPICES OF THE FACULTY OF ECONOMICS,
-
-*1*
-
-MANAGEMENT AND ACCOUNTANCY [S.L.327.502
-
 **SUBSIDIARY LEGISLATION 327.502**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -70,13 +64,7 @@ The course shall be offered in any area of study that falls within the academic 
 
 (1)The Course shall be open to applicants in possession of a first cycle degree obtained with at least Second Class Honours or Category II in an area of study deemed relevant by the Board of Studies responsible for the area of study applied for. Applicants in possession of a degree with Third Class Honours or Category III may also be considered provided that the programme of study they will be following comprises not less than 30 ECTS credits for taught study-units.
 
-(2) Applicants in possession of the degree with Third Class Honours or Category III shall satisfy the Board of Studies that they AUSPICES OF THE FACULTY OF ECONOMICS,
-
-*2*
-
-[S.L.327.502 MANAGEMENT AND ACCOUNTANCY
-
-are in possession of other qualifications, including relevant experience. Such applicants shall be allowed to proceed to the research component subject to the attainment of an average mark of at least 55% in the taught component.
+(2) Applicants in possession of the degree with Third Class Honours or Category III shall satisfy the Board of Studies that they are in possession of other qualifications, including relevant experience. Such applicants shall be allowed to proceed to the research component subject to the attainment of an average mark of at least 55% in the taught component.
 
 (3) Applicants in possession of a qualification deemed by Senate, on the recommendation of the relevant Board of Studies, to be comparable to the qualifications listed in paragraphs (1) and (2) of this bye-law, may also be considered:
 
@@ -104,11 +92,7 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 (3) Students shall be eligible for the award of the Degree if they obtain the 90 ECTS credits as outlined in the programme of study for the Course with an average mark of at least 50%.
 
-(4) The programme of study shall be published after approval by Senate, normally not less than eight months prior to the commencement AUSPICES OF THE FACULTY OF ECONOMICS,
-
-*3*
-
-MANAGEMENT AND ACCOUNTANCY [S.L.327.502 of the Course
+(4) The programme of study shall be published after approval by Senate, normally not less than eight months prior to the commencement of the Course
 
 ## 7. Assessment and progress. Re-numbered by: L.N. 101 of 2015.
 
@@ -140,13 +124,7 @@ MANAGEMENT AND ACCOUNTANCY [S.L.327.502 of the Course
 
 (3) Students shall be required to report to their supervisors at least once every two months, and, in addition, as often as the supervisors deem necessary.
 
-(4) At the end of each semester of study, supervisors shall be AUSPICES OF THE FACULTY OF ECONOMICS,
-
-*4*
-
-[S.L.327.502 MANAGEMENT AND ACCOUNTANCY
-
-required to submit to the Panel of Supervision reports for the students under their supervision. Students shall seek approval from said Panel for any substantial modification in the title or content of the dissertation.
+(4) At the end of each semester of study, supervisors shall be required to submit to the Panel of Supervision reports for the students under their supervision. Students shall seek approval from said Panel for any substantial modification in the title or content of the dissertation.
 
 (5) The Panels of Supervision shall periodically inform the Board, in writing, on the general performance of each student. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 

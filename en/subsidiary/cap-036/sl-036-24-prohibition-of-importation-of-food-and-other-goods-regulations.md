@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Prohibition of Importation of Food and other goods Regulations (S.L. 36.24)
 
-PROHIBITION OF IMPORTATION OF FOOD
-
-*1*
-
-AND OTHER GOODS [ S.L.36.24
-
 **SUBSIDIARY LEGISLATION 36.24**
 
 **PROHIBITION OF IMPORTATION OF FOOD**

@@ -1,6 +1,6 @@
 ---
 title: "Commissioner for Prisoners Welfare and Development Regulations"
-identifier: "S.L. 260.7"
+identifier: "S.L. 260.07"
 eli: "https://legislation.mt/eli/sl/260.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,7 @@ version: "https://legislation.mt/eli/sl/260.7/20211217/eng"
 retrieved: 2026-10-12
 ---
 
-# Commissioner for Prisoners Welfare and Development Regulations (S.L. 260.7)
-
-*1*
-
-AND DEVELOPMENT [S.L.260.07
+# Commissioner for Prisoners Welfare and Development Regulations (S.L. 260.07)
 
 **SUBSIDIARY LEGISLATION 260.07**
 
@@ -68,11 +64,7 @@ The Commissioner shall have the following functions and responsibilities:
 
 (b) to review any policies and make such recommendations to any competent authority to safeguard or to enhance the rights of prisoners and to facilitate their psycho-social well-being and rehabilitation;
 
-(c) to discuss with the Correctional Services Agency the safeguards and measures necessary to ensure that any treatment, decision or any implementation thereof is in [S.L.260.07 AND DEVELOPMENT
-
-accordance with the law, regulations, policies or established standards:
-
-*2*
+(c) to discuss with the Correctional Services Agency the safeguards and measures necessary to ensure that any treatment, decision or any implementation thereof is in accordance with the law, regulations, policies or established standards:
 
 Provided that should there be a disagreement about any matter between the Commissioner and the Correctional Services Agency, the Commissioner shall bring the matter before the Board for its further investigation and final decision.
 
@@ -102,10 +94,8 @@ The Commissioner shall have unrestricted access to all parts of the facilities w
 
 (b) The Manager shall be a public officer engaged in accordance with the Public Service Commission Appointments Regulations and shall be engaged for an indefinite period, with a probation period of twelve (12) months.
 
-*3*
+## 9. Power of delegation.
 
-AND DEVELOPMENT [S.L.260.07 9. The Commissioner may by instrument in writing delegate any of his functions to any officer of his office or to any other person appointed to assist the Commissioner in the execution of his functions:
-
-*Power of delegation.*
+The Commissioner may by instrument in writing delegate any of his functions to any officer of his office or to any other person appointed to assist the Commissioner in the execution of his functions:
 
 Provided that any person so delegated shall act under the supervision of the Commissioner who shall not by virtue of the delegation be divested of the functions so delegated.

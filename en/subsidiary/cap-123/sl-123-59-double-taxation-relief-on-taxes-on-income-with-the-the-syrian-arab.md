@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the The Syrian Arab Republic Order (S.L. 123.59)
 
-*1*
-
-WITH THE SYRIAN ARAB REPUBLIC [S.L.123.59
-
 **SUBSIDIARY LEGISLATION 123.59**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -54,8 +50,6 @@ It is hereby declared -
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Convention has entered into force on the 16 October, 2000.
-
-2 [S.L.123.59 WITH THE SYRIAN ARAB REPUBLIC
 
 ## SCHEDULE — CONVENTION BETWEEN THE REPUBLIC OF MALTA — AND THE SYRIAN ARAB REPUBLIC
 
@@ -117,8 +111,6 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 \1. For the purposes of this Convention, unless the context otherwise requires:
 
-WITH THE SYRIAN ARAB REPUBLIC [S.L.123.59 3
-
 (a) the terms "a Contracting State" and "the other Contracting State" mean Malta or Syria, as the context requires;
 
 (b) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago, including the territorial waters thereof, and any area outside the territorial waters of Malta which has been or may hereafter be designated, in accordance with international law and under the law of Malta concerning the continental shelf, as an area within which the rights of Malta with respect to the seabed and subsoil and their natural resources may be exercised;
@@ -151,9 +143,7 @@ WITH THE SYRIAN ARAB REPUBLIC [S.L.123.59 3
 
 **RESIDENT**
 
-\1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature. But this term shall not include any person who is liable to tax in that 4 [S.L.123.59 WITH THE SYRIAN ARAB REPUBLIC
-
-State in respect only of income from sources in that State.
+\1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature. But this term shall not include any person who is liable to tax in that State in respect only of income from sources in that State.
 
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
@@ -201,8 +191,6 @@ Notwithstanding the preceding provisions of this Article, the term "permanent es
 
 (c) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of processing by another enterprise;
 
-WITH THE SYRIAN ARAB REPUBLIC [S.L.123.59 5
-
 (d) the maintenance of a fixed place of business solely for the purpose of purchasing goods or merchandise, or of collecting information, for the enterprise;
 
 (e) the maintenance of a fixed place of business solely for the purpose of carrying on, for the enterprise, any other activity of a preparatory or auxiliary character;
@@ -231,9 +219,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
-\4. The provisions of paragraphs 1 and 3 shall also apply to the income from immovable property of an enterprise and to income from immovable property used 6 [S.L.123.59 WITH THE SYRIAN ARAB REPUBLIC
-
-for the performance of independent personal services.
+\4. The provisions of paragraphs 1 and 3 shall also apply to the income from immovable property of an enterprise and to income from immovable property used for the performance of independent personal services.
 
 \5. Where a person has shares or other rights in a company, trust or comparable institution and is thereby entitled to the enjoyment of immovable property situated in a Contracting State and held by that company, trust or comparable institution, income from the direct use, letting or use in any other form of that right of enjoyment by that person may be taxed in that State notwithstanding the provisions of Articles 7 and 14.
 
@@ -259,7 +245,7 @@ Where profits include items of income which are dealt with separately in other A
 
 ## 8.
 
-The provisions of this Article shall not affect the provisions of the law of a Contracting State regarding the taxation of profits from the business of insurance. WITH THE SYRIAN ARAB REPUBLIC [S.L.123.59 7
+The provisions of this Article shall not affect the provisions of the law of a Contracting State regarding the taxation of profits from the business of insurance.
 
 **Article 8**
 
@@ -291,9 +277,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \1. Dividends paid by a company which is a resident of a Contracting State to a resident of the other Contracting State may be taxed in that other State.
 
-\2. Dividends mentioned in paragraph 1 may also be taxed in the Contracting State of which the company paying the dividends is a resident and according to the laws of that State. However, total Malta or Syrian tax on the profits of a company 8 [S.L.123.59 WITH THE SYRIAN ARAB REPUBLIC
-
-and the dividends distributed by such company, as the case may be, shall not exceed the maximum of the tax chargeable on the profits of the company out of which the dividends are paid.
+\2. Dividends mentioned in paragraph 1 may also be taxed in the Contracting State of which the company paying the dividends is a resident and according to the laws of that State. However, total Malta or Syrian tax on the profits of a company and the dividends distributed by such company, as the case may be, shall not exceed the maximum of the tax chargeable on the profits of the company out of which the dividends are paid.
 
 \3. The term "dividends" as used in this Article means income from any shares, or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
 
@@ -315,9 +299,7 @@ and the dividends distributed by such company, as the case may be, shall not exc
 
 (b) such interest is paid in respect of any debt-claim or loan guaranteed, insured or supported by a Contracting State or another person acting on behalf of a Contracting State.
 
-\4. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor’s profits, and in particular income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment WITH THE SYRIAN ARAB REPUBLIC [S.L.123.59 9
-
-shall not be regarded as interest for the purpose of this Article.
+\4. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor’s profits, and in particular income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
 \5. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
@@ -337,9 +319,7 @@ shall not be regarded as interest for the purpose of this Article.
 
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
-\5. Royalties shall be deemed to arise in a Contracting State when the payer is that Contracting State itself, a local authority or a resident of that Contracting State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the liability to pay the royalties was incurred, 10 [S.L.123.59 WITH THE SYRIAN ARAB REPUBLIC
-
-and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the Contracting State in which the permanent establishment or fixed base is situated.
+\5. Royalties shall be deemed to arise in a Contracting State when the payer is that Contracting State itself, a local authority or a resident of that Contracting State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the Contracting State in which the permanent establishment or fixed base is situated.
 
 \6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the law of each Contracting State, due regard being had to the other provisions of this Convention.
 
@@ -365,9 +345,7 @@ and such royalties are borne by such permanent establishment or fixed base, then
 
 (a) if he has a fixed base regularly available to him in the other Contracting State for the purpose of performing his activities; in that case, only so much of the income as is attributable to that fixed base may be taxed in that other Contracting State; or
 
-(b) if his stay in the other Contracting State is for a period or periods amounting to or exceeding in the aggregate 183 days in any twelve-month period commencing or ending in the fiscal year concerned; in that case, only so much of the income as is derived from the activity exercised in the other Contracting State may be taxed in that other State. WITH THE SYRIAN ARAB REPUBLIC [S.L.123.59 11
-
-\2. The term "professional services" includes especially independent scientific, literary, artistic, educational or teaching activities as well as the independent activities of physicians, lawyers, engineers, architects, dentists and accountants.
+(b) if his stay in the other Contracting State is for a period or periods amounting to or exceeding in the aggregate 183 days in any twelve-month period commencing or ending in the fiscal year concerned; in that case, only so much of the income as is derived from the activity exercised in the other Contracting State may be taxed in that other State. 2. The term "professional services" includes especially independent scientific, literary, artistic, educational or teaching activities as well as the independent activities of physicians, lawyers, engineers, architects, dentists and accountants.
 
 **Article 15**
 
@@ -399,9 +377,7 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 \2. Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman himself but to another person, whether a resident of a Contracting State or not, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the entertainer or sportsman are exercised.
 
-\3. Notwithstanding the provisions of paragraphs 1 and 2, income derived by a resident of a Contracting State as an entertainer or sportsman from his personal activities as such exercised in the other Contracting State shall be taxable only in the first-mentioned State if those activities in the other State are supported mainly by 12 [S.L.123.59 WITH THE SYRIAN ARAB REPUBLIC
-
-public funds of the first-mentioned State or its local authorities.
+\3. Notwithstanding the provisions of paragraphs 1 and 2, income derived by a resident of a Contracting State as an entertainer or sportsman from his personal activities as such exercised in the other Contracting State shall be taxable only in the first-mentioned State if those activities in the other State are supported mainly by public funds of the first-mentioned State or its local authorities.
 
 **Article 18**
 
@@ -439,8 +415,6 @@ public funds of the first-mentioned State or its local authorities.
 
 Payments which a student or business apprentice who is or was immediately before visiting a Contracting State a resident of the other Contracting State and who is present in the first-mentioned State solely for the purpose of his education or training receives for the purpose of his maintenance, education or training shall not be taxable in that State, provided that such payments arise from sources outside that State.
 
-WITH THE SYRIAN ARAB REPUBLIC [S.L.123.59 13
-
 **Article 21**
 
 **OTHER INCOME**
@@ -467,9 +441,7 @@ WITH THE SYRIAN ARAB REPUBLIC [S.L.123.59 13
 
 \3. Except where the provisions of paragraph 1 of Article 9, paragraph 7 of Article 11, or paragraph 6 of Article 12 apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of that enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
 
-\4. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other 14 [S.L.123.59 WITH THE SYRIAN ARAB REPUBLIC
-
-Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
+\4. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
 
 **Article 24**
 
@@ -492,8 +464,6 @@ Contracting State, shall not be subjected in the first-mentioned State to any ta
 \1. The competent authorities of the Contracting States shall exchange such information as is necessary for carrying out the provisions of this Convention or of the domestic laws of the Contracting States concerning taxes covered by the Convention insofar as the taxation thereunder is not contrary to the Convention. The exchange of information is not restricted by Article 1. Any information received by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) involved in the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by the Convention. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
 
 \2. In no case shall the provisions of paragraph 1 be construed so as to impose on a Contracting State the obligation:
-
-WITH THE SYRIAN ARAB REPUBLIC [S.L.123.59 15
 
 (a) to carry out administrative measures at variance with the laws and administrative practice of that or of the other Contracting State;
 

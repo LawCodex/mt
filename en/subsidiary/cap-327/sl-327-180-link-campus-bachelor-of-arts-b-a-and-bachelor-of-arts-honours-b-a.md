@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Link Campus Bachelor of Arts - B.A. - and Bachelor of Arts (Honours) - B.A. (Hons.) - Degrees Course Regulations (S.L. 327.180)
 
-LINK CAMPUS BACHELOR OF ARTS - B.A. - AND
-
-*1*
-
-BACHELOR OF ARTS (HONOURS) - B.A. (HONS.) - DEGREES [S.L.327.180
-
 **SUBSIDIARY LEGISLATION 327.180**
 
 LINK CAMPUS BACHELOR OF ARTS - B.A. - AND BACHELOR OF ARTS (HONOURS) - B.A. (HONS.) - DEGREES COURSE REGULATIONS

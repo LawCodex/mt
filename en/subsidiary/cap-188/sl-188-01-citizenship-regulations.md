@@ -1,6 +1,6 @@
 ---
 title: "Citizenship Regulations"
-identifier: "S.L. 188.1"
+identifier: "S.L. 188.01"
 eli: "https://legislation.mt/eli/sl/188.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/188.1/20250729/eng"
 retrieved: 2026-10-12
 ---
 
-# Citizenship Regulations (S.L. 188.1)
+# Citizenship Regulations (S.L. 188.01)
 
 **SUBSIDIARY LEGISLATION 188.01**
 

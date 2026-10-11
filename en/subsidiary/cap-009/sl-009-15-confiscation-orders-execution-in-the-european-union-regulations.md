@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Confiscation Orders Execution in the European Union) Regulations (S.L. 9.15)
 
-*1*
-
-(EXECUTION IN THE EUROPEAN UNION) [S.L.9.15
-
 **SUBSIDIARY LEGISLATION 9.15**
 
 **CONFISCATION ORDERS (EXECUTION IN THE**
@@ -37,43 +33,25 @@ The title of these regulations is the Confiscation Orders (Execution in the Euro
 
 In these regulations, unless the context otherwise requires - "the Arrangement" means the Council Framework Decision 2006/783/JHA of 6 October, 2006 on the application of the principle of mutual recognition to confiscation orders as amended by Council Framework Decision 2009/299/JHA of 26 February 2009;
 
-"certificate" means the form, as contained in the Annex to the
+"certificate" means the form, as contained in the Annex to the Arrangement, purporting to reproduce details setting out the information required by the same form, set out in Schedule 2;
 
-Arrangement, purporting to reproduce details setting out the  
-information required by the same form, set out in Schedule 2;  
-"confiscation order" means a final penalty or measure imposed  
-by a court on a natural or legal person, following proceedings in  
-relation to a criminal offence or offences, resulting in the definitive  
-deprivation of property;  
-"Council Framework Decision 2005/212/JHA" means Council  
-Framework Decision of 24 February 2005 on Confiscation of  
-Crime-Related Proceeds, Instrumentalities and Property, set out in  
-Schedule 4;  
-"cultural objects forming part of the national cultural heritage"  
-shall be defined in accordance with Article 1(1) of Council  
-Directive 93/7/EEC of 15 March 1993 on the return of cultural  
-objects unlawfully removed from the territory of a Member State;  
-"the European Union" means the European Union as referred to  
-in the Treaty;  
-"executing State" means the Member State to which a  
-confiscation order has been transmitted for the purpose of  
-execution;  
-"instrumentalities" means any property used, or intended to be  
-used, in any manner, wholly or in part, to commit a criminal  
-offence or offences;  
-"issuing State" means the Member State in which a court has  
-issued a confiscation order within the framework of criminal  
-proceedings;  
-"proceeds" means any economic advantage derived from  
-criminal offences, which may consist of any form of property;  
-"property" means property of any description, whether corporeal  
-or incorporeal, movable or immovable, and legal documents and
+"confiscation order" means a final penalty or measure imposed by a court on a natural or legal person, following proceedings in relation to a criminal offence or offences, resulting in the definitive deprivation of property;
 
-*2*
+"Council Framework Decision 2005/212/JHA" means Council Framework Decision of 24 February 2005 on Confiscation of Crime-Related Proceeds, Instrumentalities and Property, set out in Schedule 4;
 
-[S.L.9.15 (EXECUTION IN THE EUROPEAN UNION)
+"cultural objects forming part of the national cultural heritage" shall be defined in accordance with Article 1(1) of Council Directive 93/7/EEC of 15 March 1993 on the return of cultural objects unlawfully removed from the territory of a Member State;
 
-instruments evidencing title to or interest in such property, which the court in the issuing State has decided:
+"the European Union" means the European Union as referred to in the Treaty;
+
+"executing State" means the Member State to which a confiscation order has been transmitted for the purpose of execution;
+
+"instrumentalities" means any property used, or intended to be used, in any manner, wholly or in part, to commit a criminal offence or offences;
+
+"issuing State" means the Member State in which a court has issued a confiscation order within the framework of criminal proceedings;
+
+"proceeds" means any economic advantage derived from criminal offences, which may consist of any form of property;
+
+"property" means property of any description, whether corporeal or incorporeal, movable or immovable, and legal documents and instruments evidencing title to or interest in such property, which the court in the issuing State has decided:
 
 (a) is the proceeds of a relevant offence, or equivalent to either the full value or part of the value of such proceeds, or
 
@@ -113,10 +91,6 @@ Provided that it shall not be necessary for the confiscation order to be in eith
 
 (3) The original of the confiscation order, or a certified copy thereof, and the original of the certificate shall be transmitted to the executing State if it so requires.
 
-*3*
-
-(EXECUTION IN THE EUROPEAN UNION) [S.L.9.15
-
 ## 6. Details of confiscation orders.
 
 (1) A confiscation order shall contain a statement that the order relates to:
@@ -155,11 +129,7 @@ Where the Attorney General receives a confiscation order within the meaning of t
 
 (a) the certificate provided for in Schedule 2 is not produced, is incomplete or manifestly does not correspond to the confiscation order;
 
-(b) execution of the confiscation order would be contrary (EXECUTION IN THE EUROPEAN UNION)
-
-to the principle of ne bis in idem;
-
-*[S.L.9.15 4*
+(b) execution of the confiscation order would be contrary to the principle of ne bis in idem;
 
 (c) the act on which the confiscation order is based is not one falling within the list of scheduled conduct and does not constitute an offence under the law of Malta;
 
@@ -182,10 +152,6 @@ according to the certificate provided for in Schedule 2, the person against whom
 (g) the confiscation order is based on criminal proceedings in respect of criminal offences which:
 
 (i) under the law of Malta, are regarded as having been committed wholly or partly within its territory, or in a place equivalent to its territory, or
-
-*5*
-
-(EXECUTION IN THE EUROPEAN UNION) [S.L.9.15
 
 (ii) were committed outside the territory of the issuing State, and the law of Malta does not permit legal proceedings to be taken in respect of such offences where they are committed outside the Maltese territory;
 
@@ -213,11 +179,7 @@ according to the certificate provided for in Schedule 2, the person against whom
 
 (a) if, in the case of a confiscation order concerning an amount of money, he considers that there is a risk that the total value derived from its execution may exceed the amount specified in the confiscation order because of simultaneous execution of the confiscation order in more than one Member State;
 
-(b) in the case where an interested party is seeking legal [S.L.9.15 (EXECUTION IN THE EUROPEAN UNION)
-
-remedies against the recognition and execution of a confiscation order;
-
-*6*
+(b) in the case where an interested party is seeking legal remedies against the recognition and execution of a confiscation order;
 
 (c) where its execution might damage an ongoing criminal investigation or proceedings, until such time as he deems reasonable;
 
@@ -249,11 +211,7 @@ Where a certificate has been issued by the Attorney General under regulation 7, 
 
 ## 12. Alternative execution.
 
-(1) Where a confiscation order has been issued for the purpose of confiscating a specific item of property and upon (EXECUTION IN THE EUROPEAN UNION) [S.L.9.15
-
-agreement with the issuing state, the Attorney General may demand that the person against whom the order was issued be ordered to pay an amount of money which is the equivalent to the value of the property, and the provisions of regulation 11 shall apply to a confiscation order to which this regulation refers.
-
-*7*
+(1) Where a confiscation order has been issued for the purpose of confiscating a specific item of property and upon agreement with the issuing state, the Attorney General may demand that the person against whom the order was issued be ordered to pay an amount of money which is the equivalent to the value of the property, and the provisions of regulation 11 shall apply to a confiscation order to which this regulation refers.
 
 (2) Where a confiscation order has been issued for the purpose of confiscating an amount of money, if payment is not obtained, the confiscation order shall be executed on any item of property in accordance with regulation 11.
 
@@ -282,10 +240,6 @@ agreement with the issuing state, the Attorney General may demand that the perso
 Provided that if the confiscation order covers an amount of money, the property may only be transferred to the issuing State when that State has given its consent.
 
 (4) Notwithstanding the provisions of sub-regulation (3), specific items covered by the confiscation order which constitute cultural objects forming part of the national heritage of Malta shall not be sold or returned to the issuing State.
-
-*8*
-
-[S.L.9.15 (EXECUTION IN THE EUROPEAN UNION)
 
 ## 15. Multiple confiscation orders.
 
@@ -331,21 +285,13 @@ The Attorney General shall immediately inform any of the issuing States by any m
 
 (3) The Attorney General shall sign and certify as authentic the contents of the certificate.
 
-(4) For purposes of this regulation, an order for forfeiture shall (EXECUTION IN THE EUROPEAN UNION) [S.L.9.15
-
-be construed as a reference to a confiscation order referred to under these regulations.
-
-*9*
+(4) For purposes of this regulation, an order for forfeiture shall be construed as a reference to a confiscation order referred to under these regulations.
 
 ## 18. Consequences of transmission of confiscation orders.
 
 (1) The transmission of a confiscation order shall not prevent the execution of the confiscation order by the Maltese Courts.
 
 (2) Where a confiscation order concerning an amount of money is transmitted to more than one executing State, the total value derived from its execution may not exceed the maximum amount specified in the order.
-
-*10*
-
-[S.L.9.15 (EXECUTION IN THE EUROPEAN UNION)
 
 Schedule 1
 
@@ -423,8 +369,6 @@ unlawful seizure of aircraft/ships,
 
 sabotage.
 
-(EXECUTION IN THE EUROPEAN UNION) [S.L.9.15 11
-
 Schedule 2 Amended by:
 
 L.N. 426 of 2012. (Regulation 5)
@@ -443,9 +387,7 @@ Issuing and executing States
 
 Court which issued the confiscation order:
 
-Official name:..................................................................................................... Address: ............................................................................................................. File reference: .................................................................................................... Tel. (country code) (area/city code) .................................................................... ............................................................................................................................ Fax (country code) (area/city code) .................................................................... ............................................................................................................................ E-mail (when available) ..................................................................................... Languages in which it is possible to communicate with the Court ...................... Contact details for person(s) to contact in order to obtain additional information for the purpose of the execution of the confiscation order, or, where applicable, for the purpose of coordination of the execution of a confiscation order transmitted to two or more executing States, or for the purpose of the transfer to the issuing State of monies or properties obtained from the execution (name, title/grade, tel., fax, and, when available, email) 12 [S.L.9.15 (EXECUTION IN THE EUROPEAN UNION)
-
-(c) Authority competent for the execution of the confiscation order in the issuing State (if the authority is different from the Court under point (b)):
+Official name:..................................................................................................... Address: ............................................................................................................. File reference: .................................................................................................... Tel. (country code) (area/city code) .................................................................... ............................................................................................................................ Fax (country code) (area/city code) .................................................................... ............................................................................................................................ E-mail (when available) ..................................................................................... Languages in which it is possible to communicate with the Court ...................... Contact details for person(s) to contact in order to obtain additional information for the purpose of the execution of the confiscation order, or, where applicable, for the purpose of coordination of the execution of a confiscation order transmitted to two or more executing States, or for the purpose of the transfer to the issuing State of monies or properties obtained from the execution (name, title/grade, tel., fax, and, when available, email) (c) Authority competent for the execution of the confiscation order in the issuing State (if the authority is different from the Court under point (b)):
 
 Official name:
 
@@ -463,11 +405,7 @@ Can be contacted for questions concerning: .....................................
 
 Can be contacted for questions concerning: ........................................................  Authority mentioned under point (d)
 
-Can be contacted for questions concerning: ........................................................
-
-(EXECUTION IN THE EUROPEAN UNION) [S.L.9.15 13
-
-(f) Where the confiscation order is a follow-up to a freezing order transmitted to the executing State pursuant to Council Framework Decision 2003/577/JHA of 22 July 2003 on the execution in the European Union of orders freezing property or evidence \*, provide relevant information to identify the freezing order (the dates of issue and transmission of the freezing order, the authority to which it was transmitted, reference number, if available): ....................................................................................................... .......................................................................................................................................... ..........................................................................................................................................
+Can be contacted for questions concerning: ........................................................ (f) Where the confiscation order is a follow-up to a freezing order transmitted to the executing State pursuant to Council Framework Decision 2003/577/JHA of 22 July 2003 on the execution in the European Union of orders freezing property or evidence \*, provide relevant information to identify the freezing order (the dates of issue and transmission of the freezing order, the authority to which it was transmitted, reference number, if available): ....................................................................................................... .......................................................................................................................................... ..........................................................................................................................................
 
 (g) Where the confiscation order has been transmitted to more than one executing State, provide the following information:
 
@@ -493,11 +431,7 @@ he property concerned has not been frozen under Framework Decision 2003/577/JHA 
 
 The value of the property which may be confiscated in the issuing State and anyone executing State is not likely to be sufficient for the execution of the full amount covered by the confiscation order.
 
-Other reason(s) (to be specified): .............................................................. .................................................................................................................. [S.L.9.15 (EXECUTION IN THE EUROPEAN UNION)
-
-(h) Information regarding the natural or legal person against whom the confiscation order has been issued:
-
-*14*
+Other reason(s) (to be specified): .............................................................. .................................................................................................................. (h) Information regarding the natural or legal person against whom the confiscation order has been issued:
 
 *\1.*
 
@@ -515,13 +449,11 @@ The confiscation order is transmitted to the executing State because (tick the r
 
 Grounds for believing that the person has property / income:
 
-........................................................................................................ Description of the property of the person / source of income: ......... ........................................................................................................ (EXECUTION IN THE EUROPEAN UNION) [S.L.9.15 15
-
-Location of the property of the person/source of income (if not known, the last known location): .................................................... (b) there are no reasonable grounds, as referred to under (a), which would allow the issuing State to determine the Member State to which the confiscation order may be sent, but the person against whom the confiscation order has been issued is normally resident in the executing State. Add the following information:
-
-**
+........................................................................................................ Description of the property of the person / source of income: ......... ........................................................................................................ Location of the property of the person/source of income (if not known, the last known location): .................................................... (b) there are no reasonable grounds, as referred to under (a), which would allow the issuing State to determine the Member State to which the confiscation order may be sent, but the person against whom the confiscation order has been issued is normally resident in the executing State. Add the following information:
 
 Normal residence in the executing State: ........................................ ........................................................................................................ If the confiscation order concerns specific item(s) of property:
+
+**
 
 *1.2.*
 
@@ -555,10 +487,6 @@ The confiscation order is transmitted to the executing State because (tick the r
 
 \* Where a confiscation order is transmitted to the executing State because the legal person against whom the confiscation order has been issued has its registered seat in that State, Registration number and Registered seat must be completed.
 
-*[S.L.9.15 16*
-
-(EXECUTION IN THE EUROPEAN UNION)
-
 * (a)*
 
 the issuing State has reasonable grounds to believe that the legal person against whom the confiscation order has been issued has property or income in the executing State. Add the following information:
@@ -591,13 +519,11 @@ Grounds for believing that the specific item(s) of property is (are) located in 
 
 * (c)*
 
-Registered seat in the executing State: ............................................ ........................................................................................................ (EXECUTION IN THE EUROPEAN UNION) [S.L.9.15 17
-
-*(i)*
-
-The confiscation order
+Registered seat in the executing State: ............................................ ........................................................................................................ The confiscation order
 
 The confiscation order was issued on (date): ...................................................... The confiscation order became final on (date): ................................................... Reference number of the confiscation order (if available): ................................. Information on the nature of the confiscation order
+
+*(i)*
 
 *\1.*
 
@@ -637,17 +563,13 @@ Description of the specific item(s) of property: ...............................
 
 (iv) is liable to confiscation under any other provision relating to extended powers of confiscation under the law of the issuing State. If two or more categories of confiscation are involved, provide details on which property is confiscated in relation to which category:
 
-.................................................................................................................. .................................................................................................................. [S.L.9.15 (EXECUTION IN THE EUROPEAN UNION)
-
-*\2.*
-
-Information on the offence(s) resulting in the confiscation order
-
-*18*
+.................................................................................................................. .................................................................................................................. Information on the offence(s) resulting in the confiscation order
 
 *2.1.*
 
 A summary of facts and a description of the circumstances in which the offence(s) resulting in the confiscation order has(have) been committed, including time and place ........................................................................... .................................................................................................................. .................................................................................................................. Nature and legal classification of the offence(s) resulting in the confiscation order and the applicable statutory provision/code on basis of which the decision was made: .............................................................. .................................................................................................................. .................................................................................................................. If applicable, indicate one or more of the following offences to which the offence(s) identified under point 2.2 relate(s), if the offence(s) are punishable in the issuing State by a custodial sentence of a maximum of at least 3 years (tick the relevant box(es)):
+
+*\2.*
 
 *2.2.*
 
@@ -695,8 +617,6 @@ A summary of facts and a description of the circumstances in which the offence(s
 
  counterfeiting and piracy of products;
 
-(EXECUTION IN THE EUROPEAN UNION) [S.L.9.15 19
-
  forgery of administrative documents and trafficking therein;
 
  forgery of means of payment;
@@ -743,10 +663,6 @@ OR
 
  3.1b the person was not summoned in person but by other means actually received official information of the scheduled date and place of the trial which resulted in the confiscation order, in such a manner that it was unequivocally established that he or she was aware of the scheduled trial, and was informed that a decision may be handed down if he or she does not appear for the trial;
 
-*20*
-
-[S.L.9.15 (EXECUTION IN THE EUROPEAN UNION)
-
 OR
 
  3.2. being aware of the scheduled trial, the person had given a mandate to a legal counsellor, who was either appointed by the person concerned or by the State, to defend him or her at the trial, and was indeed defended by that counsellor at the trial;
@@ -783,8 +699,6 @@ If the confiscation order concerns an amount of money, state whether property, o
 
  no
 
-(EXECUTION IN THE EUROPEAN UNION) [S.L.9.15 21
-
 *(l)*
 
 Alternative measures, including custodial sanctions
@@ -812,8 +726,6 @@ Other circumstances relevant to the case (optional information):
 The confiscation order is attached to the certificate.
 
 Signature of the authority issuing the certificate and/or its representative certifying the content of the certificate as accurate: ............................................ Name: ................................................................................................................. Post held (title/grade): ........................................................................................ Date: ................................................................................................................... Official stamp (if available)
-
-22 [S.L.9.15 (EXECUTION IN THE EUROPEAN UNION)
 
 ## Schedule 3
 
@@ -855,9 +767,7 @@ Whereas:
 
 (3) Pursuant to paragraph 50(b) of the Vienna Action Plan, within five years of the entry into force of the Treaty of Amsterdam, national provisions governing seizures and confiscation of the proceeds from crime must be improved and approximated where necessary, taking account of the rights of third parties in bona fide.
 
-(4) Paragraph 51 of the conclusions of the Tampere European Council of 15 and 16 October 1999 stresses that money laundering is at the very heart of organised crime, and should be rooted out wherever it occurs and that the European Council is determined to ensure that concrete steps are taken to trace, freeze, seize and confiscate the proceeds from crime. The European Council also calls, in paragraph 55, for the approximation of (EXECUTION IN THE EUROPEAN UNION) [S.L.9.15 23
-
-criminal law and procedures on money laundering (e.g. tracing, freezing and confiscating funds).
+(4) Paragraph 51 of the conclusions of the Tampere European Council of 15 and 16 October 1999 stresses that money laundering is at the very heart of organised crime, and should be rooted out wherever it occurs and that the European Council is determined to ensure that concrete steps are taken to trace, freeze, seize and confiscate the proceeds from crime. The European Council also calls, in paragraph 55, for the approximation of criminal law and procedures on money laundering (e.g. tracing, freezing and confiscating funds).
 
 (5) Pursuant to Recommendation 19 in the 2000 action plan entitled ‘The prevention and control of organised crime: a European Union strategy for the beginning of the new millennium’, which was approved by the Council on 27 March 2000 (3), an examination should be made of the possible need for an instrument which, taking into account best practice in the Member States and with due respect for fundamental legal principles, introduces the possibility of mitigating, under criminal, civil or fiscal law, as appropriate, the onus of proof regarding the source of assets held by a person convicted of an offence related to organised crime.
 
@@ -874,8 +784,6 @@ criminal law and procedures on money laundering (e.g. tracing, freezing and conf
 (11) This Framework Decision does not prevent a Member State from applying its fundamental principles relating to due process, in particular the presumption of innocence, property rights, freedom of association, freedom of the press and freedom of expression in other media,
 
 HAS ADOPTED THIS FRAMEWORK DECISION:
-
-24 [S.L.9.15 (EXECUTION IN THE EUROPEAN UNION)
 
 **Article 1**
 
@@ -921,8 +829,6 @@ In relation to tax offences, Member States may use procedures other than crimina
 
 \- Council Framework Decision 2002/946/JHA of 28 November 2002 on the strengthening of the penal framework to prevent the facilitation of unauthorised entry, transit and residence (9),
 
-(EXECUTION IN THE EUROPEAN UNION) [S.L.9.15 25
-
 \- Council Framework Decision 2004/68/JHA of 22 December 2003 on combating the sexual exploitation of children and child pornography (10),
 
 \- Council Framework Decision 2004/757/JHA of 25 October 2004 laying down minimum provisions on the constituent elements of criminal acts and penalties in the field of illicit drug trafficking (11),
@@ -958,8 +864,6 @@ Member States may use procedures other than criminal procedures to deprive the p
 **Legal remedies**
 
 Each Member State shall take the necessary measures to ensure that interested parties affected by measures under Articles 2 and 3 have effective legal remedies in order to preserve their rights.
-
-26 [S.L.9.15 (EXECUTION IN THE EUROPEAN UNION)
 
 **Article 5**
 

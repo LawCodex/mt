@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Qualifying Employment in Maritime Activities and the Servicing of Offshore Oil and Gas Industry Activities (Personal Tax) Rules (S.L. 123.182)
 
-AND THE SERVICING OF OFFSHORE OIL AND
-
-*1*
-
-GAS INDUSTRY ACTIVITIES (PERSONAL TAX) [S.L. 123.182
-
 **SUBSIDIARY LEGISLATION 123.182**
 
 **QUALIFYING EMPLOYMENT IN MARITIME**
@@ -59,13 +53,7 @@ GAS INDUSTRY ACTIVITIES (PERSONAL TAX) [S.L. 123.182
 
 "education qualification" means any diploma, certificate or other evidence of formal qualifications issued by an educational establishment attesting the successful completion of a post secondary education programme, namely a set of courses provided by an educational establishment recognised as an education institution by the State in which it is situated;
 
-"eligible office" is an employment defined as key for the operations of the particular undertaking and whose function is confirmed by the competent authority, based on an administrative assessment procedure, which office is listed in AND THE SERVICING OF OFFSHORE OIL AND
-
-**GAS INDUSTRY ACTIVITIES (PERSONAL TAX)**
-
-*[S.L. 123.182 2*
-
-the Schedule and which is held with any of the following;
+"eligible office" is an employment defined as key for the operations of the particular undertaking and whose function is confirmed by the competent authority, based on an administrative assessment procedure, which office is listed in the Schedule and which is held with any of the following;
 
 (i) any undertaking holding a Document of Compliance (DOC) issued in terms of the International Safety Management (ISM) Code or a Seafarer Recruitment and Placement Services Licence issued in terms of the Maritime Labour Convention, 2006; or
 
@@ -88,12 +76,6 @@ For the purposes of these rules, the term "regular services" shall have the mean
 "rights acquired under this law" means the right to elect to pay tax at the reduced rate of tax contemplated in article 56(21) of the Act and these rules;
 
 "these rules" shall include the provisions of article 56(21) of the Act and the rules contained in these rules;
-
-AND THE SERVICING OF OFFSHORE OIL AND
-
-*3*
-
-GAS INDUSTRY ACTIVITIES (PERSONAL TAX) [S.L. 123.182
 
 "third-country national" means any person who is not a citizen of the European Union within the meaning of Article 20 of the Treaty on the European Union and the Treaty on the Functioning of the European Union.
 
@@ -121,13 +103,7 @@ A beneficiary is an individual who meets the following conditions:
 
 (c) he proves to the satisfaction of the competent authority that he is in possession of professional qualifications or experience;
 
-(d) he fully discloses for tax purposes and declares AND THE SERVICING OF OFFSHORE OIL AND
-
-*4*
-
-[S.L. 123.182 GAS INDUSTRY ACTIVITIES (PERSONAL TAX)
-
-emoluments received in respect of income from a qualifying contract of employment and all income received from a person related to his employer paying out income from a qualifying contract as chargeable to tax in Malta;
+(d) he fully discloses for tax purposes and declares emoluments received in respect of income from a qualifying contract of employment and all income received from a person related to his employer paying out income from a qualifying contract as chargeable to tax in Malta;
 
 (e) he proves to the satisfaction of the competent authority that he performs activities of an eligible office; and
 
@@ -155,13 +131,7 @@ Provided that, a beneficiary shall be allowed deductions of tax paid in terms of
 
 *Cap. 372.*
 
-(2) The option available under article 56(21) of the Act may not be exercised in respect of any year of assessment preceding the year of assessment 2017 as regards eligible offices in the Servicing of the Offshore Oil and Gas and Ancillary Services Industry and any year of assessment preceding the year of assessment 2018 as regards eligible AND THE SERVICING OF OFFSHORE OIL AND
-
-*5*
-
-GAS INDUSTRY ACTIVITIES (PERSONAL TAX) [S.L. 123.182
-
-offices in Maritime activities.
+(2) The option available under article 56(21) of the Act may not be exercised in respect of any year of assessment preceding the year of assessment 2017 as regards eligible offices in the Servicing of the Offshore Oil and Gas and Ancillary Services Industry and any year of assessment preceding the year of assessment 2018 as regards eligible offices in Maritime activities.
 
 ## 6. EEA and Swiss nationals.
 
@@ -181,13 +151,7 @@ Provided that the eligibility under the said rules shall not exceed a consecutiv
 
 *Cap. 372.*
 
-Provided that if any person claims a benefit under these rules when that person was not entitled to the said benefit, such person shall be liable to pay a penalty equal to the amount of benefit claimed and if the benefit was in fact paid to him that person shall in addition be liable to repay the benefit received and to additional tax of seven AND THE SERVICING OF OFFSHORE OIL AND
-
-*6*
-
-[S.L. 123.182 GAS INDUSTRY ACTIVITIES (PERSONAL TAX)
-
-per cent per month or part thereof commencing from the month in which the said benefit was paid to him up to the month in which he repaid the benefit and any payment made by the said person in respect of the tax repayable by him in terms of this proviso shall first be applied against any additional tax due thereon:
+Provided that if any person claims a benefit under these rules when that person was not entitled to the said benefit, such person shall be liable to pay a penalty equal to the amount of benefit claimed and if the benefit was in fact paid to him that person shall in addition be liable to repay the benefit received and to additional tax of seven per cent per month or part thereof commencing from the month in which the said benefit was paid to him up to the month in which he repaid the benefit and any payment made by the said person in respect of the tax repayable by him in terms of this proviso shall first be applied against any additional tax due thereon:
 
 Provided further that liability to pay additional tax in terms of the preceding proviso shall not be applicable when the person referred to therein proves that he has acted in good faith.
 
@@ -208,12 +172,6 @@ Provided that when the said declaration or the relative tax return is filed late
 ## 10. Formal Determination.
 
 (1) For the purposes of rule 4, the competent authority shall issue a formal determination relating to anything which needs to be proven to its satisfaction in terms of these rules.
-
-AND THE SERVICING OF OFFSHORE OIL AND
-
-*7*
-
-GAS INDUSTRY ACTIVITIES (PERSONAL TAX) [S.L. 123.182
 
 (2) An application for a formal determination relating to eligibility under these rules shall be made on such form or in such manner as the competent authority may require and shall contain the information and documents therein requested.
 
@@ -244,12 +202,6 @@ General Manager
 Crewing Manager
 
 Technical Manager
-
-AND THE SERVICING OF OFFSHORE OIL AND
-
-*8*
-
-[S.L. 123.182 GAS INDUSTRY ACTIVITIES (PERSONAL TAX)
 
 Technical Ship Superintendent
 

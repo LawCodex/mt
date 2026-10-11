@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Higher Diploma in Aviation - H.Dip. - under the auspices of the Institute of Aerospace Technologies (S.L. 327.555)
 
-*1*
-
-PICES OF THE INSTITUTE OF AEROSPACE TECHNOLOGIES [S.L.327.555
-
 **SUBSIDIARY LEGISLATION 327.555**
 
 **BYE-LAWS FOR THE HIGHER DIPLOMA IN**
@@ -76,10 +72,6 @@ The course shall extend over a period of three semesters of full-time study or t
 (1) The course shall comprise taught study-units to which a total of 90 ECTS credits shall be assigned.
 
 \*These bye-laws have been repealed by Legal Notice 185 of 2022.
-
-*2*
-
-[S.L.327.555 PICES OF THE INSTITUTE OF AEROSPACE TECHNOLOGIES
 
 (2) Students who successfully complete a prescribed set of study-units totalling 30 ECTS credits and opt not to proceed with the course, or having proceeded do not successfully complete the course, shall be entitled to the Certificate.
 

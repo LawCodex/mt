@@ -1,6 +1,6 @@
 ---
 title: "Use of Standard Dustbin Order"
-identifier: "S.L. 206.1"
+identifier: "S.L. 206.01"
 eli: "https://legislation.mt/eli/sl/206.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/206.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Use of Standard Dustbin Order (S.L. 206.1)
+# Use of Standard Dustbin Order (S.L. 206.01)
 
 **SUBSIDIARY LEGISLATION 206.01**
 

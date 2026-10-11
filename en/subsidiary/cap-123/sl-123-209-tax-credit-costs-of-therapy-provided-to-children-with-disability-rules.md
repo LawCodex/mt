@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Tax Credit (Costs of Therapy Provided to Children with Disability) Rules (S.L. 123.209)
 
-*1*
-
-TO CHILDREN WITH DISABILITY) [S.L. 123.209 SUBSIDIARY LEGISLATION 123.209
+**SUBSIDIARY LEGISLATION 123.209**
 
 **TAX CREDIT (COSTS OF THERAPY PROVIDED**
 
@@ -58,11 +56,7 @@ In these rules, unless the context otherwise requires:
 
 (2) The tax credit allowable in accordance with these rules shall be in the amount of five hundred euro (€500) for each child in respect of whom the qualifying costs have been incurred, or the amount of the qualifying costs actually incurred, whichever is the lower.
 
-(3) The tax credit referred to in these rules shall only be [S.L. 123.209 TO CHILDREN WITH DISABILITY)
-
-allowed in respect of costs that are reported to the Commissioner for Revenue in accordance with rule 4.
-
-*2*
+(3) The tax credit referred to in these rules shall only be allowed in respect of costs that are reported to the Commissioner for Revenue in accordance with rule 4.
 
 (4) Notwithstanding the other provisions of this rule, no tax credit shall be allowed under these rules in respect of costs incurred after 31st December 2024.
 

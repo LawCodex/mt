@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Law under the auspices of the Faculty of Laws (S.L. 327.209)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF LAWS [S.L.327.209
-
 **SUBSIDIARY LEGISLATION 327.209**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -77,9 +73,7 @@ The course shall be offered in areas of study in law and related areas that fall
 
 (i) a Bachelor’s degree in law, including the degrees of Bachelor of Arts in Legal and Humanistic Studies and the Bachelor of Arts in Socio-Legal Studies, obtained with at least Second Class Honours or Category II; or
 
-*2*
-
-[S.L.327.209 UNDER THE AUSPICES OF THE FACULTY OF LAWS (ii) a first cycle qualification other than a degree in law, classified with at least Second Class Honours or Category II, in an area of study related to law and to the programme of study as approved by Senate; or
+(ii) a first cycle qualification other than a degree in law, classified with at least Second Class Honours or Category II, in an area of study related to law and to the programme of study as approved by Senate; or
 
 (iii) equivalent qualifications to those listed in sub-paragraph (i), as approved by Senate on the recommendation of the Board.
 
@@ -113,11 +107,7 @@ The programme of study shall comprise study-units to which a total of 90 credits
 
 (2) Students following a taught programme of study who in any academic year fail in the assessment of not more than 20 credits, if following the full-time course, or not more than 10 credits if following the part-time course, shall be given the opportunity to re-sit the failed assessments during the September supplementary examination session.
 
-(3) Students who fail in more than the number of credits permitted under paragraph (2), or students who after re-assessment UNDER THE AUSPICES OF THE FACULTY OF LAWS [S.L.327.209
-
-fail to obtain credit for any study-unit, shall be required to withdraw from the course.
-
-*3*
+(3) Students who fail in more than the number of credits permitted under paragraph (2), or students who after re-assessment fail to obtain credit for any study-unit, shall be required to withdraw from the course.
 
 ## 9. Dissertations.
 

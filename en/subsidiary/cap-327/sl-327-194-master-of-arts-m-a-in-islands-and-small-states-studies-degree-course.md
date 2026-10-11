@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Master of Arts - M.A. - in Islands and Small States Studies Degree Course Regulations (S.L. 327.194)
 
-STATES STUDIES UNDER THE AUSPICES OF THE
-
-*1*
-
-INSTITUTE FOR ISLANDS AND SMALL STATES [S.L.327.194
-
 **SUBSIDIARY LEGISLATION 327.194**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -67,11 +61,7 @@ These bye-laws shall apply to courses commencing in October 2019 or later.
 
 (4) The interviewing board appointed by the Board shall be composed of at least three members.
 
-(5) Eligible applicants may register as visiting students for STATES STUDIES UNDER THE AUSPICES OF THE [S.L.327.194 INSTITUTE FOR ISLANDS AND SMALL STATES
-
-individual study-units and obtain credit for them. Should they be accepted to join the Course within seven years from following the first study-unit, the Board may allow the transfer of these credits to the student’s academic record for the Course.
-
-*2*
+(5) Eligible applicants may register as visiting students for individual study-units and obtain credit for them. Should they be accepted to join the Course within seven years from following the first study-unit, the Board may allow the transfer of these credits to the student’s academic record for the Course.
 
 (6) In line with the provisions of paragraphs (2) and (3) of regulation 9 of the Admissions Regulations, applicants who do not satisfy the requirements indicated in paragraphs (1) and (2) of this bye-law may be allowed to follow individual study-units but shall not be allowed to sit for the assessment of the study-units, provided the lecturer concerned poses no objection thereto and is satisfied that the individual has the necessary academic background to follow the study-unit with profit.
 
@@ -105,11 +95,7 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 (2) Work on the dissertation shall be undertaken during the third semester of the course. Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
 
-(3) A provisional title of the dissertation and a detailed STATES STUDIES UNDER THE AUSPICES OF THE
-
-*3*
-
-INSTITUTE FOR ISLANDS AND SMALL STATES [S.L.327.194 research proposal shall be submitted to the Board for approval by the beginning of the second semester.
+(3) A provisional title of the dissertation and a detailed research proposal shall be submitted to the Board for approval by the beginning of the second semester.
 
 ## 8. Supervisor.
 

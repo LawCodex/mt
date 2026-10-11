@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Statute for the Centre for Molecular Medicine and Biobanking (S.L. 327.512)
 
-*1*
-
-MOLECULAR MEDICINE AND BIOBANKING [S.L.327.512
-
 **SUBSIDIARY LEGISLATION 327.512**
 
 **STATUTE FOR THE CENTRE FOR**
@@ -63,11 +59,7 @@ The aims of the Centre shall be:
 
 (g) to disseminate acquired knowledge through online media, publications, seminars, conferences and teaching programmes; and
 
-(h) to represent the University of Malta as the BBMRI.MT node within the structure of the BioBanking and [S.L.327.512 MOLECULAR MEDICINE AND BIOBANKING
-
-BioMolecular Research Infrastructure of the European Union.
-
-*2*
+(h) to represent the University of Malta as the BBMRI.MT node within the structure of the BioBanking and BioMolecular Research Infrastructure of the European Union.
 
 ## 5. Governance.
 
@@ -115,10 +107,6 @@ The functions of the Board shall be:
 
 (iii) publish an annual report;
 
-*3*
-
-MOLECULAR MEDICINE AND BIOBANKING [S.L.327.512
-
 (iv) enrol the Centre in associations or institutions sharing similar aims and interests;
 
 (v) propose Regulations and Bye-Laws to the Senate;
@@ -151,11 +139,7 @@ The duties of the Director/Vice-Chairman of the Centre shall include:
 
 (d) delivering and implementing the strategic plan of the Centre under the guidance of the Board;
 
-(e) administering the Centre in full consultation with the MOLECULAR MEDICINE AND BIOBANKING
-
-members; monitoring and approving requests for leave of absence of members of the Centre; maintaining records of all leave taken by members and to pass on these records to the Director of Human Resources Management and Development upon request;
-
-*[S.L.327.512 4*
+(e) administering the Centre in full consultation with the members; monitoring and approving requests for leave of absence of members of the Centre; maintaining records of all leave taken by members and to pass on these records to the Director of Human Resources Management and Development upon request;
 
 (f) promoting students’ academic and personal welfare, providing first-line support to students with any difficulties they may encounter during their studies related to the activities of the Centre;
 
@@ -177,11 +161,7 @@ members; monitoring and approving requests for leave of absence of members of th
 
 (m) compiling and submitting to the Secretary of the University by the end of September of each academic year, an annual report outlining the activities of the Centre for the outgoing year, which should include, amongst others, information that may be requested by the Secretary: a comprehensive list of recent publications of all members of the Centre; a synopsis of all projects involving members of the Centre which are wholly or partially externally funded; a list of all conferences/seminars/meetings attended abroad by members of the Centre during term time; and an outline of the Centre’s collaboration with third parties including local industry, Government or civil society at large;
 
-(n) compiling and submitting to the Director of Finance of MOLECULAR MEDICINE AND BIOBANKING [S.L.327.512
-
-the University by not later than end of May of each academic year budgetary estimates for the following year including a manpower plan for the Centre, to cover the projected teaching, research and administration workload of the Centre, and based on the projected workload for each Resident Academic member of staff of the Centre and Visiting Teaching Staff;
-
-*5*
+(n) compiling and submitting to the Director of Finance of the University by not later than end of May of each academic year budgetary estimates for the following year including a manpower plan for the Centre, to cover the projected teaching, research and administration workload of the Centre, and based on the projected workload for each Resident Academic member of staff of the Centre and Visiting Teaching Staff;
 
 (o) monitoring the performance of the non-academic staff attached to the Centre;
 
@@ -206,10 +186,6 @@ The Director moreover:
 (e) shall not give access to any information to any third party that is not associated with the University of Malta, about any work or data that relates to tasks conducted at the University of Malta without the prior approval of the University of Malta; all work carried out within the Centre must be treated according to Maltese data protection legislation; and
 
 (f) is to abide with the statutes, regulations, bye-laws and policies of the University of Malta, which are in force now or will become effective in the duration of his tenure.
-
-*6*
-
-[S.L.327.512 MOLECULAR MEDICINE AND BIOBANKING
 
 ## 12. Treasurer.
 

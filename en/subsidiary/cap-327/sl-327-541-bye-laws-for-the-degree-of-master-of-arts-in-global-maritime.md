@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Global Maritime Archaeology - M.A. - under the auspices of the Faculty of Arts. (S.L. 327.541)
 
-ARCHAEOLOGY - M.A. - UNDER THE AUSPICES
-
-*1*
-
-OF THE FACULTY OF ARTS [S.L.327.541
-
 **SUBSIDIARY LEGISLATION 327.541**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -71,12 +65,6 @@ These bye-laws shall be applicable for courses commencing in October 2017 or lat
 
 (b) experience in the area of the proposed study; and
 
-ARCHAEOLOGY - M.A. - UNDER THE AUSPICES
-
-*2*
-
-[S.L.327.541 OF THE FACULTY OF ARTS
-
 (c) performance during an interview.
 
 (4) For the purpose of selection, applicants whose qualifications as stipulated in paragraph (1) of this bye-law were obtained by 31 August preceding the commencement of the course shall be considered first.
@@ -109,13 +97,11 @@ Students who obtain the 60 ECTS credits assigned to the taught study-units and t
 
 The programme of study shall be published after approval by Senate, normally not less than eight months prior to the commencement of the course.
 
-ARCHAEOLOGY - M.A. - UNDER THE AUSPICES
+## 9. Assessment and progress.
 
-*3*
+*Amended by: L.N. 290 of 2017; L.N. 12 of 2022.*
 
-OF THE FACULTY OF ARTS [S.L.327.541 9. (1) The assessment of each taught study-unit shall be completed by the end of the semester in which the teaching of the study-unit is held.
-
-*Assessment and progress. Amended by: L.N. 290 of 2017; L.N. 12 of 2022.*
+(1) The assessment of each taught study-unit shall be completed by the end of the semester in which the teaching of the study-unit is held.
 
 (2) Students who in any academic year fail in the assessment of not more than 20 ECTS credits for taught study-units, if following the full-time Course, or not more than 10 ECTS credits for taught study-units if following the part-time course, shall be given the opportunity to re-sit the failed assessment during the September supplementary examination session.
 
@@ -144,12 +130,6 @@ OF THE FACULTY OF ARTS [S.L.327.541 9. (1) The assessment of each taught study-u
 ## 12. Classification of the Awards
 
 The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma and of the Degree shall be based on the results obtained in all the components of the programme of study, all credits being weighted equally.
-
-ARCHAEOLOGY - M.A. - UNDER THE AUSPICES
-
-*4*
-
-[S.L.327.541 OF THE FACULTY OF ARTS
 
 ## 13. Special provisions for part-time courses.
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (The Republic of Serbia) Order (S.L. 123.119)
 
-*1*
-
-WITH THE REPUBLIC OF SERBIA [S.L.123.119
-
 **SUBSIDIARY LEGISLATION 123.119**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -46,8 +42,6 @@ It is hereby declared:-
 (c) that the Convention has entered into force on the 16th June, 2010.
 
 \*https://cfr.gov.mt/en/inlandrevenue/itu/Documents/Malta%20-%20Ser-bia%20DTA%20(synthesised%20text).pdf
-
-2 [S.L.123.119 WITH THE REPUBLIC OF SERBIA
 
 ## SCHEDULE — CONVENTION BETWEEN — MALTA
 
@@ -113,8 +107,6 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 (1) the terms ''a Contracting State'' and ''the other Contracting State'' mean Serbia or Malta, as the context requires;
 
-WITH THE REPUBLIC OF SERBIA [S.L.123.119 3
-
 (2) the term "Serbia" means the Republic of Serbia, and when used in a geographical sense it means the territory of the Republic of Serbia;
 
 (3) the term ''Malta'' means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the seabed, its subsoil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
@@ -149,9 +141,7 @@ WITH THE REPUBLIC OF SERBIA [S.L.123.119 3
 
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
-(1) he shall be deemed to be a resident only of the State in which he has a permanent home available to him; if he has a permanent home available 4 [S.L.123.119 WITH THE REPUBLIC OF SERBIA
-
-to him in both States, he shall be deemed to be a resident only of the State with which his personal and economic relations are closer (centre of vital interests);
+(1) he shall be deemed to be a resident only of the State in which he has a permanent home available to him; if he has a permanent home available to him in both States, he shall be deemed to be a resident only of the State with which his personal and economic relations are closer (centre of vital interests);
 
 (2) if the State in which he has his centre of vital interests cannot be determined, or if he has not a permanent home available to him in either State, he shall be deemed to be a resident only of the State in which he has an habitual abode;
 
@@ -195,9 +185,7 @@ Notwithstanding the preceding provisions of this Article, the term ''permanent e
 
 (2) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of storage, display or delivery;
 
-(3) the maintenance of a stock of goods or merchandise belonging to the WITH THE REPUBLIC OF SERBIA [S.L.123.119 5
-
-enterprise solely for the purpose of processing by another enterprise;
+(3) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of processing by another enterprise;
 
 (4) the maintenance of a fixed place of business solely for the purpose of purchasing goods or merchandise or of collecting information, for the enterprise;
 
@@ -225,9 +213,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \2. The term ''immovable property'' shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources; ships, boats and aircraft shall not be regarded as immovable property.
 
-\3. The provisions of paragraph 1 shall apply to income derived from the direct 6 [S.L.123.119 WITH THE REPUBLIC OF SERBIA
-
-use, letting, or use in any other form of immovable property.
+\3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
 \4. The provisions of paragraphs 1 and 3 shall also apply to the income from immovable property of an enterprise and to income from immovable property used for the performance of independent personal services.
 
@@ -258,8 +244,6 @@ Where profits include items of income which are dealt with separately in other A
 \1. Profits of an enterprise of a Contracting State from the operation of ships or aircraft in international traffic shall be taxable only in that State.
 
 \2. The provisions of paragraph 1 shall also apply to profits from the participation in a pool, a joint business or an international operating agency.
-
-WITH THE REPUBLIC OF SERBIA [S.L.123.119 7
 
 **Article 9**
 
@@ -293,9 +277,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 This paragraph shall not affect the taxation of the company in respect of the profits out of which the dividends are paid.
 
-\3. The term ''dividends'' as used in this Article means income from shares or other rights, not being debt-claims, participating in profits, as well as income from 8 [S.L.123.119 WITH THE REPUBLIC OF SERBIA
-
-other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
+\3. The term ''dividends'' as used in this Article means income from shares or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
 
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
@@ -315,9 +297,7 @@ other corporate rights which is subjected to the same taxation treatment as inco
 
 \5. The provisions of paragraphs 1, 2 and 3 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
-\6. Interest shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the interest, whether he is WITH THE REPUBLIC OF SERBIA [S.L.123.119 9
-
-a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment or fixed base, then such interest shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
+\6. Interest shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment or fixed base, then such interest shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
 ## 7.
 
@@ -345,8 +325,6 @@ Where, by reason of a special relationship between the payer and the beneficial 
 
 \5. Royalties shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
-10 [S.L.123.119 WITH THE REPUBLIC OF SERBIA
-
 \6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
 **Article 13**
@@ -373,9 +351,7 @@ Where, by reason of a special relationship between the payer and the beneficial 
 
 (2) if his stay in the other Contracting State is for a period or periods amounting to or exceeding in the aggregate 183 days in any twelve month period commencing or ending in the fiscal year concerned; in that case, only so much of the income as is derived from his activities performed in that other Contracting State may be taxed in that other State.
 
-\2. The term ''professional services'' includes especially independent scientific, literary, artistic, educational or teaching activities as well as the independent WITH THE REPUBLIC OF SERBIA [S.L.123.119 11
-
-activities of physicians, lawyers, engineers, architects, dentists and accountants.
+\2. The term ''professional services'' includes especially independent scientific, literary, artistic, educational or teaching activities as well as the independent activities of physicians, lawyers, engineers, architects, dentists and accountants.
 
 **Article 15**
 
@@ -408,8 +384,6 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 \2. Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman himself but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the entertainer or sportsman are exercised.
 
 \3. Notwithstanding the provisions of paragraphs 1 and 2 of this Article, income mentioned in this Article shall be exempt from tax in the Contracting State in which the activity of the entertainer or sportsman is exercised provided that this activity is supported in a considerable part out of public funds of the State or a political subdivision or a local authority thereof or of the other State or a political subdivision or a local authority thereof, or the activity is exercised under a cultural or sports agreement or arrangement between the Contracting States.
-
-12 [S.L.123.119 WITH THE REPUBLIC OF SERBIA
 
 **Article 18**
 
@@ -445,8 +419,6 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 Payments which a student or business apprentice who is or was immediately before visiting a Contracting State a resident of the other Contracting State and who is present in the first-mentioned State solely for the purpose of his education or training receives for the purpose of his maintenance, education or training shall not be taxed in that State, provided that such payments arise from sources outside that State.
 
-WITH THE REPUBLIC OF SERBIA [S.L.123.119 13
-
 **Article 21**
 
 **OTHER INCOME**
@@ -473,8 +445,6 @@ WITH THE REPUBLIC OF SERBIA [S.L.123.119 13
 
 \3. Except where the provisions of paragraph 1 of Article 9, paragraph 7 of Article 11, or paragraph 6 of Article 12, apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
 
-14 [S.L.123.119 WITH THE REPUBLIC OF SERBIA
-
 \4. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
 
 \5. The provisions of this Article shall apply to the taxes referred to in Article 2.
@@ -498,8 +468,6 @@ WITH THE REPUBLIC OF SERBIA [S.L.123.119 13
 \1. The competent authorities of the Contracting States shall exchange such information as is necessary for carrying out the provisions of this Convention or of the domestic laws of the Contracting States concerning taxes covered by the Convention insofar as the taxation thereunder is not contrary to the Convention, in particular for the prevention of fraud or evasion of such taxes. The exchange of information is not restricted by Article 1. Any information received by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by the Convention. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
 
 \2. In no case shall the provisions of paragraph 1 be construed so as to impose on a Contracting State the obligation:
-
-WITH THE REPUBLIC OF SERBIA [S.L.123.119 15
 
 (1) to carry out administrative measures at variance with the laws and administrative practice of that or of the other Contracting State;
 
@@ -538,8 +506,6 @@ This Convention shall remain in force until terminated by a Contracting State. E
 IN WITNESS whereof the undersigned, being duly authorized thereto, have signed this Convention.
 
 DONE at Valletta this 9th day of September 2009 in two originals, in the Serbian and English languages, both originals being equally authentic.
-
-16 [S.L.123.119 WITH THE REPUBLIC OF SERBIA
 
 TONIO FENECH VUK JEREMIC
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Statute for the Institute for Physical Education and Sport (S.L. 327.92)
 
-*1*
-
-PHYSICAL EDUCATION AND SPORT [S.L.327.92
-
 SUBSIDIARY LEGISLATION 327.92
 
 STATUTE FOR THE INSTITUTE FOR
@@ -63,11 +59,7 @@ The aims of the Institute shall be:
 
 *\3.*
 
-The Institute shall be governed by a Board consisting of [S.L.327.92 PHYSICAL EDUCATION AND SPORT
-
-the following:
-
-*2*
+The Institute shall be governed by a Board consisting of the following:
 
 (i) Chairman: Rector or his delegate;
 
@@ -107,11 +99,7 @@ the following:
 
 (vii) recommend to the Council the creation or abolition of academic and non-academic posts in the Institute;
 
-(viii) propose for approval to the Senate, Board of PHYSICAL EDUCATION AND SPORT [S.L.327.92
-
-Studies and Examiners for degree and diploma courses.
-
-*3*
+(viii) propose for approval to the Senate, Board of Studies and Examiners for degree and diploma courses.
 
 *\6.*
 
@@ -143,10 +131,6 @@ The duties of the Vice-Chairman/Director shall include:
 
 • January session - by the end of March;
 
-**PHYSICAL EDUCATION AND SPORT**
-
-*[S.L.327.92 4*
-
 • May/June session - final year results by not later than two working days prior to the final year degree classification board but in any case not later than end of July, other results as early as possible but not later than the end of July;
 
 • September session - by the end of September;
@@ -175,11 +159,7 @@ The duties of the Vice-Chairman/Director shall include:
 
 The Director moreover:
 
-(a) is to report directly to the Chairman of the Board PHYSICAL EDUCATION AND SPORT [S.L.327.92
-
-governing the Institute and shall collaborate with all senior administrative officers of the University;
-
-*5*
+(a) is to report directly to the Chairman of the Board governing the Institute and shall collaborate with all senior administrative officers of the University;
 
 (b) shall normally be a Resident Academic engaged with the University on a full-time basis for the duration of his tenure as Director. If the Institute is engaged in normal teaching programmes of study then the Director must be engaged with the University as a Resident Academic on a full-time basis;
 

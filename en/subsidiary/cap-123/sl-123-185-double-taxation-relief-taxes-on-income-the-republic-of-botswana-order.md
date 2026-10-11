@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (The Republic of Botswana) Order (S.L. 123.185)
 
-*1*
-
-(THE REPUBLIC OF BOTSWANA) [S.L. 123.185 SUBSIDIARY LEGISLATION 123.185
+**SUBSIDIARY LEGISLATION 123.185**
 
 DOUBLE TAXATION RELIEF (TAXES ON INCOME)
 
@@ -42,10 +40,6 @@ It is hereby declared:-
 (b) that it is expedient that those arrangements should have effect following the entry into force of the Agreement and in accordance with the relevant provisions of the Agreement;
 
 (c) that the Agreement has entered into force on 13th November, 2018.
-
-*2*
-
-[S.L. 123.185 (THE REPUBLIC OF BOTSWANA)
 
 ## SCHEDULE — Article 2 — AGREEMENT BETWEEN THE GOVERNMENT OF THE
 
@@ -91,9 +85,7 @@ the income tax
 
 the income tax
 
-*3*
-
-(THE REPUBLIC OF BOTSWANA) [S.L. 123.185 (hereinafter referred to as "Malta tax").
+(hereinafter referred to as "Malta tax").
 
 ## 4.
 
@@ -121,10 +113,6 @@ The Agreement shall apply also to any identical or substantially similar taxes w
 
 (f) the terms "enterprise of a Contracting State" and "enterprise of the other Contracting State" mean respectively an enterprise carried on by a resident of a Contracting State and an enterprise carried on by a resident of the other Contracting State;
 
-*4*
-
-[S.L. 123.185 (THE REPUBLIC OF BOTSWANA)
-
 (g) the term "international traffic" means any transport by a ship or aircraft operated by an enterprise of a Contracting State, except when the ship or aircraft is operated solely between places in the other Contracting State;
 
 (h) the term "national", in relation to a Contracting State, means:
@@ -147,11 +135,9 @@ The Agreement shall apply also to any identical or substantially similar taxes w
 
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
-(a) he shall be deemed to be a resident only of the State in which he has a permanent home available to him; if he has a permanent home available to him in both States, he shall be deemed to be a resident only of the State with which his (THE REPUBLIC OF BOTSWANA) [S.L. 123.185 personal and economic relations are closer (centre of vital interests);
+(a) he shall be deemed to be a resident only of the State in which he has a permanent home available to him; if he has a permanent home available to him in both States, he shall be deemed to be a resident only of the State with which his personal and economic relations are closer (centre of vital interests);
 
 (b) if the State in which he has his centre of vital interests cannot be determined, or if he has not a permanent home available to him in either State, he shall be deemed to be a resident only of the State in which he has an habitual abode;
-
-*5*
 
 (c) if he has an habitual abode in both States or in neither of them, he shall be deemed to be a resident only of the State of which he is a national;
 
@@ -181,11 +167,7 @@ The Agreement shall apply also to any identical or substantially similar taxes w
 
 (g) an installation or structure used for the exploration of natural resources provided that the installation or structure continues for a period of more than six months within any twelve-month period.
 
-\3. The term "permanent establishment" likewise (THE REPUBLIC OF BOTSWANA)
-
-encompasses:
-
-*[S.L. 123.185 6*
+\3. The term "permanent establishment" likewise encompasses:
 
 (a) a building site, a construction, assembly or installation project or any supervisory activity in connection with such site or project, but only where such site, project or activity continues for a period of more than six months within any twelve-month period;
 
@@ -207,13 +189,11 @@ Notwithstanding the preceding provisions of this Article, the term "permanent es
 
 (e) the maintenance of a fixed place of business solely for the purpose of carrying on, for the enterprise, any other activity of a preparatory or auxiliary character; and
 
-(f) the maintenance of a fixed place of business solely for any combination of activities mentioned in subparagraphs (a) to (e), provided that the overall activity of the fixed place of business resulting from this combination is of a preparatory or (THE REPUBLIC OF BOTSWANA) [S.L. 123.185 auxiliary character.
+(f) the maintenance of a fixed place of business solely for any combination of activities mentioned in subparagraphs (a) to (e), provided that the overall activity of the fixed place of business resulting from this combination is of a preparatory or auxiliary character.
 
 ## 5.
 
 Notwithstanding the provisions of paragraphs 1 and 2, where a person – other than an agent of an independent status to whom paragraph 6 applies – is acting on behalf of an enterprise and has, and habitually exercises, in a Contracting State an authority to conclude contracts in the name of the enterprise, that enterprise shall be deemed to have a permanent establishment in that State in respect of any activities which that person undertakes for the enterprise, unless the activities of such person are limited to those mentioned in paragraph 4 which, if exercised through a fixed place of business, would not make this fixed place of business a permanent establishment under the provisions of that paragraph.
-
-*7*
 
 ## 6.
 
@@ -233,11 +213,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \1. Income derived by a resident of a Contracting State from immovable property, (including income from agriculture or forestry), situated in the other Contracting State may be taxed in that other State.
 
-\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural [S.L. 123.185 (THE REPUBLIC OF BOTSWANA)
-
-resources. Ships and aircraft shall not be regarded as immovable property.
-
-*8*
+\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources. Ships and aircraft shall not be regarded as immovable property.
 
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting or use in any other form of immovable property.
 
@@ -251,11 +227,9 @@ resources. Ships and aircraft shall not be regarded as immovable property.
 
 \2. Subject to the provisions of paragraph 3, where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment.
 
-\3. In determining the profits of a permanent establishment, there shall be allowed as deductions expenses which are incurred for the purposes of the business of the permanent establishment including executive and general administrative expenses so incurred, whether in the State in which the permanent establishment is situated or elsewhere. However, no such deduction shall be allowed in respect of amounts, if any, paid (otherwise than towards reimbursement of actual expenses) by the permanent establishment to the head office of the enterprise or any of its other offices, by way of royalties, fees or other similar payments in return for the use of patents or other rights, or by way of commission, for specific services performed or for management, or, except in the case of a banking enterprise, by way of interest on moneys lent to the permanent establishment. Likewise, no account shall be taken, in the determination of the profits of a permanent establishment, for amounts charged (otherwise than towards reimbursement of actual expenses) by the permanent establishment to the head office of the enterprise or any of its other offices, by way of royalties, fees or other similar payments in return for use of patents or other rights, or by way of commission for specific services performed or for management, or except in the case of a banking enterprise by way of interest on moneys lent to the head office of the (THE REPUBLIC OF BOTSWANA) [S.L. 123.185 enterprise or any of its other offices.
+\3. In determining the profits of a permanent establishment, there shall be allowed as deductions expenses which are incurred for the purposes of the business of the permanent establishment including executive and general administrative expenses so incurred, whether in the State in which the permanent establishment is situated or elsewhere. However, no such deduction shall be allowed in respect of amounts, if any, paid (otherwise than towards reimbursement of actual expenses) by the permanent establishment to the head office of the enterprise or any of its other offices, by way of royalties, fees or other similar payments in return for the use of patents or other rights, or by way of commission, for specific services performed or for management, or, except in the case of a banking enterprise, by way of interest on moneys lent to the permanent establishment. Likewise, no account shall be taken, in the determination of the profits of a permanent establishment, for amounts charged (otherwise than towards reimbursement of actual expenses) by the permanent establishment to the head office of the enterprise or any of its other offices, by way of royalties, fees or other similar payments in return for use of patents or other rights, or by way of commission for specific services performed or for management, or except in the case of a banking enterprise by way of interest on moneys lent to the head office of the enterprise or any of its other offices.
 
 \4. In so far as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph 2 shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary; the method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles contained in this Article.
-
-*9*
 
 \5. No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
 
@@ -274,10 +248,6 @@ resources. Ships and aircraft shall not be regarded as immovable property.
 \3. Profits of an enterprise of a Contracting State from the use or rental of containers used for the transport in international traffic of goods or merchandise shall be taxable only in that State.
 
 \4. The provisions of paragraph 1 shall also apply to profits from the participation in a pool, a joint business or an international operating agency.
-
-*10*
-
-[S.L. 123.185 (THE REPUBLIC OF BOTSWANA)
 
 **Article 9**
 
@@ -303,9 +273,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 (a) where the dividends are paid by a company which is a resident of Botswana to a resident of Malta who is the beneficial owner thereof, the tax so charged in Botswana shall not exceed:
 
-*11*
-
-(THE REPUBLIC OF BOTSWANA) [S.L. 123.185 (i) 5 per cent of the gross amount of the dividends if the beneficial owner is a company which holds at least 25 per cent of the capital of the company paying dividends; or
+(i) 5 per cent of the gross amount of the dividends if the beneficial owner is a company which holds at least 25 per cent of the capital of the company paying dividends; or
 
 (ii) 6 per cent of the gross amount of the dividends in all other cases.
 
@@ -321,11 +289,7 @@ This paragraph shall not affect taxation of the company in respect of the profit
 
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment. In such case, the provisions of Article 7 shall apply.
 
-\5. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the [S.L. 123.185 (THE REPUBLIC OF BOTSWANA)
-
-company, except in so far as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment situated in that other State, nor subject the company’s undistributed profits to a tax on the company’s undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
-
-*12*
+\5. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except in so far as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment situated in that other State, nor subject the company’s undistributed profits to a tax on the company’s undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
 
 **Article 11**
 
@@ -345,9 +309,7 @@ company, except in so far as such dividends are paid to a resident of that other
 
 \5. The provisions of paragraphs 1, 2 and 3 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment. In such case, the provisions of Article 7 shall apply.
 
-*13*
-
-(THE REPUBLIC OF BOTSWANA) [S.L. 123.185 6. Interest shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment, then such interest shall be deemed to arise in the State in which the permanent establishment is situated.
+\6. Interest shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment, then such interest shall be deemed to arise in the State in which the permanent establishment is situated.
 
 \7. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Agreement.
 
@@ -365,11 +327,7 @@ company, except in so far as such dividends are paid to a resident of that other
 
 \2. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work (including cinematograph films and films, tapes or discs for radio or television broadcasting), any patent, trade mark, design or model, plan, secret formula or process, or for the use of or the right to use industrial, commercial, or scientific equipment or for information concerning industrial, commercial or scientific experience.
 
-\3. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein and the right [S.L. 123.185 (THE REPUBLIC OF BOTSWANA)
-
-or property in respect of which the royalties are paid is effectively connected with such permanent establishment. In such case, the provisions of Article 7 shall apply.
-
-*14*
+\3. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment. In such case, the provisions of Article 7 shall apply.
 
 \4. Royalties shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment in connection with which the right or property in respect of which the royalties are paid is effectively connected, and such royalties are borne by such permanent establishment, then such royalties shall be deemed to arise in the State in which the permanent establishment is situated.
 
@@ -387,11 +345,9 @@ or property in respect of which the royalties are paid is effectively connected 
 
 \4. Gains derived by a resident of a Contracting State from the alienation of shares deriving more than 50 percent of their value directly or indirectly from immovable property situated in the other Contracting State may be taxed in that other State.
 
-\5. Gains from the alienation of any property other than that referred to in paragraphs 1, 2, 3 and 4, shall be taxable only in the (THE REPUBLIC OF BOTSWANA) [S.L. 123.185 Contracting State of which the alienator is a resident.
+\5. Gains from the alienation of any property other than that referred to in paragraphs 1, 2, 3 and 4, shall be taxable only in the Contracting State of which the alienator is a resident.
 
 \6. Notwithstanding the provisions of paragraph 5, gains from the alienation of shares or other corporate rights of a company which is a resident of one of the Contracting States derived by an individual who was a resident of that State and who after acquiring such shares or rights has become a resident of the other Contracting State, may be taxed in the first-mentioned State if the alienation of the shares or other corporate rights occur at any time during the five years next following the date on which the individual has ceased to be a resident of that first-mentioned State.
-
-*15*
 
 **Article 14**
 
@@ -408,10 +364,6 @@ or property in respect of which the royalties are paid is effectively connected 
 (c) the remuneration is not borne by a permanent establishment which the employer has in the other State.
 
 \3. Notwithstanding the preceding provisions of this Article, remuneration derived in respect of an employment exercised aboard a ship or aircraft operated in international traffic by an enterprise of a Contracting State may be taxed in that State.
-
-*16*
-
-[S.L. 123.185 (THE REPUBLIC OF BOTSWANA)
 
 **Article 15**
 
@@ -437,11 +389,9 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 \2. The term "annuity" means a stated sum payable periodically at stated times during life or during a specified or ascertainable period of time under an obligation to make the payments in return for adequate and full consideration in money or money’s worth.
 
-\3. Notwithstanding the provisions of paragraph 1, pensions paid and other similar payments made under a public scheme which is (THE REPUBLIC OF BOTSWANA) [S.L. 123.185 part of the social security system of a Contracting State or a local authority thereof shall be taxable only in that State.
+\3. Notwithstanding the provisions of paragraph 1, pensions paid and other similar payments made under a public scheme which is part of the social security system of a Contracting State or a local authority thereof shall be taxable only in that State.
 
 **Article 18**
-
-*17*
 
 **GOVERNMENT SERVICE**
 
@@ -465,10 +415,6 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 A student, apprentice or business trainee who is present in a Contracting State solely for the purpose of his education or training and who is, or immediately before being so present was, a resident of the other Contracting State, shall be exempt from tax in the first mentioned State on payments received from outside that first-mentioned State for the purposes of his maintenance, education or training.
 
-*18*
-
-[S.L. 123.185 (THE REPUBLIC OF BOTSWANA)
-
 **Article 20**
 
 **TECHNICAL FEES**
@@ -485,9 +431,7 @@ A student, apprentice or business trainee who is present in a Contracting State 
 
 \6. Where by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the technical fees paid exceeds, for whatever reason, the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the law of each Contracting State, due regard being had to the other provisions of this Agreement.
 
-*19*
-
-(THE REPUBLIC OF BOTSWANA) [S.L. 123.185 Article 21
+**Article 21**
 
 **OTHER INCOME**
 
@@ -509,11 +453,7 @@ Double taxation shall be eliminated as follows:
 
 **NON-DISCRIMINATION**
 
-\1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and [S.L. 123.185 (THE REPUBLIC OF BOTSWANA)
-
-connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected. This provision shall, notwithstanding the provisions of Article 1, also apply to persons who are not residents of one or both of the Contracting States.
-
-*20*
+\1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected. This provision shall, notwithstanding the provisions of Article 1, also apply to persons who are not residents of one or both of the Contracting States.
 
 \2. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
 
@@ -529,9 +469,7 @@ connected requirements to which nationals of that other State in the same circum
 
 \1. Where a person considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Agreement, he may, irrespective of the remedies provided by the domestic laws of those States, present his case to the competent authority of the Contracting State of which he is a resident or, if his case comes under paragraph 1 of Article 23, to that of the Contracting State of which he is a national. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of this Agreement.
 
-*21*
-
-(THE REPUBLIC OF BOTSWANA) [S.L. 123.185 2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Agreement. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
+\2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Agreement. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
 
 \3. The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of this Agreement. They may also consult together for the elimination of double taxation in cases not provided for in this Agreement.
 
@@ -544,10 +482,6 @@ connected requirements to which nationals of that other State in the same circum
 (b) the competent authorities are unable to reach an agreement to resolve that case pursuant to paragraph 2 within three years from the presentation of the case to the competent authority of the other Contracting State,
 
 any unresolved issues arising from the case shall be submitted to arbitration if either competent authority so requests. The person who has presented the case shall be notified of the request. These unresolved issues shall not, however, be submitted to arbitration if a decision on these issues has already been rendered by a court or administrative tribunal of either State. The arbitration decision shall be binding on both States and shall be implemented notwithstanding any time limits in the domestic laws of these States unless both competent authorities agree on a different solution within six months after the decision has been communicated to them or unless a person directly affected by the case does not accept the mutual agreement that implements the arbitration decision. The competent authorities of the Contracting States shall by mutual agreement settle the mode of application of this paragraph.
-
-*22*
-
-[S.L. 123.185 (THE REPUBLIC OF BOTSWANA)
 
 **Article 25**
 
@@ -565,11 +499,9 @@ any unresolved issues arising from the case shall be submitted to arbitration if
 
 (c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information the disclosure of which would be contrary to public policy (ordre public).
 
-\4. If information is requested by a Contracting State in accordance with this Article, the other Contracting State shall use its information gathering measures to obtain the requested information, even though that other State may not need such information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall such limitations be (THE REPUBLIC OF BOTSWANA) [S.L. 123.185 construed to permit a Contracting State to decline to supply information solely because it has no domestic interest in such information.
+\4. If information is requested by a Contracting State in accordance with this Article, the other Contracting State shall use its information gathering measures to obtain the requested information, even though that other State may not need such information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall such limitations be construed to permit a Contracting State to decline to supply information solely because it has no domestic interest in such information.
 
 \5. In no case shall the provisions of paragraph 3 be construed to permit a Contracting State to decline to supply information solely because the information is held by a bank, other financial institution, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person.
-
-*23*
 
 **Article 26**
 
@@ -595,11 +527,7 @@ Nothing in this Agreement shall affect the fiscal privileges of members of diplo
 
 \2. The provisions of the Agreement shall apply:
 
-(a) in Malta, in respect of taxes on income derived during any calendar year or accounting period, as the case may be, beginning on or after the first day of January immediately [S.L. 123.185 (THE REPUBLIC OF BOTSWANA)
-
-following the date on which the Agreement enters into force.
-
-*24*
+(a) in Malta, in respect of taxes on income derived during any calendar year or accounting period, as the case may be, beginning on or after the first day of January immediately following the date on which the Agreement enters into force.
 
 (b) in Botswana,
 
@@ -623,9 +551,7 @@ following the date on which the Agreement enters into force.
 
 (ii) in respect of other taxes, for any year of assessment beginning on or after the first day of July next following the year in which the notice of termination is given.
 
-*25*
-
-(THE REPUBLIC OF BOTSWANA) [S.L. 123.185 IN WITNESS WHEREOF the undersigned, being duly authorized thereto by the respective Governments, have signed this Agreement.
+IN WITNESS WHEREOF the undersigned, being duly authorized thereto by the respective Governments, have signed this Agreement.
 
 Done and signed at ………………..…, this ……… day of …………………… 20....... in duplicate, in the English language only.
 

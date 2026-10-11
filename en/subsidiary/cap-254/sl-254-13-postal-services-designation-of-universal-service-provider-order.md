@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Postal Services (Designation of Universal Service Provider) Order (S.L. 254.13)
 
-POSTAL SERVICES
-
-*1*
-
-(DESIGNATION OF UNIVERSAL SERVICE PROVIDER) [S.L.254.13
-
 **SUBSIDIARY LEGISLATION 254.13**
 
 **POSTAL SERVICES (DESIGNATION OF**

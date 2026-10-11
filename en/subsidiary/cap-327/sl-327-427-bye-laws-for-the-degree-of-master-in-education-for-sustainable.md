@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master in Education for Sustainable Development under the auspices of the Centre for Environmental Education and Research (S.L. 327.427)
 
-DEVELOPMENT UNDER THE AUSPICES OF THE CENTRE
-
-*1*
-
-FOR ENVIRONMENTAL EDUCATION AND RESEARCH [S.L.327.427
-
 **SUBSIDIARY LEGISLATION 327.427**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER IN**
@@ -67,10 +61,6 @@ These bye-laws shall be applicable for courses commencing in October 2018 or lat
 
 (b) Applicants who obtain less than 50% for the professional aptitude and disposition criterion shall automatically not be admitted into the Course.
 
-*2*
-
-DEVELOPMENT UNDER THE AUSPICES OF THE CENTRE [S.L.327.427 FOR ENVIRONMENTAL EDUCATION AND RESEARCH
-
 (4) Senate, on the recommendation of the Board of Studies, shall determine the number of applicants that may be allowed to register for the course, depending on the availability of resources. The number of available places shall be announced at the time of the call for applications.
 
 (5) When the number is so limited and the number of eligible applicants exceeds the number of places available, applicants shall be selected according to the following criteria, which shall be weighted as follows:
@@ -111,13 +101,7 @@ The programme of study shall be published by the Board of Studies after approval
 
 (1) Students shall be required to submit an individual dissertation of approximately 25,000 words in accordance with the guidelines issued by the Board of Studies.
 
-(2) Work on the dissertation shall be undertaken during the third semester of the course. Each student shall be assigned a DEVELOPMENT UNDER THE AUSPICES OF THE CENTRE
-
-*3*
-
-FOR ENVIRONMENTAL EDUCATION AND RESEARCH [S.L.327.427
-
-supervisor who shall provide guidance and advice on a regular basis during the period of study.
+(2) Work on the dissertation shall be undertaken during the third semester of the course. Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
 
 (3) A provisional title of the dissertation and a detailed research proposal shall be submitted to the Board of Studies for approval by the end of the first semester if following the course full-time, or by the end of the second semester if following the course part-time.
 

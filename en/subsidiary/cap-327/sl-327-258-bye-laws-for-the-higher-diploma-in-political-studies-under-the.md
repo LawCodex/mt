@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Higher Diploma in Political Studies under the auspices of the Faculty of Economics, Management and Accountancy (S.L. 327.258)
 
-UNDER THE AUSPICES OF THE FACULTY
-
-*1*
-
-OF ECONOMICS, MANAGEMENT AND ACCOUNTANCY [S.L.327.258
-
 **SUBSIDIARY LEGISLATION 327.258**
 
 **BYE-LAWS FOR THE HIGHER DIPLOMA IN**
@@ -69,13 +63,9 @@ These bye-laws shall be applicable for courses commencing in October 2012 or lat
 
 (3) The interviewing board appointed by the Board shall be composed of at least three persons.
 
-(4) The Admissions Board, acting on the advice of the Board of Studies, may admit applicants in possession of the Diploma in UNDER THE AUSPICES OF THE FACULTY
+(4) The Admissions Board, acting on the advice of the Board of Studies, may admit applicants in possession of the Diploma in Political Studies into the third year of the course in terms of regulation 15(1) of the Admission Regulations of the University.
 
 \*These bye-laws have been repealed by Legal Notice 185 of 2022.
-
-*2*
-
-[S.L.327.258 OF ECONOMICS, MANAGEMENT AND ACCOUNTANCY Political Studies into the third year of the course in terms of regulation 15(1) of the Admission Regulations of the University.
 
 ## 4. Course duration.
 

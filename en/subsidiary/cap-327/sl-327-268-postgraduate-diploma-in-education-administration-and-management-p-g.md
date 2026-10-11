@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Postgraduate Diploma in Education (Administration and Management) - P.G. Dip. Ed. - Course Regulations (S.L. 327.268)
 
-POSTGRADUATE DIPLOMA IN EDUCATION (ADMINIS-
-
-*1*
-
-TRATION AND MANAGEMENT) - P.G. DIP. ED. - COURSE [S.L.327.268
-
 **SUBSIDIARY LEGISLATION 327.268**
 
 **POSTGRADUATE DIPLOMA IN EDUCATION**

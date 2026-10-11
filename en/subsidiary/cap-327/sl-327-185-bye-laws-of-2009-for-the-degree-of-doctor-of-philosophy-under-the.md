@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws of 2009 for the Degree of Doctor of Philosophy under the auspices of the Institute for European Studies (S.L. 327.185)
 
-UNDER THE AUSPICES OF
-
-*1*
-
-THE INSTITUTE FOR EUROPEAN STUDIES [S.L.327.185
-
 **SUBSIDIARY LEGISLATION 327.185**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR OF**
@@ -71,12 +65,6 @@ Applicants for the Degree offered by the Institute shall be in possession of one
 
 \*These bye-laws have been repealed by Legal Notice 220 of 2024.
 
-UNDER THE AUSPICES OF
-
-*2*
-
-[S.L.327.185 THE INSTITUTE FOR EUROPEAN STUDIES
-
 ## 4. Application form.
 
 (1) Applicants may submit their application form, together with a comprehensive research proposal outlining the proposed project, including research sources and materials, at any time of the year.
@@ -121,13 +109,9 @@ Students registered at the Institute may be required to participate in the Insti
 
 Six months before the submission deadline students shall be informed that they are required to inform the Institute that they will be submitting their thesis for examination not less than three months before the submission deadline.
 
-UNDER THE AUSPICES OF
+## 12. Board of Examiners. Re-numbered by: L.N. 388 of 2014.
 
-*3*
-
-THE INSTITUTE FOR EUROPEAN STUDIES [S.L.327.185 12. The Board shall recommend to Senate the appointment of the Board of Examiners in accordance with the Principal Regulations.
-
-*Board of Examiners. Re-numbered by: L.N. 388 of 2014.*
+The Board shall recommend to Senate the appointment of the Board of Examiners in accordance with the Principal Regulations.
 
 ## 13. Presentation and format. Re-numbered by: L.N. 388 of 2014.
 

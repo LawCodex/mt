@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Registration of Childcare Facilities as Educational Establishments Regulations (S.L. 327.323)
 
-*1*
-
-AS EDUCATIONAL ESTABLISHMENTS [S.L.327.323
-
 **SUBSIDIARY LEGISLATION 327.323**
 
 **REGISTRATION OF CHILDCARE FACILITIES**
@@ -68,10 +64,6 @@ In these regulations, unless the context otherwise requires:
 *Amended by: XXIX.2019.71. Cap. 605.*
 
 When the facility applying for registration under these regulations is also licensed to operate a school under the Education Act, the programme offered by the facility shall not be the same as the programme of studies offered by the school.
-
-*2*
-
-[S.L.327.323 AS EDUCATIONAL ESTABLISHMENTS
 
 ## 5. Fees and other expenses.
 

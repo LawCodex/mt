@@ -15,13 +15,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Science (Honours) in Business and Information Technology - B.Sc.(Hons) Bus. &amp; IT - under the auspices of the Faculty of Economics, Management and Accountancy (S.L. 327.448)
 
-INFORMATION TECHNOLOGY - B.Sc. (HONS.) BUS. & IT - UNDER
-
-THE AUSPICES OF THE FACULTY OF ECONOMICS, MANAGEMENT
-
-*1*
-
-AND ACCOUNTANCY [S.L.327.448 SUBSIDIARY LEGISLATION 327.448
+**SUBSIDIARY LEGISLATION 327.448**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF SCIENCE (HONOURS) IN BUSINESS &
 
@@ -69,11 +63,7 @@ The course shall extend over a period of three years of full-time study.
 
 ## 5. Programme of study. Re-numbered by: L.N. 37 of 2014.
 
-The Board shall publish the programme of study at the commencement of each course, following the approval of Senate. Subject to changes that the Board may, with the approval of Senate, be constrained to make, students are bound to follow the study-units and obtain the credits as indicated in the programme of study for the Degree, provided that the programme of study is drawn up in accordance with the relevant provisions of the Principal INFORMATION TECHNOLOGY - B.Sc. (HONS.) BUS. & IT - UNDER THE AUSPICES OF THE FACULTY OF ECONOMICS, MANAGEMENT [S.L.327.448 AND ACCOUNTANCY
-
-Regulations.
-
-*2*
+The Board shall publish the programme of study at the commencement of each course, following the approval of Senate. Subject to changes that the Board may, with the approval of Senate, be constrained to make, students are bound to follow the study-units and obtain the credits as indicated in the programme of study for the Degree, provided that the programme of study is drawn up in accordance with the relevant provisions of the Principal Regulations.
 
 ## 6. Credits. Re-numbered by: L.N. 37 of 2014.
 

@@ -1,6 +1,6 @@
 ---
 title: "Notice of Effective Date Order"
-identifier: "S.L. 201.1"
+identifier: "S.L. 201.01"
 eli: "https://legislation.mt/eli/sl/201.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/201.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Notice of Effective Date Order (S.L. 201.1)
+# Notice of Effective Date Order (S.L. 201.01)
 
 **SUBSIDIARY LEGISLATION 201.01**
 

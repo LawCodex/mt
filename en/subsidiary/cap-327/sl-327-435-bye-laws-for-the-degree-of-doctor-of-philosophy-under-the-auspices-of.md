@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy under the auspices of the Institute for Tourism, Travel and Culture (S.L. 327.435)
 
-THE AUSPICES OF THE INSTITUTE FOR
-
-*1*
-
-TOURISM, TRAVEL AND CULTURE [S.L.327.435
-
 **SUBSIDIARY LEGISLATION 327.435**
 
 BYE-LAWS FOR THE DEGREE OF DOCTOR OF
@@ -67,15 +61,9 @@ Tourism, Economics, Finance, Management, Marketing, Public Policy, and Social Po
 
 (c) a Master of Business Administration degree of the University of Malta or another approved University together with a Bachelor’s degree obtained with at least a Second Class Honours from the University of Malta or another approved University;
 
-(d) a Bachelor’s degree obtained with First Class Honours or Second Class Honours (Upper Division) of the University of Malta or another University in the areas of Tourism, Economics, Finance, Management, THE AUSPICES OF THE INSTITUTE FOR
+(d) a Bachelor’s degree obtained with First Class Honours or Second Class Honours (Upper Division) of the University of Malta or another University in the areas of Tourism, Economics, Finance, Management, Marketing, Public Policy, Social Policy, History, Architecture or in a related area of study as approved by the Institute’s Doctoral Committee,
 
 \*These regulations have been repealed by Legal Notice 159 of 2024.
-
-*2*
-
-[S.L.327.435 TOURISM, TRAVEL AND CULTURE
-
-Marketing, Public Policy, Social Policy, History, Architecture or in a related area of study as approved by the Institute’s Doctoral Committee,
 
 provided that in all cases mentioned in sub-paragraphs (a) to (d) of this bye-law, the Institute’s Doctoral Committee:
 
@@ -115,11 +103,7 @@ Students registered at the Institute may be required to participate in the Insti
 
 ## 10. Presentation of thesis.
 
-Six months before the submission deadline students shall be informed that they are required to inform the Institute that they THE AUSPICES OF THE INSTITUTE FOR
-
-*3*
-
-TOURISM, TRAVEL AND CULTURE [S.L.327.435 will be submitting their thesis for examination not less than three months before the submission deadline.
+Six months before the submission deadline students shall be informed that they are required to inform the Institute that they will be submitting their thesis for examination not less than three months before the submission deadline.
 
 ## 11. Board of Examiners.
 

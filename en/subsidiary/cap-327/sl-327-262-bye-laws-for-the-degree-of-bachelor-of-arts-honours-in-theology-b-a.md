@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Arts (Honours) in Theology - B.A. (Hons) Theology - under the auspices of the Faculty of Theology (S.L. 327.262)
 
-IN THEOLOGY - B.A. (HONS) THEOLOGY - UNDER
-
-*1*
-
-THE AUSPICES OF THE FACULTY OF THEOLOGY [S.L.327.262
-
 **SUBSIDIARY LEGISLATION 327.262**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF ARTS (HONOURS) IN THEOLOGY - B.A. (HONS)
@@ -76,11 +70,11 @@ The Degree is awarded either in Theology as the single Honours Main area of stud
 
 The Course shall extend over a period of three years of full-time study or the equivalent in part-time study.
 
-*2*
+## 6. Course programme.
 
-IN THEOLOGY - B.A. (HONS) THEOLOGY - UNDER [S.L.327.262 THE AUSPICES OF THE FACULTY OF THEOLOGY 6. (1)The programme of study for Theology as the single Honours Main area of study shall comprise study-units in Theology, Philosophy, and related areas to which 180 ECTS credits shall be assigned.
+*Substituted by: L.N. 217 of 2010; L.N. 351 of 2020.*
 
-*Course programme. Substituted by: L.N. 217 of 2010; L.N. 351 of 2020.*
+(1)The programme of study for Theology as the single Honours Main area of study shall comprise study-units in Theology, Philosophy, and related areas to which 180 ECTS credits shall be assigned.
 
 (2) The programme of study for Theology as the Honours Main area of study with a subsidiary area of study shall include study-units to which 180 ECTS credits shall be assigned, of which not less than 110 ECTS credits shall be assigned to Theology and related areas, and not less than 36 ECTS credits shall be assigned to study-units in the subsidiary area of study.”
 
@@ -130,11 +124,7 @@ The provisions of the foregoing bye-laws shall apply mutatis mutandis to any cou
 
 *Added by: L.N. 22 of 2024.*
 
-The Course may be offered on a flexible part-time basis with the following special provisions in terms of the provisions IN THEOLOGY - B.A. (HONS) THEOLOGY - UNDER
-
-*3*
-
-THE AUSPICES OF THE FACULTY OF THEOLOGY [S.L.327.262 outlined in the General Regulations for University Undergraduate Awards, 2019 applicable with the necessary changes needed (mutatis mutandis) owing to the part-time nature of the Course.
+The Course may be offered on a flexible part-time basis with the following special provisions in terms of the provisions outlined in the General Regulations for University Undergraduate Awards, 2019 applicable with the necessary changes needed (mutatis mutandis) owing to the part-time nature of the Course.
 
 (a) During each academic year, students shall be allowed to register for a number of study-units as agreed with the Course Coordinator, to which not less than 12 ECTS credits are assigned, provided that registration for the study-units included in the programme of study for each Course year (60 ECTS credits) is spread over not more than three academic years.
 
@@ -146,11 +136,7 @@ THE AUSPICES OF THE FACULTY OF THEOLOGY [S.L.327.262 outlined in the General Reg
 
 (e) The assessment of study-units that may be referred to the next academic year shall be considered as additional to the minimum number of credits (12 ECTS credits) that students are obliged to register for during any academic year.
 
-(f) Students who, after having registered for all the study-units comprising the programme of a Course year, and after the September assessment session lack more than 12 ECTS credits to complete the programme for the Course year, may be allowed, if eligible and after academic advice, to refer them to the next academic year during which they shall not be allowed to register for any other study-units. If such an academic year is needed in addition to the maximum period of three years referred to in paragraph (b) of this bye-law, it shall be considered as an additional academic year. (g) Students who, after having registered for all the study-units comprising the programme of the final Course year, may, if necessary and if eligible, refer any incomplete study-units to an additional academic year. (h) An additional academic year, whether required in terms of paragraphs (f) or (g) of this bye-law may be granted once only throughout the Course, unless in special circumstances and with the approval of Senate. (i) Students registered on the flexible part-time programme must obtain the approval of the Course IN THEOLOGY - B.A. (HONS) THEOLOGY - UNDER THE AUSPICES OF THE FACULTY OF THEOLOGY
-
-Coordinator before they are registered on the study-units they wish to follow in any academic year.
-
-*[S.L.327.262 4*
+(f) Students who, after having registered for all the study-units comprising the programme of a Course year, and after the September assessment session lack more than 12 ECTS credits to complete the programme for the Course year, may be allowed, if eligible and after academic advice, to refer them to the next academic year during which they shall not be allowed to register for any other study-units. If such an academic year is needed in addition to the maximum period of three years referred to in paragraph (b) of this bye-law, it shall be considered as an additional academic year. (g) Students who, after having registered for all the study-units comprising the programme of the final Course year, may, if necessary and if eligible, refer any incomplete study-units to an additional academic year. (h) An additional academic year, whether required in terms of paragraphs (f) or (g) of this bye-law may be granted once only throughout the Course, unless in special circumstances and with the approval of Senate. (i) Students registered on the flexible part-time programme must obtain the approval of the Course Coordinator before they are registered on the study-units they wish to follow in any academic year.
 
 *(j)*
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Republic of Estonia Order (S.L. 123.67)
 
-*1*
-
-WITH THE REPUBLIC OF ESTONIA [S.L.123.67
-
 SUBSIDIARY LEGISLATION 123.67
 
 DOUBLE TAXATION RELIEF ON TAXES ON
@@ -46,8 +42,6 @@ It is hereby declared:
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Convention has entered into force on the 22nd January, 2003.
-
-2 [S.L.123.67 WITH THE REPUBLIC OF ESTONIA
 
 ## SCHEDULE — CONVENTION — BETWEEN THE GOVERNMENT OF MALTA
 
@@ -107,9 +101,7 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 (a) the term ''Estonia'' means the Republic of Estonia and, when used in the geographical sense, means the territory of Estonia and any other area adjacent to the territorial waters of Estonia within which under the laws of Estonia and in accordance with international law, the rights of Estonia may be exercised with respect to the sea bed and its sub-soil and their natural resources;
 
-(b) the term ''Malta'' means the Republic of Malta and, when used in a WITH THE REPUBLIC OF ESTONIA [S.L.123.67 3
-
-geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein the Republic of Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
+(b) the term ''Malta'' means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein the Republic of Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
 
 (c) the terms ''a Contracting State'' and ''the other Contracting State'' mean Estonia or Malta, as the context requires;
 
@@ -143,9 +135,7 @@ geographical sense, means the Island of Malta, the Island of Gozo and the other 
 
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
-(a) he shall be deemed to be a resident only of the State in which he has a permanent home available to him; if he has a permanent home available 4 [S.L.123.67 WITH THE REPUBLIC OF ESTONIA
-
-to him in both States, he shall be deemed to be a resident only of the State with which his personal and economic relations are closer (centre of vital interests);
+(a) he shall be deemed to be a resident only of the State in which he has a permanent home available to him; if he has a permanent home available to him in both States, he shall be deemed to be a resident only of the State with which his personal and economic relations are closer (centre of vital interests);
 
 (b) if the State in which he has his centre of vital interests cannot be determined, or if he has not a permanent home available to him in either State, he shall be deemed to be a resident only of the State in which he has an habitual abode;
 
@@ -189,8 +179,6 @@ Notwithstanding the preceding provisions of this Article, the term ''permanent e
 
 (b) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of storage, display or delivery;
 
-WITH THE REPUBLIC OF ESTONIA [S.L.123.67 5
-
 (c) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of processing by another enterprise;
 
 (d) the maintenance of a fixed place of business solely for the purpose of purchasing goods or merchandise, or of collecting information, for the enterprise;
@@ -221,8 +209,6 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
-6 [S.L.123.67 WITH THE REPUBLIC OF ESTONIA
-
 \4. Where the ownership of shares or other corporate rights in a company entitles the owner of such shares or corporate rights to the enjoyment of immovable property held by the company, the income from the direct use, letting, or use in any other form of such right to enjoyment may be taxed in the Contracting State in which the immovable property is situated.
 
 \5. The provisions of paragraphs 1, 3 and 4 shall also apply to the income from immovable property of an enterprise and to income from immovable property used for the performance of independent personal services.
@@ -249,7 +235,7 @@ Where profits include items of income which are dealt with separately in other A
 
 ## 8.
 
-Nothing in this Article shall prevent a Contracting State from applying its law relating to the taxation of any person who carries on the business of insurance. WITH THE REPUBLIC OF ESTONIA [S.L.123.67 7
+Nothing in this Article shall prevent a Contracting State from applying its law relating to the taxation of any person who carries on the business of insurance.
 
 **Article 8**
 
@@ -287,9 +273,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 (ii) 15 per cent of the gross amount of the dividends in all other cases;
 
-(b) where the dividends are paid by a company which is a resident of Malta 8 [S.L.123.67 WITH THE REPUBLIC OF ESTONIA
-
-to a resident of Estonia who is the beneficial owner thereof, Malta tax on the gross amount of the dividends shall not exceed that chargeable on the profits out of which the dividends are paid.
+(b) where the dividends are paid by a company which is a resident of Malta to a resident of Estonia who is the beneficial owner thereof, Malta tax on the gross amount of the dividends shall not exceed that chargeable on the profits out of which the dividends are paid.
 
 This paragraph shall not affect the taxation of the company in respect of the profits out of which the dividends are paid.
 
@@ -311,9 +295,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \4. The term ''interest'' as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor’s profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. The term ''interest'' shall not include any income which is treated as a dividend under the provisions of Article 10. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
-\5. The provisions of paragraphs 1, 2 and 3 shall not apply if the beneficial WITH THE REPUBLIC OF ESTONIA [S.L.123.67 9
-
-owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
+\5. The provisions of paragraphs 1, 2 and 3 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \6. Interest shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment or fixed base, then such interest shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
@@ -331,9 +313,7 @@ owner of the interest, being a resident of a Contracting State, carries on busin
 
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
-\5. Royalties shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent 10 [S.L.123.67 WITH THE REPUBLIC OF ESTONIA
-
-establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
+\5. Royalties shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
 \6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
@@ -356,8 +336,6 @@ establishment or fixed base, then such royalties shall be deemed to arise in the
 \1. Income derived by an individual who is a resident of a Contracting State in respect of professional services or other activities of an independent character shall be taxable only in that State unless he has a fixed base regularly available to him in the other Contracting State for the purpose of performing his activities. If he has such a fixed base, the income may be taxed in the other State but only so much of it as is attributable to that fixed base. If an individual who is a resident of a Contracting State has no such fixed base but he stays in the other Contracting State for a period or periods exceeding in the aggregate 183 days in any twelve month period commencing or ending in the fiscal year concerned, he shall be deemed to have a fixed base regularly available to him in that other State and the income that is derived from his activities referred to above that are performed in that other State shall be attributable to that fixed base.
 
 \2. The term ''professional services'' includes especially independent scientific, literary, artistic, educational or teaching activities as well as the independent activities of physicians, lawyers, engineers, architects, dentists and accountants.
-
-WITH THE REPUBLIC OF ESTONIA [S.L.123.67 11
 
 **Article 15**
 
@@ -390,8 +368,6 @@ Directors’ fees and other similar remuneration derived by a resident of a Cont
 \2. Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman himself but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the entertainer or sportsman are exercised.
 
 \3. The provisions of paragraphs 1 and 2 shall not apply to income derived from activities exercised in a Contracting State by an entertainer or a sportsman if the visit to that State is wholly or mainly supported by public funds of one or both of the Contracting States or local authorities thereof. In such case, the income shall be taxable only in the Contracting State of which the entertainer or sportsman is a resident.
-
-12 [S.L.123.67 WITH THE REPUBLIC OF ESTONIA
 
 **Article 18**
 
@@ -431,9 +407,7 @@ A student, an apprentice or a trainee who is present in a Contracting State sole
 
 \1. Items of income of a resident of a Contracting State, wherever arising, not dealt with in the foregoing Articles of this Convention shall be taxable only in that State. However, such items of income, arising in the other Contracting State, may also be taxed in that other State.
 
-\2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income, being a resident of a Contracting State, carries on business in the other WITH THE REPUBLIC OF ESTONIA [S.L.123.67 13
-
-Contracting State through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
+\2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 **Article 22**
 
@@ -457,8 +431,6 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 \2. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
 
-14 [S.L.123.67 WITH THE REPUBLIC OF ESTONIA
-
 \3. Except where the provisions of paragraph 1 of Article 9, paragraph 7 of Article 11, or paragraph 6 of Article 12, apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
 
 \4. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
@@ -479,9 +451,7 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 **EXCHANGE OF INFORMATION**
 
-\1. The competent authorities of the Contracting States shall exchange such information as is necessary for carrying out the provisions of this Convention or of the domestic laws of the Contracting States concerning taxes covered by the Convention insofar as the taxation thereunder is not contrary to the Convention. The exchange of information is not restricted by Article 1. Any information received by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by the Convention. Such persons or authorities shall use the information only for such purposes. They may WITH THE REPUBLIC OF ESTONIA [S.L.123.67 15
-
-disclose the information in public court proceedings or in judicial decisions.
+\1. The competent authorities of the Contracting States shall exchange such information as is necessary for carrying out the provisions of this Convention or of the domestic laws of the Contracting States concerning taxes covered by the Convention insofar as the taxation thereunder is not contrary to the Convention. The exchange of information is not restricted by Article 1. Any information received by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by the Convention. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
 
 \2. In no case shall the provisions of paragraph 1 be construed so as to impose on a Contracting State the obligation:
 
@@ -517,8 +487,6 @@ Nothing in this Convention shall affect the fiscal privileges of members of dipl
 
 (a) in Estonia:
 
-16 [S.L.123.67 WITH THE REPUBLIC OF ESTONIA
-
 (i) in respect of taxes withheld at source, on income derived on or after the first day of January in the calendar year next following the year in which the Convention enters into force;
 
 (ii) in respect of other taxes on income, for taxes chargeable for any fiscal year beginning on or after the first day of January in the calendar year next following the year in which the Convention enters into force;
@@ -553,8 +521,6 @@ For the Government of For the Government of
 
 Malta the Republic of Estonia
 
-WITH THE REPUBLIC OF ESTONIA [S.L.123.67 17
-
 **PROTOCOL**
 
 At the signing of the Convention between the Government of the Republic of Estonia and the Government of Malta for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income (hereinafter referred to as ''the Convention'') the undersigned have agreed upon the following provisions which form an integral part of the Convention.
@@ -585,9 +551,7 @@ It is understood that the expenses to be allowed as deductions by a Contracting 
 
 (iii) persons entitled to any special tax benefit in respect of distributions by a trust subject to the provisions of the Trusts Act given that a trust as laid down in that Act is not vested with legal personality and therefore cannot benefit under this Convention in its own right;
 
-(c) if any law substantially similar to those indicated in sub-paragraph (b) of this paragraph is enacted by either Contracting State and it is agreed by the competent authorities of the Contracting States that it be included 18 [S.L.123.67 WITH THE REPUBLIC OF ESTONIA
-
-within the terms of paragraph 2 of Article 26, persons entitled to any special tax benefit thereunder shall likewise be excluded from the provisions of this Convention.
+(c) if any law substantially similar to those indicated in sub-paragraph (b) of this paragraph is enacted by either Contracting State and it is agreed by the competent authorities of the Contracting States that it be included within the terms of paragraph 2 of Article 26, persons entitled to any special tax benefit thereunder shall likewise be excluded from the provisions of this Convention.
 
 In witness whereof, the undersigned, duly authorised thereto, have signed this Protocol.
 

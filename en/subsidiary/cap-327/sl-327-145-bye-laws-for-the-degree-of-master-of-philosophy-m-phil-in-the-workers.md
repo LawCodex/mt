@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Philosophy - M.Phil. - in the Workers' Participation Development Centre (S.L. 327.145)
 
-DEGREE OF MASTER OF PHILOSOPHY - M.PHIL. - IN THE
-
-*1*
-
-WORKERS’ PARTICIPATION DEVELOPMENT CENTRE [S.L.327.145
-
 **SUBSIDIARY LEGISLATION 327.145**
 
 BYE-LAWS FOR THE DEGREE OF MASTER OF PHILOSOPHY - M.PHIL. - IN THE WORKERS’

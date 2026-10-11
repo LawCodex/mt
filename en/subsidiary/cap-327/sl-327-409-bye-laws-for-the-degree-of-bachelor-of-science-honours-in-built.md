@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Science (Honours) in Built Environment Studies - B.Sc. (Hons) - under the auspices of the Faculty for the Built Environment (S.L. 327.409)
 
-IN BUILT ENVIRONMENT STUDIES - B.Sc. (Hons) - UNDER THE
-
-*1*
-
-AUSPICES OF THE FACULTY FOR THE BUILT ENVIRONMENT [S.L.327.409
-
 **SUBSIDIARY LEGISLATION 327.409**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF SCIENCE (HONOURS) IN BUILT ENVIRONMENT STUDIES - B.Sc. (Hons) - UNDER THE AUSPICES
@@ -69,11 +63,9 @@ To be registered as regular students in the course, applicants shall, apart from
 
 (c) a pass at Intermediate Matriculation Level in one of the following subjects: Applied Mathematics (Mechanics) (unless offered at Advanced Matriculation Level), Art, Chemistry, Computing, Engineering Drawing and Graphical Communication, English, History, Information Technology, Philosophy, Pure Mathematics (unless offered at Advanced Matriculation Level), and Sociology.
 
-*2*
+## 4. Course duration.
 
-IN BUILT ENVIRONMENT STUDIES - B.Sc. (Hons) - UNDER THE [S.L.327.409 AUSPICES OF THE FACULTY FOR THE BUILT ENVIRONMENT 4. The course shall extend over a period of three years of full-time study.
-
-*Course duration.*
+The course shall extend over a period of three years of full-time study.
 
 ## 5. Programme of study.
 

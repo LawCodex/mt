@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Criminology - M.A. (Crim.) - under the auspices of the Faculty for Social Wellbeing (S.L. 327.471)
 
-(CRIM.) - UNDER THE AUSPICES OF THE FACULTY
-
-*1*
-
-FOR SOCIAL WELLBEING [S.L.327.471
-
 **SUBSIDIARY LEGISLATION 327.471**
 
 **BYE-LAWS FOR DEGREE OF MASTER OF**
@@ -73,11 +67,7 @@ These bye-laws shall be applicable for courses commencing in October 2019 or lat
 
 (3) The interviewing board appointed by the Board shall be composed of at least three members.
 
-(4) The Board shall recommend to Senate the number of (CRIM.) - UNDER THE AUSPICES OF THE FACULTY [S.L.327.471 FOR SOCIAL WELLBEING
-
-applicants that may be allowed to register for the course, depending on the availability of resources. The Board shall announce the number of available places at the time of the call for applications.
-
-*2*
+(4) The Board shall recommend to Senate the number of applicants that may be allowed to register for the course, depending on the availability of resources. The Board shall announce the number of available places at the time of the call for applications.
 
 (5) When the number of places is so limited and the number of eligible applicants exceeds the number of places available, applicants will be selected using the following criteria, the weighting of which shall be published at the time of the call for applications:
 
@@ -115,13 +105,9 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 (3) Students who after re-assessment fail to obtain credit for any study-unit shall be required to withdraw from the course.
 
-(CRIM.) - UNDER THE AUSPICES OF THE FACULTY
+## 8. Dissertation.
 
-*3*
-
-FOR SOCIAL WELLBEING [S.L.327.471 8. (1) Students shall be required to submit an individual dissertation of approximately 40,000 to 50,000 words in accordance with the guidelines issued by the Board of Studies.
-
-*Dissertation.*
+(1) Students shall be required to submit an individual dissertation of approximately 40,000 to 50,000 words in accordance with the guidelines issued by the Board of Studies.
 
 (2) Work on the dissertation may be undertaken at any time during the course after approval of the research proposal. Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
 

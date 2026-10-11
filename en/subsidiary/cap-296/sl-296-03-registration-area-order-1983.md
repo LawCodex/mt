@@ -1,6 +1,6 @@
 ---
 title: "Registration Area Order (1983)"
-identifier: "S.L. 296.3"
+identifier: "S.L. 296.03"
 eli: "https://legislation.mt/eli/sl/296.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/296.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Registration Area Order (1983) (S.L. 296.3)
+# Registration Area Order (1983) (S.L. 296.03)
 
 **SUBSIDIARY LEGISLATION 296.03**
 

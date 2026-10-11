@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Statute to Regulate Traffic on University Campus - Clamping and Removal of Encumbering Objects (S.L. 327.422)
 
-*1*
-
-\- CLAMPING AND REMOVAL OF ENCUMBERING OBJECTS [S.L.327.422
-
 **SUBSIDIARY LEGISLATION 327.422**
 
 **STATUTE TO REGULATE TRAFFIC**
@@ -66,11 +62,7 @@ The Precincts Office is responsible for the traffic management at the University
 
 ## 5. Responsibility for loss, damages or theft.
 
-Vehicle owners are themselves responsible for loss, damages or theft to their vehicles and, or their contents whilst the vehicles are on University property. The University assumes no responsibility for the damage to or theft of any vehicle or its contents whilst the vehicle is parked or driven on campus. The University is not responsible for damage that may occur whilst a [S.L.327.422 - CLAMPING AND REMOVAL OF ENCUMBERING OBJECTS
-
-vehicle is impounded, relocated, or when a Public Safety Officer or other employee is assisting in a help-related service.
-
-*2*
+Vehicle owners are themselves responsible for loss, damages or theft to their vehicles and, or their contents whilst the vehicles are on University property. The University assumes no responsibility for the damage to or theft of any vehicle or its contents whilst the vehicle is parked or driven on campus. The University is not responsible for damage that may occur whilst a vehicle is impounded, relocated, or when a Public Safety Officer or other employee is assisting in a help-related service.
 
 ## 6. Enforcement of Statute to Regulate Traffic.
 
@@ -108,11 +100,7 @@ Any measure taken by the University under this Statute shall not prejudice crimi
 
 ## 14. Applicability of traffic and parking regulations.
 
-The traffic and parking regulations as specified in this Statute shall apply twenty-four (24) hours a day, seven (7) days a - CLAMPING AND REMOVAL OF ENCUMBERING OBJECTS [S.L.327.422
-
-week including holidays.
-
-*3*
+The traffic and parking regulations as specified in this Statute shall apply twenty-four (24) hours a day, seven (7) days a week including holidays.
 
 ## 15. Changes to Statute to Regulate Traffic.
 
@@ -148,11 +136,7 @@ Parking is not permitted:
 
 ## 18. Reserved parking slots.
 
-Reserved parking slots are available for the University high officials, Deans and Directors. Reserved parking slot holders may not park in any parking space other than their own. Reserved parking slot holders may authorize others to park in their allotted slot granted they duly notify the Precincts Office. University [S.L.327.422 - CLAMPING AND REMOVAL OF ENCUMBERING OBJECTS
-
-reserved spaces include:
-
-*4*
+Reserved parking slots are available for the University high officials, Deans and Directors. Reserved parking slot holders may not park in any parking space other than their own. Reserved parking slot holders may authorize others to park in their allotted slot granted they duly notify the Precincts Office. University reserved spaces include:
 
 (a) temporary-Reserved: parking slots, which will be clearly marked by the use of cones and, or barricades, can be reserved for a time period for specific individuals or groups;
 
@@ -184,11 +168,7 @@ Parking permits are available as follows:
 
 (e) to graduates of the University. These visitors may obtain a University of Malta Alumni Card from the Communications and Alumni Office which will entitle them to daily visitor parking permits. Parking for graduates is restricted to white spaces;
 
-(f) to the visitors of the University. Visitors are required to display a valid visitor parking permit for each day they wish to park on campus. Permits may be obtained from the main entrance to campus against evidence of the need for entry. Parking for visitors will be - CLAMPING AND REMOVAL OF ENCUMBERING OBJECTS [S.L.327.422
-
-available on all non-reserved parking spaces;
-
-*5*
+(f) to the visitors of the University. Visitors are required to display a valid visitor parking permit for each day they wish to park on campus. Permits may be obtained from the main entrance to campus against evidence of the need for entry. Parking for visitors will be available on all non-reserved parking spaces;
 
 (g) to non-employee group permits. These must be sought from the Precincts Office in advance on condition the host department or individual confirms to the Office the need of a non-employee parking permit;
 
@@ -206,11 +186,7 @@ Failure to observe rules and regulations in this Statute can lead to the followi
 
 (d) the University shall publish a Notice of Removal at the Security main gate or at the Precincts Office, describing the encumbering object removed and indicating the exact location from where it was removed and the holding ground from where it can be retrieved;
 
-(e) abandoned vehicles on University premises whose owners cannot be traced, will be reported to the [S.L.327.422 - CLAMPING AND REMOVAL OF ENCUMBERING OBJECTS
-
-**Maltese Police Force for further action.**
-
-*6*
+(e) abandoned vehicles on University premises whose owners cannot be traced, will be reported to the Maltese Police Force for further action.
 
 ## 23. Charges.
 
@@ -244,11 +220,7 @@ In addition to the possibility of the withdrawal of a parking permit pursuant to
 
 (ii) students, University employees or visitors failing to pay the fine may have their vehicle impounded; or
 
-(iii) students or University employees failing to pay the fine may result in the withdrawal of their respective - CLAMPING AND REMOVAL OF ENCUMBERING OBJECTS [S.L.327.422
-
-parking permit, either for a temporary period or permanently.
-
-*7*
+(iii) students or University employees failing to pay the fine may result in the withdrawal of their respective parking permit, either for a temporary period or permanently.
 
 ## 25. Unauthorised removal of wheel clamps.
 

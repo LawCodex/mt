@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Fees payable for the Issue of Excise Stamps or Bands under Part C of the Sixth Schedule to the Excise Duty Act Regulations (S.L. 35.32)
 
-FEES PAYABLE FOR THE ISSUE OF EXCISE STAMPS OR
-
-BANDS UNDER PART C OF THE SIXTH SCHEDULE
-
-*1*
-
-TO THE EXCISE DUTY ACT [S.L.35.32
-
 **SUBSIDIARY LEGISLATION 35.32**
 
 **FEES PAYABLE FOR THE ISSUE OF EXCISE**

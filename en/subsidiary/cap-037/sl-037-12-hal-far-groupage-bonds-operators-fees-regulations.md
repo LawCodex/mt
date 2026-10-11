@@ -33,16 +33,10 @@ The title of these regulations is the }al Far Groupage Bonds Operators Fees Regu
 
 (1) There shall be charged by the Comptroller of Customs, for the issue of a permit to operate a groupage bond at the }al Far Groupage Bonds Complex, a fee of nine thousand and three hundred and seventeen euros and forty-nine cents (9,317.49) per annum for a warehouse with a floor area measuring 465 square metres.
 
-(2) The fee payable under these regulations shall be reviewable every five years from the 29th August, 1994 and shall be determined according to the rate of inflation in the retail price
+(2) The fee payable under these regulations shall be reviewable every five years from the 29th August, 1994 and shall be determined according to the rate of inflation in the retail price index, or in any similar index replacing it, published yearly in the Government Gazette.
 
-index, or in any similar index replacing it, published yearly in the  
-Government Gazette.  
-(3) Where a warehouse as described in this regulation is  
-allocated to more than one groupage bond operator, such fee shall  
-be apportioned pro rata in terms of the floor area allocated to each  
-operator, provided that the total sum paid by the respective  
-operators shall be equal to that specified in this regulation.  
-(4) The payment of any fee shall be subject to any other  
-conditions governing the appointment of a bonded warehouse for  
-groupage cargo at the }al Far Groupage Bonds Complex in terms  
-of article 27 of the Customs Ordinance.  Cap. 37.
+(3) Where a warehouse as described in this regulation is allocated to more than one groupage bond operator, such fee shall be apportioned pro rata in terms of the floor area allocated to each operator, provided that the total sum paid by the respective operators shall be equal to that specified in this regulation.
+
+(4) The payment of any fee shall be subject to any other conditions governing the appointment of a bonded warehouse for groupage cargo at the }al Far Groupage Bonds Complex in terms of article 27 of the Customs Ordinance.
+
+*Cap. 37.*

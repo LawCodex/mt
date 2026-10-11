@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Conduct of the Matriculation and Secondary Education Certificate Examination Regulations (S.L. 327.66)
 
-*1*
-
-EDUCATION CERTIFICATE EXAMINATIONS [S.L.327.66
-
 **SUBSIDIARY LEGISLATION 327.66**
 
 **CONDUCT OF THE MATRICULATION AND**
@@ -66,11 +62,7 @@ The composition of each of the panels shall be as follows:
 
 (a) In the case of the Secondary Education Certificate Examination:
 
-(i) a Syllabus Panel shall be composed of representatives from the academic staff of the University, the competent Directorate of the Ministry responsible for Education, the Malta College of Arts, Science and Technology (MCAST), the Institute for Tourism Studies (ITS), the Church Schools’ Association and the [S.L.327.66 EDUCATION CERTIFICATE EXAMINATIONS
-
-Independent Schools Association, as appropriate;
-
-*2*
+(i) a Syllabus Panel shall be composed of representatives from the academic staff of the University, the competent Directorate of the Ministry responsible for Education, the Malta College of Arts, Science and Technology (MCAST), the Institute for Tourism Studies (ITS), the Church Schools’ Association and the Independent Schools Association, as appropriate;
 
 (ii) the number of academic staff of the University shall, as far as possible, not exceed half the total number of members of the panels; and
 
@@ -94,11 +86,7 @@ Independent Schools Association, as appropriate;
 
 *S.L. 327.55*
 
-(b) In the case of subjects marked with an asterisk in regulation 4(1) of the Secondary Education Certificate Examination Regulations, the Paper Setters’ Panel EDUCATION CERTIFICATE EXAMINATIONS [S.L.327.66
-
-shall set the controlled assessments and the synoptic tests as specified in the syllabi. These assessments must be submitted to the MATSEC for printing by not later than the date established by the MATSEC Board. (3) Markers’ Panel: Members of any Markers’ Panel shall be responsible for the marking of the examination scripts allotted to them by the person chairing the panel, according to the mark scheme agreed to by the Paper Setters’ Panel. The person chairing the panel shall not mark any scripts but shall read a representative sample and shall act as moderator to ensure that all the markers are adhering to the same standards. The Markers’ Panels shall take into account the moderated school based assessment, oral examinations and other forms of assessment as provided for by the syllabus. Members of the Markers’ Panel may be designated moderators, and may form part of the interviewing panel of the school based assessment.
-
-*3*
+(b) In the case of subjects marked with an asterisk in regulation 4(1) of the Secondary Education Certificate Examination Regulations, the Paper Setters’ Panel shall set the controlled assessments and the synoptic tests as specified in the syllabi. These assessments must be submitted to the MATSEC for printing by not later than the date established by the MATSEC Board. (3) Markers’ Panel: Members of any Markers’ Panel shall be responsible for the marking of the examination scripts allotted to them by the person chairing the panel, according to the mark scheme agreed to by the Paper Setters’ Panel. The person chairing the panel shall not mark any scripts but shall read a representative sample and shall act as moderator to ensure that all the markers are adhering to the same standards. The Markers’ Panels shall take into account the moderated school based assessment, oral examinations and other forms of assessment as provided for by the syllabus. Members of the Markers’ Panel may be designated moderators, and may form part of the interviewing panel of the school based assessment.
 
 ## 6. Eligibility to sit on Paper Setters’ and Markers’ Panels.
 
@@ -122,11 +110,7 @@ shall set the controlled assessments and the synoptic tests as specified in the 
 
 (c) they have given, at any time during the twelve months before the examination concerned, private tuition in the subject and level of examination or a closely related subject.
 
-(3) Members of Paper Setters’ and Paper Markers’ Panels shall not be eligible to participate in either Panel if they are in a dual relationship with a candidate sitting for an examination in which [S.L.327.66 EDUCATION CERTIFICATE EXAMINATIONS
-
-they are involved. Dual relationship means that a member of one of these Panels is at the same time in a relationship with a candidate or with a person closely associated with or related to a candidate sitting for an examination.
-
-*4*
+(3) Members of Paper Setters’ and Paper Markers’ Panels shall not be eligible to participate in either Panel if they are in a dual relationship with a candidate sitting for an examination in which they are involved. Dual relationship means that a member of one of these Panels is at the same time in a relationship with a candidate or with a person closely associated with or related to a candidate sitting for an examination.
 
 (4) (a) Members of Paper Setters’ and Markers’ Panels shall be required to declare that they are not disqualified from taking part in the workings of the panel under any of the foregoing provisions of this regulation.
 
@@ -152,10 +136,6 @@ they are involved. Dual relationship means that a member of one of these Panels 
 
 (b) Members of the Paper Setters’ and Markers’ Panels shall treat as confidential everything connected with the proceedings of their work. They shall take all necessary precautions to prevent leakage of information on the question papers, mark schemes and examination scripts to third parties.
 
-*5*
-
-EDUCATION CERTIFICATE EXAMINATIONS [S.L.327.66
-
 (c) Members of a Markers’ Panel marking the same part of the examination shall be required to attend a Standardising Meeting to ensure harmonisation and consistency in marking. The chairperson shall call such a meeting soon after the examination and before marking begins.
 
 (d) Members of Markers’ Panels must finish their work by the date specified by the member chairing the Panel within the time frame established by the MATSEC. In the event of illness or other emergencies, the MATSEC must be informed so that alternative arrangements can be made.
@@ -177,10 +157,6 @@ The assessment of subjects marked with an asterisk in the Secondary Education Ce
 (d) The External Verifier shall chair the Paper Setters’ and Markers’ Panel for these subjects. These Panels shall be responsible for setting the controlled assessments and the setting and marking of the synoptic tests for each Unit as specified in the syllabus.
 
 (e) The External Verifier shall moderate the results of the controlled assessments and the synoptic tests.
-
-*6*
-
-[S.L.327.66 EDUCATION CERTIFICATE EXAMINATIONS
 
 ## 9. Remuneration payable to Subject Panels. Re-numbered by: L.N. 160 of 2015.
 
@@ -214,11 +190,7 @@ Members of subject panels shall be entitled to remuneration, as established by t
 
 (1) Cases of cheating, attempting to cheat, attempting to take unfair advantage during an examination in any other way, the introduction of unauthorised material in the examination room and reported cases of misconduct shall be investigated by a Disciplinary Committee appointed by Senate.
 
-(2) The Disciplinary Committee shall consist of the Chairperson of the MATSEC Examinations Board, the Director of the MATSEC, the Principal Subject Area Officer responsible for the subject in which the irregularity took place, a member appointed by the MATSEC Board, EDUCATION CERTIFICATE EXAMINATIONS [S.L.327.66
-
-and the Chairperson of the Markers’ Panel of the examination as appropriate.
-
-*7*
+(2) The Disciplinary Committee shall consist of the Chairperson of the MATSEC Examinations Board, the Director of the MATSEC, the Principal Subject Area Officer responsible for the subject in which the irregularity took place, a member appointed by the MATSEC Board, and the Chairperson of the Markers’ Panel of the examination as appropriate.
 
 (3) The Disciplinary Committee shall impose penalties in cases where it is established that a breach of the regulations has been committed.
 
@@ -244,11 +216,7 @@ and the Chairperson of the Markers’ Panel of the examination as appropriate.
 
 (i) adopt any combination of the penalties defined above. (6) A record of all meetings held by the Disciplinary Committee and the penalties applied as a result of these meetings shall be kept by the MATSEC Board.
 
-(7) Any candidate whose conduct during an examination is being investigated shall be informed in writing about the nature of the allegation and invited to attend the meeting of the Disciplinary Committee when his/her case is discussed. In cases where candidates are minors, the parents/guardians shall also be informed. The candidate may be accompanied by a representative of his choice. If the candidate is accompanied by a legal adviser, the role of the legal adviser shall be to provide the candidate with support and not legal representation. The candidate shall be responsible for all arrangements involving the legal adviser. In such case, the other [S.L.327.66 EDUCATION CERTIFICATE EXAMINATIONS
-
-parties must be informed beforehand.
-
-*8*
+(7) Any candidate whose conduct during an examination is being investigated shall be informed in writing about the nature of the allegation and invited to attend the meeting of the Disciplinary Committee when his/her case is discussed. In cases where candidates are minors, the parents/guardians shall also be informed. The candidate may be accompanied by a representative of his choice. If the candidate is accompanied by a legal adviser, the role of the legal adviser shall be to provide the candidate with support and not legal representation. The candidate shall be responsible for all arrangements involving the legal adviser. In such case, the other parties must be informed beforehand.
 
 (8) The Disciplinary Committee has the power to summon persons for the purpose of giving evidence at any meeting.
 

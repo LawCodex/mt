@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in Journalism - Dip. Journalism - under the auspices of the Faculty of Media and Knowledge Sciences (S.L. 327.242)
 
-UNDER THE AUSPICES OF THE FACULTY
-
-*1*
-
-OF MEDIA AND KNOWLEDGE SCIENCES [S.L.327.242
-
 **SUBSIDIARY LEGISLATION 327.242**
 
 BYE-LAWS FOR THE DIPLOMA IN JOURNALISM - DIP. JOURNALISM - UNDER THE AUSPICES OF
@@ -73,12 +67,6 @@ The course shall extend over one academic year of full-time study or two years o
 (1) The programme of study shall comprise taught study-units to which a total of 60 credits are assigned.
 
 (2) Applicants admitted as “Adult Learners” under paragraph (c) of regulation 6 of the Admissions Regulations must be in possession of those qualifications and experience that would satisfy the Board, through an interview, that they have reached the academic standard required to follow the Course with profit. Such applicants shall be required to submit with their application a letter written in English giving their motivation for applying for the Course, together with a copy of their Curriculum Vitae.
-
-UNDER THE AUSPICES OF THE FACULTY
-
-*2*
-
-[S.L.327.242 OF MEDIA AND KNOWLEDGE SCIENCES
 
 ## 6. Classification of the Award.
 

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Philosophy - M. Phil. - in the Faculty of Laws (S.L. 327.90)
 
-DEGREE OF MASTER OF PHILOSOPHY -
-
-*1*
-
-M. PHIL. - IN THE FACULTY OF LAWS [S.L.327.90
-
 SUBSIDIARY LEGISLATION 327.90
 
 BYE-LAWS FOR THE DEGREE OF

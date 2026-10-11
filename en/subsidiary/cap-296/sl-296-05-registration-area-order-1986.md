@@ -1,6 +1,6 @@
 ---
 title: "Registration Area Order (1986)"
-identifier: "S.L. 296.5"
+identifier: "S.L. 296.05"
 eli: "https://legislation.mt/eli/sl/296.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/296.5/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Registration Area Order (1986) (S.L. 296.5)
+# Registration Area Order (1986) (S.L. 296.05)
 
 **SUBSIDIARY LEGISLATION 296.05**
 

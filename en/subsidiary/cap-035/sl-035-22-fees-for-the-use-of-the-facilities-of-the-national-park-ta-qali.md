@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Fees for the Use of the Facilities of the National Park - Ta’ Qali - Regulations (S.L. 35.22)
 
-*1*
-
-OF THE NATIONAL PARK - TA’ QALI [S.L.35.22
-
 **SUBSIDIARY LEGISLATION 35.22**
 
 **FEES FOR THE USE OF THE FACILITES OF THE**
@@ -73,17 +69,9 @@ The Minister shall have the discretion to establish the fee for activities and e
 
 \*These regulations have been repealed by Legal Notice 34 of 2026.
 
-*2*
-
-[S.L.35.22 OF THE NATIONAL PARK - TA’ QALI
-
 ## 8. Other permits.
 
 The authorisation to hold an activity or event at the Park does not exempt the applicant from obtaining all the necessary official permits for the holding of the said activity or event.
-
-*3*
-
-OF THE NATIONAL PARK - TA’ QALI [S.L.35.22
 
 FIRST SCHEDULE
 
@@ -116,10 +104,6 @@ J PARKING NO 2
 K ROOTS AREA
 
 L MINDEN GROVE
-
-*4*
-
-[S.L.35.22 OF THE NATIONAL PARK - TA’ QALI
 
 SECOND SCHEDULE
 

@@ -1,6 +1,6 @@
 ---
 title: "Designated State Regulations"
-identifier: "S.L. 104.3"
+identifier: "S.L. 104.03"
 eli: "https://legislation.mt/eli/sl/104.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/104.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Designated State Regulations (S.L. 104.3)
+# Designated State Regulations (S.L. 104.03)
 
 **SUBSIDIARY LEGISLATION 104.03**
 

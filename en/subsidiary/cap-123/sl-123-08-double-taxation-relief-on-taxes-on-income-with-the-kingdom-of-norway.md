@@ -1,6 +1,6 @@
 ---
 title: "Double Taxation Relief on Taxes on Income with the Kingdom of Norway Order"
-identifier: "S.L. 123.8"
+identifier: "S.L. 123.08"
 eli: "https://legislation.mt/eli/sl/123.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/123.8/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Double Taxation Relief on Taxes on Income with the Kingdom of Norway Order (S.L. 123.8)
-
-*1*
-
-(TAXES ON INCOME) (THE KINGDOM OF NORWAY) [S.L.123.08
+# Double Taxation Relief on Taxes on Income with the Kingdom of Norway Order (S.L. 123.08)
 
 SUBSIDIARY LEGISLATION 123.08
 
@@ -27,11 +23,15 @@ DOUBLE TAXATION RELIEF (TAXES ON INCOME) (THE KINGDOM OF NORWAY) ORDER
 
 LEGAL NOTICE 118 of 2013, as modified by S.L.123.183.
 
-## 1. Citation.
+*\1.*
+
+*Citation.*
 
 The title of this Order is Double Taxation Relief (Taxes on Income) (The Kingdom of Norway) Order.
 
-## 2. Arrangements to have effect.
+*\2.*
+
+*Arrangements to have effect.*
 
 It is hereby declared -
 
@@ -50,8 +50,6 @@ It is hereby declared -
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Convention has entered into force on the 14 February 2013.
-
-2 [S.L.123.08 (TAXES ON INCOME) (THE KINGDOM OF NORWAY)
 
 ## SCHEDULE
 
@@ -117,9 +115,7 @@ The existing taxes to which the Convention shall apply are in particular: a) in 
 
 (iv) the national tax relating to income from the exploration for and the exploitation of submarine petroleum resources and activities and work relating thereto, including pipeline transport of petroleum produced (skatt til staten vedrorende inntekt i forbindelse med undersokelse etter og utnyttelse av undersjoiske petroleumsforekomster og dertil knyttet virksomhet og arbeid, herunder rorledningstransport av utvunnet petroleum); and
 
-(v) the national tax on remuneration to non-resident artistes (skatt til (TAXES ON INCOME) (THE KINGDOM OF NORWAY) [S.L.123.08 3
-
-staten på honorar til utenlandske artister);
+(v) the national tax on remuneration to non-resident artistes (skatt til staten på honorar til utenlandske artister);
 
 (hereinafter referred to as "Norwegian tax");
 
@@ -129,7 +125,7 @@ the income tax;
 
 (hereinafter referred to as "Malta tax").
 
-## 4.
+*\4.*
 
 The Convention shall apply also to any identical or substantially similar taxes that are imposed after the date of signature of the Convention in addition to, or in place of, the existing taxes. The competent authorities of the Contracting States shall notify each other of any significant changes that have been made in their taxation laws.
 
@@ -141,7 +137,9 @@ Article 3
 
 General Definitions
 
-\1. For the purposes of this Convention, unless the context otherwise requires: a) the term "Norway" means the Kingdom of Norway, and includes the land territory, internal waters, the territorial sea and the area beyond the territorial sea where the Kingdom of Norway, according to Norwegian legislation and in accordance with international law, may exercise her rights with respect to the seabed and subsoil and their natural resources; the term does not comprise Svalbard, Jan Mayen and the Norwegian dependencies ("biland");
+*\1.*
+
+For the purposes of this Convention, unless the context otherwise requires: a) the term "Norway" means the Kingdom of Norway, and includes the land territory, internal waters, the territorial sea and the area beyond the territorial sea where the Kingdom of Norway, according to Norwegian legislation and in accordance with international law, may exercise her rights with respect to the seabed and subsoil and their natural resources; the term does not comprise Svalbard, Jan Mayen and the Norwegian dependencies ("biland");
 
 b) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
 
@@ -158,8 +156,6 @@ g) the terms "enterprise of a Contracting State" and "enterprise of the other Co
 h) the term "international traffic" means any transport by a ship or aircraft, except when the ship or aircraft is operated solely between places in a Contracting State;
 
 i) the term "business" includes the performance of professional services and of other activities of an independent character;
-
-4 [S.L.123.08 (TAXES ON INCOME) (THE KINGDOM OF NORWAY)
 
 j) the term "competent authority" means:
 
@@ -197,8 +193,6 @@ c) if he has an habitual abode in both States or in neither of them, he shall be
 
 \1. For the purposes of this Convention, the term "permanent establishment" means a fixed place of business through which the business of an enterprise is wholly or partly carried on.
 
-(TAXES ON INCOME) (THE KINGDOM OF NORWAY) [S.L.123.08 5
-
 \2. The term "permanent establishment" includes especially:
 
 a) a place of management;
@@ -213,7 +207,9 @@ e) a workshop, and
 
 f) a mine, an oil or gas well, a quarry or any other place of extraction of natural resources.
 
-\3. A building site or construction or installation project constitutes a permanent establishment only if it lasts more than 12 months.
+## 3.
+
+A building site or construction or installation project constitutes a permanent establishment only if it lasts more than 12 months.
 
 ## 4.
 
@@ -237,9 +233,7 @@ c) the maintenance of a stock of goods or merchandise belonging to the enterpris
 
 e) the maintenance of a fixed place of business solely for the purpose of carrying on, for the enterprise, any other activity of a preparatory or auxiliary character;
 
-f) the maintenance of a fixed place of business solely for any combination of activities mentioned in sub-paragraphs a) to e), provided that the 6 [S.L.123.08 (TAXES ON INCOME) (THE KINGDOM OF NORWAY)
-
-overall activity of the fixed place of business resulting from this combination is of a preparatory or auxiliary character.
+f) the maintenance of a fixed place of business solely for any combination of activities mentioned in sub-paragraphs a) to e), provided that the overall activity of the fixed place of business resulting from this combination is of a preparatory or auxiliary character.
 
 ## 6.
 
@@ -275,9 +269,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 **Business Profits**
 
-\1. The profits of an enterprise of a Contracting State shall be taxable only in (TAXES ON INCOME) (THE KINGDOM OF NORWAY) [S.L.123.08 7
-
-that State unless the enterprise carries on business in the other Contracting State through a permanent establishment situated therein. If the enterprise carries on business as aforesaid, the profits of the enterprise may be taxed in the other State but only so much of them as is attributable to that permanent establishment.
+\1. The profits of an enterprise of a Contracting State shall be taxable only in that State unless the enterprise carries on business in the other Contracting State through a permanent establishment situated therein. If the enterprise carries on business as aforesaid, the profits of the enterprise may be taxed in the other State but only so much of them as is attributable to that permanent establishment.
 
 \2. Subject to the provisions of paragraph 3, where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment.
 
@@ -309,9 +301,7 @@ that State unless the enterprise carries on business in the other Contracting St
 
 a) an enterprise of a Contracting State participates directly or indirectly in the management, control or capital of an enterprise of the other Contracting State, or
 
-b) the same persons participate directly or indirectly in the management, 8 [S.L.123.08 (TAXES ON INCOME) (THE KINGDOM OF NORWAY)
-
-control or capital of an enterprise of a Contracting State and an enterprise of the other Contracting State,
+b) the same persons participate directly or indirectly in the management, control or capital of an enterprise of a Contracting State and an enterprise of the other Contracting State,
 
 and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
 
@@ -341,8 +331,6 @@ a) In the case of Norway:
 
 (ii) the Government Pension Fund Global; and
 
-(TAXES ON INCOME) (THE KINGDOM OF NORWAY) [S.L.123.08 9
-
 (iii) a statutory body or any institution wholly or mainly owned by the Government of Norway as may be agreed from time to time between the competent authorities of the Contracting States;
 
 b) In the case of Malta:
@@ -369,9 +357,7 @@ In the event that a resident of a Contracting State is denied relief from taxati
 
 \2. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage, and whether or not carrying a right to participate in the debtor's profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
-\3. The provisions of paragraph 1 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, and the debt-claim in respect of which the interest is paid is 10 [S.L.123.08 (TAXES ON INCOME) (THE KINGDOM OF NORWAY)
-
-effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
+\3. The provisions of paragraph 1 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
 \4. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
@@ -397,9 +383,7 @@ effectively connected with such permanent establishment. In such case the provis
 
 \3. Gains derived by an enterprise of a Contracting State from the alienation of ships or aircraft operated in international traffic, or from movable property pertaining to the operation of such ships or aircraft shall be taxable only in that State.
 
-\4. Gains derived by a resident of a Contracting State from the alienation of (TAXES ON INCOME) (THE KINGDOM OF NORWAY) [S.L.123.08 11
-
-shares deriving more than 50 per cent of their value directly or indirectly from immovable property situated in the other Contracting State may be taxed in that other State.
+\4. Gains derived by a resident of a Contracting State from the alienation of shares deriving more than 50 per cent of their value directly or indirectly from immovable property situated in the other Contracting State may be taxed in that other State.
 
 \5. Gains from the alienation of any property, other than that referred to in the preceding paragraphs shall be taxable only in the Contracting State of which the alienator is a resident.
 
@@ -433,8 +417,6 @@ b) those services constitute an integral part of the business activities carried
 
 Directors’ fees and other similar payments derived by a resident of a Contracting State in his capacity as a member of the board of directors or of a similar organ of a company which is a resident of the other Contracting State may be taxed in that other State.
 
-12 [S.L.123.08 (TAXES ON INCOME) (THE KINGDOM OF NORWAY)
-
 **Article 16**
 
 **Artistes and Sportsmen**
@@ -467,9 +449,7 @@ b) However, such salaries, wages and other similar remuneration shall be taxable
 
 (ii) did not become a resident of that State solely for the purpose of rendering the services.
 
-\2. The provisions of Articles 14, 15, and 16 shall apply to salaries, wages and other similar remuneration other than pensions in respect of services rendered in connection with a business carried on by a Contracting State or a political (TAXES ON INCOME) (THE KINGDOM OF NORWAY) [S.L.123.08 13
-
-subdivision or a local authority thereof.
+\2. The provisions of Articles 14, 15, and 16 shall apply to salaries, wages and other similar remuneration other than pensions in respect of services rendered in connection with a business carried on by a Contracting State or a political subdivision or a local authority thereof.
 
 **Article 19**
 
@@ -497,9 +477,7 @@ b) two enterprises shall be deemed to be associated if:
 
 \4. Profits derived by an enterprise of a Contracting State from the transportation of supplies or personnel to a location, or between locations, where activities in connection with the exploration or exploitation of the seabed or subsoil or their natural resources are being carried on in a Contracting State, or from the operation of tugboats and other vessels auxiliary to such activities, shall be taxable only in the Contracting State of which the enterprise is a resident.
 
-\5. a) Subject to sub-paragraph b) of this paragraph, salaries, wages and similar remuneration derived by a resident of a Contracting State in respect of an employment connected with the exploration or exploitation of the seabed or subsoil or their natural resources situated in the other Contracting State may, to the extent that the duties are performed offshore in that other State, be taxed in that other State. However, such remuneration shall be taxable only in the first-mentioned State if the employment is carried on offshore for an employer who is not a resident of the other State and provided that the employment is carried on for a 14 [S.L.123.08 (TAXES ON INCOME) (THE KINGDOM OF NORWAY)
-
-period or periods not exceeding in the aggregate 30 days in any twelve month period commencing or ending in the fiscal year concerned.
+\5. a) Subject to sub-paragraph b) of this paragraph, salaries, wages and similar remuneration derived by a resident of a Contracting State in respect of an employment connected with the exploration or exploitation of the seabed or subsoil or their natural resources situated in the other Contracting State may, to the extent that the duties are performed offshore in that other State, be taxed in that other State. However, such remuneration shall be taxable only in the first-mentioned State if the employment is carried on offshore for an employer who is not a resident of the other State and provided that the employment is carried on for a period or periods not exceeding in the aggregate 30 days in any twelve month period commencing or ending in the fiscal year concerned.
 
 b) Salaries, wages and similar remuneration derived by a resident of a Contracting State in respect of an employment exercised aboard a ship or aircraft engaged in the transportation of supplies or personnel to a location, or between locations, where activities connected with the exploration or exploitation of the seabed or subsoil or their natural resources are being carried on in the other Contracting State, or in respect of an employment exercised aboard tugboats or other vessels operated auxiliary to such activities, may be taxed in the State of which the enterprise carrying on such activities is a resident.
 
@@ -533,8 +511,6 @@ a) Where a resident of Norway derives income which, in accordance with the provi
 
 Such deduction in either case shall not, however, exceed that part of the income tax, as computed before the deduction is given, which is attributable, as the case may be, to the income which may be taxed in Malta.
 
-(TAXES ON INCOME) (THE KINGDOM OF NORWAY) [S.L.123.08 15
-
 b) Where in accordance with any provision of the Convention income derived by a resident of Norway is exempt from tax in Norway, Norway may nevertheless include such income in the tax base, but shall allow as a deduction from the Norwegian tax on income that part of the income tax which is attributable to the income derived from Malta.
 
 \2. In the case of Malta, double taxation shall be eliminated as follows:
@@ -561,8 +537,6 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 \6. The provisions of this Article shall, notwithstanding the provisions of Article 2, apply to taxes of every kind and description.
 
-16 [S.L.123.08 (TAXES ON INCOME) (THE KINGDOM OF NORWAY)
-
 **Article 24**
 
 **Mutual Agreement Procedure**
@@ -587,8 +561,6 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 a) to carry out administrative measures at variance with the laws and administrative practice of that or of the other Contracting State;
 
-(TAXES ON INCOME) (THE KINGDOM OF NORWAY) [S.L.123.08 17
-
 b) to supply information which is not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;
 
 c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public policy (ordre public).
@@ -609,9 +581,7 @@ c) to supply information which would disclose any trade, business, industrial, c
 
 \4. When a revenue claim of a Contracting State is a claim in respect of which that State may, under its law, take measures of conservancy with a view to ensure its collection, that revenue claim shall, at the request of the competent authority of that State, be accepted for purposes of taking measures of conservancy by the competent authority of the other Contracting State. That other State shall take measures of conservancy in respect of that revenue claim in accordance with the provisions of its laws as if the revenue claim were a revenue claim of that other State even if, at the time when such measures are applied, the revenue claim is not enforceable in the first-mentioned State or is owed by a person who has a right to prevent its collection.
 
-\5. Notwithstanding the provisions of paragraphs 3 and 4, a revenue claim accepted by a Contracting State for purposes of paragraph 3 or 4 shall not, in that 18 [S.L.123.08 (TAXES ON INCOME) (THE KINGDOM OF NORWAY)
-
-State, be subject to the time limits or accorded any priority applicable to a revenue claim under the laws of that State by reason of its nature as such. In addition, a revenue claim accepted by a Contracting State for the purposes of paragraph 3 or 4 shall not, in that State, have any priority applicable to that revenue claim under the laws of the other Contracting State.
+\5. Notwithstanding the provisions of paragraphs 3 and 4, a revenue claim accepted by a Contracting State for purposes of paragraph 3 or 4 shall not, in that State, be subject to the time limits or accorded any priority applicable to a revenue claim under the laws of that State by reason of its nature as such. In addition, a revenue claim accepted by a Contracting State for the purposes of paragraph 3 or 4 shall not, in that State, have any priority applicable to that revenue claim under the laws of the other Contracting State.
 
 \6. Proceedings with respect to the existence, validity or the amount of a revenue claim of a Contracting State shall not be brought before the courts or administrative bodies of the other Contracting State.
 
@@ -647,9 +617,7 @@ d) to provide assistance in those cases where the administrative burden for that
 
 **Limitation of relief**
 
-\1. This Convention shall not be interpreted to mean that a Contracting State is (TAXES ON INCOME) (THE KINGDOM OF NORWAY) [S.L.123.08 19
-
-prevented from applying its domestic legal provisions on the prevention of tax evasion or tax avoidance.
+\1. This Convention shall not be interpreted to mean that a Contracting State is prevented from applying its domestic legal provisions on the prevention of tax evasion or tax avoidance.
 
 \2. Where under any provision of this Convention any income is relieved from tax in a Contracting State and, under the law in force in the other Contracting State, a person, in respect of that income, is subject to tax by reference to the amount thereof which is remitted to or received in that other Contracting State and not by reference to the full amount thereof, then the relief to be allowed under this Convention in the first-mentioned State shall apply only to so much of the income as is taxed in the other Contracting State.
 
@@ -682,8 +650,6 @@ IN WITNESS WHEREOF the undersigned, duly authorised thereto by their respective 
 DONE in duplicate at Valletta this 30 day of March 2012, in the English language. John Paul Grech Bjorn T. Grydeland
 
 For Malta For the Kingdom of Norway
-
-20 [S.L.123.08 (TAXES ON INCOME) (THE KINGDOM OF NORWAY)
 
 **PROTOCOL**
 

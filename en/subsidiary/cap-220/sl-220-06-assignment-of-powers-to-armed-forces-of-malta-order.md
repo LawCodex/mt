@@ -1,6 +1,6 @@
 ---
 title: "Assignment of Powers to Armed Forces of Malta Order"
-identifier: "S.L. 220.6"
+identifier: "S.L. 220.06"
 eli: "https://legislation.mt/eli/sl/220.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/220.6/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Assignment of Powers to Armed Forces of Malta Order (S.L. 220.6)
-
-ASSIGNMENT OF POWERS TO
-
-*1*
-
-ARMED FORCES OF MALTA [S.L.220.06
+# Assignment of Powers to Armed Forces of Malta Order (S.L. 220.06)
 
 **SUBSIDIARY LEGISLATION 220.06**
 

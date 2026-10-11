@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Republic of Italy Order (S.L. 123.16)
 
-*1*
-
-WITH THE REPUBLIC OF ITALY [S.L.123.16
-
 **SUBSIDIARY LEGISLATION 123.16**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -44,8 +40,6 @@ It is hereby declared -
 even if they are collected by withholding taxes at the source (hereinafter referred to as "Italian tax");
 
 (b) that it is expedient that those arrangements should have effect.
-
-2 [S.L.123.16 WITH THE REPUBLIC OF ITALY
 
 ## SCHEDULE — AGREEMENT BETWEEN — THE GOVERNMENT OF THE REPUBLIC OF MALTA
 
@@ -93,11 +87,9 @@ the income tax,
 
 (hereinafter referred to as "Malta tax").
 
-(4) This Agreement shall apply also to any identical or substantially similar taxes which are imposed after the date of signature of this Agreement in addition to, or in place of, the existing taxes. The competent authorities of the Contracting States WITH THE REPUBLIC OF ITALY [S.L.123.16 3
+(4) This Agreement shall apply also to any identical or substantially similar taxes which are imposed after the date of signature of this Agreement in addition to, or in place of, the existing taxes. The competent authorities of the Contracting States shall notify to each other any significant changes which have been made in their respective taxation laws.
 
 \*as amended by the Protocol reproduced in Legal Notice 14 of 2011.
-
-shall notify to each other any significant changes which have been made in their respective taxation laws.
 
 (5) Where the Agreement provides that income arising in a Contracting State shall be relieved from tax in that State, either in full or in part, and, under the law in force in the other Contracting State, such income is subject to tax by reference to the amount thereof which is remitted to or received in that other State and not by reference to the full amount thereof, then the relief to be allowed in the first mentioned State shall apply only to so much of the income as is remitted to or received in the other State.
 
@@ -134,8 +126,6 @@ shall notify to each other any significant changes which have been made in their
 (ii) in the case of Malta, the Minister responsible for finance or his authorised representative.
 
 \*as amended by the Protocol reproduced in Legal Notice 14 of 2011
-
-4 [S.L.123.16 WITH THE REPUBLIC OF ITALY
 
 (2) In the application of this Agreement by a Contracting State, any term not otherwise defined shall, unless the context otherwise requires, have the meaning which it has under the laws of that Contracting State relating to the taxes which are the subject of this Agreement.
 
@@ -177,8 +167,6 @@ shall notify to each other any significant changes which have been made in their
 
 (f) a mine, quarry or other place of extraction of natural resources;
 
-WITH THE REPUBLIC OF ITALY [S.L.123.16 5
-
 (g) a building site or construction or assembly project which exists for more than twelve months;
 
 (h) the furnishing of services, including consultancy services, by an enterprise through employees or other personnel, where activities of this nature continue (for the same or a connected project) within the country for a period or periods aggregating more than twelve months within any two-year period.
@@ -207,9 +195,7 @@ WITH THE REPUBLIC OF ITALY [S.L.123.16 5
 
 (1) Income from immovable property may be taxed in the Contracting State in which such property is situated.
 
-(2) The term "immovable property" shall be defined in accordance with the law of the Contracting State in which the property in question is situated. The term shall 6 [S.L.123.16 WITH THE REPUBLIC OF ITALY
-
-in any case include property accessory to immovable property, rights to which the provisions of general law respecting immovable property apply. The term shall also include usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources; ships, boats and aircraft shall not be regarded as immovable property.
+(2) The term "immovable property" shall be defined in accordance with the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, rights to which the provisions of general law respecting immovable property apply. The term shall also include usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources; ships, boats and aircraft shall not be regarded as immovable property.
 
 (3) The provisions of paragraph (1) shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
@@ -232,8 +218,6 @@ in any case include property accessory to immovable property, rights to which th
 (6) For the purpose of the preceding paragraphs, the profits to be attributed to the permanent establishment shall be determined by the same method year by year unless there is good and sufficient reason to the contrary.
 
 (7) Where profits include items of income which are dealt with separately in other Articles of this Agreement, then the provisions of those Articles shall not be affected by the provisions of this Article.
-
-WITH THE REPUBLIC OF ITALY [S.L.123.16 7
 
 **ARTICLE 8**
 
@@ -271,9 +255,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 (i) Malta tax shall not exceed that chargeable on the company paying the dividends in respect of the profits so distributed;
 
-(ii) notwithstanding the provisions of sub-paragraph (i), Malta tax shall not exceed 15 per cent of the gross amount of the dividends if such dividends are paid out of gains or profits earned in any 8 [S.L.123.16 WITH THE REPUBLIC OF ITALY
-
-year in respect of which the company is in receipt of tax benefits under the provisions regulating aids to industries in Malta, and the shareholder submits returns and accounts to the taxation authorities of Malta in respect of his income liable to Malta tax for the relative year of assessment.
+(ii) notwithstanding the provisions of sub-paragraph (i), Malta tax shall not exceed 15 per cent of the gross amount of the dividends if such dividends are paid out of gains or profits earned in any year in respect of which the company is in receipt of tax benefits under the provisions regulating aids to industries in Malta, and the shareholder submits returns and accounts to the taxation authorities of Malta in respect of his income liable to Malta tax for the relative year of assessment.
 
 The competent authorities of the Contracting States shall by mutual agreement settle the mode of application of this limitation.
 
@@ -299,8 +281,6 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 (b) the interest is paid to the Government of the other Contracting State or local authority thereof or any agency or instrumentality (including a financial institution) wholly owned by that other Contracting State or local authority thereof; or
 
-WITH THE REPUBLIC OF ITALY [S.L.123.16 9
-
 (c) the interest is paid to any other agency or instrumentality (including a financial institution) in relation to loans made under an agreement concluded between the Governments of the Contracting States.
 
 (4) The term "interest" as used in this Article means income from Government securities, bonds or debentures, whether or not secured by mortgage and whether or not carrying a right to participate in profits, and debt-claims of every kind as well as all other income assimilated to income from money lent by the taxation law of the State in which the income arises.
@@ -319,9 +299,7 @@ WITH THE REPUBLIC OF ITALY [S.L.123.16 9
 
 (2) Royalties arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other Contracting State if the royalties consist of payments of any kind received as a consideration for the use of, or the right to use, any patent, trade mark, design, model, plan, secret formula or process, industrial, commercial or scientific equipment, or information concerning industrial, commercial or scientific experience. However, such royalties may also be taxed in the Contracting State in which they arise, and according to the law of that State, but if the recipient is the beneficial owner of the royalties, the tax so charged shall not exceed 10 per cent of the gross amount of such royalties.
 
-(3) The provisions of paragraphs (1) and (2) shall not apply if the recipient of 10 [S.L.123.16 WITH THE REPUBLIC OF ITALY
-
-the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State professional services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such a case the royalties are taxable in that other Contracting State according to its own law.
+(3) The provisions of paragraphs (1) and (2) shall not apply if the recipient of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State professional services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such a case the royalties are taxable in that other Contracting State according to its own law.
 
 (4) Royalties shall be deemed to arise in a Contracting State when the payer is that State itself, a political or administrative subdivision, a local authority or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment, then such royalties shall be deemed to arise in the Contracting State in which the permanent establishment is situated.
 
@@ -341,9 +319,7 @@ the royalties, being a resident of a Contracting State, carries on business in t
 
 **Independent Personal Services**
 
-(1) Income derived by a resident of a Contracting State in respect of professional services or other independent activities of a similar character shall be taxable only in that State. However, such income may be taxed in the other WITH THE REPUBLIC OF ITALY [S.L.123.16 11
-
-Contracting State in the following circumstances:
+(1) Income derived by a resident of a Contracting State in respect of professional services or other independent activities of a similar character shall be taxable only in that State. However, such income may be taxed in the other Contracting State in the following circumstances:
 
 (a) if he has a fixed base regularly available to him in the other Contracting State for the purpose of performing his activities (in which case only so much of the income as is attributable to that fixed base may be taxed in that other Contracting State); or
 
@@ -377,8 +353,6 @@ Directors’ fees and similar payments derived by a resident of a Contracting St
 
 (1) Notwithstanding the provisions of Articles 14 and 15, income derived by entertainers, such as theatre, motion picture, radio or television artists, and musicians, and by athletes, from their personal activities as such may be taxed in the Contracting State in which these activities are exercised.
 
-12 [S.L.123.16 WITH THE REPUBLIC OF ITALY
-
 (2) Where income in respect of personal activities as such of an entertainer or athlete accrues not to that entertainer or athlete himself but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the entertainer or athlete are exercised.
 
 **ARTICLE 18**
@@ -411,9 +385,7 @@ Directors’ fees and similar payments derived by a resident of a Contracting St
 
 The provisions of Articles 15, 16 and 18 shall apply to remuneration or pensions in respect of services rendered in connection with any trade or business carried on by one of the Contracting States or a political or an administrative subdivision or a local authority thereof.
 
-(4) The provisions of paragraph (1)(a) shall likewise apply in respect of remuneration paid, under a development assistance programme of a Contracting State, a political or administrative subdivision or a local authority thereof, out of funds exclusively supplied by that State, those subdivisions or local authorities thereof, to a specialist or volunteer seconded to the other Contracting State with the WITH THE REPUBLIC OF ITALY [S.L.123.16 13
-
-consent of that other State.
+(4) The provisions of paragraph (1)(a) shall likewise apply in respect of remuneration paid, under a development assistance programme of a Contracting State, a political or administrative subdivision or a local authority thereof, out of funds exclusively supplied by that State, those subdivisions or local authorities thereof, to a specialist or volunteer seconded to the other Contracting State with the consent of that other State.
 
 **ARTICLE 20**
 
@@ -443,8 +415,6 @@ consent of that other State.
 
 \*as amended by the Protocol reproduced in Legal Notice 14 of 2011.
 
-14 [S.L.123.16 WITH THE REPUBLIC OF ITALY
-
 (2) If a resident of Italy owns items of income which are taxable in Malta, Italy, in determining its income taxes specified in Article 2 of this Agreement, may include in the basis upon which such taxes are imposed the said items of income, unless specific provisions of this Agreement otherwise provide.
 
 In such a case, Italy shall deduct from the taxes so calculated the income tax paid in Malta but in an amount not exceeding that proportion of the aforesaid Italian tax which such items of income bear to the entire income.
@@ -469,9 +439,7 @@ This provision shall not be construed as obliging a Contracting State to grant t
 
 (3) Except where the provisions of Article 9, paragraph (7) of Article 11, or paragraph (5) of Article 12 apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first mentioned State.
 
-(4) Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned Contracting State to WITH THE REPUBLIC OF ITALY [S.L.123.16 15
-
-any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of that first-mentioned State are or may be subjected.
+(4) Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned Contracting State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of that first-mentioned State are or may be subjected.
 
 (5) In this Article the term "taxation" means taxes of every kind and description.
 
@@ -496,8 +464,6 @@ any taxation or any requirement connected therewith which is other or more burde
 (2) Any information received under paragraph (1) by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to the taxes referred to in paragraph 1, or the oversight of the above. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
 
 \*as substiotuted by the Protocol reproduced in Legal Notice 14 of 2011.
-
-16 [S.L.123.16 WITH THE REPUBLIC OF ITALY
 
 (3) In no case shall the provisions of paragraph (1) and (2) be construed so as to impose on a Contracting State the obligation:
 
@@ -527,8 +493,6 @@ Nothing in this Agreement shall affect the fiscal privileges of diplomatic or co
 
 (3) The competent authorities of the Contracting States shall by mutual agreement settle the mode of application of this Article, in accordance with the provisions of Article 24 of this Agreement.
 
-WITH THE REPUBLIC OF ITALY [S.L.123.16 17
-
 ## CHAPTER VI — Final Provisions — ARTICLE 28
 
 **Entry into Force**
@@ -557,8 +521,6 @@ IN WITNESS WHEREOF the undersigned, duly authorised thereto, have signed this Ag
 
 DONE at Valletta this 16th day of July, 1981 in duplicate, in the Italian and English languages, both texts being equally authentic.
 
-18 [S.L.123.16 WITH THE REPUBLIC OF ITALY
-
 For the Government of For the Government of
 
 the Republic of Malta the Republic of Italy
@@ -585,9 +547,7 @@ IV (a) With reference to Article 8, where profits derived from the operation of 
 
 V With reference to paragraph (1) of Article 24, the expression "notwithstanding the remedies provided by the national laws" means that the mutual agreement procedure is not alternative to the national contestation proceedings which should, in any case, be initiated within the time limits of the national law.
 
-VI The provisions of paragraph (3) of Article 27 shall not prevent the competent authorities of the Contracting States from adopting, by mutual agreement, WITH THE REPUBLIC OF ITALY [S.L.123.16 19
-
-other procedures for the reduction of taxation in accordance with this Agreement.
+VI The provisions of paragraph (3) of Article 27 shall not prevent the competent authorities of the Contracting States from adopting, by mutual agreement, other procedures for the reduction of taxation in accordance with this Agreement.
 
 VII Notwithstanding the provisions of paragraph (2) of Article 28, the provisions of Article 8 shall be applicable as respects income derived during any taxable period commencing on or after the 1st January, 1969.
 
@@ -641,10 +601,6 @@ the income tax,
 
 (hereinafter referred to as "Malta tax").".
 
-*20*
-
-[S.L.123.16 WITH THE REPUBLIC OF ITALY
-
 ARTICLE II
 
 With reference to Article 3 "General definitions", letter (i), subparagraph (i) of paragraph (1) shall be replaced by the following:
@@ -678,8 +634,6 @@ Article 25 "Exchange of information" shall be deleted and replaced by the follow
 (2) Any information received under paragraph (1) by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to the taxes referred to in paragraph 1, or the oversight of the above. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
 
 (3) In no case shall the provisions of paragraph (1) and (2) be construed so as to impose on a Contracting State the obligation:
-
-WITH THE REPUBLIC OF ITALY [S.L.123.16 21
 
 (a) to carry out administrative measures at variance with the laws and administrative practice of that or of the other Contracting State;
 

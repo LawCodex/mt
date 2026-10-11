@@ -1,6 +1,6 @@
 ---
 title: "Duplicate Notes at the Public Registry Regulations"
-identifier: "S.L. 56.2"
+identifier: "S.L. 56.02"
 eli: "https://legislation.mt/eli/sl/56.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/56.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Duplicate Notes at the Public Registry Regulations (S.L. 56.2)
+# Duplicate Notes at the Public Registry Regulations (S.L. 56.02)
 
 **SUBSIDIARY LEGISLATION 56.02**
 

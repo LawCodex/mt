@@ -1,6 +1,6 @@
 ---
 title: "Fire Precautions at Customs Regulations"
-identifier: "S.L. 37.7"
+identifier: "S.L. 37.07"
 eli: "https://legislation.mt/eli/sl/37.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/37.7/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Fire Precautions at Customs Regulations (S.L. 37.7)
+# Fire Precautions at Customs Regulations (S.L. 37.07)
 
 **SUBSIDIARY LEGISLATION 37.07**
 

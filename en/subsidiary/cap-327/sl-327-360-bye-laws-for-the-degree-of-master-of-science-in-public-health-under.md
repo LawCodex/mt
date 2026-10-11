@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science in Public Health under the auspices of the Faculty of Medicine and Surgery (S.L. 327.360)
 
-UNDER THE AUSPICES OF THE FACULTY
-
-*1*
-
-OF MEDICINE AND SURGERY [S.L.327.360
-
 **SUBSIDIARY LEGISLATION 327.360**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -79,12 +73,6 @@ These bye-laws shall be applicable for courses commencing in October 2017 or lat
 
 (f) a degree with at least Second Class (Honours) in a discipline related to health science; or
 
-UNDER THE AUSPICES OF THE FACULTY
-
-*2*
-
-[S.L.327.360 OF MEDICINE AND SURGERY
-
 (g) a qualification deemed by Senate, on the recommendation of the Board, to be equivalent to the qualifications listed in sub-paragraphs (a) to (f).
 
 (2) The Board shall recommend to Senate the number of applicants that may be allowed to register for the course, depending on the availability of resources. The Board shall announce the number of available places at the time of the call for applications.
@@ -121,11 +109,7 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 (1) Students shall be required to submit an individual dissertation of approximately 25,000 words in accordance with the guidelines issued by the Board.
 
-UNDER THE AUSPICES OF THE FACULTY
-
-*3*
-
-OF MEDICINE AND SURGERY [S.L.327.360 (2) Work on the dissertation shall be undertaken during the third semester of the course. Each student shall be assigned a supervisor by the Board, who shall provide guidance and advice on a regular basis during the period of study. Any substantial modification in the title or content must be approved by the Board.
+(2) Work on the dissertation shall be undertaken during the third semester of the course. Each student shall be assigned a supervisor by the Board, who shall provide guidance and advice on a regular basis during the period of study. Any substantial modification in the title or content must be approved by the Board.
 
 (3) A provisional title of the dissertation and a detailed research proposal shall be submitted to the Board for approval by the beginning of the second semester.
 

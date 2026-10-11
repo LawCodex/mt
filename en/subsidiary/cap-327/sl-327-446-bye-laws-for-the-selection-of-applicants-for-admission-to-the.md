@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Selection of Applicants for Admission to the Bachelor of Science (Honours) (Applied Biomedical Science) Degree Course under the auspices of the Faculty of Health Sciences (S.L. 327.446)
 
-SCIENCE (HONOURS) (APPLIED BIOMEDICAL SCIENCE) DEGREE
-
-*1*
-
-COURSE UNDER THE AUSPICES OF THE FACULTY OF HEALTH SCIENCES [S.L.327.446
-
 **SUBSIDIARY LEGISLATION 327.446**
 
 BYE-LAWS FOR THE SELECTION OF APPLICANTS FOR ADMISSION TO THE BACHELOR OF
@@ -69,10 +63,6 @@ Grade C at Advanced Level equated to Grade B at Intermediate Level
 
 Grade B at Advanced Level equated to Grade A at Intermediate Level
 
-*2*
-
-SCIENCE (HONOURS) (APPLIED BIOMEDICAL SCIENCE) DEGREE [S.L.327.446 COURSE UNDER THE AUSPICES OF THE FACULTY OF HEALTH SCIENCES
-
 Grade A at Advanced Level equated to Grade A at Intermediate Level.
 
 (c)Applicants who satisfy the general and the special course requirements as laid down in the bye-laws for the course shall be selected from amongst all eligible applicants according to the following categories, listed in order of preference:
@@ -103,13 +93,7 @@ or those with 1 ‘A’ and 1 ‘C’ in the primary subjects and an ‘A’ in 
 
 and those with 2 ‘B’s in the primary subjects and a ‘B’ in the secondary subject
 
-or those with 1 ‘A’ and 1 ‘C’ in the primary subjects and a ‘B’ in the SCIENCE (HONOURS) (APPLIED BIOMEDICAL SCIENCE) DEGREE
-
-*3*
-
-COURSE UNDER THE AUSPICES OF THE FACULTY OF HEALTH SCIENCES [S.L.327.446
-
-secondary subject
+or those with 1 ‘A’ and 1 ‘C’ in the primary subjects and a ‘B’ in the secondary subject
 
 9th Category: those with 2 ‘B’s in the primary subjects and a ‘C’ in the secondary subject
 
@@ -141,11 +125,7 @@ and those with 2 ‘C’s in the primary subjects and a ‘B’ in the secondary
 
 16th Category: those with 2 ‘C’s in the primary subjects and a ‘D’ in the secondary subject
 
-17th Category: those with 2 ‘C’s in the primary SCIENCE (HONOURS) (APPLIED BIOMEDICAL SCIENCE) DEGREE [S.L.327.446 COURSE UNDER THE AUSPICES OF THE FACULTY OF HEALTH SCIENCES
-
-subjects and an ‘E’ in the secondary subject
-
-*4*
+17th Category: those with 2 ‘C’s in the primary subjects and an ‘E’ in the secondary subject
 
 (2) Applicants in possession of the General Entry Requirements may offer passes in the primary subjects and/or in the secondary subject, either as part of the General Entry Requirements or in addition to the General Entry Requirements.
 
@@ -174,12 +154,6 @@ Grade E 6 points 2 points
 18th Category: those with 1 ‘A’ and 1 ‘D’ in the primary subjects and an ‘A’ in the secondary subject
 
 19th Category: those with l ‘A’ and 1 ‘D’ in the primary subjects and a ‘B’ in the secondary subject
-
-SCIENCE (HONOURS) (APPLIED BIOMEDICAL SCIENCE) DEGREE
-
-*5*
-
-COURSE UNDER THE AUSPICES OF THE FACULTY OF HEALTH SCIENCES [S.L.327.446
 
 20th Category: those with 1 ‘A’ and 1 ‘D’ in the primary subjects and a ‘C’ in the secondary subject
 

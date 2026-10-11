@@ -1,6 +1,6 @@
 ---
 title: "Payment of Fees to Jurors Regulations"
-identifier: "S.L. 9.6"
+identifier: "S.L. 9.06"
 eli: "https://legislation.mt/eli/sl/9.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/9.6/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Payment of Fees to Jurors Regulations (S.L. 9.6)
+# Payment of Fees to Jurors Regulations (S.L. 9.06)
 
 **SUBSIDIARY LEGISLATION 9.06**
 

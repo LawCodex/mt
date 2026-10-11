@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science in Applied Oceanography - M.Sc. - under the auspices of the Faculty of Science (S.L. 327.479)
 
-OCEANOGRAPHY - M.Sc. - UNDER THE AUSPICES
-
-*1*
-
-OF THE FACULTY OF SCIENCE [S.L.327.479
-
 **SUBSIDIARY LEGISLATION 327.479**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER IN**
@@ -68,10 +62,6 @@ These bye-laws shall be applicable for courses commencing in October 2021 or lat
 
 (2) In exceptional cases the Admissions Board, on the recommendation of the Board, may admit into the course applicants not in possession of a Bachelor degree, provided that it is satisfied that such applicants are in possession of other academic qualifications and experience that together are deemed to be comparable to the qualifications listed in paragraph (1) of this bye-law. The admission of applicants under this bye-law may be made conditional on the results of an interview conducted by a board appointed for the purpose.
 
-*2*
-
-OCEANOGRAPHY - M.Sc. - UNDER THE AUSPICES [S.L.327.479 OF THE FACULTY OF SCIENCE
-
 (3) Knowledge of Mathematics and programming skills is strongly recommended.
 
 (4) The interviewing board appointed by the Board of Studies shall be composed of at least three members.
@@ -110,13 +100,11 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 (3) A provisional title for the dissertation and a detailed research proposal shall be submitted to the Board for approval by the end of the second semester.
 
-OCEANOGRAPHY - M.Sc. - UNDER THE AUSPICES
+## 8. Supervisor.
 
-*3*
+*Amended by: L.N. 371 of 2015.*
 
-OF THE FACULTY OF SCIENCE [S.L.327.479 8. (1) Students shall be required to have regular contact with their supervisor, not less than once a month.
-
-*Supervisor. Amended by: L.N. 371 of 2015.*
+(1) Students shall be required to have regular contact with their supervisor, not less than once a month.
 
 (2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies, whether the student is following the course on a full-time or a part-time basis. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 

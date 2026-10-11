@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Doctor of Sacred Theology - S.Th.D. - under the auspices of the Faculty of Theology (S.L. 327.44)
 
-*1*
-
-THE AUSPICES OF THE FACULTY OF THEOLOGY [S.L.327.44
-
 **SUBSIDIARY LEGISLATION 327.44**
 
 DOCTOR OF THEOLOGY - S.Th.D. -
@@ -79,11 +75,7 @@ The main area of study shall be an area of Theology or a related area.
 
 ## 7. Registration for the Degree.
 
-Applications for registration for the Degree shall be accepted by Senate, on the recommendations of the Faculty Doctoral Committee and of the Ph.D. Sub-Committee appointed by Senate, in terms of the Ph.D. Regulations, under those conditions [S.L.327.44 THE AUSPICES OF THE FACULTY OF THEOLOGY
-
-as Senate deems fit to impose.
-
-*2*
+Applications for registration for the Degree shall be accepted by Senate, on the recommendations of the Faculty Doctoral Committee and of the Ph.D. Sub-Committee appointed by Senate, in terms of the Ph.D. Regulations, under those conditions as Senate deems fit to impose.
 
 ## 8. Duration of studies.
 
@@ -129,11 +121,7 @@ The Board shall approve and publish guidelines on the format and presentation of
 
 (1) Students shall be required to submit a loose bound copy of their thesis for each member of the Board of Examiners, together with a copy in digital format. The officer in charge of the Faculty shall issue a dated receipt.
 
-(2) On successful completion of their studies, students shall be required to submit to the Faculty two hard bound copies of the thesis and one electronic version within six weeks from the publication of their result. One copy of the thesis shall be kept in the Library of the department and the electronic version shall be kept at the University Library. Students who do not comply with THE AUSPICES OF THE FACULTY OF THEOLOGY [S.L.327.44
-
-this bye-law shall not be awarded the Degree.
-
-*3*
+(2) On successful completion of their studies, students shall be required to submit to the Faculty two hard bound copies of the thesis and one electronic version within six weeks from the publication of their result. One copy of the thesis shall be kept in the Library of the department and the electronic version shall be kept at the University Library. Students who do not comply with this bye-law shall not be awarded the Degree.
 
 (3) In line with the University of Malta’s Institutional Repository Policy, the University Library shall provide in open access the electronic copies of the theses and shall make them publicly available on the University of Malta’s Institutional Repository.
 

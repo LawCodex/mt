@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science - M.Sc. - under the auspices of the Institute for Sustainable Development (S.L. 327.398)
 
-UNDER THE AUSPICES OF THE INSTITUTE
-
-*1*
-
-FOR SUSTAINABLE DEVELOPMENT [S.L.327.398
-
 **SUBSIDIARY LEGISLATION 327.398**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -63,13 +57,7 @@ The course shall be offered in any area of study that falls within the academic 
 
 ## 5. Preparatory programme.
 
-(1) The preparatory programme shall comprise study-units UNDER THE AUSPICES OF THE INSTITUTE
-
-*2*
-
-[S.L.327.398 FOR SUSTAINABLE DEVELOPMENT
-
-to which not less than 30 and not more than 60 credits shall be assigned.
+(1) The preparatory programme shall comprise study-units to which not less than 30 and not more than 60 credits shall be assigned.
 
 (2) Students shall be required to successfully complete the preparatory programme of study with an average mark of 55% or better, prior to their registration in the course.
 
@@ -109,13 +97,7 @@ Director of Institute as Chairman, or his or her delegate, and two other members
 
 (3) Students shall be required to report to their supervisors at least once every two months, and in addition as often as the supervisor deems necessary.
 
-(4) At the end of each semester of studies supervisors shall be required to submit to the Panel of Supervision reports for the students under their supervision. Students shall seek approval from the Panel of Supervision for any substantial modification in the title or content of the dissertation. The dissertation may not normally be submitted for examination without the knowledge of UNDER THE AUSPICES OF THE INSTITUTE
-
-*3*
-
-FOR SUSTAINABLE DEVELOPMENT [S.L.327.398
-
-the supervisor.
+(4) At the end of each semester of studies supervisors shall be required to submit to the Panel of Supervision reports for the students under their supervision. Students shall seek approval from the Panel of Supervision for any substantial modification in the title or content of the dissertation. The dissertation may not normally be submitted for examination without the knowledge of the supervisor.
 
 (5) The Panel of Supervision shall periodically inform the Board, in writing, on the general performance of each student. Such advice may include recommendations to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 

@@ -1,6 +1,6 @@
 ---
 title: "Hospital Admission Forms Regulations"
-identifier: "S.L. 262.1"
+identifier: "S.L. 262.01"
 eli: "https://legislation.mt/eli/sl/262.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/262.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Hospital Admission Forms Regulations (S.L. 262.1)
+# Hospital Admission Forms Regulations (S.L. 262.01)
 
 SUBSIDIARY LEGISLATION 262.01
 

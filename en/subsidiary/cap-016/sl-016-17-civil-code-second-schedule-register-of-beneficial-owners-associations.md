@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Civil Code (Second Schedule) (Register of Beneficial Owners - Associations) Regulations (S.L. 16.17)
 
-*1*
-
-(REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS) [S.L. 16.17 SUBSIDIARY LEGISLATION 16.17
+**SUBSIDIARY LEGISLATION 16.17**
 
 **CIVIL CODE (SECOND SCHEDULE)**
 
@@ -53,11 +51,9 @@ retrieved: 2026-10-12
 
 (b) in the case of associations which are not registered, those persons who are designated as such in the resolution appointing the same, and who agree in writing to so act; and
 
-(c) where the administrator is a legal organisation, the persons appointed to act as directors of such legal organisation, or the equivalent, if designated under any other name, and who [S.L. 16.17 (REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS) agree in writing to so act,
+(c) where the administrator is a legal organisation, the persons appointed to act as directors of such legal organisation, or the equivalent, if designated under any other name, and who agree in writing to so act,
 
 and this, for as long as they continue to occupy such office and whether resident in Malta or otherwise and for the avoidance of doubt, in the event that an association has appointed a liquidator in the process of its winding up, such liquidator shall have the same duties of administrators under these regulations:
-
-*2*
 
 Provided that a reference to an administrator of an association with respect to carrying out any act or signing a document, shall be deemed to include any person who is engaged or to whom such function has been delegated in writing by the association, the legal organisation or the relevant administrator or director who shall be deemed to have the authority to delegate such powers in virtue hereof;
 
@@ -73,11 +69,9 @@ Provided that a reference to an administrator of an association with respect to 
 
 Provided that any reference to a director of a legal organisation with respect to carrying out any act or signing a document, shall be deemed to include any person who is engaged or to whom such function has been delegated in writing by the association, the legal organisation or the relevant administrator or director who shall be deemed to have the authority to delegate such powers in virtue hereof;
 
-*3*
-
-(REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS) [S.L. 16.17 "Financial Intelligence Analysis Unit" means the Unit established under the Prevention of Money Laundering Act;
-
 *Cap. 373.*
+
+"Financial Intelligence Analysis Unit" means the Unit established under the Prevention of Money Laundering Act;
 
 "Minister" means the Minister responsible for the registration of limited liability companies and commercial partnerships;
 
@@ -103,9 +97,7 @@ and for the purposes of paragraph (c) above:
 
 (iii) the term "material actions" means the following actions, or any other actions achieving the same result, taken by relevant persons:
 
-*4*
-
-[S.L. 16.17 (REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS) (aa) the amendment of the statute;
+(aa) the amendment of the statute;
 
 (bb) the appointment or removal of administrators or protectors or members of the supervisory council;
 
@@ -143,11 +135,9 @@ and for the purposes of paragraph (c) above:
 
 (3) These regulations shall not apply to:
 
-*5*
-
-(REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS) [S.L. 16.17 (a) any association of persons which is regulated by the Companies Act;
-
 *Cap. 386.*
+
+(a) any association of persons which is regulated by the Companies Act;
 
 (b) any association which is established as a condominium association in accordance with the Condominium Act;
 
@@ -171,11 +161,9 @@ Provided that for the purposes of the said paragraph (c), when reference is made
 
 (2) Any person who has reasonable cause to believe that he is a beneficial owner of an association shall be bound to provide the information required under sub-regulation (1) to the association without delay:
 
-Provided that, without prejudice to the aforesaid, the [S.L. 16.17 (REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS) association shall obtain the information required under sub-regulation (1) from the beneficial owners of the association and, or from any natural person whom it has reasonable cause to believe to be a beneficial owner, who shall be bound to provide the said information to the association within a reasonable time of being requested, not being in excess of fourteen (14) days, and every beneficial owner who acquires, disposes of, increases or reduces his beneficial interest in the association or whose interest is disposed of, increased or reduced through an action of the administrators of the association or of any other person having powers to do so under the statute of the association, and every person who is appointed or ceases to be or to carry out the role of a relevant person within the association shall be bound to provide the said information to the association within fourteen (14) days of such event taking place:
+Provided that, without prejudice to the aforesaid, the association shall obtain the information required under sub-regulation (1) from the beneficial owners of the association and, or from any natural person whom it has reasonable cause to believe to be a beneficial owner, who shall be bound to provide the said information to the association within a reasonable time of being requested, not being in excess of fourteen (14) days, and every beneficial owner who acquires, disposes of, increases or reduces his beneficial interest in the association or whose interest is disposed of, increased or reduced through an action of the administrators of the association or of any other person having powers to do so under the statute of the association, and every person who is appointed or ceases to be or to carry out the role of a relevant person within the association shall be bound to provide the said information to the association within fourteen (14) days of such event taking place:
 
 Provided further that, in cases where a member is a legal organisation or a fiduciary or other intermediary, information shall be obtained with reference to the natural person who is the ultimate beneficial owner thereof.
-
-*6*
 
 (3) Such information shall be verified by the association on the basis of documents, data or information obtained from a reliable source and the association shall not enter the name of any beneficial owner in the register of beneficial owners - members, or the register of beneficial owners - relevant persons, unless it has reasonably confirmed the accuracy of the information. The association shall also ensure that it obtains declarations confirming that the beneficial owner is not an intermediary, such as an agent, mandatory or trustee, for another person, and, if so, the association shall also obtain information on the natural person who is the principal or beneficiary of such intermediary.
 
@@ -185,11 +173,9 @@ Any information contained in the statute of an association, a power of attorney,
 
 (a) a register of beneficial owners - members, which shall contain such information about the members of the association; or
 
-(b) a register of beneficial owners - relevant persons, which shall contain such information about the persons (REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS) [S.L. 16.17 mentioned in paragraphs (a) to (c) of the definition "relevant persons" in these regulations,
+(b) a register of beneficial owners - relevant persons, which shall contain such information about the persons mentioned in paragraphs (a) to (c) of the definition "relevant persons" in these regulations,
 
 as the case may be, which registers shall be kept and maintained by the association, or its delegates, at the registered address of the association or at such other place as may be specified in the statute of the association.
-
-*7*
 
 (5) Unless an association has obtained, as may be applicable, information on the underlying beneficial ownership and unless it has carried out the verifications required by these regulations, it shall not:
 
@@ -209,11 +195,9 @@ as the case may be, which registers shall be kept and maintained by the associat
 
 (a) the association and every administrator of the association who is in default shall be jointly and severally liable to a penalty, and, for every day during which the default continues, to a further penalty:
 
-Provided that the association and the administrators of the association shall not be liable if they had [S.L. 16.17 (REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS) exercised all due diligence to comply with the provisions of this regulation and the default was not due to any negligent act or omission on their part; and
+Provided that the association and the administrators of the association shall not be liable if they had exercised all due diligence to comply with the provisions of this regulation and the default was not due to any negligent act or omission on their part; and
 
 (b) every member or any person referred to in paragraphs (b) or (c) of the definition relevant person who is in default, without valid excuse, shall be liable to a penalty and, for every day during which the default continues, to a further penalty.
-
-*8*
 
 (9) Nothing in this regulation shall have any effect on the obligation of any association to establish and maintain a register of members referred to in article 51 of the Second Schedule or the equivalent referred to in other special laws which may be applicable to any particular type of association.
 
@@ -231,11 +215,9 @@ whichever is the earlier.
 
 (1) Where an association has been established prior to 30th June 2019, irrespective of whether this is registered or not with the Registrar for Legal Persons in terms of the Second Schedule or applicable regulations or with any other registrar, commissioner, board or authority in terms of any special law, there shall be delivered to the Registrar for Legal Persons by 30th June, 2019 a declaration, in the prescribed form, signed by one of the administrators of the association, containing adequate, accurate and up-to-date information in accordance with regulation 4 on all the beneficial owners of the association. Where the administrator is a body corporate, such declaration shall be signed by one director thereof:
 
-Provided that if the association is not registered with the (REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS) [S.L. 16.17 Registrar for Legal Persons in terms of the Second Schedule or applicable regulations, there shall also be delivered to the Registrar for Legal Persons by the aforementioned date, together with the aforementioned declaration, an authenticated copy of the statute of the association.
+Provided that if the association is not registered with the Registrar for Legal Persons in terms of the Second Schedule or applicable regulations, there shall also be delivered to the Registrar for Legal Persons by the aforementioned date, together with the aforementioned declaration, an authenticated copy of the statute of the association.
 
 (2) An association referred to in this regulation shall not be registered, if the association is not registered and, in any case all relative forms and documents, shall not be registered in accordance with the Second Schedule and applicable special laws unless the Registrar for Legal Persons is satisfied that the requirements of this regulation have also been complied with, and this, notwithstanding the maximum date for compliance stated in the preceding sub-regulation.
-
-*9*
 
 ## 6. Associations established on or after 1st July 2019 up to the date of coming into force of these regulations.
 
@@ -247,13 +229,11 @@ Provided that if the association is not registered with the Registrar for Legal 
 
 (a) in the case of an association which is not registered with the Registrar for Legal Persons in terms of the Second Schedule or applicable regulations or with any other registrar, commissioner, board or authority in terms of any special law, the association shall comply with these regulations before it commences activities notwithstanding the date for compliance stated in sub-regulation (1); and
 
-(b) in the case of an association which seeks registration with the Registrar for Legal Persons in terms of the Second Schedule or applicable regulations or with any other [S.L. 16.17 (REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS) registrar, commissioner, board or authority in terms of any special law, the association shall not commence activities and the association and all relative documents, shall not be registered in accordance with the applicable special laws unless the Registrar for Legal Persons is satisfied that the requirements of these regulations have also been complied with and this, notwithstanding the date for compliance stated in sub-regulation (1).
+(b) in the case of an association which seeks registration with the Registrar for Legal Persons in terms of the Second Schedule or applicable regulations or with any other registrar, commissioner, board or authority in terms of any special law, the association shall not commence activities and the association and all relative documents, shall not be registered in accordance with the applicable special laws unless the Registrar for Legal Persons is satisfied that the requirements of these regulations have also been complied with and this, notwithstanding the date for compliance stated in sub-regulation (1).
 
 *Associations established after the coming into force of these regulations.*
 
 (3) Any association which is established after the coming into force of these regulations, irrespective of whether this is to be registered or not with the Registrar for Legal Persons in terms of the Second Schedule or applicable regulations or with any other registrar, commissioner, board or authority in terms of any special law, shall comply with these regulations within three (3) months of the date of its establishment and there shall be delivered to the Registrar for Legal Persons within such time period:
-
-*10*
 
 (a) a declaration in the prescribed form, signed by one of the administrators of the association containing adequate, accurate and up-to-date information in accordance with regulation 4 on all the beneficial owners of the association. Where the administrator is a body corporate, such declaration shall be signed by one director thereof; and
 
@@ -263,13 +243,11 @@ Provided that if the association is not registered with the Registrar for Legal 
 
 (a) in the case of an association which is not registered with the Registrar for Legal Persons in terms of the Second Schedule or applicable regulations or with any other registrar, commissioner, board or authority in terms of any special law, the association shall comply with these regulations before it commences activities; and
 
-(b) in the case of an association which seeks registration with the Registrar for Legal Persons in terms of the Second Schedule or applicable regulations or with any other registrar, commissioner, board or authority in terms of any special law, the association shall not commence activities and the association and all relative documents, shall not be registered in accordance with the applicable special law unless the Registrar for Legal Persons is satisfied that the requirements (REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS) [S.L. 16.17 of this regulation have also been complied with.
+(b) in the case of an association which seeks registration with the Registrar for Legal Persons in terms of the Second Schedule or applicable regulations or with any other registrar, commissioner, board or authority in terms of any special law, the association shall not commence activities and the association and all relative documents, shall not be registered in accordance with the applicable special law unless the Registrar for Legal Persons is satisfied that the requirements of this regulation have also been complied with.
 
 *Rules applicable to all cases for regulations 5 and 6.*
 
 (5) (a) Any personal data submitted to the Registrar for Legal Persons under these regulations, shall be current and shall correspond to the actual beneficial owners of the association on the date of submission.
-
-*11*
 
 (b) On a continuing basis, if the association is registered, the Registrar for Legal Persons, or where the registration has taken place under a special law, the relevant registrar, commissioner, board or authority, shall not proceed with the registration of any registerable forms or documents of the association delivered to him in accordance with any applicable special law, unless the Registrar for Legal Persons is satisfied that the requirements of these regulations have been complied with.
 
@@ -291,9 +269,7 @@ Provided that the association and the administrators of the association shall no
 
 (1) The information on the beneficial owners of every association provided to the Registrar for Legal Persons in accordance with these regulations shall be entered and held by the Registrar for Legal Persons in a Register of Beneficial Owners kept for this purpose, which register may be in electronic format.
 
-*12*
-
-[S.L. 16.17 (REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS) (2) Documents required to be delivered to the Registrar for Legal Persons under any of the provisions of these regulations shall not form part of, nor be registered in, the main Register of Legal Persons administered by the Registrar for Legal Persons under the Second Schedule and the information on the beneficial owners of every association provided to the Registrar for Legal Persons in accordance with these regulations shall be entered and held by the Registrar for Legal Persons only in the Register of Beneficial Owners kept by the Registrar for Legal Persons for this purpose.
+(2) Documents required to be delivered to the Registrar for Legal Persons under any of the provisions of these regulations shall not form part of, nor be registered in, the main Register of Legal Persons administered by the Registrar for Legal Persons under the Second Schedule and the information on the beneficial owners of every association provided to the Registrar for Legal Persons in accordance with these regulations shall be entered and held by the Registrar for Legal Persons only in the Register of Beneficial Owners kept by the Registrar for Legal Persons for this purpose.
 
 (3) The Register of Beneficial Owners shall be accessible only to such persons, under such conditions and in accordance with such procedures as are set out in these regulations. For the avoidance of doubt, in case of conflict regarding accessibility between any special law governing a particular legal form of association, including the Second Schedule, and these regulations, these regulations shall prevail over the provisions of any special law in so far the Register of Beneficial Owners is concerned.
 
@@ -307,11 +283,9 @@ Provided that the association and the administrators of the association shall no
 
 Provided that if the change in the beneficial ownership information relates to a change in the administrator(s), it shall be the duty of the administrator(s) in office thereafter to notify the Registrar for Legal Persons of such change.
 
-(3) The Registrar for Legal Persons shall not, upon receiving the notice referred to in the preceding sub-regulation, register any changes in the beneficial owners in the Register of Beneficial Owners (REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS) [S.L. 16.17 unless the requirements of these regulations have been complied with, and this, with reference to the notice itself or for any other reason.
+(3) The Registrar for Legal Persons shall not, upon receiving the notice referred to in the preceding sub-regulation, register any changes in the beneficial owners in the Register of Beneficial Owners unless the requirements of these regulations have been complied with, and this, with reference to the notice itself or for any other reason.
 
 (4) The notice of changes in beneficial ownership referred to in sub-regulation (2), duly completed, shall be signed by at least one administrator of the association. Where the administrator is a body corporate, such notice shall be signed by at least a director thereof.
-
-*13*
 
 (5) In case of default in complying with the provisions of this regulation, the association and every administrator of the association who is in default shall be jointly and severally liable to a penalty, and, for every day during which the default continues, to a further penalty:
 
@@ -335,9 +309,7 @@ the person aggrieved or any member or relevant person may apply to the Civil Cou
 
 (b) decide any question as to whether the name of any person should or should not be entered in or removed from the relevant register, as the case may be;
 
-*14*
-
-[S.L. 16.17 (REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS) (c) order the rectification of the relevant register, as the case may be;
+(c) order the rectification of the relevant register, as the case may be;
 
 (d) order payment by the association of compensation of up to one thousand euro (€1,000) for any loss sustained by any party aggrieved; and, or
 
@@ -355,11 +327,9 @@ the person aggrieved or any member or relevant person may apply to the Civil Cou
 
 (d) The Registrar for Legal Persons may report such discrepancies to the Financial Intelligence Analysis Unit in case of failure to address the discrepancy within a reasonable time.
 
-*15*
+## 10. in the
 
-(REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS) [S.L. 16.17 10. (1) The information on the beneficial owners of an Access to association held by the Registrar for Legal Persons in the Register of information Register of Beneficial Owners shall, subject to the provisions of these regulations, Beneficial Owners. be accessible to:
-
-*in the*
+(1) The information on the beneficial owners of an Access to association held by the Registrar for Legal Persons in the Register of information Register of Beneficial Owners shall, subject to the provisions of these regulations, Beneficial Owners. be accessible to:
 
 (a) national competent authorities being public
 
@@ -431,10 +401,6 @@ owners of the association which may be in the possession of the
 
 Registrar for Legal Persons.
 
-*[S.L. 16.17 16*
-
-(REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS)
-
 (3) The subject persons mentioned in sub-regulation (1)(b) shall, together with the written request, submit to the Registrar for Legal Persons:
 
 (a) identification details and other information supported by documents, certified as authentic, showing that the person requesting access to the Register is a subject person, such as a licence or a professional warrant or other evidence of the function of the subject person;
@@ -455,9 +421,7 @@ Registrar for Legal Persons.
 
 Provided that for this purpose, the Registrar for Legal Persons may publish guidelines setting out the documentation required to support such a request to information held in the Register of Beneficial Owners as well as the procedure for making such requests and any other applicable conditions.
 
-*17*
-
-(REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS) [S.L. 16.17 (5) To prevent the abuse of the information contained in the Register of Beneficial Owners and to balance out the rights of beneficial owners, the Registrar may make:
+(5) To prevent the abuse of the information contained in the Register of Beneficial Owners and to balance out the rights of beneficial owners, the Registrar may make:
 
 (a) information relating to the applicants mentioned in sub-regulations (1)(b) and (2);
 
@@ -479,11 +443,9 @@ Provided that any such request and any permission granted shall be limited to th
 
 *Special cases involving serious risks.*
 
-(7) (a) Except in the case contemplated in sub-regulation (1)(a) or in the case of credit or financial institutions in the course of carrying out their duties under laws for the prevention of money laundering and terrorist financing or of subject persons that are public officials, access to information on a beneficial owner of an association [S.L. 16.17 (REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS) may be denied, in full or in part where, in exceptional circumstances to be justified by means of documentary evidence and to be determined on a case by case basis, following a detailed evaluation of the exceptional nature of the circumstances, access to such beneficial ownership information would expose the beneficial owner to disproportionate risk, risk of fraud, kidnapping, blackmail, extortion, harassment, violence or intimidation, or where the beneficial owner is a minor or is otherwise legally incapable.
+(7) (a) Except in the case contemplated in sub-regulation (1)(a) or in the case of credit or financial institutions in the course of carrying out their duties under laws for the prevention of money laundering and terrorist financing or of subject persons that are public officials, access to information on a beneficial owner of an association may be denied, in full or in part where, in exceptional circumstances to be justified by means of documentary evidence and to be determined on a case by case basis, following a detailed evaluation of the exceptional nature of the circumstances, access to such beneficial ownership information would expose the beneficial owner to disproportionate risk, risk of fraud, kidnapping, blackmail, extortion, harassment, violence or intimidation, or where the beneficial owner is a minor or is otherwise legally incapable.
 
 (b) Every request for information which raises the above risks based on information provided by the association when complying with these regulations shall be examined by the Registrar for Legal Persons on a case-by-case basis prior to his determination on whether to grant access to information or otherwise. Such denial of access by the Registrar for Legal Persons shall only be decided upon a detailed evaluation of the exceptional nature of the circumstances.
-
-*18*
 
 (8) (a) The Registrar for Legal Persons shall be bound to notify the association to which sub-regulation (7) applies, in writing, of any application for information relating to the applicants mentioned in sub-regulations (1)(b), and (2) and the legal basis for the request.
 
@@ -497,9 +459,7 @@ Provided that the Registrar for Legal Persons shall not grant access until the c
 
 (9) (a) The Registrar for Legal Persons shall be bound to notify in writing the applicant, with a copy to the association, of any decisions that he may take refusing a written request made to him on the basis of sub-regulation (7), providing the reasons for his decision. The Registrar for Legal Persons shall do so in a timely manner.
 
-*19*
-
-(REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS) [S.L. 16.17 (b) Any applicant who feels aggrieved by the decision of the Registrar for Legal Persons shall have a right to apply for judicial review of such decision, within twenty (20) working days from receipt thereof, which application for judicial review shall also be notified to the Registrar for Legal Persons who shall have twenty (20) working days to respond to such application. The sworn application shall also be notified to the association, which may consult the relevant beneficial owner and who shall be entitled to participate in the proceedings with the association.
+(b) Any applicant who feels aggrieved by the decision of the Registrar for Legal Persons shall have a right to apply for judicial review of such decision, within twenty (20) working days from receipt thereof, which application for judicial review shall also be notified to the Registrar for Legal Persons who shall have twenty (20) working days to respond to such application. The sworn application shall also be notified to the association, which may consult the relevant beneficial owner and who shall be entitled to participate in the proceedings with the association.
 
 (10) A sworn application for judicial review from the decision of the Registrar for Legal Persons in terms of sub-regulation (8) and (9) shall be made to the Civil Court, First Hall, and this, with a right of appeal, within twenty (20) working days from the date on which the decision of the Civil Court, First Hall is given, to the Court of Appeal in its inferior jurisdiction. An appeal may be made on any point of law and, or of fact by means of a sworn application.
 
@@ -521,13 +481,11 @@ Provided that the Registrar for Legal Persons shall not grant access until the c
 
 (1) All persons entitled to access and to the receipt of information in terms of these regulations shall comply with the provisions of the Data Protection Act and relevant regulations thereunder in relation to the information which they have accessed or received and they shall also be subject to the obligation not to disclose any information about beneficial owners except as required or permitted by applicable law.
 
-(2) The Registrar for Legal Persons shall be bound to [S.L. 16.17 (REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS) maintain confidentiality on any access to the Register of Beneficial Owners by the authorities referred to in regulation 10(1)(a) and shall not inform the association or the beneficial owners on whom information is sought of such access. In all other cases the Registrar for Legal Persons shall act according to these regulations and shall endeavour to do so within reasonable times.
+(2) The Registrar for Legal Persons shall be bound to maintain confidentiality on any access to the Register of Beneficial Owners by the authorities referred to in regulation 10(1)(a) and shall not inform the association or the beneficial owners on whom information is sought of such access. In all other cases the Registrar for Legal Persons shall act according to these regulations and shall endeavour to do so within reasonable times.
 
 ## 12. Provisions to support the functions of the Registrar for Legal Persons.
 
 (1) The provision of information by associations in accordance with these regulations to the Registrar for Legal Persons shall not imply that such associations do not remain equally obliged to provide any information requested of them by subject persons taking customer due diligence measures in accordance with the Prevention of Money Laundering Act and applicable regulations, as well as others entitled to such information under special laws, about such association and its beneficial owners.
-
-*20*
 
 *Cap. 373.*
 
@@ -545,11 +503,9 @@ Provided that the Registrar for Legal Persons shall not grant access until the c
 
 (3) In any case, subject persons shall not rely exclusively on the Register of Beneficial Owners to fulfil their customer due diligence requirements and access to such Register of Beneficial Owners by subject persons in terms of these regulations shall not exonerate such subject persons from all responsibilities and duties incumbent upon them in terms of applicable law.
 
-*21*
+## 13. deceptive information.
 
-(REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS) [S.L. 16.17 13. (a) Any administrator of an association who Misleading, false knowingly or recklessly makes a statement, declaration or otherwise or provides to the Registrar for Legal Persons information on the beneficial ownership of an association that is misleading, false or deceptive in a material particular; and
-
-*deceptive information.*
+(a) Any administrator of an association who Misleading, false knowingly or recklessly makes a statement, declaration or otherwise or provides to the Registrar for Legal Persons information on the beneficial ownership of an association that is misleading, false or deceptive in a material particular; and
 
 (b) any beneficial owner of an association who knowingly or recklessly makes a statement, declaration or otherwise provides to the administrators of an association information on the beneficial ownership of an association, that is misleading, false or deceptive in a material particular,
 
@@ -567,9 +523,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine (multa
 
 (b) the association has been struck off from the Register of Legal Persons or, if the association is, for any reason, not registered in terms of the Second Schedule or applicable regulations, from the date on which the certified copy of the winding up resolution is delivered to the Registrar for Legal Persons in accordance with article 59 of the Second Schedule; or
 
-*22*
-
-[S.L. 16.17 (REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS) (c) there is the termination of registration in case of the continuation of the association in another country in accordance with article 22A of the Second Schedule,
+(c) there is the termination of registration in case of the continuation of the association in another country in accordance with article 22A of the Second Schedule,
 
 whichever is the earlier.
 
@@ -597,13 +551,11 @@ Access to information in the Register of Beneficial Owners may be subject to the
 
 ## 18. Forms.
 
-The Registrar for Legal Persons shall have the power to (REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS) [S.L. 16.17 issue and prescribe forms, and to modify the same as may be required, from time to time, to be used by associations, beneficial owners, persons requesting access and information and otherwise, for the better carrying out and implementation of these regulations.
+The Registrar for Legal Persons shall have the power to issue and prescribe forms, and to modify the same as may be required, from time to time, to be used by associations, beneficial owners, persons requesting access and information and otherwise, for the better carrying out and implementation of these regulations.
 
 ## 19. Guidelines.
 
 The Registrar for Legal Persons may, from time to time, issue guidelines for the better implementation of these regulations in particular contexts.
-
-*23*
 
 ## SCHEDULE
 
@@ -643,11 +595,7 @@ time period €500 €5
 
 The following provisions shall apply to any penalty imposed by the Registrar for Legal Persons in terms of the Civil Code (Second Schedule) (Register of Beneficial Owners - Associations) Regulations:
 
-(1) Where the Registrar for Legal Persons gives notice in writing to any association and, or any person that such association and, or person has become liable to a penalty under these regulations specifying the nature of the infringement, and indicating an amount as due by way of penalty in respect of such infringement, the association and, or person to whom the notice is given shall, without prejudice to the provisions of paragraphs (2) to (15) be deemed to have incurred a penalty under these regulations, and the amount indicated as aforesaid as due by way (REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS)
-
-of penalty including any penalty due for each day during which the default continues shall be deemed to be the penalty due under these regulations in respect of the infringement specified in the notice.
-
-*[S.L. 16.17 24*
+(1) Where the Registrar for Legal Persons gives notice in writing to any association and, or any person that such association and, or person has become liable to a penalty under these regulations specifying the nature of the infringement, and indicating an amount as due by way of penalty in respect of such infringement, the association and, or person to whom the notice is given shall, without prejudice to the provisions of paragraphs (2) to (15) be deemed to have incurred a penalty under these regulations, and the amount indicated as aforesaid as due by way of penalty including any penalty due for each day during which the default continues shall be deemed to be the penalty due under these regulations in respect of the infringement specified in the notice.
 
 *(2)*
 
@@ -679,11 +627,9 @@ The application, and the notice of the date fixed for hearing, shall be served o
 
 *(9)*
 
-The Registrar for Legal Persons shall, in his reply, state clearly and concisely whether he agrees to the facts set out in the application, and the reasons why he objects to the claim; he shall moreover state in his reply the names of the witnesses in support (REGISTER OF BENEFICIAL OWNERS – ASSOCIATIONS) [S.L. 16.17 of his reasons and shall attach thereto all the documents in support thereof.
+The Registrar for Legal Persons shall, in his reply, state clearly and concisely whether he agrees to the facts set out in the application, and the reasons why he objects to the claim; he shall moreover state in his reply the names of the witnesses in support of his reasons and shall attach thereto all the documents in support thereof.
 
 (10) On the day fixed for the hearing of the application, the court shall consider only the issues of fact and of law as are ascertainable from the application, reply or documents filed, by either of the parties, or from the evidence indicated by either of the parties in the application or reply, as the case may be, or from the oral pleading of either of the parties.
-
-*25*
 
 (11) The court shall hear the application to a conclusion within five (5) working days from the date fixed for the original hearing of the application, and no adjournment shall be granted except either with the consent of both parties, or for an exceptional reason to be recorded by the court, and such adjourned date shall not be later than that justified by any such reason.
 

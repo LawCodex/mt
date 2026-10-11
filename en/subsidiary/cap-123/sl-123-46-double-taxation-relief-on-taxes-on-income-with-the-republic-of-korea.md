@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Republic of Korea Order (S.L. 123.46)
 
-*1*
-
-WITH THE REPUBLIC OF KOREA [S.L.123.46
-
 **SUBSIDIARY LEGISLATION 123.46**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -46,8 +42,6 @@ It is hereby declared -
 (iv) the special tax for rural development;
 
 (b) that it is expedient that those arrangements should have effect.
-
-2 [S.L.123.46 WITH THE REPUBLIC OF KOREA
 
 ## SCHEDULE — CONVENTION — BETWEEN THE REPUBLIC OF MALTA
 
@@ -105,9 +99,7 @@ This Convention shall apply also to any identical or substantially similar taxes
 
 \1. For the purposes of this Convention, unless the context otherwise requires:
 
-(a) the term "Korea" means the territory of the Republic of Korea including any area adjacent to the territorial sea of the Republic of Korea which, in accordance with international law, has been or may hereafter be designated under the laws of the Republic of Korea as an area within which the sovereign rights of the Republic of Korea with respect to the sea-bed and sub-soil and their natural resources may be WITH THE REPUBLIC OF KOREA [S.L.123.46 3
-
-exercised;
+(a) the term "Korea" means the territory of the Republic of Korea including any area adjacent to the territorial sea of the Republic of Korea which, in accordance with international law, has been or may hereafter be designated under the laws of the Republic of Korea as an area within which the sovereign rights of the Republic of Korea with respect to the sea-bed and sub-soil and their natural resources may be exercised;
 
 (b) the term "Malta", when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, and any area outside the territorial sea of the Republic of Malta which, in accordance with international law, has been or may hereafter be designated, under the law of the Republic of Malta concerning the Continental Shelf, as an area within which the rights of the Republic of Malta with respect to the sea-bed and sub-soil and their natural resources may be exercised;
 
@@ -143,11 +135,7 @@ As regards the application of the Convention by a Contracting State any term not
 
 **Resident**
 
-\1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of head or main office, place of management or any other criterion of a similar nature. But this term does not include any person who is liable to tax in that State in respect only of income from sources in that State. 4 [S.L.123.46 WITH THE REPUBLIC OF KOREA
-
-## 2.
-
-Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
+\1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of head or main office, place of management or any other criterion of a similar nature. But this term does not include any person who is liable to tax in that State in respect only of income from sources in that State. 2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
 (a) he shall be deemed to be a resident solely of the State in which he has a permanent home available to him; if he has a permanent home available to him in both States, he shall be deemed to be a resident solely of the State with which his personal and economic relations are closer (centre of vital interests);
 
@@ -195,9 +183,7 @@ Notwithstanding the preceding provisions of this Article, the term "permanent es
 
 (c) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of processing by another enterprise;
 
-(d) the maintenance of a fixed place of business solely for the purpose of WITH THE REPUBLIC OF KOREA [S.L.123.46 5
-
-purchasing goods or merchandise, or of collecting information, for the enterprise;
+(d) the maintenance of a fixed place of business solely for the purpose of purchasing goods or merchandise, or of collecting information, for the enterprise;
 
 (e) the maintenance of a fixed place of business solely for the purpose of carrying on, for the enterprise, any other activity of a preparatory or auxiliary character;
 
@@ -233,8 +219,6 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
-6 [S.L.123.46 WITH THE REPUBLIC OF KOREA
-
 \4. The provisions of paragraphs 1 and 3 shall also apply to the income from immovable property of an enterprise and to income from immovable property used for the performance of independent personal services.
 
 **ARTICLE 7**
@@ -262,8 +246,6 @@ The fact that a company which is a resident of a Contracting State controls or i
 \1. Profits of an enterprise of a Contracting State from the operation of ships, aircraft or road vehicles in international traffic shall be taxable only in that State.
 
 \2. The provisions of paragraph 1 shall also apply to profits derived from the participation in a pool, a joint business or an international operating agency.
-
-WITH THE REPUBLIC OF KOREA [S.L.123.46 7
 
 **ARTICLE 9**
 
@@ -295,9 +277,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \4. Paragraphs 2 and 3 shall not affect the taxation of the company in respect of the profits out of which the dividends are paid.
 
-\5. The term "dividends" as used in this Article means income from shares, "jouissance" shares or "jouissance" rights, mining shares, founders’ shares or other 8 [S.L.123.46 WITH THE REPUBLIC OF KOREA
-
-rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
+\5. The term "dividends" as used in this Article means income from shares, "jouissance" shares or "jouissance" rights, mining shares, founders’ shares or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
 
 \6. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
@@ -321,9 +301,7 @@ rights, not being debt-claims, participating in profits, as well as income from 
 
 (d) interest paid in connection with the sale on credit of any industrial, commercial or scientific equipment or paid in connection with the sale on credit of any merchandise by one enterprise to another enterprise shall be taxable only in the Contracting State of which the beneficiary is a resident.
 
-\4. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right WITH THE REPUBLIC OF KOREA [S.L.123.46 9
-
-to participate in the debtor’s profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures.
+\4. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor’s profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures.
 
 \5. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
@@ -343,9 +321,7 @@ In such case, the excess part of the payments shall remain taxable according to 
 
 \3. The provisions of paragraph 1 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
-\4. Royalties shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a 10 [S.L.123.46 WITH THE REPUBLIC OF KOREA
-
-Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
+\4. Royalties shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
 \5. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
@@ -370,8 +346,6 @@ Contracting State or not, has in a Contracting State a permanent establishment o
 \1. Income derived by a resident of a Contracting State in respect of professional services or other activities of an independent character shall be taxable only in that State. However, such income may be taxed in the other Contracting State in the following circumstances:
 
 (a) if he has a fixed base regularly available to him in the other Contracting State for the purpose of performing his activities (in which case only so much of the income as is attributable to that fixed base may be taxed in that other Contracting State); or
-
-WITH THE REPUBLIC OF KOREA [S.L.123.46 11
 
 (b) if his stay in the other Contracting State is for a period or periods amounting to or exceeding in the aggregate 183 days during any calendar year.
 
@@ -405,9 +379,7 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 \2. Where income in respect of personal activities exercised by an entertainer or an athlete in his capacity as such accrues not to the entertainer or athlete himself but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the entertainer or athlete are exercised.
 
-\3. The provisions of paragraphs 1 and 2 shall not apply to remuneration or 12 [S.L.123.46 WITH THE REPUBLIC OF KOREA
-
-profits, salaries, wages and similar income derived from activities performed in a Contracting State by entertainers or athletes if their visit to that State is substantially supported from the public funds of the other Contracting State, including those of any political subdivision, a local authority or statutory body thereof, nor to income derived by a non-profit making organisation in respect of such activities provided no part of its income is payable to, or is otherwise available for the personal benefit of its proprietors, members or shareholders.
+\3. The provisions of paragraphs 1 and 2 shall not apply to remuneration or profits, salaries, wages and similar income derived from activities performed in a Contracting State by entertainers or athletes if their visit to that State is substantially supported from the public funds of the other Contracting State, including those of any political subdivision, a local authority or statutory body thereof, nor to income derived by a non-profit making organisation in respect of such activities provided no part of its income is payable to, or is otherwise available for the personal benefit of its proprietors, members or shareholders.
 
 **ARTICLE 18**
 
@@ -436,8 +408,6 @@ profits, salaries, wages and similar income derived from activities performed in
 \3. The provisions of Articles 15, 16 and 18 shall apply to remuneration and pensions in respect of services rendered in connection with a business carried on by a Contracting State or a political subdivision or a local authority or a statutory body thereof.
 
 \4. The provisions of paragraphs 1 and 2 of this Article shall likewise apply in respect of remuneration or pensions paid, in the case of Korea, by the Bank of Korea, the Export-Import Bank of Korea, the Korea Development Bank, the Korea Trade Promotion Corporation and other Government owned institutions performing functions of a governmental nature.
-
-WITH THE REPUBLIC OF KOREA [S.L.123.46 13
 
 **ARTICLE 20**
 
@@ -469,8 +439,6 @@ Payments which a student or business apprentice who is or was immediately before
 
 Subject to the provisions of Korean tax law regarding the allowance as a credit against Korean tax of tax payable in any country other than Korea (which shall not affect the general principle hereof), the Malta tax payable (excluding in the case of a dividend, tax payable in respect of the profits out of which the dividend is paid) under the laws of Malta and in accordance with this Convention, whether directly or by deduction, in respect of income from sources within Malta shall be allowed as a credit against Korean tax payable in respect of that income. The credit shall not, however, exceed that proportion of Korean tax which the income from sources within Malta bears to the entire income subject to Korean tax.
 
-14 [S.L.123.46 WITH THE REPUBLIC OF KOREA
-
 \2. In the case of Malta, double taxation shall be eliminated as follows:
 
 Subject to the provisions of the law of Malta regarding the allowance of a credit against Malta tax in respect of foreign tax, where, in accordance with the provisions of this Convention, there is included in a Malta assessment income from sources within Korea, the Korean tax payable on such income shall be allowed as a credit against the relative Malta tax payable thereon.
@@ -491,9 +459,7 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 \4. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
 
-\5. The provisions of this Article shall, notwithstanding the provisions of WITH THE REPUBLIC OF KOREA [S.L.123.46 15
-
-Article 2, apply to taxes of every kind and description.
+\5. The provisions of this Article shall, notwithstanding the provisions of Article 2, apply to taxes of every kind and description.
 
 **ARTICLE 25**
 
@@ -518,8 +484,6 @@ Article 2, apply to taxes of every kind and description.
 (a) to carry out administrative measures at variance with the laws and administrative practice of that or of the other Contracting State;
 
 (b) to supply information which is not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;
-
-16 [S.L.123.46 WITH THE REPUBLIC OF KOREA
 
 (c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public policy (ordre public).
 
@@ -561,9 +525,7 @@ This Convention shall remain in force indefinitely but either Contracting State 
 
 (b) in Malta:
 
-in respect of Malta tax in any year of assessment beginning on or after the first day of January in the second calendar year next following that WITH THE REPUBLIC OF KOREA [S.L.123.46 17
-
-in which the notice is given.
+in respect of Malta tax in any year of assessment beginning on or after the first day of January in the second calendar year next following that in which the notice is given.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto by their respective Governments, have signed this Convention.
 
@@ -591,9 +553,7 @@ At the moment of signing the Convention between the Government of the Republic o
 
 \4. In respect of Article 10 "Dividends", it is understood that, under the Malta law in force, income tax paid or payable by a company, as is referable to that part of its profits which is distributed by way of dividends, is assimilated with the personal income tax of the shareholder in receipt of such a dividend. It is also understood that in the shareholder’s hands the dividend is charged to tax gross and the relevant amount of tax, so assimilated, is set off against the shareholder’s tax liability on his income from all liable sources.
 
-\5. In respect of paragraph 3 of Article 23 "Elimination of Double Taxation" it is understood that the provisions of that paragraph shall apply during a period of 10 years starting from the first day of the year next following that in which the 18 [S.L.123.46 WITH THE REPUBLIC OF KOREA
-
-Convention enters into force in accordance with the provisions of Article 28. The competent authorities of the Contracting States will consult each other to determine whether the period of application shall be extended.
+\5. In respect of paragraph 3 of Article 23 "Elimination of Double Taxation" it is understood that the provisions of that paragraph shall apply during a period of 10 years starting from the first day of the year next following that in which the Convention enters into force in accordance with the provisions of Article 28. The competent authorities of the Contracting States will consult each other to determine whether the period of application shall be extended.
 
 IN WITNESS WHEREOF, the undersigned have signed this ProtocoI which shall have the same force and validity as if it were inserted word by word in the Convention.
 

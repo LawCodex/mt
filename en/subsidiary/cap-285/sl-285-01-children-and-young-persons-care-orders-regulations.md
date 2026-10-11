@@ -1,6 +1,6 @@
 ---
 title: "Children and Young Persons (Care Orders) Regulations"
-identifier: "S.L. 285.1"
+identifier: "S.L. 285.01"
 eli: "https://legislation.mt/eli/sl/285.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/285.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Children and Young Persons (Care Orders) Regulations (S.L. 285.1)
+# Children and Young Persons (Care Orders) Regulations (S.L. 285.01)
 
 **SUBSIDIARY LEGISLATION 285.01**
 

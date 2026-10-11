@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy - Ph.D. - in the Faculty of Economics, Management and Accountancy (S.L. 327.132)
 
-THE AUSPICES OF THE FACULTY OF ECONOMICS,
-
-*1*
-
-MANAGEMENT AND ACCOUTANCY [S.L.327.132
-
 **SUBSIDIARY LEGISLATION 327.132**
 
 BYE-LAWS FOR THE DEGREE OF DOCTOR OF PHILOSOPHY UNDER THE AUSPICES OF THE
@@ -65,13 +59,9 @@ Applicants for the Degree offered by the Faculty shall be in possession of one o
 
 (b) the Master of Business Administration degree of this or another approved University awarded with at least Merit, provided that the Board may consider applications from applicants in possession of a Pass classification, who also possess experience or knowledge which, in the opinion of the Board, enables them to successfully pursue doctoral studies.
 
-(c) a Bachelor's degree obtained with First Class Honours or Second-Class Honours (Upper Division) of this or THE AUSPICES OF THE FACULTY OF ECONOMICS, [S.L.327.132 MANAGEMENT AND ACCOUTANCY
+(c) a Bachelor's degree obtained with First Class Honours or Second-Class Honours (Upper Division) of this or another University in the areas of Accountancy, Banking, Economics, Finance, Insurance, Management, Marketing, Public Policy or in a related area of study as approved by the Faculty Doctoral Committee,
 
 \*These regulations have been repealed by Legal Notice 159 of 2024.
-
-another University in the areas of Accountancy, Banking, Economics, Finance, Insurance, Management, Marketing, Public Policy or in a related area of study as approved by the Faculty Doctoral Committee,
-
-*2*
 
 provided that in all cases mentioned in sub-paragraphs (a) to (c) of this bye-law, the Faculty Doctoral Committee:
 
@@ -113,13 +103,9 @@ Students registered at the Faculty may be required to participate in the Faculty
 
 Students are required to inform the Faculty that they will be submitting their thesis for examination not less than three months before the submission deadline.
 
-THE AUSPICES OF THE FACULTY OF ECONOMICS,
+## 12. Board of Examiners. Re-numbered by: L.N. 105 of 2015; L.N. 433 of 2021.
 
-*3*
-
-MANAGEMENT AND ACCOUTANCY [S.L.327.132 12. The Board shall recommend to Senate the appointment of the in accordance with the Principal Regulations.
-
-*Board of Examiners. Re-numbered by: L.N. 105 of 2015; L.N. 433 of 2021.*
+The Board shall recommend to Senate the appointment of the in accordance with the Principal Regulations.
 
 ## 13. Presentation of thesis. Re-numbered by: L.N. 105 of 2015; L.N. 433 of 2021.
 

@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy under the auspices of the Faculty of Engineering (S.L. 327.98)
 
-*1*
-
-AUSPICES OF THE FACULTY OF ENGINEERING [S.L.327.98
-
 **SUBSIDIARY LEGISLATION 327.98**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR**
@@ -65,13 +61,9 @@ These bye-laws shall be applicable from October 2008 onwards.
 
 (c) qualifications which the Board deems comparable to the degrees indicated in paragraphs (a) and (b).
 
-(2) Applicants in possession of one of the degrees indicated in paragraph (1) obtained more than fifteen years prior to their application may apply and are required to produce sufficient proof [S.L.327.98 AUSPICES OF THE FACULTY OF ENGINEERING
+(2) Applicants in possession of one of the degrees indicated in paragraph (1) obtained more than fifteen years prior to their application may apply and are required to produce sufficient proof of their competence to carry out research at the required level.
 
 \*These Regulations have been repealed by Legal Notice 244 of 2023.
-
-of their competence to carry out research at the required level.
-
-*2*
 
 ## 4. Study-units.
 
@@ -109,11 +101,9 @@ Students registered at the Faculty may be required to participate in the Faculty
 
 Six months before the submission deadline students shall be informed that they are required to inform the Faculty that they will be submitting their thesis for examination not less than three months before the submission deadline.
 
-*3*
+## 12. Board of Examiners.
 
-AUSPICES OF THE FACULTY OF ENGINEERING [S.L.327.98 12. The Board shall recommend to Senate the appointment of the Board of Examiners in accordance with the Principal Regulations.
-
-*Board of Examiners.*
+The Board shall recommend to Senate the appointment of the Board of Examiners in accordance with the Principal Regulations.
 
 ## 13. Students to defend their thesis orally.
 

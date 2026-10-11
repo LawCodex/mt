@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Mdina (Restriction of Access and Transit of Vehicles) Regulations (S.L. 10.35)
 
-MDINA (RESTRICTION OF ACCESS
-
-*1*
-
-AND TRANSIT OF VEHICLES) [S.L.10.35
-
 SUBSIDIARY LEGISLATION 10.35
 
 MDINA (RESTRICTION OF ACCESS

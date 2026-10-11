@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts - M.A. - offered under the auspices of the School of Performing Arts (S.L. 327.482)
 
-*1*
-
-AUSPICES OF THE SCHOOL OF PERFORMING ARTS [S.L.327.482
-
 **SUBSIDIARY LEGISLATION 327.482**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER**
@@ -67,11 +63,9 @@ These bye-laws shall be applicable for courses commencing in October 2017 or lat
 
 (a) a Bachelor’s degree obtained with Second Class Honours or better in the same area or in a closely related area of study as the area of study applied for; or
 
-(b) a Bachelor’s degree in the same area or in a closely [S.L.327.482 AUSPICES OF THE SCHOOL OF PERFORMING ARTS related area of study as that applied for, with an average mark of not less than 65% in that area of study; or
+(b) a Bachelor’s degree in the same area or in a closely related area of study as that applied for, with an average mark of not less than 65% in that area of study; or
 
 (c) a degree from the University of Malta or another university, which the Board considers as comparable to any of the degrees indicated in paragraph (1)(a) and (b) of this bye-law; or
-
-*2*
 
 (d) a professional qualification/qualifications and/or experience deemed by the Board, to satisfy in part, the admission requirements for a taught postgraduate course, provided that applicants may be required to complete a preparatory programme as specified in bye-law 6.
 
@@ -97,11 +91,7 @@ The course shall extend over three semesters of full-time study or its equivalen
 
 (1) (a) Mainly taught programmes of study shall comprise taught study-units to which a total of 60 ECTs credits are assigned and a dissertation study-unit to which 30 ECTs credits are assigned.
 
-(b) Students who obtain the 60 ECTs credits assigned to the taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the AUSPICES OF THE SCHOOL OF PERFORMING ARTS [S.L.327.482
-
-dissertation, shall be eligible for the award of a Postgraduate Diploma in the relevant area of study. (2) Mainly research programmes of study shall comprise taught study-units to which 10 ECTs credits are assigned and a dissertation study-unit to which 80 ECTs credits are assigned.
-
-*3*
+(b) Students who obtain the 60 ECTs credits assigned to the taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of a Postgraduate Diploma in the relevant area of study. (2) Mainly research programmes of study shall comprise taught study-units to which 10 ECTs credits are assigned and a dissertation study-unit to which 80 ECTs credits are assigned.
 
 ## 9. Publication of programmes of study.
 
@@ -131,11 +121,7 @@ Programmes of study shall be published by the Board after approval by Senate nor
 
 (a) submit a dissertation of up to a maximum of 50,000 words in accordance with the guidelines issued by the Board; or
 
-(b) submit a presentation of artistic practice supported by a dissertation of a maximum of 30,000 words, in accordance with the guidelines issued by the Board. (2) Work on the dissertation may be undertaken at any time during the course, after approval of the proposal. students shall be [S.L.327.482 AUSPICES OF THE SCHOOL OF PERFORMING ARTS
-
-assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
-
-*4*
+(b) submit a presentation of artistic practice supported by a dissertation of a maximum of 30,000 words, in accordance with the guidelines issued by the Board. (2) Work on the dissertation may be undertaken at any time during the course, after approval of the proposal. students shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
 
 (3) A provisional title for the dissertation and a detailed research proposal shall be re-submitted to the Board for approval after completing the compulsory study-units.
 

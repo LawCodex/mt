@@ -1,6 +1,6 @@
 ---
 title: "Malta Treasury Bills (Dematerialisation) Regulations"
-identifier: "S.L. 133.2"
+identifier: "S.L. 133.02"
 eli: "https://legislation.mt/eli/sl/133.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/133.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Malta Treasury Bills (Dematerialisation) Regulations (S.L. 133.2)
+# Malta Treasury Bills (Dematerialisation) Regulations (S.L. 133.02)
 
 **SUBSIDIARY LEGISLATION 133.02**
 

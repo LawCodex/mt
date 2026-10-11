@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws in terms of the General Regulations for University Postgraduate Awards, for the degree of Master of Arts in Community Action and Development - M.A. - under the auspices of the Faculty for Social Wellbeing (S.L. 327.586)
 
-*1*
-
-ACTION AND DEVELOPMENT - M.A. [S.L. 327.586 SUBSIDIARY LEGISLATION 327.586
+**SUBSIDIARY LEGISLATION 327.586**
 
 **BYE-LAWS IN TERMS OF THE GENERAL**
 
@@ -59,11 +57,7 @@ These bye-laws shall be applicable for courses commencing in October 2017 or lat
 
 (3) The interviewing board appointed by the Board shall be composed of at least three members.
 
-(4) Depending on the availability of resources, the Board shall recommend to Senate the number of applicants that may be allowed [S.L. 327.586 ACTION AND DEVELOPMENT - M.A.
-
-to register for the Course. The Board shall announce the number of available places at the time of the call for applications.
-
-*2*
+(4) Depending on the availability of resources, the Board shall recommend to Senate the number of applicants that may be allowed to register for the Course. The Board shall announce the number of available places at the time of the call for applications.
 
 (5) When the number is so limited and the number of eligible applicants exceeds the number of places available, applicants shall be selected using the following criteria, the weighting of which shall be published at the time of the call for applications:
 
@@ -107,11 +101,9 @@ The programme of study shall be published after approval by Senate, normally not
 
 Students shall be allowed to proceed to the dissertation study-unit subject to obtaining the 60 ECTS credits assigned to the taught study-units with a minimum average mark of 65%.
 
-*3*
+## 11. Dissertation.
 
-ACTION AND DEVELOPMENT - M.A. [S.L. 327.586 11. (1) Students shall be required to submit an individual dissertation of approximately 20,000 words in accordance with the guidelines issued by the Board.
-
-*Dissertation.*
+(1) Students shall be required to submit an individual dissertation of approximately 20,000 words in accordance with the guidelines issued by the Board.
 
 (2) Work on the dissertation shall be undertaken during the third semester of the Course. Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
 

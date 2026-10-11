@@ -1,6 +1,6 @@
 ---
 title: "Places of Detention Designation Order"
-identifier: "S.L. 217.3"
+identifier: "S.L. 217.03"
 eli: "https://legislation.mt/eli/sl/217.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/217.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Places of Detention Designation Order (S.L. 217.3)
+# Places of Detention Designation Order (S.L. 217.03)
 
 **SUBSIDIARY LEGISLATION 217.03**
 

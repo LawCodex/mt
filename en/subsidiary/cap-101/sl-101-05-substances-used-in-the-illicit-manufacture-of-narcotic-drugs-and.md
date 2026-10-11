@@ -1,6 +1,6 @@
 ---
 title: "Substances used in the Illicit Manufacture of Narcotic Drugs and Psychotropic Substances Rules"
-identifier: "S.L. 101.5"
+identifier: "S.L. 101.05"
 eli: "https://legislation.mt/eli/sl/101.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,9 @@ version: "https://legislation.mt/eli/sl/101.5/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Substances used in the Illicit Manufacture of Narcotic Drugs and Psychotropic Substances Rules (S.L. 101.5)
+# Substances used in the Illicit Manufacture of Narcotic Drugs and Psychotropic Substances Rules (S.L. 101.05)
 
-*1*
-
-NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES [S.L.101.05 SUBSIDIARY LEGISLATION 101.05
+**SUBSIDIARY LEGISLATION 101.05**
 
 **SUBSTANCES USED IN THE ILLICIT**
 
@@ -61,11 +59,7 @@ In these rules, unless the context otherwise requires -
 
 (1) No person shall act as an operator of substances listed:
 
-(a) under Category 1 of Table I of the Third Schedule to the Ordinance unless he has a licence issued by, and he has registered the premises with the Superintendent, or (b) under Category 2 of Table I of the Third Schedule to the Ordinance unless he has registered and updated the Superintendent with the addresses of the premises [S.L.101.05 NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES
-
-from which he operates.
-
-*2*
+(a) under Category 1 of Table I of the Third Schedule to the Ordinance unless he has a licence issued by, and he has registered the premises with the Superintendent, or (b) under Category 2 of Table I of the Third Schedule to the Ordinance unless he has registered and updated the Superintendent with the addresses of the premises from which he operates.
 
 (2) When considering whether to grant a licence, the Superintendent shall in particular take into account the competence and integrity of the applicant. The licence may be suspended or revoked by the Superintendent whenever there are reasonable grounds for belief that the holder is no longer a fit and proper person to hold a licence, or that the conditions under which the licence was issued are no longer fulfilled.
 
@@ -93,11 +87,9 @@ It shall be the duty of operators:
 
 (c) the quantity and weight of the scheduled substance and, where it consists of a mixture, the quantity and weight of the mixture as well as the quantity and weight or the percentage of any substance or substances listed in Table I of the Third Schedule to the Ordinance which are contained in the mixture,
 
-(d) details as to the transport arrangements, and in particular the expected date of dispatch, method of NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES [S.L.101.05 transport, name of the customs office where the customs export declaration is to be lodged, and, in so far as such information is available at this stage, identification of the means of transport, itinerary, expected point of exit from Malta and the point of entry into the importing country.
+(d) details as to the transport arrangements, and in particular the expected date of dispatch, method of transport, name of the customs office where the customs export declaration is to be lodged, and, in so far as such information is available at this stage, identification of the means of transport, itinerary, expected point of exit from Malta and the point of entry into the importing country.
 
 In the case of sub-rule (7), a copy of the import permit issued by the destination country must be attached to the application.
-
-*3*
 
 (3) A decision on the application shall be taken within a period of fifteen working days from the date on which the Superintendent considers the file to be complete. This period shall be extended if the authorities are obliged to make further enquiries in order to satisfy themselves that the importation of the substances has been properly authorised.
 
@@ -115,10 +107,6 @@ In the case of sub-rule (7), a copy of the import permit issued by the destinati
 
 (b) The issue of an export authorisation does not preclude any possible administrative or other liability of the holder of such authorisation.
 
-*4*
-
-[S.L.101.05 NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES
-
 (c) The export authorisation may be suspended or revoked by the Superintendent whenever there are reasonable grounds to suspect that the substances might be diverted to the illicit manufacture of narcotic drugs or psychotropic substances.
 
 (d) (i) Any exportation of scheduled substances listed in Category 1 of Table I of the Third Schedule to the Ordinance shall be preceded by pre-export notification sent to the country of destination in accordance with the provisions of Article 12(10) of the United Nations Convention against Illicit Traffic in Narcotic Drugs and Psychotropic Substances of the 19th December, 1988, and with Resolution 20/4 of the 1998 Special Session on drugs of the United Nations General Assembly. The country of destination shall be allowed a period of time in which to reply of up to fifteen working days, at the end of which the export operation shall be authorised by the Superintendent, unless advice to the contrary is received.
@@ -135,9 +123,7 @@ In the case of sub-rule (7), a copy of the import permit issued by the destinati
 
 (2) Exports referred to in sub-rule (1) shall be subject mutatis mutandis to the provisions of rule 6, wherever they appear to be intended, directly or indirectly, for any importing country which has been identified to be concerned by the illicit manufacture of those narcotic drugs or psychotropic substances by the use of such scheduled substances. The said identification shall be based, in particular, on a reasoned request by the importing country concerned. The provisions of rule 6 shall also apply whenever an open individual authorisation cannot be issued under sub-rule (3):
 
-*5*
-
-NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES [S.L.101.05 Provided that the provisions of rule 6 shall also apply whenever a substance listed in Annex 1 is destined to an operator established in a country listed in the same annex.
+Provided that the provisions of rule 6 shall also apply whenever a substance listed in Annex 1 is destined to an operator established in a country listed in the same annex.
 
 (3) In all other cases, the exportation of scheduled substances listed in Category 2 of Table I of the Third Schedule to the Ordinance may be authorised at the request of the operators concerned on a global basis by the issue of an open individual authorisation. The decision to issue such an authorisation shall take into account the competence and integrity of the applicant together with the nature, volume and pattern of his involvement in these substances. In such cases, the holder shall enter the details of this authorisation in the relevant customs export declaration. In accordance with the provisions laid down by the Superintendent, the holder of such an authorisation shall furnish information about exports made under the authority of the authorisation.
 
@@ -157,11 +143,7 @@ Provided that the provisions of rule 6 shall also apply whenever a substance lis
 
 (3) In appropriate circumstances, the exportation of substances in Category 3 of Table I of the Third Schedule to the Ordinance may be authorised on a global basis by the issue of an open individual authorisation. The decision to issue, suspend or revoke such authorisations shall be taken by the Superintendent after the applicant has given:
 
-(a) details of his qualifications and professional [S.L.101.05 NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES
-
-experience in the field covered by these rules and, in the case of a legal person, the name, relevant qualifications and professional experience of the director or the person responsible for ensuring that exports of scheduled substances are carried out in compliance with the provisions of these rules;
-
-*6*
+(a) details of his qualifications and professional experience in the field covered by these rules and, in the case of a legal person, the name, relevant qualifications and professional experience of the director or the person responsible for ensuring that exports of scheduled substances are carried out in compliance with the provisions of these rules;
 
 (b) details in summary form of export transactions in the scheduled substances concerned which he has made in the twelve months preceding the application, specifying in the case of each substance, the total number of transactions and the amounts exported to each country for which an export authorisation is required;
 
@@ -183,11 +165,9 @@ experience in the field covered by these rules and, in the case of a legal perso
 
 (c) whenever the previous issue of an import authorisation by the destination country is a requirement for the issue of the export authorisation, the entry shall contain the number, if any, and place and date of issue of the import permit issued by the destination country; a copy of this permit shall be retained;
 
-(d) ensure that the consignment is accompanied at any time during the transport by a copy of the NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES [S.L.101.05 authorisation;
+(d) ensure that the consignment is accompanied at any time during the transport by a copy of the authorisation;
 
 (e) furnish, by the end of each quarter, summary information on the export operations carried out under the authorisation. The content of the summary to be determined in detail by the Superintendent shall contain, as a minimum, information on the number of operations, the substances, quantities, and destination countries involved. In case that this information is not supplied, the authorisation may be suspended or revoked;
-
-*7*
 
 (f) inform the Superintendent of any change occurring with regard to the information supplied, or such of it as may be specified by that authority for this purpose. (7) The form of the open individual authorisation referred to in sub-rule (1) shall conform to the specifications which are given in Annex VI. Furthermore, it shall be a condition of the issue of such authorisations that, for control purposes, the holder shall retain for inspection by the Superintendent, where appropriate and in respect of each export, a copy of the import permit issued by the authorities of the importing country. In cases of doubt, the Superintendent may contact the authorities which have issued the import permit.
 
@@ -209,11 +189,7 @@ For the purpose of preventing specific risks of diversion in free zones as well 
 
 (1) All transactions leading to the placing on the market of scheduled substances in Categories 1 and 2 of Table I of the Third Schedule to the Ordinance shall be properly documented in written or electronic records.
 
-(2) (a) All records must be open for inspection by the Superintendent or of any officer acting on his behalf [S.L.101.05 NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES
-
-and, in particular, commercial documents such as invoices, cargo manifests, administrative documents, customs documents, transport and other shipping documents shall contain sufficient information positively to identify:
-
-*8*
+(2) (a) All records must be open for inspection by the Superintendent or of any officer acting on his behalf and, in particular, commercial documents such as invoices, cargo manifests, administrative documents, customs documents, transport and other shipping documents shall contain sufficient information positively to identify:
 
 (i) the name of the scheduled substance as given in Categories 1 and 2 of Table I of the Third Schedule to the Ordinance,
 
@@ -233,19 +209,13 @@ and, in particular, commercial documents such as invoices, cargo manifests, admi
 
 (4) Operators shall ensure that labels are affixed to scheduled substances in Categories 1 and 2 of Table I of the Third Schedule to the Ordinance before they are placed on the market. Such labels must show the names of the substances as given in Table I of the Third Schedule to the Ordinance. Operators may in addition affix their customary labels.
 
-(5) Operators shall keep such detailed records of their activities as are required to comply with their obligations under sub-rule (1). NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES [S.L.101.05 (6) The documentation referred to in sub-rules (1) and (5) shall be kept for a period of not less than three years from the end of the calendar year in which the operation referred to in sub-rule (1) took place, and must be readily available for inspection by the Superintendent upon request.
+(5) Operators shall keep such detailed records of their activities as are required to comply with their obligations under sub-rule (1). (6) The documentation referred to in sub-rules (1) and (5) shall be kept for a period of not less than three years from the end of the calendar year in which the operation referred to in sub-rule (1) took place, and must be readily available for inspection by the Superintendent upon request.
 
 ## 12. Offences and penalties.
 
 *Added by: L.N. 172 of 2008.*
 
 Whosoever is found guilty to have committed an offence against any provision of these rules or against any article of Council Regulation (EC) No. 111/2005 of 22 December, 2004 laying down rules for the monitoring of trade between the Community and third countries in drug precursors and of Commission Regulation (EC) No 1277/2005 of 27 July 2005, laying down implementing rules for Regulation (EC) No 273/2004 of the European Parliament and of the Council on drug precursors and for Council Regulation (EC) No 111/2005 laying down rules for the monitoring of trade between the Community and third countries in drug precursors, shall be deemed to have committed an offence against the Ordinance and shall be liable on conviction to the punishment prescribed by the said Ordinance.
-
-*9*
-
-*10*
-
-[S.L.101.05 NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES
 
 ANNEX I
 
@@ -303,11 +273,7 @@ Turkey
 
 1 This includes the salts of these substances except for sulphuric acid and hydrochloric acid whenever the existence of such salts is possible.
 
-NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES [S.L.101.05 11 ANNEX III
-
-Declaration form for individual transactions in category 1 or 2 substances
-
-**as specified in Table I in the Third Schedule to the Ordinance**
+## ANNEX III — Declaration form for individual transactions in category 1 or 2 substances — as specified in Table I in the Third Schedule to the Ordinance
 
 CUSTOMER DECLARATION OF SPECIFIC USE(S) OF THE SCHEDULED CATEGORY 1 OR 2 SUBSTANCE (INDIVIDUAL TRANSACTIONS)
 
@@ -349,8 +315,6 @@ Position ........................................ Date .........................
 
 (2) Combined Nomenclature code.
 
-12 [S.L.101.05 NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES
-
 ## ANNEX IV
 
 CUSTOMER DECLARATION OF SPECIFIC USE(S) OF THE SCHEDULED CATEGORY 2 SUBSTANCE (MULTIPLE TRANSACTIONS)
@@ -389,7 +353,7 @@ Position ........................................ Date .........................
 
 (1) Combined Nomenclature code.
 
-NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES [S.L.101.05 13 ANNEX V
+## ANNEX V
 
 ## 1.
 
@@ -461,8 +425,6 @@ Function: .....................................................
 
 Date: .................................
 
-14 [S.L.101.05 NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES
-
 \2. COPY TO ACCOMPANY THE GOODS
 
 Export authorisation for certain substances used in the illicit manufacture of narcotic drugs and psychotropic substances
@@ -519,7 +481,7 @@ Function: .....................................................
 
 Date: .................................
 
-NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES [S.L.101.05 15 3. COPY FOR THE EXPORTER
+\3. COPY FOR THE EXPORTER
 
 Export authorisation for certain substances used in the illicit manufacture of narcotic drugs and psychotropic substances
 
@@ -575,8 +537,6 @@ Function: .....................................................
 
 Date: .................................
 
-16 [S.L.101.05 NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES
-
 NOTES
 
 \1. Boxes 1, 3, 4 and 6 to 18 inclusive are to be completed by the applicant at the time of the request; however such information as required in boxes 9 to 12 and 17 may be supplied at a later stage, if the information is not known at the time of the request. In this case, the information for box 17 is to be supplemented at the latest when the export declaration is lodged and the supplementary information for boxes 9 to 12 is to be given to the customs or other authority at the point of exit before the physical departure of the goods.
@@ -607,19 +567,21 @@ The signature of the applicant or his authorised representative, shall indicate 
 
 Whenever the authorisation is issued by means of a computerised procedure, that authorisation may not contain the signature of the applicant in this box, if the application as such contains such signature.
 
-NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES [S.L.101.05 17 ANNEX VI
+## ANNEX VI — Open individual authorisation for export of substances listed in categories 2 and 3 — of Table I of the Third Schedule to the Ordinance
 
-Open individual authorisation for export of substances listed in categories 2 and 3
+## 1.
 
-**of Table I of the Third Schedule to the Ordinance**
+The open individual authorisation form is the same as that referred to in Annex V.
 
-\1. The open individual authorisation form is the same as that referred to in Annex V.
+## 2.
 
-\2. It shall bear across the whole page, the following words:
+It shall bear across the whole page, the following words:
 
 "Open individual export authorisation".
 
-\3. Only the boxes 1, 2, 5, 13 and 19 shall be completed. Box 13 shall be completed by the list of scheduled substances and destination countries authorised.
+## 3.
+
+Only the boxes 1, 2, 5, 13 and 19 shall be completed. Box 13 shall be completed by the list of scheduled substances and destination countries authorised.
 
 ANNEX VII Substituted by:
 

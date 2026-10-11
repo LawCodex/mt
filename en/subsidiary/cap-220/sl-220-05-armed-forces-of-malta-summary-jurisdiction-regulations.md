@@ -1,6 +1,6 @@
 ---
 title: "Armed Forces of Malta Summary Jurisdiction Regulations"
-identifier: "S.L. 220.5"
+identifier: "S.L. 220.05"
 eli: "https://legislation.mt/eli/sl/220.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/220.5/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Armed Forces of Malta Summary Jurisdiction Regulations (S.L. 220.5)
+# Armed Forces of Malta Summary Jurisdiction Regulations (S.L. 220.05)
 
 **SUBSIDIARY LEGISLATION 220.05**
 

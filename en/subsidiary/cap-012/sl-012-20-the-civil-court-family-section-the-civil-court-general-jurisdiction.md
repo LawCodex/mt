@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # The Civil Court (Family Section), the Civil Court (General Jurisdiction) and the Court of Magistrates (Gozo) Superior Jurisdiction (Family Section) Regulations (S.L. 12.20)
 
-THE CIVIL COURT AND THE COURT OF MAGISTRATES (GOZO)
-
-*1*
-
-(SUPERIOR JURISDICTION) (FAMILY SECTION) [S.L.12.20
-
 **SUBSIDIARY LEGISLATION 12.20**
 
 THE CIVIL COURT (FAMILY SECTION), THE FIRST HALL OF THE CIVIL COURT AND THE COURT OF MAGISTRATES (GOZO) (SUPERIOR
@@ -59,13 +53,9 @@ In these regulations unless the context otherwise requires:
 
 *Cap. 12.*
 
-(b) The Minister shall in accordance with article 89 of the Code of Organizationand Civil Procedure appoint a panel of advocates (hereinafter in these regulations called "children’s advocates") being persons in THE CIVIL COURT AND THE COURT OF MAGISTRATES (GOZO) [S.L.12.20 (SUPERIOR JURISDICTION) (FAMILY SECTION)
+(b) The Minister shall in accordance with article 89 of the Code of Organizationand Civil Procedure appoint a panel of advocates (hereinafter in these regulations called "children’s advocates") being persons in possession of the warrant to practice as advocates and who having experience in family law.
 
 \*These regulations have been repealed by Legal Notice 216 of 2026.
-
-possession of the warrant to practice as advocates and who having experience in family law.
-
-*2*
 
 (2) Mediators and children’s advocates shall be paid such fees for their services as the Minister may from time to time establish. Where the parties select a mediator by mutual consent from the first list of mediators the fees due to such mediator shall be charged to the parties, otherwise the fees due to mediators and children’s advocates shall be paid by the Registrar.
 
@@ -89,13 +79,7 @@ possession of the warrant to practice as advocates and who having experience in 
 
 Provided that the Children’s Advocate shall provide the minor with all the relevant explanations and information as mentioned in paragraphs (b) and (c) only if the minors are considered by the Children’s Advocate topossess sufficient understanding and maturity.
 
-(6) The Minister shall in accordance with article 89 of the Code of Organization and Civil Procedure appoint a panel of experts in THE CIVIL COURT AND THE COURT OF MAGISTRATES (GOZO)
-
-*3*
-
-(SUPERIOR JURISDICTION) (FAMILY SECTION) [S.L.12.20
-
-family and child matters (hereinafter in these regulations called support persons) being persons who in the opinion of the Minister have the necessary qualities to undertake the functions assigned to support persons, which panel shall consist of persons qualified as aforesaid who shall be appointed by the Court on a roster basis to act as support persons in a particular case.
+(6) The Minister shall in accordance with article 89 of the Code of Organization and Civil Procedure appoint a panel of experts in family and child matters (hereinafter in these regulations called support persons) being persons who in the opinion of the Minister have the necessary qualities to undertake the functions assigned to support persons, which panel shall consist of persons qualified as aforesaid who shall be appointed by the Court on a roster basis to act as support persons in a particular case.
 
 (7) The functions of the support person shall include, inter alia:
 
@@ -129,11 +113,7 @@ The provisions of regulation 3 shall apply for the purposes of article 66J(1) of
 
 *Amended by: L.N. 370 of 2011; L.N. 386 of 2011; XIII.2018.33.*
 
-(1) Any party wishing to proceed to initiate a suit for personal separation or divorce against the other spouse shall first demand authority to proceed from the Civil Court (Family Division), the Court of Magistrates (Gozo) (Superior Jurisdiction) (Family Division) as the case may be, each of such courts hereinafter in this regulation called the ''Court'', by filing a letter, in the case of personal separation, or by filing an application, in the case of divorce, as the case may be, to that effect in the registry of THE CIVIL COURT AND THE COURT OF MAGISTRATES (GOZO) [S.L.12.20 (SUPERIOR JURISDICTION) (FAMILY SECTION)
-
-the Court addressed to the Registrar, stating the name and address both of the person filing the letter as well as that of the other spouse, and requesting the Court to authorise him or her to proceed. Such letter shall be signed and filed by the party personally or by an advocate or legal procurator on behalf of such party.
-
-*4*
+(1) Any party wishing to proceed to initiate a suit for personal separation or divorce against the other spouse shall first demand authority to proceed from the Civil Court (Family Division), the Court of Magistrates (Gozo) (Superior Jurisdiction) (Family Division) as the case may be, each of such courts hereinafter in this regulation called the ''Court'', by filing a letter, in the case of personal separation, or by filing an application, in the case of divorce, as the case may be, to that effect in the registry of the Court addressed to the Registrar, stating the name and address both of the person filing the letter as well as that of the other spouse, and requesting the Court to authorise him or her to proceed. Such letter shall be signed and filed by the party personally or by an advocate or legal procurator on behalf of such party.
 
 (2) Where authority to proceed for personal separation or divorce is granted by the Court, it shall be lawful for either spouse to bring a suit before the Court, or counter claim for personal separation or divorce, as the case may be, on the same or any other of the grounds mentioned in the Civil Code as if such leave referred to both parties on all of the said grounds.
 
@@ -153,13 +133,7 @@ Provided that where the letter referred to in this regulation is accompanied by 
 
 (8) Where the mediator manages to reconcile the parties he shall make a note to that effect in the records of the case, and transmit the records to the judge who shall thereupon close the proceedings.
 
-(9) Where the parties have not reconciled, but they have through the office of the mediator or otherwise agreed to enter into a deed of personal separation by mutual consent or to file a joint application for divorce, the mediator shall transmit to the judge a draft of the deed of personal separation or of the divorce agreement, as the case may be, together with any comments thereon THE CIVIL COURT AND THE COURT OF MAGISTRATES (GOZO)
-
-*5*
-
-(SUPERIOR JURISDICTION) (FAMILY SECTION) [S.L.12.20
-
-by the advocates or legal procurators of the parties, the children’s advocate, if any, and his views, for the grant of the authorisation by the judge.
+(9) Where the parties have not reconciled, but they have through the office of the mediator or otherwise agreed to enter into a deed of personal separation by mutual consent or to file a joint application for divorce, the mediator shall transmit to the judge a draft of the deed of personal separation or of the divorce agreement, as the case may be, together with any comments thereon by the advocates or legal procurators of the parties, the children’s advocate, if any, and his views, for the grant of the authorisation by the judge.
 
 (10) The judge shall give his authorisation by decree in camera, but may before proceeding to give such decree hear either of the parties, the children or their respective advocates and legal procurators.
 
@@ -178,10 +152,6 @@ Provided that where in the opinion of the mediator, it is unlikely that such con
 (1) Where during the conciliation or mediation stage the parties reach an agreement on the payment of an amount for maintenance that may be payable by one of them to the other either in respect of him or herself or in respect of the children, or agreement is reached as to the custody for visitation rights with respect to, the children, or on who is to continue to reside in the matrimonial home, the mediator shall make a note of such agreement which note shall be subscribed by the parties, and shall forthwith transmit such note to the Court which shall decree on the matter accordingly.
 
 (2) Where any party is not assisted by an advocate or legal procurator the mediator shall inform that party of the importance of the agreement and of his or her right to be assisted by an advocate or legal procurator or to take legal advice before subscribing to any such agreement.
-
-*6*
-
-THE CIVIL COURT AND THE COURT OF MAGISTRATES (GOZO) [S.L.12.20 (SUPERIOR JURISDICTION) (FAMILY SECTION)
 
 ## 5A. Assignment of cases to the Civil Court(Commercial Section). Cap. 386. Cap. 379. Cap. 378. Cap. 510
 
@@ -204,12 +174,6 @@ To the Civil Court (Commercial Section) shall be assigned applications falling w
 (2) Upon such case being initiated and upon the close of the written proceedings, the Court shall proceed to appoint a children’s advocate where in its opinion this is required in the interests of any minor children of the spouses, and shall thereupon proceed with the pre-trial stage of the case in which the Court shall fix time limits within which the parties shall produce all documentary evidence in support of their case and produce such witnesses whose evidence cannot be produced by affidavit.
 
 (3) The pre-trial period shall close when all the documents and other evidence of the parties have been produced or the time within which they were to be so produced has elapsed. During such period the Court may also appoint such experts as it may deem necessary to assist it.
-
-THE CIVIL COURT AND THE COURT OF MAGISTRATES (GOZO)
-
-*7*
-
-(SUPERIOR JURISDICTION) (FAMILY SECTION) [S.L.12.20
 
 (4) Except for grave and serious reasons to be stated by the Court, the pre-trial period shall not extend beyond one year after the close of the written proceedings.
 
@@ -251,11 +215,7 @@ such party shall, in the first place, file a letter in the registry of the Court
 
 (2) The court shall summon the parties to appear before a mediator, and the provisions of regulation 4(3) shall apply.
 
-(3) The mediator shall mediate between the parties in an effort THE CIVIL COURT AND THE COURT OF MAGISTRATES (GOZO) [S.L.12.20 (SUPERIOR JURISDICTION) (FAMILY SECTION)
-
-to make them reach an agreement on the matter in dispute and the provisions of regulation 4(6) and (7) shall apply to the mediation process.
-
-*8*
+(3) The mediator shall mediate between the parties in an effort to make them reach an agreement on the matter in dispute and the provisions of regulation 4(6) and (7) shall apply to the mediation process.
 
 (4) Where the parties reach an agreement it shall be recorded in writing and filed in the records of the proceedings, which shall thereupon be transmitted by the mediator to the Court, which shall unless there is anything therein contrary to public order, decree on the matter in dispute accordingly.
 
@@ -278,12 +238,6 @@ to make them reach an agreement on the matter in dispute and the provisions of r
 (5) During the pre-trial period and until it passes to give judgement, the Court may, on the demand of either party give such provisional orders as it may deem fit, and may likewise, where grave reasons or change of circumstances so necessitate, alter or revoke such orders.
 
 (6) After the close of the pre-trial stage the judge shall fix the date for the trial where the advocates for the parties and any children’s advocates that may have been appointed shall make their submissions and counter submissions and the Court shall thereupon proceed to give judgement on all points at issue.
-
-THE CIVIL COURT AND THE COURT OF MAGISTRATES (GOZO)
-
-*9*
-
-(SUPERIOR JURISDICTION) (FAMILY SECTION) [S.L.12.20
 
 ## 12. Where party fails to appear before mediation.
 
@@ -316,10 +270,6 @@ In order to ensure that students training at the University of Malta to become m
 (c) such student may take an active role in the mediation proceedings under the guidance of a mediator provided that the consent referred to in paragraph (b) has been obtained;
 
 (d) should any party to a mediation process at any time request the student to leave the mediation sitting, then the student shall immediately withdraw from that sitting.
-
-*10*
-
-THE CIVIL COURT AND THE COURT OF MAGISTRATES (GOZO) [S.L.12.20 (SUPERIOR JURISDICTION) (FAMILY SECTION)
 
 ## SCHEDULE
 
@@ -387,13 +337,7 @@ Subject to any rules of court or to any regulation, cases shall be assigned to t
 
 ## 8. Chief Justice to determine Section in particular cases.
 
-Where any dispute arises as to whether a case should be assigned to one section or another of the Civil Court, or where a case involves more than one category falling to be assigned to different sections of the Civil Court, the matter shall be referred to the Chief Justice who shall, in camera, determine the section to which the case shall be assigned. The determination by the Chief THE CIVIL COURT AND THE COURT OF MAGISTRATES (GOZO)
-
-*11*
-
-(SUPERIOR JURISDICTION) (FAMILY SECTION) [S.L.12.20
-
-Justice shall be registered in the records of the case and shall be final.
+Where any dispute arises as to whether a case should be assigned to one section or another of the Civil Court, or where a case involves more than one category falling to be assigned to different sections of the Civil Court, the matter shall be referred to the Chief Justice who shall, in camera, determine the section to which the case shall be assigned. The determination by the Chief Justice shall be registered in the records of the case and shall be final.
 
 ## 9. Court of Magistrates (Gozo) in its Superior Jurisdiction. Cap 12.
 

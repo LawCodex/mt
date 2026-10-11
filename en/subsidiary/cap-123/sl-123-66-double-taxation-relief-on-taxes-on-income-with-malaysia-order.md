@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with Malaysia Order (S.L. 123.66)
 
-*1*
-
-WITH MALAYSIA [S.L.123.66
-
 SUBSIDIARY LEGISLATION 123.66
 
 DOUBLE TAXATION RELIEF ON TAXES ON
@@ -48,8 +44,6 @@ It is hereby declared:-
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Agreement has entered into force on the 1st September, 2000.
-
-2 [S.L.123.66 WITH MALAYSIA
 
 ## SCHEDULE — CONVENTION BETWEEN MALTA AND MALAYSIA — FOR THE AVOIDANCE OF DOUBLE TAXATION
 
@@ -95,9 +89,7 @@ the income tax;
 
 (a) the term "Malaysia" means the territories of the Federation of Malaysia, the territorial waters of Malaysia and the sea-bed and subsoil of the territorial waters, and includes any area extending beyond the limits of the territorial waters of Malaysia, and the sea-bed and subsoil of any such area, which has been or may hereafter be designated under the laws of Malaysia and in accordance with international law as an area over which Malaysia has sovereign rights for the purposes of exploring and exploiting the natural resources, whether living or non-living;
 
-(b) the term "Malta", when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese WITH MALAYSIA [S.L.123.66 3
-
-archipelago, including the territorial waters thereof, and any area outside the territorial sea of Malta which, in accordance with international law, has been or may hereafter be designated, under the law of Malta concerning the Continental Shelf, as an area within which the rights of Malta with respect to the sea-bed and sub-soil and their natural resources may be exercised;
+(b) the term "Malta", when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago, including the territorial waters thereof, and any area outside the territorial sea of Malta which, in accordance with international law, has been or may hereafter be designated, under the law of Malta concerning the Continental Shelf, as an area within which the rights of Malta with respect to the sea-bed and sub-soil and their natural resources may be exercised;
 
 (c) the terms "a Contracting State" and "the other Contracting State" mean Malaysia or Malta as the context requires;
 
@@ -136,8 +128,6 @@ archipelago, including the territorial waters thereof, and any area outside the 
 (b) in the case of Malta, a person who is resident in Malta for the purposes of Malta tax.
 
 (2) Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined in accordance with the following rules:
-
-4 [S.L.123.66 WITH MALAYSIA
 
 (a) he shall be deemed to be a resident solely of the State in which he has a permanent home available to him. If he has a permanent home available to him in both States, he shall be deemed to be a resident solely of the State with which his personal and economic relations are closer (centre of vital interests);
 
@@ -183,8 +173,6 @@ archipelago, including the territorial waters thereof, and any area outside the 
 
 (d) the maintenance of a fixed place of business solely for the purpose of purchasing goods or merchandise or for collecting information, for the enterprise;
 
-WITH MALAYSIA [S.L.123.66 5
-
 (e) the maintenance of a fixed place of business solely for the purpose of carrying on, for the enterprise, any other activity of a preparatory or auxiliary character.
 
 (4) An enterprise of a Contracting State shall be deemed to have a permanent establishment in the other Contracting State if:
@@ -213,9 +201,7 @@ However, when the activities of such an agent are devoted wholly or almost wholl
 
 (1) Income derived by a resident of a Contracting State from immovable property situated in the other Contracting State may be taxed in that other State.
 
-(2) For the purposes of this Agreement, the term "immovable property" shall be defined in accordance with the laws of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, oil or gas wells (including an 6 [S.L.123.66 WITH MALAYSIA
-
-offshore drilling site), quarries and other places of extraction of natural resources including timber or other forest produce. Ships, boats and aircraft shall not be regarded as immovable property.
+(2) For the purposes of this Agreement, the term "immovable property" shall be defined in accordance with the laws of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, oil or gas wells (including an offshore drilling site), quarries and other places of extraction of natural resources including timber or other forest produce. Ships, boats and aircraft shall not be regarded as immovable property.
 
 (3) The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
@@ -243,9 +229,7 @@ offshore drilling site), quarries and other places of extraction of natural reso
 
 **Shipping and Air Transport**
 
-(1) Profits derived by an enterprise of a Contracting State from the operation of WITH MALAYSIA [S.L.123.66 7
-
-ships or aircraft in international traffic shall be taxable only in that State.
+(1) Profits derived by an enterprise of a Contracting State from the operation of ships or aircraft in international traffic shall be taxable only in that State.
 
 (2) Paragraph 1 shall also apply to the share of the profits from the operation of ships or aircraft derived by a resident of a Contracting State through participation in a pool, a joint business or an international operating agency.
 
@@ -274,8 +258,6 @@ and in either case conditions are made or imposed between the two enterprises in
 (3) (a) Dividends paid by a company which is a resident of Malta to a resident of Malaysia who is the beneficial owner thereof may be subjected to Malta tax on the gross amount of such dividends, but the tax so charged shall not exceed that chargeable on the profits out of which the dividends are paid.
 
 (b) Where such dividends are paid out of profits of a company which are subject to tax at a reduced rate of tax under special provisions designed to promote investments necessary for the economic development of Malta, the rate of Malta tax on the dividends shall not exceed such reduced rate.
-
-8 [S.L.123.66 WITH MALAYSIA
 
 (4) The term ''dividends'' as used in this Article means income from shares or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
 
@@ -315,8 +297,6 @@ and in either case conditions are made or imposed between the two enterprises in
 
 (ii) the Malta Development Corporation;
 
-WITH MALAYSIA [S.L.123.66 9
-
 (iii) the statutory bodies;
 
 (iv) such institutions, the capital of which is wholly owned by the Government of Malta, as may be agreed upon from time to time between the competent authorities of the Contracting States.
@@ -349,9 +329,7 @@ WITH MALAYSIA [S.L.123.66 9
 
 (b) the supply of scientific, technical, industrial or commercial knowledge or information;
 
-(c) the supply of any assistance that is ancillary and subsidiary to, and is 10 [S.L.123.66 WITH MALAYSIA
-
-furnished as a means of enabling the application or enjoyment of, any such property or right as is mentioned in subparagraph (a)(i), any such equipment as is mentioned in subparagraph (a)(ii), or any such knowledge or information as is mentioned in subparagraph (b).
+(c) the supply of any assistance that is ancillary and subsidiary to, and is furnished as a means of enabling the application or enjoyment of, any such property or right as is mentioned in subparagraph (a)(i), any such equipment as is mentioned in subparagraph (a)(ii), or any such knowledge or information as is mentioned in subparagraph (b).
 
 (4) The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise through a permanent establishment situated therein and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment. In such a case, the provisions of Article 7 shall apply.
 
@@ -371,9 +349,7 @@ furnished as a means of enabling the application or enjoyment of, any such prope
 
 (4) The provisions of paragraph 1 and 2 of this Article shall not apply if the beneficial owner of the technical fees, being a resident of a Contracting State, carries on business in the other Contracting State in which the technical fees arise through a permanent establishment situated therein, or performs in that other State independent personal services, and the technical fees are effectively connected with such permanent establishment or such services. In such case, the provisions of Article 7 or Article 15, as the case may be, shall apply.
 
-(5) Technical fees shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a statutory body thereof, or a resident of that State. Where, however, the person paying the technical fees, whether he is a resident of a Contracting State or not, has in a Contracting State WITH MALAYSIA [S.L.123.66 11
-
-a permanent establishment in connection with which the obligation to pay the technical fees was incurred, and such technical fees are borne by that permanent establishment, then such technical fees shall be deemed to arise in the Contracting State in which the permanent establishment is situated.
+(5) Technical fees shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a statutory body thereof, or a resident of that State. Where, however, the person paying the technical fees, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment in connection with which the obligation to pay the technical fees was incurred, and such technical fees are borne by that permanent establishment, then such technical fees shall be deemed to arise in the Contracting State in which the permanent establishment is situated.
 
 (6) Where, by reason of a special relationship between the payer and the recipient or between both of them and some other person, the amount of the technical fees paid exceeds, for whatever reason, the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the law of each Contracting State due regard being had to the other provisions of this Agreement.
 
@@ -398,8 +374,6 @@ a permanent establishment in connection with which the obligation to pay the tec
 (a) his stay in that other State is for a period or periods amounting to or exceeding in the aggregate 183 days during any calendar year; or
 
 (b) the remuneration for his services in that other State is either derived from residents of that State or borne by a permanent establishment which the person paying the remuneration has in that State and in either case it exceeds the equivalent in the currency of that State of five thousand U.S. dollars (US $5,000) during the calendar year.
-
-12 [S.L.123.66 WITH MALAYSIA
 
 (2) The term "professional services" includes, especially, independent scientific, literary, artistic, educational or teaching activities as well as the independent activities of physicians, lawyers, engineers, architects, dentists and accountants.
 
@@ -432,8 +406,6 @@ Directors’ fees and similar payments derived by a resident of a Contracting St
 (2) Where income in respect of personal activities exercised by an entertainer or an athlete in his capacity as such accrues not to the entertainer or athlete himself but to another person, that income may, notwithstanding the provisions of Articles 7, 15 and 16, be taxed in the Contracting State in which the activities of the entertainer or athlete are exercised.
 
 (3) The provisions of paragraphs 1 and 2 shall not apply to remuneration or profits derived from activities exercised in a Contracting State if the visit to that State is directly or indirectly supported wholly or substantially from the public funds of the other Contracting State, a political subdivision, a local authority or a statutory body thereof.
-
-WITH MALAYSIA [S.L.123.66 13
 
 **Article 19**
 
@@ -473,8 +445,6 @@ An individual who is a resident of a Contracting State immediately before making
 
 (c) as a recipient of a grant, allowance or award for the primary purpose of study, research or training from the government of either State or from a scientific, educational, religious or charitable organisation or under a technical assistance programme entered into by the Government of either State,
 
-14 [S.L.123.66 WITH MALAYSIA
-
 shall be exempt from tax in that other State on:
 
 (a) all remittances from abroad for the purposes of his maintenance, education, study, research or training;
@@ -509,8 +479,6 @@ Items of income of a resident of a Contracting State which are not expressly men
 
 (b) any other provisions which may subsequently be introduced in Malta in modification of or in addition to, the existing special incentive laws so far as they are agreed by the competent authorities of the Contracting States to be of a substantially similar character.
 
-WITH MALAYSIA [S.L.123.66 15
-
 (3) Subject to the laws of Malta regarding the allowance as a credit against Malta tax of tax payable in any country other than Malta, Malaysian tax payable under the laws of Malaysia and in accordance with this Agreement by a resident of Malta in respect of income derived from Malaysia shall be allowed as a credit against the Malta tax payable in respect of that income. The credit shall not, however, exceed that part of the Malta tax, as computed before the credit is given, which is appropriate to such item of income.
 
 (4) For the purposes of paragraph 3, the term "Malaysian tax payable" shall be deemed to include Malaysian tax which would, under the laws of Malaysia and in accordance with this Agreement, have been payable on any income derived from sources in Malaysia had the income not been taxed at a reduced rate or exempted from Malaysian tax in accordance with:
@@ -535,9 +503,7 @@ WITH MALAYSIA [S.L.123.66 15
 
 (a) a Contracting State to grant to individuals who are resident of the other Contracting State any personal allowances, reliefs and reductions for tax purposes on account of civil status, family responsibilities or any other personal circumstances which it grants to its own residents;
 
-(b) Malaysia to grant to nationals of Malta not resident in Malaysia those personal allowances, reliefs and reductions for tax purposes which are by law available on the date of signature of this Agreement only to 16 [S.L.123.66 WITH MALAYSIA
-
-nationals of Malaysia who are not resident in Malaysia.
+(b) Malaysia to grant to nationals of Malta not resident in Malaysia those personal allowances, reliefs and reductions for tax purposes which are by law available on the date of signature of this Agreement only to nationals of Malaysia who are not resident in Malaysia.
 
 (5) In this Article, the term "taxation" means taxes to which this Agreement applies.
 
@@ -565,7 +531,7 @@ nationals of Malaysia who are not resident in Malaysia.
 
 (b) to supply particulars which are not obtainable under the laws or in the normal course of the administration of that or of the other State;
 
-(c) to supply information which would disclose any trade, business, industrial, commercial or professional secret, trade process or information the disclosure of which would be contrary to public policy. WITH MALAYSIA [S.L.123.66 17
+(c) to supply information which would disclose any trade, business, industrial, commercial or professional secret, trade process or information the disclosure of which would be contrary to public policy.
 
 **Article 28**
 
@@ -603,9 +569,7 @@ Deputy Minister of Finance Minister of Finance
 
 (2) In connection with Article 7 "Business Profits":
 
-Nothing in this Agreement shall affect the operation of any law of a 18 [S.L.123.66 WITH MALAYSIA
-
-Contracting State relating to the taxation of income or profits from any insurance business provided that if the relevant law in force in either Contracting State at the date of signature of this Agreement is amended (otherwise than in minor respects so as not to affect its general character) the States shall consult with each other with a view to agreeing to any amendment of this paragraph that may be appropriate.
+Nothing in this Agreement shall affect the operation of any law of a Contracting State relating to the taxation of income or profits from any insurance business provided that if the relevant law in force in either Contracting State at the date of signature of this Agreement is amended (otherwise than in minor respects so as not to affect its general character) the States shall consult with each other with a view to agreeing to any amendment of this paragraph that may be appropriate.
 
 (3) In connection with Article 10 "Dividends":
 

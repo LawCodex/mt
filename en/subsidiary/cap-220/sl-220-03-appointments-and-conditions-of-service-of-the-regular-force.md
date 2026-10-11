@@ -1,6 +1,6 @@
 ---
 title: "Appointments and Conditions of Service of the Regular Force Regulations"
-identifier: "S.L. 220.3"
+identifier: "S.L. 220.03"
 eli: "https://legislation.mt/eli/sl/220.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,7 @@ version: "https://legislation.mt/eli/sl/220.3/20250117/eng"
 retrieved: 2026-10-12
 ---
 
-# Appointments and Conditions of Service of the Regular Force Regulations (S.L. 220.3)
-
-*1*
-
-OF SERVICE OF THE REGULAR FORCE [S.L.220.03
+# Appointments and Conditions of Service of the Regular Force Regulations (S.L. 220.03)
 
 **SUBSIDIARY LEGISLATION 220.03**
 
@@ -70,11 +66,7 @@ The title of these Regulations is Appointments and Conditions of Service of the 
 
 "reckonable service" includes special reckonable service and service in a disciplined force;
 
-"special reckonable service" means commissioned service and other reckonable service over the age of eighteen years prior to 1st October, 1970, in a Maltese unit of the forces of the United Kingdom of Great Britain and Northern Ireland by a person who is commissioned or enlisted in the force with effect from 1st October, 1970, and full-time service, between 1st April, 1965 and 30th September, 1970, with the territorial force by a person enlisted as [S.L.220.03 OF SERVICE OF THE REGULAR FORCE
-
-aforesaid;
-
-*2*
+"special reckonable service" means commissioned service and other reckonable service over the age of eighteen years prior to 1st October, 1970, in a Maltese unit of the forces of the United Kingdom of Great Britain and Northern Ireland by a person who is commissioned or enlisted in the force with effect from 1st October, 1970, and full-time service, between 1st April, 1965 and 30th September, 1970, with the territorial force by a person enlisted as aforesaid;
 
 "recruiting officer" shall be construed in accordance with regulation 19.
 
@@ -110,10 +102,6 @@ Appointments, Promotions, transfers, retirements and transfers to reserve
 
 (3) Without prejudice to the provisions of sub-regulation (2)(e) all persons serving as officers in a Maltese unit of the forces of the United Kingdom and Northern Ireland on 30th September, 1970, may, if they so elect, be commissioned in the force with effect from 1st October, 1970, in the same rank and seniority which they held in the Maltese unit aforesaid and any person so commissioned shall be allowed to serve until he is due to retire under these Regulations.
 
-*3*
-
-OF SERVICE OF THE REGULAR FORCE [S.L.220.03
-
 (4) All persons commissioned in the force and who have not been attested in the force shall, before taking up their duties, take the oath of allegiance set out in the First Schedule, and such oath may be administered by the Commander, by a staff officer designated in that behalf by the Commander, or by a Commissioner for Oaths.
 
 ### 4. Appointments in the force.
@@ -146,11 +134,7 @@ Subject to any modifications and exceptions authorised by the Minister after con
 
 (4) Second-in-Command -
 
-(a) Where authorised by establishment, a second-in- [S.L.220.03 OF SERVICE OF THE REGULAR FORCE
-
-command shall be appointed in the units of the force commanded by a lieutenant-colonel, and such appointment shall be made by the Commander;
-
-*4*
+(a) Where authorised by establishment, a second-in-command shall be appointed in the units of the force commanded by a lieutenant-colonel, and such appointment shall be made by the Commander;
 
 (b) Subject to any variations authorised by the Commander in the interests of the service, the tenure of such appointment shall be not less than two and not more than three years;
 
@@ -189,10 +173,6 @@ Provided that a subaltern shall not be extra-regimentally employed until he has 
 A. Combatant Officers:
 
 Lieutenant
-
-*5*
-
-OF SERVICE OF THE REGULAR FORCE [S.L.220.03
 
 Captain
 
@@ -250,11 +230,7 @@ Provided that such officer shall not be capable of being promoted to a rank equa
 
 *Amended by: XXI of 2020.*
 
-(1) Acting rank may be granted only by the Commander to an officer who is selected to fill a vacancy above his substantive [S.L.220.03 OF SERVICE OF THE REGULAR FORCE
-
-rank in an approved establishment on a permanent or semi-permanent basis.
-
-*6*
+(1) Acting rank may be granted only by the Commander to an officer who is selected to fill a vacancy above his substantive rank in an approved establishment on a permanent or semi-permanent basis.
 
 (2) Where acting rank is held for more than twenty-one consecutive days, pay of a higher rank shall be authorised from the date of assumption of the acting rank.
 
@@ -288,11 +264,11 @@ An officer may be compulsorily transferred from one corps to another according t
 
 (c) the Commander orders or approves the compulsory transfer.
 
-*7*
+### 12. Normal retirement.
 
-OF SERVICE OF THE REGULAR FORCE [S.L.220.03 12. (1) Except as otherwise provided by or under these Regulations, an officer shall retire on reaching the age of fifty-five years but may be allowed to remain on the active list beyond this age for such period or periods as the Minister may from time to tine determine:
+*Substituted by: L.N.37 of 1973. Amended by: L.N. 64 of 1982; L.N. 47 of 1990; L.N. 58 of 2008; L.N. 287 of 2018.*
 
-*Normal retirement. Substituted by: L.N.37 of 1973. Amended by: L.N. 64 of 1982; L.N. 47 of 1990; L.N. 58 of 2008; L.N. 287 of 2018.*
+(1) Except as otherwise provided by or under these Regulations, an officer shall retire on reaching the age of fifty-five years but may be allowed to remain on the active list beyond this age for such period or periods as the Minister may from time to tine determine:
 
 Provided that an officer shall have the option to retire on, or on any day after, completion of twenty-five years service, subject to any service obligations and other terms which he may have entered into by means of a form of undertaking, and subject to the officer declaring his intent to retire to the Minister in writing, through the Commander, not later than three months prior to his intended date of retirement.
 
@@ -322,17 +298,13 @@ shall, notwithstanding any other provision of these regulations, be entitled for
 
 *Cap. 93.*
 
-Provided that an officer who after enlisting in the Detention Service as stipulated in this sub-regulation leaves the said services or has his enlistment therein terminated before completing a total [S.L.220.03 OF SERVICE OF THE REGULAR FORCE
-
-of twenty five years of service in accordance with this subregulation shall be entitled to a pension to be computed on the basis of the aggregate of his service in the force and of his service in the Detention Service
-
-*8*
-
-*Increase in pensionable emoluments. Added by: L.N. 315 of 2023. Amended by: L.N. 126 of 2024; L.N. 16 of 2025.*
+Provided that an officer who after enlisting in the Detention Service as stipulated in this sub-regulation leaves the said services or has his enlistment therein terminated before completing a total of twenty five years of service in accordance with this subregulation shall be entitled to a pension to be computed on the basis of the aggregate of his service in the force and of his service in the Detention Service
 
 ### 12A.
 
 (1) The provisions of this regulation shall apply to officers in service on or after 1st October 2023:
+
+*Increase in pensionable emoluments. Added by: L.N. 315 of 2023. Amended by: L.N. 126 of 2024; L.N. 16 of 2025.*
 
 Provided that officers who retired during the year 2023 because they reached pension age or were medically boarded out shall also benefit from these provisions:
 
@@ -351,10 +323,6 @@ Provided further that these provisions shall apply to officers who were reinstat
 Provided that upon the request of the beneficiary, gratuities shall be paid at the end of each of the four (4) years covered by this provision.
 
 (6) Where an officer who has completed twenty-five (25) years of service and has also satisfied the conditions set out in item 11(1) of Part II of the Third Schedule opts to continue his service thereafter, the said officer shall be entitled to the pension payable upon the completion of twenty-five (25) years of service, notwithstanding any event which may occur during the period subsequent to the completion of the said twenty-five (25) years of service and which may give rise to the applicability of the provisions of item 11(2) of Part II of the Third Schedule:
-
-*9*
-
-OF SERVICE OF THE REGULAR FORCE [S.L.220.03
 
 Provided that this shall be without prejudice to the possibility of accruing additional pensions benefits:
 
@@ -393,10 +361,6 @@ Provided that an officer may not be allowed to retire or resign if he has been w
 ### 15. Compulsory retention beyond normal retiring age.
 
 Where an officer is engaged on active service or on service in a national emergency, he shall be liable to be compulsorily retained on the active list beyond his normal retiring age.
-
-*10*
-
-[S.L.220.03 OF SERVICE OF THE REGULAR FORCE
 
 ### 16. Reserve liability.
 
@@ -444,11 +408,9 @@ Officers commissioned on or after the 15th January, 1979 shall be eligible for a
 
 *Added by: L.N.47 of 1990.*
 
-*11*
+### 21. Recruiting officers.
 
-OF SERVICE OF THE REGULAR FORCE [S.L.220.03 21. Any officer of the force authorised in that behalf by the Commander may enlist recruits in the force and such officer shall be a recruiting officer for the purposes of the Act and of these Regulations.
-
-*Recruiting officers.*
+Any officer of the force authorised in that behalf by the Commander may enlist recruits in the force and such officer shall be a recruiting officer for the purposes of the Act and of these Regulations.
 
 ### 22. Prescribed notice and attestation paper.
 
@@ -483,10 +445,6 @@ The procedure for enlisting a person in the force shall be the following:
 (b) certified to possess such minimum medical standards as the Minister may from time to time determine;
 
 (c) of good conduct.
-
-*12*
-
-[S.L.220.03 OF SERVICE OF THE REGULAR FORCE
 
 ### 25. Enlistment in particular corps and right to purchase discharge.
 
@@ -536,10 +494,6 @@ Provided that the engagement shall be deemed to be completed -
 
 referred to in sub-regulation (1).
 
-*13*
-
-OF SERVICE OF THE REGULAR FORCE [S.L.220.03
-
 (3) Male soldiers enlisted on a fourteen month engagement shall have a reserve liability of ten years from the date of termination of their engagement:
 
 Provided that male soldiers enlisted before 1st day of June, 1982 may be accepted for service in the reserve for such term.
@@ -578,11 +532,7 @@ Notwithstanding any other provision of these regulations a man of the force shal
 
 *Amended by: L.N. 37 of 1973.*
 
-Such percentage of men on a twenty-two years’ engagement as the Minister may, according to the exigencies of the service, determine, may be allowed to continue their service beyond twenty-two years on a yearly basis until the age of fifty-five years but may be allowed to continue their service beyond this age for such period or periods as the Minister may from time to [S.L.220.03 OF SERVICE OF THE REGULAR FORCE
-
-time determine.
-
-*14*
+Such percentage of men on a twenty-two years’ engagement as the Minister may, according to the exigencies of the service, determine, may be allowed to continue their service beyond twenty-two years on a yearly basis until the age of fifty-five years but may be allowed to continue their service beyond this age for such period or periods as the Minister may from time to time determine.
 
 ### 32. Purchase of discharge.
 
@@ -606,11 +556,7 @@ Discharge from colour service, except at option points as provided in the forego
 
 (ii) of three years if the discharge is at the end of nine years’ reckonable service;
 
-(iii) the balance of twenty-two years’ service uncompleted if the discharge is at the end of OF SERVICE OF THE REGULAR FORCE [S.L.220.03
-
-twelve years or more reckonable service;
-
-*15*
+(iii) the balance of twenty-two years’ service uncompleted if the discharge is at the end of twelve years or more reckonable service;
 
 (f) all such persons holding substantive or acting warrant officer or non-commissioned officer rank in the Maltese unit aforesaid on 30th September, 1970 will be granted the same rank and seniority in the force with effect from 1st October, 1970;
 
@@ -638,11 +584,7 @@ Provided that a man of the force may not be allowed to retire or resign if he ha
 
 (a) reaches the age of fifty-five years; and
 
-(b) has not upon reaching the said age or upon having his enlistment with the force terminated at an age of more than fifty five years and less than sixty-one years completed twenty-five years of service in the force; [S.L.220.03 OF SERVICE OF THE REGULAR FORCE
-
-and
-
-*16*
+(b) has not upon reaching the said age or upon having his enlistment with the force terminated at an age of more than fifty five years and less than sixty-one years completed twenty-five years of service in the force; and
 
 (c) upon reaching an age of at least fifty-five years but less than sixty-one years has his engagement with the force terminated; and
 
@@ -674,11 +616,7 @@ Provided that a man of the force who after enlisting in the Detention Service as
 
 (1) The Commander shall from time to time lay down the percentage of the establishment of warrant officers and non-commissioned officers which may be filled by substantive ranks.
 
-(2) Any balance which is not filled by substantive ranks and any deficiency resulting from holders of substantive ranks being temporarily non-effective may be made up by the grant, subject to the control of the Officer-in-Charge Records, of acting rank in OF SERVICE OF THE REGULAR FORCE [S.L.220.03
-
-accordance with the provisions contained in instructions issued for this purpose by the Commander.
-
-*17*
+(2) Any balance which is not filled by substantive ranks and any deficiency resulting from holders of substantive ranks being temporarily non-effective may be made up by the grant, subject to the control of the Officer-in-Charge Records, of acting rank in accordance with the provisions contained in instructions issued for this purpose by the Commander.
 
 (3) Acting rank may be retained during a period of probation which includes an army course.
 
@@ -718,10 +656,6 @@ Officer
 
 (2) At the time the warning aforesaid is given the warrant officer or non-commissioned officer concerned shall, if practicable, be cross-posted to another company or equivalent sub-unit under the same commanding officer for the period of the warning and shall be given adequate opportunity to improve.
 
-*18*
-
-[S.L.220.03 OF SERVICE OF THE REGULAR FORCE
-
 (3) All applications under sub-regulation (1) shall state the rank to which the reduction is recommended and shall be accompanied by the following documents:
 
 (i) a full statement by the commanding officer giving the reasons for the recommended reduction;
@@ -754,11 +688,7 @@ A commanding officer may, on grounds of inefficiency or unsuitability -
 
 (b) if reduced to the rank of lance-corporal before the expiration of twelve months:
 
-Provided that if the reduction is to the rank of private, promotion to lance-corporal may be granted under the normal rules OF SERVICE OF THE REGULAR FORCE [S.L.220.03
-
-at any time.
-
-*19*
+Provided that if the reduction is to the rank of private, promotion to lance-corporal may be granted under the normal rules at any time.
 
 (3) At the expiration of the time limits specified in sub-regulation (2), the man may be promoted to the next higher rank under the normal rules, or he may be promoted to the next higher substantive rank, if he is recommended and is qualified, provided that -
 
@@ -782,11 +712,7 @@ Provided that, individual cases may be considered jointly by the Officer-in-Char
 
 ### 44. Transfers.
 
-The following provisions shall have effect with respect to the transfer of a man from one corps to another where such transfer OF SERVICE OF THE REGULAR FORCE
-
-is consented to or requested by the man concerned:
-
-*[S.L.220.03 20*
+The following provisions shall have effect with respect to the transfer of a man from one corps to another where such transfer is consented to or requested by the man concerned:
 
 (a) If a warrant officer or a non-commissioned officer consents to or requests a transfer, the Officer-in- Charge Records will inform him as soon as practicable whether he may retain his substantive rank on transfer and will notify him what substantive rank and seniority in his new corps can be granted if his transfer is approved. If a vacancy in his rank does not exist or if his qualifications and experience do not qualify him for transfer in his substantive rank and he is unwilling to accept the rank and seniority offered he shall be entitled to withdraw his request or consent. In such circumstances as would entitle a man to withdraw his request or consent, a transfer shall not be authorised unless -
 
@@ -808,11 +734,7 @@ Provided that where such period of probation as aforesaid includes a military co
 
 (1) In addition to any other case provided for by the Act or of any regulations, rules or orders made thereunder, colour service may be terminated in the cases and manner hereafter provided:
 
-(a) a recruit who has been attested but has not been finally approved may be rejected and discharged by his commanding officer on any of the following grounds - OF SERVICE OF THE REGULAR FORCE [S.L.220.03
-
-(i) that he is unlikely to become an efficient soldier; or
-
-*21*
+(a) a recruit who has been attested but has not been finally approved may be rejected and discharged by his commanding officer on any of the following grounds - (i) that he is unlikely to become an efficient soldier; or
 
 (ii) that he is a misfit or an undesirable influence; or (iii) that he is likely to bring discredit on the service, or
 
@@ -848,10 +770,6 @@ and in respect of whom the provisions of sub-regulation (2) have been observed, 
 
 (iii) contravention of any enactment relating to dangerous drugs,
 
-**OF SERVICE OF THE REGULAR FORCE**
-
-*[S.L.220.03 22*
-
 but has been awarded a lesser sentence than would warrant discharge under paragraph (e), may be discharged by the Commander if, on the commanding officer’s recommendation to that effect, he considers the man’s discharge to be in the interests of the service:
 
 For the purposes of this paragraph a person who has been placed on probation or has been discharged absolutely or conditionally by a civil court shall not be deemed to have been convicted;
@@ -880,11 +798,7 @@ The provisions referred to in sub-regulation (1)(d) are:
 
 and the man concerned shall be asked to sign the written warning in acknowledgement;
 
-(b) a copy of the warning or of the signed warning, as the OF SERVICE OF THE REGULAR FORCE [S.L.220.03
-
-case may be, shall be sent to the Officer-in-Charge Records who shall retain it for the period of its validity, and shall then either retain it as proof that the man was properly warned if the man is discharged under the sub-paragraph aforesaid or destroy it if the warning period lapses and the man is retained in the service;
-
-*23*
+(b) a copy of the warning or of the signed warning, as the case may be, shall be sent to the Officer-in-Charge Records who shall retain it for the period of its validity, and shall then either retain it as proof that the man was properly warned if the man is discharged under the sub-paragraph aforesaid or destroy it if the warning period lapses and the man is retained in the service;
 
 (c) after the written warning has been given, the man shall, if practicable, be cross-posted to another company or equivalent sub-unit under the same commanding officer for the period of the warning and shall be given adequate opportunity to improve;
 
@@ -906,11 +820,7 @@ The scales of pay and allowances for men of the force shall be such as the Minis
 
 *Amended by: L.N. 10 of 1984; L.N. 47 of 1990. Cap. 93.*
 
-Men of the force shall, in respect of service in the force, be eligible to such pension or gratuity as may be granted under the Pensions Ordinance to an officer holding a pensionable office in Malta within the meaning of that Ordinance; and the said Ordinance shall for such purpose apply to men of the force, their widows and legal representatives, as they apply to an officer holding a pensionable office as aforesaid, his widow and legal representative, subject to such adaptations and modifications as may be required and in particular subject to the modifications required by the difference in the length of normal service, and in the application of article 7, article 11(3) and article 18 of the said Ordinance and regulations 2, 9, 10 and 14 of the Pensions [S.L.220.03 OF SERVICE OF THE REGULAR FORCE
-
-Regulations to men in the force, those articles and regulations shall apply as they apply to members of the Police Force:
-
-*24*
+Men of the force shall, in respect of service in the force, be eligible to such pension or gratuity as may be granted under the Pensions Ordinance to an officer holding a pensionable office in Malta within the meaning of that Ordinance; and the said Ordinance shall for such purpose apply to men of the force, their widows and legal representatives, as they apply to an officer holding a pensionable office as aforesaid, his widow and legal representative, subject to such adaptations and modifications as may be required and in particular subject to the modifications required by the difference in the length of normal service, and in the application of article 7, article 11(3) and article 18 of the said Ordinance and regulations 2, 9, 10 and 14 of the Pensions Regulations to men in the force, those articles and regulations shall apply as they apply to members of the Police Force:
 
 Provided that, subject to regulation 26(2), a man of the force having special reckonable service shall qualify for a pension independently of the length of his reckonable service provided he completes or has opted to complete a twenty-two year engagement:
 
@@ -942,10 +852,6 @@ Provided further that these provisions shall apply to men of the force who were 
 
 (5) Gratuities in accordance with these regulations shall be payable on retirement of the man of the force or on completion of thirty-three (33) years of service:
 
-*25*
-
-OF SERVICE OF THE REGULAR FORCE [S.L.220.03
-
 Provided that upon the request of the beneficiary, gratuities shall be paid at the end of each of the four (4) years covered by this provision.
 
 (6) Where a man of the force who has completed twenty-five (25) years of service and has satisfied the conditions set out in item 11(1) of Part II of the Third Schedule opts to continue his service thereafter, the said man of the force shall be entitled to the pension payable upon the completion of twenty-five (25) years of service, notwithstanding any event which may occur during the period subsequent to the completion of the said twenty-five (25) years of service and which may give rise to the applicability of the provisions of item 11(2) of part II of the Third Schedule:
@@ -971,10 +877,6 @@ Provided further that the provisions of this regulation shall apply retroactivel
 (1) The leave year shall begin on the 1st April of one year and end on the 31st March of the following year.
 
 (2) Subject to the exigencies of the service, the entitlement to annual leave shall be as follows:
-
-*26*
-
-[S.L.220.03 OF SERVICE OF THE REGULAR FORCE
 
 (a) Officers - 42 days in respect of a full year’s service (b) Sergeants and above - 42 days in respect of a full year’s service
 
@@ -1017,10 +919,6 @@ Provided further that the provisions of this regulation shall apply retroactivel
 (2) Except in extreme urgency, the compassionate circumstances shall be verified before leave is granted. In cases of extreme urgency leave may be granted immediately and the circumstances investigated as soon as possible afterwards.
 
 (3) Authority to grant compassionate leave shall be as follows:
-
-*27*
-
-OF SERVICE OF THE REGULAR FORCE [S.L.220.03
 
 (a) for periods not exceeding 28 days - Commanding Officer;
 
@@ -1076,11 +974,7 @@ Terminal leave of a continuous period of twenty-eight days ending on the last da
 
 ### 57. Dental facilities.
 
-Officers and men shall be entitled to dental treatment [S.L.220.03 OF SERVICE OF THE REGULAR FORCE
-
-without any charge to them.
-
-*28*
+Officers and men shall be entitled to dental treatment without any charge to them.
 
 ### 58. Applicability of regulations 55, 56 and 57.
 
@@ -1093,8 +987,6 @@ Notwithstanding the provisions of regulations 55, 56 and 57, officers and men wh
 *Added by: L.N. 130 of 1998.*
 
 (Deleted by Legal Notice 61 of 2015).
-
-OF SERVICE OF THE REGULAR FORCE [S.L.220.03 29
 
 FIRST SCHEDULE Substituted by:
 
@@ -1116,9 +1008,7 @@ The said ..................................................................... h
 
 .....................................................
 
-(signature and authority of person administering oath) 30 [S.L.220.03 OF SERVICE OF THE REGULAR FORCE
-
-Amended by: SECOND SCHEDULE
+(signature and authority of person administering oath) Amended by: SECOND SCHEDULE
 
 L.N. 42 of 1980;
 
@@ -1161,8 +1051,6 @@ a. You will be enlisted on an initial engagement of 3 years.
 b. At the end of 3 years you may be allowed to re-engage for a further 9 years subject to the quota for re-engagements existing at the time. You may opt to terminate your service without payment at each 3 year point. c. At the end of 12 years you may be allowed to re-engage for a further 10 years subject to the quota for re-engagements existing at the time. You may opt to terminate your service without payment at the 15 year point and at any time after 16 years service.
 
 d. At the end of 22 years service you may be allowed to continue for one year at a time up to the age of 55 years or until such subsequent age as the Minister may from time to time determine.
-
-OF SERVICE OF THE REGULAR FORCE [S.L.220.03 31
 
 e. Your reserve liability will be as follows:
 
@@ -1234,8 +1122,6 @@ For men enlisted on a twelve month engagement -
 
 You will be enlisted on a twelve month engagement and you will have a reserve liability for a period of twenty years from the date of termination of your engagement.
 
-32 [S.L.220.03 OF SERVICE OF THE REGULAR FORCE
-
 **General**
 
 \13. You may be enlisted into a corps of your choice if there is a vacancy in that corps and you are duly qualified. While in the corps to which you are appointed you may be posted from one unit or branch to another.
@@ -1259,8 +1145,6 @@ b. If you make a claim for discharge during the appropriate period you will then
 \21. If when a soldier would otherwise be entitled to be discharged or to be transferred to the reserve, he is liable to be proceeded against by court-martial, or is serving a sentence of imprisonment or detention abroad, his discharge or transfer to the reserve will be postponed. What is said above about entitlement to be discharged or to be transferred to the reserve must be read as subject to this.
 
 \22. a. If, when you would otherwise become entitled to be discharged, you are serving with the Force:
-
-OF SERVICE OF THE REGULAR FORCE [S.L.220.03 33
 
 (1) outside Malta, or
 
@@ -1306,8 +1190,6 @@ Q. 6. What was the
 
 nationality at birth of:
 
-34 [S.L.220.03 OF SERVICE OF THE REGULAR FORCE
-
 (a) yourself? (c) your mother? (e) your wife?
 
 (b) your father? (d) your paternal grand-
@@ -1333,8 +1215,6 @@ Q. 14. (a)Into what corps do you wish to enlist? ...............................
 Q. 15. Have you received a notice paper setting out the questions to be answered on attestation and the general conditions of the enlistment to be entered into including reserve liability? .......................................................................... Do you understand the contents of the notice paper and wish to be enlisted?
 
 Q. 16. Are you willing to serve:
-
-OF SERVICE OF THE REGULAR FORCE [S.L.220.03 35
 
 (a) \*If under the age of 18 years, the period from the date of attestation up to the date on which you attain the age of 18 years, and thereafter for a term of ................... years with the colours and ............... years with the reserve.
 
@@ -1368,9 +1248,7 @@ Army No................... Nature of Engagement (Note 1) .................... Co
 
 \2. Any alterations in this Attestation Form will be initialled in ink by the Recruiting Officer. A ball-point type of pen will NOT be used.
 
-\3. The Recruiting Officer will delete all paragraphs referring to types of 36 [S.L.220.03 OF SERVICE OF THE REGULAR FORCE
-
-engagement which are not appropriate.
+\3. The Recruiting Officer will delete all paragraphs referring to types of engagement which are not appropriate.
 
 **QUESTIONS TO BE PUT TO THE RECRUIT BEFORE ENLISTMENT**
 
@@ -1401,8 +1279,6 @@ Q. 10. Do you belong to, or have you ever served in any armed force of Malta or 
 Q. 11. Have you ever been charged before any civil court with an offence of which you have not been acquitted (even though you may only have been absolutely or conditionally discharged, or placed on probation)? If so, give full particulars of each charge.
 
 Q. 12. Have you ever been rejected for service in any armed force of Malta or of a Commonwealth Country? If so, on what grounds?
-
-OF SERVICE OF THE REGULAR FORCE [S.L.220.03 37
 
 Q. 13. (a) Are you, or have you ever been an apprentice? ......................................
 
@@ -1440,8 +1316,6 @@ Q. 16. Are you willing to serve:
 
 I, ................................................. do solemnly declare that the above answers made by me to the above questions are true, and that I am willing to fulfil the engagement made.
 
-38 [S.L.220.03 OF SERVICE OF THE REGULAR FORCE
-
 ......................................... ......................................... ................................... (Date) (Signature of Recruit) (Signature of witness)
 
 **OATH TO BE TAKEN BY RECRUIT ON ATTESTATION**
@@ -1478,8 +1352,6 @@ Rank ................................................ Appointment
 
 Signature of Recruiting Officer ............................................................................ Religious denomination .................. .....................
 
-OF SERVICE OF THE REGULAR FORCE [S.L.220.03 39
-
 **CERTIFICATE OF MEDICAL EXAMINATION**
 
 I /We have examined this Recruit in accordance PULHEEMS with current instructions and have assessed him as
@@ -1507,10 +1379,6 @@ Date .............................. Signature of Approving Officer .............
 \2. If the recruit has former service he is to be asked particulars of this former service, and will produce, if possible, all certificates issued on discharge. All certificates will be returned to the recruit and in cases of former service with any armed force of Malta certificates will be conspicuously endorsed in red ink as follows:
 
 (Name) re-enlisted in the (Corps) on the (Date).
-
-*40*
-
-[S.L.220.03 OF SERVICE OF THE REGULAR FORCE
 
 ## THIRD SCHEDULE
 
@@ -1560,11 +1428,7 @@ No pension shall be granted under these Articles and the Rules, to any officer o
 
 (iii) one working trade allowance
 
-but does not include duty allowance, entertainment allowance, house allowance, the estimated annual rental value of free quarters, OF SERVICE OF THE REGULAR FORCE [S.L.220.03
-
-value of rations, extra remuneration, any fees paid out of the Treasury by way of salary or other emoluments whatsoever;
-
-*41*
+but does not include duty allowance, entertainment allowance, house allowance, the estimated annual rental value of free quarters, value of rations, extra remuneration, any fees paid out of the Treasury by way of salary or other emoluments whatsoever;
 
 "personal allowance" means a special addition granted personally to the holder for the time being of the office, but does not include such an addition if it is granted subject to the condition that it shall not be pensionable;
 
@@ -1598,10 +1462,6 @@ Provided that the yearly pension shall in no case be reduced to less than the su
 
 by subtracting therefrom the yearly sum of one hundred and sixteen euros and forty-seven cents (116.47).
 
-*42*
-
-[S.L.220.03 OF SERVICE OF THE REGULAR FORCE
-
 (3) Any reduction in the pension under sub-article (1) shall be calculated on the basis of the pension, the remuneration or other income, and the salary, receivable during a period of twelve months ending on 31st December of the year in which the reduction is due to be made, but, subject to any adjustments that may be or become necessary for any reason whatsoever, and in so far as practicable, shall be made from the monthly or other periodical payments of the pension.
 
 (4) Any officer or man to whom sub-article (1) applies shall without delay inform the Director General (Social Security), and keep him at all times informed, of all the circumstances which render the said sub-article (1) applicable to him and the extent to which it is so applicable, and of any change in the circumstances or extent aforesaid, and shall give the Director General (Social Security) on request, all relevant information; and if such officer or man fails to comply with any of the provisions of this sub-article any pension to which he may be entitled under these Articles shall forthwith cease:
@@ -1628,11 +1488,7 @@ The service in respect of which a pension may be granted must be unbroken, excep
 
 (a) in the case of an officer or man who has held the same office for a period of three years immediately preceding the date of his retirement, the full annual pensionable emoluments enjoyed by him at that date in respect of that office shall be taken;
 
-(b) in the case of an officer or man who at any time during such period of three years has been posted from one OF SERVICE OF THE REGULAR FORCE [S.L.220.03
-
-office to another, but whose pensionable emoluments have not been changed by reason of such posting or postings otherwise than by the grant of any scale increments, the full annual pensionable emoluments enjoyed by him at the date of his retirement in respect of the office then held by him shall be taken;
-
-*43*
+(b) in the case of an officer or man who at any time during such period of three years has been posted from one office to another, but whose pensionable emoluments have not been changed by reason of such posting or postings otherwise than by the grant of any scale increments, the full annual pensionable emoluments enjoyed by him at the date of his retirement in respect of the office then held by him shall be taken;
 
 (c) in other cases one third of the aggregate pensionable emoluments enjoyed by the officer or man in respect of his service during the three years of his service immediately preceding the date of his retirement shall be taken:
 
@@ -1654,11 +1510,7 @@ Provided that -
 
 (b) he shall be deemed to have been on duty on full pensionable emoluments throughout such period;
 
-(c) he shall be deemed to have enjoyed the benefit of any increase due to a revision of salaries in the pensionable emoluments of any office held by him as if such increase had been payable throughout such period; and (d) any periods during which he has been absent from duty [S.L.220.03 OF SERVICE OF THE REGULAR FORCE
-
-on leave without salary, granted on grounds of public policy with the approval of the President, and during which he has not qualified for pension in respect of other public service.
-
-*44*
+(c) he shall be deemed to have enjoyed the benefit of any increase due to a revision of salaries in the pensionable emoluments of any office held by him as if such increase had been payable throughout such period; and (d) any periods during which he has been absent from duty on leave without salary, granted on grounds of public policy with the approval of the President, and during which he has not qualified for pension in respect of other public service.
 
 (4) In no circumstances shall the pensionable emoluments to be taken exceed the full annual pensionable emoluments enjoyed by the officer or man at the date of his retirement in respect of the office then held by him.
 
@@ -1689,10 +1541,6 @@ And any periods during which he has been absent on leave other than those specif
 Where an officer or man has performed acting service in a pensionable office in the force, the period of such service may be taken into account as pensionable service under the Articles:
 
 Provided that -
-
-*45*
-
-OF SERVICE OF THE REGULAR FORCE [S.L.220.03
 
 (a) the period of such acting service was not part of the pensionable service of the previous holder of the office and does not fall to be reckoned as part of the officer’s or man’s own pensionable service under the Regulations or Articles in the force;
 
@@ -1728,10 +1576,6 @@ Where an officer or man, has sustained a physical injury on duty leading to a pe
 
 (d) has been duly certified by an Injuries Board composed of medical and other professionals and appointed by the Minister responsible for defence and including the Force’s Principal medical officer,
 
-*46*
-
-[S.L.220.03 OF SERVICE OF THE REGULAR FORCE
-
 such officer or man shall be entitled to pensionable emoluments as if he had completed the twenty-five years service.
 
 ### 10. Pension to widows of officers and men killed in the discharge of their duty.
@@ -1762,13 +1606,9 @@ Pensions, gratuities and allowances payable under the Act shall also be payable 
 
 ### 13. Information to persons entitled to pension, gratuity or allowance.
 
-Where any person of the force is posted in another Member State of the European Community, such person shall be entitled to receive adequate information as to the relative rights under rule 12. OF SERVICE OF THE REGULAR FORCE [S.L.220.03
+Where any person of the force is posted in another Member State of the European Community, such person shall be entitled to receive adequate information as to the relative rights under rule 12. FOURTH SCHEDULE
 
 *Added by: L.N. 130 of 1998. Amended by: L.N. 13 of 1999.*
-
-FOURTH SCHEDULE
-
-*47*
 
 (Regulation 59)
 

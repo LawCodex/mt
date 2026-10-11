@@ -1,6 +1,6 @@
 ---
 title: "Public Registry (Inspection and Searches) Regulations"
-identifier: "S.L. 56.3"
+identifier: "S.L. 56.03"
 eli: "https://legislation.mt/eli/sl/56.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/56.3/20210208/eng"
 retrieved: 2026-10-12
 ---
 
-# Public Registry (Inspection and Searches) Regulations (S.L. 56.3)
+# Public Registry (Inspection and Searches) Regulations (S.L. 56.03)
 
 **SUBSIDIARY LEGISLATION 56.03**
 

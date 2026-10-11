@@ -1,6 +1,6 @@
 ---
 title: "Extradition (United States of America) Order"
-identifier: "S.L. 276.7"
+identifier: "S.L. 276.07"
 eli: "https://legislation.mt/eli/sl/276.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/276.7/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Extradition (United States of America) Order (S.L. 276.7)
+# Extradition (United States of America) Order (S.L. 276.07)
 
 **SUBSIDIARY LEGISLATION 276.07**
 
@@ -51,20 +51,15 @@ In this Order, unless the context otherwise requires -
 
 (1) The provisions of the relevant Act, save where otherwise expressly indicated, shall apply to requests received or made by Malta on or after the relevant date for the return of a fugitive criminal to or from the United States of America in pursuance of a request made under this Order, and the provisions of the relevant Act shall have effect in relation to the return under this Order of persons to, or in relation to persons returned under this Order from, the United States of America subject to such conditions, exceptions, adaptations or modifications as are specified in this Order.
 
-(2) The relevant Act and any applicable Treaty in force before the relevant date shall continue to apply to requests for the return of a fugitive criminal to the United States of America pending in Malta on the relevant date and to requests made by Malta to the United States of America before the relevant date, and any
+(2) The relevant Act and any applicable Treaty in force before the relevant date shall continue to apply to requests for the return of a fugitive criminal to the United States of America pending in Malta on the relevant date and to requests made by Malta to the United States of America before the relevant date, and any arrangement applicable between the United States of America and Malta before the relevant date shall also continue to apply to those requests:
 
-arrangement applicable between the United States of America and  
-Malta before the relevant date shall also continue to apply to those  
-requests:  
-Provided that Articles 2 and 16 of the Treaty shall apply to  
-requests pending in Malta on the relevant date.  
-\4.  For the purposes of this Order, article 8(1)(a) of the  Amends article 8  
-of the relevant Act.  
-relevant Act shall apply as if for the words "under that law" therein  
-Substituted by:  
-there were substituted the words "under Maltese law and under that  L.N. 48 of 2010.  
-law" and for the words "twelve months" therein, there were  
-substituted the words "of more than twelve months"..
+Provided that Articles 2 and 16 of the Treaty shall apply to requests pending in Malta on the relevant date.
+
+## 4. Amends article 8 of the relevant Act.
+
+*Substituted by: L.N. 48 of 2010.*
+
+For the purposes of this Order, article 8(1)(a) of the relevant Act shall apply as if for the words "under that law" therein there were substituted the words "under Maltese law and under that law" and for the words "twelve months" therein, there were substituted the words "of more than twelve months"..
 
 ## 5. Minister may grant extradition.
 

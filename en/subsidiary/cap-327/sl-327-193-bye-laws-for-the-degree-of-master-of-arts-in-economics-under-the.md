@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Economics under the auspices of the Faculty of Economics, Management and Accountancy (S.L. 327.193)
 
-THE AUSPICES OF THE FACULTY OF ECONOMICS,
-
-*1*
-
-MANAGEMENT AND ACCOUNTANCY [S.L.327.193
-
 **SUBSIDIARY LEGISLATION 327.193**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -73,11 +67,7 @@ These bye-laws shall be applicable for courses commencing in October 2011 or lat
 
 (1) The preparatory programme shall comprise study-units to which not less than 30 credits are assigned.
 
-(2) Students shall be required to successfully complete the preparatory programme of study with an average mark of 55% or THE AUSPICES OF THE FACULTY OF ECONOMICS, [S.L.327.193 MANAGEMENT AND ACCOUNTANCY
-
-better prior to their registration for the course.
-
-*2*
+(2) Students shall be required to successfully complete the preparatory programme of study with an average mark of 55% or better prior to their registration for the course.
 
 (3) The Board may grant students full or partial exemption from the requirement of the Preparatory Programme if it is satisfied that the students possess post-first cycle qualification work experience that is relevant to the course.
 
@@ -115,13 +105,7 @@ The programme of study shall be published after approval by Senate, normally not
 
 (1) The assessment or each taught study-unit shall be completed by the end of the semester in which the teaching of the study-unit is held.
 
-(2) Students who in any academic year fail in the assessment of not more than 25 credits for taught study-units, if following the full-time course, or not more than 16 credits if following the part- THE AUSPICES OF THE FACULTY OF ECONOMICS,
-
-*3*
-
-MANAGEMENT AND ACCOUNTANCY [S.L.327.193
-
-time course, shall be given the opportunity to re-sit the failed assessments during the September supplementary examination session.
+(2) Students who in any academic year fail in the assessment of not more than 25 credits for taught study-units, if following the full-time course, or not more than 16 credits if following the part-time course, shall be given the opportunity to re-sit the failed assessments during the September supplementary examination session.
 
 (3) Students who fail in more than the number of credits permitted under paragraph (2) or students who after re-assessment fail to obtain the credits for any study-unit, shall be deemed to have failed the course.
 

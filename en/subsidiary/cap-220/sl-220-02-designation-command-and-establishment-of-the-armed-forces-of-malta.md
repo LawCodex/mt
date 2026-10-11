@@ -1,6 +1,6 @@
 ---
 title: "Designation, Command and Establishment of the Armed Forces of Malta Order"
-identifier: "S.L. 220.2"
+identifier: "S.L. 220.02"
 eli: "https://legislation.mt/eli/sl/220.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/220.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Designation, Command and Establishment of the Armed Forces of Malta Order (S.L. 220.2)
+# Designation, Command and Establishment of the Armed Forces of Malta Order (S.L. 220.02)
 
 **SUBSIDIARY LEGISLATION 220.02**
 

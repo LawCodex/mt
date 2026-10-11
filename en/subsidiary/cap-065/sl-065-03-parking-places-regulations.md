@@ -1,6 +1,6 @@
 ---
 title: "Parking Places Regulations"
-identifier: "S.L. 65.3"
+identifier: "S.L. 65.03"
 eli: "https://legislation.mt/eli/sl/65.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/65.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Parking Places Regulations (S.L. 65.3)
+# Parking Places Regulations (S.L. 65.03)
 
 **SUBSIDIARY LEGISLATION 65.03**
 

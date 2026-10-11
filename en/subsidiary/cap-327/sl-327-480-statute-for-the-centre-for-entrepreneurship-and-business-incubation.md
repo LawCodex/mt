@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Statute for the Centre for Entrepreneurship and Business Incubation (S.L. 327.480)
 
-*1*
-
-ENTREPRENEURSHIP AND BUSINESS INCUBATION [S.L.327.480
-
 **SUBSIDIARY LEGISLATION 327.480**
 
 STATUTE FOR THE INSTITUTE FOR THE CENTRE FOR ENTREPRENEURSHIP AND BUSINESS
@@ -63,17 +59,11 @@ The aims of the Centre shall be:
 
 (g) to stimulate and engage in world-class, cutting edge research in Entrepreneurship and Business Incubation disseminated in leading conferences, journals and books in the field;
 
-**ENTREPRENEURSHIP AND BUSINESS INCUBATION**
-
-*[S.L.327.480 2*
-
 (h) to participate in local and international collaborations and research, funded and otherwise, with leading institutions in the field;
 
 (i) to contribute to the development of the local and international Entrepreneurship and Business Incubation community through participation in networking events, conference organization, chairing and reviewing committees of such conferences, journals and books.
 
-*\5.*
-
-*Governance.*
+## 5. Governance.
 
 The Centre shall be governed by a Board that will consist of the following:
 
@@ -97,15 +87,11 @@ The Centre shall be governed by a Board that will consist of the following:
 
 The Registrar or his/her delegate shall act as Secretary to the Board.
 
-*\6.*
-
-*Appointment of members of the Board.*
+## 6. Appointment of members of the Board.
 
 All members of the Board, other than those appointed ex officio, the two representatives of the academic staff and the two student representatives shall be appointed for a period of one year, renewable for up to four years. A retiring member will be eligible for re-appointment.
 
-*\7.*
-
-*Function of the Board.*
+## 7. Function of the Board.
 
 The function of the Board shall be:
 
@@ -114,10 +100,6 @@ The function of the Board shall be:
 (b) to decide the policy of the Centre, to supervise its activities and administration, and without prejudice to the generality of the foregoing, the Board may:
 
 (i) approve business plans and annual estimates of revenue and expenditure of the Centre for consideration and approval by the Council;
-
-*3*
-
-ENTREPRENEURSHIP AND BUSINESS INCUBATION [S.L.327.480
 
 (ii) with the written concurrence of the Rector enter into agreements with third parties for funding of the Centre or of particular activities;
 
@@ -147,11 +129,7 @@ ENTREPRENEURSHIP AND BUSINESS INCUBATION [S.L.327.480
 
 *\8. Appointment of Director and Staff.*
 
-(a) the Director of the Centre shall be appointed according to the procedure for the appointment of Directors of Institutes and Centres as approved by the Council of the University, for a duration of one year, with the possibility of renewal annually subject to established performance criteria, the needs of the Centre and the needs of the University, for a total period not ENTREPRENEURSHIP AND BUSINESS INCUBATION
-
-exceeding four (4) years; and
-
-*[S.L.327.480 4*
+(a) the Director of the Centre shall be appointed according to the procedure for the appointment of Directors of Institutes and Centres as approved by the Council of the University, for a duration of one year, with the possibility of renewal annually subject to established performance criteria, the needs of the Centre and the needs of the University, for a total period not exceeding four (4) years; and
 
 (b) the staff of the Centre shall be appointed by the University according to the usual practice.
 
@@ -183,11 +161,7 @@ The duties of the Vice-Chairman/Director shall include:
 
 (h) liaising with the Director of Corporate Research and Knowledge Transfer as required, to ensure the smooth day-to-day operations of the Business Incubator;
 
-(i) administering the Centre in full consultation with the members; monitoring and approving requests for leave of absence of members of the Centre; maintaining ENTREPRENEURSHIP AND BUSINESS INCUBATION [S.L.327.480
-
-records of all leave taken by members and passing on these records to the Director of Human Resources Management and Development upon request;
-
-*5*
+(i) administering the Centre in full consultation with the members; monitoring and approving requests for leave of absence of members of the Centre; maintaining records of all leave taken by members and passing on these records to the Director of Human Resources Management and Development upon request;
 
 (j) encouraging and facilitating co-operation with other universities, institutions, entrepreneurial organizations and business incubators both local and international;
 
@@ -208,10 +182,6 @@ records of all leave taken by members and passing on these records to the Direct
 (r) authorising the Centre’s procurement of equipment; ensuring that the resources assigned to the Centre -whether human or other - are utilized fully and efficiently;
 
 (s) performing other duties which may be assigned by the University from time to time.
-
-**ENTREPRENEURSHIP AND BUSINESS INCUBATION**
-
-*[S.L.327.480 6*
 
 *\10.*
 

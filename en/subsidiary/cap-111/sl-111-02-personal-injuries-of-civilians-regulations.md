@@ -1,6 +1,6 @@
 ---
 title: "Personal Injuries of Civilians Regulations"
-identifier: "S.L. 111.2"
+identifier: "S.L. 111.02"
 eli: "https://legislation.mt/eli/sl/111.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/111.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Personal Injuries of Civilians Regulations (S.L. 111.2)
+# Personal Injuries of Civilians Regulations (S.L. 111.02)
 
 **SUBSIDIARY LEGISLATION 111.02**
 

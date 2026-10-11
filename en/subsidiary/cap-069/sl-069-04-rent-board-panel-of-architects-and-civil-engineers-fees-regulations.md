@@ -1,6 +1,6 @@
 ---
 title: "Rent Board (Panel of Architects and Civil Engineers) (Fees) Regulations"
-identifier: "S.L. 69.4"
+identifier: "S.L. 69.04"
 eli: "https://legislation.mt/eli/sl/69.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,9 @@ version: "https://legislation.mt/eli/sl/69.4/20211026/eng"
 retrieved: 2026-10-12
 ---
 
-# Rent Board (Panel of Architects and Civil Engineers) (Fees) Regulations (S.L. 69.4)
+# Rent Board (Panel of Architects and Civil Engineers) (Fees) Regulations (S.L. 69.04)
 
-RENT BOARD (PANEL OF ARCHITECTS
-
-*1*
-
-AND CIVIL ENGINEERS) (FEES) [S.L. 69.04 SUBSIDIARY LEGISLATION 69.04
+**SUBSIDIARY LEGISLATION 69.04**
 
 **RENT BOARD (PANEL OF ARCHITECTS**
 

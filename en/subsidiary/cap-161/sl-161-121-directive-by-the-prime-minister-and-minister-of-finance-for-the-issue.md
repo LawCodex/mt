@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Prime Minister and Minister of Finance for the Issue of €50,000,000 (S.L. 161.121)
 
-2014 OR (II) 5% MALTA GOVERNMENT STOCK 2021
-
-*1*
-
-OR (III) ANY COMBINATION OF THE ABOVE TWO STOCKS [S.L.161.121
-
 **SUBSIDIARY LEGISLATION 161.121**
 
 **DIRECTIVE BY THE PRIME MINISTER AND**
@@ -62,12 +56,6 @@ These Stocks shall be issued as set out in the prospectus. 3. All persons and, o
 ## 5. Sum of money to be raised.
 
 The sum of money to be raised by either Stock, or of any combination of the two Stocks shall in the aggregate be Euro 50,000,000. The Accountant General reserves the right to increase the sum of money to be raised by a maximum of Euro 15,000,000.
-
-**2014 OR (II) 5% MALTA GOVERNMENT STOCK 2021**
-
-*2*
-
-[S.L.161.121 OR (III) ANY COMBINATION OF THE ABOVE TWO STOCKS
 
 *\6.*
 

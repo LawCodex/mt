@@ -1,6 +1,6 @@
 ---
 title: "Oath of Office Regulations"
-identifier: "S.L. 321.2"
+identifier: "S.L. 321.02"
 eli: "https://legislation.mt/eli/sl/321.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/321.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Oath of Office Regulations (S.L. 321.2)
+# Oath of Office Regulations (S.L. 321.02)
 
 **SUBSIDIARY LEGISLATION 321.02**
 

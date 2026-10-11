@@ -1,6 +1,6 @@
 ---
 title: "Exchange of Personal Data, Information and Cooperation concerning Terrorist Offences Regulations"
-identifier: "S.L. 164.7"
+identifier: "S.L. 164.07"
 eli: "https://legislation.mt/eli/sl/164.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,7 @@ version: "https://legislation.mt/eli/sl/164.7/20251114/eng"
 retrieved: 2026-10-12
 ---
 
-# Exchange of Personal Data, Information and Cooperation concerning Terrorist Offences Regulations (S.L. 164.7)
-
-*1*
-
-COOPERATION CONCERNING TERRORIST OFFENCES [S.L. 164.07
+# Exchange of Personal Data, Information and Cooperation concerning Terrorist Offences Regulations (S.L. 164.07)
 
 **SUBSIDIARY LEGISLATION 164.07**
 
@@ -54,11 +50,7 @@ In these regulations, unless the context otherwise requires:
 
 (1) The designated law enforcement authority shall have access to, and collect all relevant information concerning and resulting from criminal investigations conducted by the Police with respect to terrorist offences and send it to Europol in accordance with sub-regulations (3) and (5).
 
-(2) The designated authority shall act as the Eurojust national correspondent for terrorism matters which, in accordance with national law, shall have access to, and may collect all relevant information concerning prosecutions and convictions for terrorist [S.L. 164.07 COOPERATION CONCERNING TERRORIST OFFENCES
-
-offences and send it to Eurojust in accordance with sub-regulation (6).
-
-*2*
+(2) The designated authority shall act as the Eurojust national correspondent for terrorism matters which, in accordance with national law, shall have access to, and may collect all relevant information concerning prosecutions and convictions for terrorist offences and send it to Eurojust in accordance with sub-regulation (6).
 
 (3) The information referred to in sub-regulation (5) concerning criminal investigations and the information referred to in sub-regulation (6) concerning prosecutions and convictions for terrorist offences which affect or may affect two (2) or more Member States shall be communicated to:
 
@@ -84,11 +76,7 @@ offences and send it to Eurojust in accordance with sub-regulation (6).
 
 Provided that the categories of personal data that shall be be transmitted to Europol for the purposes of sub-regulation (4) shall remain limited to those listed in Section B, point 2, of Annex II to Regulation (EU) 2016/794.
 
-(6) The information that shall be transmitted in accordance COOPERATION CONCERNING TERRORIST OFFENCES [S.L. 164.07
-
-with sub-regulation (3) to Eurojust shall be the following:
-
-*3*
+(6) The information that shall be transmitted in accordance with sub-regulation (3) to Eurojust shall be the following:
 
 (a) data which identifies the person, group or entity that is criminally investigated or prosecuted;
 

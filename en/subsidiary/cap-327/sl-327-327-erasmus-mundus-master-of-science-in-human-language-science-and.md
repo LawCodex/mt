@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Erasmus Mundus Master of Science in Human Language Science and Technology - M.Sc. (HLST) - Degree Course Regulations (S.L. 327.327)
 
-HUMAN LANGUAGE SCIENCE AND TECHNOLOGY -
-
-*1*
-
-M.SC. (HLST) - DEGREE COURSE [S.L.327.327
-
 **SUBSIDIARY LEGISLATION 327.327**
 
 **ERASMUS MUNDUS MASTER OF SCIENCE IN**
@@ -71,10 +65,6 @@ University of the Basque Country
 
 (3) This Degree is an Erasmus Mundus Master degree of this University and this shall be taken to mean that the Course is taught at this University in collaboration with Partner Universities within the framework of a double degree programme.
 
-*2*
-
-HUMAN LANGUAGE SCIENCE AND TECHNOLOGY - [S.L.327.327 M.SC. (HLST) - DEGREE COURSE
-
 ## 2. Applicability.
 
 *Amended by: L.N. 212 of 2013; L.N. 122 of 2014; L.N. 24 of 2021.*
@@ -117,11 +107,7 @@ Applicants wishing to register for the course shall apply on the prescribed form
 
 (1) The programme of studies shall consist of study-units to which a total of 120 ECTS credits shall be assigned, comprising taught study-units assigned 90 ECTS credits and the writing of a dissertation to which 30 ECTS credits are assigned.
 
-(2) The Board of Studies, in agreement with the Partner Universities, shall draw up a programme of studies for the Course which shall include all the study-units, the credits assigned to each study-unit, which study-units are compulsory, concurrent or pre-requisites for other study-units, and the methods of teaching and assessment. The programme shall also include guidelines on the production of the dissertation and its assessment. The programme of studies shall be HUMAN LANGUAGE SCIENCE AND TECHNOLOGY -
-
-*3*
-
-M.SC. (HLST) - DEGREE COURSE [S.L.327.327 published prior to commencement of the Course, following the approval of the Boards and Senate.
+(2) The Board of Studies, in agreement with the Partner Universities, shall draw up a programme of studies for the Course which shall include all the study-units, the credits assigned to each study-unit, which study-units are compulsory, concurrent or pre-requisites for other study-units, and the methods of teaching and assessment. The programme shall also include guidelines on the production of the dissertation and its assessment. The programme of studies shall be published prior to commencement of the Course, following the approval of the Boards and Senate.
 
 (3) Students shall be required to spend one year of study at this University and another year at the chosen Partner Universities. Work on the dissertation shall be carried out at one of the universities where the student is following the second year of studies, under the direction of a Principal Supervisor appointed by that University.
 
@@ -167,10 +153,6 @@ Mark Range Grade
 
 (a) be work of an advanced or original nature in the student’s approved area of study;
 
-*4*
-
-HUMAN LANGUAGE SCIENCE AND TECHNOLOGY - [S.L.327.327 M.SC. (HLST) - DEGREE COURSE
-
 (b) satisfy the Board of Examiners as regards content and presentation; and
 
 (c) consist of 15,000 - 20,000 words and fulfill other requirements related to format and presentation as stipulated in the relevant guidelines.
@@ -199,11 +181,7 @@ HUMAN LANGUAGE SCIENCE AND TECHNOLOGY - [S.L.327.327 M.SC. (HLST) - DEGREE COURS
 
 (1) Senate shall appoint a Board of Examiners for each study-unit undertaken at this University, in accordance with the provisions of the University Assessment Regulations.
 
-(2) For the examination of the dissertation, the Board of Examiners shall be composed of at least three members, but may additionally also include an external examiner appointed from an institution other than this University or the chosen Partner HUMAN LANGUAGE SCIENCE AND TECHNOLOGY -
-
-*5*
-
-M.SC. (HLST) - DEGREE COURSE [S.L.327.327 Universities attended by the student.
+(2) For the examination of the dissertation, the Board of Examiners shall be composed of at least three members, but may additionally also include an external examiner appointed from an institution other than this University or the chosen Partner Universities attended by the student.
 
 (3) The Board of Examiners for the dissertation shall require students to defend the dissertation orally before them, provided that the external examiner need not be present at the oral defence.
 

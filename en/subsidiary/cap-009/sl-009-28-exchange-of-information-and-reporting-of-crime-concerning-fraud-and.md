@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Exchange of Information and Reporting of Crime concerning Fraud and Counterfeiting of Non-Cash means of Payment Regulations (S.L. 9.28)
 
-CRIME CONCERNING FRAUD AND COUNTERFEITING
-
-*1*
-
-OF NON-CASH MEANS OF PAYMENT [S.L. 9.28
-
 **SUBSIDIARY LEGISLATION 9.28**
 
 EXCHANGE OF INFORMATION AND REPORTING
@@ -64,10 +58,6 @@ The national point of contact shall encourage the reporting, without undue delay
 
 (a) offer specific information and advice on how to protect oneself against the negative consequences of the offences, such as reputational damage; and
 
-*2*
-
-CRIME CONCERNING FRAUD AND COUNTERFEITING [S.L. 9.28 OF NON-CASH MEANS OF PAYMENT
-
 (b) provide a list of dedicated institutions that deal with different aspects of identity-related crime and victim support,
 
 to any natural or legal person who has suffered harm as a result of any of the offences referred to in article 310F and article 310H of the Criminal Code, when such offences are committed by misusing personal data.
@@ -100,12 +90,6 @@ The national point of contact shall conduct, on a regular basis, information and
 
 *Cap. 9.*
 
-(2) The statistical data referred to in the preceding sub-regulation shall, as a minimum, cover existing data on the number of offences referred to in article 310F and article 310H of the Criminal Code and on the number of persons prosecuted for and convicted of CRIME CONCERNING FRAUD AND COUNTERFEITING
+(2) The statistical data referred to in the preceding sub-regulation shall, as a minimum, cover existing data on the number of offences referred to in article 310F and article 310H of the Criminal Code and on the number of persons prosecuted for and convicted of the offences referred to in article 310F of the Criminal Code.
 
 *Cap. 9.*
-
-*3*
-
-OF NON-CASH MEANS OF PAYMENT [S.L. 9.28
-
-the offences referred to in article 310F of the Criminal Code.

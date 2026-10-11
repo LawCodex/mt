@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Statute for the International School for Foundation Studies (S.L. 327.538)
 
-*1*
-
-FOR FOUNDATION STUDIES [S.L.327.538
-
 **SUBSIDIARY LEGISLATION 327.538**
 
 STATUTE FOR THE INTERNATIONAL SCHOOL
@@ -73,10 +69,6 @@ The School shall be governed by a Board consisting of:
 
 (ii) Vice-Chairman: Director of the School;
 
-*2*
-
-[S.L.327.538 FOR FOUNDATION STUDIES
-
 (iii) Pro-Rector for International Development and Quality Assurance;
 
 (iv) Chairman of the Board of Studies;
@@ -119,11 +111,7 @@ The functions of the Board shall be:
 
 (vi) propose for approval to the Senate, Boards of Studies and Boards of Examiners for its courses; and
 
-(vii) propose for the approval to the Senate, Programmes of Study and Study-Unit FOR FOUNDATION STUDIES [S.L.327.538
-
-descriptions of each course.
-
-*3*
+(vii) propose for the approval to the Senate, Programmes of Study and Study-Unit descriptions of each course.
 
 *\8.*
 
@@ -153,11 +141,7 @@ The duties of the Vice-Chairman/Director shall include:
 
 (f) promoting students’ academic and personal welfare, providing first-line support to students with any difficulties they may encounter during their studies related to the activities of the School;
 
-(g) monitoring the running of examinations in the School and ensuring that all assessment and examination results are submitted to the Registrar by not later than the end of March, July and September, provided that the results are submitted to the respective Chairman of FOR FOUNDATION STUDIES
-
-the Board of Examiners within following deadlines: • January session - by the end of the third week of March;
-
-*[S.L.327.538 4*
+(g) monitoring the running of examinations in the School and ensuring that all assessment and examination results are submitted to the Registrar by not later than the end of March, July and September, provided that the results are submitted to the respective Chairman of the Board of Examiners within following deadlines: • January session - by the end of the third week of March;
 
 • May/June session - results by not later than two working days prior to the classification board; • September session - by the end of the third week of September.
 
@@ -189,11 +173,7 @@ The Director moreover:
 
 (a) is to report directly to the Chairman of the Board governing the School and shall collaborate with all senior administrative officers of the University;
 
-(b) shall normally be a Resident Academic engaged with the University on a full-time basis for the duration of FOR FOUNDATION STUDIES [S.L.327.538
-
-his tenure as Director;
-
-*5*
+(b) shall normally be a Resident Academic engaged with the University on a full-time basis for the duration of his tenure as Director;
 
 (c) should not be engaged in any other activity outside the University which may be in conflict with, or distract him/her from, his/her duties at the University;
 

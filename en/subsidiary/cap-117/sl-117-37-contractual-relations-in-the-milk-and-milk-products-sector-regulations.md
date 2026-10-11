@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Contractual Relations in the Milk and Milk Products Sector Regulations (S.L. 117.37)
 
-*1*
-
-AND MILK PRODUCTS SECTOR [S.L.117.37
-
 **SUBSIDIARY LEGISLATION 117.37**
 
 **CONTRACTUAL RELATIONS IN THE MILK AND**
@@ -61,10 +57,6 @@ The competent authority for the purposes of these regulations shall be the Direc
 
 (a) be made in advance of the delivery;
 
-*2*
-
-[S.L.117.37 AND MILK PRODUCTS SECTOR
-
 (b) be made in writing; and
 
 (c) include, in particular, the following elements:
@@ -93,11 +85,7 @@ Provided that where heads of productive bovines (milking cows) are found to be o
 
 (6) Contracts shall be based on exclusivity, that is the milk producer shall bind himself to deliver all his milk to the dairy under such contract.
 
-(7) If the delivery of raw milk is made through one or more collectors, all the stages of the delivery including the stage when the raw milk is transferred from the milk producer to the collector and the stage when the milk is ultimately transferred to the AND MILK PRODUCTS SECTOR [S.L.117.37
-
-processor of raw milk shall be covered by the contract referred to in sub-regulation (1).
-
-*3*
+(7) If the delivery of raw milk is made through one or more collectors, all the stages of the delivery including the stage when the raw milk is transferred from the milk producer to the collector and the stage when the milk is ultimately transferred to the processor of raw milk shall be covered by the contract referred to in sub-regulation (1).
 
 ## 5. Technical parameters.
 

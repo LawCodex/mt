@@ -1,6 +1,6 @@
 ---
 title: "Addolorata Cemetery (Monuments and Inscriptions) Directives"
-identifier: "S.L. 17.1"
+identifier: "S.L. 17.01"
 eli: "https://legislation.mt/eli/sl/17.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/17.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Addolorata Cemetery (Monuments and Inscriptions) Directives (S.L. 17.1)
-
-ADDOLORATA CEMETERY
-
-*1*
-
-(MONUMENTS AND INSCRIPTIONS) [ S.L.17.01
+# Addolorata Cemetery (Monuments and Inscriptions) Directives (S.L. 17.01)
 
 **SUBSIDIARY LEGISLATION 17.01**
 

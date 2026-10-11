@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (The Republic of Moldova) Order (S.L. 123.157)
 
-*1*
-
-(THE REPUBLIC OF MOLDOVA) [S.L.123.157
-
 SUBSIDIARY LEGISLATION 123.157
 
 DOUBLE TAXATION RELIEF (TAXES ON INCOME) (THE REPUBLIC OF MOLDOVA) ORDER
@@ -50,8 +46,6 @@ It is hereby declared:
 *\**
 
 17th June, 2015 - see Legal Notice 228 of 2015.
-
-2 [S.L.123.157 (THE REPUBLIC OF MOLDOVA)
 
 ## SCHEDULE — Article 2 — CONVENTION
 
@@ -119,9 +113,7 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 \1. For the purposes of this Convention, unless the context otherwise requires:
 
-(a) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other (THE REPUBLIC OF MOLDOVA) [S.L.123.157 3
-
-islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
+(a) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
 
 (b) the term "Moldova" means the Republic of Moldova and, when used in a geographical sense, means its territory within its borders, consisting of soil, subsoil, waters and aerial space above soil and waters, over which the Republic of Moldova exercises its absolute and exclusive sovereignty and jurisdiction, in accordance with its national legislation and international law;
 
@@ -157,9 +149,7 @@ islands of the Maltese archipelago including the territorial waters thereof, as 
 
 **RESIDENT**
 
-\1. For the purposes of this Convention, the term "resident of a Contracting 4 [S.L.123.157 (THE REPUBLIC OF MOLDOVA)
-
-State" means any person who, under the laws of the respective State, is liable to tax therein by reason of his domicile, residence, place of registration or incorporation, place of management or any other criterion of a similar nature, and also includes the respective State and any administrative-territorial unit, political subdivision or local authority thereof. This term, however, does not include any person who is liable to tax in the respective State in respect only of income from sources in the respective State.
+\1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the laws of the respective State, is liable to tax therein by reason of his domicile, residence, place of registration or incorporation, place of management or any other criterion of a similar nature, and also includes the respective State and any administrative-territorial unit, political subdivision or local authority thereof. This term, however, does not include any person who is liable to tax in the respective State in respect only of income from sources in the respective State.
 
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
@@ -199,8 +189,6 @@ State" means any person who, under the laws of the respective State, is liable t
 
 Notwithstanding the preceding provisions of this Article, the term "permanent establishment" shall be deemed not to include:
 
-(THE REPUBLIC OF MOLDOVA) [S.L.123.157 5
-
 (a) the use of facilities solely for the purpose of storage, display or delivery of goods or merchandise belonging to the enterprise;
 
 (b) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of storage, display or delivery;
@@ -235,8 +223,6 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
-6 [S.L.123.157 (THE REPUBLIC OF MOLDOVA)
-
 \4. The provisions of paragraphs 1 and 3 shall also apply to the income from immovable property of an enterprise.
 
 **Article 7**
@@ -258,8 +244,6 @@ The fact that a company which is a resident of a Contracting State controls or i
 ## 7.
 
 Where profits include items of income which are dealt with separately in other Articles of this Convention, then the provisions of those Articles shall not be affected by the provisions of this Article.
-
-(THE REPUBLIC OF MOLDOVA) [S.L.123.157 7
 
 **Article 8**
 
@@ -297,8 +281,6 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \1. Dividends paid by a company which is a resident of a Contracting State to a resident of the other Contracting State may be taxed in that other State.
 
-8 [S.L.123.157 (THE REPUBLIC OF MOLDOVA)
-
 \2. However, such dividends may also be taxed in the Contracting State of which the company paying the dividends is a resident and according to the laws of that State, but
 
 (a) where the dividends are paid by a company which is a resident of Moldova to a resident of Malta who is the beneficial owner thereof, the tax so charged in Moldova shall not exceed 5 per cent of the gross amount of the dividends;
@@ -323,9 +305,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \3. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor's profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
-\4. The provisions of paragraphs 1and 2shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the (THE REPUBLIC OF MOLDOVA) [S.L.123.157 9
-
-other Contracting State in which the interest arises through a permanent establishment situated therein and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
+\4. The provisions of paragraphs 1and 2shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises through a permanent establishment situated therein and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
 \5. Interest shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment, then such interest shall be deemed to arise in the Contracting State in which the permanent establishment is situated.
 
@@ -345,9 +325,7 @@ other Contracting State in which the interest arises through a permanent establi
 
 \5. Royalties shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment, then such royalties shall be deemed to arise in the Contracting State in which the permanent establishment is situated.
 
-\6. Where, by reason of a special relationship between the payer and the beneficial owner of the royalties or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and 10 [S.L.123.157 (THE REPUBLIC OF MOLDOVA)
-
-the beneficial owner of the royalties in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
+\6. Where, by reason of a special relationship between the payer and the beneficial owner of the royalties or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner of the royalties in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
 **Article 13**
 
@@ -378,8 +356,6 @@ the beneficial owner of the royalties in the absence of such relationship, the p
 (c) the remuneration is not borne by a permanent establishment which the employer has in the other State.
 
 \3. Notwithstanding the preceding provisions of this Article, remuneration derived in respect of an employment exercised aboard a ship or aircraft operated in international traffic by an enterprise of a Contracting State may be taxed in that State.
-
-(THE REPUBLIC OF MOLDOVA) [S.L.123.157 11
 
 **Article 15**
 
@@ -417,9 +393,7 @@ Subject to the provisions of paragraph 2 of Article 18, pensions and other simil
 
 (b) However, such pensions and other similar remuneration shall be taxable only in the other Contracting State if the individual is a resident of, and a national of, that State.
 
-\3. The provisions of Articles 14, 15, 16 and 17 shall apply to salaries, wages, 12 [S.L.123.157 (THE REPUBLIC OF MOLDOVA)
-
-pensions and other similar remuneration in respect of services rendered in connection with a business carried on by a Contracting State, an administrative-territorial unit or political subdivision or a local authority thereof.
+\3. The provisions of Articles 14, 15, 16 and 17 shall apply to salaries, wages, pensions and other similar remuneration in respect of services rendered in connection with a business carried on by a Contracting State, an administrative-territorial unit or political subdivision or a local authority thereof.
 
 **Article 19**
 
@@ -453,9 +427,7 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 **NON-DISCRIMINATION**
 
-\1. Nationals of a Contracting State shall not be subjected in the other (THE REPUBLIC OF MOLDOVA) [S.L.123.157 13
-
-Contracting State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected. This provision shall, notwithstanding the provisions of Article 1, also apply to persons who are not residents of one or both of the Contracting States.
+\1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected. This provision shall, notwithstanding the provisions of Article 1, also apply to persons who are not residents of one or both of the Contracting States.
 
 \2. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
 
@@ -475,9 +447,7 @@ Contracting State to any taxation or any requirement connected therewith which i
 
 \3. The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Convention. They may also consult together for the elimination of double taxation in cases not provided for in the Convention.
 
-\4. The competent authorities of the Contracting States may communicate with each other directly, including through a joint commission consisting of themselves or their representatives, for the purpose of reaching an agreement in the sense of the 14 [S.L.123.157 (THE REPUBLIC OF MOLDOVA)
-
-preceding paragraphs.
+\4. The competent authorities of the Contracting States may communicate with each other directly, including through a joint commission consisting of themselves or their representatives, for the purpose of reaching an agreement in the sense of the preceding paragraphs.
 
 \5. Where,
 
@@ -501,9 +471,7 @@ preceding paragraphs.
 
 (c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public policy (ordre public).
 
-\4. If information is requested by a Contracting State in accordance with this Article, the other Contracting State shall use its information gathering measures to (THE REPUBLIC OF MOLDOVA) [S.L.123.157 15
-
-obtain the requested information, even though that other State may; not need such information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall such limitations be construed to permit a Contracting State to decline to supply information solely because it has no domestic interest in such information.
+\4. If information is requested by a Contracting State in accordance with this Article, the other Contracting State shall use its information gathering measures to obtain the requested information, even though that other State may; not need such information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall such limitations be construed to permit a Contracting State to decline to supply information solely because it has no domestic interest in such information.
 
 \5. In no case shall the provisions of paragraph 3 be construed to permit a Contracting State to decline to supply information solely because the information is held by a bank, other financial institution, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person.
 
@@ -536,8 +504,6 @@ This Convention shall remain in force until terminated by one of the Contracting
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto by their respective Governments, have signed this Convention.
 
 Done at Valletta on 10th April 2014 in two originals each in the Romanian and English languages, both texts being equally authentic.
-
-16 [S.L.123.157 (THE REPUBLIC OF MOLDOVA)
 
 George W. Vella Natalia Gherman
 

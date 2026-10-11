@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in European Studies - Dip. Eur. Studies - under the auspices of the Institute for European Studies (S.L. 327.391)
 
-\- UNDER THE AUSPICES OF THE INSTITUTE FOR
-
-*1*
-
-EUROPEAN STUDIES [S.L.327.391
-
 **SUBSIDIARY LEGISLATION 327.391**
 
 **BYE-LAWS FOR THE DIPLOMA IN EUROPEAN**
@@ -85,10 +79,6 @@ The Course shall consist of a number of taught study-units to which a total of 6
 ## 7. Classification of the Award.
 
 The Final Weighted Average Mark for the purpose of the classification of the Diploma shall be based on the results obtained in the Course, all credits being weighted equally.
-
-*2*
-
-\- UNDER THE AUSPICES OF THE INSTITUTE FOR [S.L.327.391 EUROPEAN STUDIES
 
 ## 8. Special provisions for part-time courses.
 

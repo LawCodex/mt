@@ -1,6 +1,6 @@
 ---
 title: "Exportation of Certain Articles (Prohibition) Order"
-identifier: "S.L. 24.1"
+identifier: "S.L. 24.01"
 eli: "https://legislation.mt/eli/sl/24.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/24.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Exportation of Certain Articles (Prohibition) Order (S.L. 24.1)
+# Exportation of Certain Articles (Prohibition) Order (S.L. 24.01)
 
 SUBSIDIARY LEGISLATION 24.01
 

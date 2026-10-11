@@ -1,6 +1,6 @@
 ---
 title: "Application of Part III of the Diplomatic Immunities and Privileges Act (International Criminal Court) Order"
-identifier: "S.L. 191.2"
+identifier: "S.L. 191.02"
 eli: "https://legislation.mt/eli/sl/191.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/191.2/20111025/eng"
 retrieved: 2026-10-12
 ---
 
-# Application of Part III of the Diplomatic Immunities and Privileges Act (International Criminal Court) Order (S.L. 191.2)
-
-*1*
-
-AND PRIVILEGES ACT (INTERNATIONAL CRIMINAL COURT) [S.L.191.02
+# Application of Part III of the Diplomatic Immunities and Privileges Act (International Criminal Court) Order (S.L. 191.02)
 
 **SUBSIDIARY LEGISLATION 191.02**
 
@@ -64,8 +60,6 @@ The International Criminal Court shall enjoy the immunities and privileges set o
 "appropriate authorities of States Parties" shall be construed as including the Malta Police and the Armed Forces of Malta.
 
 (4) The references in Articles 10, 11, 13, 15, 16 and 18 to 23, both inclusive, to the extent to which any privileges and immunities are accorded or granted, shall be construed as referring respectively to the extent to which any privileges and immunities may be specified by the Minister by order published in the Government Gazette.
-
-2 [S.L.191.02 AND PRIVILEGES ACT (INTERNATIONAL CRIMINAL COURT)
 
 ## Schedule
 
@@ -119,7 +113,7 @@ For the purposes of the present Agreement:
 
 ## 1.
 
-The Court, and its property, funds and assets, wherever located and by whomsoever held, shall be immune from every form of legal process, except insofar as in any particular case the Court has expressly waived its immunity. It is, however, understood that no waiver of immunity shall extend to any measure of execution. AND PRIVILEGES ACT (INTERNATIONAL CRIMINAL COURT) [S.L.191.02 3
+The Court, and its property, funds and assets, wherever located and by whomsoever held, shall be immune from every form of legal process, except insofar as in any particular case the Court has expressly waived its immunity. It is, however, understood that no waiver of immunity shall extend to any measure of execution.
 
 ## 2.
 
@@ -163,8 +157,6 @@ The archives of the Court, and all papers and documents in whatever form, and ma
 
 The Court may use all appropriate means of communication, including electronic means of communication, and shall have the right to use codes or cipher for its official communications and correspondence. The official communications and correspondence of the Court shall be inviolable.
 
-4 [S.L.191.02 AND PRIVILEGES ACT (INTERNATIONAL CRIMINAL COURT)
-
 ## 4.
 
 The Court shall have the right to dispatch and receive correspondence and other materials or communications by courier or in sealed bags, which shall have the same privileges, immunities and facilities as diplomatic couriers and bags.
@@ -199,9 +191,7 @@ Representatives of States participating in the Assembly and its subsidiary organ
 
 (i) Such other privileges, immunities and facilities not inconsistent with the foregoing as diplomatic agents enjoy, except that they shall have no right to claim exemption from customs duties on goods imported (otherwise as part of their personal baggage) or from excise duties or sales taxes.
 
-\2. Where the incidence of any form of taxation depends upon residence, periods during which the representatives described in paragraph 1 attending the meetings of the Assembly and its subsidiary organs are present in a State Party for AND PRIVILEGES ACT (INTERNATIONAL CRIMINAL COURT) [S.L.191.02 5
-
-the discharge of their duties shall not be considered as periods of residence.
+\2. Where the incidence of any form of taxation depends upon residence, periods during which the representatives described in paragraph 1 attending the meetings of the Assembly and its subsidiary organs are present in a State Party for the discharge of their duties shall not be considered as periods of residence.
 
 \3. The provisions of paragraphs 1 and 2 of this article are not applicable as between a representative and the authorities of the State Party of which he or she is a national or of the State Party or intergovernmental organization of which he or she is or has been a representative.
 
@@ -233,9 +223,7 @@ The salaries, emoluments and allowances paid to the judges, the Prosecutor, the 
 
 ## 7.
 
-States Parties shall not be obliged to exempt from income tax pensions or 6 [S.L.191.02 AND PRIVILEGES ACT (INTERNATIONAL CRIMINAL COURT)
-
-annuities paid to former judges, Prosecutors and Registrars and their dependants.
+States Parties shall not be obliged to exempt from income tax pensions or annuities paid to former judges, Prosecutors and Registrars and their dependants.
 
 **Article 16**
 
@@ -265,9 +253,7 @@ Deputy Registrar, staff of the Office of the Prosecutor and staff of the Registr
 
 **Article 17**
 
-Personnel recruited locally and not otherwise covered by the present Agreement Personnel recruited by the Court locally and not otherwise covered by the present Agreement shall be accorded immunity from legal process in respect of words spoken or written and all acts performed by them in their official capacity for the Court. Such immunity shall continue to be accorded after termination of employment with the Court for activities carried out on behalf of the Court. During their AND PRIVILEGES ACT (INTERNATIONAL CRIMINAL COURT) [S.L.191.02 7
-
-employment, they shall also be accorded such other facilities as may be necessary for the independent exercise of their functions for the Court.
+Personnel recruited locally and not otherwise covered by the present Agreement Personnel recruited by the Court locally and not otherwise covered by the present Agreement shall be accorded immunity from legal process in respect of words spoken or written and all acts performed by them in their official capacity for the Court. Such immunity shall continue to be accorded after termination of employment with the Court for activities carried out on behalf of the Court. During their employment, they shall also be accorded such other facilities as may be necessary for the independent exercise of their functions for the Court.
 
 **Article 18**
 
@@ -301,9 +287,7 @@ employment, they shall also be accorded such other facilities as may be necessar
 
 **Witnesses**
 
-\1. Witnesses shall enjoy the following privileges, immunities and facilities to the extent necessary for their appearance before the Court for purposes of giving evidence, including the time spent on journeys in connection with their appearance 8 [S.L.191.02 AND PRIVILEGES ACT (INTERNATIONAL CRIMINAL COURT)
-
-before the Court, subject to the production of the document referred to in paragraph 2 of this article:
+\1. Witnesses shall enjoy the following privileges, immunities and facilities to the extent necessary for their appearance before the Court for purposes of giving evidence, including the time spent on journeys in connection with their appearance before the Court, subject to the production of the document referred to in paragraph 2 of this article:
 
 (a) Immunity from personal arrest or detention;
 
@@ -335,9 +319,7 @@ before the Court, subject to the production of the document referred to in parag
 
 (d) Exemption from immigration restrictions or alien registration when they travel to and from the Court for purposes of their appearance.
 
-\2. Victims participating in the proceedings in accordance with rules 89 to 91 of the Rules of Procedure and Evidence who enjoy the privileges, immunities and facilities referred to in paragraph 1 of this article shall be provided by the Court with AND PRIVILEGES ACT (INTERNATIONAL CRIMINAL COURT) [S.L.191.02 9
-
-a document certifying their participation in the proceedings of the Court and specifying a time period for that participation.
+\2. Victims participating in the proceedings in accordance with rules 89 to 91 of the Rules of Procedure and Evidence who enjoy the privileges, immunities and facilities referred to in paragraph 1 of this article shall be provided by the Court with a document certifying their participation in the proceedings of the Court and specifying a time period for that participation.
 
 **Article 21**
 
@@ -369,9 +351,7 @@ a document certifying their participation in the proceedings of the Court and sp
 
 \1. Other persons required to be present at the seat of the Court shall, to the extent necessary for their presence at the seat of the Court, including the time spent on journeys in connection with their presence, be accorded the privileges, immunities and facilities provided for in article 20, paragraph 1, subparagraphs (a) to (d), of the present Agreement, subject to production of the document referred to in paragraph 2 of this article.
 
-\2. Other persons required to be present at the seat of the Court shall be provided by the Court with a document certifying that their presence is required at the seat of the Court and specifying a time period during which such presence is 10 [S.L.191.02 AND PRIVILEGES ACT (INTERNATIONAL CRIMINAL COURT)
-
-necessary.
+\2. Other persons required to be present at the seat of the Court shall be provided by the Court with a document certifying that their presence is required at the seat of the Court and specifying a time period during which such presence is necessary.
 
 **Article 23**
 
@@ -399,9 +379,7 @@ At the time of signature, ratification, acceptance, approval or accession, any S
 
 **Waiver of privileges and immunities provided for in articles 13 and 14**
 
-Privileges and immunities provided for in articles 13 and 14 of the present Agreement are accorded to the representatives of States and intergovernmental organizations not for the personal benefit of the individuals themselves, but in order to safeguard the independent exercise of their functions in connection with the work of the Assembly, its subsidiary organs and the Court. Consequently, States Parties not only have the right but are under a duty to waive the privileges and immunities of their representatives in any case where, in the opinion of those States, they would impede the course of justice and can be waived without prejudice to the purpose for which the privileges and immunities are accorded. States not party to the present Agreement and intergovernmental organizations are granted the privileges and immunities provided for in articles 13 and 14 of the present Agreement on the AND PRIVILEGES ACT (INTERNATIONAL CRIMINAL COURT) [S.L.191.02 11
-
-understanding that they undertake the same duty regarding waiver.
+Privileges and immunities provided for in articles 13 and 14 of the present Agreement are accorded to the representatives of States and intergovernmental organizations not for the personal benefit of the individuals themselves, but in order to safeguard the independent exercise of their functions in connection with the work of the Assembly, its subsidiary organs and the Court. Consequently, States Parties not only have the right but are under a duty to waive the privileges and immunities of their representatives in any case where, in the opinion of those States, they would impede the course of justice and can be waived without prejudice to the purpose for which the privileges and immunities are accorded. States not party to the present Agreement and intergovernmental organizations are granted the privileges and immunities provided for in articles 13 and 14 of the present Agreement on the understanding that they undertake the same duty regarding waiver.
 
 **Article 26**
 

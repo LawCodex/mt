@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of of Master in Accountancy – M.Accty. - under the auspices of the Faculty of Economics, Management and Accountancy (S.L. 327.126)
 
-UNDER THE AUSPICES OF THE FACULTY OF
-
-*1*
-
-ECONOMICS, MANAGEMENT AND ACCOUNTANCY [S.L.327.126
-
 **SUBSIDIARY LEGISLATION 327.126**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER**
@@ -70,11 +64,7 @@ The Course shall be open to applicants in possession of:
 
 (3) the Bachelor of Accountancy (Honours) degree or the Bachelor of Arts (Honours) degree in Accountancy (both awarded after successful completion of the three-year Bachelor of Commerce degree course) obtained with at least Second Class Honours, who shall be eligible to apply for a programme of study of 40 ECTS credits; or
 
-UNDER THE AUSPICES OF THE FACULTY OF
-
-*2*
-
-[S.L.327.126 ECONOMICS, MANAGEMENT AND ACCOUNTANCY (4) the Bachelor of Accountancy (Honours) degree or the Bachelor of Arts (Honours) degree in Accountancy (both awarded after successful completion of the three-year Bachelor of Commerce degree course) obtained with Third Class Honours, subject to the submission of a portfolio covering at least 3 years’ experience in the accountancy field, or a certificate showing that they are holders of the Certified Public Accountant Warrant issued by the Accountancy Board (Malta), who shall be eligible to apply for a programme of study of 40 ECTS credits.
+(4) the Bachelor of Accountancy (Honours) degree or the Bachelor of Arts (Honours) degree in Accountancy (both awarded after successful completion of the three-year Bachelor of Commerce degree course) obtained with Third Class Honours, subject to the submission of a portfolio covering at least 3 years’ experience in the accountancy field, or a certificate showing that they are holders of the Certified Public Accountant Warrant issued by the Accountancy Board (Malta), who shall be eligible to apply for a programme of study of 40 ECTS credits.
 
 (5) Senate, on the recommendation of the Board, shall determine the number of applicants that may be allowed to register for the 40 ECTS-credit programme, depending on the availability of resources. The number of available places shall be announced at the time of the call for applications.
 
@@ -100,11 +90,7 @@ UNDER THE AUSPICES OF THE FACULTY OF
 
 (4) The programme of study shall be published by the Board after approval by senate, normally not less than eight months prior to the commencement of the course.
 
-UNDER THE AUSPICES OF THE FACULTY OF
-
-*3*
-
-ECONOMICS, MANAGEMENT AND ACCOUNTANCY [S.L.327.126 (5) The programme of study referred to in bye-law 3(2) and (3) which shall comprise study-units to which a total of 40 ECTs-credits are assigned, shall be determined by the Board and approved by Senate.
+(5) The programme of study referred to in bye-law 3(2) and (3) which shall comprise study-units to which a total of 40 ECTs-credits are assigned, shall be determined by the Board and approved by Senate.
 
 ## 6. Assessment and progress.
 
@@ -140,12 +126,10 @@ Provided that students registered on the 40 ECTs-credit programme shall be given
 
 (ii) the Board may not terminate studies prematurely according to (b) until it has first given the student a chance to be heard.
 
-UNDER THE AUSPICES OF THE FACULTY OF
+## 9. Classification of the Awards.
 
-*4*
+*Amended by: L.N. 209 of 2013. Re-numbered by: L.N. 350 of 2015.*
 
-[S.L.327.126 ECONOMICS, MANAGEMENT AND ACCOUNTANCY 9. (1) The Final Weighted average Mark for the purpose of the classification of the Postgraduate Diploma and of the Degree shall be based on the results obtained in all the components of the programme of study, all credits being weighted equally.
-
-*Classification of the Awards. Amended by: L.N. 209 of 2013. Re-numbered by: L.N. 350 of 2015.*
+(1) The Final Weighted average Mark for the purpose of the classification of the Postgraduate Diploma and of the Degree shall be based on the results obtained in all the components of the programme of study, all credits being weighted equally.
 
 (2) The Final Weighted Average Mark for the purpose of the classification of the Degree for students who follow the 40 ECTs-credit programme of study shall also be based on the results obtained in all the components of the programme of study, all credits being weighted equally.

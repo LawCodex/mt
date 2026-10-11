@@ -1,6 +1,6 @@
 ---
 title: "Identification and Traceability of Explosives for Civil Uses Regulations"
-identifier: "S.L. 33.6"
+identifier: "S.L. 33.06"
 eli: "https://legislation.mt/eli/sl/33.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/33.6/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Identification and Traceability of Explosives for Civil Uses Regulations (S.L. 33.6)
-
-*1*
-
-OF EXPLOSIVES FOR CIVIL USES [S.L.33.06
+# Identification and Traceability of Explosives for Civil Uses Regulations (S.L. 33.06)
 
 **SUBSIDIARY LEGISLATION 33.06**
 
@@ -57,15 +53,11 @@ LEGAL NOTICE 187 of 2009, as amended by Legal Notice 150 of 2012.
 
 For the purposes of these regulations, the following definitions shall apply:
 
-"Market Surveillance Directorate" means the Market Surveillance Directorate of the Malta Standards Authority as described in the Establishment of Directorates of the Malta [S.L.33.06 OF EXPLOSIVES FOR CIVIL USES
+"Market Surveillance Directorate" means the Market Surveillance Directorate of the Malta Standards Authority as described in the Establishment of Directorates of the Malta Standards Authority Order;
 
 *S.L. 419.03*
 
 \*see regulation 1(3) of these Regulations, as originally promulgated, and Legal Notice 150 of 2012.
-
-Standards Authority Order;
-
-*2*
 
 "Regulatory Affairs Directorate" means the Regulatory Affairs Directorate of the Malta Standards Authority as described in the Establishment of Directorates of the Malta Standards Authority Order.
 
@@ -95,11 +87,7 @@ The unique identification shall be marked on or firmly affixed to the article co
 
 ## 6. Cartridged explosives and explosives in sacks.
 
-For cartridged explosives and explosives in sacks, the unique identification shall consist of an adhesive label or direct printing on each cartridge or sack. An associated label shall be placed on each case of cartridges. In addition, undertakings may use a passive inert electronic tag attached to each cartridge or sack OF EXPLOSIVES FOR CIVIL USES [S.L.33.06
-
-and similarly, an associated electronic tag for each case of cartridges.
-
-*3*
+For cartridged explosives and explosives in sacks, the unique identification shall consist of an adhesive label or direct printing on each cartridge or sack. An associated label shall be placed on each case of cartridges. In addition, undertakings may use a passive inert electronic tag attached to each cartridge or sack and similarly, an associated electronic tag for each case of cartridges.
 
 ## 7. Two-component explosives.
 
@@ -141,11 +129,7 @@ Undertakings may attach adhesive detachable copies of the original label to the 
 
 (2) The data collection system shall allow the undertakings to keep track of the explosives in such a way that those holding the explosives can be identified at any time.
 
-(3) The Market Surveillance Directorate shall ensure that data collected, including the unique identifications, is kept and [S.L.33.06 OF EXPLOSIVES FOR CIVIL USES
-
-maintained for a period of at least ten years after the placing on the market of the explosive. This provision shall also apply after the end of the life cycle of the explosive, even if undertakings have ceased trading.
-
-*4*
+(3) The Market Surveillance Directorate shall ensure that data collected, including the unique identifications, is kept and maintained for a period of at least ten years after the placing on the market of the explosive. This provision shall also apply after the end of the life cycle of the explosive, even if undertakings have ceased trading.
 
 ## 15. Obligations of undertakings.
 
@@ -166,8 +150,6 @@ Provided that the undertaking shall, in the case of explosives manufactured or i
 (f) providing the Market Surveillance Directorate, upon its request, with the information concerning the origin and location of each explosive during its life cycle and throughout the supply chain;
 
 (g) providing the Market Surveillance Directorate with the name and contact details of a person able to provide the information described in paragraph (f) outside normal business hours.
-
-OF EXPLOSIVES FOR CIVIL USES [S.L.33.06 5
 
 SCHEDULE Amended by:
 

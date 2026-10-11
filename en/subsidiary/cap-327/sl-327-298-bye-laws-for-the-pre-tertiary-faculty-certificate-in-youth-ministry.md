@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Pre-Tertiary Faculty Certificate in Youth Ministry under the auspices of the Faculty of Theology (S.L. 327.298)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF THEOLOGY [S.L.327.298
-
 **SUBSIDIARY LEGISLATION 327.298**
 
 **BYE-LAWS FOR THE PRE-TERTIARY**
@@ -71,11 +67,7 @@ The course shall consist of study-units in the following areas of study: Self-De
 
 ## 6. Programme of study.
 
-The Board shall publish the programme of study for the Certificate, drawn up in accordance with the relevant provisions of the Principal Regulations, and approved by Senate, at the commencement of each Course. Subject to changes that the Board [S.L.327.298 UNDER THE AUSPICES OF THE FACULTY OF THEOLOGY
-
-may, with the approval of Senate, be constrained to make, students are bound to follow the study-units and obtain the credits as indicated in the programme of study.
-
-*2*
+The Board shall publish the programme of study for the Certificate, drawn up in accordance with the relevant provisions of the Principal Regulations, and approved by Senate, at the commencement of each Course. Subject to changes that the Board may, with the approval of Senate, be constrained to make, students are bound to follow the study-units and obtain the credits as indicated in the programme of study.
 
 ## 7. Assessment.
 

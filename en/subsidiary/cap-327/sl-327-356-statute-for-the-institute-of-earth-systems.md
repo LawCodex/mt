@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Statute for the Institute of Earth Systems (S.L. 327.356)
 
-*1*
-
-INSTITUTE OF EARTH SYSTEMS [S.L.327.356
-
 **SUBSIDIARY LEGISLATION 327.356**
 
 **STATUTE FOR THE**
@@ -63,11 +59,7 @@ The aims of the Institute shall be:
 
 (i) global questions relating to the management of the environment, to the affirmation and protection of the rights thereto, including those of future generations;
 
-(ii) regional (e.g. Mediterranean) issues relating to the environment, including conservation (loss of biodiversity in its various forms and root causes [S.L.327.356 INSTITUTE OF EARTH SYSTEMS
-
-of related problems, notably habitat degradation and loss) and rural science;
-
-*2*
+(ii) regional (e.g. Mediterranean) issues relating to the environment, including conservation (loss of biodiversity in its various forms and root causes of related problems, notably habitat degradation and loss) and rural science;
 
 (iii) training of target groups (including environmental planners, environmental managers, agrologists, architects, engineers, economists, journalists and lawyers) on environmental issues pertaining, in particular, to their respective areas;
 
@@ -111,10 +103,6 @@ The Institute shall be governed by a Board that shall consist of the following:
 
 (vi) the Head of the Euro-Mediterranean Centre on Insular Coastal Dynamics;
 
-*3*
-
-INSTITUTE OF EARTH SYSTEMS [S.L.327.356
-
 (vii) not more than two representatives of the academic staff lecturing or conducting research within the Institute;
 
 (viii) not more than two representatives of the students registered with the Institute; and
@@ -157,10 +145,6 @@ The functions of the Board shall be:
 
 (viii) propose for approval to the Senate, Boards of Studies and Examiners for undergraduate and postgraduate courses.
 
-**INSTITUTE OF EARTH SYSTEMS**
-
-*[S.L.327.356 4*
-
 *\9.*
 
 *Appointment of Director, Co-ordinators and Staff. Amended by: L.N. 138 of 2012.*
@@ -187,11 +171,7 @@ The duties of the Vice-Chairman/Director of the Institute shall include:
 
 (e) administering the Institute in full consultation with the members; monitoring and approving requests for leave of absence of members of the Institute; the Director of the Institute is expected to maintain records of all leave taken by members and to pass on these records to the Director of Human Resources Management and Development upon request;
 
-(f) promoting students’ academic and personal welfare, INSTITUTE OF EARTH SYSTEMS [S.L.327.356
-
-providing first-line support to students with any difficulties they may encounter during their studies related to the activities of the Institute;
-
-*5*
+(f) promoting students’ academic and personal welfare, providing first-line support to students with any difficulties they may encounter during their studies related to the activities of the Institute;
 
 (g) monitoring the running of tests and examinations in the Institute and ensuring that all assessment and examination results are submitted to the Registrar’s office as follows:
 
@@ -217,11 +197,7 @@ providing first-line support to students with any difficulties they may encounte
 
 (o) monitoring the performance of the non-academic staff attached to the Institute;
 
-(p) authorising the Institute’s procurement of equipment; ensuring that the resources assigned to the Institute - INSTITUTE OF EARTH SYSTEMS
-
-whether human or other - are utilized fully and efficiently;
-
-*[S.L.327.356 6*
+(p) authorising the Institute’s procurement of equipment; ensuring that the resources assigned to the Institute -whether human or other - are utilized fully and efficiently;
 
 (q) performing other duties which may be assigned by the University from time to time.
 
@@ -255,10 +231,6 @@ The duties of the coordinator shall include:
 
 (c) monitoring and ensuring that the overall academic development and the well being of the students and dealing with cases of indiscipline that may be brought to his attention;
 
-*7*
-
-INSTITUTE OF EARTH SYSTEMS [S.L.327.356
-
 (d) monitoring coursework and assessments in consultation with the respective lecturers teaching that subject area.
 
 ## 13. Co-ordinators to report directly to the Director.
@@ -281,7 +253,7 @@ The Director of Finance of the University shall be the Treasurer of the Institut
 
 ## 17. International Scientific Advisory Committee.
 
-There shall be an International Scientific Advisory Committee composed of scholars of repute appointed by the Board. 8 [S.L.327.356 INSTITUTE OF EARTH SYSTEMS
+There shall be an International Scientific Advisory Committee composed of scholars of repute appointed by the Board.
 
 ## APPENDIX I — COUNCIL OF EUROPE SPECIALISED CENTRE — Article 1
 
@@ -335,9 +307,7 @@ The overall governance of the Centre falls under the responsibility of the Board
 
 (ii) the direction and supervision of the activities and administration of the Centre;
 
-(iii) the planning of the programme of activities of the Centre in consultation INSTITUTE OF EARTH SYSTEMS [S.L.327.356 9
-
-with the Institute’s Board and the Council of Europe;
+(iii) the planning of the programme of activities of the Centre in consultation with the Institute’s Board and the Council of Europe;
 
 (iv) preparing the annual report of activities of the Centre and to submit it, together with the programme for the following year, to the Institute’s Board and the Council of Europe.
 

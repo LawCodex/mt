@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (Ukraine) Order (S.L. 123.178)
 
-*1*
-
-(UKRAINE) ORDER [S.L. 123.178 SUBSIDIARY LEGISLATION 123.178
+**SUBSIDIARY LEGISLATION 123.178**
 
 DOUBLE TAXATION RELIEF (TAXES ON INCOME) (UKRAINE) ORDER
 
@@ -42,10 +40,6 @@ It is hereby declared:-
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Convention has entered into force on 28th August 2017.
-
-*2*
-
-[S.L. 123.178 (UKRAINE) ORDER
 
 ## SCHEDULE — Article 2 — CONVENTION BETWEEN THE GOVERNMENT OF
 
@@ -85,9 +79,7 @@ the income tax
 
 (hereinafter referred to as "Malta tax").
 
-*3*
-
-(UKRAINE) ORDER [S.L. 123.178 4. The Convention shall apply also to any identical or substantially similar taxes which are imposed by either Contracting State after the date of signature of this Convention in addition to, or in place of, the existing taxes. The competent authorities of the Contracting States shall notify each other of any significant changes which have been made in their respective taxation laws.
+\4. The Convention shall apply also to any identical or substantially similar taxes which are imposed by either Contracting State after the date of signature of this Convention in addition to, or in place of, the existing taxes. The competent authorities of the Contracting States shall notify each other of any significant changes which have been made in their respective taxation laws.
 
 **Article 3**
 
@@ -109,11 +101,7 @@ c) the terms "a Contracting State" and "the other Contracting State" mean Ukrain
 
 e) the term "person" includes an individual, a company and any other body of persons;
 
-f) the term "company" means any body corporate or any entity which is treated as a body corporate for tax purposes; g) the terms "enterprise of a Contracting State" and "enterprise of the other Contracting State" mean respectively an enterprise carried on by a resident of a Contracting State and an enterprise carried on by a [S.L. 123.178 (UKRAINE) ORDER
-
-resident of the other Contracting State;
-
-*4*
+f) the term "company" means any body corporate or any entity which is treated as a body corporate for tax purposes; g) the terms "enterprise of a Contracting State" and "enterprise of the other Contracting State" mean respectively an enterprise carried on by a resident of a Contracting State and an enterprise carried on by a resident of the other Contracting State;
 
 h) the term "international traffic" means any transport by a ship or aircraft operated by an enterprise of a Contracting State, except when the ship or aircraft is operated solely between places in the other Contracting State;
 
@@ -139,11 +127,9 @@ Where by reason of the provisions of paragraph 1 an individual is a resident of 
 
 a) he shall be deemed to be a resident of the Contracting State in which he has a permanent home available to him; if he has a permanent home available to him in both Contracting States, he shall be deemed to be a resident of the Contracting State with which his personal and economic relations are closer (centre of vital interests); b) if the Contracting State in which he has his centre of vital interests cannot be determined, or if he has no permanent home available to him in either Contracting State, he shall be deemed to be a resident of the Contracting State in which he has an habitual abode;
 
-c) if he has an habitual abode in both Contracting States (UKRAINE) ORDER [S.L. 123.178 or in neither of them, he shall be deemed to be a resident of the Contracting State of which he is a national;
+c) if he has an habitual abode in both Contracting States or in neither of them, he shall be deemed to be a resident of the Contracting State of which he is a national;
 
 d) if he is a national of both Contracting States or of neither of them, the competent authorities of the Contracting States shall settle the question by mutual agreement.
-
-*5*
 
 ## 3.
 
@@ -185,10 +171,6 @@ a) the use of facilities solely for the purpose of storage, display or delivery 
 
 b) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of storage, display or delivery;
 
-*6*
-
-[S.L. 123.178 (UKRAINE) ORDER
-
 c) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of processing by another enterprise;
 
 d) the maintenance of a fixed place of business solely for the purpose of purchasing goods or merchandise, or of collecting information, for the enterprise;
@@ -207,9 +189,7 @@ An enterprise of a Contracting State shall not be deemed to have a permanent est
 
 The fact that a company which is a resident of a Contracting State controls or is controlled by a company which is a resident of the other Contracting State, or which carries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself constitute either company a permanent establishment of the other.
 
-*7*
-
-(UKRAINE) ORDER [S.L. 123.178 Article 6
+**Article 6**
 
 **INCOME FROM IMMOVABLE PROPERTY**
 
@@ -228,10 +208,6 @@ The fact that a company which is a resident of a Contracting State controls or i
 \1. The profits of an enterprise of a Contracting State shall be taxable only in that State unless the enterprise carries on business in the other Contracting State through a permanent establishment situated therein. If the enterprise carries on business as aforesaid, the profits of the enterprise may be taxed in the other State but only so much of them as is attributable to that permanent establishment.
 
 \2. Subject to the provisions of paragraph 3, where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment.
-
-*8*
-
-[S.L. 123.178 (UKRAINE) ORDER
 
 \3. In determining the profits of a permanent establishment, there shall be allowed as deductions expenses which are incurred for the purposes of the permanent establishment, including executive and general administrative expenses so incurred, whether in the State in which the permanent establishment is situated or elsewhere. However, in the case of expenses incurred by a permanent establishment in its dealings with the enterprise of which it is a permanent establishment, only those expenses which are allowed as deductions under the domestic law of each Contracting State shall be taken into account in determining the profits of a permanent establishment.
 
@@ -255,11 +231,9 @@ Where profits include items of income which are dealt with separately in other A
 
 a) income from the rental on a bareboat basis of ships or aircraft; and
 
-b) profits from the use or rental of containers (including trailers and related equipment for the transport of containers) used for the transport of goods or (UKRAINE) ORDER [S.L. 123.178 merchandise,
+b) profits from the use or rental of containers (including trailers and related equipment for the transport of containers) used for the transport of goods or merchandise,
 
 where such rental, or such use or rental, as the case may be, is incidental to the operation of ships or aircraft in international traffic.
-
-*9*
 
 \3. Where profits within paragraph 1 are derived by an enterprise of a Contracting State from participation in a pool, a joint business or an international operating agency, the profits attributable to that enterprise shall be taxable only in that Contracting State.
 
@@ -276,10 +250,6 @@ b) the same persons participate directly or indirectly in the management, contro
 and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
 
 \2. Where a Contracting State includes in the profits of an enterprise of that State - and taxes accordingly - profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Convention and the competent authorities of the Contracting States shall if necessary consult each other.
-
-*10*
-
-[S.L. 123.178 (UKRAINE) ORDER
 
 **Article 10**
 
@@ -301,11 +271,9 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \5. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
-\6. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the (UKRAINE) ORDER [S.L. 123.178 company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment situated in that other State, nor subject the company's undistributed profits to a tax on the company's undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
+\6. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment situated in that other State, nor subject the company's undistributed profits to a tax on the company's undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
 
 **Article 11**
-
-*11*
 
 **INTEREST**
 
@@ -319,11 +287,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \5. Interest shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment, then such interest shall be deemed to arise in the State in which the permanent establishment is situated.
 
-\6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such [S.L. 123.178 (UKRAINE) ORDER
-
-relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
-
-*12*
+\6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
 ## 7.
 
@@ -341,11 +305,9 @@ Notwithstanding the provisions of paragraph 2, interest arising in a Contracting
 
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
-\5. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds, for whatever reason, the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the (UKRAINE) ORDER [S.L. 123.178 provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
+\5. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds, for whatever reason, the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
 \6. Royalties shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment then such royalties shall be deemed to arise in the State in which the permanent establishment is situated.
-
-*13*
 
 **Article 13**
 
@@ -365,11 +327,7 @@ Notwithstanding the provisions of paragraph 2, interest arising in a Contracting
 
 **INCOME FROM EMPLOYMENT**
 
-\1. Subject to the provisions of Articles 15, 17 and 18, salaries, wages and other similar remuneration derived by a resident of [S.L. 123.178 (UKRAINE) ORDER
-
-a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
-
-*14*
+\1. Subject to the provisions of Articles 15, 17 and 18, salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
 
 \2. Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in the other Contracting State shall be taxable only in the first-mentioned State if:
 
@@ -391,11 +349,9 @@ Directors' fees and other similar payments derived by a resident of a Contractin
 
 \1. Notwithstanding the provisions of Articles 7 and 14, income derived by a resident of a Contracting State as an entertainer, such as a theatre, motion picture, radio or television artiste, or a musician, or as a sportsman, from his personal activities as such exercised in the other Contracting State, may be taxed in that other State.
 
-\2. Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman himself but to another person, that income may, notwithstanding the provisions of Articles 7 and 14, be taxed in the Contracting State in which the activities of the entertainer or (UKRAINE) ORDER [S.L. 123.178 sportsman are exercised.
+\2. Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman himself but to another person, that income may, notwithstanding the provisions of Articles 7 and 14, be taxed in the Contracting State in which the activities of the entertainer or sportsman are exercised.
 
 \3. Notwithstanding the provisions of paragraphs 1 and 2, income referred to in this Article shall be exempt from tax in the Contracting State in which the activities of the entertainer or sportsman are exercised, if such activities are substantially financed from the public funds of either or both States, or are carried on under a cultural cooperation agreement between the Contracting States.
-
-*15*
 
 **Article 17**
 
@@ -421,11 +377,7 @@ b) However, such remuneration shall be taxable only in the other Contracting Sta
 
 b) However, such pension shall be taxable only in the other Contracting State if the individual is a resident of, and a national of, that State.
 
-\3. The provisions of Articles 14,15,16 and 17 shall apply to remuneration and pensions in respect of services rendered in connection with a business carried on by a Contracting State or a [S.L. 123.178 (UKRAINE) ORDER
-
-political subdivision or a local authority thereof.
-
-*16*
+\3. The provisions of Articles 14,15,16 and 17 shall apply to remuneration and pensions in respect of services rendered in connection with a business carried on by a Contracting State or a political subdivision or a local authority thereof.
 
 **Article 19**
 
@@ -449,9 +401,7 @@ A student or business apprentice who is present in a Contracting State solely fo
 
 \2. The foregoing provision shall not apply where a company is engaged in substantive business operation in the Contracting State of which it is a resident and the relief from the taxation claimed from the other Contracting State is with respect to income that is connected with such operations.
 
-*17*
-
-(UKRAINE) ORDER [S.L. 123.178 Article 22
+**Article 22**
 
 **ELIMINATION OF DOUBLE TAXATION**
 
@@ -473,11 +423,7 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 **NON-DISCRIMINATION**
 
-\1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to [S.L. 123.178 (UKRAINE) ORDER
-
-residence, are or may be subjected. This provision shall, notwithstanding the provisions of Article 1, also apply to persons who are not residents of one or both of the Contracting States.
-
-*18*
+\1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected. This provision shall, notwithstanding the provisions of Article 1, also apply to persons who are not residents of one or both of the Contracting States.
 
 \2. Stateless persons who are residents of a Contracting State shall not be subjected in either Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of the State concerned in the same circumstances are or may be subjected.
 
@@ -497,11 +443,9 @@ The provisions of this Article shall apply to taxes covered by this Convention.
 
 **MUTUAL AGREEMENT PROCEDURE**
 
-\1. Where a person considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Convention, he may, irrespective (UKRAINE) ORDER [S.L. 123.178 of the remedies provided by the domestic law of those States, present his case to the competent authority of the Contracting State of which he is a resident or, if his case comes under paragraph 1 of Article 23, to that of the Contracting State of which he is a national. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Convention.
+\1. Where a person considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Convention, he may, irrespective of the remedies provided by the domestic law of those States, present his case to the competent authority of the Contracting State of which he is a resident or, if his case comes under paragraph 1 of Article 23, to that of the Contracting State of which he is a national. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Convention.
 
 \2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Convention. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
-
-*19*
 
 \3. The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or the application of the Convention.
 
@@ -516,10 +460,6 @@ The provisions of this Article shall apply to taxes covered by this Convention.
 \2. Any information received under paragraph 1 by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to the taxes referred to in paragraph 1, or the oversight of the above. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
 
 \3. In no case shall the provisions of paragraphs 1 and 2 be construed so as to impose on a Contracting State the obligation:
-
-*20*
-
-[S.L. 123.178 (UKRAINE) ORDER
 
 a) to carry out administrative measures at variance with the laws and administrative practice of that or of the other Contracting State;
 
@@ -547,11 +487,9 @@ Nothing in this Convention shall affect the fiscal privileges accorded to member
 
 a) in Ukraine:
 
-(i) in respect of taxes withheld at source on amounts paid on or after 1 January in the calendar year next following that in which the Convention enters into (UKRAINE) ORDER [S.L. 123.178 force; and
+(i) in respect of taxes withheld at source on amounts paid on or after 1 January in the calendar year next following that in which the Convention enters into force; and
 
 (ii) in respect of other taxes for taxable years or periods beginning on or after 1 January in the calendar year next following that in which the Convention enters into force;
-
-*21*
 
 b) in Malta:
 
@@ -580,10 +518,6 @@ In witness whereof the undersigned, duly authorized thereto, have signed this Co
 Done in duplicate at Kiev this 4 of September 2013 in the English and Ukrainian languages, both texts being equally authentic.
 
 For the Government For the Government of the Republic of Malta of Ukraine
-
-*22*
-
-[S.L. 123.178 (UKRAINE) ORDER
 
 **PROTOCOL**
 

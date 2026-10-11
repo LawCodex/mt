@@ -1,6 +1,6 @@
 ---
 title: "Finger-prints, Photographs and Measurements of Accused Persons Regulations"
-identifier: "S.L. 9.4"
+identifier: "S.L. 9.04"
 eli: "https://legislation.mt/eli/sl/9.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/9.4/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Finger-prints, Photographs and Measurements of Accused Persons Regulations (S.L. 9.4)
-
-FINGER-PRINTS, PHOTOGRAPHS AND
-
-*1*
-
-MEASUREMENTS OF ACCUSED PERSONS [S.L.9.04
+# Finger-prints, Photographs and Measurements of Accused Persons Regulations (S.L. 9.04)
 
 **SUBSIDIARY LEGISLATION 9.04**
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Merchant Shipping (Ballast Water Management Convention) Regulations (S.L. 234.55)
 
-*1*
-
-(BALLAST WATER MANAGEMENT CONVENTION) [S.L. 234.55
-
 **SUBSIDIARY LEGISLATION 234.55**
 
 **MERCHANT SHIPPING**
@@ -65,11 +61,7 @@ The title of these regulations is the Merchant Shipping (Ballast Water Managemen
 
 These regulations shall not apply to:
 
-(a) ships not designed or constructed to carry Ballast [S.L. 234.55 (BALLAST WATER MANAGEMENT CONVENTION)
-
-Water;
-
-*2*
+(a) ships not designed or constructed to carry Ballast Water;
 
 (b) Maltese Ships which only operate in waters under the jurisdiction of Malta;
 
@@ -99,10 +91,6 @@ Provided that:
 
 (2) The Registrar-General may either on a case by case basis or through the issue of Merchant Shipping Notices:
 
-*3*
-
-(BALLAST WATER MANAGEMENT CONVENTION) [S.L. 234.55
-
 (a) determine, lay down, prescribe, set or specify what may be required to be determined, laid down, prescribed, set or specified by these regulations, by the Convention, or expound on the requirements of these regulations or of the Convention or clarify their application or interpretation; and
 
 (b) extend any of the provisions of the Convention, to other classes of Maltese ships or, to other classes of ships while they are in Maltese waters, and in so doing, and without prejudice to the generality of the foregoing, the Registrar- General shall be guided by the circulars, clarifications, codes, decisions, directives, guidelines, instruments, interpretations, manuals, notices, publications, recommendations, regulations, resolutions, rules or any other similar medium of the International Maritime Organization or any other body or organisation with an appropriate knowledge or competence on the subject matter.
@@ -122,10 +110,6 @@ Ships must carry on board and implement a Ballast Water Management Plan approved
 (4) The Ballast Water record book shall be kept readily available for inspection at all times and, in the case of an unmanned ship under tow, may be kept on the towing ship.
 
 (5) Each operation concerning Ballast Water shall be fully recorded without delay in the Ballast Water record book. Each entry shall be signed by the officer in charge of the operation concerned and each completed page shall be signed by the master. The entries in the Ballast Water record book shall be in English.
-
-*4*
-
-[S.L. 234.55 (BALLAST WATER MANAGEMENT CONVENTION)
 
 ## 7. Prohibition of proceeding to sea without appropriate certificate.
 
@@ -159,11 +143,7 @@ The requirements of these regulations do not apply to ships that discharge Balla
 
 (1) The requirements of these regulations shall not apply to:
 
-(a) the uptake or discharge of Ballast Water and (BALLAST WATER MANAGEMENT CONVENTION) [S.L. 234.55
-
-sediments necessary for the purpose of ensuring the safety of the ship in emergency situations or saving life at sea; or
-
-*5*
+(a) the uptake or discharge of Ballast Water and sediments necessary for the purpose of ensuring the safety of the ship in emergency situations or saving life at sea; or
 
 (b) the accidental discharge or ingress of Ballast Water and sediments resulting from damage to the ship or its equipment:
 
@@ -187,11 +167,7 @@ sediments necessary for the purpose of ensuring the safety of the ship in emerge
 
 (d) granted based on the Guidelines on risk assessment developed by the International Maritime Organization.
 
-(2) Any exemptions granted under this regulation shall not impair or damage the environment, human health, property or [S.L. 234.55 (BALLAST WATER MANAGEMENT CONVENTION)
-
-resources of adjacent or other States. Any State that Malta determines may be adversely affected shall be consulted, with a view to resolving any identified concerns.
-
-*6*
+(2) Any exemptions granted under this regulation shall not impair or damage the environment, human health, property or resources of adjacent or other States. Any State that Malta determines may be adversely affected shall be consulted, with a view to resolving any identified concerns.
 
 (3) Any exemptions granted under this article shall be recorded in the Ballast Water record book.
 

@@ -1,6 +1,6 @@
 ---
 title: "Smoking in Public Places Regulations"
-identifier: "S.L. 315.4"
+identifier: "S.L. 315.04"
 eli: "https://legislation.mt/eli/sl/315.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/315.4/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Smoking in Public Places Regulations (S.L. 315.4)
+# Smoking in Public Places Regulations (S.L. 315.04)
 
 **SUBSIDIARY LEGISLATION 315.04**
 

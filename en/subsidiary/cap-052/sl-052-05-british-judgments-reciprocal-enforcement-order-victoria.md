@@ -1,6 +1,6 @@
 ---
 title: "British Judgments Reciprocal Enforcement Order - Victoria"
-identifier: "S.L. 52.5"
+identifier: "S.L. 52.05"
 eli: "https://legislation.mt/eli/sl/52.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/52.5/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# British Judgments Reciprocal Enforcement Order - Victoria (S.L. 52.5)
-
-*1*
-
-RECIPROCAL ENFORCEMENT - VICTORIA [ S.L.52.05
+# British Judgments Reciprocal Enforcement Order - Victoria (S.L. 52.05)
 
 **SUBSIDIARY LEGISLATION 52.05**
 
@@ -45,10 +41,6 @@ AND WHEREAS I am satisfied that the Legislature of the State of Victoria and its
 
 AND WHEREAS by Proclamation issued at Melbourne on the eighth day of November, 1926, His Excellency the Governor of the State of Victoria and its Dependencies, in the Commonwealth of Australia, under the provisions of the said Judgements (Reciprocity) Act, 1925, has declared Malta and its Dependencies to be a reciprocating State for the purposes of the Judgements (Reciprocity) Acts and declared that the said Acts shall extend and apply to all parts of Malta and its Dependencies:
 
-NOW, THEREFORE, I, SIR WALTER NORRIS CONGREVE, do hereby proclaim that the said Reciprocal Enforcement of [S.L.52.05 RECIPROCAL ENFORCEMENT - VICTORIA
+NOW, THEREFORE, I, SIR WALTER NORRIS CONGREVE, do hereby proclaim that the said Reciprocal Enforcement of Judgements Act shall apply and extend to judgments obtained in the Superior Courts of the State of Victoria and its Dependencies, in the Commonwealth of Australia.
 
 \*The Proclamation is reproduced in its original form. By virtue of the amendments, made to the parent law, by Act LVIII of 1974, the power to extend the applicability of the Act outside Malta is vested in the President of Malta.
-
-Judgements Act shall apply and extend to judgments obtained in the Superior Courts of the State of Victoria and its Dependencies, in the Commonwealth of Australia.
-
-*2*

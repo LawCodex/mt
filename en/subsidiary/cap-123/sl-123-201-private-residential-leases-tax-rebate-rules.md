@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Private Residential Leases (Tax Rebate) Rules (S.L. 123.201)
 
-*1*
-
-(TAX REBATE) [S.L. 123.201 SUBSIDIARY LEGISLATION 123.201
+**SUBSIDIARY LEGISLATION 123.201**
 
 **PRIVATE RESIDENTIAL LEASES**
 
@@ -71,11 +69,7 @@ Two €400
 
 Three or more €500
 
-(3) In respect of the year during which a lease commences or is terminated, the rebate shown in the last column of the above table shall be reduced pro rata to the number of days for which the lease is [S.L. 123.201 (TAX REBATE)
-
-in force for that year.
-
-*2*
+(3) In respect of the year during which a lease commences or is terminated, the rebate shown in the last column of the above table shall be reduced pro rata to the number of days for which the lease is in force for that year.
 
 (4) The rebate for any year in respect of a lease cannot exceed fifteen percent (15%) of the rent derived in that year from that lease.
 

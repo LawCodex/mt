@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Public Policy Leadership - M.A. - under the auspices of the Faculty of Economics, Management and Accountancy (S.L. 327.225)
 
-LEADERSHIP - M.A. - UNDER THE AUSPICES OF THE FACULTY
-
-*1*
-
-OF ECONOMICS, MANAGEMENT AND ACCOUNTANCY [S.L.327.225
-
 **SUBSIDIARY LEGISLATION 327.225**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -69,11 +63,7 @@ These bye-laws shall be applicable for courses commencing in October, 2019 or la
 
 (a) a Bachelor degree obtained with at least Second Class Honours in Public Policy or Public Administration; or (b) a Bachelor degree obtained with at least Second Class Honours or Category II, in any other area deemed relevant by the Board, provided that such applicants may be required to provide evidence of work experience or are currently in employment relevant to the Course; or
 
-(c) a Bachelor degree obtained with Third Class Honours in Public Policy or Public Administration, provided that applicants have obtained other qualifications, including relevant work experience, following their LEADERSHIP - M.A. - UNDER THE AUSPICES OF THE FACULTY [S.L.327.225 OF ECONOMICS, MANAGEMENT AND ACCOUNTANCY
-
-first cycle degree; or
-
-*2*
+(c) a Bachelor degree obtained with Third Class Honours in Public Policy or Public Administration, provided that applicants have obtained other qualifications, including relevant work experience, following their first cycle degree; or
 
 (d) a qualification deemed by Senate, on the recommendation of the Board, to be comparable to the qualifications listed in sub-paragraphs (a), (b) and (c) of paragraph (1) of this bye-law,
 
@@ -109,13 +99,7 @@ The programme of study shall be published after approval by Senate, normally not
 
 (1) The assessment of each taught study-unit shall be completed by the end of the semester in which the teaching of the study-unit is held.
 
-(2) Students who in any academic year fail in the assessment of not more than 20 ECTS credits for taught study-units, if following the full-time course, or not more than 10 ECTS credits for taught study-units if following the part-time course, shall be given the opportunity to re-sit the failed assessments during the LEADERSHIP - M.A. - UNDER THE AUSPICES OF THE FACULTY
-
-*3*
-
-OF ECONOMICS, MANAGEMENT AND ACCOUNTANCY [S.L.327.225
-
-September supplementary examination session.
+(2) Students who in any academic year fail in the assessment of not more than 20 ECTS credits for taught study-units, if following the full-time course, or not more than 10 ECTS credits for taught study-units if following the part-time course, shall be given the opportunity to re-sit the failed assessments during the September supplementary examination session.
 
 (3) Students who fail in more than the number of credits permitted under paragraph (2) of this bye-law or students who after re-assessment fail to obtain credit for any study-unit shall be deemed to have failed the course.
 

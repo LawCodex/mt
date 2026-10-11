@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws of Master in Creativity and Innovation under the auspices of the Edward de Bono Institute for Creative Thinking and Innovation (S.L. 327.86)
 
-AUSPICES OF THE EDWARD DE BONO INSTITUTE FOR
-
-*1*
-
-CREATIVE THINKING AND INNOVATION [S.L.327.86
-
 **SUBSIDIARY LEGISLATION 327.86**
 
 **BYE-LAWS OF MASTER IN CREATIVITY AND**
@@ -78,10 +72,6 @@ The programme of study shall comprise study-units to which a total of 90 credits
 
 Students who obtain the 60 credits assigned to the taught study-units with an average mark of at least 50% and do not proceed with the Course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the Postgraduate Diploma.
 
-*2*
-
-AUSPICES OF THE EDWARD DE BONO INSTITUTE FOR [S.L.327.86 CREATIVE THINKING AND INNOVATION
-
 ## 7. Publication of programme of study
 
 The programme of study shall be published by the Board after approval by Senate normally not less than eight months prior to the commencement of the course.
@@ -122,10 +112,8 @@ The programme of study shall be published by the Board after approval by Senate 
 
 The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma and of the Degree shall be based on the results obtained in all the components of the programme of study, all credits being weighted equally.
 
-AUSPICES OF THE EDWARD DE BONO INSTITUTE FOR
+## 12. Special provisions for part-time courses.
 
-*3*
+*Renumbered by: L.N. 131 of 2023.*
 
-CREATIVE THINKING AND INNOVATION [S.L.327.86 12. The provisions of the foregoing bye-laws shall apply mutatis mutandis to courses followed on a part-time basis, and subject to such changes as may reasonably be deemed by the Board as necessary due to the part-time nature of the course.
-
-*Special provisions for part-time courses. Renumbered by: L.N. 131 of 2023.*
+The provisions of the foregoing bye-laws shall apply mutatis mutandis to courses followed on a part-time basis, and subject to such changes as may reasonably be deemed by the Board as necessary due to the part-time nature of the course.

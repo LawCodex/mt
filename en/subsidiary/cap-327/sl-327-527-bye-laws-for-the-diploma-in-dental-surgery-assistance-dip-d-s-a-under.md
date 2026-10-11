@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-laws for the Diploma in Dental Surgery Assistance - Dip. D.S.A. - under the auspices of the Faculty of Dental Surgery (S.L. 327.527)
 
-\- UNDER THE AUSPICES OF THE
-
-*1*
-
-FACULTY OF DENTAL SURGERY [S.L.327.527
-
 **SUBSIDIARY LEGISLATION 327.527**
 
 **BYE-LAWS FOR THE DIPLOMA IN DENTAL**
@@ -81,12 +75,6 @@ The course shall extend over two semesters of full-time study with the second se
 *Renumbered by: L.N. 327 of 2022.*
 
 The programme of study shall comprise study-units to which a total of 60 ECTS credits are assigned.
-
-\- UNDER THE AUSPICES OF THE
-
-*2*
-
-[S.L.327.527 FACULTY OF DENTAL SURGERY
 
 ## 7. Study-units.
 

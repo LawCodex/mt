@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Collective Investment Schemes (Investment Income) Regulations (S.L. 123.51)
 
-*1*
-
-(INVESTMENT INCOME) [S.L.123.51
-
 **SUBSIDIARY LEGISLATION 123.51**
 
 **COLLECTIVE INVESTMENT SCHEMES**
@@ -63,10 +59,6 @@ The Commissioner shall classify a fund as a prescribed fund if it is a fund of a
 
 (1) A fund in an overseas-based scheme shall be treated as a non-prescribed fund.
 
-*2*
-
-[S.L.123.51 (INVESTMENT INCOME)
-
 (2) When a Malta based scheme declares in the manner provided for in these regulations that a fund does not satisfy the conditions set out in regulation 4(a) or (b), as the case may be, the Commissioner shall classify that fund as a non-prescribed fund.
 
 ### 6. Value of assets.
@@ -89,13 +81,9 @@ Provided that if that fund had been classified as a prescribed or a non-prescrib
 
 ### 8. Securities in a non-prescribed fund that is subsequently classified as a prescribed fund.
 
-(1) When a fund is classified as a prescribed fund in terms of regulation 7(2) any securities held in that fund on the date of that classification shall continue to be treated as securities in a non-prescribed fund: provided that when such securities are disposed of they shall, if they are listed on a stock exchange recognised under the Financial Markets Act, be deemed to be disposed of for the price last quoted on the recognised stock exchange before the date (INVESTMENT INCOME) [S.L.123.51
+(1) When a fund is classified as a prescribed fund in terms of regulation 7(2) any securities held in that fund on the date of that classification shall continue to be treated as securities in a non-prescribed fund: provided that when such securities are disposed of they shall, if they are listed on a stock exchange recognised under the Financial Markets Act, be deemed to be disposed of for the price last quoted on the recognised stock exchange before the date of the said classification.
 
 *Cap. 345.*
-
-of the said classification.
-
-*3*
 
 (2) When a person holds securities that are treated as securities in a non-prescribed fund in terms of subregulation (1) and other securities in the same fund that are not so treated, any disposals of securities in that fund by that person shall be treated as disposals of securities in a non-prescribed fund until all the securities which that person held on the date on which that fund was classified as a prescribed fund have been disposed of.
 
@@ -125,10 +113,6 @@ A payor shall withhold tax on investment income paid to a collective investment 
 
 (a) when the investment income in question is income to which article 41(a)(i) of the Act refers, at the rate of at the rate of fifteen cents (0.15) on every euro of such payment;
 
-*4*
-
-[S.L.123.51 (INVESTMENT INCOME)
-
 (b) in every other case, at the rate of ten cents (0.10) on every euro of such payment.
 
 ### 12. Declarations to the Commissioner.
@@ -154,10 +138,6 @@ A payor shall withhold tax on investment income paid to a collective investment 
 (1) When the Commissioner classifies a fund in a Malta based scheme as a prescribed or a non-prescribed fund, that scheme shall as soon as may be notify that status to any person who is liable to pay any income referred to in article 41(a) of the Act that falls to be allocated to that fund.
 
 (2) When any person who makes a payment of income referred in subregulation (1) to a Malta based scheme has not been notified, before that payment is made, that that income falls to be allocated to a non-prescribed fund that payment shall be deemed for all the purposes of the Act to be a payment of investment income that falls to be allocated to a prescribed fund and that person shall accordingly withhold tax and comply with the provisions of the Act relating to payors.
-
-*5*
-
-(INVESTMENT INCOME) [S.L.123.51
 
 ### 14. Authorised financial intermediary.
 
@@ -185,11 +165,7 @@ Provided that notwithstanding the provisions of article 33(3) of the Act -
 
 (i) the payment of investment income is made to the authorised financial intermediary who is the registered holder of the relevant units or shares and who holds such units or shares for the benefit of the said recipient;
 
-(ii) the said recipient is the registered holder of the [S.L.123.51 (INVESTMENT INCOME)
-
-relevant units or shares, who receives the investment income directly in his own name and who requires that an authorised financial intermediary collects an amount of tax equal to fifteen percent of such investment income for onward payment to the Commissioner;
-
-*6*
+(ii) the said recipient is the registered holder of the relevant units or shares, who receives the investment income directly in his own name and who requires that an authorised financial intermediary collects an amount of tax equal to fifteen percent of such investment income for onward payment to the Commissioner;
 
 (iii) the payment of investment income is effected through an arrangement approved by the Commissioner, which arrangement enables the collection of tax on such investment income through an authorised financial intermediary.
 
@@ -219,10 +195,6 @@ relevant units or shares, who receives the investment income directly in his own
 
 (i) the holder of the last mentioned securities is the same person as the holder of the first mentioned securities; and
 
-*7*
-
-(INVESTMENT INCOME) [S.L.123.51
-
 (ii) the holding in the last mentioned sub-fund follows immediately the holding in the first mentioned sub-fund; or
 
 (b) a sub-fund of another collective investment scheme, provided that:
@@ -241,11 +213,7 @@ relevant units or shares, who receives the investment income directly in his own
 
 (3) the sub-fund of such other collective investment scheme has the same investment manager and the same custodian as the first mentioned sub-fund, provided that the requirement to have the same custodian shall be waived where an investor is required to carry out a forced switch in cases where an investment manager decides to close a sub-fund of a collective investment scheme and to offer the opportunity to investors to transfer the relevant investment to a sub-fund of another collective investment scheme; and (4) the transaction does not involve a substantial departure from the terms relating to the holding in the first mentioned sub-fund.
 
-For the purposes of this proviso, the relevant investment manager shall seek the Commissioner’s approval that all such transactions from the first mentioned sub-fund to the last mentioned sub-fund will be considered as switches for the purposes of this (INVESTMENT INCOME)
-
-regulation. The Commissioner may, prior to giving such approval, request such information and documents that he may deem necessary.
-
-*[S.L.123.51 8*
+For the purposes of this proviso, the relevant investment manager shall seek the Commissioner’s approval that all such transactions from the first mentioned sub-fund to the last mentioned sub-fund will be considered as switches for the purposes of this regulation. The Commissioner may, prior to giving such approval, request such information and documents that he may deem necessary.
 
 (2) A switch constitutes a transfer of securities for the purposes of article 5 of the Act:
 
@@ -265,19 +233,13 @@ Provided that if the acquisition and transfer are made in the same calendar year
 
 (ii) where the aggregation of capital gains and capital losses as provided for in paragraph (a) involves different currencies, such gains or losses may be converted into euros at the rates of exchange (middle rate of the Central Bank) prevailing on the dates of the relevant switches or disposal of final securities;
 
-(iii) the cost of acquisition is to be calculated in the (INVESTMENT INCOME) [S.L.123.51
-
-same manner provided for in regulation 9, or in such other manner which may be approved by the Commissioner.
-
-*9*
+(iii) the cost of acquisition is to be calculated in the same manner provided for in regulation 9, or in such other manner which may be approved by the Commissioner.
 
 ### 16. UCITS.
 
 *Added by: L.N. 307 of 2004.*
 
 For the purposes of the investment income provisions of the Act and of any regulations made thereunder, "collective investment scheme" includes an undertaking for collective investment in transferable securities authorised in accordance with Council Directive 85/611/EEC of 20 December 1985 on the co-ordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) as amended up to and in force on the 1st May, 2004 and as may be amended from time to time.
-
-10 [S.L.123.51 (INVESTMENT INCOME)
 
 Amended by: SCHEDULE
 

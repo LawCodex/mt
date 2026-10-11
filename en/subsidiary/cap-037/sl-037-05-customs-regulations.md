@@ -1,6 +1,6 @@
 ---
 title: "Customs Regulations"
-identifier: "S.L. 37.5"
+identifier: "S.L. 37.05"
 eli: "https://legislation.mt/eli/sl/37.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/37.5/20260522/eng"
 retrieved: 2026-10-12
 ---
 
-# Customs Regulations (S.L. 37.5)
+# Customs Regulations (S.L. 37.05)
 
 **SUBSIDIARY LEGISLATION 37.05**
 

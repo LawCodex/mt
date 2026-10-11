@@ -1,6 +1,6 @@
 ---
 title: "Control of Sale of Underground Water Regulations"
-identifier: "S.L. 117.1"
+identifier: "S.L. 117.01"
 eli: "https://legislation.mt/eli/sl/117.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/117.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Control of Sale of Underground Water Regulations (S.L. 117.1)
+# Control of Sale of Underground Water Regulations (S.L. 117.01)
 
 **SUBSIDIARY LEGISLATION 117.01**
 

@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with Romania Order (S.L. 123.42)
 
-*1*
-
-WITH ROMANIA [S.L.123.42
-
 **SUBSIDIARY LEGISLATION 123.42**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -51,8 +47,6 @@ It is hereby declared;
 (v) the tax on agricultural income;
 
 (b) that it is expedient that those arrangements should have effect.
-
-2 [S.L.123.42 WITH ROMANIA
 
 ## SCHEDULE — AGREEMENT BETWEEN THE GOVERNMENT OF MALTA — AND THE GOVERNMENT OF ROMANIA
 
@@ -110,8 +104,6 @@ the income tax;
 
 This Agreement shall also apply to any identical or substantially similar taxes which are imposed after the date of signature of this Agreement in addition to, or in place of, the existing taxes. The competent authorities of the Contracting States shall notify each other of any significant changes which have been made in their respective taxation laws.
 
-WITH ROMANIA [S.L.123.42 3
-
 **ARTICLE 3**
 
 **General Definitions**
@@ -145,8 +137,6 @@ WITH ROMANIA [S.L.123.42 3
 (ii) in the case of Malta, the Minister responsible for finance or his authorized representative.
 
 \2. In the application of this Agreement by a Contracting State any term not otherwise defined shall, unless the context otherwise requires, have the meaning which it has under the law of that State concerning the taxes to which this Agreement applies.
-
-4 [S.L.123.42 WITH ROMANIA
 
 **ARTICLE 4**
 
@@ -188,9 +178,7 @@ WITH ROMANIA [S.L.123.42 3
 
 (g) a building site or construction or assembly project or supervisory activities in connection therewith which continues for more than 12 months;
 
-(h) the furnishing of services, including consultancy services, by an WITH ROMANIA [S.L.123.42 5
-
-enterprise of a Contracting State through its employees or other personnel, where activities of that nature continue in the other Contracting State for a period or periods aggregating more than 183 days within any twelve-month period.
+(h) the furnishing of services, including consultancy services, by an enterprise of a Contracting State through its employees or other personnel, where activities of that nature continue in the other Contracting State for a period or periods aggregating more than 183 days within any twelve-month period.
 
 \3. Notwithstanding the preceding provisions of this Article, the term "permanent establishment" shall be deemed not to include:
 
@@ -222,9 +210,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 **Income From Immovable Property**
 
-\1. Income derived by a resident of a Contracting State from immovable 6 [S.L.123.42 WITH ROMANIA
-
-property (including income from agriculture and forestry) situated in the other Contracting State may be taxed in that other State.
+\1. Income derived by a resident of a Contracting State from immovable property (including income from agriculture and forestry) situated in the other Contracting State may be taxed in that other State.
 
 \2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting immovable property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, or to explore for, mineral deposits, sources and other natural resources; ships, boats, aircraft, railway and road vehicles shall not be regarded as immovable property.
 
@@ -244,9 +230,7 @@ property (including income from agriculture and forestry) situated in the other 
 
 \4. The profits to be attributed to a permanent establishment shall be determined on the basis of separate business books kept by the permanent establishment. If such books do not constitute an adequate basis for the purposes of determining the profits of the permanent establishment, then such profits may be determined on the basis of an apportionment of the total profits of the enterprise to its various parts. The method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles embodied in this Article. If necessary, the competent authorities of the Contracting States shall endeavour to agree on the method for apportioning the profits of the enterprise.
 
-\5. No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the WITH ROMANIA [S.L.123.42 7
-
-enterprise.
+\5. No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
 
 ## 6.
 
@@ -280,9 +264,7 @@ Where profits include items of income which are dealt with separately in other A
 
 and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
 
-\2. Where a Contracting State includes in the profits of an enterprise of that State, and taxes accordingly, profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this 8 [S.L.123.42 WITH ROMANIA
-
-Agreement and the competent authorities of the Contracting States shall if necessary consult each other.
+\2. Where a Contracting State includes in the profits of an enterprise of that State, and taxes accordingly, profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Agreement and the competent authorities of the Contracting States shall if necessary consult each other.
 
 **ARTICLE 10**
 
@@ -306,8 +288,6 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \5. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company’s undistributed profits to a tax on the company’s undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
 
-WITH ROMANIA [S.L.123.42 9
-
 **ARTICLE 11**
 
 **Interest**
@@ -327,8 +307,6 @@ WITH ROMANIA [S.L.123.42 9
 ## 7.
 
 Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest paid, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Agreement.
-
-10 [S.L.123.42 WITH ROMANIA
 
 **ARTICLE 12**
 
@@ -356,9 +334,7 @@ Where, by reason of a special relationship between the payer and the beneficial 
 
 \3. The term "royalties" as used in this Article means payments or credits, whether periodical or not, and however described or computed, to the extent to which they are made as consideration for:
 
-(a) the use of, or the right to use, any copyright, patent, design or model, plan, secret formula or process, trademark or other like property or WITH ROMANIA [S.L.123.42 11
-
-right;
+(a) the use of, or the right to use, any copyright, patent, design or model, plan, secret formula or process, trademark or other like property or right;
 
 (b) the supply of scientific, technical, industrial or commercial knowledge or information;
 
@@ -386,9 +362,7 @@ right;
 
 \1. Income or gains from the alienation of immovable property, as defined in paragraph 2 of Article 6, may be taxed in the Contracting State in which such property is situated.
 
-\2. Income or gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or of movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing independent personal services, including such income or gains from the alienation of such a permanent establishment (alone or together with 12 [S.L.123.42 WITH ROMANIA
-
-the whole enterprise) or of such fixed base, may be taxed in the other State.
+\2. Income or gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or of movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing independent personal services, including such income or gains from the alienation of such a permanent establishment (alone or together with the whole enterprise) or of such fixed base, may be taxed in the other State.
 
 \3. Income or gains from the alienation of ships, boats, aircraft, railway and road vehicles operated in international traffic or movable property pertaining to the operation of such means of transportation shall be taxable only in the Contracting State in which the place of effective management of the enterprise is situated.
 
@@ -421,8 +395,6 @@ the whole enterprise) or of such fixed base, may be taxed in the other State.
 (b) the remuneration is paid by, or on behalf of, an employer who is not a resident of the other State, and
 
 (c) the remuneration is not borne by a permanent establishment or a fixed base which the employer has in the other State.
-
-WITH ROMANIA [S.L.123.42 13
 
 \3. Notwithstanding the preceding provisions of this Article, remuneration derived by a resident of a Contracting State in respect of an employment exercised aboard a ship, boat, aircraft, railway or road vehicle operated in international traffic may be taxed in the Contracting State in which the place of effective management of the enterprise is situated.
 
@@ -458,8 +430,6 @@ Directors’ fees and other similar payments derived by a resident of one of the
 
 (b) However, such remuneration shall be taxable only in the other Contracting State if the services are rendered in that State and the individual is a resident of that State who:
 
-14 [S.L.123.42 WITH ROMANIA
-
 (i) is a national of that State; or
 
 (ii) did not become a resident of that State solely for the purpose of rendering the services.
@@ -492,8 +462,6 @@ Payments which a student or a trainee who is or was immediately before visiting 
 
 \2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 15, as the case may be, shall apply.
 
-WITH ROMANIA [S.L.123.42 15
-
 **ARTICLE 24**
 
 **Elimination of Double Taxation**
@@ -520,9 +488,7 @@ The amount of credit, however, shall not exceed the amount of Romanian tax on th
 
 \4. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of that first-mentioned State are or may be subjected.
 
-\5. Nothing in this Article shall be construed as obliging a Contracting State to grant to individuals who are residents of the other Contracting State any personal allowances, reliefs and reductions for tax purposes on account of civil status, family 16 [S.L.123.42 WITH ROMANIA
-
-responsibilities or any other personal circumstances which it grants to its own residents.
+\5. Nothing in this Article shall be construed as obliging a Contracting State to grant to individuals who are residents of the other Contracting State any personal allowances, reliefs and reductions for tax purposes on account of civil status, family responsibilities or any other personal circumstances which it grants to its own residents.
 
 **ARTICLE 26**
 
@@ -547,8 +513,6 @@ responsibilities or any other personal circumstances which it grants to its own 
 (a) to carry out administrative measures at variance with the laws and administrative practice of that or of the other Contracting State;
 
 \*As substituted by Legal Notice 97 of 2026.
-
-WITH ROMANIA [S.L.123.42 17
 
 (b) to supply information which is not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;
 
@@ -584,8 +548,6 @@ JOHN DALLI FLORIN GEORGESCU
 
 **MALTA ROMANIA**
 
-18 [S.L.123.42 WITH ROMANIA
-
 **PROTOCOL**
 
 At the moment of signing the Agreement between the Government of Romania and the Government of Malta for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income, the two parties have agreed upon the following provisions, which will form an integral part of the Agreement:
@@ -605,8 +567,6 @@ JOHN DALLI FLORIN GEORGESCU
 **FOR THE GOVERNMENT OF FOR THE GOVERNMENT OF**
 
 **MALTA ROMANIA**
-
-WITH ROMANIA [S.L.123.42 19
 
 **PROTOCOL\***
 
@@ -640,11 +600,9 @@ This Protocol shall form an integral part of the Agreement, shall remain in forc
 
 IN WITNESS WHEREOF, the undersigned, duly authorised thereto, have signed this Protocol.
 
-Done in duplicate at Bucharest, on 4th July 2024, in the English and Romanian 20 [S.L.123.42 WITH ROMANIA
+Done in duplicate at Bucharest, on 4th July 2024, in the English and Romanian languages, all texts being equally authentic. In case of any divergence of interpretation, the English text shall prevail.
 
 \*in force as from the 22nd May 2026. Vide Legal Notice 251 of 2026.
-
-languages, all texts being equally authentic. In case of any divergence of interpretation, the English text shall prevail.
 
 For the Government of Malta For the Government of Romania
 

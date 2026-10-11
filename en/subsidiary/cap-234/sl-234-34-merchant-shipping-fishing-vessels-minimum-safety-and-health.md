@@ -73,11 +73,7 @@ The title of these Regulations is the Merchant Shipping (Fishing Vessels) (Minim
 
 ''vessel'' means any new or existing fishing vessel;
 
-''worker'' means any person carrying out an occupation on board a vessel, including trainees and apprentices but excluding shore [S.L.234.34 (MINIMUM SAFETY AND HEALTH REQUIREMENTS)
-
-personnel carrying out work on board a vessel at the quayside and port pilots;
-
-*2*
+''worker'' means any person carrying out an occupation on board a vessel, including trainees and apprentices but excluding shore personnel carrying out work on board a vessel at the quayside and port pilots;
 
 ''skipper'' shall have the same meaning as the term ''master'' in the Act.
 
@@ -159,11 +155,7 @@ Any vessel owner, without prejudice to the skipper’s responsibility, is to the
 
 (c) a weekly average of forty-eight hours, as calculated over a maximum reference period of twelve months. (2) Hours of rest may be divided into no more than two periods, one of which must be at least six hours in length and the interval between consecutive periods of rest shall not exceed fourteen hours.
 
-(3) The skipper shall have the right to require workers on board [S.L.234.34 (MINIMUM SAFETY AND HEALTH REQUIREMENTS)
-
-to perform any hours of work necessary for the immediate safety of the vessel, persons on board or cargo, or for the purpose of giving assistance to other vessels or persons in distress at sea.
-
-*4*
+(3) The skipper shall have the right to require workers on board to perform any hours of work necessary for the immediate safety of the vessel, persons on board or cargo, or for the purpose of giving assistance to other vessels or persons in distress at sea.
 
 (4) Workers on board sea-going fishing vessels for which any national legislation or practice determines that these vessels are not allowed to operate in specific periods of the calendar year exceeding one month, shall take annual leave in accordance with the provisions of the Merchant Shipping (Hours of Work) Regulations, within the above mentioned period.
 
@@ -253,9 +245,7 @@ Switchboards should be clearly marked; fuse boxes and fuse holders should be che
 
 ## 2.4.
 
-Compartments housing electrical storage batteries must be adequately 6 [S.L.234.34 (MINIMUM SAFETY AND HEALTH REQUIREMENTS)
-
-ventilated.
+Compartments housing electrical storage batteries must be adequately ventilated.
 
 ## 2.5.
 
@@ -397,8 +387,6 @@ Doors
 
 Means should be provided so that doors can at all times be operated from the inside without special equipment. The doors must be operable from either side when workplaces are in use.
 
-8 [S.L.234.34 (MINIMUM SAFETY AND HEALTH REQUIREMENTS)
-
 ## 10.2.
 
 Doors, and in particular sliding doors, where such have to be used, must function as safely as possible for the workers, especially in adverse weather and sea conditions.
@@ -518,8 +506,6 @@ An accommodation ladder, gangway or other similar equipment providing an appropr
 Noise
 
 All appropriate technical measures must be taken to reduce the noise level at workplaces and in the living quarters as far as possible, taking into account the size of the vessel.
-
-10 [S.L.234.34 (MINIMUM SAFETY AND HEALTH REQUIREMENTS)
 
 ## SECOND SCHEDULE
 
@@ -644,8 +630,6 @@ Depending on the dimensions and use of the vessel, the equipment it contains, th
 ## 5.2.
 
 Fire-fighting equipment must always be kept in its proper location, maintained in good working order, and be available for immediate use. Workers must be familiar with the location of fire-fighting equipment, the way it works and how it should be used. The presence of extinguishers and other portable fire-fighting equipment must always be checked before the vessel gets under way.
-
-12 [S.L.234.34 (MINIMUM SAFETY AND HEALTH REQUIREMENTS)
 
 ## 5.3.
 
@@ -797,9 +781,7 @@ Living quarters
 
 ## 13.1.
 
-The workers’ living quarters, where they exist, must be such as to minimize 14 [S.L.234.34 (MINIMUM SAFETY AND HEALTH REQUIREMENTS)
-
-noise, vibration, the effects of motion and acceleration, and unpleasant odours from other parts of the vessel. Appropriate lighting must be installed in the living quarters.
+The workers’ living quarters, where they exist, must be such as to minimize noise, vibration, the effects of motion and acceleration, and unpleasant odours from other parts of the vessel. Appropriate lighting must be installed in the living quarters.
 
 ## 13.2.
 

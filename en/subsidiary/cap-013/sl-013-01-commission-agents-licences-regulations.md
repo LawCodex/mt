@@ -1,6 +1,6 @@
 ---
 title: "Commission Agents (Licences) Regulations"
-identifier: "S.L. 13.1"
+identifier: "S.L. 13.01"
 eli: "https://legislation.mt/eli/sl/13.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/13.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Commission Agents (Licences) Regulations (S.L. 13.1)
+# Commission Agents (Licences) Regulations (S.L. 13.01)
 
 **SUBSIDIARY LEGISLATION 13.01**
 

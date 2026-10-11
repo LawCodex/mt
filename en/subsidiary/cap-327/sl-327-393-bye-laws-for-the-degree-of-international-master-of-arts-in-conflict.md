@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of International Master of Arts in Conflict Resolution and Mediterranean Security - M.A. (S.L. 327.393)
 
-*1*
-
-RESOLUTION AND MEDITERRANEAN SECURITY – M.A. [S.L.327.393
-
 **SUBSIDIARY LEGISLATION 327.393**
 
 **BYE-LAWS IN TERMS OF THE GENERAL**
@@ -61,11 +57,7 @@ These bye-laws shall be applicable for courses commencing in October 2018 or lat
 
 ## 3. Requirements for admission.
 
-The course shall be open to applicants in possession of a first cycle degree obtained with a second class honours or better [S.L.327.393 RESOLUTION AND MEDITERRANEAN SECURITY – M.A.
-
-classification, or an equivalent classification.
-
-*2*
+The course shall be open to applicants in possession of a first cycle degree obtained with a second class honours or better classification, or an equivalent classification.
 
 ## 4. Course duration.
 
@@ -102,10 +94,6 @@ The course shall extend over a period of three semesters of full-time study.
 (2) Supervisors shall submit to the Board progress reports for each student under their supervision. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of Principal Regulations; and
-
-*3*
-
-RESOLUTION AND MEDITERRANEAN SECURITY – M.A. [S.L.327.393
 
 (ii) the Board may not terminate studies prematurely according to (b) until it has first given the student a chance to be heard.
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Transfer of Pensions paid under the Social Security Act Regulations (S.L. 318.22)
 
-*1*
-
-UNDER THE SOCIAL SECURITY ACT [ S.L.318.22
-
 **SUBSIDIARY LEGISLATION 318.22**
 
 **TRANSFER OF PENSIONS PAID UNDER THE**
@@ -65,11 +61,7 @@ LEGAL NOTICE 17 of 2012, as amended by Legal Notice 61 of 2013.
 
 (ii) which falls within a period of three months beginning with the date on which the transfer application is received by the Director;
 
-"leave on personal grounds" means leave granted within the [ S.L.318.22 UNDER THE SOCIAL SECURITY ACT
-
-meaning of Article 40 of the Council Regulation;
-
-*2*
+"leave on personal grounds" means leave granted within the meaning of Article 40 of the Council Regulation;
 
 "relevant pension" means any contributory pension under Part V of the Act;
 
@@ -113,11 +105,7 @@ For the purposes of these regulations, ‘transferable rights’ shall mean any 
 
 (2) A statement of entitlement shall remain valid for a period of ninety days beginning with the day on which the transferor is provided with the finalised proposal of transfer from the administrator of the EU scheme.
 
-(3) Where the transferor is not satisfied as to the accuracy of any of the information contained in the statement of entitlement, he shall notify the Director accordingly within thirty days of receiving UNDER THE SOCIAL SECURITY ACT [ S.L.318.22
-
-it.
-
-*3*
+(3) Where the transferor is not satisfied as to the accuracy of any of the information contained in the statement of entitlement, he shall notify the Director accordingly within thirty days of receiving it.
 
 (4) The Director need not provide a statement of entitlement to a transferor if he has provided a statement of entitlement to that transferor in the previous twelve months.
 
@@ -152,10 +140,6 @@ A transfer of a transferor’s transferable rights to the EU scheme may only tak
 (2) Nothing in the Act or in any regulations made thereunder shall be construed in such a way so as to produce the following effect:
 
 (a) the entitlement of the transferor to payment of a relevant pension based on contributions paid or credited during any periods before the day on which the transfer takes place; or
-
-*4*
-
-[ S.L.318.22 UNDER THE SOCIAL SECURITY ACT
 
 (b) the crediting of a transferor with any earnings or contributions which accrue from his transferable rights.
 

@@ -1,6 +1,6 @@
 ---
 title: "Tomatoes declared to be Agricultural Produce Order"
-identifier: "S.L. 85.6"
+identifier: "S.L. 85.06"
 eli: "https://legislation.mt/eli/sl/85.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/85.6/20231017/eng"
 retrieved: 2026-10-12
 ---
 
-# Tomatoes declared to be Agricultural Produce Order (S.L. 85.6)
+# Tomatoes declared to be Agricultural Produce Order (S.L. 85.06)
 
 **SUBSIDIARY LEGISLATION 85.06**
 

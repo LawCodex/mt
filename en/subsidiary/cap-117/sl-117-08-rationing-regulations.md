@@ -1,6 +1,6 @@
 ---
 title: "Rationing Regulations"
-identifier: "S.L. 117.8"
+identifier: "S.L. 117.08"
 eli: "https://legislation.mt/eli/sl/117.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/117.8/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Rationing Regulations (S.L. 117.8)
+# Rationing Regulations (S.L. 117.08)
 
 **SUBSIDIARY LEGISLATION 117.08**
 

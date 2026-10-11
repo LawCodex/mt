@@ -1,6 +1,6 @@
 ---
 title: "Notice of Winding Up of the Posterity Fund"
-identifier: "S.L. 204.2"
+identifier: "S.L. 204.02"
 eli: "https://legislation.mt/eli/sl/204.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/204.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Notice of Winding Up of the Posterity Fund (S.L. 204.2)
+# Notice of Winding Up of the Posterity Fund (S.L. 204.02)
 
 SUBSIDIARY LEGISLATION 204.02
 

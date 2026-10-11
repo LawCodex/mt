@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in Religious Studies under the auspices of the Faculty of Theology (S.L. 327.276)
 
-DIPLOMA IN RELIGIOUS STUDIES UNDER THE
-
-*1*
-
-AUSPICES OF THE FACULTY OF THEOLOGY [ S.L.327.276
-
 **SUBSIDIARY LEGISLATION 327.276**
 
 **BYE-LAWS FOR THE DIPLOMA IN RELIGIOUS**

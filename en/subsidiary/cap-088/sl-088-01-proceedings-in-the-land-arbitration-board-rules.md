@@ -1,6 +1,6 @@
 ---
 title: "Proceedings in the Land Arbitration Board Rules"
-identifier: "S.L. 88.1"
+identifier: "S.L. 88.01"
 eli: "https://legislation.mt/eli/sl/88.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/88.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Proceedings in the Land Arbitration Board Rules (S.L. 88.1)
+# Proceedings in the Land Arbitration Board Rules (S.L. 88.01)
 
 **SUBSIDIARY LEGISLATION 88.01**
 

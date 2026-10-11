@@ -1,6 +1,6 @@
 ---
 title: "Chief Executive Officer (Duties and Conditions of Appointment) Regulations"
-identifier: "S.L. 164.3"
+identifier: "S.L. 164.03"
 eli: "https://legislation.mt/eli/sl/164.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,13 +15,9 @@ version: "https://legislation.mt/eli/sl/164.3/20210803/eng"
 retrieved: 2026-10-12
 ---
 
-# Chief Executive Officer (Duties and Conditions of Appointment) Regulations (S.L. 164.3)
+# Chief Executive Officer (Duties and Conditions of Appointment) Regulations (S.L. 164.03)
 
-CHIEF EXECUTIVE OFFICER (DUTIES AND
-
-*1*
-
-CONDITIONS OF APPOINTMENT) REGULATIONS [S.L. 164.03 SUBSIDIARY LEGISLATION 164.03
+SUBSIDIARY LEGISLATION 164.03
 
 CHIEF EXECUTIVE OFFICER
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (The Kingdom of Saudi Arabia) Order. (S.L. 123.138)
 
-*1*
-
-(THE KINGDOM OF SAUDI ARABIA) [S.L.123.138
-
 **SUBSIDIARY LEGISLATION 123.138**
 
 DOUBLE TAXATION RELIEF (TAXES ON INCOME) (THE KINGDOM OF SAUDI ARABIA) ORDER 15th January, 2013
@@ -42,8 +38,6 @@ It is hereby declared:
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Convention has entered into force on 1st December 2012.
-
-2 [S.L.123.138 (THE KINGDOM OF SAUDI ARABIA)
 
 ## SCHEDULE — CONVENTION BETWEEN — THE GOVERNMENT OF MALTA AND
 
@@ -99,9 +93,7 @@ The provisions of this Convention shall also apply to any identical or substanti
 
 \1. For the purposes of this Convention, unless the context otherwise requires:
 
-(a) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance (THE KINGDOM OF SAUDI ARABIA) [S.L.123.138 3
-
-with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
+(a) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
 
 (b) the term "Kingdom of Saudi Arabia" means the territory of the Kingdom of Saudi Arabia which also includes the area outside the territorial waters, where the Kingdom of Saudi Arabia exercises its sovereign and jurisdictional rights in their waters, sea bed, sub-soil and natural resources by virtue of its law and international law;
 
@@ -135,9 +127,7 @@ with international law and its national law, including its legislation relating 
 
 \1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax in that State by reason of his domicile, residence, place of incorporation, place of management or any other criterion of a similar nature, and also includes that State and any administrative subdivision or local authority thereof. This term, however, does not include any person who is liable to tax in that State in respect only of income from sources in that State.
 
-\2. Where by reason of the provisions of paragraph 1 of this Article, an 4 [S.L.123.138 (THE KINGDOM OF SAUDI ARABIA)
-
-individual is a resident of both Contracting States, then his status shall be determined as follows:
+\2. Where by reason of the provisions of paragraph 1 of this Article, an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
 (a) he shall be deemed to be a resident only of the Contracting State in which he has a permanent home available to him; if he has a permanent home available to him in both Contracting States, he shall be deemed to be a resident only of the Contracting State with which his personal and economic relations are closer (centre of vital interests);
 
@@ -179,8 +169,6 @@ individual is a resident of both Contracting States, then his status shall be de
 
 Notwithstanding the preceding provisions of this Article, the term "permanent establishment" shall be deemed not to include:
 
-(THE KINGDOM OF SAUDI ARABIA) [S.L.123.138 5
-
 (a) the use of facilities solely for the purpose of storage, display or delivery of goods or merchandise belonging to the enterprise;
 
 (b) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of storage, display or delivery;
@@ -213,9 +201,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \1. Income derived by a resident of a Contracting State from immovable property (including income from agriculture or forestry) situated in the other Contracting State may be taxed in that other Contracting State.
 
-\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. This term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and 6 [S.L.123.138 (THE KINGDOM OF SAUDI ARABIA)
-
-rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources. Ships, boats and aircraft shall not be regarded as immovable property.
+\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. This term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources. Ships, boats and aircraft shall not be regarded as immovable property.
 
 \3. The provisions of paragraph 1 of this Article shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
@@ -233,9 +219,7 @@ rights to variable or fixed payments as consideration for the working of, or the
 
 \4. Insofar as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph 2 shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary; the method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles contained in this Article.
 
-\5. No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the (THE KINGDOM OF SAUDI ARABIA) [S.L.123.138 7
-
-enterprise.
+\5. No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
 
 \6. For the purposes of the preceding paragraphs, the profits to be attributed to the permanent establishment shall be determined by the same method year by year unless there is good and sufficient reason to the contrary.
 
@@ -277,9 +261,7 @@ Where profits include items of income which are dealt with separately in other A
 
 and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
 
-\2. Where a Contracting State includes in the profits of an enterprise of that 8 [S.L.123.138 (THE KINGDOM OF SAUDI ARABIA)
-
-State - and taxes accordingly - profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Convention and the competent authorities of the Contracting States shall if necessary consult each other.
+\2. Where a Contracting State includes in the profits of an enterprise of that State - and taxes accordingly - profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Convention and the competent authorities of the Contracting States shall if necessary consult each other.
 
 **Article 10**
 
@@ -299,9 +281,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \4. The provisions of paragraphs 1 and 2 of this Article shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14 of this Convention, as the case may be, shall apply.
 
-\5. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base (THE KINGDOM OF SAUDI ARABIA) [S.L.123.138 9
-
-situated in that other State, nor subject the company's undistributed profits to a tax on the company's undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
+\5. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company's undistributed profits to a tax on the company's undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
 
 **Article 11**
 
@@ -327,9 +307,7 @@ situated in that other State, nor subject the company's undistributed profits to
 
 (b) 7 per cent of the gross amount of the royalties in all other cases.
 
-\3. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including cinematograph films, or films or tapes used for radio or television broadcasting, any patent, trade mark, design or model, plan, secret formula or process, or for the use of, or the right to use, industrial, 10 [S.L.123.138 (THE KINGDOM OF SAUDI ARABIA)
-
-commercial, or scientific equipment, or for information concerning industrial, commercial or scientific experience.
+\3. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including cinematograph films, or films or tapes used for radio or television broadcasting, any patent, trade mark, design or model, plan, secret formula or process, or for the use of, or the right to use, industrial, commercial, or scientific equipment, or for information concerning industrial, commercial or scientific experience.
 
 \4. The provisions of paragraphs 1 and 2 of this Article shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14 of this Convention, as the case may be, shall apply.
 
@@ -351,9 +329,7 @@ commercial, or scientific equipment, or for information concerning industrial, c
 
 \5. Gains from the alienation of shares other than those mentioned in paragraph 4 of this Article representing a participation of 20 per cent or more in a company which is a resident of a Contracting State may be taxed in that Contracting State.
 
-\6. Gains from the alienation of any property, other than that referred to in the (THE KINGDOM OF SAUDI ARABIA) [S.L.123.138 11
-
-preceding paragraphs shall be taxable only in the Contracting State of which the alienator is a resident.
+\6. Gains from the alienation of any property, other than that referred to in the preceding paragraphs shall be taxable only in the Contracting State of which the alienator is a resident.
 
 **Article 14**
 
@@ -387,9 +363,7 @@ preceding paragraphs shall be taxable only in the Contracting State of which the
 
 **DIRECTORS’ FEES**
 
-Directors’ fees and other similar payments derived by a resident of a Contracting State in his capacity as a member of the board of directors of a company which is a 12 [S.L.123.138 (THE KINGDOM OF SAUDI ARABIA)
-
-resident of the other Contracting State may be taxed in that other Contracting State.
+Directors’ fees and other similar payments derived by a resident of a Contracting State in his capacity as a member of the board of directors of a company which is a resident of the other Contracting State may be taxed in that other Contracting State.
 
 **Article 17**
 
@@ -421,9 +395,7 @@ resident of the other Contracting State may be taxed in that other Contracting S
 
 (ii) did not become a resident of that Contracting State solely for the purpose of rendering the services.
 
-\2. (a) Any pensions and other similar remuneration paid by, or out of funds created by, a Contracting State or an administrative subdivision or a local authority thereof to an individual in respect of services rendered to that Contracting State or subdivision or authority shall be taxable only (THE KINGDOM OF SAUDI ARABIA) [S.L.123.138 13
-
-in that Contracting State.
+\2. (a) Any pensions and other similar remuneration paid by, or out of funds created by, a Contracting State or an administrative subdivision or a local authority thereof to an individual in respect of services rendered to that Contracting State or subdivision or authority shall be taxable only in that Contracting State.
 
 (b) However, such pensions and similar remuneration shall be taxable only in the other Contracting State if the individual is a resident of, and a national of, that other Contracting State.
 
@@ -450,8 +422,6 @@ An individual who is a resident of a Contracting State immediately before making
 \1. Items of income of a resident of a Contracting State, wherever arising, not dealt with in the foregoing Articles of this Convention shall be taxable only in that State.
 
 \2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6 of this Convention, if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case, the provisions of Article 7 or Article 14 of this Convention, as the case may be, shall apply.
-
-14 [S.L.123.138 (THE KINGDOM OF SAUDI ARABIA)
 
 **Article 23**
 
@@ -482,8 +452,6 @@ Such credit shall not, however, exceed that part of the income tax, as computed 
 **EXCHANGE OF INFORMATION**
 
 \1. The competent authorities of the Contracting States shall exchange such information as is necessary for carrying out the provisions of this Convention or of the domestic laws of the Contracting States concerning taxes covered by this Convention insofar as the taxation thereunder is not contrary to the Convention. The exchange of information is not restricted by Article 1 of this Convention.
-
-(THE KINGDOM OF SAUDI ARABIA) [S.L.123.138 15
 
 \2. Any information received under paragraph 1 by a Contracting State shall be treated as confidential in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to the taxes covered by this Convention. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
 
@@ -516,8 +484,6 @@ Nothing in this Convention shall affect the application of the domestic provisio
 **ENTRY INTO FORCE**
 
 \1. Each of the Contracting States shall notify the other through diplomatic channels the completion of the procedures required by its law for the entry into force of this Convention. The Convention shall enter into force on the first day of the second month following the month in which the latter of these notifications was received.
-
-16 [S.L.123.138 (THE KINGDOM OF SAUDI ARABIA)
 
 \2. The provisions of this Convention shall apply:
 
@@ -555,9 +521,7 @@ At the moment of the signing the Convention between the Government of Malta and 
 
 (a) a pension scheme established in that State; and
 
-(b) an organisation that is established and is operated exclusively for (THE KINGDOM OF SAUDI ARABIA) [S.L.123.138 17
-
-religious, charitable, scientific, cultural or educational purposes (or for more than one of those purposes) and that is a resident of that State according to its laws, notwithstanding that all or part of its income or gains may be not subject or exempt from tax in that State.
+(b) an organisation that is established and is operated exclusively for religious, charitable, scientific, cultural or educational purposes (or for more than one of those purposes) and that is a resident of that State according to its laws, notwithstanding that all or part of its income or gains may be not subject or exempt from tax in that State.
 
 \2. With reference to Article 7 (Business Profits) it is understood that:
 

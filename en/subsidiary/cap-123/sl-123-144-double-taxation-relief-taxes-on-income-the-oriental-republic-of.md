@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (The Oriental Republic of Uruguay) Order (S.L. 123.144)
 
-*1*
-
-(THE ORIENTAL REPUBLIC OF URUGUAY) [S.L.123.144
-
 **SUBSIDIARY LEGISLATION 123.144**
 
 DOUBLE TAXATION RELIEF (TAXES ON INCOME) (THE ORIENTAL REPUBLIC OF URUGUAY)
@@ -50,8 +46,6 @@ It is hereby declared:
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Convention has entered into force on the 13 December 2012.
-
-2 [S.L.123.144 (THE ORIENTAL REPUBLIC OF URUGUAY)
 
 ## SCHEDULE
 
@@ -117,8 +111,6 @@ b) in Uruguay:
 
 (iv) the tax for social security assistance (Impuesto de Asistencia a la Seguridad Social -IASS-); and
 
-(THE ORIENTAL REPUBLIC OF URUGUAY) [S.L.123.144 3
-
 (v) the capital tax (Impuesto al Patrimonio -IP-);
 
 (hereinafter referred to as "Uruguayan tax").
@@ -161,8 +153,6 @@ i) the term "competent authority" means:
 
 j) the term "national", in relation to a Contracting State, means:
 
-4 [S.L.123.144 (THE ORIENTAL REPUBLIC OF URUGUAY)
-
 (i) any individual possessing the nationality or citizenship of that Contracting State; and
 
 (ii) any legal person, partnership or association deriving its status as such from the laws in force in that Contracting State;
@@ -198,8 +188,6 @@ Where by reason of the provisions of paragraph 1 a person other than an individu
 \2. The term "permanent establishment" includes especially:
 
 a) a place of management;
-
-(THE ORIENTAL REPUBLIC OF URUGUAY) [S.L.123.144 5
 
 b) a branch;
 
@@ -243,9 +231,7 @@ An enterprise shall not be deemed to have a permanent establishment in a Contrac
 
 ### 7.
 
-The fact that a company which is a resident of a Contracting State controls 6 [S.L.123.144 (THE ORIENTAL REPUBLIC OF URUGUAY)
-
-or is controlled by a company which is a resident of the other Contracting State, or which carries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself constitute either company a permanent establishment of the other.
+The fact that a company which is a resident of a Contracting State controls or is controlled by a company which is a resident of the other Contracting State, or which carries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself constitute either company a permanent establishment of the other.
 
 ## CHAPTER III — TAXATION OF INCOME — Article 6
 
@@ -271,9 +257,7 @@ or is controlled by a company which is a resident of the other Contracting State
 
 \4. No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
 
-\5. For the purposes of the preceding paragraphs, the profits to be attributed to the permanent establishment shall be determined by the same method year by year (THE ORIENTAL REPUBLIC OF URUGUAY) [S.L.123.144 7
-
-unless there is good and sufficient reason to the contrary.
+\5. For the purposes of the preceding paragraphs, the profits to be attributed to the permanent establishment shall be determined by the same method year by year unless there is good and sufficient reason to the contrary.
 
 \6. Where profits include items of income which are dealt with separately in other Articles of this Convention, then the provisions of those Articles shall not be affected by the provisions of this Article.
 
@@ -309,8 +293,6 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \1. Dividends paid by a company which is a resident of a Contracting State to a resident of the other Contracting State may be taxed in that other State.
 
-8 [S.L.123.144 (THE ORIENTAL REPUBLIC OF URUGUAY)
-
 \2. However, such dividends may also be taxed in the Contracting State of which the company paying the dividends is a resident and according to the laws of that State, but:
 
 a) where the dividends are paid by a company which is a resident of Uruguay to a resident of Malta who is the beneficial owner thereof, the tax so charged in Uruguay shall not exceed:
@@ -335,9 +317,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \1. Interest arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other State.
 
-\2. However, such interest may also be taxed in the Contracting State in which it arises and according to the laws of that State, but if the beneficial owner of the interest is a resident of the other Contracting State, the tax so charged shall not exceed 10 per cent of the gross amount of the interest. The competent authorities of (THE ORIENTAL REPUBLIC OF URUGUAY) [S.L.123.144 9
-
-the Contracting States shall by mutual agreement settle the mode of application of this limitation.
+\2. However, such interest may also be taxed in the Contracting State in which it arises and according to the laws of that State, but if the beneficial owner of the interest is a resident of the other Contracting State, the tax so charged shall not exceed 10 per cent of the gross amount of the interest. The competent authorities of the Contracting States shall by mutual agreement settle the mode of application of this limitation.
 
 \3. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor's profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
@@ -362,8 +342,6 @@ a) 5 per cent of the gross amount of the royalties for the use of, or the right 
 The competent authorities of the Contracting States shall by mutual agreement settle the mode of application of this limitation.
 
 \3. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including cinematograph films and films or tapes for television or radio broadcasting, any patent, trade mark, design or model, plan, secret formula or process, or for the use of, or the right to use, industrial, commercial or scientific equipment, or for information concerning industrial, commercial or scientific experience.
-
-10 [S.L.123.144 (THE ORIENTAL REPUBLIC OF URUGUAY)
 
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise through a permanent establishment situated therein and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
@@ -390,8 +368,6 @@ The competent authorities of the Contracting States shall by mutual agreement se
 **INCOME FROM EMPLOYMENT**
 
 \1. Subject to the provisions of Articles 15, 17 and 18 salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
-
-(THE ORIENTAL REPUBLIC OF URUGUAY) [S.L.123.144 11
 
 \2. Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in the other Contracting State shall be taxable only in the first-mentioned State if:
 
@@ -433,9 +409,7 @@ b) However, such salaries, wages and other similar remuneration shall be taxable
 
 (i) is a national of that State; or
 
-(ii) did not become a resident of that State solely for the purpose of 12 [S.L.123.144 (THE ORIENTAL REPUBLIC OF URUGUAY)
-
-rendering the services.
+(ii) did not become a resident of that State solely for the purpose of rendering the services.
 
 \2. a) Notwithstanding the provisions of paragraph 1, pensions and other similar remuneration paid by, or out of funds created by, a Contracting State or a political subdivision or a local authority thereof to an individual in respect of services rendered to that State or subdivision or authority shall be taxable only in that State.
 
@@ -467,9 +441,7 @@ Payments which a student or business apprentice who is or was immediately before
 
 \3. Capital represented by ships and aircraft operated in international traffic and by movable property pertaining to the operation of such ships and aircraft, shall be taxable only in the Contracting State of the enterprise.
 
-\4. All other elements of capital of a resident of a Contracting State shall be (THE ORIENTAL REPUBLIC OF URUGUAY) [S.L.123.144 13
-
-taxable only in that State.
+\4. All other elements of capital of a resident of a Contracting State shall be taxable only in that State.
 
 ## CHAPTER V — METHODS FOR ELIMINATION OF DOUBLE TAXATION — Article 22
 
@@ -493,8 +465,6 @@ b) where, in accordance with any provision of the Convention, income derived or 
 
 \2. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
 
-14 [S.L.123.144 (THE ORIENTAL REPUBLIC OF URUGUAY)
-
 \3. Except where the provisions of paragraph 1 of Article 9, paragraph 6 of Article 11, or paragraph 6 of Article 12, apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State. Similarly, any debts of an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable capital of such enterprise, be deductible under the same conditions as if they had been contracted to a resident of the first-mentioned State.
 
 \4. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
@@ -517,9 +487,7 @@ b) where, in accordance with any provision of the Convention, income derived or 
 
 **EXCHANGE OF INFORMATION**
 
-\1. The competent authorities of the Contracting States shall exchange such information as is foreseeably relevant for carrying out the provisions of this Convention or to the administration or enforcement of the domestic laws concerning taxes of every kind and description imposed on behalf of the Contracting States, or of their political subdivisions or local authorities, insofar as the taxation thereunder is not contrary to the Convention. The exchange of information is not restricted by (THE ORIENTAL REPUBLIC OF URUGUAY) [S.L.123.144 15
-
-Articles 1 and 2.
+\1. The competent authorities of the Contracting States shall exchange such information as is foreseeably relevant for carrying out the provisions of this Convention or to the administration or enforcement of the domestic laws concerning taxes of every kind and description imposed on behalf of the Contracting States, or of their political subdivisions or local authorities, insofar as the taxation thereunder is not contrary to the Convention. The exchange of information is not restricted by Articles 1 and 2.
 
 \2. Any information received under paragraph 1 by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to the taxes referred to in paragraph 1, or the oversight of the above. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
 
@@ -549,9 +517,7 @@ Nothing in this Convention shall affect the fiscal privileges of members of dipl
 
 \2. The Convention shall enter into force on the fifteenth day after the date of the later of the notifications referred to in paragraph 1 and its provisions shall have effect:
 
-a) in respect of taxes due at source, for amounts credited or paid on or after 16 [S.L.123.144 (THE ORIENTAL REPUBLIC OF URUGUAY)
-
-the first day of January in the first calendar year following that in which this Convention enters into force; and
+a) in respect of taxes due at source, for amounts credited or paid on or after the first day of January in the first calendar year following that in which this Convention enters into force; and
 
 b) in respect of other taxes, for the taxable periods beginning on or after the first day of January in the first calendar year following that in which this Convention enters into force.
 
@@ -587,9 +553,7 @@ At the moment of signing the Convention between Malta and the Oriental Republic 
 
 Notwithstanding any other provision of the Convention:
 
-a) where a partnership which is established in a Contracting State receives income arising in the other Contracting State and the first-mentioned (THE ORIENTAL REPUBLIC OF URUGUAY) [S.L.123.144 17
-
-State does not subject the partnership as such to tax but subjects the partners to tax on their share in the partnership’s income, such partnership shall be treated as a company which is a resident of that Contracting State;
+a) where a partnership which is established in a Contracting State receives income arising in the other Contracting State and the first-mentioned State does not subject the partnership as such to tax but subjects the partners to tax on their share in the partnership’s income, such partnership shall be treated as a company which is a resident of that Contracting State;
 
 b) a collective investment scheme which is established in a Contracting State shall be considered to be a resident of that Contracting State. A collective investment scheme means a scheme or arrangement that is recognised under the legislation of a Contracting State regulating funds; c) the entities included in Article 7 of Title 7 Texto Ordenado 1996 under the law of Uruguay shall be considered to be a resident of Uruguay. 2. Ad Article 10, paragraph 2:
 

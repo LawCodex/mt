@@ -17,9 +17,7 @@ retrieved: 2026-10-12
 
 # Marketing of Agricultural Produce and Agricultural Marketing Centres Regulations (S.L. 117.43)
 
-*1*
-
-AGRICULTURAL MARKETING CENTRES [S.L. 117.43 SUBSIDIARY LEGISLATION 117.43
+**SUBSIDIARY LEGISLATION 117.43**
 
 MARKETING OF AGRICULTURAL PRODUCE AND
 
@@ -62,10 +60,6 @@ corporate or unincorporate, or an association;
 "place of business" means any shop or other premises, truck or  
 \*These regulations have been repealed by Legal Notice 80 of 2025.
 
-*2*
-
-[S.L. 117.43 AGRICULTURAL MARKETING CENTRES
-
 other vehicle, and any other place or device in or from which sales of agricultural produce is effected;
 
 "purchase" means the acquisition, by any onerous title, of any local agricultural produce;
@@ -96,9 +90,7 @@ The Agency may, in writing, authorise any public officer or public service emplo
 
 ## PART II
 
-*3*
-
-AGRICULTURAL MARKETING CENTRES [S.L. 117.43 Agricultural Marketing Centres: Administration, Commercial Activity and Restrictions
+Agricultural Marketing Centres: Administration, Commercial Activity and Restrictions
 
 ### 5. Establishment of agricultural marketing centres.
 
@@ -136,11 +128,7 @@ No farmer shall deliver for sale in the marketing centre, local agricultural pro
 
 (a) which standardised containers have been approved for use in the marketing centre;
 
-(b) which local agricultural produce entering or [S.L. 117.43 AGRICULTURAL MARKETING CENTRES
-
-leaving the marketing centre shall be carried in the said standardised containers;
-
-*4*
+(b) which local agricultural produce entering or leaving the marketing centre shall be carried in the said standardised containers;
 
 (c) the weights and measures to be used; and
 
@@ -186,11 +174,9 @@ In this Part:
 
 (c) fixing maximum percentages of profit.
 
-*5*
-
-AGRICULTURAL MARKETING CENTRES [S.L. 117.43 (3) Any trader shall, if so required by the Director or by any member of the Executive Police or by any person appointed under article 4 of the Supplies and Services Act, or by any member of a body of persons so appointed, produce on demand for examination any book and document in his possession and to furnish him with all such information in such form and within such time as may be specified in the request.
-
 *   Cap. 117.*
+
+(3) Any trader shall, if so required by the Director or by any member of the Executive Police or by any person appointed under article 4 of the Supplies and Services Act, or by any member of a body of persons so appointed, produce on demand for examination any book and document in his possession and to furnish him with all such information in such form and within such time as may be specified in the request.
 
 (4) The Director may, in respect of any agricultural produce, impose any such condition as he may deem fit with regards to its sale, prohibition of sale or limitation of sale.
 
@@ -220,11 +206,7 @@ No trader shall purchase any agricultural produce from any unknown person.
 
 ### 21. Prohibition of refusal to sell without reasonable cause.
 
-No trader selling agricultural produce by wholesale shall, without reasonable cause, refuse to sell in reasonable quantities, to any person trading by retail any agricultural produce required in connection with his business, and no person trading in retail shall without reasonable cause refuse to sell to any consumer any agricultural produce in quantities reasonably required for the normal [S.L. 117.43 AGRICULTURAL MARKETING CENTRES
-
-use and consumption of the consumer or his household or his establishment:
-
-*6*
+No trader selling agricultural produce by wholesale shall, without reasonable cause, refuse to sell in reasonable quantities, to any person trading by retail any agricultural produce required in connection with his business, and no person trading in retail shall without reasonable cause refuse to sell to any consumer any agricultural produce in quantities reasonably required for the normal use and consumption of the consumer or his household or his establishment:
 
 Provided that nothing in this regulation shall prevent any consumer from making direct purchases from a trader selling by wholesale.
 
@@ -256,11 +238,9 @@ Provided that when the fine (multa) is so calculated, it may not exceed five tim
 
 (2) In addition to the penalties laid down in sub-regulation (1), the court shall on the demand of the prosecution, order:
 
-(a) the suspension of the offender’s permit, pass, or licence, for a period of not less than one (1) month but not AGRICULTURAL MARKETING CENTRES [S.L. 117.43 exceeding six (6) months, or the cancellation of any licence held by the offender and relating to any trade or business to which the offence relates, and shall order that any such cancelled licence may not be re-issued in respect of the convicted offender;
+(a) the suspension of the offender’s permit, pass, or licence, for a period of not less than one (1) month but not exceeding six (6) months, or the cancellation of any licence held by the offender and relating to any trade or business to which the offence relates, and shall order that any such cancelled licence may not be re-issued in respect of the convicted offender;
 
 (b) the forfeiture of the articles to which the offence relates, and such articles shall be forfeited to the Government;
-
-*7*
 
 (c) the offender to a sentence of imprisonment for a term of not less than thirty (30) days but not exceeding two (2) years.
 
@@ -286,11 +266,7 @@ The provisions of the Probation Act shall not be applicable in respect of any of
 
 The court, by which a person is found guilty of selling agricultural produce at an unreasonable price or at a price higher than the maximum price of such agricultural produce, may order the offender to refund to the person to whom such agricultural produce was sold either the overcharged portion of the price or such amount as was in excess of the maximum price fixed by the Director:
 
-Provided that the refund shall be given within one (1) [S.L. 117.43 AGRICULTURAL MARKETING CENTRES
-
-month from the court’s order;
-
-*8*
+Provided that the refund shall be given within one (1) month from the court’s order;
 
 Provided further that a daily penalty of not less than four euro and sixty-six cents (€4.66) shall be incurred for each day of default from the court’s order:
 

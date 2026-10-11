@@ -17,13 +17,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of International Joint Master of Science in Strategic Innovation and Future Creation under the auspices of the Edward de Bono Institute for the Design and Development of Thinking (S.L. 327.351)
 
-STRATEGIC INNOVATION AND FUTURE CREATION UNDER THE
-
-AUSPICES OF THE EDWARD DE BONO INSTITUTE FOR THE
-
-*1*
-
-DESIGN AND DEVELOPMENT OF THINKING [S.L.327.351 SUBSIDIARY LEGISLATION 327.351
+**SUBSIDIARY LEGISLATION 327.351**
 
 **BYE-LAWS FOR THE DEGREE OF**
 
@@ -75,13 +69,9 @@ These bye-laws shall apply for courses commencing in October 2014 or later.
 
 \*These bye-laws have been repealed by Legal Notice 185 of 2022.
 
-STRATEGIC INNOVATION AND FUTURE CREATION UNDER THE AUSPICES OF THE EDWARD DE BONO INSTITUTE FOR THE [S.L.327.351 DESIGN AND DEVELOPMENT OF THINKING
+*Requirements for admission. Substituted by: L.N. 232 of 2014.*
 
-## 3. 2 Requirements for admission.
-
-*Substituted by: L.N. 232 of 2014.*
-
-To be admitted to the course, applicants shall be in possession of a Bachelor degree from this University, or an equivalent qualification obtained from any other recognized university, together with at least one year of work experience.
+possession of a Bachelor degree from this University, or an equivalent qualification obtained from any other recognized university, together with at least one year of work experience.
 
 ## 4. Course duration.
 
@@ -123,13 +113,7 @@ Students shall be allowed to proceed to the dissertation study-unit subject to s
 
 (1) Students shall be required to submit an individual dissertation of between 25,000 - 30,000 words on a topic related to creativity, innovation management, foresight and/or entrepreneurship. The dissertation must satisfy the Board of Examiners as regards content and presentation.
 
-(2) Work on the dissertation shall be undertaken during the STRATEGIC INNOVATION AND FUTURE CREATION UNDER THE
-
-AUSPICES OF THE EDWARD DE BONO INSTITUTE FOR THE
-
-*3*
-
-DESIGN AND DEVELOPMENT OF THINKING [S.L.327.351 third semester of the course. Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
+(2) Work on the dissertation shall be undertaken during the third semester of the course. Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
 
 (3) A provisional title for the dissertation and an outline for a basic research proposal shall be submitted to the Board for approval by the end of the second semester.
 
@@ -166,7 +150,3 @@ DESIGN AND DEVELOPMENT OF THINKING [S.L.327.351 third semester of the course. Ea
 ## 12. Special provisions for part-time courses.
 
 The provisions of the foregoing bye-laws shall apply mutatis mutandis to courses followed on a part-time basis, and subject to such changes as may reasonably be deemed by the Board as necessary due to the part-time nature of the course.
-
-STRATEGIC INNOVATION AND FUTURE CREATION UNDER THE AUSPICES OF THE EDWARD DE BONO INSTITUTE FOR THE [S.L.327.351 DESIGN AND DEVELOPMENT OF THINKING
-
-*4*

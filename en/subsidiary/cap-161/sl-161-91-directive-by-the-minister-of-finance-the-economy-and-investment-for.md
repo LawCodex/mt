@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister of Finance, the Economy and Investment for the issue of Euro 1,318,800 7% Malta Government Stock (S.L. 161.91)
 
-*1*
-
-7% MALTA GOVERNMENT STOCK [S.L.161.91
-
 **SUBSIDIARY LEGISLATION 161.91**
 
 DIRECTIVE BY THE MINISTER OF FINANCE,
@@ -52,10 +48,6 @@ The Stock which is negotiable and free of duty on documents shall be issued at t
 ## 4. Trading on the Malta Stock Exchange. Cap. 345.
 
 An application for the Stock to be put on the official list for trading on the Malta Stock Exchange will be made in terms of the Financial Markets Act. Such Stock may be freely sold to the public with the prior authorization of the Maltese Episcopal Conference. Such Stock may however be traded between Ecclesiastical Entities outside the Malta Stock Exchange, does not require such authorization, and shall be exempt from duty on documents.
-
-*2*
-
-[S.L.161.91 7% MALTA GOVERNMENT STOCK
 
 ## 5. Charge on Government revenue and assets.
 

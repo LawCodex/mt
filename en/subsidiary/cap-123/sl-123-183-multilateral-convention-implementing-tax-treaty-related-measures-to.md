@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Multilateral Convention (Implementing Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting) Order (S.L. 123.183)
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*1*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
 **SUBSIDIARY LEGISLATION 123.183**
 
 MULTILATERAL CONVENTION (IMPLEMENTING TAX TREATY RELATED MEASURES TO PREVENT BASE EROSION AND PROFIT SHIFTING)ORDER 27th April, 2018 LEGAL NOTICE 142 of 2018.
@@ -42,12 +36,6 @@ It is hereby declared:
 (d) that the Convention shall enter into force in accordance with Article 34 of the Multilateral Convention as set out in the Schedule to this Order;
 
 (e) that the date of entry into force of the Convention in Malta shall be announced by notice in the Gazette.
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*2*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
 
 ## SCHEDULE 1
 
@@ -75,13 +63,11 @@ Recognising the need for an effective mechanism to implement agreed changes in a
 
 Have agreed as follows:
 
-TREATY RELATED MEASURES TO PREVENT BASE
+PART I
 
-*3*
+SCOPE AND INTERPRETATION OF TERMS
 
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-## PART I — SCOPE AND INTERPRETATION OF TERMS — Article 1 - Scope of the Convention
+Article 1 - Scope of the Convention
 
 This Convention modifies all Covered Tax Agreements as defined in subparagraph a) of paragraph 1 of Article 2 (Interpretation of Terms).
 
@@ -95,7 +81,7 @@ a) The term "Covered Tax Agreement" means an agreement for the avoidance of doub
 
 i) that is in force between two or more:
 
-A) Parties; and, or
+**A) Parties; and, or**
 
 B) jurisdictions or territories which are parties to an agreement described above and for whose international relations a Party is responsible; and
 
@@ -108,12 +94,6 @@ i) A State for which this Convention is in force pursuant to Article 34 (Entry i
 ii) A jurisdiction which has signed this Convention pursuant to subparagraph b) or c) of paragraph 1 of Article 27 (Signature and Ratification, Acceptance or Approval) and for which this Convention is in force pursuant to Article 34 (Entry into Force).
 
 c) The term "Contracting Jurisdiction" means a party to a Covered Tax Agreement.
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*4*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
 
 d) The term "Signatory" means a State or jurisdiction which has signed this Convention but for which the Convention is not yet in force.
 
@@ -135,13 +115,7 @@ With respect to Covered Tax Agreements for which one or more Parties has made th
 
 ### 4.
 
-Paragraph 1 (as it may be modified by paragraph 3) shall apply in place of or in the absence of provisions of a Covered Tax Agreement to the extent that they address whether income derived by or through entities or arrangements that are treated as fiscally transparent under the tax law of either Contracting Jurisdiction (whether through a general rule or by identifying in detail the treatment of specific fact patterns and types of entities or arrangements) shall be treated as income of a resident of a Contracting TREATY RELATED MEASURES TO PREVENT BASE
-
-*5*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-Jurisdiction.
+Paragraph 1 (as it may be modified by paragraph 3) shall apply in place of or in the absence of provisions of a Covered Tax Agreement to the extent that they address whether income derived by or through entities or arrangements that are treated as fiscally transparent under the tax law of either Contracting Jurisdiction (whether through a general rule or by identifying in detail the treatment of specific fact patterns and types of entities or arrangements) shall be treated as income of a resident of a Contracting Jurisdiction.
 
 ### 5.
 
@@ -163,13 +137,7 @@ g) for paragraph 1 to apply only to its Covered Tax Agreements that already cont
 
 ### 6.
 
-Each Party that has not made a reservation described in subparagraph a) or b) of paragraph 5 shall notify the Depositary of whether each of its Covered Tax Agreements contains a provision described in paragraph 4 that is not subject to a reservation under subparagraphs c) through e) of paragraph 5, and if so, the article and paragraph number of each such provision. In the case of a Party that has made the reservation described in subparagraph g) of paragraph 5, the notification pursuant to the preceding sentence shall be limited to Covered Tax Agreements that are subject to that reservation. Where all Contracting Jurisdictions have made such a notification with respect to a provision of a Covered Tax Agreement, that provision shall be replaced by the provisions of paragraph 1 (as it TREATY RELATED MEASURES TO PREVENT BASE
-
-*6*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
-may be modified by paragraph 3) to the extent provided in paragraph 4. In other cases, paragraph 1 (as it may be modified by paragraph 3) shall supersede the provisions of the Covered Tax Agreement only to the extent that those provisions are incompatible with paragraph 1 (as it may be modified by paragraph 3).
+Each Party that has not made a reservation described in subparagraph a) or b) of paragraph 5 shall notify the Depositary of whether each of its Covered Tax Agreements contains a provision described in paragraph 4 that is not subject to a reservation under subparagraphs c) through e) of paragraph 5, and if so, the article and paragraph number of each such provision. In the case of a Party that has made the reservation described in subparagraph g) of paragraph 5, the notification pursuant to the preceding sentence shall be limited to Covered Tax Agreements that are subject to that reservation. Where all Contracting Jurisdictions have made such a notification with respect to a provision of a Covered Tax Agreement, that provision shall be replaced by the provisions of paragraph 1 (as it may be modified by paragraph 3) to the extent provided in paragraph 4. In other cases, paragraph 1 (as it may be modified by paragraph 3) shall supersede the provisions of the Covered Tax Agreement only to the extent that those provisions are incompatible with paragraph 1 (as it may be modified by paragraph 3).
 
 Article 4 - Dual Resident Entities
 
@@ -183,13 +151,7 @@ a) for the entirety of this Article not to apply to its Covered Tax Agreements;
 
 b) for the entirety of this Article not to apply to its Covered Tax Agreements that already address cases where a person other than an individual is a resident of more than one Contracting Jurisdiction by requiring the competent authorities of the Contracting Jurisdictions to endeavour to reach mutual agreement on a single Contracting Jurisdiction of residence;
 
-c) for the entirety of this Article not to apply to its Covered Tax Agreements that already address cases where a person other than an individual is a resident of more than one Contracting Jurisdiction by denying treaty benefits without requiring the competent authorities of the Contracting TREATY RELATED MEASURES TO PREVENT BASE
-
-*7*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-Jurisdictions to endeavour to reach mutual agreement on a single Contracting Jurisdiction of residence;
+c) for the entirety of this Article not to apply to its Covered Tax Agreements that already address cases where a person other than an individual is a resident of more than one Contracting Jurisdiction by denying treaty benefits without requiring the competent authorities of the Contracting Jurisdictions to endeavour to reach mutual agreement on a single Contracting Jurisdiction of residence;
 
 d) for the entirety of this Article not to apply to its Covered Tax Agreements that already address cases where a person other than an individual is a resident of more than one Contracting Jurisdiction by requiring the competent authorities of the Contracting Jurisdictions to endeavour to reach mutual agreement on a single Contracting Jurisdiction of residence, and that set out the treatment of that person under the Covered Tax Agreement where such an agreement cannot be reached;
 
@@ -205,13 +167,7 @@ Article 5 - Application of Methods for Elimination of Double Taxation
 
 Option A
 
-\2. Provisions of a Covered Tax Agreement that would TREATY RELATED MEASURES TO PREVENT BASE
-
-*8*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
-otherwise exempt income derived or capital owned by a resident of a Contracting Jurisdiction from tax in that Contracting Jurisdiction for the purpose of eliminating double taxation shall not apply where the other Contracting Jurisdiction applies the provisions of the Covered Tax Agreement to exempt such income or capital from tax or to limit the rate at which such income or capital may be taxed. In the latter case, the first-mentioned Contracting Jurisdiction shall allow as a deduction from the tax on the income or capital of that resident an amount equal to the tax paid in that other Contracting Jurisdiction. Such deduction shall not, however, exceed that part of the tax, as computed before the deduction is given, which is attributable to such items of income or capital which may be taxed in that other Contracting Jurisdiction.
+\2. Provisions of a Covered Tax Agreement that would otherwise exempt income derived or capital owned by a resident of a Contracting Jurisdiction from tax in that Contracting Jurisdiction for the purpose of eliminating double taxation shall not apply where the other Contracting Jurisdiction applies the provisions of the Covered Tax Agreement to exempt such income or capital from tax or to limit the rate at which such income or capital may be taxed. In the latter case, the first-mentioned Contracting Jurisdiction shall allow as a deduction from the tax on the income or capital of that resident an amount equal to the tax paid in that other Contracting Jurisdiction. Such deduction shall not, however, exceed that part of the tax, as computed before the deduction is given, which is attributable to such items of income or capital which may be taxed in that other Contracting Jurisdiction.
 
 \3. Paragraph 2 shall apply to a Covered Tax Agreement that would otherwise require a Contracting Jurisdiction to exempt income or capital described in that paragraph.
 
@@ -224,12 +180,6 @@ Option B
 Option C
 
 \6. a) Where a resident of a Contracting Jurisdiction derives income or owns capital which may be taxed in the other Contracting Jurisdiction in accordance with the provisions of a Covered Tax Agreement (except to the extent that these provisions allow taxation by that other Contracting Jurisdiction solely because the income is also income derived by a resident of that other Contracting Jurisdiction), the first-mentioned Contracting Jurisdiction shall allow:
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*9*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
 
 i) as a deduction from the tax on the income of that resident, an amount equal to the income tax paid in that other Contracting Jurisdiction;
 
@@ -257,13 +207,7 @@ Each Party that chooses to apply an Option under paragraph 1 shall notify the De
 
 a) in the case of a Party that chooses to apply Option A, the list of its Covered Tax Agreements which contain a provision described in paragraph 3, as well as the article and paragraph number of each such provision;
 
-b) in the case of a Party that chooses to apply TREATY RELATED MEASURES TO PREVENT BASE
-
-*10*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
-Option B, the list of its Covered Tax Agreements which contain a provision described in paragraph 5, as well as the article and paragraph number of each such provision;
+b) in the case of a Party that chooses to apply Option B, the list of its Covered Tax Agreements which contain a provision described in paragraph 5, as well as the article and paragraph number of each such provision;
 
 c) in the case of a Party that chooses to apply Option C, the list of its Covered Tax Agreements which contain a provision described in paragraph 7, as well as the article and paragraph number of each such provision.
 
@@ -281,13 +225,7 @@ An Option shall apply with respect to a provision of a Covered Tax Agreement onl
 
 "Desiring to further develop their economic relationship and to enhance their co-operation in tax matters,".
 
-\4. A Party may reserve the right for paragraph 1 not to apply to its Covered Tax Agreements that already contain preamble language describing the intent of the Contracting Jurisdictions to eliminate double taxation without creating opportunities for non-taxation or reduced taxation, whether that language is limited to cases TREATY RELATED MEASURES TO PREVENT BASE
-
-*11*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-of tax evasion or avoidance (including through treaty-shopping arrangements aimed at obtaining reliefs provided in the Covered Tax Agreement for the indirect benefit of residents of third jurisdictions) or applies more broadly.
+\4. A Party may reserve the right for paragraph 1 not to apply to its Covered Tax Agreements that already contain preamble language describing the intent of the Contracting Jurisdictions to eliminate double taxation without creating opportunities for non-taxation or reduced taxation, whether that language is limited to cases of tax evasion or avoidance (including through treaty-shopping arrangements aimed at obtaining reliefs provided in the Covered Tax Agreement for the indirect benefit of residents of third jurisdictions) or applies more broadly.
 
 \5. Each Party shall notify the Depositary of whether each of its Covered Tax Agreements, other than those that are within the scope of a reservation under paragraph 4, contains preamble language described in paragraph 2, and if so, the text of the relevant preambular paragraph. Where all Contracting Jurisdictions have made such a notification with respect to that preamble language, such preamble language shall be replaced by the text described in paragraph 1. In other cases, the text described in paragraph 1 shall be included in addition to the existing preamble language.
 
@@ -295,28 +233,11 @@ of tax evasion or avoidance (including through treaty-shopping arrangements aime
 
 Article 7 - Prevention of Treaty Abuse
 
-\1. Notwithstanding any provisions of a Covered Tax Agreement, a benefit under the Covered Tax Agreement shall not be granted in respect of an item of income or capital if it is reasonable to conclude, having regard to all relevant facts and circumstances, that obtaining that benefit was one of the principal purposes of any
+\1. Notwithstanding any provisions of a Covered Tax Agreement, a benefit under the Covered Tax Agreement shall not be granted in respect of an item of income or capital if it is reasonable to conclude, having regard to all relevant facts and circumstances, that obtaining that benefit was one of the principal purposes of any arrangement or transaction that resulted directly or indirectly in that benefit, unless it is established that granting that benefit in these circumstances would be in accordance with the object and purpose of the relevant provisions of the Covered Tax Agreement.
 
-arrangement or transaction that resulted directly or indirectly in that  
-benefit, unless it is established that granting that benefit in these  
-circumstances would be in accordance with the object and purpose of  
-the relevant provisions of the Covered Tax Agreement.  
-\2.  Paragraph 1 shall apply in place of or in the absence of  
-provisions of a Covered Tax Agreement that deny all or part of the  
-benefits that would otherwise be provided under the Covered Tax  
-Agreement where the principal purpose or one of the principal  
-purposes of any arrangement or transaction, or of any person  
-concerned with an arrangement or transaction, was to obtain those  
-benefits.  
-\3.  A Party that has not made the reservation described in  
-subparagraph a) of paragraph 15 may also choose to apply paragraph  
-4 with respect to its Covered Tax Agreements.
+\2. Paragraph 1 shall apply in place of or in the absence of provisions of a Covered Tax Agreement that deny all or part of the benefits that would otherwise be provided under the Covered Tax Agreement where the principal purpose or one of the principal purposes of any arrangement or transaction, or of any person concerned with an arrangement or transaction, was to obtain those benefits.
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*12*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
+\3. A Party that has not made the reservation described in subparagraph a) of paragraph 15 may also choose to apply paragraph 4 with respect to its Covered Tax Agreements.
 
 \4. Where a benefit under a Covered Tax Agreement is denied to a person under provisions of the Covered Tax Agreement (as it may be modified by this Convention) that deny all or part of the benefits that would otherwise be provided under the Covered Tax Agreement where the principal purpose or one of the principal purposes of any arrangement or transaction, or of any person concerned with an arrangement or transaction, was to obtain those benefits, the competent authority of the Contracting Jurisdiction that would otherwise have granted this benefit shall nevertheless treat that person as being entitled to this benefit, or to different benefits with respect to a specific item of income or capital, if such competent authority, upon request from that person and after consideration of the relevant facts and circumstances, determines that such benefits would have been granted to that person in the absence of the transaction or arrangement. The competent authority of the Contracting Jurisdiction to which a request has been made under this paragraph by a resident of the other Contracting Jurisdiction shall consult with the competent authority of that other Contracting Jurisdiction before rejecting the request.
 
@@ -327,12 +248,6 @@ TREATY RELATED MEASURES TO PREVENT BASE
 \7. In cases where some but not all of the Contracting Jurisdictions to a Covered Tax Agreement choose to apply the Simplified Limitation on Benefits Provision pursuant to paragraph 6, then, notwithstanding the provisions of that paragraph, the Simplified Limitation on Benefits Provision shall apply with respect to the granting of benefits under the Covered Tax Agreement:
 
 a) by all Contracting Jurisdictions, if all of the Contracting Jurisdictions that do not choose pursuant to paragraph 6 to apply the Simplified Limitation on Benefits Provision agree to such application by choosing to apply this subparagraph and notifying the Depositary accordingly; or
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*13*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
 
 b) only by the Contracting Jurisdictions that choose to apply the Simplified Limitation on Benefits Provision, if all of the Contracting Jurisdictions that do not choose pursuant to paragraph 6 to apply the Simplified Limitation on Benefits Provision agree to such application by choosing to apply this subparagraph and notifying the Depositary accordingly.
 
@@ -354,12 +269,6 @@ a) an individual;
 
 b) that Contracting Jurisdiction, or a political subdivision or local authority thereof, or an agency or instrumentality of any such Contracting Jurisdiction, political subdivision or local authority;
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*14*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
 c) a company or other entity, if the principal class of its shares is regularly traded on one or more recognised stock exchanges;
 
 d) a person, other than an individual, that:
@@ -378,12 +287,6 @@ e) a person other than an individual, if, on at least half the days of a twelve-
 
 i) operating as a holding company;
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*15*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
 ii) providing overall supervision or administration of a group of companies;
 
 iii) providing group financing (including cash pooling); or
@@ -400,13 +303,7 @@ A resident of a Contracting Jurisdiction to a Covered Tax Agreement that is not 
 
 ### 12.
 
-If a resident of a Contracting Jurisdiction to a Covered Tax Agreement is neither a qualified person pursuant to the provisions of paragraph 9, nor entitled to benefits under paragraph 10 or 11, the competent authority of the other Contracting Jurisdiction may, nevertheless, grant the benefits of the Covered Tax Agreement, or benefits with respect to a specific item of income, taking into account the object and purpose of the Covered Tax Agreement, but only if such resident demonstrates to the satisfaction of such competent authority that neither its establishment, acquisition or maintenance, nor the conduct of its operations, had as one of its TREATY RELATED MEASURES TO PREVENT BASE
-
-*16*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
-principal purposes the obtaining of benefits under the Covered Tax Agreement. Before either granting or denying a request made under this paragraph by a resident of a Contracting Jurisdiction, the competent authority of the other Contracting Jurisdiction to which the request has been made shall consult with the competent authority of the first-mentioned Contracting Jurisdiction.
+If a resident of a Contracting Jurisdiction to a Covered Tax Agreement is neither a qualified person pursuant to the provisions of paragraph 9, nor entitled to benefits under paragraph 10 or 11, the competent authority of the other Contracting Jurisdiction may, nevertheless, grant the benefits of the Covered Tax Agreement, or benefits with respect to a specific item of income, taking into account the object and purpose of the Covered Tax Agreement, but only if such resident demonstrates to the satisfaction of such competent authority that neither its establishment, acquisition or maintenance, nor the conduct of its operations, had as one of its principal purposes the obtaining of benefits under the Covered Tax Agreement. Before either granting or denying a request made under this paragraph by a resident of a Contracting Jurisdiction, the competent authority of the other Contracting Jurisdiction to which the request has been made shall consult with the competent authority of the first-mentioned Contracting Jurisdiction.
 
 ### 13.
 
@@ -424,13 +321,7 @@ c) the term "equivalent beneficiary" means any person who would be entitled to b
 
 d) with respect to entities that are not companies, the term "shares" means interests that are comparable to shares;
 
-e) two persons shall be "connected persons" if one owns, directly or indirectly, at least 50 per cent of the beneficial interest in the other (or, in the case of a company, at least 50 per cent of the aggregate vote and value of the company’s shares) or another person owns, directly or indirectly, at least 50 per cent of the beneficial interest (or, in the case of a company, at TREATY RELATED MEASURES TO PREVENT BASE
-
-*17*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-least 50 per cent of the aggregate vote and value of the company’s shares) in each person; in any case, a person shall be connected to another if, based on all the relevant facts and circumstances, one has control of the other or both are under the control of the same person or persons.
+e) two persons shall be "connected persons" if one owns, directly or indirectly, at least 50 per cent of the beneficial interest in the other (or, in the case of a company, at least 50 per cent of the aggregate vote and value of the company’s shares) or another person owns, directly or indirectly, at least 50 per cent of the beneficial interest (or, in the case of a company, at least 50 per cent of the aggregate vote and value of the company’s shares) in each person; in any case, a person shall be connected to another if, based on all the relevant facts and circumstances, one has control of the other or both are under the control of the same person or persons.
 
 ### 14.
 
@@ -448,13 +339,7 @@ c) for the Simplified Limitation on Benefits Provision not to apply to its Cover
 
 ### 16.
 
-Except where the Simplified Limitation on Benefits Provision applies with respect to the granting of benefits under a Covered Tax Agreement by one or more Parties pursuant to paragraph 7, a Party that chooses pursuant to paragraph 6 to apply the Simplified Limitation on Benefits Provision may reserve the right for the entirety of this Article not to apply with respect to its Covered Tax Agreements for which one or more of the other Contracting Jurisdictions has not chosen to apply the Simplified Limitation on TREATY RELATED MEASURES TO PREVENT BASE
-
-*18*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
-Benefits Provision. In such cases, the Contracting Jurisdictions shall endeavour to reach a mutually satisfactory solution which meets the minimum standard for preventing treaty abuse under the OECD/G20 BEPS package.
+Except where the Simplified Limitation on Benefits Provision applies with respect to the granting of benefits under a Covered Tax Agreement by one or more Parties pursuant to paragraph 7, a Party that chooses pursuant to paragraph 6 to apply the Simplified Limitation on Benefits Provision may reserve the right for the entirety of this Article not to apply with respect to its Covered Tax Agreements for which one or more of the other Contracting Jurisdictions has not chosen to apply the Simplified Limitation on Benefits Provision. In such cases, the Contracting Jurisdictions shall endeavour to reach a mutually satisfactory solution which meets the minimum standard for preventing treaty abuse under the OECD/G20 BEPS package.
 
 \17. a) Each Party that has not made the reservation described in subparagraph a) of paragraph 15 shall notify the Depositary of whether each of its Covered Tax Agreements that is not subject to a reservation described in subparagraph b) of paragraph 15 contains a provision described in paragraph 2, and if so, the article and paragraph number of each such provision. Where all Contracting Jurisdictions have made such a notification with respect to a provision of a Covered Tax Agreement, that provision shall be replaced by the provisions of paragraph 1 (and where applicable, paragraph 4). In other cases, paragraph 1 (and where applicable, paragraph 4) shall supersede the provisions of the Covered Tax Agreement only to the extent that those provisions are incompatible with paragraph 1 (and where applicable, paragraph 4). A Party making a notification under this subparagraph may also include a statement that while such Party accepts the application of paragraph 1 alone as an interim measure, it intends where possible to adopt a limitation on benefits provision, in addition to or in replacement of paragraph 1, through bilateral negotiation.
 
@@ -464,13 +349,7 @@ c) Each Party that chooses to apply the Simplified Limitation on Benefits Provis
 
 d) Each Party that does not choose to apply the Simplified Limitation on Benefits Provision pursuant to paragraph 6, but chooses to apply either subparagraph a) or b) of paragraph 7 shall notify the Depositary of its choice of subparagraph. Unless such Party has made the reservation described in subparagraph c) of paragraph 15, such notification shall also include the list of its Covered Tax Agreements which contain a provision described in paragraph 14, as well as the article and paragraph number of each such provision.
 
-e) Where all Contracting Jurisdictions have made a notification under subparagraph c) or d) with respect to a provision of a Covered Tax Agreement, that provision shall be replaced by the TREATY RELATED MEASURES TO PREVENT BASE
-
-*19*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-Simplified Limitation on Benefits Provision. In other cases, the Simplified Limitation on Benefits Provision shall supersede the provisions of the Covered Tax Agreement only to the extent that those provisions are incompatible with the Simplified Limitation on Benefits Provision.
+e) Where all Contracting Jurisdictions have made a notification under subparagraph c) or d) with respect to a provision of a Covered Tax Agreement, that provision shall be replaced by the Simplified Limitation on Benefits Provision. In other cases, the Simplified Limitation on Benefits Provision shall supersede the provisions of the Covered Tax Agreement only to the extent that those provisions are incompatible with the Simplified Limitation on Benefits Provision.
 
 Article 8 - Dividend Transfer Transactions
 
@@ -490,13 +369,7 @@ ii) a minimum holding period shorter than a 365 day period; or
 
 iii) a minimum holding period longer than a 365 day period.
 
-\4. Each Party that has not made a reservation described in subparagraph a) of paragraph 3 shall notify the Depositary of whether each of its Covered Tax Agreements contains a provision described in paragraph 1 that is not subject to a reservation described in subparagraph b) of paragraph 3, and if so, the article and paragraph TREATY RELATED MEASURES TO PREVENT BASE
-
-*20*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
-number of each such provision. Paragraph 1 shall apply with respect to a provision of a Covered Tax Agreement only where all Contracting Jurisdictions have made such a notification with respect to that provision.
+\4. Each Party that has not made a reservation described in subparagraph a) of paragraph 3 shall notify the Depositary of whether each of its Covered Tax Agreements contains a provision described in paragraph 1 that is not subject to a reservation described in subparagraph b) of paragraph 3, and if so, the article and paragraph number of each such provision. Paragraph 1 shall apply with respect to a provision of a Covered Tax Agreement only where all Contracting Jurisdictions have made such a notification with respect to that provision.
 
 Article 9 - Capital Gains from Alienation of Shares or Interests of Entities Deriving their Value Principally from Immovable Property
 
@@ -512,13 +385,7 @@ b) shall apply to shares or comparable interests, such as interests in a partner
 
 \4. For purposes of a Covered Tax Agreement, gains derived by a resident of a Contracting Jurisdiction from the alienation of shares or comparable interests, such as interests in a partnership or trust, may be taxed in the other Contracting Jurisdiction if, at any time during the 365 days preceding the alienation, these shares or comparable interests derived more than 50 per cent of their value directly or indirectly from immovable property (real property) situated in that other Contracting Jurisdiction.
 
-\5. Paragraph 4 shall apply in place of or in the absence of provisions of a Covered Tax Agreement providing that gains derived by a resident of a Contracting Jurisdiction from the alienation of shares or other rights of participation in an entity may be taxed in the other Contracting Jurisdiction provided that these shares or rights derived more than a certain part of their value from immovable property (real property) situated in that other Contracting Jurisdiction, or provided that more than a certain part of the property of the entity TREATY RELATED MEASURES TO PREVENT BASE
-
-*21*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-consists of such immovable property (real property).
+\5. Paragraph 4 shall apply in place of or in the absence of provisions of a Covered Tax Agreement providing that gains derived by a resident of a Contracting Jurisdiction from the alienation of shares or other rights of participation in an entity may be taxed in the other Contracting Jurisdiction provided that these shares or rights derived more than a certain part of their value from immovable property (real property) situated in that other Contracting Jurisdiction, or provided that more than a certain part of the property of the entity consists of such immovable property (real property).
 
 \6. A Party may reserve the right:
 
@@ -536,13 +403,7 @@ f) for paragraph 4 not to apply to its Covered Tax Agreements that already conta
 
 \7. Each Party that has not made the reservation described in subparagraph a) of paragraph 6 shall notify the Depositary of whether each of its Covered Tax Agreements contains a provision described in paragraph 1, and if so, the article and paragraph number of each such provision. Paragraph 1 shall apply with respect to a provision of a Covered Tax Agreement only where all Contracting Jurisdictions have made a notification with respect to that provision.
 
-\8. Each Party that chooses to apply paragraph 4 shall notify the Depositary of its choice. Paragraph 4 shall apply to a Covered Tax Agreement only where all Contracting Jurisdictions have made such a notification. In such case, paragraph 1 shall not apply with respect to that Covered Tax Agreement. In the case of a Party that has not made the reservation described in subparagraph f) of paragraph 6 and has made the reservation described in subparagraph a) of paragraph 6, such notification shall also include the list of its Covered Tax Agreements which contain a provision described in paragraph 5, as well as the article and paragraph number of each such provision. Where all Contracting Jurisdictions have made a notification with respect to a provision of a Covered Tax Agreement under this paragraph or paragraph 7, that provision shall be replaced by the provisions of paragraph 4. In other cases, paragraph 4 shall supersede TREATY RELATED MEASURES TO PREVENT BASE
-
-*22*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
-the provisions of the Covered Tax Agreement only to the extent that those provisions are incompatible with paragraph 4.
+\8. Each Party that chooses to apply paragraph 4 shall notify the Depositary of its choice. Paragraph 4 shall apply to a Covered Tax Agreement only where all Contracting Jurisdictions have made such a notification. In such case, paragraph 1 shall not apply with respect to that Covered Tax Agreement. In the case of a Party that has not made the reservation described in subparagraph f) of paragraph 6 and has made the reservation described in subparagraph a) of paragraph 6, such notification shall also include the list of its Covered Tax Agreements which contain a provision described in paragraph 5, as well as the article and paragraph number of each such provision. Where all Contracting Jurisdictions have made a notification with respect to a provision of a Covered Tax Agreement under this paragraph or paragraph 7, that provision shall be replaced by the provisions of paragraph 4. In other cases, paragraph 4 shall supersede the provisions of the Covered Tax Agreement only to the extent that those provisions are incompatible with paragraph 4.
 
 Article 10 - Anti-abuse Rule for Permanent Establishments Situated in Third Jurisdictions
 
@@ -556,13 +417,7 @@ the benefits of the Covered Tax Agreement shall not apply to any item of income 
 
 \2. Paragraph 1 shall not apply if the income derived from the other Contracting Jurisdiction described in paragraph 1 is derived in connection with or is incidental to the active conduct of a business carried on through the permanent establishment (other than the business of making, managing or simply holding investments for the enterprise’s own account, unless these activities are banking, insurance or securities activities carried on by a bank, insurance enterprise or registered securities dealer, respectively).
 
-\3. If benefits under a Covered Tax Agreement are denied pursuant to paragraph 1 with respect to an item of income derived by a resident of a Contracting Jurisdiction, the competent authority of the other Contracting Jurisdiction may, nevertheless, grant these benefits with respect to that item of income if, in response to a request by such resident, such competent authority determines that granting such benefits is justified in light of the reasons such resident did not satisfy the requirements of paragraphs 1 and 2. The competent authority of the Contracting Jurisdiction to which a request has been made under the preceding sentence by a resident of the other Contracting Jurisdiction shall consult with the competent authority of that other TREATY RELATED MEASURES TO PREVENT BASE
-
-*23*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-Contracting Jurisdiction before either granting or denying the request.
+\3. If benefits under a Covered Tax Agreement are denied pursuant to paragraph 1 with respect to an item of income derived by a resident of a Contracting Jurisdiction, the competent authority of the other Contracting Jurisdiction may, nevertheless, grant these benefits with respect to that item of income if, in response to a request by such resident, such competent authority determines that granting such benefits is justified in light of the reasons such resident did not satisfy the requirements of paragraphs 1 and 2. The competent authority of the Contracting Jurisdiction to which a request has been made under the preceding sentence by a resident of the other Contracting Jurisdiction shall consult with the competent authority of that other Contracting Jurisdiction before either granting or denying the request.
 
 \4. Paragraphs 1 through 3 shall apply in place of or in the absence of provisions of a Covered Tax Agreement that deny or limit benefits that would otherwise be granted to an enterprise of a Contracting Jurisdiction which derives income from the other Contracting Jurisdiction that is attributable to a permanent establishment of the enterprise situated in a third jurisdiction.
 
@@ -582,12 +437,6 @@ Article 11 - Application of Tax Agreements to Restrict a Party’s Right to Tax 
 
 a) which require that Contracting Jurisdiction to grant to an enterprise of that Contracting Jurisdiction a correlative or corresponding adjustment following an initial adjustment made by the other Contracting Jurisdiction, in accordance with the Covered Tax Agreement, to the amount of tax charged in the first-mentioned Contracting Jurisdiction on the profits of a permanent establishment of the enterprise or the profits of an associated enterprise;
 
-**TREATY RELATED MEASURES TO PREVENT BASE**
-
-**EROSION AND PROFIT SHIFTING)**
-
-*[S.L. 123.183 24*
-
 b) which may affect how that Contracting Jurisdiction taxes an individual who is a resident of that Contracting Jurisdiction if that individual derives income in respect of services rendered to the other Contracting Jurisdiction or a political subdivision or local authority or other comparable body thereof;
 
 c) which may affect how that Contracting Jurisdiction taxes an individual who is a resident of that Contracting Jurisdiction if that individual is also a student, business apprentice or trainee, or a teacher, professor, lecturer, instructor, researcher or research scholar who meets the conditions of the Covered Tax Agreement;
@@ -604,13 +453,7 @@ h) which provide that pensions or other payments made under the social security 
 
 i) which provide that pensions and similar payments, annuities, alimony payments or other maintenance payments arising in the other Contracting Jurisdiction shall be taxable only in that other Contracting Jurisdiction; or
 
-j) which otherwise expressly limit a Contracting Jurisdiction’s right to tax its own residents or provide expressly that the Contracting Jurisdiction in which an item of income TREATY RELATED MEASURES TO PREVENT BASE
-
-*25*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-**arises has the exclusive right to tax that item of income.**
+j) which otherwise expressly limit a Contracting Jurisdiction’s right to tax its own residents or provide expressly that the Contracting Jurisdiction in which an item of income arises has the exclusive right to tax that item of income.
 
 \2. Paragraph 1 shall apply in place of or in the absence of provisions of a Covered Tax Agreement stating that the Covered Tax Agreement would not affect the taxation by a Contracting Jurisdiction of its residents.
 
@@ -632,12 +475,6 @@ a) in the name of the enterprise; or
 
 b) for the transfer of the ownership of, or for the granting of the right to use, property owned by that enterprise or that the enterprise has the right to use; or
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*26*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
 c) for the provision of services by that enterprise,
 
 that enterprise shall be deemed to have a permanent establishment in that Contracting Jurisdiction in respect of any activities which that person undertakes for the enterprise unless these activities, if they were exercised by the enterprise through a fixed place of business of that enterprise situated in that Contracting Jurisdiction, would not cause that fixed place of business to be deemed to constitute a permanent establishment under the definition of permanent establishment included in the Covered Tax Agreement (as it may be modified by this Convention).
@@ -651,12 +488,6 @@ b) Paragraph 2 shall apply in place of provisions of a Covered Tax Agreement tha
 \4. A Party may reserve the right for the entirety of this Article not to apply to its Covered Tax Agreements.
 
 \5. Each Party that has not made a reservation described in paragraph 4 shall notify the Depositary of whether each of its Covered Tax Agreements contains a provision described in subparagraph a) of paragraph 3, as well as the article and paragraph number of each such provision. Paragraph 1 shall apply with respect to a provision of a Covered Tax Agreement only where all Contracting Jurisdictions have made a notification with respect to that provision.
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*27*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
 
 \6. Each Party that has not made a reservation described in paragraph 4 shall notify the Depositary of whether each of its Covered Tax Agreements contains a provision described in subparagraph b) of paragraph 3, as well as the article and paragraph number of each such provision. Paragraph 2 shall apply with respect to a provision of a Covered Tax Agreement only where all Contracting Jurisdictions have made such a notification with respect to that provision.
 
@@ -680,13 +511,7 @@ Option B
 
 \3. Notwithstanding the provisions of a Covered Tax Agreement that define the term "permanent establishment", the term "permanent establishment" shall be deemed not to include:
 
-a) the activities specifically listed in the Covered Tax Agreement (prior to modification by this Convention) as activities deemed not to constitute a permanent establishment, whether or not that exception from permanent establishment TREATY RELATED MEASURES TO PREVENT BASE
-
-*28*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
-status is contingent on the activity being of a preparatory or auxiliary character, except to the extent that the relevant provision of the Covered Tax Agreement provides explicitly that a specific activity shall be deemed not to constitute a permanent establishment provided that the activity is of a preparatory or auxiliary character;
+a) the activities specifically listed in the Covered Tax Agreement (prior to modification by this Convention) as activities deemed not to constitute a permanent establishment, whether or not that exception from permanent establishment status is contingent on the activity being of a preparatory or auxiliary character, except to the extent that the relevant provision of the Covered Tax Agreement provides explicitly that a specific activity shall be deemed not to constitute a permanent establishment provided that the activity is of a preparatory or auxiliary character;
 
 b) the maintenance of a fixed place of business solely for the purpose of carrying on, for the enterprise, any activity not described in subparagraph a), provided that this activity is of a preparatory or auxiliary character;
 
@@ -702,13 +527,7 @@ provided that the business activities carried on by the two enterprises at the s
 
 \5. a) Paragraph 2 or 3 shall apply in place of the relevant parts of provisions of a Covered Tax Agreement that list specific activities that are deemed not to constitute a permanent establishment even if the activity is carried on through a fixed place of business (or provisions of a Covered Tax Agreement that operate in a comparable manner).
 
-b) Paragraph 4 shall apply to provisions of a TREATY RELATED MEASURES TO PREVENT BASE
-
-*29*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-Covered Tax Agreement (as they may be modified by paragraph 2 or 3) that list specific activities that are deemed not to constitute a permanent establishment even if the activity is carried on through a fixed place of business (or provisions of a Covered Tax Agreement that operate in a comparable manner).
+b) Paragraph 4 shall apply to provisions of a Covered Tax Agreement (as they may be modified by paragraph 2 or 3) that list specific activities that are deemed not to constitute a permanent establishment even if the activity is carried on through a fixed place of business (or provisions of a Covered Tax Agreement that operate in a comparable manner).
 
 \6. A Party may reserve the right:
 
@@ -726,13 +545,7 @@ Article 14 - Splitting-up of Contracts
 
 \1. For the sole purpose of determining whether the period (or periods) referred to in a provision of a Covered Tax Agreement that stipulates a period (or periods) of time after which specific projects or activities shall constitute a permanent establishment has been exceeded:
 
-a) where an enterprise of a Contracting Jurisdiction TREATY RELATED MEASURES TO PREVENT BASE
-
-*30*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
-carries on activities in the other Contracting Jurisdiction at a place that constitutes a building site, construction project, installation project or other specific project identified in the relevant provision of the Covered Tax Agreement, or carries on supervisory or consultancy activities in connection with such a place, in the case of a provision of a Covered Tax Agreement that refers to such activities, and these activities are carried on during one or more periods of time that, in the aggregate, exceed 30 days without exceeding the period or periods referred to in the relevant provision of the Covered Tax Agreement; and
+a) where an enterprise of a Contracting Jurisdiction carries on activities in the other Contracting Jurisdiction at a place that constitutes a building site, construction project, installation project or other specific project identified in the relevant provision of the Covered Tax Agreement, or carries on supervisory or consultancy activities in connection with such a place, in the case of a provision of a Covered Tax Agreement that refers to such activities, and these activities are carried on during one or more periods of time that, in the aggregate, exceed 30 days without exceeding the period or periods referred to in the relevant provision of the Covered Tax Agreement; and
 
 b) where connected activities are carried on in that other Contracting Jurisdiction at (or, where the relevant provision of the Covered Tax Agreement applies to supervisory or consultancy activities, in connection with) the same building site, construction or installation project, or other place identified in the relevant provision of the Covered Tax Agreement during different periods of time, each exceeding 30 days, by one or more enterprises closely related to the first-mentioned enterprise,
 
@@ -746,13 +559,7 @@ a) for the entirety of this Article not to apply to its Covered Tax Agreements;
 
 b) for the entirety of this Article not to apply with respect to provisions of its Covered Tax Agreements relating to the exploration for or exploitation of natural resources.
 
-\4. Each Party that has not made a reservation described in subparagraph a) of paragraph 3 shall notify the Depositary of whether each of its Covered Tax Agreements contains a provision described in paragraph 2 that is not subject to a reservation under subparagraph b) of paragraph 3, and if so, the article and paragraph number of each TREATY RELATED MEASURES TO PREVENT BASE
-
-*31*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-such provision. Where all Contracting Jurisdictions have made such a notification with respect to a provision of a Covered Tax Agreement, that provision shall be replaced by the provisions of paragraph 1 to the extent provided in paragraph 2. In other cases, paragraph 1 shall supersede the provisions of the Covered Tax Agreement only to the extent that those provisions are incompatible with paragraph 1.
+\4. Each Party that has not made a reservation described in subparagraph a) of paragraph 3 shall notify the Depositary of whether each of its Covered Tax Agreements contains a provision described in paragraph 2 that is not subject to a reservation under subparagraph b) of paragraph 3, and if so, the article and paragraph number of each such provision. Where all Contracting Jurisdictions have made such a notification with respect to a provision of a Covered Tax Agreement, that provision shall be replaced by the provisions of paragraph 1 to the extent provided in paragraph 2. In other cases, paragraph 1 shall supersede the provisions of the Covered Tax Agreement only to the extent that those provisions are incompatible with paragraph 1.
 
 Article 15 - Definition of a Person Closely Related to an Enterprise
 
@@ -762,13 +569,7 @@ Article 15 - Definition of a Person Closely Related to an Enterprise
 
 ## PART V — IMPROVING DISPUTE RESOLUTION — Article 16 - Mutual Agreement Procedure
 
-\1. Where a person considers that the actions of one or both of the Contracting Jurisdictions result or will result for that person in taxation not in accordance with the provisions of the Covered Tax TREATY RELATED MEASURES TO PREVENT BASE
-
-*32*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
-Agreement, that person may, irrespective of the remedies provided by the domestic law of those Contracting Jurisdictions, present the case to the competent authority of either Contracting Jurisdiction. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Covered Tax Agreement.
+\1. Where a person considers that the actions of one or both of the Contracting Jurisdictions result or will result for that person in taxation not in accordance with the provisions of the Covered Tax Agreement, that person may, irrespective of the remedies provided by the domestic law of those Contracting Jurisdictions, present the case to the competent authority of either Contracting Jurisdiction. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Covered Tax Agreement.
 
 \2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting Jurisdiction, with a view to the avoidance of taxation which is not in accordance with the Covered Tax Agreement. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting Jurisdictions.
 
@@ -778,13 +579,7 @@ Agreement, that person may, irrespective of the remedies provided by the domesti
 
 ii) The second sentence of paragraph 1 shall apply in place of provisions of a Covered Tax Agreement that provide that a case referred to in the first sentence of paragraph 1 must be presented within a specific time period that is shorter than three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Covered Tax Agreement, or in the absence of a provision of a Covered Tax Agreement describing the time period within which such a case must be presented.
 
-b) i) The first sentence of paragraph 2 shall apply in the absence of provisions of a Covered Tax Agreement that TREATY RELATED MEASURES TO PREVENT BASE
-
-*33*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-provide that the competent authority that is presented with the case by the person referred to in paragraph 1 shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting Jurisdiction, with a view to the avoidance of taxation which is not in accordance with the Covered Tax Agreement.
+b) i) The first sentence of paragraph 2 shall apply in the absence of provisions of a Covered Tax Agreement that provide that the competent authority that is presented with the case by the person referred to in paragraph 1 shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting Jurisdiction, with a view to the avoidance of taxation which is not in accordance with the Covered Tax Agreement.
 
 ii) The second sentence of paragraph 2 shall apply in the absence of provisions of a Covered Tax Agreement providing that any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting Jurisdictions.
 
@@ -794,13 +589,7 @@ ii) The second sentence of paragraph 3 shall apply in the absence of provisions 
 
 \5. A Party may reserve the right:
 
-a) for the first sentence of paragraph 1 not to apply to its Covered Tax Agreements on the basis that it intends to meet the minimum standard for improving dispute resolution under the OECD/G20 BEPS Package by ensuring that under each of its Covered Tax Agreements (other than a Covered Tax Agreement that permits a person to present a case to the competent authority of either Contracting Jurisdiction), where a person considers that the actions of one or both of the Contracting Jurisdictions result or will result for that person in taxation not in accordance with the provisions of the Covered Tax Agreement, irrespective of the remedies provided by the domestic law of those Contracting Jurisdictions, that person may present the case to the competent authority of the Contracting Jurisdiction of which the person is a resident or, if the case presented by that person comes under a provision of a Covered Tax Agreement relating to non-discrimination based on nationality, to that of the Contracting Jurisdiction of which that person is a national; and the competent authority of that Contracting Jurisdiction will implement a bilateral notification or consultation process with the competent authority of the TREATY RELATED MEASURES TO PREVENT BASE
-
-**EROSION AND PROFIT SHIFTING)**
-
-*[S.L. 123.183 34*
-
-other Contracting Jurisdiction for cases in which the competent authority to which the mutual agreement procedure case was presented does not consider the taxpayer’s objection to be justified;
+a) for the first sentence of paragraph 1 not to apply to its Covered Tax Agreements on the basis that it intends to meet the minimum standard for improving dispute resolution under the OECD/G20 BEPS Package by ensuring that under each of its Covered Tax Agreements (other than a Covered Tax Agreement that permits a person to present a case to the competent authority of either Contracting Jurisdiction), where a person considers that the actions of one or both of the Contracting Jurisdictions result or will result for that person in taxation not in accordance with the provisions of the Covered Tax Agreement, irrespective of the remedies provided by the domestic law of those Contracting Jurisdictions, that person may present the case to the competent authority of the Contracting Jurisdiction of which the person is a resident or, if the case presented by that person comes under a provision of a Covered Tax Agreement relating to non-discrimination based on nationality, to that of the Contracting Jurisdiction of which that person is a national; and the competent authority of that Contracting Jurisdiction will implement a bilateral notification or consultation process with the competent authority of the other Contracting Jurisdiction for cases in which the competent authority to which the mutual agreement procedure case was presented does not consider the taxpayer’s objection to be justified;
 
 b) for the second sentence of paragraph 1 not to apply to its Covered Tax Agreements that do not provide that the case referred to in the first sentence of paragraph 1 must be presented within a specific time period on the basis that it intends to meet the minimum standard for improving dispute resolution under the OECD/G20 BEPS package by ensuring that for the purposes of all such Covered Tax Agreements the taxpayer referred to in paragraph 1 is allowed to present the case within a period of at least three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Covered Tax Agreement;
 
@@ -812,13 +601,7 @@ ii) it intends to meet the minimum standard for improving dispute resolution und
 
 A) the Contracting Jurisdictions shall make no adjustment to the profits that are attributable to a permanent establishment of an enterprise of one of the Contracting Jurisdictions after a period that is mutually agreed between both Contracting Jurisdictions from the end of the taxable year in which the profits would have been attributable to the permanent establishment (this provision shall not apply in the case of fraud, gross negligence or wilful default); and
 
-B) the Contracting Jurisdictions shall not include in the profits of an enterprise, and tax accordingly, profits that would have accrued to the enterprise but that by reason of the conditions referred to in a provision in the Covered Tax Agreement relating to associated TREATY RELATED MEASURES TO PREVENT BASE
-
-*35*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-enterprises have not so accrued, after a period that is mutually agreed between both Contracting Jurisdictions from the end of the taxable year in which the profits would have accrued to the enterprise (this provision shall not apply in the case of fraud, gross negligence or wilful default).
+B) the Contracting Jurisdictions shall not include in the profits of an enterprise, and tax accordingly, profits that would have accrued to the enterprise but that by reason of the conditions referred to in a provision in the Covered Tax Agreement relating to associated enterprises have not so accrued, after a period that is mutually agreed between both Contracting Jurisdictions from the end of the taxable year in which the profits would have accrued to the enterprise (this provision shall not apply in the case of fraud, gross negligence or wilful default).
 
 \6. a) Each Party that has not made a reservation described in subparagraph a) of paragraph 5 shall notify the Depositary of whether each of its Covered Tax Agreements contains a provision described in clause i) of subparagraph a) of paragraph 4, and if so, the article and paragraph number of each such provision. Where all Contracting Jurisdictions have made a notification with respect to a provision of a Covered Tax Agreement, that provision shall be replaced by the first sentence of paragraph 1. In other cases, the first sentence of paragraph 1 shall supersede the provisions of the Covered Tax Agreement only to the extent that those provisions are incompatible with that sentence.
 
@@ -826,13 +609,7 @@ b) Each Party that has not made the reservation described in subparagraph b) of 
 
 i) the list of its Covered Tax Agreements which contain a provision that provides that a case referred to in the first sentence of paragraph 1 must be presented within a specific time period that is shorter than three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Covered Tax Agreement, as well as the article and paragraph number of each such provision; a provision of a Covered Tax Agreement shall be replaced by the second sentence of paragraph 1 where all Contracting Jurisdictions have made such a notification with respect to that provision; in other cases, subject to clause ii), the second sentence of paragraph 1 shall supersede the provisions of the Covered Tax Agreement only to the extent that those provisions are incompatible with the second sentence of paragraph 1;
 
-ii) the list of its Covered Tax Agreements which contain a provision that provides that a case referred to in the first sentence of paragraph 1 must be presented within a specific time period that is at least three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Covered Tax Agreement, as well as the article and paragraph number of each such provision; the second sentence of paragraph 1 shall not apply to a Covered Tax Agreement where any Contracting TREATY RELATED MEASURES TO PREVENT BASE
-
-*36*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
-Jurisdiction has made such a notification with respect to that Covered Tax Agreement.
+ii) the list of its Covered Tax Agreements which contain a provision that provides that a case referred to in the first sentence of paragraph 1 must be presented within a specific time period that is at least three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Covered Tax Agreement, as well as the article and paragraph number of each such provision; the second sentence of paragraph 1 shall not apply to a Covered Tax Agreement where any Contracting Jurisdiction has made such a notification with respect to that Covered Tax Agreement.
 
 c) Each Party shall notify the Depositary of:
 
@@ -848,13 +625,7 @@ ii) the list of its Covered Tax Agreements which do not contain a provision desc
 
 Article 17 - Corresponding Adjustments
 
-\1. Where a Contracting Jurisdiction includes in the profits of an enterprise of that Contracting Jurisdiction - and taxes accordingly - profits on which an enterprise of the other Contracting Jurisdiction has been charged to tax in that other Contracting Jurisdiction and the profits so included are profits which would have accrued to the enterprise of the first-mentioned Contracting Jurisdiction if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other Contracting Jurisdiction shall make an TREATY RELATED MEASURES TO PREVENT BASE
-
-*37*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of the Covered Tax Agreement and the competent authorities of the Contracting Jurisdictions shall if necessary consult each other.
+\1. Where a Contracting Jurisdiction includes in the profits of an enterprise of that Contracting Jurisdiction - and taxes accordingly - profits on which an enterprise of the other Contracting Jurisdiction has been charged to tax in that other Contracting Jurisdiction and the profits so included are profits which would have accrued to the enterprise of the first-mentioned Contracting Jurisdiction if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other Contracting Jurisdiction shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of the Covered Tax Agreement and the competent authorities of the Contracting Jurisdictions shall if necessary consult each other.
 
 \2. Paragraph 1 shall apply in place of or in the absence of a provision that requires a Contracting Jurisdiction to make an appropriate adjustment to the amount of the tax charged therein on the profits of an enterprise of that Contracting Jurisdiction where the other Contracting Jurisdiction includes those profits in the profits of an enterprise of that other Contracting Jurisdiction and taxes those profits accordingly, and the profits so included are profits which would have accrued to the enterprise of that other Contracting Jurisdiction if the conditions made between the two enterprises had been those which would have been made between independent enterprises.
 
@@ -870,13 +641,7 @@ ii) its competent authority shall endeavour to resolve the case under the provis
 
 c) in the case of a Party that has made a reservation under clause ii) of subparagraph c) of paragraph 5 of Article 16 (Mutual Agreement Procedure), for the entirety of this Article not to apply to its Covered Tax Agreements on the basis that in its bilateral treaty negotiations it shall accept a treaty provision of the type contained in paragraph 1, provided that the Contracting Jurisdictions were able to reach agreement on that provision and on the provisions described in clause ii) of subparagraph c) of paragraph 5 of Article 16 (Mutual Agreement Procedure).
 
-\4. Each Party that has not made a reservation described in paragraph 3 shall notify the Depositary of whether each of its TREATY RELATED MEASURES TO PREVENT BASE
-
-*38*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
-Covered Tax Agreements contains a provision described in paragraph 2, and if so, the article and paragraph number of each such provision. Where all Contracting Jurisdictions have made such a notification with respect to a provision of a Covered Tax Agreement, that provision shall be replaced by the provisions of paragraph 1. In other cases, paragraph 1 shall supersede the provisions of the Covered Tax Agreement only to the extent that those provisions are incompatible with paragraph 1.
+\4. Each Party that has not made a reservation described in paragraph 3 shall notify the Depositary of whether each of its Covered Tax Agreements contains a provision described in paragraph 2, and if so, the article and paragraph number of each such provision. Where all Contracting Jurisdictions have made such a notification with respect to a provision of a Covered Tax Agreement, that provision shall be replaced by the provisions of paragraph 1. In other cases, paragraph 1 shall supersede the provisions of the Covered Tax Agreement only to the extent that those provisions are incompatible with paragraph 1.
 
 ## PART VI — ARBITRATION — Article 18 - Choice to Apply Part VI
 
@@ -888,13 +653,7 @@ Article 19 - Mandatory Binding Arbitration
 
 a) under a provision of a Covered Tax Agreement (as it may be modified by paragraph 1 of Article 16 (Mutual Agreement Procedure)) that provides that a person may present a case to a competent authority of a Contracting Jurisdiction where that person considers that the actions of one or both of the Contracting Jurisdictions result or will result for that person in taxation not in accordance with the provisions of the Covered Tax Agreement (as it may be modified by the Convention), a person has presented a case to the competent authority of a Contracting Jurisdiction on the basis that the actions of one or both of the Contracting Jurisdictions have resulted for that person in taxation not in accordance with the provisions of the Covered Tax Agreement (as it may be modified by the Convention); and
 
-b) the competent authorities are unable to reach an agreement to resolve that case pursuant to a provision of a Covered Tax Agreement (as it may be modified by paragraph 2 of Article 16 (Mutual Agreement Procedure)) that provides that the competent authority shall endeavour to resolve the case by mutual agreement with the competent authority of the other Contracting Jurisdiction, within a period of two years beginning on the start date referred to in paragraph 8 or 9, as the case may be (unless, prior to the expiration of that period the competent authorities of the Contracting Jurisdictions have TREATY RELATED MEASURES TO PREVENT BASE
-
-*39*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-agreed to a different time period with respect to that case and have notified the person who presented the case of such agreement),
+b) the competent authorities are unable to reach an agreement to resolve that case pursuant to a provision of a Covered Tax Agreement (as it may be modified by paragraph 2 of Article 16 (Mutual Agreement Procedure)) that provides that the competent authority shall endeavour to resolve the case by mutual agreement with the competent authority of the other Contracting Jurisdiction, within a period of two years beginning on the start date referred to in paragraph 8 or 9, as the case may be (unless, prior to the expiration of that period the competent authorities of the Contracting Jurisdictions have agreed to a different time period with respect to that case and have notified the person who presented the case of such agreement),
 
 any unresolved issues arising from the case shall, if the person so requests in writing, be submitted to arbitration in the manner described in this Part, according to any rules or procedures agreed upon by the competent authorities of the Contracting Jurisdictions pursuant to the provisions of paragraph 10.
 
@@ -906,13 +665,7 @@ any unresolved issues arising from the case shall, if the person so requests in 
 
 b) The arbitration decision shall be binding on both Contracting Jurisdictions except in the following cases:
 
-i) if a person directly affected by the case does not accept the mutual agreement that implements the arbitration decision. In such a case, the case shall not be eligible for any further consideration by the competent authorities. The mutual agreement that implements the arbitration decision on the case shall be considered not to be accepted by a person directly affected by the case if any person directly affected by the case does not, within 60 days after the date on which notification of the mutual agreement is sent to the person, withdraw all issues resolved in the mutual agreement implementing the arbitration decision from consideration by any court or administrative TREATY RELATED MEASURES TO PREVENT BASE
-
-*40*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
-tribunal or otherwise terminate any pending court or administrative proceedings with respect to such issues in a manner consistent with that mutual agreement.
+i) if a person directly affected by the case does not accept the mutual agreement that implements the arbitration decision. In such a case, the case shall not be eligible for any further consideration by the competent authorities. The mutual agreement that implements the arbitration decision on the case shall be considered not to be accepted by a person directly affected by the case if any person directly affected by the case does not, within 60 days after the date on which notification of the mutual agreement is sent to the person, withdraw all issues resolved in the mutual agreement implementing the arbitration decision from consideration by any court or administrative tribunal or otherwise terminate any pending court or administrative proceedings with respect to such issues in a manner consistent with that mutual agreement.
 
 ii) if a final decision of the courts of one of the Contracting Jurisdictions holds that the arbitration decision is invalid. In such a case, the request for arbitration under paragraph 1 shall be considered not to have been made, and the arbitration process shall be considered not to have taken place (except for the purposes of Articles 21 (Confidentiality of Arbitration Proceedings) and 25 (Costs of Arbitration Proceedings)). In such a case, a new request for arbitration may be made unless the competent authorities agree that such a new request should not be permitted.
 
@@ -930,13 +683,7 @@ a) notify the person who has presented the case and the other competent authorit
 
 b) request additional information from that person for that purpose.
 
-\7. Where pursuant to subparagraph b) of paragraph 6, one or both of the competent authorities have requested from the person who presented the case additional information necessary to undertake substantive consideration of the case, the competent authority that requested the additional information shall, within three calendar TREATY RELATED MEASURES TO PREVENT BASE
-
-*41*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-months of receiving the additional information from that person, notify that person and the other competent authority either:
+\7. Where pursuant to subparagraph b) of paragraph 6, one or both of the competent authorities have requested from the person who presented the case additional information necessary to undertake substantive consideration of the case, the competent authority that requested the additional information shall, within three calendar months of receiving the additional information from that person, notify that person and the other competent authority either:
 
 a) that it has received the requested information; or
 
@@ -958,13 +705,7 @@ If, however, one or both of the competent authorities send the notification refe
 
 \10. The competent authorities of the Contracting Jurisdictions shall by mutual agreement (pursuant to the article of the relevant Covered Tax Agreement regarding procedures for mutual agreement) settle the mode of application of the provisions contained in this Part, including the minimum information necessary for each competent authority to undertake substantive consideration of the case. Such an agreement shall be concluded before the date on which unresolved issues in a case are first eligible to be submitted to arbitration and may be modified from time to time thereafter.
 
-\11. For purposes of applying this Article to its Covered Tax TREATY RELATED MEASURES TO PREVENT BASE
-
-*42*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
-Agreements, a Party may reserve the right to replace the two-year period set forth in subparagraph b) of paragraph 1 with a three-year period.
+\11. For purposes of applying this Article to its Covered Tax Agreements, a Party may reserve the right to replace the two-year period set forth in subparagraph b) of paragraph 1 with a three-year period.
 
 \12. A Party may reserve the right for the following rules to apply with respect to its Covered Tax Agreements notwithstanding the other provisions of this Article:
 
@@ -982,13 +723,7 @@ a) The arbitration panel shall consist of three individual members with expertis
 
 b) Each competent authority shall appoint one panel member within 60 days of the date of the request for arbitration under paragraph 1 of Article 19 (Mandatory Binding Arbitration). The two panel members so appointed shall, within 60 days of the latter of their appointments, appoint a third member who shall serve as Chair of the arbitration panel. The Chair shall not be a national or resident of either Contracting Jurisdiction.
 
-c) Each member appointed to the arbitration panel must be impartial and independent of the competent authorities, tax administrations, and ministries of finance of the Contracting Jurisdictions and of all persons directly affected by the case (as well as their advisors) at the time of accepting an appointment, maintain his or her impartiality and independence TREATY RELATED MEASURES TO PREVENT BASE
-
-*43*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-throughout the proceedings, and avoid any conduct for a reasonable period of time thereafter which may damage the appearance of impartiality and independence of the arbitrators with respect to the proceedings.
+c) Each member appointed to the arbitration panel must be impartial and independent of the competent authorities, tax administrations, and ministries of finance of the Contracting Jurisdictions and of all persons directly affected by the case (as well as their advisors) at the time of accepting an appointment, maintain his or her impartiality and independence throughout the proceedings, and avoid any conduct for a reasonable period of time thereafter which may damage the appearance of impartiality and independence of the arbitrators with respect to the proceedings.
 
 \3. In the event that the competent authority of a Contracting Jurisdiction fails to appoint a member of the arbitration panel in the manner and within the time periods specified in paragraph 2 or agreed to by the competent authorities of the Contracting Jurisdictions, a member shall be appointed on behalf of that competent authority by the highest ranking official of the Centre for Tax Policy and Administration of the Organisation for Economic Co-operation and Development that is not a national of either Contracting Jurisdiction.
 
@@ -999,12 +734,6 @@ throughout the proceedings, and avoid any conduct for a reasonable period of tim
 \1. Solely for the purposes of the application of the provisions of this Part and of the provisions of the relevant Covered Tax Agreement and of the domestic laws of the Contracting Jurisdictions related to the exchange of information, confidentiality, and administrative assistance, members of the arbitration panel and a maximum of three staff per member (and prospective arbitrators solely to the extent necessary to verify their ability to fulfil the requirements of arbitrators) shall be considered to be persons or authorities to whom information may be disclosed. Information received by the arbitration panel or prospective arbitrators and information that the competent authorities receive from the arbitration panel shall be considered information that is exchanged under the provisions of the Covered Tax Agreement related to the exchange of information and administrative assistance.
 
 \2. The competent authorities of the Contracting Jurisdictions shall ensure that members of the arbitration panel and their staff agree in writing, prior to their acting in an arbitration proceeding, to treat any information relating to the arbitration proceeding consistently with the confidentiality and nondisclosure obligations described in the provisions of the Covered Tax Agreement related to exchange of information and administrative assistance and under the applicable laws of the Contracting Jurisdictions.
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*44*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
 
 Article 22 - Resolution of a Case Prior to the Conclusion of the Arbitration
 
@@ -1020,13 +749,7 @@ Article 23 - Type of Arbitration Process
 
 a) After a case is submitted to arbitration, the competent authority of each Contracting Jurisdiction shall submit to the arbitration panel, by a date set by agreement, a proposed resolution which addresses all unresolved issue(s) in the case (taking into account all agreements previously reached in that case between the competent authorities of the Contracting Jurisdictions). The proposed resolution shall be limited to a disposition of specific monetary amounts (for example, of income or expense) or, where specified, the maximum rate of tax charged pursuant to the Covered Tax Agreement, for each adjustment or similar issue in the case. In a case in which the competent authorities of the Contracting Jurisdictions have been unable to reach agreement on an issue regarding the conditions for application of a provision of the relevant Covered Tax Agreement (hereinafter referred to as a "threshold question"), such as whether an individual is a resident or whether a permanent establishment exists, the competent authorities may submit alternative proposed resolutions with respect to issues the determination of which is contingent on resolution of such threshold questions.
 
-b) The competent authority of each Contracting Jurisdiction may also submit a supporting position paper for consideration by the arbitration panel. Each competent TREATY RELATED MEASURES TO PREVENT BASE
-
-*45*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-authority that submits a proposed resolution or supporting position paper shall provide a copy to the other competent authority by the date on which the proposed resolution and supporting position paper were due. Each competent authority may also submit to the arbitration panel, by a date set by agreement, a reply submission with respect to the proposed resolution and supporting position paper submitted by the other competent authority. A copy of any reply submission shall be provided to the other competent authority by the date on which the reply submission was due.
+b) The competent authority of each Contracting Jurisdiction may also submit a supporting position paper for consideration by the arbitration panel. Each competent authority that submits a proposed resolution or supporting position paper shall provide a copy to the other competent authority by the date on which the proposed resolution and supporting position paper were due. Each competent authority may also submit to the arbitration panel, by a date set by agreement, a reply submission with respect to the proposed resolution and supporting position paper submitted by the other competent authority. A copy of any reply submission shall be provided to the other competent authority by the date on which the reply submission was due.
 
 c) The arbitration panel shall select as its decision one of the proposed resolutions for the case submitted by the competent authorities with respect to each issue and any threshold questions, and shall not include a rationale or any other explanation of the decision. The arbitration decision will be adopted by a simple majority of the panel members. The arbitration panel shall deliver its decision in writing to the competent authorities of the Contracting Jurisdictions. The arbitration decision shall have no precedential value.
 
@@ -1036,13 +759,7 @@ a) After a case is submitted to arbitration, the competent authority of each Con
 
 b) The arbitration panel shall decide the issues submitted to arbitration in accordance with the applicable provisions of the Covered Tax Agreement and, subject to these provisions, of those of the domestic laws of the Contracting Jurisdictions. The panel members shall also consider any other sources which the competent authorities of the Contracting Jurisdictions may by mutual agreement expressly identify.
 
-c) The arbitration decision shall be delivered to the competent authorities of the Contracting Jurisdictions in writing and shall indicate the sources of law relied upon and TREATY RELATED MEASURES TO PREVENT BASE
-
-*46*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
-the reasoning which led to its result. The arbitration decision shall be adopted by a simple majority of the panel members.
+c) The arbitration decision shall be delivered to the competent authorities of the Contracting Jurisdictions in writing and shall indicate the sources of law relied upon and the reasoning which led to its result. The arbitration decision shall be adopted by a simple majority of the panel members.
 
 **The arbitration decision shall have no precedential value.**
 
@@ -1058,13 +775,7 @@ the reasoning which led to its result. The arbitration decision shall be adopted
 
 Article 24 - Agreement on a Different Resolution
 
-\1. For purposes of applying this Part with respect to its Covered Tax Agreements, a Party may choose to apply paragraph 2 TREATY RELATED MEASURES TO PREVENT BASE
-
-*47*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-and shall notify the Depositary accordingly. Paragraph 2 shall apply in relation to two Contracting Jurisdictions with respect to a Covered Tax Agreement only where both Contracting Jurisdictions have made such a notification.
+\1. For purposes of applying this Part with respect to its Covered Tax Agreements, a Party may choose to apply paragraph 2 and shall notify the Depositary accordingly. Paragraph 2 shall apply in relation to two Contracting Jurisdictions with respect to a Covered Tax Agreement only where both Contracting Jurisdictions have made such a notification.
 
 \2. Notwithstanding paragraph 4 of Article 19 (Mandatory Binding Arbitration), an arbitration decision pursuant to this Part shall not be binding on the Contracting Jurisdictions to a Covered Tax Agreement and shall not be implemented if the competent authorities of the Contracting Jurisdictions agree on a different resolution of all unresolved issues within three calendar months after the arbitration decision has been delivered to them.
 
@@ -1078,13 +789,7 @@ Article 26 - Compatibility
 
 \1. Subject to Article 18 (Choice to Apply Part VI), the provisions of this Part shall apply in place of or in the absence of provisions of a Covered Tax Agreement that provide for arbitration of unresolved issues arising from a mutual agreement procedure case. Each Party that chooses to apply this Part shall notify the Depositary of whether each of its Covered Tax Agreements, other than those that are within the scope of a reservation under paragraph 4, contains such a provision, and if so, the article and paragraph number of each such provision. Where two Contracting Jurisdictions have made a notification with respect to a provision of a Covered Tax Agreement, that provision shall be replaced by the provisions of this Part as between those Contracting Jurisdictions.
 
-\2. Any unresolved issue arising from a mutual agreement procedure case otherwise within the scope of the arbitration process TREATY RELATED MEASURES TO PREVENT BASE
-
-*48*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
-provided for in this Part shall not be submitted to arbitration if the issue falls within the scope of a case with respect to which an arbitration panel or similar body has previously been set up in accordance with a bilateral or multilateral convention that provides for mandatory binding arbitration of unresolved issues arising from a mutual agreement procedure case.
+\2. Any unresolved issue arising from a mutual agreement procedure case otherwise within the scope of the arbitration process provided for in this Part shall not be submitted to arbitration if the issue falls within the scope of a case with respect to which an arbitration panel or similar body has previously been set up in accordance with a bilateral or multilateral convention that provides for mandatory binding arbitration of unresolved issues arising from a mutual agreement procedure case.
 
 \3. Subject to paragraph 1, nothing in this Part shall affect the fulfilment of wider obligations with respect to the arbitration of unresolved issues arising in the context of a mutual agreement procedure resulting from other conventions to which the Contracting Jurisdictions are or will become parties.
 
@@ -1108,15 +813,7 @@ Article 28 - Reservations
 
 a) Paragraph 5 of Article 3 (Transparent Entities);
 
-b) Paragraph 3 of Article 4 (Dual Resident Entities);
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*49*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-c) Paragraphs 8 and 9 of Article 5 (Application of Methods for Elimination of Double Taxation);
+b) Paragraph 3 of Article 4 (Dual Resident Entities); c) Paragraphs 8 and 9 of Article 5 (Application of Methods for Elimination of Double Taxation);
 
 d) Paragraph 4 of Article 6 (Purpose of a Covered Tax Agreement);
 
@@ -1146,13 +843,7 @@ p) Paragraphs 11 and 12 of Article 19 (Mandatory Binding Arbitration);
 
 q) Paragraphs 2, 3, 6, and 7 of Article 23 (Type of Arbitration Process);
 
-r) Paragraph 3 of Article 24 (Agreement on a TREATY RELATED MEASURES TO PREVENT BASE
-
-*50*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
-Different Resolution);
+r) Paragraph 3 of Article 24 (Agreement on a Different Resolution);
 
 s) Paragraph 4 of Article 26 (Compatibility);
 
@@ -1170,13 +861,7 @@ a) modify for the reserving Party in its relations with another Party the provis
 
 b) modify those provisions to the same extent for the other Party in its relations with the reserving Party.
 
-\4. Reservations applicable to Covered Tax Agreements TREATY RELATED MEASURES TO PREVENT BASE
-
-*51*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-entered into by or on behalf of a jurisdiction or territory for whose international relations a Party is responsible, where that jurisdiction or territory is not a Party to the Convention pursuant to subparagraph b) or c) of paragraph 1 of Article 27 (Signature and Ratification, Acceptance or Approval), shall be made by the responsible Party and can be different from the reservations made by that Party for its own Covered Tax Agreements.
+\4. Reservations applicable to Covered Tax Agreements entered into by or on behalf of a jurisdiction or territory for whose international relations a Party is responsible, where that jurisdiction or territory is not a Party to the Convention pursuant to subparagraph b) or c) of paragraph 1 of Article 27 (Signature and Ratification, Acceptance or Approval), shall be made by the responsible Party and can be different from the reservations made by that Party for its own Covered Tax Agreements.
 
 \5. Reservations shall be made at the time of signature or when depositing the instrument of ratification, acceptance or approval, subject to the provisions of paragraphs 2, 6 and 9 of this Article, and paragraph 5 of Article 29 (Notifications). However, for a Party which chooses under Article 18 (Choice to Apply Part VI) to apply Part VI (Arbitration) after it has become a Party to this Convention, reservations described in subparagraphs p), q), r) and s) of paragraph 1 of this Article shall be made at the same time as that Party’s notification to the Depositary pursuant to Article 18 (Choice to Apply Part VI).
 
@@ -1192,13 +877,7 @@ b) Subparagraphs b), c) and d) of paragraph 3 of Article 4 (Dual Resident Entiti
 
 c) Paragraphs 8 and 9 of Article 5 (Application of Methods for Elimination of Double Taxation);
 
-d) Paragraph 4 of Article 6 (Purpose of a Covered TREATY RELATED MEASURES TO PREVENT BASE
-
-*52*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
-Tax Agreement);
+d) Paragraph 4 of Article 6 (Purpose of a Covered Tax Agreement);
 
 e) Subparagraphs b) and c) of paragraph 15 of Article 7 (Prevention of Treaty Abuse);
 
@@ -1224,13 +903,7 @@ o) Paragraph 4 of Article 26 (Compatibility).
 
 The reservations described in subparagraphs a) through o) above shall not apply to any Covered Tax Agreement that is not included on the list described in this paragraph.
 
-\9. Any Party which has made a reservation in accordance with paragraph 1 or 2 may at any time withdraw it or replace it with a more limited reservation by means of a notification addressed to the Depositary. Such Party shall make any additional notifications pursuant to paragraph 6 of Article 29 (Notifications) which may be required as a result of the withdrawal or replacement of the reservation. Subject to paragraph 7 of Article 35 (Entry into Effect), TREATY RELATED MEASURES TO PREVENT BASE
-
-*53*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-the withdrawal or replacement shall take effect:
+\9. Any Party which has made a reservation in accordance with paragraph 1 or 2 may at any time withdraw it or replace it with a more limited reservation by means of a notification addressed to the Depositary. Such Party shall make any additional notifications pursuant to paragraph 6 of Article 29 (Notifications) which may be required as a result of the withdrawal or replacement of the reservation. Subject to paragraph 7 of Article 35 (Entry into Effect), the withdrawal or replacement shall take effect:
 
 a) with respect to a Covered Tax Agreement solely with States or jurisdictions that are Parties to the Convention when the notification of withdrawal or replacement of the reservation is received by the Depositary:
 
@@ -1252,13 +925,7 @@ c) Paragraph 4 of Article 4 (Dual Resident Entities);
 
 d) Paragraph 10 of Article 5 (Application of Methods for Elimination of Double Taxation);
 
-e) Paragraphs 5 and 6 of Article 6 (Purpose of a TREATY RELATED MEASURES TO PREVENT BASE
-
-*54*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
-Covered Tax Agreement);
+e) Paragraphs 5 and 6 of Article 6 (Purpose of a Covered Tax Agreement);
 
 f) Paragraph 17 of Article 7 (Prevention of Treaty Abuse);
 
@@ -1290,13 +957,7 @@ s) Paragraph 1 of Article 26 (Compatibility); and
 
 t) Paragraphs 1, 2, 3, 5 and 7 of Article 35 (Entry into Effect).
 
-\2. Notifications in respect of Covered Tax Agreements entered into by or on behalf of a jurisdiction or territory for whose TREATY RELATED MEASURES TO PREVENT BASE
-
-*55*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-international relations a Party is responsible, where that jurisdiction or territory is not a Party to the Convention pursuant to subparagraph b) or c) of paragraph 1 of Article 27 (Signature and Ratification, Acceptance or Approval), shall be made by the responsible Party and can be different from the notifications made by that Party for its own Covered Tax Agreements.
+\2. Notifications in respect of Covered Tax Agreements entered into by or on behalf of a jurisdiction or territory for whose international relations a Party is responsible, where that jurisdiction or territory is not a Party to the Convention pursuant to subparagraph b) or c) of paragraph 1 of Article 27 (Signature and Ratification, Acceptance or Approval), shall be made by the responsible Party and can be different from the notifications made by that Party for its own Covered Tax Agreements.
 
 \3. If notifications are made at the time of signature, they shall be confirmed upon deposit of the instrument of ratification, acceptance or approval, unless the document containing the notifications explicitly specifies that it is to be considered definitive, subject to the provisions of paragraphs 5 and 6 of this Article, and paragraph 7 of Article 35 (Entry into Effect).
 
@@ -1306,13 +967,7 @@ international relations a Party is responsible, where that jurisdiction or terri
 
 \6. A Party may make additional notifications pursuant to subparagraphs b) through s) of paragraph 1 by means of a notification addressed to the Depositary. These notifications shall take effect:
 
-a) with respect to Covered Tax Agreements solely with States or jurisdictions that are Parties to the Convention TREATY RELATED MEASURES TO PREVENT BASE
-
-*56*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
-when the additional notification is received by the Depositary:
+a) with respect to Covered Tax Agreements solely with States or jurisdictions that are Parties to the Convention when the additional notification is received by the Depositary:
 
 i) for notifications in respect of provisions relating to taxes withheld at source, where the event giving rise to such taxes occurs on or after 1 January of the year next following the expiration of a period of six calendar months beginning on the date of the communication by the Depositary of the additional notification; and
 
@@ -1334,12 +989,6 @@ Article 31 - Conference of the Parties
 
 Article 32 - Interpretation and Implementation
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*57*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
 \1. Any question arising as to the interpretation or implementation of provisions of a Covered Tax Agreement as they are modified by this Convention shall be determined in accordance with the provision(s) of the Covered Tax Agreement relating to the resolution by mutual agreement of questions of interpretation or application of the Covered Tax Agreement (as those provisions may be modified by this Convention).
 
 \2. Any question arising as to the interpretation or implementation of this Convention may be addressed by a Conference of the Parties convened in accordance with paragraph 3 of Article 31 (Conference of the Parties).
@@ -1360,13 +1009,7 @@ Article 35 - Entry into Effect
 
 \1. The provisions of this Convention shall have effect in each Contracting Jurisdiction with respect to a Covered Tax Agreement:
 
-a) with respect to taxes withheld at source on amounts paid or credited to non-residents, where the event giving rise to such taxes occurs on or after the first day of the next calendar year that begins on or after the latest of the dates on which this Convention enters into force for each of the Contracting Jurisdictions to the Covered Tax Agreement; and TREATY RELATED MEASURES TO PREVENT BASE
-
-*58*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
-b) with respect to all other taxes levied by that Contracting Jurisdiction, for taxes levied with respect to taxable periods beginning on or after the expiration of a period of six calendar months (or a shorter period, if all Contracting Jurisdictions notify the Depositary that they intend to apply such shorter period) from the latest of the dates on which this Convention enters into force for each of the Contracting Jurisdictions to the Covered Tax Agreement.
+a) with respect to taxes withheld at source on amounts paid or credited to non-residents, where the event giving rise to such taxes occurs on or after the first day of the next calendar year that begins on or after the latest of the dates on which this Convention enters into force for each of the Contracting Jurisdictions to the Covered Tax Agreement; and b) with respect to all other taxes levied by that Contracting Jurisdiction, for taxes levied with respect to taxable periods beginning on or after the expiration of a period of six calendar months (or a shorter period, if all Contracting Jurisdictions notify the Depositary that they intend to apply such shorter period) from the latest of the dates on which this Convention enters into force for each of the Contracting Jurisdictions to the Covered Tax Agreement.
 
 \2. Solely for the purpose of its own application of subparagraph a) of paragraph 1 and subparagraph a) of paragraph 5, a Party may choose to substitute "taxable period" for "calendar year", and shall notify the Depositary accordingly.
 
@@ -1378,13 +1021,7 @@ b) with respect to all other taxes levied by that Contracting Jurisdiction, for 
 
 a) with respect to taxes withheld at source on amounts paid or credited to non-residents, where the event giving rise to such taxes occurs on or after the first day of the next calendar year that begins on or after 30 days after the date of the communication by the Depositary of the notification of the extension of the list of agreements; and
 
-b) with respect to all other taxes levied by that Contracting Jurisdiction, for taxes levied with respect to taxable periods beginning on or after the expiration of a period of nine calendar months (or a shorter period, if all Contracting TREATY RELATED MEASURES TO PREVENT BASE
-
-*59*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-Jurisdictions notify the Depositary that they intend to apply such shorter period) from the date of the communication by the Depositary of the notification of the extension of the list of agreements.
+b) with respect to all other taxes levied by that Contracting Jurisdiction, for taxes levied with respect to taxable periods beginning on or after the expiration of a period of nine calendar months (or a shorter period, if all Contracting Jurisdictions notify the Depositary that they intend to apply such shorter period) from the date of the communication by the Depositary of the notification of the extension of the list of agreements.
 
 \6. A Party may reserve the right for paragraph 4 not to apply with respect to its Covered Tax Agreements.
 
@@ -1404,12 +1041,6 @@ with references to "30 days after the date of receipt by the Depositary of the l
 
 v) the references in subparagraph a) of paragraph 6 of Article 29 (Notifications) to "on the date of the communication by the Depositary of the additional notification"; and
 
-**TREATY RELATED MEASURES TO PREVENT BASE**
-
-**EROSION AND PROFIT SHIFTING)**
-
-*[S.L. 123.183 60*
-
 vi) the reference in subparagraph b) of paragraph 6 of Article 29 (Notifications) to "on the latest of the dates on which the Convention enters into force for those Contracting Jurisdictions";
 
 with references to "30 days after the date of receipt by the Depositary of the latest notification by each Contracting Jurisdiction making the reservation described in paragraph 7 of Article 35 (Entry into Effect) that it has completed its internal procedures for the entry into effect of the additional notification with respect to that specific Covered Tax Agreement";
@@ -1424,13 +1055,7 @@ ix) the references in paragraph 4 of Article 36 (Entry into Effect of Part VI) t
 
 x) the reference in paragraph 5 of Article 36 (Entry into Effect of Part VI) to "the date of the communication by the Depositary of the additional notification";
 
-with references to "30 days after the date of receipt by the Depositary of the latest notification by each Contracting Jurisdiction making the reservation described in paragraph 7 of Article 35 (Entry into Effect) that it has completed its internal procedures for the entry into effect of the provisions of Part VI (Arbitration) with respect to that specific Covered Tax TREATY RELATED MEASURES TO PREVENT BASE
-
-*61*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-Agreement".
+with references to "30 days after the date of receipt by the Depositary of the latest notification by each Contracting Jurisdiction making the reservation described in paragraph 7 of Article 35 (Entry into Effect) that it has completed its internal procedures for the entry into effect of the provisions of Part VI (Arbitration) with respect to that specific Covered Tax Agreement".
 
 b) A Party making a reservation in accordance with subparagraph a) shall notify the confirmation of the completion of its internal procedures simultaneously to the Depositary and the other Contracting Jurisdiction(s).
 
@@ -1444,13 +1069,7 @@ a) with respect to cases presented to the competent authority of a Contracting J
 
 b) with respect to cases presented to the competent authority of a Contracting Jurisdiction prior to the later of the dates on which this Convention enters into force for each of the Contracting Jurisdictions to the Covered Tax Agreement, on the date when both Contracting Jurisdictions have notified the Depositary that they have reached mutual agreement pursuant to paragraph 10 of Article 19 (Mandatory Binding Arbitration), along with information regarding the date or dates on which such cases shall be considered to have been presented to the competent authority of a Contracting Jurisdiction (as described in subparagraph a) of paragraph 1 of Article 19 (Mandatory Binding Arbitration)) according to the terms of that mutual agreement.
 
-\2. A Party may reserve the right for Part VI (Arbitration) to apply to a case presented to the competent authority of a Contracting Jurisdiction prior to the later of the dates on which this Convention enters into force for each of the Contracting Jurisdictions to the Covered Tax Agreement only to the extent that the competent TREATY RELATED MEASURES TO PREVENT BASE
-
-*62*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
-authorities of both Contracting Jurisdictions agree that it will apply to that specific case.
+\2. A Party may reserve the right for Part VI (Arbitration) to apply to a case presented to the competent authority of a Contracting Jurisdiction prior to the later of the dates on which this Convention enters into force for each of the Contracting Jurisdictions to the Covered Tax Agreement only to the extent that the competent authorities of both Contracting Jurisdictions agree that it will apply to that specific case.
 
 \3. In the case of a new Covered Tax Agreement resulting from an extension pursuant to paragraph 5 of Article 29 (Notifications) of the list of agreements notified under clause ii) of subparagraph a) of paragraph 1 of Article 2 (Interpretation of Terms), the references in paragraphs 1 and 2 of this Article to "the later of the dates on which this Convention enters into force for each of the Contracting Jurisdictions to the Covered Tax Agreement" shall be replaced with references to "the date of the communication by the Depositary of the notification of the extension of the list of agreements".
 
@@ -1462,13 +1081,7 @@ Article 37 - Withdrawal
 
 \1. Any Party may, at any time, withdraw from this Convention by means of a notification addressed to the Depositary.
 
-\2. Withdrawal pursuant to paragraph 1 shall become effective on the date of receipt of the notification by the Depositary. In cases where this Convention has entered into force with respect to all Contracting Jurisdictions to a Covered Tax Agreement before the date TREATY RELATED MEASURES TO PREVENT BASE
-
-*63*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-on which a Party’s withdrawal becomes effective, that Covered Tax Agreement shall remain as modified by this Convention.
+\2. Withdrawal pursuant to paragraph 1 shall become effective on the date of receipt of the notification by the Depositary. In cases where this Convention has entered into force with respect to all Contracting Jurisdictions to a Covered Tax Agreement before the date on which a Party’s withdrawal becomes effective, that Covered Tax Agreement shall remain as modified by this Convention.
 
 Article 38 - Relation with Protocols
 
@@ -1502,12 +1115,6 @@ g) any other communication related to this Convention.
 
 a) Covered Tax Agreements;
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*64*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
 **b) reservations made by the Parties; and**
 
 c) notifications made by the Parties.
@@ -1515,12 +1122,6 @@ c) notifications made by the Parties.
 In witness whereof the undersigned, being duly authorised thereto, have signed this Convention.
 
 Done at Paris, the 24th day of November 2016, in English and French, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Organisation for Economic Co-operation and Development.
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*65*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
 
 ## SCHEDULE 2
 
@@ -1573,12 +1174,6 @@ RESPECT TO
 TAXES ON
 
 INCOME
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*66*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
 
 Date of Other Original/
 
@@ -1661,12 +1256,6 @@ TAXES ON
 INCOME AND ON
 
 CAPITAL
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*67*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
 
 Date of Other Original/
 
@@ -1756,12 +1345,6 @@ TAXES ON
 
 INCOME
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*68*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
 Date of Other Original/
 
 Date of Entry No. Title Contracting Amending
@@ -1838,12 +1421,6 @@ TAXES ON
 
 INCOME
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*69*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
 Date of Other Original/
 
 Date of Entry No. Title Contracting Amending
@@ -1913,12 +1490,6 @@ TAXES ON
 INCOME AND ON
 
 CAPITAL
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*70*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
 
 Date of Other Original/
 
@@ -2007,12 +1578,6 @@ RESPECT TO
 TAXES ON
 
 INCOME
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*71*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
 
 Date of Other Original/
 
@@ -2104,12 +1669,6 @@ INCOME AND
 
 CAPITAL
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*72*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
 Date of Other Original/
 
 Date of Entry No. Title Contracting Amending
@@ -2191,12 +1750,6 @@ RESPECT TO
 TAXES ON
 
 INCOME
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*73*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
 
 Date of Other Original/
 
@@ -2280,12 +1833,6 @@ OF DOUBLE
 
 TAXATION
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*74*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
 Date of Other Original/
 
 Date of Entry No. Title Contracting Amending
@@ -2363,12 +1910,6 @@ RESPECT TO
 TAXES ON
 
 INCOME
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*75*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
 
 Date of Other Original/
 
@@ -2456,12 +1997,6 @@ PREVENTION OF
 
 FISCAL EVASION
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*76*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
 Date of Other Original/
 
 Date of Entry No. Title Contracting Amending
@@ -2543,12 +2078,6 @@ RESPECT TO
 TAXES ON
 
 INCOME
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*77*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
 
 Date of Other Original/
 
@@ -2636,12 +2165,6 @@ TAXES ON
 
 INCOME
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*78*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
 Date of Other Original/
 
 Date of Entry No. Title Contracting Amending
@@ -2711,12 +2234,6 @@ TAXES ON
 INCOME AND ON
 
 CAPITAL
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*79*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
 
 Date of Other Original/
 
@@ -2791,12 +2308,6 @@ AVOIDANCE OF
 DOUBLE
 
 TAXATION
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*80*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
 
 Date of Other Original/
 
@@ -2886,12 +2397,6 @@ RESPECT TO TAX
 
 ON INCOME
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*81*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
 Date of Other Original/
 
 Date of Entry No. Title Contracting Amending
@@ -2963,12 +2468,6 @@ TAXES ON
 INCOME AND ON
 
 CAPITAL
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*82*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
 
 Date of Other Original/
 
@@ -3051,12 +2550,6 @@ RESPECT TO
 TAXES ON
 
 INCOME
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*83*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
 
 Date of Other Original/
 
@@ -3142,12 +2635,6 @@ TAXES ON
 
 INCOME
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*84*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
 Date of Other Original/
 
 Date of Entry No. Title Contracting Amending
@@ -3225,12 +2712,6 @@ WITH RESPECT TO
 TAXES ON
 
 INCOME
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*85*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
 
 Date of Other Original/
 
@@ -3310,12 +2791,6 @@ TAXES ON
 
 INCOME
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*86*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
 Date of Other Original/
 
 Date of Entry No. Title Contracting Amending
@@ -3394,12 +2869,6 @@ TAXES ON
 
 INCOME
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*87*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
 Date of Other Original/
 
 Date of Entry No. Title Contracting Amending
@@ -3469,12 +2938,6 @@ RESPECT TO
 TAXES ON
 
 INCOME
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*88*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
 
 Date of Other Original/
 
@@ -3559,12 +3022,6 @@ RESPECT TO
 TAXES ON
 
 INCOME
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*89*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
 
 Date of Other Original/
 
@@ -3654,12 +3111,6 @@ INCOME AND ON
 
 CAPITAL
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*90*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
 Date of Other Original/
 
 Date of Entry No. Title Contracting Amending
@@ -3720,13 +3171,7 @@ Article 6 - Purpose of a Covered Tax Agreement
 
 Notification of Choice of Optional Provisions
 
-Pursuant to Article 6(6) of the Convention, Malta hereby TREATY RELATED MEASURES TO PREVENT BASE
-
-*91*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-chooses to apply Article 6(3).
+Pursuant to Article 6(6) of the Convention, Malta hereby chooses to apply Article 6(3).
 
 Notification of Existing Preamble Language in Listed Agreements
 
@@ -3761,12 +3206,6 @@ Desiring to conclude a Convention for the avoidance of double taxation and the 7
 prevention of fiscal evasion with respect to taxes on income
 
 desiring to conclude an Agreement for the 8 Belgium avoidance of double taxation and the prevention of fiscal evasion
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*92*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
 
 Listed Other
 
@@ -3822,12 +3261,6 @@ Desiring to conclude an Agreement for the avoidance of double taxation and the 2
 
 prevention of fiscal evasion with respect to taxes on income and on capital
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*93*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
 Listed Other
 
 Agreement Contracting Preamble Text
@@ -3878,12 +3311,6 @@ desiring to conclude an Agreement for the Avoidance of Double Taxation with resp
 
 Taxes on Income and the Prevention of Fiscal Evasion
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*94*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
 Listed Other
 
 Agreement Contracting Preamble Text
@@ -3921,12 +3348,6 @@ WHEREAS the Contracting States recognise that the well-developed economic ties b
 WHEREAS the Contracting States wish to develop their relationship further by 39 Liechtenstein cooperating to their mutual benefits in the field of taxation; and
 
 WHEREAS the Contracting States wish to conclude a Convention for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and on capital
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*95*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
 
 Listed Other
 
@@ -3982,12 +3403,6 @@ desiring to conclude an Agreement for the avoidance of double taxation and the 5
 
 prevention of fiscal evasion with respect to taxes on income
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*96*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
 Listed Other
 
 Agreement Contracting Preamble Text
@@ -4027,12 +3442,6 @@ Republic prevention of fiscal evasion with respect to taxes on income
 desiring to conclude a Convention for the avoidance of double taxation and the 61 Slovenia
 
 prevention of fiscal evasion with respect to taxes on income
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*97*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
 
 Listed Other
 
@@ -4081,12 +3490,6 @@ Kingdom prevention of fiscal evasion with respect to taxes on income and capital
 Desiring to conclude a Convention for the avoidance of double taxation and the 72 Uruguay
 
 prevention of fiscal evasion with respect to taxes on income and on capital
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*98*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
 
 Listed Other
 
@@ -4155,12 +3558,6 @@ Listed Agreement Number Other Contracting Jurisdiction 3 Australia
 **31 Italy**
 
 **32 Jersey**
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*99*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
 
 Listed Agreement Number Other Contracting Jurisdiction 33 Jordan
 
@@ -4240,12 +3637,6 @@ Article 7 - Prevention of Treaty Abuse
 
 Notification of Choice of Optional Provisions
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*100*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
 Pursuant to Article 7(17)(b) of the Convention, Malta hereby chooses to apply Article 7(4).
 
 **Notification of Existing Provisions in Listed Agreements**
@@ -4304,13 +3695,7 @@ Article 9 - Capital Gains from Alienation of Shares or Interests of Entities Der
 
 Reservation
 
-Pursuant to Article 9(6)(a) of the Convention, Malta reserves the right for Article 9(1) not to apply to its Covered Tax Agreements. TREATY RELATED MEASURES TO PREVENT BASE
-
-*101*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-Notification of Choice of Optional Provisions
+Pursuant to Article 9(6)(a) of the Convention, Malta reserves the right for Article 9(1) not to apply to its Covered Tax Agreements. Notification of Choice of Optional Provisions
 
 Pursuant to Article 9(8) of the Convention, Malta hereby chooses to apply Article 9(4).
 
@@ -4389,12 +3774,6 @@ Number
 35 Kuwait Article 13(1)
 
 36 Latvia Article 13(1)
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*102*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
 
 Listed
 
@@ -4480,12 +3859,6 @@ Reservation
 
 Pursuant to Article 10(5)(a) of the Convention, Malta reserves the right for the entirety of Article 10 not to apply to its Covered Tax Agreements.
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*103*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
 Article 11 - Application of Tax Agreements to Restrict a Party’s Right to Tax its Own Residents
 
 Reservation
@@ -4522,12 +3895,6 @@ Reservation
 
 **Notification of Existing Provisions in Listed Agreements**
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*104*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
 Pursuant to Article 16(6)(a) of the Convention, Malta considers that the following agreements contains a provision described in Article 16(4)(a)(i). The article and paragraph number of each such provision is identified below.
 
 Listed
@@ -4540,13 +3907,7 @@ Jurisdiction
 
 Number
 
-1 Albania Article 24(1), first sentence 2 Andorra Article 23(1), first sentence 3 Australia Article 24(1), first sentence 4 Austria Article 25(1), first sentence 5 Azerbaijan Article 24(1), first sentence 6 Bahrain Article 23(1), first sentence 7 Barbados Article 24(1), first sentence 8 Belgium Article 25(1), first sentence 9 Canada Article 25(1), first sentence 10 China Article 26(1), first sentence 11 Croatia Article 24(1), first sentence 12 Curaçao Article 24(1),first sentence 13 Cyprus Article 26(1), first sentence 14 Czech Republic Article 25(1), first sentence 15 Denmark Article 26(1), first sentence 16 Egypt Article 24(1), first sentence 17 Estonia Article 24(1), first sentence 18 Finland Article 25(1), first sentence 19 France Article 26(1), first sentence 20 Georgia Article 25(1), first sentence 21 Germany Article 25(1), first sentence 22 Greece Article 24(1), first sentence 23 Guernsey Article 23(1), first sentence 24 Hong Kong Article 23(1), first sentence 25 Hungary Article 25(1), first sentence 26 Iceland Article 24(1), first sentence 27 India Article 25(1), first sentence 28 Ireland Article 24(1), first sentence 29 Isle of Man Article 24(1), first sentence 30 Israel Article 24(1), first sentence 31 Italy Article 24(1), first sentence 32 Jersey Article 24(1), first sentence 33 Jordan Article 24(1), first sentence 34 Korea Article 25(1), first sentence 35 Kuwait Article 25(1), first sentence 36 Latvia Article 25(1), first sentence 37 Lebanon Article 24(1), first sentence TREATY RELATED MEASURES TO PREVENT BASE
-
-*105*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-Listed
+1 Albania Article 24(1), first sentence 2 Andorra Article 23(1), first sentence 3 Australia Article 24(1), first sentence 4 Austria Article 25(1), first sentence 5 Azerbaijan Article 24(1), first sentence 6 Bahrain Article 23(1), first sentence 7 Barbados Article 24(1), first sentence 8 Belgium Article 25(1), first sentence 9 Canada Article 25(1), first sentence 10 China Article 26(1), first sentence 11 Croatia Article 24(1), first sentence 12 Curaçao Article 24(1),first sentence 13 Cyprus Article 26(1), first sentence 14 Czech Republic Article 25(1), first sentence 15 Denmark Article 26(1), first sentence 16 Egypt Article 24(1), first sentence 17 Estonia Article 24(1), first sentence 18 Finland Article 25(1), first sentence 19 France Article 26(1), first sentence 20 Georgia Article 25(1), first sentence 21 Germany Article 25(1), first sentence 22 Greece Article 24(1), first sentence 23 Guernsey Article 23(1), first sentence 24 Hong Kong Article 23(1), first sentence 25 Hungary Article 25(1), first sentence 26 Iceland Article 24(1), first sentence 27 India Article 25(1), first sentence 28 Ireland Article 24(1), first sentence 29 Isle of Man Article 24(1), first sentence 30 Israel Article 24(1), first sentence 31 Italy Article 24(1), first sentence 32 Jersey Article 24(1), first sentence 33 Jordan Article 24(1), first sentence 34 Korea Article 25(1), first sentence 35 Kuwait Article 25(1), first sentence 36 Latvia Article 25(1), first sentence 37 Lebanon Article 24(1), first sentence Listed
 
 Other Contracting
 
@@ -4558,13 +3919,7 @@ Number
 
 38 Libya Article 26(1), first sentence 39 Liechtenstein Article 24(1), first sentence 40 Lithuania Article 25(1), first sentence 41 Luxembourg Article 25(1), first sentence 42 Malaysia Article 26(1), first sentence 43 Mauritius Article 24(1), first sentence 44 Mexico Article 23(1), first sentence 45 Moldova Article 23(1), first sentence 46 Montenegro Article 24(1), first sentence 47 Morocco Article 25(1), first sentence 48 Netherlands Article 27(1), first sentence 49 Norway Article 24(1), first sentence 50 Pakistan Article 24(1), first sentence 51 Poland Article 25(1), first sentence 52 Portugal Article 24(1), first sentence 53 Qatar Article 25(1), first sentence 54 Romania Article 26(1), first sentence 55 Russia Article 24(1), first sentence 56 San Marino Article 24(1), first sentence 57 Saudi Arabia Article 24(1), first sentence 58 Serbia Article 24(1), first sentence 59 Singapore Article 24(1), first sentence 60 Slovakia Article 24(1), first sentence 61 Slovenia Article 25(1), first sentence 62 South Africa Article 24(1), first sentence 63 Spain Article 24(1), first sentence 64 Sweden Article 24(1), first sentence 65 Switzerland Article 25(1), first sentence 66 Syria Article 24(1), first sentence 67 Tunisia Article 24(1), first sentence 68 Turkey Article 24(1), first sentence 69 Ukraine Article 24(1),first sentence 70 United Arab Emirates Article 24(1), first sentence 71 United Kingdom Article 26(1), first sentence 72 Uruguay Article 24(1), first sentence 73 Viet Nam Article 25(1), first sentence
 
-Pursuant to Article 16(6)(b)(i) of the Convention, Malta considers that the following agreements contain a provision that provides that a case referred to in the first sentence of Article 16(1) must be presented within a specific time period that is shorter than three years from the first notification of the action resulting in TREATY RELATED MEASURES TO PREVENT BASE
-
-*106*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
-taxation not in accordance with the provisions of the Covered Tax Agreement. The article and paragraph number of each such provision is identified below.
+Pursuant to Article 16(6)(b)(i) of the Convention, Malta considers that the following agreements contain a provision that provides that a case referred to in the first sentence of Article 16(1) must be presented within a specific time period that is shorter than three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Covered Tax Agreement. The article and paragraph number of each such provision is identified below.
 
 Listed
 
@@ -4644,12 +3999,6 @@ sentence
 
 sentence
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*107*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
 Listed
 
 Other Contracting
@@ -4703,12 +4052,6 @@ Number
 34 Korea Article 25(1), second sentence
 
 35 Kuwait Article 25(1), second sentence
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*108*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
 
 Listed
 
@@ -4808,12 +4151,6 @@ sentence
 
 sentence
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*109*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
 Listed
 
 Other Contracting
@@ -4865,12 +4202,6 @@ Listed Agreement Number Other Contracting Jurisdiction 8 Belgium
 9 Canada
 
 50 Pakistan
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*110*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
 
 **53 Qatar**
 
@@ -4935,12 +4266,6 @@ Number
 12 Curaçao Article 9(2)
 
 13 Cyprus Article 9(3)
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*111*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
 
 Listed
 
@@ -5028,12 +4353,6 @@ Number
 
 56 San Marino Article 9(2)
 
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*112*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
-
 Listed
 
 Other Contracting
@@ -5092,13 +4411,7 @@ Pursuant to Article 19(12) of the Convention, Malta reserves the right for the f
 
 a) any unresolved issue arising from a mutual agreement procedure case otherwise within the scope of the arbitration process provided for by the Convention shall not be submitted to arbitration, if a decision on this issue has already been rendered by a court or administrative tribunal of either Contracting Jurisdiction;
 
-b) if, at any time after a request for arbitration has been made and before the arbitration panel has delivered its decision to the competent authorities of the Contracting Jurisdictions, a decision concerning the issue is rendered by a TREATY RELATED MEASURES TO PREVENT BASE
-
-*113*
-
-EROSION AND PROFIT SHIFTING) [S.L. 123.183
-
-court or administrative tribunal of one of the Contracting Jurisdictions, the arbitration process shall terminate.
+b) if, at any time after a request for arbitration has been made and before the arbitration panel has delivered its decision to the competent authorities of the Contracting Jurisdictions, a decision concerning the issue is rendered by a court or administrative tribunal of one of the Contracting Jurisdictions, the arbitration process shall terminate.
 
 Article 23 - Type of Arbitration Process
 
@@ -5143,12 +4456,6 @@ Article 28 - Reservations
 Reservation Formulated for Scope of Arbitration
 
 Pursuant to Article 28(2)(a) of the Convention, Malta has no reservations with respect to the scope of cases that shall be eligible for arbitration under the provisions of Part VI.
-
-TREATY RELATED MEASURES TO PREVENT BASE
-
-*114*
-
-[S.L. 123.183 EROSION AND PROFIT SHIFTING)
 
 Notification of Observation to the Reservation Made by the Other Contracting Jurisdiction
 

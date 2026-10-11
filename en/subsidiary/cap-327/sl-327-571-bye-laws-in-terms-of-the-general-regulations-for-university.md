@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws in terms of the General Regulations for University Postgraduate Awards, for the degree of Master of Science in Building Services Engineering - M.Sc. - offered under the auspices of the Faculty of Engineering (S.L. 327.571)
 
-AWARDS, FOR THE DEGREE OF MASTER OF SCIENCE IN
-
-BUILDING SERVICES ENGINEERING - M.SC. - UNDER
-
-*1*
-
-THE AUSPICES OF THE FACULTY OF ENGINEERING [S.L. 327.571
-
 **SUBSIDIARY LEGISLATION 327.571**
 
 **BYE-LAWS IN TERMS OF THE GENERAL**
@@ -59,11 +51,7 @@ These bye-laws shall be applicable for courses commencing in October 2017 or lat
 
 (1) The Course shall be open to applicants in possession of the degree of Bachelor of Engineering (Honours) from this University or from any other higher education institution recognized by Senate, obtained with at least Second Class Honours.
 
-(2) In exceptional cases the Admissions Board, on the recommendation of the Board, may admit into the Course applicants not in possession of the qualification listed in paragraph (1) of this bye-law, provided that it is satisfied that such applicants are in possession of other relevant academic or professional qualifications and experience that together are deemed to be comparable to the level of a first degree. The admission of applicants under this bye-law may AWARDS, FOR THE DEGREE OF MASTER OF SCIENCE IN BUILDING SERVICES ENGINEERING - M.SC. - UNDER [S.L. 327.571 THE AUSPICES OF THE FACULTY OF ENGINEERING
-
-be made conditional on the results of an interview conducted by an interviewing board appointed for the purpose.
-
-*2*
+(2) In exceptional cases the Admissions Board, on the recommendation of the Board, may admit into the Course applicants not in possession of the qualification listed in paragraph (1) of this bye-law, provided that it is satisfied that such applicants are in possession of other relevant academic or professional qualifications and experience that together are deemed to be comparable to the level of a first degree. The admission of applicants under this bye-law may be made conditional on the results of an interview conducted by an interviewing board appointed for the purpose.
 
 (3) The interviewing board appointed by the Board shall be composed of at least three members.
 
@@ -94,14 +82,6 @@ The Course shall extend over three years (six semesters) of part-time study.
 (1) Students shall be required to submit an individual dissertation normally not exceeding 20,000 words in accordance with the guidelines issued by the Board.
 
 (2) Work on the dissertation shall be undertaken during the final year of the Course. Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
-
-AWARDS, FOR THE DEGREE OF MASTER OF SCIENCE IN
-
-BUILDING SERVICES ENGINEERING - M.SC. - UNDER
-
-*3*
-
-THE AUSPICES OF THE FACULTY OF ENGINEERING [S.L. 327.571
 
 (3) A provisional title for the dissertation and a detailed research proposal shall be submitted to the Board of Studies for approval before the end of the second year.
 

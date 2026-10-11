@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister for Finance for the issue of Euro 40,000,000 Malta Government Stocks (S.L. 161.146)
 
-*1*
-
-MALTA GOVERNMENT STOCKS [S.L. 161.146
-
 **SUBSIDIARY LEGISLATION 161.146**
 
 **DIRECTIVE BY THE MINISTER FOR FINANCE**
@@ -63,11 +59,7 @@ All persons and, or entities are eligible to apply for these Stocks. Allotment w
 
 ## 6. Sum of money to be raised.
 
-The sum of money to be raised by either Stock, or of any combination of the two Stocks shall in the aggregate be Euro [S.L. 161.146 MALTA GOVERNMENT STOCKS
-
-40,000,000. The Accountant General reserves the right to increase the sum of money to be raised up to a maximum of Euro 35,000,000.
-
-*2*
+The sum of money to be raised by either Stock, or of any combination of the two Stocks shall in the aggregate be Euro 40,000,000. The Accountant General reserves the right to increase the sum of money to be raised up to a maximum of Euro 35,000,000.
 
 ## 7. Rate of interest and dates of payment.
 

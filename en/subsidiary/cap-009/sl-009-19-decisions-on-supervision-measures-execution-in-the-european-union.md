@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Decisions on Supervision Measures (Execution in the European Union) Regulations (S.L. 9.19)
 
-*1*
-
-(EXECUTION IN THE EUROPEAN UNION) [S.L.9.19
-
 **SUBSIDIARY LEGISLATION 9.19**
 
 **DECISIONS ON SUPERVISION MEASURES**
@@ -37,42 +33,27 @@ The title of these regulations is the Decisions on Supervision Measures (Executi
 
 In these regulations, unless the context otherwise requires - "the Arrangement" means the Council Framework Decision 2009/829/JHA of 23rd October, 2009 on the application, between Member States of the European Union, of the principle of mutual recognition to decisions on supervision measures as an alternative to provisional detention;
 
-"certificate" means the form, as contained in the Annex to the
+"certificate" means the form, as contained in the Annex to the Arrangement, purporting to reproduce details setting out the information required by the same form, set out in Schedule 2;
 
-Arrangement, purporting to reproduce details setting out the  
-information required by the same form, set out in Schedule 2;  
-"decision on supervision measures" means an enforceable  
-decision taken in the course of criminal proceedings by a  
-competent authority of the issuing State in accordance with its  
-national law and procedures and imposing on a natural person, as  
-an alternative to provisional detention, one or more supervision  
-measures;  
-"the European Union" means the European Union as referred to  
-in the Treaty;  
-"executing State" means the Member State in which supervision  
-measures are monitored;  
-"issuing State" means the Member State in which a decision on  
-supervision measures has been issued;  
-"relevant offence" means:  
-(a) a scheduled offence; or  
-(b) any other offence liable to the punishment of  
-imprisonment or of detention for a term of more than  
-one year;  
-"scheduled offence" is any offence in the list of offences set out  
-in Schedule 1;  
-"supervision measures" means obligations and instructions imposed  
-on a natural person, in accordance with the national law and  
-procedures of the issuing State and includes:  
-(a) an obligation for the person to inform the competent  
-authority in the executing State of any change of  
-residence, in particular for the purpose of receiving a  
-summons to attend a hearing or a trial in the course of
+"decision on supervision measures" means an enforceable decision taken in the course of criminal proceedings by a competent authority of the issuing State in accordance with its national law and procedures and imposing on a natural person, as an alternative to provisional detention, one or more supervision measures;
 
-*2*
+"the European Union" means the European Union as referred to in the Treaty;
 
-[S.L.9.19 (EXECUTION IN THE EUROPEAN UNION)
+"executing State" means the Member State in which supervision measures are monitored;
 
-criminal proceedings;
+"issuing State" means the Member State in which a decision on supervision measures has been issued;
+
+"relevant offence" means:
+
+(a) a scheduled offence; or
+
+(b) any other offence liable to the punishment of imprisonment or of detention for a term of more than one year;
+
+"scheduled offence" is any offence in the list of offences set out in Schedule 1;
+
+"supervision measures" means obligations and instructions imposed on a natural person, in accordance with the national law and procedures of the issuing State and includes:
+
+(a) an obligation for the person to inform the competent authority in the executing State of any change of residence, in particular for the purpose of receiving a summons to attend a hearing or a trial in the course of criminal proceedings;
 
 (b) an obligation not to enter certain localities, places or defined areas in the issuing or executing State;
 
@@ -114,10 +95,6 @@ Provided that it shall not be necessary for the decision on supervision measures
 
 (3) The original of the decision on supervision measures, or a certified copy thereof, and the original of the certificate shall be transmitted to the executing State if it so requires.
 
-*3*
-
-(EXECUTION IN THE EUROPEAN UNION) [S.L.9.19
-
 ## 6. Procedure for the forwarding of decision.
 
 (1) A decision on supervision measures may be forwarded to the Member State in which the person to whom the decision applies is lawfully and ordinarily residing in cases where the person, having been informed about the measures concerned, consents to return to that State.
@@ -150,11 +127,7 @@ Provided that in such cases there shall be no verification of the double crimina
 
 (c) if the conduct relates to customs or exchange, it is immaterial that the law of Malta does not contain rules of the same kind as those of the law of the issuing State.
 
-(3) The certificate accompanying the decision shall include, apart from any of the measures referred to in paragraphs (a) to (f) of the definition "supervision measures" in regulation 2, only such other measures as would have been notified by the executing State in accordance with Article 8(2) of the Arrangement, and shall [S.L.9.19 (EXECUTION IN THE EUROPEAN UNION)
-
-indicate:
-
-*4*
+(3) The certificate accompanying the decision shall include, apart from any of the measures referred to in paragraphs (a) to (f) of the definition "supervision measures" in regulation 2, only such other measures as would have been notified by the executing State in accordance with Article 8(2) of the Arrangement, and shall indicate:
 
 (a) where applicable, the length of time to which the decision on supervision measures applies and whether a renewal of this decision is possible; and
 
@@ -181,10 +154,6 @@ Where the Attorney General receives a decision on supervision measures within th
 (f) there is an immunity or privilege under the law of Malta which prevents the monitoring of the supervision measures;
 
 (g) the decision has been imposed on a person with regard to acts for which he would have been exempted from criminal responsibility under the criminal law of Malta by reason of his age;
-
-*5*
-
-(EXECUTION IN THE EUROPEAN UNION) [S.L.9.19
 
 (h) in the event of a breach of the supervision measures a request for extradition would be refused in accordance with Extradition (Designated Foreign Countries) Order.
 
@@ -222,10 +191,6 @@ Provided that if a legal remedy has been introduced against the enforcement of t
 
 (a) where the person concerned has established his lawful and ordinary residence in a State other than the executing State;
 
-**(EXECUTION IN THE EUROPEAN UNION)**
-
-*[S.L.9.19 6*
-
 (b) where the issuing State has notified the executing State of the withdrawal of the certificate pursuant to Article 13(3) of the Arrangement;
 
 (c) where the issuing authority has modified the supervision measure and the executing State has refused to monitor the modified measure since it is not one to which reference is made in the definition "supervision measures" in regulation 2;
@@ -258,10 +223,6 @@ The issuing authority shall be informed by any means which leaves a written reco
 
 Provided that in such case notice shall be given using the form set out in Annex II in the Arrangement.
 
-*7*
-
-(EXECUTION IN THE EUROPEAN UNION) [S.L.9.19
-
 ## 15. Continuation of the monitoring of supervision measures.
 
 Where the time period for the monitoring of the supervision measure in the executing State is due to expire, the issuing authority may request the executing authority to extend the time period for the monitoring of the supervision and indicate the time for which the extension is required.
@@ -292,11 +253,7 @@ Any supervision measures being monitored by a court of criminal jurisdiction sha
 
 (1) The issuing authority shall, in accordance with its laws, have the competence to take all subsequent decisions relating to a decision on supervision measures, including:
 
-(a) the renewal, review and withdrawal of the decision on [S.L.9.19 (EXECUTION IN THE EUROPEAN UNION)
-
-supervision measures;
-
-*8*
+(a) the renewal, review and withdrawal of the decision on supervision measures;
 
 (b) the modification of the supervision measures;
 
@@ -309,8 +266,6 @@ supervision measures;
 (b) refuse to monitor the modified supervision measures if these measures do not fall within the types of supervision measures referred to in the definition thereof in regulation 2.
 
 (3) The competence of the issuing authority in issuing a supervision measure pursuant to sub-regulation (1) shall be without prejudice to proceedings that may be commenced in the executing State against the person concerned in relation to criminal offences committed by him other than those on which the decision on supervision measures is based.
-
-(EXECUTION IN THE EUROPEAN UNION) [S.L.9.19 9
 
 Schedule 1
 
@@ -386,8 +341,6 @@ unlawful seizure of aircraft/ships,
 
 sabotage.
 
-10 [S.L.9.19 (EXECUTION IN THE EUROPEAN UNION)
-
 ## Schedule 2
 
 (Regulation 5)
@@ -395,19 +348,3 @@ sabotage.
 **Certificate**
 
 referred to in Article 10 of Council Framework Decision 2009/829/JHA of 23 October 2009 on the application, between Member States of the European Union, of the principle of mutual recognition to decisions on supervision measures as an alternative to provisional detention (1)
-
-*11*
-
-(EXECUTION IN THE EUROPEAN UNION) [S.L.9.19 [S.L.9.19 (EXECUTION IN THE EUROPEAN UNION)
-
-*12*
-
-*13*
-
-(EXECUTION IN THE EUROPEAN UNION) [S.L.9.19 [S.L.9.19 (EXECUTION IN THE EUROPEAN UNION)
-
-*14*
-
-*15*
-
-(EXECUTION IN THE EUROPEAN UNION) [S.L.9.19

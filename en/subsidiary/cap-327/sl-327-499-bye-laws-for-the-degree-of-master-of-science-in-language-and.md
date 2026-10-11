@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the degree of Master of Science in Language and Computation - M.Sc. - under the auspices of the Institute of Linguistics (S.L. 327.499)
 
-COMPUTATION - M.Sc. - UNDER THE AUSPICES
-
-*1*
-
-OF THE INSTITUTE OF LINGUISTICS [S.L.327.499
-
 **SUBSIDIARY LEGISLATION 327.499**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -71,15 +65,9 @@ The programme of study shall comprise study-units to which a total of 90 ECTS cr
 
 ## 6. Postgraduate Certificate.
 
-Students who obtain the 30 ECTS credits assigned to the taught study-units with an average mark of at least 50% and do not COMPUTATION - M.Sc. - UNDER THE AUSPICES
+Students who obtain the 30 ECTS credits assigned to the taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the Postgraduate Certificate.
 
 \*These bye-laws have been repealed by Legal Notice 185 of 2022.
-
-*2*
-
-[S.L.327.499 OF THE INSTITUTE OF LINGUISTICS
-
-proceed with the course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the Postgraduate Certificate.
 
 ## 7. Publication of programme of study.
 
@@ -115,11 +103,7 @@ Students shall be allowed to proceed to the dissertation study-unit subject to o
 
 (3) Students shall be required to report to their supervisor at least once every two months, and in addition as often as the supervisor deems necessary.
 
-COMPUTATION - M.Sc. - UNDER THE AUSPICES
-
-*3*
-
-OF THE INSTITUTE OF LINGUISTICS [S.L.327.499 (4) At the end of each semester of studies supervisors shall be required to submit to the Panels of Supervision reports regarding the students under their supervision. Students shall seek approval from said Panel for any substantial modification in the title or content of the dissertation.
+(4) At the end of each semester of studies supervisors shall be required to submit to the Panels of Supervision reports regarding the students under their supervision. Students shall seek approval from said Panel for any substantial modification in the title or content of the dissertation.
 
 (5) Panels of Supervision shall periodically inform the Board, in writing, on the general performance of each student. Such advice may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 

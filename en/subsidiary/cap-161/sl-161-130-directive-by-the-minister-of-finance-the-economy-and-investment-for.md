@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister of Finance, the Economy and Investment for the issue of Euro 50,000,000 Malta Government Stocks (S.L. 161.130)
 
-*1*
-
-MALTA GOVERNMENT STOCKS [S.L.161.130
-
 **SUBSIDIARY LEGISLATION 161.130**
 
 DIRECTIVE BY THE MINISTER OF FINANCE,
@@ -67,11 +63,7 @@ The sum of money to be raised by either Stock, or of any combination of the two 
 
 (1) Interest on the Floating Rate Malta Government Stock 2018 (VI) linked to the six-month Euribor shall be paid at the rate linked to the six-month Euribor in effect on the applicable interest determination date, plus a spread of 90 basis points (bps) calculated on Day Count Fraction (Actual/360) for every Euro 100. The spread of 90bps is fixed and applicable until the maturity of the Stock.
 
-(2) Interest on the Floating Rate Malta Government Stock 2019 (IV) linked to the six-month Euribor shall be paid at the rate linked to the six-month Euribor in effect on the applicable interest determination date, plus a spread of 100 basis points (bps) calculated on Day Count Fraction (Actual/360) for every Euro 100. The spread of 100bps is fixed and applicable until the maturity of [S.L.161.130 MALTA GOVERNMENT STOCKS
-
-the Stock.
-
-*2*
+(2) Interest on the Floating Rate Malta Government Stock 2019 (IV) linked to the six-month Euribor shall be paid at the rate linked to the six-month Euribor in effect on the applicable interest determination date, plus a spread of 100 basis points (bps) calculated on Day Count Fraction (Actual/360) for every Euro 100. The spread of 100bps is fixed and applicable until the maturity of the Stock.
 
 (3) Interest on the Floating Rate Malta Government Stock 2018 (VI) linked to the six-month Euribor shall be payable half yearly in arrears on the 25th of March and 25th of September in every year for the duration of the Stock.
 

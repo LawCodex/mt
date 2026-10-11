@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Adult Education under the auspices of the Faculty of Education (S.L. 327.345)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.345
-
 **SUBSIDIARY LEGISLATION 327.345**
 
 BYE-LAWS FOR THE DEGREE OF MASTER OF ARTS IN ADULT EDUCATION UNDER THE AUSPICES OF THE FACULTY OF EDUCATION 20th March, 2009
@@ -62,9 +58,7 @@ These bye-laws shall be applicable for courses commencing in October 2019 or lat
 
 (3) The Board may also require applicants applying under sub-paragraph (b) of paragraph (1) and paragraph (2) of this bye-law to sit for an interview during which their ability to successfully complete the Course with profit shall be assessed.
 
-*2*
-
-[S.L.327.345 UNDER THE AUSPICES OF THE FACULTY OF EDUCATION (4) Interviews shall be conducted by an interviewing board appointed by the Board for this purpose and shall be composed of at least three persons.
+(4) Interviews shall be conducted by an interviewing board appointed by the Board for this purpose and shall be composed of at least three persons.
 
 ## 4. Course duration.
 
@@ -106,11 +100,7 @@ The programme of study shall be published after approval by Senate, normally not
 
 (1) Students shall be required to have regular contact with their supervisor.
 
-(2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies, whether the student is following the course on a full-time or a part-time basis. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if UNDER THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.345
-
-the supervisor deems this to be proper in the circumstances, provided that:
-
-*3*
+(2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies, whether the student is following the course on a full-time or a part-time basis. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 

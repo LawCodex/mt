@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Postgraduate Diploma in Nutrition and Dietetics under the auspices of the Institute of Health Care (S.L. 327.338)
 
-DIETETICS UNDER THE AUSPICES
-
-*1*
-
-OF THE INSTITUTE OF HEALTH CARE [S.L.327.338
-
 **SUBSIDIARY LEGISLATION 327.338**
 
 BYE-LAWS FOR THE POSTGRADUATE DIPLOMA IN NUTRITION AND DIETETICS UNDER THE AUSPICES OF THE INSTITUTE OF HEALTH CARE\* 2nd December, 2008
@@ -67,15 +61,9 @@ The programme of study shall be published after approval by Senate, normally not
 
 (2) Students who in any academic year fail in the assessment of not more than 20 credits for taught study-units, if following the full-time course, or not more than 10 credits if following the part-time course, shall be given the opportunity to re-sit the failed assessments during the September supplementary examination session.
 
-(3) Students who fail in more than the number of credits DIETETICS UNDER THE AUSPICES
+(3) Students who fail in more than the number of credits permitted under paragraph (2) or students who after re-assessment fail to obtain the credits for any study-unit, shall be deemed to have failed the course.
 
 \*These bye-laws have been repealed by Legal Notice 185 of 2022.
-
-*2*
-
-[S.L.327.338 OF THE INSTITUTE OF HEALTH CARE
-
-permitted under paragraph (2) or students who after re-assessment fail to obtain the credits for any study-unit, shall be deemed to have failed the course.
 
 ## 8. Classification of the Award.
 

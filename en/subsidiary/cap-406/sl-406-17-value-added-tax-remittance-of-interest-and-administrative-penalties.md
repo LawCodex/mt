@@ -6,19 +6,15 @@ type: subsidiary_legislation
 jurisdiction: mt
 language: en
 parent: "Cap. 406"
+last_amended: 2011-07-11
 status: repealed
 status_note: "Repealed by Legal Notice 103 of 2013; however refer to regulation 1(2) thereof"
 source: "https://legislation.mt/eli/sl/406.17/eng/pdf"
+version: "https://legislation.mt/eli/sl/406.17/20110711/eng"
 retrieved: 2026-10-12
 ---
 
 # Value Added Tax (Remittance of Interest and Administrative Penalties to Taxable Persons involved in Trading with Libya) Regulations (S.L. 406.17)
-
-ADMINISTRATIVE PENALTIES TO TAXABLE PERSONS
-
-*1*
-
-INVOLVED IN TRADING WITH LIBYA) [S.L.406.17
 
 **SUBSIDIARY LEGISLATION 406.17**
 
@@ -63,10 +59,6 @@ The Commissioner shall remit interest and administrative penalties due by an eli
 (c) the tax payable as declared in the tax return referred to in paragraph (a) is paid in full within four months of the due date of the said return.
 
 \*Revoked bt Legal Notice 103 of 2013 as from 16th February, 2013. But see proviso to regulation 1(2) thereof, reproduced hereunder: "Provided that any interest and administrative penalties due for any tax payable by the 15th of February 2013 shall continue to be remitted until the 15th of June 2013, subject to the terms and conditions of the Value Added Tax (Remittance of Interest and Administrative Penalties to Taxable Persons involved in Trading with Libya) Regulations.".
-
-*2*
-
-ADMINISTRATIVE PENALTIES TO TAXABLE PERSONS [S.L.406.17 INVOLVED IN TRADING WITH LIBYA)
 
 ## 5. Commissionermay impose further conditions.
 

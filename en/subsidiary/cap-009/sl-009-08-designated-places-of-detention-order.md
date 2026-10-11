@@ -1,6 +1,6 @@
 ---
 title: "Designated Places of Detention Order"
-identifier: "S.L. 9.8"
+identifier: "S.L. 9.08"
 eli: "https://legislation.mt/eli/sl/9.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/9.8/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Designated Places of Detention Order (S.L. 9.8)
+# Designated Places of Detention Order (S.L. 9.08)
 
 **SUBSIDIARY LEGISLATION 9.08**
 

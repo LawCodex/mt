@@ -1,6 +1,6 @@
 ---
 title: "Application of Part III of the Diplomatic Immunities and Privileges Act Order"
-identifier: "S.L. 191.1"
+identifier: "S.L. 191.01"
 eli: "https://legislation.mt/eli/sl/191.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/191.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Application of Part III of the Diplomatic Immunities and Privileges Act Order (S.L. 191.1)
-
-APPLICATION OF PART III OF THE
-
-*1*
-
-DIPLOMATIC IMMUNITIES AND PRIVILEGES ACT [S.L.191.01
+# Application of Part III of the Diplomatic Immunities and Privileges Act Order (S.L. 191.01)
 
 **SUBSIDIARY LEGISLATION 191.01**
 

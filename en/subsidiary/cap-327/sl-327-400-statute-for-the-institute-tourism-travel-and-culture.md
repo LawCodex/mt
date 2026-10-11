@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Statute for the Institute Tourism, Travel and Culture (S.L. 327.400)
 
-*1*
-
-FOR TOURISM, TRAVEL AND CULTURE [S.L.327.400
-
 **SUBSIDIARY LEGISLATION 327.400**
 
 **STATUTE FOR THE INSTITUTE**
@@ -77,13 +73,9 @@ The Institute shall be governed by a Board consisting of:
 
 (ii) Vice-Chairman: Director of the Institute;
 
-(iii) up to two persons appointed by the Council of [S.L.327.400 FOR TOURISM, TRAVEL AND CULTURE
+(iii) up to two persons appointed by the Council of the University;
 
 \*This Statute has been repealed by Legal Notice 235 of 2024.
-
-the University;
-
-*2*
 
 (iv) a person appointed by the Senate of the University;
 
@@ -123,11 +115,7 @@ The function of the Board shall be:
 
 (vi) require from staff members of the Institute the production of reports on academic matters, including the curricula of courses of study, qualifications for admission to courses, examinations, and certificates of attendance or qualification;
 
-(vii) recommend to the Council the creation or FOR TOURISM, TRAVEL AND CULTURE [S.L.327.400
-
-abolition of academic and non-academic posts in the Institute;
-
-*3*
+(vii) recommend to the Council the creation or abolition of academic and non-academic posts in the Institute;
 
 (viii) propose for approval to the Senate, Boards of Studies and Examiners for undergraduate and postgraduate courses.
 
@@ -159,11 +147,7 @@ The duties of the Vice-Chairman/Director shall include:
 
 (f) promoting students’ academic and personal welfare, providing first-line support to students with any difficulties they may encounter during their studies related to the activities of the Institute;
 
-(g) monitoring the running of examinations in the Institute and ensuring that all assessment and examination FOR TOURISM, TRAVEL AND CULTURE
-
-results are submitted to the Registrar’s office as follows:
-
-*[S.L.327.400 4*
+(g) monitoring the running of examinations in the Institute and ensuring that all assessment and examination results are submitted to the Registrar’s office as follows:
 
 • January session - by the end of March;
 
@@ -191,11 +175,11 @@ results are submitted to the Registrar’s office as follows:
 
 (q) performing other duties which may be assigned by the University from time to time.
 
-*5*
+*\9.*
 
-FOR TOURISM, TRAVEL AND CULTURE [S.L.327.400 The Director moreover:
+*Other duties.*
 
-*\9. Other duties.*
+The Director moreover:
 
 (a) is to report directly to the Chairman of the Board governing the Institute and shall collaborate with all senior administrative officers of the University;
 

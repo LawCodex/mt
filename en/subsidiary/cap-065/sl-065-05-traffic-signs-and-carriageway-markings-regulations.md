@@ -1,6 +1,6 @@
 ---
 title: "Traffic Signs and Carriageway Markings Regulations"
-identifier: "S.L. 65.5"
+identifier: "S.L. 65.05"
 eli: "https://legislation.mt/eli/sl/65.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/65.5/20240524/eng"
 retrieved: 2026-10-12
 ---
 
-# Traffic Signs and Carriageway Markings Regulations (S.L. 65.5)
+# Traffic Signs and Carriageway Markings Regulations (S.L. 65.05)
 
 **SUBSIDIARY LEGISLATION 65.05**
 

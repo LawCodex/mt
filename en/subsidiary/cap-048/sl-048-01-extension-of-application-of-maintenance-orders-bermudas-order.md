@@ -1,6 +1,6 @@
 ---
 title: "Extension of Application of Maintenance Orders (Bermudas) Order"
-identifier: "S.L. 48.1"
+identifier: "S.L. 48.01"
 eli: "https://legislation.mt/eli/sl/48.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/48.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Extension of Application of Maintenance Orders (Bermudas) Order (S.L. 48.1)
+# Extension of Application of Maintenance Orders (Bermudas) Order (S.L. 48.01)
 
 **SUBSIDIARY LEGISLATION 48.01**
 

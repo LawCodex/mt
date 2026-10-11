@@ -1,6 +1,6 @@
 ---
 title: "Malta Membership of the International Monetary Fund (Extension of the Loan Agreement) Order"
-identifier: "S.L. 209.2"
+identifier: "S.L. 209.02"
 eli: "https://legislation.mt/eli/sl/209.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/209.2/20190821/eng"
 retrieved: 2026-10-12
 ---
 
-# Malta Membership of the International Monetary Fund (Extension of the Loan Agreement) Order (S.L. 209.2)
-
-MONETARY FUND (EXTENSION OF THE LOAN
-
-*1*
-
-AGREEMENT) [S.L. 209.02
+# Malta Membership of the International Monetary Fund (Extension of the Loan Agreement) Order (S.L. 209.02)
 
 **SUBSIDIARY LEGISLATION 209.02**
 
@@ -49,8 +43,4 @@ It is hereby declared:
 
 (d) that the Central Bank of Malta granted its consent to the International Monetary Fund for the one-year extension in terms of paragraph 2(a) of the Loan Agreement;
 
-(e) the Special Drawing Rights-denominated amount being loaned by the Central Bank of Malta under the Loan Agreement and the Extension of the Loan Agreement will continue to be up to the equivalent of two hundred and sixty MONETARY FUND (EXTENSION OF THE LOAN [S.L. 209.02 AGREEMENT)
-
-million euro (€260,000,000).
-
-*2*
+(e) the Special Drawing Rights-denominated amount being loaned by the Central Bank of Malta under the Loan Agreement and the Extension of the Loan Agreement will continue to be up to the equivalent of two hundred and sixty million euro (€260,000,000).

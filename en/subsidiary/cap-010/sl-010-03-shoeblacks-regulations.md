@@ -1,6 +1,6 @@
 ---
 title: "Shoeblacks Regulations"
-identifier: "S.L. 10.3"
+identifier: "S.L. 10.03"
 eli: "https://legislation.mt/eli/sl/10.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/10.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Shoeblacks Regulations (S.L. 10.3)
+# Shoeblacks Regulations (S.L. 10.03)
 
 SUBSIDIARY LEGISLATION 10.03
 

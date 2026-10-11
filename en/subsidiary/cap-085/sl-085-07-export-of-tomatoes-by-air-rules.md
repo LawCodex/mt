@@ -1,6 +1,6 @@
 ---
 title: "Export of Tomatoes by Air Rules"
-identifier: "S.L. 85.7"
+identifier: "S.L. 85.07"
 eli: "https://legislation.mt/eli/sl/85.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/85.7/20231017/eng"
 retrieved: 2026-10-12
 ---
 
-# Export of Tomatoes by Air Rules (S.L. 85.7)
+# Export of Tomatoes by Air Rules (S.L. 85.07)
 
 **SUBSIDIARY LEGISLATION 85.07**
 

@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Tax Rate (Construction Waste Recycling) (2020 - 2031) Rules (S.L. 123.197)
 
-*1*
-
-(2020-2031) [S.L. 123.197 SUBSIDIARY LEGISLATION 123.197
+**SUBSIDIARY LEGISLATION 123.197**
 
 **TAX EXEMPTION (CONSTRUCTION WASTE**
 
@@ -60,10 +58,6 @@ In these rules, unless the context otherwise requires:
 
 Income derived by an authorised person from qualifying services during a relevant year shall be exempt from the tax that would otherwise be chargeable on that income subject to the following conditions:
 
-*2*
-
-[S.L. 123.197 (2020-2031)
-
 *  *
 
 (a) the income in question is declared in a tax return filed in accordance with article 10 of the Income Cap. 372. Tax Management Act for the respective year of assessment; and
@@ -86,15 +80,13 @@ L.N. 210 of 2026. following provisions shall apply:
 
 (b) the Commissioner shall issue a notice of assessment to the authorised person for the recovery of the tax due under paragraph (a), and the authorised person shall pay that amount due within thirty (30) days of being notified of such notice;
 
-(c) where the breach relates to the condition established in paragraph (f) of rule 3, the tax exemption granted by these rules shall be suspended with immediate (2020-2031) [S.L. 123.197 effect from the date of the unauthorised closure and the exemption shall not be reapplied unless and until the quarry is reopened.
+(c) where the breach relates to the condition established in paragraph (f) of rule 3, the tax exemption granted by these rules shall be suspended with immediate effect from the date of the unauthorised closure and the exemption shall not be reapplied unless and until the quarry is reopened.
 
 ## 5. Power of inspection.
 
 *Added by: L.N. 210 of 2026.*
 
 (1) The Commissioner, or any person authorised by him in writing for that purpose shall have the power at all reasonable times to:
-
-*3*
 
 (a) enter and inspect any quarry and, or any recycling or recovery establishment or undertaking operated by an authorised person;
 

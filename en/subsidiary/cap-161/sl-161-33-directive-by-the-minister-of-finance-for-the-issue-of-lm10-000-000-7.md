@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister of Finance for the Issue of Lm10,000,000 7% Malta Government Stock 2003 (S.L. 161.33)
 
-ISSUE OF LM10,000,000 7%
-
-*1*
-
-MALTA GOVERNMENT STOCK 2003 [S.L.161.33
-
 SUBSIDIARY LEGISLATION 161.33
 
 DIRECTIVE BY THE MINISTER OF FINANCE FOR

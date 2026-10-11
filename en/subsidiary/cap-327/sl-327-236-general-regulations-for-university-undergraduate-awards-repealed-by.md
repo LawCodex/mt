@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # General Regulations for University Undergraduate Awards - Repealed by Legal Notice 3 of 2020 (S.L. 327.236)
 
-GENERAL REGULATIONS
-
-*1*
-
-FOR UNIVERSITY UNDERGRADUATE AWARDS [S.L.327.236
-
 **SUBSIDIARY LEGISLATION 327.236**
 
 **GENERAL REGULATIONS FOR UNIVERSITY**

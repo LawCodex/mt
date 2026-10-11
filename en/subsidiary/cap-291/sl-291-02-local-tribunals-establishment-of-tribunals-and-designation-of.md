@@ -1,6 +1,6 @@
 ---
 title: "Local Tribunals (Establishment of Tribunals and Designation of Registry, Registrar and Other Officers) Regulations"
-identifier: "S.L. 291.2"
+identifier: "S.L. 291.02"
 eli: "https://legislation.mt/eli/sl/291.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/291.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Local Tribunals (Establishment of Tribunals and Designation of Registry, Registrar and Other Officers) Regulations (S.L. 291.2)
-
-TRIBUNALS AND DESIGNATION OF REGISTRY,
-
-*1*
-
-REGISTRAR AND OTHER OFFICERS) [S.L.291.02
+# Local Tribunals (Establishment of Tribunals and Designation of Registry, Registrar and Other Officers) Regulations (S.L. 291.02)
 
 **SUBSIDIARY LEGISLATION 291.02**
 
@@ -95,11 +89,7 @@ Tribunals shall be established in the following localities:
 
 (1) There shall be a Registrar for each Tribunal mentioned in regulation 3.
 
-(2) The Registrar of each Tribunal shall be such person as the Director, Department for Local Government may appoint on the recommendation of the Joint Committee or Regional Committee of TRIBUNALS AND DESIGNATION OF REGISTRY, [S.L.291.02 REGISTRAR AND OTHER OFFICERS)
-
-the respective Tribunal.
-
-*2*
+(2) The Registrar of each Tribunal shall be such person as the Director, Department for Local Government may appoint on the recommendation of the Joint Committee or Regional Committee of the respective Tribunal.
 
 (3) In the execution of his functions, the Registrar shall not be subject to the direction or control of any person whatsoever except that of a Commissioner for Justice and in such case the Registrar shall follow the directions given to him by a Commissioner for Justice.
 
@@ -136,12 +126,6 @@ Sittings of Tribunals may be held on any day between Monday and Saturday not bei
 *Substituted by: L.N. 159 of 2004; L.N. 232 of 2011.*
 
 For the purposes of article 10(5) of the Act penalties, including additional penalties and expenses inflicted by the Tribunal, and including penalties for contempt of court, related to proceedings under any law or regulation, the enforcement of which has been delegated to local councils, shall be due to the Local Council and shall be collected on its behalf by the person having the legal representation of that Local Council.
-
-TRIBUNALS AND DESIGNATION OF REGISTRY,
-
-*3*
-
-REGISTRAR AND OTHER OFFICERS) [S.L.291.02
 
 ## 8. Penalties due to Regional Committee.
 

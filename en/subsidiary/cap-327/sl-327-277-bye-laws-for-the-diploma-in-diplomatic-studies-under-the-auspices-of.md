@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in Diplomatic Studies under the auspices of the Mediterranean Academy of Diplomatic Studies (S.L. 327.277)
 
-DIPLOMA IN DIPLOMATIC STUDIES UNDER
-
-THE AUSPICES OF THE MEDITERRANEAN
-
-*1*
-
-ACADEMY OF DIPLOMATIC STUDIES [S.L.327.277
-
 **SUBSIDIARY LEGISLATION 327.277**
 
 **BYE-LAWS FOR THE DIPLOMA IN DIPLOMATIC**

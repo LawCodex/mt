@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (The Swiss Confederation) Order (S.L. 123.136)
 
-*1*
-
-(THE SWISS CONFEDERATION) [S.L.123.136
-
 **SUBSIDIARY LEGISLATION 123.136**
 
 DOUBLE TAXATION RELIEF (TAXES ON INCOME) (THE SWISS CONFEDERATION) ORDER
@@ -43,8 +39,6 @@ It is hereby declared:
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Convention has entered into force on the 6th July 2012.
-
-2 [S.L.123.136 (THE SWISS CONFEDERATION)
 
 Amended by: SCHEDULE
 
@@ -102,8 +96,6 @@ the income tax;
 
 (hereinafter referred to as "Malta tax");
 
-(THE SWISS CONFEDERATION) [S.L.123.136 3
-
 b) in Switzerland:
 
 the federal, cantonal and communal taxes on income (total income, earned income, income from capital, industrial and commercial profits, capital gains, and other items of income);
@@ -148,8 +140,6 @@ h) the term "national" means:
 
 (i) any individual possessing the nationality of a Contracting State;
 
-4 [S.L.123.136 (THE SWISS CONFEDERATION)
-
 (ii) any legal person, partnership or association deriving its status as such from the laws in force in a Contracting State.
 
 \2. As regards the application of the Convention at any time by a Contracting State, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that State for the purposes of the taxes to which the Convention applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State.
@@ -190,8 +180,6 @@ d) a factory;
 
 e) a workshop, and
 
-(THE SWISS CONFEDERATION) [S.L.123.136 5
-
 f) a mine, an oil or gas well, a quarry or any other place of extraction of natural resources.
 
 ## 3.
@@ -230,9 +218,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \1. Income derived by a resident of a Contracting State from immovable property (including income from agriculture or forestry) situated in the other Contracting State may be taxed in that other State.
 
-\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The 6 [S.L.123.136 (THE SWISS CONFEDERATION)
-
-term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources; ships and aircraft shall not be regarded as immovable property.
+\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources; ships and aircraft shall not be regarded as immovable property.
 
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
@@ -257,8 +243,6 @@ term shall in any case include property accessory to immovable property, livesto
 ## 7.
 
 A Contracting State shall make no adjustment to the profits that are attributable to a permanent establishment of an enterprise of one of the Contracting States after five (5) years from the end of the taxable year in which the profits would have been attributable to the permanent establishment. The provisions of this paragraph shall not apply in the case of fraud, gross negligence or wilful default.
-
-(THE SWISS CONFEDERATION) [S.L.123.136 7
 
 ## 8.
 
@@ -296,8 +280,6 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \2. However, such dividends may also be taxed in the Contracting State of which the company paying the dividends is a resident and according to the laws of that State, but if the beneficial owner of the dividends is a resident of the other Contracting State, the following provisions shall apply:
 
-8 [S.L.123.136 (THE SWISS CONFEDERATION)
-
 a) Where dividends are paid by a company which is a resident of Malta, Malta tax on the gross amount of the dividends shall not exceed the tax chargeable on the profits out of which the dividends are paid.
 
 b) In the case of dividends paid by a company which is a resident of Switzerland, the Swiss tax so charged shall, without affecting the taxation of the Swiss company in respect of profits out of which the dividends are paid, not exceed:
@@ -320,9 +302,7 @@ b) In the case of dividends paid by a company which is a resident of Switzerland
 
 \2. However, such interest may also be taxed in the Contracting State in which it arises and according to the laws of that State, but if the beneficial owner of the interest is a resident of the other Contracting State, the tax so charged shall not exceed 10 per cent of the gross amount of the interest.
 
-\3. Notwithstanding the provisions of paragraph 2, interest arising in a (THE SWISS CONFEDERATION) [S.L.123.136 9
-
-Contracting State and paid to a resident of the other Contracting State who is the beneficial owner thereof shall be taxable only in that other State to the extent that such interest is paid
+\3. Notwithstanding the provisions of paragraph 2, interest arising in a Contracting State and paid to a resident of the other Contracting State who is the beneficial owner thereof shall be taxable only in that other State to the extent that such interest is paid
 
 a) in connection with the sale on credit of any industrial, commercial or scientific equipment;
 
@@ -348,9 +328,7 @@ c) on any loan of whatever kind granted by a bank.
 
 ## 8.
 
-Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the 10 [S.L.123.136 (THE SWISS CONFEDERATION)
-
-absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
+Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
 **Article 12**
 
@@ -376,9 +354,7 @@ absence of such relationship, the provisions of this Article shall apply only to
 
 \4. Gains from the alienation of shares of the capital stock of a company the assets of which consist directly or indirectly principally of immovable property situated in a Contracting State may be taxed in that State.
 
-\5. Gains from the alienation of any property other than that referred to in paragraphs 1, 2, 3 and 4, shall be taxable only in the Contracting State of which the (THE SWISS CONFEDERATION) [S.L.123.136 11
-
-alienator is a resident.
+\5. Gains from the alienation of any property other than that referred to in paragraphs 1, 2, 3 and 4, shall be taxable only in the Contracting State of which the alienator is a resident.
 
 **Article 14**
 
@@ -414,9 +390,7 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 \1. Notwithstanding the provisions of Articles 14 and 15, income derived by a resident of a Contracting State as an entertainer, such as a theatre, motion picture, radio or television artiste, or a musician, or as a sportsman, from his personal activities as such exercised in the other Contracting State, may be taxed in that other State.
 
-\2. Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman 12 [S.L.123.136 (THE SWISS CONFEDERATION)
-
-himself but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the entertainer or sportsman are exercised.
+\2. Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman himself but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the entertainer or sportsman are exercised.
 
 \3. Paragraphs 1 and 2 shall not apply to income from activities performed by entertainers or sportsmen if such income is derived directly or indirectly in a substantial manner from public funds of the other Contracting State, a political subdivision or a local authority thereof.
 
@@ -454,9 +428,7 @@ Payments which a student or business apprentice who is or was immediately before
 
 **Other income**
 
-\1. Items of income of a resident of a Contracting State, wherever arising, not (THE SWISS CONFEDERATION) [S.L.123.136 13
-
-dealt with in the foregoing Articles of this Convention shall be taxable only in that State.
+\1. Items of income of a resident of a Contracting State, wherever arising, not dealt with in the foregoing Articles of this Convention shall be taxable only in that State.
 
 \2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
@@ -482,9 +454,7 @@ b) Where a resident of Switzerland derives interest which, in accordance with th
 
 Switzerland shall determine the applicable relief and regulate the procedure in accordance with the Swiss provisions relating to the carrying out of international conventions of the Swiss Confederation for the avoidance of double taxation.
 
-(c) Notwithstanding the provisions of sub-paragraph a) of paragraph 2 hereof, a company which is a resident of Switzerland and which derives 14 [S.L.123.136 (THE SWISS CONFEDERATION)
-
-dividends from a company which is a resident of Malta shall be entitled, for the purposes of Swiss tax with respect to such dividends, to the same relief which would be granted to the company if the company paying the dividends were a resident of Switzerland.
+(c) Notwithstanding the provisions of sub-paragraph a) of paragraph 2 hereof, a company which is a resident of Switzerland and which derives dividends from a company which is a resident of Malta shall be entitled, for the purposes of Swiss tax with respect to such dividends, to the same relief which would be granted to the company if the company paying the dividends were a resident of Switzerland.
 
 Article 23
 
@@ -510,9 +480,7 @@ Notwithstanding the other provisions of this Convention, a benefit under this Co
 
 **Mutual agreement procedure**
 
-\1. Where a person considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of (THE SWISS CONFEDERATION) [S.L.123.136 15
-
-this Convention, he may, irrespective of the remedies provided by the domestic law of those States, present his case to the competent authority of either Contracting State. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Convention.
+\1. Where a person considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Convention, he may, irrespective of the remedies provided by the domestic law of those States, present his case to the competent authority of either Contracting State. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Convention.
 
 \2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Convention.
 
@@ -536,9 +504,7 @@ b) to supply information which is not obtainable under the laws or in the normal
 
 c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information the disclosure of which would be contrary to public policy (ordre public).
 
-\4. If information is requested by a Contracting State in accordance with this Article, the other Contracting State shall use its information gathering measures to obtain the requested information, even though that other State may not need such 16 [S.L.123.136 (THE SWISS CONFEDERATION)
-
-information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall such limitations be construed to permit a Contracting State to decline to supply information solely because it has no domestic interest in such information.
+\4. If information is requested by a Contracting State in accordance with this Article, the other Contracting State shall use its information gathering measures to obtain the requested information, even though that other State may not need such information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall such limitations be construed to permit a Contracting State to decline to supply information solely because it has no domestic interest in such information.
 
 \5. In no case shall the provisions of paragraph 3 be construed to permit a Contracting State to decline to supply information solely because the information is held by a bank, other financial institution, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person. In order to obtain such information, the tax authorities of the requested Contracting State, if necessary to comply with its obligations under this paragraph, shall have the power to enforce the disclosure of information covered by this paragraph, notwithstanding paragraph 3 or any contrary provisions in its domestic laws.
 
@@ -568,9 +534,7 @@ a) with respect to taxes withheld at source on amounts paid or credited on or af
 
 b) with respect to other taxes for taxation years beginning on or after the first day of January of the year next following the year of the entry into force of the Convention;
 
-c) with respect to Article 26 of the Convention, for requests for the exchange of information made on or after the date of entry into force to information that relates to taxable periods beginning on or after the first day of January of the year that follows the entry into force of this (THE SWISS CONFEDERATION) [S.L.123.136 17
-
-Convention.
+c) with respect to Article 26 of the Convention, for requests for the exchange of information made on or after the date of entry into force to information that relates to taxable periods beginning on or after the first day of January of the year that follows the entry into force of this Convention.
 
 \3. The exchange of letters of 30 March 1987 between the Government of Malta and the Swiss Federal Council relative to the taxation of profits derived from the operation of ships or aircraft in international traffic shall cease to have effect on the date on which this Convention shall take effect.
 
@@ -606,9 +570,7 @@ Have agreed at the signing at Rome on the 25th February 2011 of the Convention b
 
 In respect of paragraphs 1 and 2 of Article 7, where an enterprise of a Contracting State sells goods or merchandise or carries on business in the other State through a permanent establishment situated therein, the profits of that permanent establishment shall not be determined on the basis of the total amount received by the enterprise, but shall be determined only on the basis of that part of the total receipts which is attributable to the actual activity of the permanent establishment for such sales or business.
 
-In the case of contracts for the survey, supply, installation or construction of industrial, commercial or scientific equipment or premises, or of public works, when the enterprise has a permanent establishment, the profits of such permanent establishment shall not be determined on the basis of the total amount of the contract, but shall be determined only on the basis of that part of the contract which 18 [S.L.123.136 (THE SWISS CONFEDERATION)
-
-is effectively carried out by the permanent establishment in the State where the permanent establishment is situated.
+In the case of contracts for the survey, supply, installation or construction of industrial, commercial or scientific equipment or premises, or of public works, when the enterprise has a permanent establishment, the profits of such permanent establishment shall not be determined on the basis of the total amount of the contract, but shall be determined only on the basis of that part of the contract which is effectively carried out by the permanent establishment in the State where the permanent establishment is situated.
 
 The profits related to that part of the contract which is carried out by the head office of the enterprise shall be taxable only in the State of which the enterprise is a resident.
 
@@ -633,8 +595,6 @@ b) the competent authorities are unable to reach an agreement to resolve that ca
 any unresolved issues arising from the case shall be submitted to arbitration if the person so requests. These unresolved issues shall not, however, be submitted to arbitration if a decision on these issues has already been rendered by a court or administrative tribunal of either State. Unless a person directly affected by the case does not accept the mutual agreement that implements the arbitration decision or the competent authorities and the persons directly affected by the case agree on a different solution within six months after the decision has been communicated to them, the arbitration decision shall be binding on both Contracting States and shall be implemented notwithstanding any time limits in the domestic laws of these States. The competent authorities of the Contracting States shall by mutual agreement settle the mode of application of this paragraph.
 
 The Contracting States may release to the arbitration board, established under the provisions of this paragraph, all information which is necessary for carrying out the arbitration procedure. The members of the arbitration board shall be subject to the limitations of disclosure described in paragraph 2 of Article 26 with respect to the information so released."
-
-(THE SWISS CONFEDERATION) [S.L.123.136 19
 
 \5. ad Article 26
 
@@ -665,8 +625,6 @@ Done in duplicate at Rome this 25th February 2011, in the English and French lan
 For the Government of Malta: For the Swiss Federal Council:
 
 Leslie Agius Bernardino Regazzoni
-
-20 [S.L.123.136 (THE SWISS CONFEDERATION)
 
 **EXCHANGE OF NOTES**
 
@@ -703,8 +661,6 @@ The Ministry of Foreign Affairs of Malta presents its compliments to the Federal
 Following the signature of the said Convention the two sides agreed that there should be some important modifications to the text and that it would be preferable to sign a new Convention in replacement of the 2008 one.
 
 The new Convention that is being signed today between the respective Ambassadors reflects the changes that were necessary and which are agreed to by both countries.
-
-(THE SWISS CONFEDERATION) [S.L.123.136 21
 
 This Note and the Swiss Government’s reply thereto shall therefore confirm that the Convention signed today replaces the Convention signed in 2008 which is thereby abrogated.
 

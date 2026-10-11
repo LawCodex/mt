@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the United Arab Emirates Order (S.L. 123.106)
 
-*1*
-
-WITH THE UNITED ARAB EMIRATES [S.L.123.106
-
 **SUBSIDIARY LEGISLATION 123.106**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -48,8 +44,6 @@ It is hereby declared:
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Convention has entered into force on the 18 May, 2007.
-
-2 [S.L.123.106 WITH THE UNITED ARAB EMIRATES
 
 ## SCHEDULE — CONVENTION — BETWEEN MALTA AND THE UNITED ARAB EMIRATES
 
@@ -107,9 +101,7 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 \1. For the purposes of this Convention, unless the context otherwise requires:
 
-(a) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation WITH THE UNITED ARAB EMIRATES [S.L.123.106 3
-
-relating to the exploration of the continental shelf and exploitation of its natural resources;
+(a) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
 
 (b) the term "United Arab Emirates", means the United Arab Emirates and when used in a geographical sense, means the area in which the territory is under its soveregnity as well as the territorial sea, airspace and submarine areas over which the United Arab Emirates exercises, in conformity with international law and the law of the United Arab Emirates sovereign rights, including the mainland and islands under its jurisdiction in respect of any activity carried on in connection with the exploration for or the exploitation of the natural resources;
 
@@ -145,9 +137,7 @@ relating to the exploration of the continental shelf and exploitation of its nat
 
 (a) in the case of Malta, any person who, under the laws of Malta, is liable to tax therein by reason of his domicile, residence, place of management, place of incorporation or any other criterion of a similar nature;
 
-(b) in the case of the United Arab Emirates, an individual who is resident of 4 [S.L.123.106 WITH THE UNITED ARAB EMIRATES
-
-the United Arab Emirates including such a resident individual who is a national of the United Arab Emirates or who is domiciled in the United Arab Emirates, and a company which is incorporated or has its place of management in the United Arab Emirates.
+(b) in the case of the United Arab Emirates, an individual who is resident of the United Arab Emirates including such a resident individual who is a national of the United Arab Emirates or who is domiciled in the United Arab Emirates, and a company which is incorporated or has its place of management in the United Arab Emirates.
 
 \2. For the purposes of paragraph 1, the term "resident of a Contracting State" shall include:
 
@@ -191,9 +181,7 @@ Where by reason of the provisions of paragraph 1 a person other than an individu
 
 \3. The term "permanent establishment" likewise encompasses:
 
-(a) a building site, a construction, assembly or installation project or supervisory activities in connection therewith, but only where such site, WITH THE UNITED ARAB EMIRATES [S.L.123.106 5
-
-project or activities continue for a period of more than twelve months;
+(a) a building site, a construction, assembly or installation project or supervisory activities in connection therewith, but only where such site, project or activities continue for a period of more than twelve months;
 
 (b) the furnishing of services, including consultancy services, by an enterprise through employees or other personnel engaged by the enterprise for such purpose, but only where activities of that nature continue (for the same or a connected project) within a Contracting State for a period of more than twelve months.
 
@@ -229,9 +217,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 **INCOME FROM IMMOVABLE PROPERTY**
 
-\1. Income derived by a resident of a Contracting State from immovable 6 [S.L.123.106 WITH THE UNITED ARAB EMIRATES
-
-property (including income from agriculture) situated in the other Contracting State may be taxed in that other State.
+\1. Income derived by a resident of a Contracting State from immovable property (including income from agriculture) situated in the other Contracting State may be taxed in that other State.
 
 \2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources; ships, boats and aircraft shall not be regarded as immovable property.
 
@@ -257,9 +243,7 @@ property (including income from agriculture) situated in the other Contracting S
 
 ## 7.
 
-Where profits include items of income which are dealt with separately in WITH THE UNITED ARAB EMIRATES [S.L.123.106 7
-
-other Articles of this Convention, then the provisions of those Articles shall not be affected by the provisions of this Article.
+Where profits include items of income which are dealt with separately in other Articles of this Convention, then the provisions of those Articles shall not be affected by the provisions of this Article.
 
 **Article 8**
 
@@ -293,9 +277,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \3. The term "dividends" as used in this Article means income from shares, "jouissance" shares or "jouissance" rights, mining shares, founders' shares or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
 
-\4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the 8 [S.L.123.106 WITH THE UNITED ARAB EMIRATES
-
-other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
+\4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \5. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State shall not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company's undistributed profits to a tax on the company's undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
 
@@ -318,8 +300,6 @@ other Contracting State of which the company paying the dividends is a resident,
 \1. Royalties arising in a Contracting State and beneficially owned by a resident of the other Contracting State shall be taxable only in that other State.
 
 \2. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including cinematograph films, any patent, trade mark, design or model, plan, secret formula or process, or for information concerning industrial, commercial or scientific experience.
-
-WITH THE UNITED ARAB EMIRATES [S.L.123.106 9
 
 \3. The provisions of paragraph 1 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
@@ -347,9 +327,7 @@ WITH THE UNITED ARAB EMIRATES [S.L.123.106 9
 
 (a) if he has a fixed base regularly available to him in the other Contracting State for the purpose of performing his activities; in that case, only so much of the income as is attributable to that fixed base may be taxed in that other Contracting State; or
 
-(b) if his stay in the other Contracting State is for a period or periods 10 [S.L.123.106 WITH THE UNITED ARAB EMIRATES
-
-amounting to or exceeding in the aggregate 183 days in any twelve-month period commencing or ending in the fiscal year concerned; in that case, only so much of the income as is derived from the activity exercised in the other Contracting State may be taxed in that other State.
+(b) if his stay in the other Contracting State is for a period or periods amounting to or exceeding in the aggregate 183 days in any twelve-month period commencing or ending in the fiscal year concerned; in that case, only so much of the income as is derived from the activity exercised in the other Contracting State may be taxed in that other State.
 
 \2. The term "professional services" includes especially independent scientific, literary, artistic, educational or teaching activities as well as the independent activities of physicians, lawyers, engineers, architects, dentists and accountants.
 
@@ -382,8 +360,6 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 \1. Notwithstanding the provisions of Articles 14 and 15, income derived by a resident of a Contracting State as an entertainer, such as a theatre, motion picture, radio or television artiste, or a musician, or as a sportsman, from his personal activities as such exercised in the other Contracting State, may be taxed in that other State.
 
 \2. Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman himself but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the entertainer or sportsman are exercised.
-
-WITH THE UNITED ARAB EMIRATES [S.L.123.106 11
 
 **Article 18**
 
@@ -423,9 +399,7 @@ A student or business apprentice who is present in a Contracting State solely fo
 
 \1. Items of income of a resident of a Contracting State, wherever arising, not dealt with in the foregoing Articles of this Convention shall be taxable only in that State.
 
-\2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in 12 [S.L.123.106 WITH THE UNITED ARAB EMIRATES
-
-that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
+\2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 **Article 22**
 
@@ -450,8 +424,6 @@ Where a resident of the United Arab Emirates derives income which in accordance 
 \3. Except where the provisions of paragraph 1 of Article 9, paragraph 4 of Article 11, or paragraph 4 of Article 12 apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
 
 \4. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
-
-WITH THE UNITED ARAB EMIRATES [S.L.123.106 13
 
 **Article 24**
 
@@ -478,8 +450,6 @@ WITH THE UNITED ARAB EMIRATES [S.L.123.106 13
 (b) to supply information which is not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;
 
 (c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public policy (ordre public).
-
-14 [S.L.123.106 WITH THE UNITED ARAB EMIRATES
 
 **Article 26**
 
@@ -523,9 +493,7 @@ in respect of taxes on income derived during any calendar year or accounting per
 
 (b) in the United Arab Emirates:
 
-(i) in respect of tax withheld at source to income derived on or after WITH THE UNITED ARAB EMIRATES [S.L.123.106 15
-
-1 January in the year next following that in which the notice of termination is given;
+(i) in respect of tax withheld at source to income derived on or after 1 January in the year next following that in which the notice of termination is given;
 
 (ii) in respect of other taxes on income, for taxable years beginning on or after 1 January in the year next following that in which notice of termination is given.
 
@@ -560,8 +528,6 @@ It is understood that:
 It is understood that "income" means gross income less any expenses deductible for tax purposes thereagainst.
 
 \4. With reference to Article 8:
-
-16 [S.L.123.106 WITH THE UNITED ARAB EMIRATES
 
 (a) the term "profits" includes:
 
@@ -600,8 +566,6 @@ With reference to Article 13:
 (a) It is understood that "gains" means gains chargeable to tax under the laws of the Contracting States;
 
 (b) It is understood that in the case of gains referred to in paragraph 3 of Article 13, gains from the alienation of movable property forming part of the business property of a permanent establishment, which a public institution of a Contracting State has in the other Contracting State, shall be taxable only in that State.
-
-WITH THE UNITED ARAB EMIRATES [S.L.123.106 17
 
 For the purposes of this paragraph, public institution shall mean Abu Dhabi Investment Authority and any other institution as is specified and agreed in letters exchanged between the competent authorities of the Contracting States.
 

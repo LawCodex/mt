@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Higher Diploma in Food Culture - H.Dip. - under the auspices of the Institute for Tourism, Travel and Culture (S.L. 327.379)
 
-UNDER THE AUSPICES OF THE INSTITUTE
-
-*1*
-
-FOR TOURISM, TRAVEL AND CULTURE [S.L.327.379
-
 **SUBSIDIARY LEGISLATION 327.379**
 
 BYE-LAWS FOR THE HIGHER DIPLOMA IN FOOD CULTURE - H. Dip. - UNDER THE AUSPICES
@@ -70,12 +64,6 @@ The course shall extend over a period of six semesters of part-time study.
 (1) The course shall consist of a number of taught study-units to which 90 ECTS credits shall be assigned.
 
 (2) Students who successfully complete a prescribed set of study-units totaling 30 ECTS credits and opt not to proceed with the course, or having proceeded do not successfully complete the course, shall be entitled to the Certificate.
-
-UNDER THE AUSPICES OF THE INSTITUTE
-
-*2*
-
-[S.L.327.379 FOR TOURISM, TRAVEL AND CULTURE
 
 (3) Students who successfully complete a prescribed set of study-units totaling 60 ECTS credits and opt not to proceed with the course, or having proceeded do not successfully complete the course, shall be entitled to the Diploma.
 

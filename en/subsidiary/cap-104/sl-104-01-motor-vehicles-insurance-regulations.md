@@ -1,6 +1,6 @@
 ---
 title: "Motor Vehicles Insurance Regulations"
-identifier: "S.L. 104.1"
+identifier: "S.L. 104.01"
 eli: "https://legislation.mt/eli/sl/104.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/104.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Motor Vehicles Insurance Regulations (S.L. 104.1)
+# Motor Vehicles Insurance Regulations (S.L. 104.01)
 
 **SUBSIDIARY LEGISLATION 104.01**
 

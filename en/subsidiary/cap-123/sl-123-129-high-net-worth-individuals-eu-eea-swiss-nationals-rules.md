@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # High Net Worth Individuals EU/EEA/Swiss Nationals Rules (S.L. 123.129)
 
-*1*
-
-EU/EEA/SWISS NATIONALS [S.L.123.129
-
 **SUBSIDIARY LEGISLATION 123.129**
 
 HIGH NET WORTH INDIVIDUALS- EU/EEA/SWISS NATIONALS RULES
@@ -59,13 +55,9 @@ Provided that a person that is not an individual, having at least 75% (directly 
 
 "Commissioner" means the Commissioner for Revenue;
 
-"dependent" means the beneficiary’s spouse, the beneficiary’s unmarried minor children, adopted minor children of the beneficiary or of the spouse, as the case may be, where the beneficiary or the spouse has custody and the minor children are financially dependent on him and children of the beneficiary or of [S.L.123.129 EU/EEA/SWISS NATIONALS
+"dependent" means the beneficiary’s spouse, the beneficiary’s unmarried minor children, adopted minor children of the beneficiary or of the spouse, as the case may be, where the beneficiary or the spouse has custody and the minor children are financially dependent on him and children of the beneficiary or of the beneficiary’s spouse who are not minors but who, because of circumstances of illness or disability of a serious gravity, are unable to maintain themselves;
 
 \*See rule 1(2) of these rules, as originally promulgated.
-
-the beneficiary’s spouse who are not minors but who, because of circumstances of illness or disability of a serious gravity, are unable to maintain themselves;
-
-*2*
 
 "EEA" means the members of the European Union, Iceland, Norway and Liechtenstein;
 
@@ -99,13 +91,9 @@ Provided that the persons who reside in the qualifying property are not persons 
 
 *S.L. 123.79*
 
-Provided that, for the purposes of this definition, the Commissioner shall have the discretion, upon good cause being shown, to treat a property covered by a promise of sale in respect of which notice thereof under the Duty on Documents and Transfers Act has been given to the Commissioner before 14 September 2011, and the relative deed of transfer in respect of which is published by 31 March 2012, as a property purchased by an applicant as EU/EEA/SWISS NATIONALS [S.L.123.129
+Provided that, for the purposes of this definition, the Commissioner shall have the discretion, upon good cause being shown, to treat a property covered by a promise of sale in respect of which notice thereof under the Duty on Documents and Transfers Act has been given to the Commissioner before 14 September 2011, and the relative deed of transfer in respect of which is published by 31 March 2012, as a property purchased by an applicant as aforesaid before 14 September 2011;
 
 *Cap. 364.*
-
-aforesaid before 14 September 2011;
-
-*3*
 
 "qualifying rented property" means a leased property taken on at lease of not less than twenty thousand euro (€20,000) per annum:
 
@@ -134,10 +122,6 @@ Provided that the Commissioner shall not issue such determinations in writing af
 (3) A beneficiary in possession of special tax status granted under these rules may request the Commissioner to grant him special tax status under the Residence Programme Rules. Upon receipt of such request, the Commissioner shall issue a determination in writing that such beneficiary has been granted special tax status under the Residence Programme Rules. Such a request is to be made through the services of an authorised registered mandatary and shall make reference to this rule:
 
 *S.L. 123.160.*
-
-*4*
-
-[S.L.123.129 EU/EEA/SWISS NATIONALS
 
 Provided that in those cases where an application for special tax status has been made under these rules, and the Commissioner had not yet issued a determination in writing confirming such status as at the date of publication of these rules, the applicant may request the Commissioner to consider such an application to have been made under the Residence Programme Rules. Such a request is to be made through the services of an authorised registered mandatary and shall make reference to this rule.
 
@@ -179,11 +163,7 @@ Provided further that a beneficiary with dependents shall, in addition to the mi
 
 (3) A beneficiary and his spouse shall be precluded from opting for a separate computation for the purposes of article 50 of the Act.
 
-(4) Any tax paid under these rules excluding any tax paid under EU/EEA/SWISS NATIONALS [S.L.123.129
-
-sub-rule (2) shall not be refundable.
-
-*5*
+(4) Any tax paid under these rules excluding any tax paid under sub-rule (2) shall not be refundable.
 
 ## 6. Cessation of status.
 
@@ -221,11 +201,7 @@ sub-rule (2) shall not be refundable.
 
 ## 7. Request for information.
 
-For the purpose of ascertaining an individual’s entitlement to rights acquired under these rules and ensuring the proper application of these rules, the Commissioner may require that [S.L.123.129 EU/EEA/SWISS NATIONALS
-
-individual to produce, within the time indicated by the Commissioner in that request, such information and documents as the Commissioner may consider necessary, including certifications and declarations.
-
-*6*
+For the purpose of ascertaining an individual’s entitlement to rights acquired under these rules and ensuring the proper application of these rules, the Commissioner may require that individual to produce, within the time indicated by the Commissioner in that request, such information and documents as the Commissioner may consider necessary, including certifications and declarations.
 
 ## 8. Abuse of rights.
 

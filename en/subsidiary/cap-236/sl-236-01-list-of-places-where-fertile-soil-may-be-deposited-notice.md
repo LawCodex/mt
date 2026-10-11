@@ -1,6 +1,6 @@
 ---
 title: "List of Places where Fertile Soil may be deposited Notice"
-identifier: "S.L. 236.1"
+identifier: "S.L. 236.01"
 eli: "https://legislation.mt/eli/sl/236.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/236.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# List of Places where Fertile Soil may be deposited Notice (S.L. 236.1)
-
-*1*
-
-SOILMAY BE DEPOSITED [S.L.236.01
+# List of Places where Fertile Soil may be deposited Notice (S.L. 236.01)
 
 **SUBSIDIARY LEGISLATION 236.01**
 
@@ -88,10 +84,6 @@ Rabat Lands at Bieb ir-Ruwa and Tax-Xini
 Locality Limits of
 
 Victoria, Sannat Waste lands "Ta’ Melsiena "
-
-**[S.L.236.01 SOILMAY BE DEPOSITED**
-
-*2*
 
 Ker`em, Munxar Waste land "Ta’ Santa Duminka "
 

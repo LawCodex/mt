@@ -1,6 +1,6 @@
 ---
 title: "Disestablishment of Air Traffic Control Corps and Airport Company Order"
-identifier: "S.L. 220.9"
+identifier: "S.L. 220.09"
 eli: "https://legislation.mt/eli/sl/220.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/220.9/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Disestablishment of Air Traffic Control Corps and Airport Company Order (S.L. 220.9)
-
-DISESTABLISHMENT OF AIR TRAFFIC CONTROL
-
-*1*
-
-CORPS AND AIRPORT COMPANY [S.L.220.09
+# Disestablishment of Air Traffic Control Corps and Airport Company Order (S.L. 220.09)
 
 **SUBSIDIARY LEGISLATION 220.09**
 

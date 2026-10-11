@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Archaeological Practice - M.A. - under the auspices of the Faculty of Arts (S.L. 327.540)
 
-PRACTICE - M.A. - UNDER THE AUSPICES OF THE
-
-*1*
-
-FACULTY OF ARTS [S.L.327.540
-
 **SUBSIDIARY LEGISLATION 327.540**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -69,10 +63,6 @@ These bye-laws shall be applicable for courses commencing in 1st March 2018 or l
 
 (3) When the number of places is so limited and the number of eligible applicants exceeds the number of places available, applicants shall be selected using the following criteria, the weighting of which shall be published at the time of the call for applications:
 
-*2*
-
-PRACTICE - M.A. - UNDER THE AUSPICES OF THE [S.L.327.540 FACULTY OF ARTS
-
 (a) degree type and class;
 
 (b) experience in the area of the proposed study; and
@@ -117,11 +107,7 @@ The programme of study shall be published after approval by Senate, normally not
 
 (3) Students who fail more than the number of credits permitted under paragraph (2) of this bye-law or students who after re-assessment fail to obtain credit for any study-unit, shall be required to withdraw from the course.
 
-PRACTICE - M.A. - UNDER THE AUSPICES OF THE
-
-*3*
-
-FACULTY OF ARTS [S.L.327.540 (4) The professional practice placement study-unit shall be assessed on a Pass/Fail basis. Students who do not complete, or fail in the assessment of, the professional practice placement study-unit shall not have the right to a supplementary assessment and shall be required to withdraw from the course.
+(4) The professional practice placement study-unit shall be assessed on a Pass/Fail basis. Students who do not complete, or fail in the assessment of, the professional practice placement study-unit shall not have the right to a supplementary assessment and shall be required to withdraw from the course.
 
 ## 10. Dissertation.
 

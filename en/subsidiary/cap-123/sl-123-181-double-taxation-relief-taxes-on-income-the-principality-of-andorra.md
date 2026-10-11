@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (The Principality of Andorra) Order (S.L. 123.181)
 
-*1*
-
-(THE PRINCIPALITY OF ANDORRA) [S.L. 123.181 SUBSIDIARY LEGISLATION 123.181
+**SUBSIDIARY LEGISLATION 123.181**
 
 DOUBLE TAXATION RELIEF (TAXES ON INCOME)
 
@@ -48,10 +46,6 @@ It is hereby declared:-
 (b) that it is expedient that those arrangements should have effect following the entry into force of the Convention and in accordance with the relevant provisions of the Convention;
 
 (c) that the Convention has entered into force on 27th September 2017.
-
-*2*
-
-[S.L. 123.181 (THE PRINCIPALITY OF ANDORRA)
 
 ## SCHEDULE — ARTICLE 2 — CONVENTION BETWEEN THE GOVERNMENT OF THE
 
@@ -95,9 +89,7 @@ the income tax;
 
 (ii) personal income tax (Impost sobre la renda de les persones físiques);
 
-*3*
-
-(THE PRINCIPALITY OF ANDORRA) [S.L. 123.181 (iii) tax on income for fiscal non-residents (Impost sobre la renda dels no residents fiscals); and
+(iii) tax on income for fiscal non-residents (Impost sobre la renda dels no residents fiscals); and
 
 (iv) tax payable on the increase in value in immovable property transfers (Impost sobre les plusvàlues en les transmissions patrimonials immobiliàries);
 
@@ -123,10 +115,6 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 (e) the term "company" means any body corporate or any entity that is treated as a body corporate for tax purposes;
 
-*4*
-
-[S.L. 123.181 (THE PRINCIPALITY OF ANDORRA)
-
 (f) the terms "enterprise of a Contracting State" and "enterprise of the other Contracting State" mean respectively an enterprise carried on by a resident of a Contracting State and an enterprise carried on by a resident of the other Contracting State;
 
 (g) the term "international traffic" means any transport by a ship or aircraft operated by an enterprise that has its place of effective management in a Contracting State, except when the ship or aircraft is operated solely between places in the other Contracting State;
@@ -147,9 +135,7 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 \2. As regards the application of the Convention at any time by a Contracting State, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that State for the purposes of the taxes to which the Convention applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State.
 
-*5*
-
-(THE PRINCIPALITY OF ANDORRA) [S.L. 123.181 ARTICLE 4
+**ARTICLE 4**
 
 **Resident**
 
@@ -172,10 +158,6 @@ The Convention shall apply also to any identical or substantially similar taxes 
 **Permanent Establishment**
 
 \1. For the purposes of this Convention, the term "permanent establishment" means a fixed place of business through which the business of an enterprise is wholly or partly carried on.
-
-*6*
-
-[S.L. 123.181 (THE PRINCIPALITY OF ANDORRA)
 
 \2. The term "permanent establishment" includes especially:
 
@@ -211,9 +193,9 @@ Notwithstanding the preceding provisions of this Article, the term "permanent es
 
 (f) the maintenance of a fixed place of business solely for any combination of activities mentioned in sub-paragraphs (a) to (e), provided that the overall activity of the fixed place of business resulting from this combination is of a preparatory or auxiliary character.
 
-*7*
+## 5.
 
-(THE PRINCIPALITY OF ANDORRA) [S.L. 123.181 5. Notwithstanding the provisions of paragraphs 1 and 2, where a person - other than an agent of an independent status to whom paragraph 6 applies - is acting on behalf of an enterprise and has, and habitually exercises, in a Contracting State an authority to conclude contracts in the name of the enterprise, that enterprise shall be deemed to have a permanent establishment in that State in respect of any activities which that person undertakes for the enterprise, unless the activities of such person are limited to those mentioned in paragraph 4 which, if exercised through a fixed place of business, would not make this fixed place of business a permanent establishment under the provisions of that paragraph.
+Notwithstanding the provisions of paragraphs 1 and 2, where a person - other than an agent of an independent status to whom paragraph 6 applies - is acting on behalf of an enterprise and has, and habitually exercises, in a Contracting State an authority to conclude contracts in the name of the enterprise, that enterprise shall be deemed to have a permanent establishment in that State in respect of any activities which that person undertakes for the enterprise, unless the activities of such person are limited to those mentioned in paragraph 4 which, if exercised through a fixed place of business, would not make this fixed place of business a permanent establishment under the provisions of that paragraph.
 
 ## 6.
 
@@ -234,10 +216,6 @@ The fact that a company which is a resident of a Contracting State controls or i
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
 \4. The provisions of paragraphs 1 and 3 shall also apply to the income from immovable property of an enterprise.
-
-*8*
-
-[S.L. 123.181 (THE PRINCIPALITY OF ANDORRA)
 
 **ARTICLE 7**
 
@@ -261,11 +239,9 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \1. Profits from the operation of ships or aircraft in international traffic shall be taxable only in the Contracting State in which the place of effective management of the enterprise is situated.
 
-\2. If the place of effective management of a shipping enterprise is aboard a ship, then it shall be deemed to be situated in the Contracting State in which the home harbour of the ship is situated, or, (THE PRINCIPALITY OF ANDORRA) [S.L. 123.181 if there is no such home harbour, in the Contracting State of which the operator of the ship is a resident.
+\2. If the place of effective management of a shipping enterprise is aboard a ship, then it shall be deemed to be situated in the Contracting State in which the home harbour of the ship is situated, or, if there is no such home harbour, in the Contracting State of which the operator of the ship is a resident.
 
 \3. For the purposes of this Article, profits derived from the operation of ships or aircraft in international traffic include profits derived from the rental of ships or aircraft if such ships or aircraft are operated in international traffic or if such rental profits are incidental to other profits described in paragraph 1 of this Article.
-
-*9*
 
 \4. The provisions of paragraph 1 shall also apply to profits from the participation in a pool, a joint business or an international operating agency.
 
@@ -282,10 +258,6 @@ The fact that a company which is a resident of a Contracting State controls or i
 and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
 
 \2. Where a Contracting State includes in the profits of an enterprise of that State - and taxes accordingly - profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Convention and the competent authorities of the Contracting States shall if necessary consult each other.
-
-*10*
-
-[S.L. 123.181 (THE PRINCIPALITY OF ANDORRA)
 
 **ARTICLE 10**
 
@@ -307,11 +279,9 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \1. Interest arising in a Contracting State and paid to a resident of the other Contracting State shall be taxable only in that other State, provided that the beneficial owner of the interest is a resident of that other State.
 
-\2. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage (THE PRINCIPALITY OF ANDORRA) [S.L. 123.181 and whether or not carrying a right to participate in the debtor's profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
+\2. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor's profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
 \3. The provisions of paragraph 1 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises through a permanent establishment situated therein and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
-
-*11*
 
 \4. Interest shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment, then such interest shall be deemed to arise in the State in which the permanent establishment is situated.
 
@@ -325,11 +295,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \2. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including cinematograph films, any patent, trade mark, design or model, plan, secret formula or process, or for information concerning industrial, commercial or scientific experience.
 
-\3. The provisions of paragraph 1 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the [S.L. 123.181 (THE PRINCIPALITY OF ANDORRA)
-
-royalties arise through a permanent establishment situated therein and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
-
-*12*
+\3. The provisions of paragraph 1 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise through a permanent establishment situated therein and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
 \4. Royalties shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment, then such royalties shall be deemed to arise in the State in which the permanent establishment is situated.
 
@@ -347,9 +313,7 @@ royalties arise through a permanent establishment situated therein and the right
 
 \4. Gains derived by a resident of a Contracting State from the alienation of shares deriving more than 50 per cent of their value directly or indirectly from immovable property situated in the other Contracting State may be taxed in that other State.
 
-*13*
-
-(THE PRINCIPALITY OF ANDORRA) [S.L. 123.181 5. Gains from the alienation of any property, other than that referred to in paragraphs 1, 2, 3 and 4, shall be taxable only in the Contracting State of which the alienator is a resident.
+\5. Gains from the alienation of any property, other than that referred to in paragraphs 1, 2, 3 and 4, shall be taxable only in the Contracting State of which the alienator is a resident.
 
 **ARTICLE 14**
 
@@ -372,10 +336,6 @@ royalties arise through a permanent establishment situated therein and the right
 **Directors' Fees**
 
 Directors' fees and other similar payments derived by a resident of a Contracting State in his capacity as a member of the board of directors of a company which is a resident of the other Contracting State may be taxed in that other State.
-
-*14*
-
-[S.L. 123.181 (THE PRINCIPALITY OF ANDORRA)
 
 **ARTICLE 16**
 
@@ -401,11 +361,9 @@ Directors' fees and other similar payments derived by a resident of a Contractin
 
 \1. (a) Salaries, wages and other similar remuneration paid by a Contracting State or a political subdivision or a local authority thereof to an individual in respect of services rendered to that State or subdivision or authority shall be taxable only in that State.
 
-(b) However, such salaries, wages and other similar (THE PRINCIPALITY OF ANDORRA) [S.L. 123.181 remuneration shall be taxable only in the other Contracting State if the services are rendered in that State and the individual is a resident of that State who:
+(b) However, such salaries, wages and other similar remuneration shall be taxable only in the other Contracting State if the services are rendered in that State and the individual is a resident of that State who:
 
 (i) is a national of that State; or
-
-*15*
 
 (ii) did not become a resident of that State solely for the purpose of rendering the services.
 
@@ -427,11 +385,7 @@ Payments which a student or business apprentice who is or was immediately before
 
 \1. Items of income of a resident of a Contracting State, wherever arising, not dealt with in the foregoing Articles of this Convention shall be taxable only in that State.
 
-\2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income, being a resident of a [S.L. 123.181 (THE PRINCIPALITY OF ANDORRA)
-
-Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein and the right or property in respect of which the income is paid is effectively connected with such permanent establishment. In such case, the provisions of Article 7 shall apply.
-
-*16*
+\2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein and the right or property in respect of which the income is paid is effectively connected with such permanent establishment. In such case, the provisions of Article 7 shall apply.
 
 **ARTICLE 21**
 
@@ -451,11 +405,9 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 **Non-discrimination**
 
-\1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected. This provision shall, notwithstanding the (THE PRINCIPALITY OF ANDORRA) [S.L. 123.181 provisions of Article 1, also apply to persons who are not residents of one or both of the Contracting States.
+\1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected. This provision shall, notwithstanding the provisions of Article 1, also apply to persons who are not residents of one or both of the Contracting States.
 
 \2. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
-
-*17*
 
 \3. Except where the provisions of paragraph 1 of Article 9, paragraph 5 of Article 11, or paragraph 5 of Article 12 apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
 
@@ -469,11 +421,7 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 \1. Where a person considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Convention, he may, irrespective of the remedies provided by the domestic law of those States, present his case to the competent authority of the Contracting State of which he is a resident or, if his case comes under paragraph 1 of Article 22, to that of the Contracting State of which he is a national. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Convention.
 
-\2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the [S.L. 123.181 (THE PRINCIPALITY OF ANDORRA)
-
-avoidance of taxation which is not in accordance with the Convention. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
-
-*18*
+\2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Convention. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
 
 \3. The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Convention. They may also consult together for the elimination of double taxation in cases not provided for in the Convention.
 
@@ -491,9 +439,7 @@ avoidance of taxation which is not in accordance with the Convention. Any agreem
 
 (a) to carry out administrative measures at variance with the laws and administrative practice of that or of the other Contracting State;
 
-*19*
-
-(THE PRINCIPALITY OF ANDORRA) [S.L. 123.181 (b) to supply information which is not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;
+(b) to supply information which is not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;
 
 (c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public policy (ordre public).
 
@@ -511,11 +457,7 @@ Nothing in this Convention shall affect the fiscal privileges of members of dipl
 
 **Entitlement To Benefits**
 
-\1. Notwithstanding the other provisions of this Convention, a resident of a Contracting State shall not receive the benefit of any reduction in or exemption from tax provided for in this Convention by the other Contracting State if it is reasonable to conclude, having regard to all relevant facts and circumstances, that the principal purpose was to obtain these benefits, unless it is established that granting these benefits in these circumstances would be in accordance with the object and purpose of the relevant provisions of this Convention. Before a resident of a Contracting State is denied such benefits in the other Contracting State by reason of the preceding [S.L. 123.181 (THE PRINCIPALITY OF ANDORRA)
-
-sentence, the competent authorities of the Contracting States shall agree with each other following consultation.
-
-*20*
+\1. Notwithstanding the other provisions of this Convention, a resident of a Contracting State shall not receive the benefit of any reduction in or exemption from tax provided for in this Convention by the other Contracting State if it is reasonable to conclude, having regard to all relevant facts and circumstances, that the principal purpose was to obtain these benefits, unless it is established that granting these benefits in these circumstances would be in accordance with the object and purpose of the relevant provisions of this Convention. Before a resident of a Contracting State is denied such benefits in the other Contracting State by reason of the preceding sentence, the competent authorities of the Contracting States shall agree with each other following consultation.
 
 \2. Where, under any provision of this Convention, an item of income may be relieved from tax in a Contracting State and, under the domestic law in force in the other Contracting State, a person is only subject to tax by reference to the amount of such income which is remitted to or received in that other State and not by reference to the full amount thereof, then the relief to be allowed in the first-mentioned State shall apply only to so much of the income which is subject to tax in the other State.
 
@@ -537,11 +479,9 @@ sentence, the competent authorities of the Contracting States shall agree with e
 
 This Convention shall remain in force until terminated by a Contracting State. Either Contracting State may terminate the Convention, through diplomatic channels, by giving notice of termination at least six months before the end of any calendar year beginning after the expiration of a period of five years from the date of its entry into force. In such event, the Convention shall cease to have effect:
 
-(a) in respect of taxes withheld at source, to income derived on or after first day of January of the calendar year next following the year in which the (THE PRINCIPALITY OF ANDORRA) [S.L. 123.181 notice is given;
+(a) in respect of taxes withheld at source, to income derived on or after first day of January of the calendar year next following the year in which the notice is given;
 
 (b) in respect of other taxes on income, to taxes chargeable for any taxable year (any calendar year or accounting period, as the case may be), beginning on or after the first day of January immediately following the year in which the notice is given.
-
-*21*
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto by their respective Governments, have signed this Convention.
 
@@ -565,10 +505,6 @@ I. With reference to paragraph 1 of Article 4 (Resident):
 
 (b) in the case of Andorra, an investment fund according to the Andorran Law of 12 June 2012, Law 10/2008 and any other law or regulation that may develop, replace or modify this law in the future;
 
-*22*
-
-[S.L. 123.181 (THE PRINCIPALITY OF ANDORRA)
-
 (c) any other investment fund, arrangement or entity of a Contracting State which the competent authority of that Contracting State determines to regard as an investment fund for the purpose of this paragraph; and
 
 (ii) the term "pension fund or scheme" means:
@@ -589,11 +525,9 @@ II. With reference to Article 24 (Exchange of Information):
 
 \3. The provisions of the Convention in connection with requests for information apply:
 
-(i) in respect to tax matters involving intentional conduct which is liable to prosecution under (THE PRINCIPALITY OF ANDORRA) [S.L. 123.181 the criminal laws of the requesting Party, to taxable periods beginning on or after the first day of January of the third year preceding the one in which the Convention enters into force, or where there is no taxable period, to all taxes arising on or after the first day of January of the third year preceding the one in which the Convention enters into force; and
+(i) in respect to tax matters involving intentional conduct which is liable to prosecution under the criminal laws of the requesting Party, to taxable periods beginning on or after the first day of January of the third year preceding the one in which the Convention enters into force, or where there is no taxable period, to all taxes arising on or after the first day of January of the third year preceding the one in which the Convention enters into force; and
 
 (ii) in other cases, to taxable periods beginning on or after the first day of January of the year next following the one in which the Convention enters into force or, where there is no taxable period, for all taxes arising on or after the first day of January of the year next following the one in which the Convention enters into force.
-
-*23*
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto by their respective Governments, have signed this Protocol.
 

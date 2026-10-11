@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Exemption from Tax on Certain Property Transfers Rules (S.L. 123.199)
 
-*1*
-
-PROPERTY TRANSFERS [S.L. 123.199 SUBSIDIARY LEGISLATION 123.199
+**SUBSIDIARY LEGISLATION 123.199**
 
 **EXEMPTION FROM TAX ON CERTAIN**
 
@@ -62,11 +60,7 @@ Provided that in the case of a transfer of an undivided share of property, the r
 
 *Amended by: L.N. 77 of 2023.*
 
-(1) When the Commissioner is of the opinion that two or more transfers form part of a structured arrangement, he may order, within five (5) years from the date of the last of the said transfers, that the exemption granted under these rules shall not apply to any of those [S.L. 123.199 PROPERTY TRANSFERS
-
-transfers and in such a case the tax shall be chargeable on each of those transfers in accordance with the provisions of article 5A without reference to these rules.
-
-*2*
+(1) When the Commissioner is of the opinion that two or more transfers form part of a structured arrangement, he may order, within five (5) years from the date of the last of the said transfers, that the exemption granted under these rules shall not apply to any of those transfers and in such a case the tax shall be chargeable on each of those transfers in accordance with the provisions of article 5A without reference to these rules.
 
 (2) The tax chargeable as provided in sub-rule (1), net of any tax that would have already been paid on the transfers in question, shall become payable by not later than the last day of the month following that in which a notice of the said order is served on the transferor.
 

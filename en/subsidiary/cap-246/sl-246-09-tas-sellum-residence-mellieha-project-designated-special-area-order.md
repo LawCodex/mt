@@ -1,6 +1,6 @@
 ---
 title: "Tas-Sellum Residence (Mellieha Project) (Designated Special Area) Order"
-identifier: "S.L. 246.9"
+identifier: "S.L. 246.09"
 eli: "https://legislation.mt/eli/sl/246.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/246.9/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Tas-Sellum Residence (Mellieha Project) (Designated Special Area) Order (S.L. 246.9)
-
-TAS-SELLUM RESIDENCE (MELLIE}A PROJECT)
-
-*1*
-
-(DESIGNATED SPECIAL AREA) [S.L.246.09
+# Tas-Sellum Residence (Mellieha Project) (Designated Special Area) Order (S.L. 246.09)
 
 **SUBSIDIARY LEGISLATION 246.09**
 

@@ -1,6 +1,6 @@
 ---
 title: "Control of Dogs Regulations"
-identifier: "S.L. 312.1"
+identifier: "S.L. 312.01"
 eli: "https://legislation.mt/eli/sl/312.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/312.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Control of Dogs Regulations (S.L. 312.1)
+# Control of Dogs Regulations (S.L. 312.01)
 
 **SUBSIDIARY LEGISLATION 312.01**
 

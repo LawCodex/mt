@@ -1,6 +1,6 @@
 ---
 title: "Investment Registration Scheme Regulations"
-identifier: "S.L. 233.3"
+identifier: "S.L. 233.03"
 eli: "https://legislation.mt/eli/sl/233.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/233.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Investment Registration Scheme Regulations (S.L. 233.3)
+# Investment Registration Scheme Regulations (S.L. 233.03)
 
 **SUBSIDIARY LEGISLATION 233.03**
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Percentage Increase in the Rate of Contributory Pensions for Retirement Regulations (S.L. 318.24)
 
-*1*
-
-OF CONTRIBUTORY PENSIONS FOR RETIREMENT [S.L.318.24
-
 **SUBSIDIARY LEGISLATION 318.24**
 
 **PERCENTAGE INCREASE IN THE RATE OF**
@@ -66,10 +62,6 @@ When the calculation is made for the purposes of establishing the additional amo
 *Other conditions on the mode in which this increase is paid. Cap. 318.*
 
 \*see regulation 1(2) of these Regulations, as originally promulgated.
-
-*2*
-
-[S.L.318.24 OF CONTRIBUTORY PENSIONS FOR RETIREMENT
 
 (2) The additional amount emerging from sub-regulation (1) can be paid to the survivors of the beneficiary if the survivors benefit from the pension in accordance with Section IV of the Social Security Act paid after the death of the beneficiary.
 

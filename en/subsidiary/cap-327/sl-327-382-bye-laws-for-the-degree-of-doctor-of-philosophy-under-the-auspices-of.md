@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy under the auspices of the Faculty for the Built Environment (S.L. 327.382)
 
-UNDER THE AUSPICES OF THE FACULTY
-
-*1*
-
-FOR THE BUILT ENVIRONMENT [S.L.327.382
-
 **SUBSIDIARY LEGISLATION 327.382**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR OF**
@@ -63,12 +57,6 @@ These bye-laws shall be applicable from October 2009 onwards.
 
 \*These regulations have been repealed by Legal Notice 258 of 2024.
 
-UNDER THE AUSPICES OF THE FACULTY
-
-*2*
-
-[S.L.327.382 FOR THE BUILT ENVIRONMENT
-
 ## 4. Application form.
 
 (1) Applicants may submit their application form, together with a comprehensive research proposal outlining the proposed project, including research sources and a bibliography, at any time of the year.
@@ -103,11 +91,7 @@ Students registered at the Faculty may be required to participate in the Faculty
 
 ## 10. Thesis.
 
-Students are required to inform the Faculty that they will UNDER THE AUSPICES OF THE FACULTY
-
-*3*
-
-FOR THE BUILT ENVIRONMENT [S.L.327.382 be submitting their thesis for examination not less than three months before the submission deadline.
+Students are required to inform the Faculty that they will be submitting their thesis for examination not less than three months before the submission deadline.
 
 ## 11. Board of Examiners.
 

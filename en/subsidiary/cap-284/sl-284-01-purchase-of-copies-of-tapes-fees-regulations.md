@@ -1,6 +1,6 @@
 ---
 title: "Purchase of Copies of Tapes (Fees) Regulations"
-identifier: "S.L. 284.1"
+identifier: "S.L. 284.01"
 eli: "https://legislation.mt/eli/sl/284.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/284.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Purchase of Copies of Tapes (Fees) Regulations (S.L. 284.1)
+# Purchase of Copies of Tapes (Fees) Regulations (S.L. 284.01)
 
 **SUBSIDIARY LEGISLATION 284.01**
 

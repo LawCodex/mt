@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Exchange of Information (Tax Matters) (Commonwealth of The Bahamas) Order (S.L. 123.139)
 
-*1*
-
-(COMMONWEALTH OF THE BAHAMAS) [S.L.123.139
-
 **SUBSIDIARY LEGISLATION 123.139**
 
 EXCHANGE OF INFORMATION (TAX MATTERS) (COMMONWEALTH OF THE BAHAMAS) ORDER 15th January, 2013
@@ -38,8 +34,6 @@ It is hereby declared:
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Agreement has entered into force on 30 October 2012.
-
-2 [S.L.123.139 (COMMONWEALTH OF THE BAHAMAS)
 
 ## SCHEDULE
 
@@ -85,9 +79,7 @@ This Agreement shall also apply to any identical taxes imposed after the date of
 
 \1. For the purposes of this Agreement, unless otherwise defined:
 
-(a) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial (COMMONWEALTH OF THE BAHAMAS) [S.L.123.139 3
-
-waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
+(a) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
 
 (b) the term "The Bahamas" means the Commonwealth of The Bahamas, and when used in a geographical sense encompasses its land and territorial waters, subject to the laws of The Bahamas, and any area outside its territorial waters, inclusive of the exclusive economic zone and the seabed and subsoil thereof, over which The Bahamas exercises jurisdiction and sovereign rights for the purpose of exploration, exploitation and conservation of natural resources, in accordance with international law;
 
@@ -117,9 +109,7 @@ waters thereof, as well as any area of the sea-bed, its sub-soil and the superja
 
 (m) the term "publicly traded company" means any company whose principal class of shares is listed on a recognised stock exchange provided its listed shares can be readily purchased or sold by the public. Shares can be purchased or sold "by the public" if the purchase or sale of shares is not implicitly or explicitly restricted to a limited group of investors;
 
-(n) the term "collective investment fund or scheme" means any pooled investment vehicle, irrespective of legal form. The term "public collective investment fund or scheme" means any collective investment 4 [S.L.123.139 (COMMONWEALTH OF THE BAHAMAS)
-
-fund or scheme provided the units, shares or other interests in the fund or scheme can be readily purchased, sold or redeemed by the public. Units, shares or other interests in the fund or scheme can be readily purchased, sold or redeemed "by the public" if the purchase, sale or redemption is not implicitly or explicitly restricted to a limited group of investors;
+(n) the term "collective investment fund or scheme" means any pooled investment vehicle, irrespective of legal form. The term "public collective investment fund or scheme" means any collective investment fund or scheme provided the units, shares or other interests in the fund or scheme can be readily purchased, sold or redeemed by the public. Units, shares or other interests in the fund or scheme can be readily purchased, sold or redeemed "by the public" if the purchase, sale or redemption is not implicitly or explicitly restricted to a limited group of investors;
 
 (o) the term "recognised stock exchange" means any stock exchange agreed upon by the competent authorities of the Contracting Parties;
 
@@ -152,8 +142,6 @@ Each Contracting Party shall ensure that its competent authorities for the purpo
 (a) information held by banks, other financial institutions, and any person acting in an agency or fiduciary capacity, including nominees and trustees;
 
 (b) information regarding the ownership of companies, partnerships, trusts, foundations, "Anstalten" and other persons, including, within the constraints of Article 2, ownership information on all such persons in an ownership chain; in the case of trusts, information on settlors, trustees and beneficiaries; and in the case of foundations, information on founders, members of the foundation council and beneficiaries. Further, this Agreement does not create an obligation on the Contracting Parties to obtain or provide ownership information with respect to publicly traded companies or public collective investment funds or schemes unless such information can be obtained without giving rise to disproportionate difficulties.
-
-(COMMONWEALTH OF THE BAHAMAS) [S.L.123.139 5
 
 ## 5.
 
@@ -191,8 +179,6 @@ The competent authority of the requested Party shall forward the requested infor
 
 (b) if the competent authority of the requested Party has been unable to obtain and provide the information within 90 days of receipt of the request, including if it encounters obstacles in furnishing the information or it refuses to furnish the information, it shall immediately inform the applicant Party, explaining the reason for its inability, the nature of the obstacles or the reasons for its refusal.
 
-6 [S.L.123.139 (COMMONWEALTH OF THE BAHAMAS)
-
 **Article 6**
 
 **Tax Examinations Abroad**
@@ -221,9 +207,7 @@ The competent authority of the requested Party shall forward the requested infor
 
 **Confidentiality**
 
-Any information received by a Contracting Party under this Agreement shall be treated as confidential and may be disclosed only to persons or authorities (including courts and administrative bodies) in the jurisdiction of the Contracting Party concerned with the assessment or collection of, the enforcement or prosecution in (COMMONWEALTH OF THE BAHAMAS) [S.L.123.139 7
-
-respect of, or the determination of appeals in relation to, the taxes covered by this Agreement. Such persons or authorities shall use such information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions. The information may not be disclosed to any other person or entity or authority or any other jurisdiction without the express written consent of the competent authority of the requested Party.
+Any information received by a Contracting Party under this Agreement shall be treated as confidential and may be disclosed only to persons or authorities (including courts and administrative bodies) in the jurisdiction of the Contracting Party concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by this Agreement. Such persons or authorities shall use such information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions. The information may not be disclosed to any other person or entity or authority or any other jurisdiction without the express written consent of the competent authority of the requested Party.
 
 **Article 9**
 
@@ -267,9 +251,7 @@ This Agreement shall enter into force when each Contracting Party has notified t
 
 \1. This Agreement shall remain in force until terminated by either Contracting Party.
 
-\2. Either Contracting Party may terminate this Agreement by giving notice of termination in writing, through diplomatic channels, to the other Party. Such termination shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of the notice of 8 [S.L.123.139 (COMMONWEALTH OF THE BAHAMAS)
-
-termination by the other Party.
+\2. Either Contracting Party may terminate this Agreement by giving notice of termination in writing, through diplomatic channels, to the other Party. Such termination shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of the notice of termination by the other Party.
 
 \3. If the Agreement is terminated, the Contracting Parties shall remain bound by the provisions of Article 8 with respect to any information obtained under this Agreement.
 

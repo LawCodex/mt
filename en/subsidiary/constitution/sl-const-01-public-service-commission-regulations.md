@@ -1,6 +1,6 @@
 ---
 title: "Public Service Commission Regulations"
-identifier: "S.L. const.1"
+identifier: "S.L. const.01"
 eli: "https://legislation.mt/eli/sl/const.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/const.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Public Service Commission Regulations (S.L. const.1)
+# Public Service Commission Regulations (S.L. const.01)
 
 **SUBSIDIARY LEGISLATION CONST.01**
 

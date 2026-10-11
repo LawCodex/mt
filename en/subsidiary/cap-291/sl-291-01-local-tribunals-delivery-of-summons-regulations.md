@@ -1,6 +1,6 @@
 ---
 title: "Local Tribunals (Delivery of Summons) Regulations"
-identifier: "S.L. 291.1"
+identifier: "S.L. 291.01"
 eli: "https://legislation.mt/eli/sl/291.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/291.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Local Tribunals (Delivery of Summons) Regulations (S.L. 291.1)
+# Local Tribunals (Delivery of Summons) Regulations (S.L. 291.01)
 
 **SUBSIDIARY LEGISLATION 291.01**
 

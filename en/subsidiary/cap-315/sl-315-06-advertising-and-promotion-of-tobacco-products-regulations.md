@@ -1,6 +1,6 @@
 ---
 title: "Advertising and Promotion of Tobacco Products Regulations"
-identifier: "S.L. 315.6"
+identifier: "S.L. 315.06"
 eli: "https://legislation.mt/eli/sl/315.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/315.6/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Advertising and Promotion of Tobacco Products Regulations (S.L. 315.6)
-
-*1*
-
-OF TOBACCO PRODUCTS [S.L.315.06
+# Advertising and Promotion of Tobacco Products Regulations (S.L. 315.06)
 
 **SUBSIDIARY LEGISLATION 315.06**
 
@@ -62,10 +58,6 @@ No responsible person may make use or allow to make use of lotteries and other g
 ## 5. Sale of tobacco from automatic vending machines.
 
 It shall not be lawful for any responsible person to sell or permit to be sold any product other than cigarettes and tobacco products from automatic sales machines which are used to dispense cigarettes and tobacco products.
-
-*2*
-
-[S.L.315.06 OF TOBACCO PRODUCTS
 
 ## 6. Other laws and regulations.
 

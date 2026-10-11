@@ -1,6 +1,6 @@
 ---
 title: "Fees leviable by Government Departments Regulations"
-identifier: "S.L. 35.1"
+identifier: "S.L. 35.01"
 eli: "https://legislation.mt/eli/sl/35.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/35.1/20250930/eng"
 retrieved: 2026-10-12
 ---
 
-# Fees leviable by Government Departments Regulations (S.L. 35.1)
+# Fees leviable by Government Departments Regulations (S.L. 35.01)
 
 **SUBSIDIARY LEGISLATION 35.01**
 

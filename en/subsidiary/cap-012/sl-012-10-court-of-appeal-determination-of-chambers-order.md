@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Court of Appeal (Determination of Chambers) Order (S.L. 12.10)
 
-COURT OF APPEAL
-
-*1*
-
-(DETERMINATION OF CHAMBERS) [S.L.12.10
-
 **SUBSIDIARY LEGISLATION 12.10**
 
 **COURT OF APPEAL (DETERMINATION OF**

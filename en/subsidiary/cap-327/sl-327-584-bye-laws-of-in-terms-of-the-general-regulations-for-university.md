@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws of in terms of the General Regulations for University Undergraduate Awards, for the degree of Bachelor of Science (Honours) in Science for Education and Communication - B.Sc. (Hons) - under the auspices of the Faculty of Education (S.L. 327.584)
 
-*1*
-
-EDUCATION AND COMMUNICATION - B.SC. (HONS) [S.L. 327.584 SUBSIDIARY LEGISLATION 327.584
+**SUBSIDIARY LEGISLATION 327.584**
 
 **BYE-LAWS IN TERMS OF THE GENERAL**
 
@@ -70,9 +68,7 @@ To be registered as regular students in the Course, applicants shall, apart from
 
 (b) for Science with specialisation in Chemistry: a pass at Advanced Level at Grade C or better in Chemistry and a pass at Intermediate Level at Grade C or better in Pure Mathematics or Physics; and
 
-*2*
-
-[S.L. 327.584 EDUCATION AND COMMUNICATION - B.SC. (HONS) (c) for Science with specialisation in Physics: a pass at Advanced Level at Grade C or better in Physics and a pass at Intermediate Level at Grade C or better in Pure Mathematics.
+(c) for Science with specialisation in Physics: a pass at Advanced Level at Grade C or better in Physics and a pass at Intermediate Level at Grade C or better in Pure Mathematics.
 
 ## 5.
 

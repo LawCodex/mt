@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # High Net Worth Individuals Non-EU/EEA/Swiss Nationals Rules (S.L. 123.130)
 
-*1*
-
-NON-EU/EEA/SWISS NATIONALS [S.L.123.130
-
 **SUBSIDIARY LEGISLATION 123.130**
 
 **HIGH NET WORTH INDIVIDUALS -**
@@ -59,13 +55,9 @@ Provided that a person that is not an individual, having at least 75% (directly 
 
 "Commissioner" means the Commissioner for Revenue;
 
-"dependent" means the beneficiary’s spouse, the beneficiary’s unmarried minor children, adopted minor children of the beneficiary or of the spouse, as the case may be, where the beneficiary or the spouse has custody and the minor children are financially dependent on him and children of the beneficiary or of [S.L.123.130 NON-EU/EEA/SWISS NATIONALS
+"dependent" means the beneficiary’s spouse, the beneficiary’s unmarried minor children, adopted minor children of the beneficiary or of the spouse, as the case may be, where the beneficiary or the spouse has custody and the minor children are financially dependent on him and children of the beneficiary or of the beneficiary’s spouse who are not minors but who, because of circumstances of illness or disability of a serious gravity, are unable to maintain themselves;
 
 \*See rule 1(2) of these rules, as originally promulgated.
-
-the beneficiary’s spouse who are not minors but who, because of circumstances of illness or disability of a serious gravity, are unable to maintain themselves;
-
-*2*
 
 "EEA" means the members of the European Union, Iceland, Norway and Liechtenstein;
 
@@ -107,11 +99,7 @@ the beneficiary’s spouse who are not minors but who, because of circumstances 
 
 (b) rents qualifying rented property as lessee;
 
-and, in either case, occupies such property as his primary NON-EU/EEA/SWISS NATIONALS [S.L.123.130
-
-residence:
-
-*3*
+and, in either case, occupies such property as his primary residence:
 
 Provided that the persons who reside in the qualifying property are not persons other than the beneficiary and his family members;
 
@@ -136,10 +124,6 @@ Provided that, for the purposes of these rules, EEA nationals and Swiss national
 *Amended by: L.N. 42 of 2012; L.N. 178 of 2013.*
 
 (1) An individual who is not a long-term resident, as duly represented by an authorised registered mandatory, may apply to the Commissioner for special tax status under these rules in such form as the Commissioner may require and by paying the fee that the Minister may prescribe:
-
-*4*
-
-[S.L.123.130 NON-EU/EEA/SWISS NATIONALS
 
 Provided that the Commissioner shall not receive any applications for special tax status under these rules after 30th June, 2013.
 
@@ -177,11 +161,7 @@ A beneficiary is an individual who proves to the satisfaction of the Commissione
 
 (g) he is in possession of sickness insurance in respect of all risks across the whole of the European Union normally covered for Maltese nationals for himself and his dependents;
 
-(h) he is not domiciled in Malta and that he does not, within five years from the date of application, intend NON-EU/EEA/SWISS NATIONALS [S.L.123.130
-
-to establish his domicile in Malta;
-
-*5*
+(h) he is not domiciled in Malta and that he does not, within five years from the date of application, intend to establish his domicile in Malta;
 
 (i) he is a fit and proper person;
 
@@ -223,11 +203,7 @@ Provided further that a beneficiary with dependents shall, in addition to the mi
 
 (b) if the individual is not in receipt of stable and regular resources which are sufficient to maintain himself and his dependents without recourse to the social assistance system in Malta;
 
-(c) if, after the appointed day, he is not in possession of sickness insurance in respect of all risk normally covered for Maltese nationals for himself and his [S.L.123.130 NON-EU/EEA/SWISS NATIONALS
-
-dependents;
-
-*6*
+(c) if, after the appointed day, he is not in possession of sickness insurance in respect of all risk normally covered for Maltese nationals for himself and his dependents;
 
 (d) if he establishes his domicile in Malta;
 
@@ -263,11 +239,9 @@ If an individual benefits under these rules where that person was not so entitle
 
 *Cap. 372.*
 
-*7*
+## 9. Annual reporting obligation. Cap. 372.
 
-NON-EU/EEA/SWISS NATIONALS [S.L.123.130 9. The return required in terms of article 10 of the Income Tax Management Act shall, in the case of a beneficiary under these rules, include such form as the Commissioner may require.
-
-*Annual reporting obligation. Cap. 372.*
+The return required in terms of article 10 of the Income Tax Management Act shall, in the case of a beneficiary under these rules, include such form as the Commissioner may require.
 
 ## 10. Authorised registered mandatory.
 

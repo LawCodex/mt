@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Prime Minister and Minister of Finance for the Issue of €34,600,940.98 5.9% Malta Government Stock 2015 (Second Issue) Fungibility Issue (S.L. 161.116)
 
-ISSUE OF €34,940,600.98 5.9%
-
-*1*
-
-MALTA GOVERNMENT STOCK 2015 (SECOND ISSUE) [S.L.161.116
-
 **SUBSIDIARY LEGISLATION 161.116**
 
 **DIRECTIVE BY THE PRIME MINISTER AND**

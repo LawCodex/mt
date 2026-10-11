@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy - Ph.D. - under the auspices of the Islands and Small States Institute (S.L. 327.141)
 
-*1*
-
-AUSPICES OF THE ISLANDS AND SMALL STATES INSTITUTE [S.L.327.141
-
 **SUBSIDIARY LEGISLATION 327.141**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR OF**
@@ -67,13 +63,9 @@ Applicants shall be in possession of one of the following degrees:
 
 ## 5. Completion of study-units.
 
-When the Board deems it necessary, it may require students to successfully complete a number of study-units during their studies, and, or to satisfactorily undertake tasks recommended by [S.L.327.141 AUSPICES OF THE ISLANDS AND SMALL STATES INSTITUTE
+When the Board deems it necessary, it may require students to successfully complete a number of study-units during their studies, and, or to satisfactorily undertake tasks recommended by the Board, under those conditions that it may impose, after approval by Senate.
 
 \*These bye-laws have been repealed by Legal Notice 222 of 2024.
-
-the Board, under those conditions that it may impose, after approval by Senate.
-
-*2*
 
 ## 6. Institute Doctoral Committee.
 
@@ -119,10 +111,6 @@ The Board shall approve and publish guidelines on the format and presentation of
 
 (1) Students shall be required to submit a loose bound copy of their thesis for each member of the Board of Examiners, together with a copy in digital format. The officer in charge of the Faculty shall issue a dated receipt.
 
-(2) Students may publish the whole or part of their thesis before submitting it for examination. Such published work may AUSPICES OF THE ISLANDS AND SMALL STATES INSTITUTE [S.L.327.141
-
-later be included in the thesis submitted for examination, provided that a statement to this effect is included.
-
-*3*
+(2) Students may publish the whole or part of their thesis before submitting it for examination. Such published work may later be included in the thesis submitted for examination, provided that a statement to this effect is included.
 
 (3) On successful completion of their studies, students shall be required to submit to the Institute two hard bound copies and one electronic version of the thesis, which shall include a signed declaration of authenticity, within six weeks from the publication of their result. One copy of the thesis shall be kept in the Library of the Institute. The electronic version must conform to the standards set up by the University of Malta Library. Students who do not comply with this bye-law shall not be awarded the Degree.

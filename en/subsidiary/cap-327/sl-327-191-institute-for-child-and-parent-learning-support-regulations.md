@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Institute for Child and Parent Learning Support Regulations (S.L. 327.191)
 
-*1*
-
-AND PARENT LEARNING SUPPORT [S.L.327.191
-
 **SUBSIDIARY LEGISLATION 327.191**
 
 INSTITUTE FOR CHILD AND PARENT LEARNING SUPPORT REGULATIONS
@@ -60,10 +56,6 @@ The aims of the Institute shall be to -
 (g) complement remedial work undertaken by the Division of Education;
 
 (h) collaborate with the Division of Education, the Faculty of Education, state and non-state schools, and other local and foreign institutions in the field, to ensure availability of research based information;
-
-*2*
-
-[S.L.327.191 AND PARENT LEARNING SUPPORT
 
 (i) adapt and develop, in collaboration with the institutions mentioned above where appropriate, resources for literacy assessment, learning and evaluation of the children’s educational and cultural development;
 
@@ -107,11 +99,7 @@ The functions of the Board shall be to -
 
 (c) ensure the development, implementation and monitoring of the effective management of educational support programmes for both children at risk of failing in school and their parents;
 
-(d) ensure the adoption of effective approaches to empower, support and motivate parents to become partners in the development and implementation of AND PARENT LEARNING SUPPORT [S.L.327.191
-
-educational support programmes;
-
-*3*
+(d) ensure the adoption of effective approaches to empower, support and motivate parents to become partners in the development and implementation of educational support programmes;
 
 (e) ensure collaboration with other bodies, local and foreign, including non-governmental organisations, groups and individuals working in the same field, as necessary to achieve the aims of the Institute;
 

@@ -1,6 +1,6 @@
 ---
 title: "Permission to Reside for Victims of Trafficking or Illegal Immigration who co-operate with the Maltese Authorities Regulations"
-identifier: "S.L. 217.7"
+identifier: "S.L. 217.07"
 eli: "https://legislation.mt/eli/sl/217.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/217.7/20251003/eng"
 retrieved: 2026-10-12
 ---
 
-# Permission to Reside for Victims of Trafficking or Illegal Immigration who co-operate with the Maltese Authorities Regulations (S.L. 217.7)
-
-OF TRAFFICKING OR ILLEGAL IMMIGRATION
-
-*1*
-
-WHO CO-OPERATE WITH THE MALTESE AUTHORITIES [S.L.217.07
+# Permission to Reside for Victims of Trafficking or Illegal Immigration who co-operate with the Maltese Authorities Regulations (S.L. 217.07)
 
 **SUBSIDIARY LEGISLATION 217.07**
 
@@ -62,13 +56,7 @@ In these regulations, unless the context otherwise requires - "Act" means the Im
 
 "Director" means the Director for Citizenship and Expatriate Affairs;
 
-"Member State" means any one of the Member States of the OF TRAFFICKING OR ILLEGAL IMMIGRATION
-
-*2*
-
-[S.L.217.07 WHO CO-OPERATE WITH THE MALTESE AUTHORITIES
-
-European Union;
+"Member State" means any one of the Member States of the European Union;
 
 "Minister" means the Minister responsible for immigration;
 
@@ -108,11 +96,7 @@ and, where applicable:
 
 (v) translation and interpreting services;
 
-OF TRAFFICKING OR ILLEGAL IMMIGRATION
-
-*3*
-
-WHO CO-OPERATE WITH THE MALTESE AUTHORITIES [S.L.217.07 (vi) free legal aid:
+(vi) free legal aid:
 
 Provided that in the case where the third country national is a minor, he shall have access to the public education system under the same conditions as Maltese nationals.
 
@@ -142,13 +126,7 @@ Provided that, when the third country national concerned is a minor, the Princip
 
 (3) The provisions of regulation 3(5) shall apply to the third country national concerned, when he does not have the necessary resources, after the issue of the residence permit and for the duration of such permit:
 
-Provided that the third country national shall be provided OF TRAFFICKING OR ILLEGAL IMMIGRATION
-
-*4*
-
-[S.L.217.07 WHO CO-OPERATE WITH THE MALTESE AUTHORITIES
-
-with the necessary medical care or other assistance, when he does not have sufficient resources, and has special needs such as in the case of pregnant women, disabled persons, victims of sexual or other forms of violence, and minors.
+Provided that the third country national shall be provided with the necessary medical care or other assistance, when he does not have sufficient resources, and has special needs such as in the case of pregnant women, disabled persons, victims of sexual or other forms of violence, and minors.
 
 (4) The third country national concerned may be granted a work permit for the duration of the residence permit, in accordance with article 11(3) of the Act, and, especially when such third country national is a minor, access to vocational training and education.
 

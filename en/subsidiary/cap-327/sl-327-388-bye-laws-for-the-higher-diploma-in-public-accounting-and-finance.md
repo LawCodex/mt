@@ -17,13 +17,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Higher Diploma in Public Accounting and Finance under the auspices of the Institute of Public Administration and Management and the Faculty of Economics, Management and Accountancy (S.L. 327.388)
 
-UNDER THE AUSPICES OF THE INSTITUTE OF PUBLIC
-
-ADMINISTRATION AND MANAGEMENT AND THE FACULTY OF
-
-*1*
-
-ECONOMICS, MANAGEMENT AND ACCOUNTANCY [S.L.327.388 SUBSIDIARY LEGISLATION 327.388
+**SUBSIDIARY LEGISLATION 327.388**
 
 **BYE-LAWS FOR THE HIGHER DIPLOMA IN**
 
@@ -67,15 +61,9 @@ These bye-laws shall be applicable for courses commencing in October 2010 or lat
 
 (2) Applicants admitted under regulation 6(c) of the Admission Regulations must be in possession of those qualifications and/or experience that would satisfy the Board of Studies that they have reached the academic standard required to follow the course with profit. The eligibility of such applicants shall be decided by the Board of Studies, following an interview and a written test, which shall make its recommendations taking into consideration the criteria and weightings as laid down in paragraph (5).
 
-(3) Admission to the course may, with the approval of Senate, UNDER THE AUSPICES OF THE INSTITUTE OF PUBLIC
+(3) Admission to the course may, with the approval of Senate, be restricted to applicants who are nominated by the Public Service provided they are eligible for admission in terms of paragraphs (1) or (2).
 
 \*These bye-laws have been repealed by Legal Notice 185 of 2022.
-
-*2*
-
-ADMINISTRATION AND MANAGEMENT AND THE FACULTY OF [S.L.327.388 ECONOMICS, MANAGEMENT AND ACCOUNTANCY
-
-be restricted to applicants who are nominated by the Public Service provided they are eligible for admission in terms of paragraphs (1) or (2).
 
 (4) Senate, on the recommendation of the Board of Studies, shall determine the number of applicants that may be allowed to register for the course, depending on the availability of resources. The number of available places shall be announced at the time of the call for applications.
 
@@ -113,13 +101,7 @@ The programme of study shall be published after approval by Senate, normally not
 
 (1) The overall evaluation of each student’s performance in the course for the purpose of the classification of the Diploma and the Higher Diploma shall be based on the results obtained, all credits earned being weighted equally.
 
-(2) The names of students who qualify for the award of the Diploma and the Higher Diploma shall be published in a list in UNDER THE AUSPICES OF THE INSTITUTE OF PUBLIC
-
-ADMINISTRATION AND MANAGEMENT AND THE FACULTY OF
-
-*3*
-
-ECONOMICS, MANAGEMENT AND ACCOUNTANCY [S.L.327.388 alphabetical order classified as follows:
+(2) The names of students who qualify for the award of the Diploma and the Higher Diploma shall be published in a list in alphabetical order classified as follows:
 
 Pass with Distinction
 

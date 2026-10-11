@@ -1,6 +1,6 @@
 ---
 title: "Service of Notice by Mail Regulations"
-identifier: "S.L. 291.3"
+identifier: "S.L. 291.03"
 eli: "https://legislation.mt/eli/sl/291.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/291.3/20210129/eng"
 retrieved: 2026-10-12
 ---
 
-# Service of Notice by Mail Regulations (S.L. 291.3)
+# Service of Notice by Mail Regulations (S.L. 291.03)
 
 **SUBSIDIARY LEGISLATION 291.03**
 

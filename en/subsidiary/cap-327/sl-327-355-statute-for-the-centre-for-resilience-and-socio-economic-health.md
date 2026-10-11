@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Statute for the Centre for Resilience and Socio-Economic Health (S.L. 327.355)
 
-*1*
-
-AND SOCIO-EMOTIONAL HEALTH [S.L.327.355
-
 **SUBSIDIARY LEGISLATION 327.355**
 
 **STATUTE FOR THE CENTRE FOR RESILIENCE**
@@ -58,11 +54,7 @@ The aim of the Centre is to develop and promote the science and evidence-based p
 
 (d) to disseminate knowledge and promote learning and teaching about best practices and relevant research in socio-emotional health and resilience;
 
-(e) to provide consultation and engage in developmental work in various educational, clinical and social settings in the promotion of socio-emotional health and resilience and the prevention of social, emotional and behaviour difficulties in children and young [S.L.327.355 AND SOCIO-EMOTIONAL HEALTH
-
-people;
-
-*2*
+(e) to provide consultation and engage in developmental work in various educational, clinical and social settings in the promotion of socio-emotional health and resilience and the prevention of social, emotional and behaviour difficulties in children and young people;
 
 (f) to provide education and training, including postgraduate programmes of study, to practitioners, educators and other prospective candidates at local, national and cross- European levels; and
 
@@ -112,11 +104,7 @@ The function of the Board shall be:
 
 (v) propose Regulations and Bye-Laws to the Senate;
 
-(vi) recommend to the Council the creation or AND SOCIO-EMOTIONAL HEALTH [S.L.327.355
-
-abolition of academic and non-academic posts in the Centre;
-
-*3*
+(vi) recommend to the Council the creation or abolition of academic and non-academic posts in the Centre;
 
 (vii) propose for approval to the Senate, Board of Studies and Examiners for academic courses. The Centre shall have a Director and Staff:
 
@@ -148,11 +136,7 @@ The duties of the Vice-Chairman/Director shall include:
 
 (i) representing the Centre during official functions of the University;
 
-(j) compiling and submitting to the Secretary of the University by the end of September of each academic year, an annual report outlining the activities of the Centre for the outgoing year, which should include amongst other information that may be requested by the Secretary: a comprehensive list of recent AND SOCIO-EMOTIONAL HEALTH
-
-publications of all members of the Centre; a synopsis of all projects involving members of the Centre which are wholly or partially externally funded; a list of all conferences/seminars/meetings attended abroad by members of the Centre during term time; and an outline of the Centre’s collaboration with third parties including local industry, Government or civil society at large;
-
-*[S.L.327.355 4*
+(j) compiling and submitting to the Secretary of the University by the end of September of each academic year, an annual report outlining the activities of the Centre for the outgoing year, which should include amongst other information that may be requested by the Secretary: a comprehensive list of recent publications of all members of the Centre; a synopsis of all projects involving members of the Centre which are wholly or partially externally funded; a list of all conferences/seminars/meetings attended abroad by members of the Centre during term time; and an outline of the Centre’s collaboration with third parties including local industry, Government or civil society at large;
 
 (k) compiling and submitting to the Director of Finance of the University by not later than end of May of each academic year budgetary estimates for the following year including a manpower plan for the Centre, to cover the projected teaching, research and administration workload of the Centre, and based on the projected workload for each Resident Academic member of the Centre and Visiting Teaching Staff;
 
@@ -174,11 +158,7 @@ The Director moreover:
 
 (d) is expected to be present on campus or any designated University of Malta site at least during normal office hours from Monday to Friday throughout the year subject to the exigencies of an academic in accordance with the University’s practices and needs and subject to normal leave entitlement and public holidays as provided for at law; should his absence be necessary and justified he must ensure that he is immediately contactable through the secretarial staff of the Centre;
 
-(e) shall not give access to any information to any third party that is not associated with the University of Malta, about any work or data that relates to tasks conducted at the University of Malta without the prior AND SOCIO-EMOTIONAL HEALTH [S.L.327.355
-
-approval of the University of Malta; all work carried out within the Centre must be treated according to Maltese data protection legislation;
-
-*5*
+(e) shall not give access to any information to any third party that is not associated with the University of Malta, about any work or data that relates to tasks conducted at the University of Malta without the prior approval of the University of Malta; all work carried out within the Centre must be treated according to Maltese data protection legislation;
 
 (f) is to abide with the statutes, regulations and policies of the University of Malta, which are in force now or will become effective in the duration of his tenure.
 

@@ -111,13 +111,7 @@ Provided that a person that is not an individual, having at least seventy-five p
 
 "occupational retirement scheme" means a retirement scheme established for, or by, an employer or a number of employers or an association representing employers, jointly or separately, for the benefit of employees and includes an overseas retirement scheme;
 
-"overseas retirement plan" means a bona fide scheme or
-
-arrangement, organised under the laws of a country outside of  
-Malta, which govern the rights and responsibilities of the  
-parties thereto, and under which payments are made to  
-beneficiaries for the principal purpose of providing retirement  
-benefits;
+"overseas retirement plan" means a bona fide scheme or arrangement, organised under the laws of a country outside of Malta, which govern the rights and responsibilities of the parties thereto, and under which payments are made to beneficiaries for the principal purpose of providing retirement benefits;
 
 "overseas retirement scheme" means a scheme or arrangement, organised under the laws of a country outside Malta with the principal purpose of providing retirement benefits;
 

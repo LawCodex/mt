@@ -1,6 +1,6 @@
 ---
 title: "Accountancy Profession (Accounting and Auditing Standards) Regulations"
-identifier: "S.L. 281.2"
+identifier: "S.L. 281.02"
 eli: "https://legislation.mt/eli/sl/281.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/281.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Accountancy Profession (Accounting and Auditing Standards) Regulations (S.L. 281.2)
-
-*1*
-
-(ACCOUNTING AND AUDITING STANDARDS) [S.L.281.02
+# Accountancy Profession (Accounting and Auditing Standards) Regulations (S.L. 281.02)
 
 **SUBSIDIARY LEGISLATION 281.02**
 
@@ -55,11 +51,7 @@ In these regulations, unless the context otherwise requires:
 
 "International Accounting Standards Board (IASB)" means the board established by deed of constitution on the 28th June, 1973 which comprises the professional accountancy bodies which are members of the International Federation of Accountants, which federation was established at the International Congress of Accountants in Munich in 1977, or any body succeeding the board by whatever name it may be known;
 
-"international auditing standards" means International Standards in Auditing (ISAs), International Standards in Quality Control (ISQCI) and other related Standards, insofar as they are relevant to the statutory audit, issued from to time to time by the International [S.L.281.02 (ACCOUNTING AND AUDITING STANDARDS)
-
-Auditing and Assurance Board (IAASB), a standard-setting body designated by, and operating under the auspices of, the International Federation of Accountants (IFAC), which federation was established at the International Congress of Accountants in Munich in 1977, or any body succeeding the board by whatever name it may be known;
-
-*2*
+"international auditing standards" means International Standards in Auditing (ISAs), International Standards in Quality Control (ISQCI) and other related Standards, insofar as they are relevant to the statutory audit, issued from to time to time by the International Auditing and Assurance Board (IAASB), a standard-setting body designated by, and operating under the auspices of, the International Federation of Accountants (IFAC), which federation was established at the International Congress of Accountants in Munich in 1977, or any body succeeding the board by whatever name it may be known;
 
 "international auditing standards as adopted by the EU" means international auditing standards as adopted by the European Commission in accordance with the provisions set out in Article 26 of the Statutory Audit Directive;
 
@@ -87,11 +79,7 @@ Compliance with "generally accepted auditing standards" shall mean adherence to 
 
 Provided that international auditing standards as adopted by the EU on a particular subject-matter shall apply instead and to the exclusion of international auditing standards covering the same subject-matter:
 
-Provided further that in conducting the statutory audit of small undertakings, the application of the auditing standards is to (ACCOUNTING AND AUDITING STANDARDS) [S.L.281.02
-
-be proportionate to the scale and the complexity of the activities of such undertakings. The Board may take measures in order to ensure the proportionate application of the auditing standards of the statutory audits of small undertakings.
-
-*3*
+Provided further that in conducting the statutory audit of small undertakings, the application of the auditing standards is to be proportionate to the scale and the complexity of the activities of such undertakings. The Board may take measures in order to ensure the proportionate application of the auditing standards of the statutory audits of small undertakings.
 
 ## 5. Prevailing text.
 

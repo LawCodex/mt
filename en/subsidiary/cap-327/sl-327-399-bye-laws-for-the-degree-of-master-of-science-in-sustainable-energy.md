@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the degree of Master of Science in Sustainable Energy under the auspices of the Institute for Sustainable Energy (S.L. 327.399)
 
-ENERGY UNDER THE AUSPICES OF THE INSTITUTE
-
-*1*
-
-FOR SUSTAINABLE ENERGY [S.L.327.399
-
 **SUBSIDIARY LEGISLATION 327.399**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -69,11 +63,7 @@ The programme of study shall comprise study-units to which a total of 90 credits
 
 ## 6. Postgraduate Diploma.
 
-Students who obtain the 60 credits assigned to the taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the ENERGY UNDER THE AUSPICES OF THE INSTITUTE [S.L.327.399 FOR SUSTAINABLE ENERGY
-
-Postgraduate Diploma.
-
-*2*
+Students who obtain the 60 credits assigned to the taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the Postgraduate Diploma.
 
 ## 7. Publication of programme of study.
 
@@ -108,12 +98,6 @@ The programme of study shall be published by the Board after approval by Senate,
 ## 11. Classification of the Awards.
 
 The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma and of the Degree shall be based on the results obtained in all the components of the programme of study, all credits being weighted equally.
-
-ENERGY UNDER THE AUSPICES OF THE INSTITUTE
-
-*3*
-
-FOR SUSTAINABLE ENERGY [S.L.327.399
 
 ## 12. Special provisions for part-time courses.
 

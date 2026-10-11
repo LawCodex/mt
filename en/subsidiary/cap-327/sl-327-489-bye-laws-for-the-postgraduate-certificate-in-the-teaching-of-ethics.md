@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Postgraduate Certificate in the Teaching of Ethics in Schools under the auspices of the Faculty of Education (S.L. 327.489)
 
-OF ETHICS IN SCHOOLS UNDER THE AUSPICES
-
-*1*
-
-OF THE FACULTY OF EDUCATION [S.L.327.489
-
 **SUBSIDIARY LEGISLATION 327.489**
 
 **BYE-LAWS FOR THE POSTGRADUATE**
@@ -80,11 +74,7 @@ The Programme of Study shall consist of a number of study-units to which 30 ECTS
 
 ## 6. Publication of programme of study.
 
-The Board shall publish the programme of study drawn up in accordance with the relevant provisions of the Principal Regulations and approved by Senate. Subject to changes that the Board may, with the approval of Senate, be constrained to make, OF ETHICS IN SCHOOLS UNDER THE AUSPICES [S.L.327.489 OF THE FACULTY OF EDUCATION
-
-students are bound to follow the study-units and obtain the credits as indicated in the programme of study.
-
-*2*
+The Board shall publish the programme of study drawn up in accordance with the relevant provisions of the Principal Regulations and approved by Senate. Subject to changes that the Board may, with the approval of Senate, be constrained to make, students are bound to follow the study-units and obtain the credits as indicated in the programme of study.
 
 ## 7. Result of the Award.
 

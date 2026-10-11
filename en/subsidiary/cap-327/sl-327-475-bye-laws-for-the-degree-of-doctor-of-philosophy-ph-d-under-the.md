@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy - Ph.D. - under the auspices of the Centre for Resilience and Socio-Emotional Health (S.L. 327.475)
 
-THE AUSPICES OF THE CENTRE FOR RESILIENCE
-
-*1*
-
-AND SOCIO-EMOTIONAL HEALTH [S.L.327.475
-
 **SUBSIDIARY LEGISLATION 327.475**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR OF**
@@ -73,15 +67,13 @@ The Board shall recommend to Senate the appointment of a Centre Doctoral Committ
 
 **The Director of the Centre or delegate (chairman)**
 
-3 other members of the Board or proposed by the Board. THE AUSPICES OF THE CENTRE FOR RESILIENCE [S.L.327.475 AND SOCIO-EMOTIONAL HEALTH
+3 other members of the Board or proposed by the Board.
 
 \*These regulations have been repealed by Legal Notice 158 of 2024.
 
 ## 6. Supervision.
 
 Principal supervisors shall be required to submit a written report to the Board, through the Centre Doctoral Committee, every year for all students under their supervision.
-
-*2*
 
 ## 7. Progress.
 

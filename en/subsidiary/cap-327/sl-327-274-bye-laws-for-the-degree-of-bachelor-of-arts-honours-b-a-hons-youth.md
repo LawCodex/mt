@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Arts (Honours) - B.A. (Hons) - Youth and Community Studies - under the auspices of the Faculty of Education (S.L. 327.274)
 
-COMMUNITY STUDIES - B.A. (HONS) YCS- UNDER THE
-
-*1*
-
-AUSPICES OF THE FACULTY FOR SOCIAL WELLBEING [S.L.327.274
-
 **SUBSIDIARY LEGISLATION 327.274**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF ARTS (HONOURS) IN YOUTH AND COMMUNITY
@@ -77,11 +71,7 @@ Students shall be allowed to proceed with the course of studies after having suc
 
 (1) The Course shall consist of study-units to which 180 ECTS credits are assigned.
 
-(2) The Board shall publish the programme of study for the Degree, drawn up in accordance with the relevant provisions of the Principal Regulations and approved by Senate, prior to the COMMUNITY STUDIES - B.A. (HONS) YCS- UNDER THE [S.L.327.274 AUSPICES OF THE FACULTY FOR SOCIAL WELLBEING
-
-commencement of the course. Subject to changes that the Board may, with the approval of Senate, be constrained to make, students are bound to follow the study-units and obtain the credits as indicated in the programme of study.
-
-*2*
+(2) The Board shall publish the programme of study for the Degree, drawn up in accordance with the relevant provisions of the Principal Regulations and approved by Senate, prior to the commencement of the course. Subject to changes that the Board may, with the approval of Senate, be constrained to make, students are bound to follow the study-units and obtain the credits as indicated in the programme of study.
 
 ## 7. Interim Award. Re-numbered and substituted by: L.N. 181 of 2016.
 

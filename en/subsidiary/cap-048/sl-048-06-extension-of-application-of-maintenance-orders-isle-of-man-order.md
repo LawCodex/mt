@@ -1,6 +1,6 @@
 ---
 title: "Extension of Application of Maintenance Orders (Isle of Man) Order"
-identifier: "S.L. 48.6"
+identifier: "S.L. 48.06"
 eli: "https://legislation.mt/eli/sl/48.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/48.6/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Extension of Application of Maintenance Orders (Isle of Man) Order (S.L. 48.6)
+# Extension of Application of Maintenance Orders (Isle of Man) Order (S.L. 48.06)
 
 **SUBSIDIARY LEGISLATION 48.06**
 

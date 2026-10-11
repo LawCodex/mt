@@ -1,6 +1,6 @@
 ---
 title: "Agents (Licences) Regulations"
-identifier: "S.L. 188.5"
+identifier: "S.L. 188.05"
 eli: "https://legislation.mt/eli/sl/188.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/188.5/20260313/eng"
 retrieved: 2026-10-12
 ---
 
-# Agents (Licences) Regulations (S.L. 188.5)
+# Agents (Licences) Regulations (S.L. 188.05)
 
 **SUBSIDIARY LEGISLATION 188.05**
 

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Hospitaller Studies under the auspices of the Faculty of Arts (S.L. 327.359)
 
-STUDIES UNDER THE AUSPICES
-
-*1*
-
-OF THE FACULTY OF ARTS [S.L.327.359
-
 **SUBSIDIARY LEGISLATION 327.359**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -79,13 +73,7 @@ The programme of study shall comprise study-units to which a total of 90 credits
 
 *Amended by: L.N. 13 of 2018.*
 
-(1) Students who obtain at least 30 ECTS credits assigned to taught study-units with an average mark of at least 50% and do not proceed with the Course, shall be eligible for the award of the STUDIES UNDER THE AUSPICES
-
-*2*
-
-[S.L.327.359 OF THE FACULTY OF ARTS
-
-Postgraduate Certificate.
+(1) Students who obtain at least 30 ECTS credits assigned to taught study-units with an average mark of at least 50% and do not proceed with the Course, shall be eligible for the award of the Postgraduate Certificate.
 
 *Renumbered by: L.N. 13 of 2018.*
 
@@ -123,13 +111,9 @@ The programme of study shall be published after approval by Senate, normally not
 
 (ii) the Board may not terminate studies prematurely according to (b) until it has first given the student a chance to be heard.
 
-STUDIES UNDER THE AUSPICES
+## 11. Classification of the Awards.
 
-*3*
-
-OF THE FACULTY OF ARTS [S.L.327.359 11. The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma and of the Degree shall be based on the results obtained in all the components of the programme of study, all credits being weighted equally.
-
-*Classification of the Awards.*
+The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma and of the Degree shall be based on the results obtained in all the components of the programme of study, all credits being weighted equally.
 
 ## 12. Special provisions for part-time courses.
 

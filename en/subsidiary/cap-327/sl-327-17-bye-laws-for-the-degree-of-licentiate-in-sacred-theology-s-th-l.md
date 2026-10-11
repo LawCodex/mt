@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Licentiate in Sacred Theology - S.Th.L (S.L. 327.17)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF THEOLOGY [S.L.327.17
-
 **SUBSIDIARY LEGISLATION 327.17**
 
 BYE-LAWS FOR THE DEGREE OF LICENTIATE IN SACRED THEOLOGY - S.TH.L. - UNDER THE
@@ -75,13 +71,11 @@ The course shall extend over a period of four semesters of full-time study. The 
 
 (1) The programme of study shall comprise study-units to which a total of 120 credits are assigned, of which 90 credits assigned to taught study-units and 30 credits assigned to the dissertation study-unit.
 
-(2) Students who obtain 60 credits assigned to taught study- [S.L.327.17 UNDER THE AUSPICES OF THE FACULTY OF THEOLOGY units with an average mark of at least 50% and do not proceed with the course or, having proceeded, do not successfully complete the course, shall be eligible for the award of the Postgraduate Diploma.
+(2) Students who obtain 60 credits assigned to taught study-units with an average mark of at least 50% and do not proceed with the course or, having proceeded, do not successfully complete the course, shall be eligible for the award of the Postgraduate Diploma.
 
 ## 6. Publication of programme of study.
 
 The programme of study shall be published after approval by Senate normally not less than eight months prior to the commencement of the course.
-
-*2*
 
 ## 7. Assessment and progress.
 

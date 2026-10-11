@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master in Family Studies - under the auspices of the Faculty for Social Wellbeing (S.L. 327.428)
 
-*1*
-
-AUSPICES OF THE FACULTY FOR SOCIAL WELLBEING [S.L.327.428
-
 **SUBSIDIARY LEGISLATION 327.428**
 
 BYE-LAWS FOR THE DEGREE OF MASTER IN FAMILY STUDIES UNDER THE AUSPICES OF
@@ -74,13 +70,11 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 (1) The programme of study shall comprise study-units to which a total of 90 credits shall be assigned, of which 30 credits are assigned to the taught study-units and 60 credits are assigned to the dissertation study-unit.
 
-(2) Students who obtain a total of 30 credits for taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the [S.L.327.428 AUSPICES OF THE FACULTY FOR SOCIAL WELLBEING course, shall be eligible for the award of the Postgraduate Certificate.
+(2) Students who obtain a total of 30 credits for taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the course, shall be eligible for the award of the Postgraduate Certificate.
 
 \*These regulations were repealed by S.L. 327.631. See Bye-Law 15.
 
 (3) Students shall be eligible for the award of the Degree if they obtain the 90 credits as outlined in the programme of study for the course with an average mark of at least 50%.
-
-*2*
 
 ## 6. Publication of programme of study.
 
@@ -120,11 +114,7 @@ Students who fail in more than the one study-unit as permitted under bye-law 8 o
 
 (4) At the end of each semester of studies supervisors shall be required to submit to the Panel of Supervision reports for the students under their supervision. Students shall seek approval from said Panel for any substantial modification in the title or content of the dissertation.
 
-(5) The Panel of Supervision shall periodically inform the Board of Studies, in writing, on the general performance of each student. Such advice may include a recommendation to either (a) AUSPICES OF THE FACULTY FOR SOCIAL WELLBEING [S.L.327.428
-
-extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
-
-*3*
+(5) The Panel of Supervision shall periodically inform the Board of Studies, in writing, on the general performance of each student. Such advice may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 

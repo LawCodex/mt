@@ -16,13 +16,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degrees of Bachelor of Commerce – B.Com. - and Bachelor of Commerce (Honours) - B.Com. (Honours) - under the auspices of the Faculty of Economics, Management and Accountancy (S.L. 327.302)
 
-BACHELOR OF COMMERCE (HONOURS) - B.COM. (HONS) - UNDER
-
-THE AUSPICES OF THE FACULTY OF ECONOMICS, MANAGEMENT
-
-*1*
-
-AND ACCOUNTANCY [S.L.327.302 SUBSIDIARY LEGISLATION 327.302
+**SUBSIDIARY LEGISLATION 327.302**
 
 BYE-LAWS FOR THE DEGREES OF BACHELOR OF COMMERCE - B. COM. - AND BACHELOR OF
 
@@ -64,11 +58,7 @@ These bye-laws shall be applicable for courses commencing in October 2018 or lat
 
 (1) The degree of Bachelor of Commerce is awarded in Commerce as a single Main Area of Study with two of the following areas of specialisation:
 
-Accountancy, Banking and Finance, Economics, Insurance, Management, Marketing, Public Policy, and any other area approved by Senate on the BACHELOR OF COMMERCE (HONOURS) - B.COM. (HONS) - UNDER THE AUSPICES OF THE FACULTY OF ECONOMICS, MANAGEMENT [S.L.327.302 AND ACCOUNTANCY
-
-*2*
-
-recommendation of the Board.
+Accountancy, Banking and Finance, Economics, Insurance, Management, Marketing, Public Policy, and any other area approved by Senate on the recommendation of the Board.
 
 (2) The degree of Bachelor of Commerce (Honours) is awarded in Commerce as a Main Honours Area of Study with one of the following areas of specialisation: Banking and Finance, Economics, Insurance and Risk Management, Management, Marketing, Public Policy, and any other area approved by Senate on the recommendation of the Board.
 
@@ -92,13 +82,7 @@ To be registered as regular students in the course, applicants shall either:
 
 (c) if choosing ‘Economics’ and ‘Management’ as the two areas of specialisation, be in possession of the Diploma in Commerce awarded by the University of Malta. Subject to the provisions of the Principal Regulations, such applicants may be allowed by the Board to transfer these credits to the course. The number of credits so transferred shall not exceed 60 ECTS credits.
 
-(d) if choosing 'Insurance' as an area of specialisation, be BACHELOR OF COMMERCE (HONOURS) - B.COM. (HONS) - UNDER
-
-THE AUSPICES OF THE FACULTY OF ECONOMICS, MANAGEMENT
-
-*3*
-
-AND ACCOUNTANCY [S.L.327.302 in possession of either:
+(d) if choosing 'Insurance' as an area of specialisation, be in possession of either:
 
 (i) the Certificate in Insurance of the Chartered Institute of Insurance and a pass at Intermediate Matriculation Level in Pure Mathematics; or
 
@@ -139,10 +123,6 @@ The course shall consist of two parts: Part One and Part Two.
 (2) Part One shall consist of study-units to which 180 credits are assigned divided as follows:
 
 First Year: 60 credits which shall be common for all students;
-
-BACHELOR OF COMMERCE (HONOURS) - B.COM. (HONS) - UNDER THE AUSPICES OF THE FACULTY OF ECONOMICS, MANAGEMENT [S.L.327.302 AND ACCOUNTANCY
-
-*4*
 
 Second Year: 60 credits of which at least 28 credits are assigned to each of the two areas of specialization chosen; and
 
@@ -194,13 +174,7 @@ The Board shall publish the course programme of study and the programmes of stud
 
 (1) The Final Weighted Average Mark for the classification of the Bachelor of Commerce degree (Part One of the course) shall be based on the results obtained in the three years of Part One of the course which shall be weighted as follows:
 
-BACHELOR OF COMMERCE (HONOURS) - B.COM. (HONS) - UNDER
-
-THE AUSPICES OF THE FACULTY OF ECONOMICS, MANAGEMENT
-
-*5*
-
-AND ACCOUNTANCY [S.L.327.302 First Year Average Mark 17%
+First Year Average Mark 17%
 
 Second Year Average Mark 33%
 

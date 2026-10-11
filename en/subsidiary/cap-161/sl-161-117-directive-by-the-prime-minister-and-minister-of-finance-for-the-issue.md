@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Prime Minister and Minister of Finance for the Issue of €23,293,733.99 5.2% Malta Government Stock 2020 (First Issue) (S.L. 161.117)
 
-ISSUE OF €23,293,733.99 5.2%
-
-*1*
-
-MALTA GOVERNMENT STOCK 2020 (FIRST ISSUE) [S.L.161.117
-
 **SUBSIDIARY LEGISLATION 161.117**
 
 **DIRECTIVE BY THE PRIME MINISTER AND**

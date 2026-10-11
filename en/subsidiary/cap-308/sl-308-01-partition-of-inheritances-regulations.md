@@ -1,6 +1,6 @@
 ---
 title: "Partition of Inheritances Regulations"
-identifier: "S.L. 308.1"
+identifier: "S.L. 308.01"
 eli: "https://legislation.mt/eli/sl/308.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/308.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Partition of Inheritances Regulations (S.L. 308.1)
+# Partition of Inheritances Regulations (S.L. 308.01)
 
 **SUBSIDIARY LEGISLATION 308.01**
 

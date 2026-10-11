@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in Education for Sustainable Development under the auspices of the Faculty of Education (S.L. 327.321)
 
-DIPLOMA IN EDUCATION FOR SUSTAINABLE
-
-DEVELOPMENT UNDER THE AUSPICES
-
-*1*
-
-OF THE FACULTY OF EDUCATION [S.L.327.321
-
 **SUBSIDIARY LEGISLATION 327.321**
 
 **BYE-LAWS FOR THE DIPLOMA IN EDUCATION**

@@ -1,6 +1,6 @@
 ---
 title: "Service of Notice relating to the Enforcement of Quarantine Regulations"
-identifier: "S.L. 291.8"
+identifier: "S.L. 291.08"
 eli: "https://legislation.mt/eli/sl/291.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,9 @@ version: "https://legislation.mt/eli/sl/291.8/20200326/eng"
 retrieved: 2026-10-12
 ---
 
-# Service of Notice relating to the Enforcement of Quarantine Regulations (S.L. 291.8)
+# Service of Notice relating to the Enforcement of Quarantine Regulations (S.L. 291.08)
 
-SERVICE OF NOTICE RELATING TO THE
-
-*1*
-
-ENFORCEMENT OF QUARANTINE [S.L. 291.08 SUBSIDIARY LEGISLATION 291.08
+**SUBSIDIARY LEGISLATION 291.08**
 
 **SERVICE OF NOTICE RELATING TO THE**
 

@@ -59,13 +59,9 @@ retrieved: 2026-10-12
 
 ''Court'' in the case of judicial proceedings or an application for disclosure made in Malta means a court of civil or criminal jurisdiction and includes the court of survey established by article 326 of the Act;
 
-''Directive 1995/46/EC'' means the Directive of the European Parliament and of the Council of 24 October 1995, on the [S.L.234.49 (ACCIDENT AND INCIDENT SAFETY INVESTIGATION)
+''Directive 1995/46/EC'' means the Directive of the European Parliament and of the Council of 24 October 1995, on the protection of individuals with regard to the processing of personal data and on the free movement of such data, in its up to date version;
 
 \*see regulation 1(2) of these Regulations, as originally promulgated.
-
-protection of individuals with regard to the processing of personal data and on the free movement of such data, in its up to date version;
-
-*2*
 
 ''Directive 2009/18/EC'' means the Directive of the European Parliament and of the Council of 23 April 2009, establishing the fundamental principles governing the investigation of accidents in the maritime transport sector and amending Directives 1999/35/EC and 2002/59/EC, in its up to date version;
 
@@ -141,11 +137,7 @@ protection of individuals with regard to the processing of personal data and on 
 
 ''very serious casualty'' means a marine accident involving the total loss of the ship or a death or severe damage to the environment.
 
-(2) Unless otherwise defined in these regulations or unless the context otherwise requires, words and expressions used in these [S.L.234.49 (ACCIDENT AND INCIDENT SAFETY INVESTIGATION)
-
-regulations shall have the same meaning assigned to them in the IMO Code and Directive 2009/18/EC.
-
-*4*
+(2) Unless otherwise defined in these regulations or unless the context otherwise requires, words and expressions used in these regulations shall have the same meaning assigned to them in the IMO Code and Directive 2009/18/EC.
 
 ## 3. Application.
 
@@ -199,11 +191,7 @@ Provided that when a report has already been submitted to the Minister in terms 
 
 (1) The head of marine safety investigation may cause any marine accident or incident to be investigated. Without prejudice to sub-regulations (2), (3) and (4), the discretion and extent not to exercise this authority shall solely remain with the head of marine safety investigation. In exercising his authority, the head of marine safety investigation shall ensure that a marine safety investigation shall not prejudice the conduct of inquires and investigations to shipping casualties under Part VII of the Act. In reaching his decision, the head of marine safety investigation shall also take into consideration co-operation with other States referred to in regulation 11:
 
-Provided that when a marine accident or incident involving a ro-ro ferry or high-speed passenger craft, to which these [S.L.234.49 (ACCIDENT AND INCIDENT SAFETY INVESTIGATION)
-
-regulations apply occurs, the head of marine safety investigation shall order a marine safety investigation when:
-
-*6*
+Provided that when a marine accident or incident involving a ro-ro ferry or high-speed passenger craft, to which these regulations apply occurs, the head of marine safety investigation shall order a marine safety investigation when:
 
 (a) the marine accident or incident occurs in Maltese waters or,
 
@@ -261,11 +249,7 @@ Provided that notwithstanding a decision by the head of marine safety investigat
 
 (c) electronic and magnetic recordings and video tapes, including information from a VDR, S-VDR or any other recording system relating to the period preceding, during and after the marine accident and take the necessary steps, to prevent such information from being overwritten; and
 
-(d) documents, equipment or other records which might reasonably be considered as evidential material and [S.L.234.49 (ACCIDENT AND INCIDENT SAFETY INVESTIGATION)
-
-therefore pertinent to the accident,
-
-*8*
+(d) documents, equipment or other records which might reasonably be considered as evidential material and therefore pertinent to the accident,
 
 are kept and that no alteration is made to any recordings or entries in them:
 
@@ -309,11 +293,7 @@ Provided that when exercising the authority to detain a ship under this paragrap
 
 (6) A marine safety investigation may extend to cover all events and circumstances preceding the marine accident or incident together with subsequent events and circumstances which in the opinion of the head of marine safety investigation may have been relevant to its cause or outcome.
 
-(7) Any person, not being a person acting specifically and solely on behalf of a person required to attend for an interview, who has been allowed by a safety investigator to be present or has been nominated to be present by a person required to attend, may at any time be excluded from being present by the safety investigator with [S.L.234.49 (ACCIDENT AND INCIDENT SAFETY INVESTIGATION)
-
-the agreement of the head of marine safety investigation, if:
-
-*10*
+(7) Any person, not being a person acting specifically and solely on behalf of a person required to attend for an interview, who has been allowed by a safety investigator to be present or has been nominated to be present by a person required to attend, may at any time be excluded from being present by the safety investigator with the agreement of the head of marine safety investigation, if:
 
 (a) both the safety investigator and the head of marine safety investigation have substantial reason to believe that his presence would hamper the marine safety investigation with the result that the objective in regulation 4 is likely to be hindered and maritime safety thereby endangered; and
 
@@ -355,11 +335,7 @@ Provided that when Malta is neither the lead investigating Member State nor a su
 
 (1) Without prejudice to the Data Protection Act, all evidential material related to the marine accident or incident being investigated under these regulations shall not be disclosed or made available for purposes other than a marine safety investigation unless a Court determines that there is an overriding public interest in its disclosure:
 
-Provided that the Court, in reaching such a decision, shall [S.L.234.49 (ACCIDENT AND INCIDENT SAFETY INVESTIGATION)
-
-have due regard to the opinion of the head of marine safety investigation and the interests of justice in disclosure of the evidential material, or part therein, outweighs any prejudice, or likely prejudice, to:
-
-*12*
+Provided that the Court, in reaching such a decision, shall have due regard to the opinion of the head of marine safety investigation and the interests of justice in disclosure of the evidential material, or part therein, outweighs any prejudice, or likely prejudice, to:
 
 (a) the marine safety investigation into the marine accident or incident to which the evidential material relates;
 
@@ -413,11 +389,7 @@ regulation (4) by or on behalf of the persons served with such notice, and the h
 
 (9) Where relevant, the marine safety investigation reports referred to in this regulation, shall be presented in a format which is in accordance with the framework presented in Annex I to Directive 2009/18/EC.
 
-(10) The head of marine safety investigation may decide, pursuant to regulation 7(1), that if a marine safety investigation is ordered under regulation 7(4) and the findings of which do not have [S.L.234.49 (ACCIDENT AND INCIDENT SAFETY INVESTIGATION)
-
-the potential to lead to the prevention of future marine accidents and incidents that investigation shall result in a published simplified marine safety investigation report.
-
-*14*
+(10) The head of marine safety investigation may decide, pursuant to regulation 7(1), that if a marine safety investigation is ordered under regulation 7(4) and the findings of which do not have the potential to lead to the prevention of future marine accidents and incidents that investigation shall result in a published simplified marine safety investigation report.
 
 (11) Where Malta is the lead investigating Member State and has therefore sent a final copy of the marine safety investigation report to the European Union Commission, the head of marine safety investigation shall take into account the possible technical observations made by the European Union Commission in order to improve the quality of the report.
 

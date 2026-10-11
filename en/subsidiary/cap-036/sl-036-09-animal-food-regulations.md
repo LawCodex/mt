@@ -1,6 +1,6 @@
 ---
 title: "Animal Food Regulations"
-identifier: "S.L. 36.9"
+identifier: "S.L. 36.09"
 eli: "https://legislation.mt/eli/sl/36.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/36.9/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Animal Food Regulations (S.L. 36.9)
+# Animal Food Regulations (S.L. 36.09)
 
 SUBSIDIARY LEGISLATION 36.09
 

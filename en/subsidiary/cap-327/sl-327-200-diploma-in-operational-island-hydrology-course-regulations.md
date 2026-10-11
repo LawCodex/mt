@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Diploma in Operational Island Hydrology Course Regulations (S.L. 327.200)
 
-DIPLOMA IN OPERATIONAL
-
-*1*
-
-ISLAND HYDROLOGY COURSE [S.L.327.200
-
 **SUBSIDIARY LEGISLATION 327.200**
 
 **DIPLOMA IN OPERATIONAL ISLAND**

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Fort Cambridge Zone, Tigne (Designated Special Area) Order (S.L. 246.12)
 
-*1*
-
-(DESIGNATED SPECIAL AREA) [S.L.246.12
-
 **SUBSIDIARY LEGISLATION 246.12**
 
 **FORT CAMBRIDGE ZONE, TIGNÈ**
@@ -42,7 +38,3 @@ Fort Cambridge Zone, Tignè consisting of immovable property situated in the are
 ## 3. Addition to First Schedule of the Act. Cap. 246.
 
 Fort Cambridge Zone, Tignè shall be added to the List of Scheduled Zones in the First Schedule to the Immovable Property (Acquisition by Non-Residents) Act.
-
-*2*
-
-[S.L.246.12 (DESIGNATED SPECIAL AREA)

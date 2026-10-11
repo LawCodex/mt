@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Laparoscopic Surgery - M.Lap.Surg. - offered under the auspices of the Faculty of Medicine and Surgery (S.L. 327.542)
 
-M. Lap. Surg.) - UNDER THE AUSPICES OF THE FACULTY
-
-*1*
-
-OF MEDICINE AND SURGERY [S.L.327.542
-
 **SUBSIDIARY LEGISLATION 327.542**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -65,11 +59,7 @@ These bye-laws shall be applicable for courses commencing in October 2016 or lat
 
 (3) Senate, on the recommendation of the Board, shall determine the number of applicants that may be allowed to register for the course, depending on the availability of resources. The number of available places shall be announced at the time of the call for applications.
 
-(4) When the number of applicants that may be admitted to the M. Lap. Surg.) - UNDER THE AUSPICES OF THE FACULTY [S.L.327.542 OF MEDICINE AND SURGERY
-
-Course is limited in terms of paragraph (3) of this bye-law, and the number of eligible applicants exceeds the number of places available, applicants shall be selected according to the following criteria, the weighting of which shall be published at the time of the call for applications:
-
-*2*
+(4) When the number of applicants that may be admitted to the Course is limited in terms of paragraph (3) of this bye-law, and the number of eligible applicants exceeds the number of places available, applicants shall be selected according to the following criteria, the weighting of which shall be published at the time of the call for applications:
 
 (a) classification of the first degree;
 
@@ -103,11 +93,7 @@ The course shall extend over a period of three semesters of full-time study or s
 
 (2) Students who, in any academic year, fail in the assessment of not more than 20 ECTS credits for taught and clinical study-units, if following the full-time course, or not more than 10 ECTS credits if following the part-time course, shall be given the opportunity to re-sit the failed assessments during the September supplementary examination session.
 
-(3) Students who fail in more than the number of credits permitted under paragraph (2) of this bye-law, or students who after re-assessment fail to obtain credit for any study-unit, shall be M. Lap. Surg.) - UNDER THE AUSPICES OF THE FACULTY
-
-*3*
-
-OF MEDICINE AND SURGERY [S.L.327.542 required to withdraw from the course.
+(3) Students who fail in more than the number of credits permitted under paragraph (2) of this bye-law, or students who after re-assessment fail to obtain credit for any study-unit, shall be required to withdraw from the course.
 
 ## 7. Dissertation.
 

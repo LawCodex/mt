@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Statute for the Centre for Traditional Chinese Medicine (S.L. 327.520)
 
-*1*
-
-TRADITIONAL CHINESE MEDICINE [S.L.327.520
-
 **SUBSIDIARY LEGISLATION 327.520**
 
 **STATUTE FOR THE CENTRE**
@@ -73,11 +69,7 @@ The Centre shall be governed by a Board that shall consist of the following:
 
 (v) two members appointed by the Shanghai University of Traditional Chinese Medicine;
 
-(vi) one student representative registered on a course TRADITIONAL CHINESE MEDICINE
-
-offered by the Centre; and
-
-*[S.L.327.520 2*
+(vi) one student representative registered on a course offered by the Centre; and
 
 (vii) up to two scholars of repute proposed by the Shanghai University of Traditional Chinese Medicine.
 
@@ -123,11 +115,11 @@ The function of the Board shall be:
 
 (ii) analyse periodic management accounts.
 
-*3*
+*\9.*
 
-TRADITIONAL CHINESE MEDICINE [S.L.327.520 The Centre shall have a Director and staff:
+*Appointment of Director and staff.*
 
-*\9. Appointment of Director and staff.*
+The Centre shall have a Director and staff:
 
 (a) the Director of the Centre shall be appointed according to the procedure for the appointment of Directors of Institutes and Centres as approved by the Council of the University, for a duration of one year, with the possibility of renewal annually subject to established performance criteria, the needs of the Centre and the needs of the University, for a total period not exceeding four (4) years; and
 
@@ -153,11 +145,7 @@ The duties of the Vice-Chairman/Director shall include:
 
 (g) monitoring the running of examinations at the Centre and ensuring that all assessment and examination results are submitted to the Registrar by not later than the end of March, July and September, provided that the results are submitted to the respective Chairman of the Board of Examiners within following deadlines: • January session - by the end of the third week of March;
 
-• May/June session - final year results by not later than two working days prior the final year degree classification board but in any case not TRADITIONAL CHINESE MEDICINE
-
-later than end of the third week of July, other results as early as possible but not later than the end of the third week of July;
-
-*[S.L.327.520 4*
+• May/June session - final year results by not later than two working days prior the final year degree classification board but in any case not later than end of the third week of July, other results as early as possible but not later than the end of the third week of July;
 
 • September session - by the end of the third week of September;
 
@@ -180,10 +168,6 @@ later than end of the third week of July, other results as early as possible but
 (p) monitoring the performance of the non-academic staff attached to the Centre;
 
 (q) authorising the Centre’s procurement of equipment; ensuring that the resources assigned to the Centre -whether human or other - are utilized fully and efficiently;
-
-*5*
-
-TRADITIONAL CHINESE MEDICINE [S.L.327.520
 
 (r) performing other duties which may be assigned by the University from time to time.
 

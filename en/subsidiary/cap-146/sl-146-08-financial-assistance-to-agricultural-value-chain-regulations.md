@@ -1,6 +1,6 @@
 ---
 title: "Financial Assistance to Agricultural Value Chain Regulations"
-identifier: "S.L. 146.8"
+identifier: "S.L. 146.08"
 eli: "https://legislation.mt/eli/sl/146.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/146.8/20130311/eng"
 retrieved: 2026-10-12
 ---
 
-# Financial Assistance to Agricultural Value Chain Regulations (S.L. 146.8)
+# Financial Assistance to Agricultural Value Chain Regulations (S.L. 146.08)
 
 **SUBSIDIARY LEGISLATION 146.08**
 

@@ -1,6 +1,6 @@
 ---
 title: "Housing Authority (Transfer of Assets) (1984) Order"
-identifier: "S.L. 261.7"
+identifier: "S.L. 261.07"
 eli: "https://legislation.mt/eli/sl/261.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/261.7/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Housing Authority (Transfer of Assets) (1984) Order (S.L. 261.7)
+# Housing Authority (Transfer of Assets) (1984) Order (S.L. 261.07)
 
 **SUBSIDIARY LEGISLATION 261.07**
 

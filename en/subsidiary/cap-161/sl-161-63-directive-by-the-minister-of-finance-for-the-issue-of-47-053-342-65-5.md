@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister of Finance for the Issue of €47,053.342.65 5.9% Malta Government Stock 2015 (Second Issue) (S.L. 161.63)
 
-ISSUE OF €47,053,342.65 5.9%
-
-*1*
-
-MALTA GOVERNMENT STOCK 2015 (SECOND ISSUE) [S.L.161.63
-
 **SUBSIDIARY LEGISLATION 161.63**
 
 DIRECTIVE BY THE MINISTER OF FINANCE FOR THE ISSUE OF €47,053,342.65 5.9% MALTA

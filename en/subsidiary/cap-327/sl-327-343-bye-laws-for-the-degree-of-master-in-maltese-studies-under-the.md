@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master in Maltese Studies under the auspices of the Institute of Maltese Studies (S.L. 327.343)
 
-*1*
-
-AUSPICES OF THE INSTITUTE OF MALTESE STUDIES [S.L.327.343
-
 **SUBSIDIARY LEGISLATION 327.343**
 
 BYE-LAWS FOR THE DEGREE OF MASTER IN MALTESE STUDIES UNDER THE AUSPICES OF THE INSTITUTE OF MALTESE STUDIES
@@ -64,13 +60,11 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 ## 5. Programme of study.
 
-The programme of study shall comprise study-units to which a total of 90 credits are assigned, of which 60 credits are assigned to taught study-units and 30 credits are assigned to a [S.L.327.343 AUSPICES OF THE INSTITUTE OF MALTESE STUDIES dissertation study-unit.
+The programme of study shall comprise study-units to which a total of 90 credits are assigned, of which 60 credits are assigned to taught study-units and 30 credits are assigned to a dissertation study-unit.
 
 ## 6. Postgraduate Diploma.
 
 Students who obtain the 60 credits assigned to the taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the Postgraduate Diploma.
-
-*2*
 
 ## 7. Publication of programme of study.
 
@@ -106,11 +100,11 @@ The programme of study shall be published after approval by Senate, normally not
 
 (ii) the Board may not terminate studies prematurely according to (b) until it has first given the student a chance to be heard.
 
-*3*
+## 11. Classification of the Awards.
 
-AUSPICES OF THE INSTITUTE OF MALTESE STUDIES [S.L.327.343 11. The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma and of the Degree shall be based on the results obtained in all the components of the programme of study, all credits being weighted equally.
+*Renumbered by: L.N. 146 of 2022.*
 
-*Classification of the Awards. Renumbered by: L.N. 146 of 2022.*
+The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma and of the Degree shall be based on the results obtained in all the components of the programme of study, all credits being weighted equally.
 
 ## 12. Special provisions for part-time courses.
 

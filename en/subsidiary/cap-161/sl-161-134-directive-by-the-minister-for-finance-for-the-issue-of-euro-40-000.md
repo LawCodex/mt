@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister for Finance for the issue of Euro 40,000,000 Malta Government Stocks (S.L. 161.134)
 
-*1*
-
-MALTA GOVERNMENT STOCKS [S.L.161.134
-
 **SUBSIDIARY LEGISLATION 161.134**
 
 DIRECTIVE BY THE MINISTER FOR FINANCE FOR THE ISSUE OF EURO 40,000,000
@@ -67,11 +63,7 @@ The sum of money to be raised by either Stock, or of any combination of the two 
 
 ## 7. Rate of interest and dates of payment.
 
-(1) Interest at the rate of Euro 2.05 for every Euro 100 in respect of the 4.1% Malta Government Stock 2034 (I) shall be payable half-yearly in arrears on the 18th day of April and the 18th [S.L.161.134 MALTA GOVERNMENT STOCKS
-
-day of October in every year for the duration of the Stock.
-
-*2*
+(1) Interest at the rate of Euro 2.05 for every Euro 100 in respect of the 4.1% Malta Government Stock 2034 (I) shall be payable half-yearly in arrears on the 18th day of April and the 18th day of October in every year for the duration of the Stock.
 
 The first pro rata interest payment covering the period from the 29th day of October, 2014 to the 17th day of April, 2015 (both dates inclusive), shall be made on the 18th day of April, 2015.
 

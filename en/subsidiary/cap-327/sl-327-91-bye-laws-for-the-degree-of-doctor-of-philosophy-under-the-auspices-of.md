@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy under the auspices of the Faculty of Arts (S.L. 327.91)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF ARTS [S.L.327.91
-
 **SUBSIDIARY LEGISLATION 327.91**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR**
@@ -67,11 +63,11 @@ These bye-laws shall apply from October 2019 onwards.
 
 \*These regulations have been repealed by Legal Notice 263 of 2024.
 
-*2*
+## 4. Study-units to be completed.
 
-[S.L.327.91 UNDER THE AUSPICES OF THE FACULTY OF ARTS 4. When the Board deems it necessary, it may require students to successfully complete a number of study-units during the course of their studies, and, or to satisfactorily undertake tasks recommended by the Board, under those conditions that it may impose, after approval by Senate.
+*Added by: L.N. 318 of 2014.*
 
-*Study-units to be completed. Added by: L.N. 318 of 2014.*
+When the Board deems it necessary, it may require students to successfully complete a number of study-units during the course of their studies, and, or to satisfactorily undertake tasks recommended by the Board, under those conditions that it may impose, after approval by Senate.
 
 ## 5. Application.
 
@@ -111,11 +107,9 @@ Students shall be required to inform the Faculty that they will be submitting th
 
 The Board shall recommend to Senate the appointment of the Board of Examiners in accordance with the Principal Regulations.
 
-*3*
+## 13. Presentation and format of thesis. Re-numbered by: L.N. 318 of 2014.
 
-UNDER THE AUSPICES OF THE FACULTY OF ARTS [S.L.327.91 13. The Board shall approve and publish guidelines on the format and presentation of the thesis for the Degree.
-
-*Presentation and format of thesis. Re-numbered by: L.N. 318 of 2014.*
+The Board shall approve and publish guidelines on the format and presentation of the thesis for the Degree.
 
 ## 14. Copies. Re-numbered by: L.N. 318 of 2014.
 

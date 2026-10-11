@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Master of Arts in International Humanitarian Action - M.A. - Degree Course Regulations (S.L. 327.588)
 
-*1*
-
-HUMANITARIAN ACTION - M.A. [S.L. 327.588 SUBSIDIARY LEGISLATION 327.588
+**SUBSIDIARY LEGISLATION 327.588**
 
 **MASTER OF ARTS IN INTERNATIONAL**
 
@@ -68,11 +66,7 @@ Uniwersytet Warszawski;
 
 (3) This Degree is a Joint Degree of the University and this shall be taken to mean that the Course is taught at the Partner Institutions within the framework of a joint degree programme. The Degree shall only be awarded if the Partner Institutions declare the student to be eligible for the award.
 
-(4) Notwithstanding the provisions of paragraph (3) of this regulation, the University shall make provision for the award of a double or dual degree, as applicable, in those instances when students who [S.L. 327.588 HUMANITARIAN ACTION - M.A.
-
-follow part of their studies at the University, undertake studies at any of the other partner institutions which are legally precluded from issuing joint degree awards
-
-*2*
+(4) Notwithstanding the provisions of paragraph (3) of this regulation, the University shall make provision for the award of a double or dual degree, as applicable, in those instances when students who follow part of their studies at the University, undertake studies at any of the other partner institutions which are legally precluded from issuing joint degree awards
 
 ## 2. Applicability.
 
@@ -108,9 +102,7 @@ provided that English native speakers and students who have followed a Bachelor�
 
 (b) type and level of research experience (10%);
 
-*3*
-
-HUMANITARIAN ACTION - M.A. [S.L. 327.588 (c) type and level of professional experience, such as practical experience in the area of humanitarian action in governmental, inter-governmental and/or non-governmental organisations and institutions (25%);
+(c) type and level of professional experience, such as practical experience in the area of humanitarian action in governmental, inter-governmental and/or non-governmental organisations and institutions (25%);
 
 (d) motivation and concern for humanitarian issues (10%);
 
@@ -150,11 +142,9 @@ HUMANITARIAN ACTION - M.A. [S.L. 327.588 (c) type and level of professional expe
 
 The Board of Studies shall draw up a catalogue of all study-units for approval by Senate. The catalogue shall indicate the level, code, title, description and type of each study-unit, the ECTS credits assigned to each study-unit, the methods of teaching and assessment, as well as the re-assessment opportunities for each study-unit.
 
-*4 Assessment and Progress. Amended by: L.N. 132 of 2020.*
+## 8. Assessment and Progress.
 
-[S.L. 327.588 HUMANITARIAN ACTION - M.A.
-
-## 8.
+*Amended by: L.N. 132 of 2020.*
 
 (1) The assessment of each study-unit shall be held on completion of the study-unit, during the period of attendance at one of the Partner Institutions at a time to be specified by the Board of Studies.
 
@@ -192,9 +182,7 @@ provided that if a student fails in a dissertation, the maximum grade/mark that 
 
 (1) Students shall be required to submit an individual dissertation of approximately 30,000 words, excluding references and appendices, in accordance with the guidelines issued by the Board of Studies.
 
-*5*
-
-HUMANITARIAN ACTION - M.A. [S.L. 327.588 (2) Dissertations shall normally be written in English. However, the Board of Studies may allow students to write their dissertation in any other language, provided that the Board of Studies has ascertained, to the satisfaction of Senate, that the Partner Institutions have the necessary expertise to supervise and examine the work. In such cases, students shall be required to include a translation of the abstract in English.
+(2) Dissertations shall normally be written in English. However, the Board of Studies may allow students to write their dissertation in any other language, provided that the Board of Studies has ascertained, to the satisfaction of Senate, that the Partner Institutions have the necessary expertise to supervise and examine the work. In such cases, students shall be required to include a translation of the abstract in English.
 
 (3) Work on the dissertation shall be undertaken during the fourth semester of the Course. Students shall submit for approval a title and a detailed research proposal by the deadline and in the format specified in the NOHA Master Thesis Guide and other relevant documents as drawn up by the Board of Studies.
 
@@ -220,11 +208,7 @@ HUMANITARIAN ACTION - M.A. [S.L. 327.588 (2) Dissertations shall normally be wri
 
 (1) Each dissertation shall be examined by a Board of Examiners, composed of at least three members, one of whom shall normally be a local examiner from one of the Partner Institutions. The Board of Examiners may additionally also include an external examiner appointed from an institution external to the Partner Institutions.
 
-(2) Students may be required to take a viva voce examination to [S.L. 327.588 HUMANITARIAN ACTION - M.A.
-
-defend their dissertation and this may also be conducted using electronic means of communication if so approved by the Board of Studies.
-
-*6*
+(2) Students may be required to take a viva voce examination to defend their dissertation and this may also be conducted using electronic means of communication if so approved by the Board of Studies.
 
 ## 12.
 

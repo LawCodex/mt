@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Private Clinics (Prices for Blood and Blood Products) Regulations (S.L. 35.26)
 
-PRIVATE CLINICS
-
-*1*
-
-(PRICES FOR BLOOD AND BLOOD PRODUCTS) [S.L.35.26
-
 **SUBSIDIARY LEGISLATION 35.26**
 
 PRIVATE CLINICS (PRICES FOR BLOOD AND

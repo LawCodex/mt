@@ -16,15 +16,7 @@ retrieved: 2026-10-12
 
 # Directive by the Minister of Finance, Economy and Investment for the issue of €70,000,000: (i) 3.6% Malta Government Stock 2013 (IV) (S.L. 161.78)
 
-ECONOMY AND INVESTMENT FOR THE ISSUE OF €70,000,000 (I) 3.6% MALTA
-
-GOVERNMENT STOCK 2013 (FOURTH ISSUE); OR (II) 5% MALTA GOVERNMENT
-
-STOCK 2021 (FIRST ISSUE); OR OF (III) ANY COMBINATION OF THE ABOVE TWO
-
-*1*
-
-STOCKS IN THE AGGREGATE OF THE ABOVE TWO STOCKS [S.L.161.78 SUBSIDIARY LEGISLATION 161.78
+**SUBSIDIARY LEGISLATION 161.78**
 
 DIRECTIVE BY THE MINISTER OF FINANCE,
 
@@ -72,15 +64,13 @@ All persons and, or entities are eligible to apply for these Stocks. Allotment w
 
 ## 5. Sum of money to be raised.
 
-The sum of money to be raised by either Stock, or of any combination of the two Stocks shall in the aggregate be Euro 70,000,000. The Accountant General reserves the right to increase the sum of money to be raised by a maximum of Euro 25,000,000. ECONOMY AND INVESTMENT FOR THE ISSUE OF €70,000,000 (I) 3.6% MALTA GOVERNMENT STOCK 2013 (FOURTH ISSUE); OR (II) 5% MALTA GOVERNMENT STOCK 2021 (FIRST ISSUE); OR OF (III) ANY COMBINATION OF THE ABOVE TWO STOCKS IN THE AGGREGATE OF THE ABOVE TWO STOCKS
+The sum of money to be raised by either Stock, or of any combination of the two Stocks shall in the aggregate be Euro 70,000,000. The Accountant General reserves the right to increase the sum of money to be raised by a maximum of Euro 25,000,000.
 
 *\6.*
 
 *Rate of interest and dates of payment.*
 
 (a) Interest at the rate of Euro 1.8 for every Euro 100, 3.6% Malta Government Stock 2013 (IV) will be payable half-yearly in arrear on the 18th day of April and the 18th day of October in every year for the duration of the Stock. The first pro-rata payment covering the period from the 18th March, 2009 to the 17th day of October, 2009 (both dates inclusive) shall be made on the 18th day of October, 2009.
-
-*2 [S.L.161.78*
 
 (b) Interest at the rate of Euro 2.50 for every Euro 100 5% Malta Government Stock 2021 (I) will be payable half-yearly in arrear on the 8th day of February and the 8th day of August in every year for the duration of the Stock. The first pro-rata payment covering the period from the 18th March, 2009 to the 7th day of August, 2009 (both dates inclusive) shall be made on the 8th day of August, 2009.
 

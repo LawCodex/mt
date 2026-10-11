@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science in Applied Chemistry under the auspices of the Faculty of Science (S.L. 327.309)
 
-CHEMISTRY UNDER THE AUSPICES
-
-*1*
-
-OF THE FACULTY OF SCIENCE [S.L.327.309
-
 **SUBSIDIARY LEGISLATION 327.309**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER**
@@ -70,12 +64,6 @@ These bye-laws shall be applicable for courses commencing in October 2021 or lat
 
 (2) Applicants with a degree in science with chemistry as a main area of study obtained with third class honours may be admitted if they show evidence of significant experience in work relevant to the area of study of the course obtained after their first cycle degree.
 
-CHEMISTRY UNDER THE AUSPICES
-
-*2*
-
-[S.L.327.309 OF THE FACULTY OF SCIENCE
-
 (3) The Board shall recommend to Senate the number of applicants that may be allowed to register for the course, depending on the availability of resources. The number of available places shall be announced at the time of the call for applications.
 
 (4) If there are more eligible applicants than the number of places available, applicants shall be selected after an interview by a board consisting of at least three members, appointed for the purpose. The Board shall select applicants according to the following criteria:
@@ -114,11 +102,7 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 (1) Students shall be required to submit an individual dissertation of approximately 25,000 words in accordance with the guidelines issued by the Board.
 
-CHEMISTRY UNDER THE AUSPICES
-
-*3*
-
-OF THE FACULTY OF SCIENCE [S.L.327.309 (2) Work on the dissertation shall be undertaken during the third semester of the course. Each student shall be assigned a supervisor by the Board, who shall provide guidance and advice on a regular basis during the period of study. Any substantial modification in the title or content must be approved by the Board.
+(2) Work on the dissertation shall be undertaken during the third semester of the course. Each student shall be assigned a supervisor by the Board, who shall provide guidance and advice on a regular basis during the period of study. Any substantial modification in the title or content must be approved by the Board.
 
 (3) A provisional title of the dissertation and a detailed research proposal shall be submitted to the Board for approval by the beginning of the second semester.
 

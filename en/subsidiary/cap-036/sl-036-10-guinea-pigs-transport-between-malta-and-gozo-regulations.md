@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Guinea Pigs Transport between Malta and Gozo Regulations (S.L. 36.10)
 
-GUINEA PIGS TRANSPORT BETWEEN
-
-*1*
-
-MALTA AND GOZO [S.L.36.10
-
 SUBSIDIARY LEGISLATION 36.10
 
 GUINEA PIGS TRANSPORT BETWEEN MALTA

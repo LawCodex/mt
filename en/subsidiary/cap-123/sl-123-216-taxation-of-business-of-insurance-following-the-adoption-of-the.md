@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Taxation of Business of Insurance following the adoption of the International Financial Reporting Standard 17 Insurance Contracts Rules (S.L. 123.216)
 
-THE ADOPTION OF THE INTERNATIONAL FINANCIAL
-
-REPORTING STANDARD 17 INSURANCE
-
-*1*
-
-CONTRACTS [S.L. 123.216
-
 **SUBSIDIARY LEGISLATION 123.216**
 
 **TAXATION OF BUSINESS OF INSURANCE**
@@ -66,15 +58,7 @@ In these rules, unless the context otherwise requires:- "Act" means the Income T
 
 "business of insurance" shall have the same meaning assigned to it in article 2 of the Insurance Business Act;
 
-"Commissioner" means the Commissioner for Tax and THE ADOPTION OF THE INTERNATIONAL FINANCIAL
-
-**REPORTING STANDARD 17 INSURANCE**
-
-**CONTRACTS**
-
-*[S.L. 123.216 2*
-
-Customs;
+"Commissioner" means the Commissioner for Tax and Customs;
 
 "IFRS 17" or "International Financial Reporting Standard 17" shall have the meaning assigned to them in guidelines published on the website of the Commissioner for Tax and Customs in accordance with the provisions of article 96(2) of the Act;
 
@@ -94,15 +78,7 @@ Provided that items reported in the other comprehensive income in the statement 
 
 "profit before tax" refers to total profit before tax of an insurer for the relevant accounting period as reported in the audited statement of profit or loss within the annual accounts of the insurer, irrespective of whether such profit is derived exclusively from the business of insurance or otherwise;
 
-"relevant accounting period" refers to the first accounting period for which an insurer has adopted IFRS 17 and each subsequent accounting period thereafter for which the insurer THE ADOPTION OF THE INTERNATIONAL FINANCIAL
-
-REPORTING STANDARD 17 INSURANCE
-
-*3*
-
-CONTRACTS [S.L. 123.216
-
-continues to apply IFRS 17.
+"relevant accounting period" refers to the first accounting period for which an insurer has adopted IFRS 17 and each subsequent accounting period thereafter for which the insurer continues to apply IFRS 17.
 
 ## 3. Chargeability of income from business of insurance.
 
@@ -125,12 +101,6 @@ Notwithstanding any provisions contained in the Act and subject to rule 5(2), th
 (2) Any adoption gains arising in the manner stipulated in sub-rule (1)(a), shall be considered as constituting gains or profits forming part of the adjusted profit before tax brought to charge in the adoption year of assessment and all provisions of the Act and these rules relating to the taxation and the collection of such gains or profits, shall apply mutatis mutandis thereto.
 
 (3) Any adoption losses arising in the manner stipulated in sub-rule (1)(b), shall be considered as losses in terms of article 14(1)(g) of the Act incurred in the adoption year of assessment, and all provisions of the Act relating to the deductibility of such losses, shall apply mutatis mutandis thereto.
-
-THE ADOPTION OF THE INTERNATIONAL FINANCIAL REPORTING STANDARD 17 INSURANCE
-
-*4*
-
-[S.L. 123.216 CONTRACTS
 
 ## 6. Election.
 

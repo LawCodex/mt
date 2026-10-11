@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws in terms of the General Regulations for University Postgraduate Awards, for the degree of Master of Science in Sustainable Building Design - M.Sc. – under the auspices of the Faculty for the Built Environment (S.L. 327.582)
 
-*1*
-
-SUSTAINABLE BUILDING DESIGN - M.SC. [S.L. 327.582 SUBSIDIARY LEGISLATION 327.582
+**SUBSIDIARY LEGISLATION 327.582**
 
 **BYE-LAWS IN TERMS OF THE GENERAL**
 
@@ -68,11 +66,7 @@ The Course shall extend over three semesters of full-time study or the equivalen
 
 ## 5. Programme of Study.
 
-(1) The programme of study shall comprise study-units to which a total of 90 ECTS credits are assigned, of which 60 ECTS [S.L. 327.582 SUSTAINABLE BUILDING DESIGN - M.SC.
-
-credits are assigned to taught study-units and 30 ECTS credits are assigned to the dissertation study-unit.
-
-*2*
+(1) The programme of study shall comprise study-units to which a total of 90 ECTS credits are assigned, of which 60 ECTS credits are assigned to taught study-units and 30 ECTS credits are assigned to the dissertation study-unit.
 
 (2) Students who obtain the 60 ECTS credits assigned to the taught study-units with an average mark of at least 50% and do not proceed with the Course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the Postgraduate Diploma.
 
@@ -108,19 +102,13 @@ credits are assigned to taught study-units and 30 ECTS credits are assigned to t
 
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 
-*3*
-
-SUSTAINABLE BUILDING DESIGN - M.SC. [S.L. 327.582 (ii) the Board may not terminate studies prematurely according to (b) until it has first given the student a chance to be heard.
+(ii) the Board may not terminate studies prematurely according to (b) until it has first given the student a chance to be heard.
 
 ## 9. Classification of the Awards.
 
 *Renumbered: L.N. 293 of 2022.*
 
 The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma and of the Degree shall be based on the results obtained in all the components of the programme of study, all credits being weighted equally.
-
-*4*
-
-[S.L. 327.582 SUSTAINABLE BUILDING DESIGN - M.SC.
 
 Special Provisions for Part-Time Courses
 

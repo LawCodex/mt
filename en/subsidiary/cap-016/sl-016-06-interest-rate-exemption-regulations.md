@@ -1,6 +1,6 @@
 ---
 title: "Interest Rate(Exemption) Regulations"
-identifier: "S.L. 16.6"
+identifier: "S.L. 16.06"
 eli: "https://legislation.mt/eli/sl/16.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/16.6/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Interest Rate(Exemption) Regulations (S.L. 16.6)
+# Interest Rate(Exemption) Regulations (S.L. 16.06)
 
 **SUBSIDIARY LEGISLATION 16.06**
 

@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy under the auspices of the Faculty of Health Sciences (S.L. 327.315)
 
-*1*
-
-THE AUSPICES OF THE FACULTY OF HEALTH SCIENCES [S.L.327.315
-
 **SUBSIDIARY LEGISLATION 327.315**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR OF**
@@ -79,11 +75,9 @@ Applicants in possession of the degrees indicated in bye-law 3(b) and (c) shall 
 
 \*These regulations have been repealed by Legal Notice 160 of 2024.
 
-*2*
+## 5. Completion of study-units.
 
-[S.L.327.315 THE AUSPICES OF THE FACULTY OF HEALTH SCIENCES 5. Where the Senate, on the recommendation of the Board, deems it necessary, it may require applicants to successfully complete a number of study-units under those conditions it may impose.
-
-*Completion of study-units.*
+Where the Senate, on the recommendation of the Board, deems it necessary, it may require applicants to successfully complete a number of study-units under those conditions it may impose.
 
 ## 6. Application form.
 
@@ -135,11 +129,7 @@ Students shall be required to defend their thesis orally. They are expected to m
 
 *Substituted by: L.N. 319 of 2014.*
 
-Six months before the submission deadline of the thesis students shall be informed that they are required to inform the Faculty that they will be submitting their thesis for examination not THE AUSPICES OF THE FACULTY OF HEALTH SCIENCES [S.L.327.315
-
-less than three months before the submission deadline.
-
-*3*
+Six months before the submission deadline of the thesis students shall be informed that they are required to inform the Faculty that they will be submitting their thesis for examination not less than three months before the submission deadline.
 
 ## 14. Board of Examiners.
 

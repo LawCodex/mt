@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Fine Arts - M.F.A. - under the auspices of the Faculty for the Built Environment (S.L. 327.566)
 
-UNDER THE AUSPICES OF THE FACULTY
-
-*1*
-
-FOR THE BUILT ENVIRONMENT [S.L.327.566
-
 **SUBSIDIARY LEGISLATION 327.566**
 
 **BYE-LAWS FOR THE MASTER OF FINE ARTS -**
@@ -63,13 +57,7 @@ The course shall be offered in any area of study which benefits from a project-b
 
 provided that applicants may be asked to demonstrate competence in those skills required by the nature of the proposed research, via an extended interview and the submission of appropriate documentation.
 
-(2) Applicants whose first degree was obtained more than ten years previous to registration for the course may also be admitted provided that they provide sufficient proof of their competence to follow the course with profit. The Board may, at its discretion, UNDER THE AUSPICES OF THE FACULTY
-
-*2*
-
-[S.L.327.566 FOR THE BUILT ENVIRONMENT
-
-require such applicants to follow a preparatory programme as specified in bye-law 5.
+(2) Applicants whose first degree was obtained more than ten years previous to registration for the course may also be admitted provided that they provide sufficient proof of their competence to follow the course with profit. The Board may, at its discretion, require such applicants to follow a preparatory programme as specified in bye-law 5.
 
 ## 5. Preparatory programme.
 
@@ -109,11 +97,7 @@ Programmes of study shall be published by the Board after approval by Senate nor
 
 (1) The portfolio shall comprise studio-based or practise-based or project-based work related to the theme of research as approved by the Board.
 
-(2) Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of UNDER THE AUSPICES OF THE FACULTY
-
-*3*
-
-FOR THE BUILT ENVIRONMENT [S.L.327.566 study.
+(2) Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
 
 (3) Not less than three months before the intended date of submission of the portfolio, students shall apply to the Board for permission to present the portfolio. Before giving permission, the Board shall consult the students’ supervisor and shall ascertain that the period of study conforms with that stipulated in the Principal Regulations.
 
@@ -139,13 +123,7 @@ Head of Department as Chairman, or his or her delegate, and two other members, o
 
 (5) The Panel of Supervision shall periodically inform the Board, in writing, on the general performance of each student for the dissertation and portfolio. Such advice may include recommendations to either (a) extend the period of study in order to enable the student to complete the dissertation or portfolio; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
-(i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the UNDER THE AUSPICES OF THE FACULTY
-
-*4*
-
-[S.L.327.566 FOR THE BUILT ENVIRONMENT
-
-Principal Regulations; and
+(i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 
 (ii) the Board may not terminate studies prematurely according to (b) until it has first given the student a chance to be heard.
 

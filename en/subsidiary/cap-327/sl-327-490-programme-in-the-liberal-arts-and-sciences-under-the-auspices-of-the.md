@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Programme in the Liberal Arts and Sciences under the auspices of the Centre for the Liberal Arts and Sciences Regulations (S.L. 327.490)
 
-UNDER THE AUSPICES OF THE CENTRE FOR
-
-*1*
-
-THE LIBERAL ARTS AND SCIENCES [S.L.327.490
-
 **SUBSIDIARY LEGISLATION 327.490**
 
 **PROGRAMME IN THE LIBERAL ARTS**
@@ -64,12 +58,6 @@ Catalogue of Units A Catalogue of Units is the collection of all the Units offer
 
 Credit Credits are awarded for successful completion of each Unit.
 
-UNDER THE AUSPICES OF THE CENTRE FOR
-
-*2*
-
-[S.L.327.490 THE LIBERAL ARTS AND SCIENCES
-
 Credit System The allocation of credit to Units forming part of the Programme according to the European Credit Transfer and Accumulation System (ECTS) proposed by the European Commission.
 
 Method of Assessment of Units may be through Assessment coursework, assignments, written or oral examinations, other methods of assessment as approved by Senate, or combinations of these, to each of which a percentage of the final mark shall be assigned. The Method of Assessment for each Unit shall be indicated in the detailed description of the Units that is published in the Catalogue of Units.
@@ -102,13 +90,11 @@ The language of instruction and assessment shall be English, except that for are
 
 Units shall be approved by Senate on the recommendation of the Board of Studies.
 
-UNDER THE AUSPICES OF THE CENTRE FOR
+## 9. Levels.
 
-*3*
+*Substituted by: L.N. 95 of 2023.*
 
-THE LIBERAL ARTS AND SCIENCES [S.L.327.490 9. (1) Units shall be offered at Introductory and Higher Levels.
-
-*Levels. Substituted by: L.N. 95 of 2023.*
+(1) Units shall be offered at Introductory and Higher Levels.
 
 (2) Units offered at the Introductory Level shall not require students to have academic preparation or knowledge, skills and competences in the subject area beyond that acquired at the end of secondary education. The level attained on successful completion of the Unit shall be that of a first year Unit of a University Undergraduate Award, equivalent to Level 5 on the Malta Qualifications Framework.
 
@@ -146,13 +132,7 @@ The election of the student members shall be held annually during the first half
 
 ## 14. Credits.
 
-A Credit value is assigned to each Unit, indicating the total learning time, including time devoted to tuition, private study and assessment, which an average student might be expected to spend UNDER THE AUSPICES OF THE CENTRE FOR
-
-*4*
-
-[S.L.327.490 THE LIBERAL ARTS AND SCIENCES
-
-in achieving the learning outcomes associated with the Unit; one Credit nominally represents twenty-five hours of learning, of which five to seven hours are normally direct teaching when a Unit is imparted in the standard lecturing mode.
+A Credit value is assigned to each Unit, indicating the total learning time, including time devoted to tuition, private study and assessment, which an average student might be expected to spend in achieving the learning outcomes associated with the Unit; one Credit nominally represents twenty-five hours of learning, of which five to seven hours are normally direct teaching when a Unit is imparted in the standard lecturing mode.
 
 ## 15. Assignment of Credits.
 
@@ -212,12 +192,6 @@ Adequate performance. No evidence of additional 59%
 
 reading/research/work.
 
-UNDER THE AUSPICES OF THE CENTRE FOR
-
-*5*
-
-THE LIBERAL ARTS AND SCIENCES [S.L.327.490
-
 Work displaying satisfactory understanding 50% - D+ with shortcomings 54%
 
 Adequate but inconsistent performance. No
@@ -258,13 +232,7 @@ Unless in special circumstances and with the approval of Senate, all students on
 
 (1) Assessment may be made:
 
-(a) in a continuous mode, i.e. by a set of assessments, which may take the form of class tests, take-home UNDER THE AUSPICES OF THE CENTRE FOR
-
-*6*
-
-[S.L.327.490 THE LIBERAL ARTS AND SCIENCES
-
-assignments, oral tests, or a combination of two or more of these methods, or any other method of continuous assessment approved by the Senate distributed throughout the Unit; or
+(a) in a continuous mode, i.e. by a set of assessments, which may take the form of class tests, take-home assignments, oral tests, or a combination of two or more of these methods, or any other method of continuous assessment approved by the Senate distributed throughout the Unit; or
 
 (b) in a final mode, i.e. by a single assessment at the end of the Unit; or
 
@@ -308,11 +276,7 @@ Supplementary assessments shall be held as follows:
 
 (2) Students shall be awarded qualifications as follows:
 
-UNDER THE AUSPICES OF THE CENTRE FOR
-
-*7*
-
-THE LIBERAL ARTS AND SCIENCES [S.L.327.490 (a) a Certificate in Liberal Studies if they obtain at least 30 Credits; of which not less than 26 credits shall be at the Introductory Level;
+(a) a Certificate in Liberal Studies if they obtain at least 30 Credits; of which not less than 26 credits shall be at the Introductory Level;
 
 (b) a Diploma in Liberal Studies if they obtain at least 60 Credits, of which not less than 56 credits shall be at the Introductory Level;
 
@@ -355,12 +319,6 @@ Category III.
 Final Weighted Average Mark Classification
 
 100 - 80% Pass with Distinction 79 - 70% Pass with Merit
-
-UNDER THE AUSPICES OF THE CENTRE FOR
-
-*8*
-
-[S.L.327.490 THE LIBERAL ARTS AND SCIENCES
 
 69 - 45% Pass.
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws in terms of the General Regulations for University Undergraduate Awards, for the Certificate in German – Cert. Ger. – or the Diploma in German – Dip. Ger. - under the auspices of the Faculty of Arts (S.L. 327.438)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF ARTS [S.L.327.438
-
 **SUBSIDIARY LEGISLATION 327.438**
 
 **BYE-LAWS IN TERMS OF THE GENERAL**
@@ -65,11 +61,9 @@ These bye-laws shall be applicable for courses commencing in October 2017 or lat
 
 (2) Applicants shall provide certification to attest their level of German, or if they do not have such certification, they shall be required to undertake a placement test conducted by the Department of German.
 
-(3) Applicants admitted under paragraph (c) of regulation 6 of the Admissions Regulations must be in possession of those [S.L.327.438 UNDER THE AUSPICES OF THE FACULTY OF ARTS qualifications and/or experience that would satisfy the Faculty Admissions Committee that they have reached the academic standard required to follow the Certificate or the Diploma Course with profit. The eligibility of such applicants shall be decided by the Faculty Admissions Committee following an interview conducted by an interviewing board appointed for the purpose.
+(3) Applicants admitted under paragraph (c) of regulation 6 of the Admissions Regulations must be in possession of those qualifications and/or experience that would satisfy the Faculty Admissions Committee that they have reached the academic standard required to follow the Certificate or the Diploma Course with profit. The eligibility of such applicants shall be decided by the Faculty Admissions Committee following an interview conducted by an interviewing board appointed for the purpose.
 
 (4) The interviewing board appointed by the Board shall be composed of at least three persons.
-
-*2*
 
 ## 4. Duration of Courses.
 

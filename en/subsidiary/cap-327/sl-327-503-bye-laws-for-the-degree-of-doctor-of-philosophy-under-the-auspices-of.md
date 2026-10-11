@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy under the auspices of the Institute of Space Sciences and Astronomy (S.L. 327.503)
 
-UNDER THE AUSPICES OF THE INSTITUTE
-
-*1*
-
-OF SPACE SCIENCES AND ASTRONOMY [S.L.327.503
-
 **SUBSIDIARY LEGISLATION 327.503**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR**
@@ -63,15 +57,9 @@ These bye-laws shall be applicable from 1 October 2014 onwards.
 
 (c) qualifications which the Board deems comparable to the degrees indicated in sub-paragraphs (a) and (b). (2) Applicants in possession of one of the degrees indicated in paragraph (1) of this bye-law obtained more than ten years prior to their application may apply and are required to produce sufficient proof of their competence to carry out the research at the required level.
 
-(3) When the Board deems it necessary, it may require students to successfully complete a number of study-units during the course UNDER THE AUSPICES OF THE INSTITUTE
+(3) When the Board deems it necessary, it may require students to successfully complete a number of study-units during the course of their study, under those conditions that it may impose, after approval by Senate.
 
 \*These bye-laws have been repealed by Legal Notice 225 of 2024.
-
-*2*
-
-[S.L.327.503 OF SPACE SCIENCES AND ASTRONOMY
-
-of their study, under those conditions that it may impose, after approval by Senate.
 
 ## 4. Application form.
 
@@ -115,10 +103,6 @@ The Board shall approve and publish guidelines on the format and presentation of
 
 ## 13. Copies.
 
-(1) Students shall be required to submit a loose bound copy of their thesis for each member of the Board of Examiners, together with a copy in digital format. The officer in charge of the UNDER THE AUSPICES OF THE INSTITUTE
-
-*3*
-
-OF SPACE SCIENCES AND ASTRONOMY [S.L.327.503 Institute shall issue a dated receipt.
+(1) Students shall be required to submit a loose bound copy of their thesis for each member of the Board of Examiners, together with a copy in digital format. The officer in charge of the Institute shall issue a dated receipt.
 
 (2) On successful completion of their studies, students shall be required to submit to the Institute three hard bound copies of the thesis and one copy in digital format within six weeks from the publication of their result. One copy of the thesis shall be kept in the Library of the Institute and another at the University Library. Students who do not comply with this bye-law shall not be awarded the Degree.

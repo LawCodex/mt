@@ -1,6 +1,6 @@
 ---
 title: "Valuation of Agricultural Land Regulations"
-identifier: "S.L. 199.2"
+identifier: "S.L. 199.02"
 eli: "https://legislation.mt/eli/sl/199.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/199.2/20230515/eng"
 retrieved: 2026-10-12
 ---
 
-# Valuation of Agricultural Land Regulations (S.L. 199.2)
+# Valuation of Agricultural Land Regulations (S.L. 199.02)
 
 **SUBSIDIARY LEGISLATION 199.02**
 

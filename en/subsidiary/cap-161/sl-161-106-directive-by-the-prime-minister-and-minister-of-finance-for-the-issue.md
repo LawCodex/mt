@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Prime Minister and Minister of Finance for the Issue of €46,587,467.97 5% Malta Government Stock 2021 (First Issue) Fungibility Issue (S.L. 161.106)
 
-ISSUE OF €46,587,467.97 5%
-
-*1*
-
-MALTA GOVERNMENT STOCK 2021 (FIRST ISSUE) [S.L.161.106
-
 **SUBSIDIARY LEGISLATION 161.106**
 
 **DIRECTIVE BY THE PRIME MINISTER AND**

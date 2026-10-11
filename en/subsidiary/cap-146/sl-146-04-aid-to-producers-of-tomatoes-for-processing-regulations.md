@@ -1,6 +1,6 @@
 ---
 title: "Aid to Producers of Tomatoes for Processing Regulations"
-identifier: "S.L. 146.4"
+identifier: "S.L. 146.04"
 eli: "https://legislation.mt/eli/sl/146.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/146.4/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Aid to Producers of Tomatoes for Processing Regulations (S.L. 146.4)
-
-*1*
-
-OF TOMATOES FOR PROCESSING [S.L.146.04
+# Aid to Producers of Tomatoes for Processing Regulations (S.L. 146.04)
 
 **SUBSIDIARY LEGISLATION 146.04**
 
@@ -61,11 +57,7 @@ Individual producers or producer organisations intending to benefit from financi
 
 If an aid application is received by the Director after the applicable dates referred to in regulation 4(2), the aid payable to such individual producer or producer organisation shall be reduced by 1% for each day of delay after the applicable date, and no aid shall be granted if the application is received by the Director more than fifteen days after the applicable dates referred to in regulation 4(2):
 
-Provided that in exceptional and duly justified cases, the [S.L.146.04 OF TOMATOES FOR PROCESSING
-
-Director may, at his discretion, accept aid applications after the applicable dates referred to in regulation 4(2), but only if this does not hinder effective checks on the production aid scheme. In the case provided for in this proviso, the reductions referred to in this regulation shall not apply.
-
-*2*
+Provided that in exceptional and duly justified cases, the Director may, at his discretion, accept aid applications after the applicable dates referred to in regulation 4(2), but only if this does not hinder effective checks on the production aid scheme. In the case provided for in this proviso, the reductions referred to in this regulation shall not apply.
 
 ### 6. Content of applications.
 
@@ -95,11 +87,7 @@ Provided that the Director may, at his discretion, request additional informatio
 
 (2) Applications for advance payment of aid as referred to in subregulation (1) shall include the information referred to in paragraphs (a) and (b), and where applicable paragraph (c) of regulation 6.
 
-(3) The Director shall pay the amount due in advance payment of aid as provided for in this regulation to the individual producer or the producer organisation between the 16th and 31st October of the same year in which the application for advance payment of aid OF TOMATOES FOR PROCESSING [S.L.146.04
-
-was submitted, after checking the application and, in particular, taking into consideration the delivery certificates referred to in regulation 15 of the 2003 Regulations.
-
-*3*
+(3) The Director shall pay the amount due in advance payment of aid as provided for in this regulation to the individual producer or the producer organisation between the 16th and 31st October of the same year in which the application for advance payment of aid was submitted, after checking the application and, in particular, taking into consideration the delivery certificates referred to in regulation 15 of the 2003 Regulations.
 
 (4) The aid due under this regulation shall be paid in advance provided a security in the form of a bank guarantee equal to 110% of the aid is lodged with the Director. The bank guarantee must be valid for a period of six months and the Director may, at his discretion, request the extension or termination of the bank guarantee.
 
@@ -126,10 +114,6 @@ was submitted, after checking the application and, in particular, taking into co
 ### 9. Controls by the Director.
 
 The Director shall take the necessary steps to:
-
-*4*
-
-[S.L.146.04 OF TOMATOES FOR PROCESSING
 
 (a) ensure that these regulations are complied with;
 
@@ -167,11 +151,7 @@ The Director shall take the necessary steps to:
 
 (3) The financial records, books of accounts or any related documents required under national law may be used for the purposes of this regulation, provided they contain all the information referred to in subregulation (1).
 
-(4) Individual producers and producer organisations shall OF TOMATOES FOR PROCESSING [S.L.146.04
-
-submit to all inspections and checks deemed necessary by the Director and shall keep all additional records required by the Director for the purposes of the said necessary checks.
-
-*5*
+(4) Individual producers and producer organisations shall submit to all inspections and checks deemed necessary by the Director and shall keep all additional records required by the Director for the purposes of the said necessary checks.
 
 ### 11. Records and information to be kept by processors.
 
@@ -197,10 +177,6 @@ submit to all inspections and checks deemed necessary by the Director and shall 
 
 (a) checks on at least 5% of finished products to verify that the applicable minimum quality standards have been complied with;
 
-*6*
-
-[S.L.146.04 OF TOMATOES FOR PROCESSING
-
 (b) physical and accounting checks on at least 5% of finished products to verify the yield of raw materials processed into the finished product obtained under contract and otherwise than under contract;
 
 (c) administrative and accounting checks to verify, on the basis of the invoices issued and received and on the basis of the accounting data, that the quantity of finished product obtained from the raw materials received and the quantities of finished products purchased tally with the quantities of finished products sold;
@@ -223,11 +199,7 @@ For individual producers delivering tomatoes for processing, the following physi
 
 (1) Where it is ascertained that the aid applied for in respect of any marketing year exceeds the amount due, then that amount shall be reduced, unless the difference is, to the satisfaction of the Director, clearly due to error. This reduction in aid shall be equal to the difference between the aid applied for and the amount due. If the aid has already been paid, the beneficiary shall pay back to the Director twice the difference between the aid applied for and the amount due, plus interest calculated in accordance with regulation 18.
 
-(2) If the difference referred to in subregulation (1) is more than 20% of the amount of aid applied for, the beneficiary shall lose entitlement to the aid and, if the aid has already been paid to such beneficiary, shall reimburse the total aid plus interest calculated in accordance with terms provided for in subregulation (1). If the difference referred to in subregulation (1) is more than OF TOMATOES FOR PROCESSING [S.L.146.04
-
-30% of the amount of aid applied for, the beneficiary shall also forfeit any entitlement to aid for the product concerned for the following three marketing years.
-
-*7*
+(2) If the difference referred to in subregulation (1) is more than 20% of the amount of aid applied for, the beneficiary shall lose entitlement to the aid and, if the aid has already been paid to such beneficiary, shall reimburse the total aid plus interest calculated in accordance with terms provided for in subregulation (1). If the difference referred to in subregulation (1) is more than 30% of the amount of aid applied for, the beneficiary shall also forfeit any entitlement to aid for the product concerned for the following three marketing years.
 
 ### 15. Compliance with contractual obligations.
 
@@ -251,11 +223,7 @@ Provided that the reductions provided for in subregulation (1) shall not apply t
 
 ### 17. Penalties for discrepancies between quantities accepted for processing and quantities actually processed.
 
-(1) Except in cases of force majeure, where it is found that the full quantity of tomatoes accepted for processing under contract has not been processed into one of the products listed in the First Schedule to the 2003 Regulations, the processor shall pay the Director an amount equal to twice the unit amount of the aid multiplied by the quantity of the raw material concerned which has not been processed, plus interest calculated in accordance with [S.L.146.04 OF TOMATOES FOR PROCESSING
-
-regulation 18. In addition, except in cases duly justified to the satisfaction of the Director, the processor’s approval as provided for in regulation 3(6) of the 2003 Regulations shall be suspended:
-
-*8*
+(1) Except in cases of force majeure, where it is found that the full quantity of tomatoes accepted for processing under contract has not been processed into one of the products listed in the First Schedule to the 2003 Regulations, the processor shall pay the Director an amount equal to twice the unit amount of the aid multiplied by the quantity of the raw material concerned which has not been processed, plus interest calculated in accordance with regulation 18. In addition, except in cases duly justified to the satisfaction of the Director, the processor’s approval as provided for in regulation 3(6) of the 2003 Regulations shall be suspended:
 
 (a) for the marketing year following the finding, if the difference found between the quantity accepted for processing and the quantity actually processed is more than 10% but no more than 20% of the quantity accepted for processing;
 
@@ -287,13 +255,7 @@ The duration of the exclusion of the processor from the aid scheme shall not be 
 
 (1) The Director shall take appropriate measures to ensure the correctness of both prices paid to producers and aid paid in accordance with regulation 8.
 
-(2) The Director shall also provide in particular for penalties to be imposed on the officers of a producer organisation OF TOMATOES FOR PROCESSING [S.L.146.04
-
-commensurate with the seriousness of any irregularity.
-
-*9*
-
-10 [S.L.146.04 OF TOMATOES FOR PROCESSING
+(2) The Director shall also provide in particular for penalties to be imposed on the officers of a producer organisation commensurate with the seriousness of any irregularity.
 
 Amended by: SCHEDULE
 
@@ -333,8 +295,6 @@ Surname ............................................... First Name .............
 
 Address ............................................................................................................... ............................................................................................................................. Tel. ..................................................
 
-OF TOMATOES FOR PROCESSING [S.L.146.04 11
-
 A2. Individual Producer
 
 Producer’s Name ................................................................................................. VAT No. ................ Legally Valid Identification Document No. ...........................
@@ -363,9 +323,7 @@ Total quantity consigned before 15/9 ............kg Average price ..............
 
 D2 Application for payment of balance or full payment
 
-Total quantity consigned ..............................kg Average price ................... /kg 12 [S.L.146.04 OF TOMATOES FOR PROCESSING
-
-E. Declarations
+Total quantity consigned ..............................kg Average price ................... /kg E. Declarations
 
 I, the undersigned,
 

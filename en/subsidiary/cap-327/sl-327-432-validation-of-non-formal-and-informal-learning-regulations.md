@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Validation of Non-Formal and Informal Learning Regulations (S.L. 327.432)
 
-*1*
-
-AND INFORMAL LEARNING [S.L.327.432
-
 **SUBSIDIARY LEGISLATION 327.432**
 
 **VALIDATION OF NON-FORMAL AND**
@@ -31,7 +27,3 @@ AND INFORMAL LEARNING [S.L.327.432
 LEGAL NOTICE 295 of 2012, as amended by Legal Notice 194 of 2014.
 
 These regulations have been transposed to Cap. 607, see S.L. 607.02 - See Act II of 2020.
-
-**[S.L.327.432 AND INFORMAL LEARNING**
-
-*2*

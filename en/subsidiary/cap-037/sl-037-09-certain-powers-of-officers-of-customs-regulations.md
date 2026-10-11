@@ -1,6 +1,6 @@
 ---
 title: "Certain Powers of Officers of Customs Regulations"
-identifier: "S.L. 37.9"
+identifier: "S.L. 37.09"
 eli: "https://legislation.mt/eli/sl/37.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/37.9/20200101/eng"
 retrieved: 2026-10-12
 ---
 
-# Certain Powers of Officers of Customs Regulations (S.L. 37.9)
+# Certain Powers of Officers of Customs Regulations (S.L. 37.09)
 
 **SUBSIDIARY LEGISLATION 37.09**
 

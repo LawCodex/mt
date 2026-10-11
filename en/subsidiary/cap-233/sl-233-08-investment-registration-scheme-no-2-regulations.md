@@ -1,6 +1,6 @@
 ---
 title: "Investment Registration Scheme (No.2) Regulations"
-identifier: "S.L. 233.8"
+identifier: "S.L. 233.08"
 eli: "https://legislation.mt/eli/sl/233.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/233.8/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Investment Registration Scheme (No.2) Regulations (S.L. 233.8)
+# Investment Registration Scheme (No.2) Regulations (S.L. 233.08)
 
 **SUBSIDIARY LEGISLATION 233.08**
 

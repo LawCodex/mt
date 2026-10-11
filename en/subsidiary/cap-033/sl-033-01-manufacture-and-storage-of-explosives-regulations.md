@@ -1,6 +1,6 @@
 ---
 title: "Manufacture and Storage of Explosives Regulations"
-identifier: "S.L. 33.1"
+identifier: "S.L. 33.01"
 eli: "https://legislation.mt/eli/sl/33.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/33.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Manufacture and Storage of Explosives Regulations (S.L. 33.1)
+# Manufacture and Storage of Explosives Regulations (S.L. 33.01)
 
 **SUBSIDIARY LEGISLATION 33.01**
 

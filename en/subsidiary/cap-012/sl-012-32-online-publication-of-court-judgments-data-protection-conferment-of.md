@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Online Publication of Court Judgments (Data Protection) Conferment of Functions Regulations (S.L. 12.32)
 
-ONLINE PUBLICATION OF COURT JUDGMENTS
-
-*1*
-
-(DATA PROTECTION) CONFERMENT OF FUNCTIONS [S.L.12.32
-
 **SUBSIDIARY LEGISLATION 12.32**
 
 **ONLINE PUBLICATION OF COURT JUDGMENTS**

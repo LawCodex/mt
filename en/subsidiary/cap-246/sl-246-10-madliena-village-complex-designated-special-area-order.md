@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Madliena Village Complex (Designated Special Area) Order (S.L. 246.10)
 
-*1*
-
-(DESIGNATED SPECIAL AREA) [S.L.246.10
-
 **SUBSIDIARY LEGISLATION 246.10**
 
 **MADLIENA VILLAGE COMPLEX**
@@ -42,7 +38,3 @@ Madliena Village Complex consisting of immovable property situated in the area b
 ## 3. Addition to First Schedule of the Act. Cap. 246
 
 Madliena Village Complex shall be added to the List of Scheduled Zones in the First Schedule to the Immovable Property (Acquisition by Non-Residents) Act.
-
-*2*
-
-[S.L.246.10 (DESIGNATED SPECIAL AREA)

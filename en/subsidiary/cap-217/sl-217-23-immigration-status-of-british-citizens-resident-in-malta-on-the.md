@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Immigration Status of British Citizens Resident in Malta on the Withdrawal Date of the United Kingdom from the European Union Regulations (S.L. 217.23)
 
-IMMIGRATION STATUS OF BRITISH CITIZENS RESIDENT
-
-IN MALTA ON THE WITHDRAWAL DATE OF THE UNITED
-
-*1*
-
-KINGDOM FROM THE EUROPEAN UNION [S.L. 217.23
-
 **SUBSIDIARY LEGISLATION 217.23**
 
 **IMMIGRATION STATUS OF BRITISH CITIZENS**

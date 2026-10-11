@@ -1,6 +1,6 @@
 ---
 title: "Prisons Pensions Regulations"
-identifier: "S.L. 260.4"
+identifier: "S.L. 260.04"
 eli: "https://legislation.mt/eli/sl/260.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/260.4/20260721/eng"
 retrieved: 2026-10-12
 ---
 
-# Prisons Pensions Regulations (S.L. 260.4)
+# Prisons Pensions Regulations (S.L. 260.04)
 
 **SUBSIDIARY LEGISLATION 260.04**
 

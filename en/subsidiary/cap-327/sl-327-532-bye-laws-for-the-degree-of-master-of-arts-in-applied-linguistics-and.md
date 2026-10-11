@@ -16,16 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the degree of Master of Arts in Applied Linguistics and Teaching English to Speakers of Other Languages - M.A. - under the auspices of the Centre for Academic Literacies and English Communication Skills (S.L. 327.532)
 
-TEACHING ENGLISH TO SPEAKERS OF OTHER LAN-
-
-GUAGES - M.A. - UNDER THE AUSPICES OF THE CEN-
-
-TRE FOR ACADEMIC LITERACIES AND ENGLISH
-
-*1*
-
-COMMUNICATION SKILLS [S.L.327.532
-
 **SUBSIDIARY LEGISLATION 327.532**
 
 *Substituted by: L.N. 431 of 2021; L.N. 6 of 2025.*
@@ -72,11 +62,7 @@ These bye-laws shall be applicable for courses commencing in October 2018 or lat
 
 (1) The course shall be open to applicants in possession of one of the following qualifications:
 
-(a) a Bachelor’s degree in English from this University or from a higher education institution recognised by Senate, provided that they demonstrate, through appropriate certification and references, that they have undertaken at least 500 hours of teaching English or TEACHING ENGLISH TO SPEAKERS OF OTHER LAN- GUAGES - M.A. - UNDER THE AUSPICES OF THE CEN- TRE FOR ACADEMIC LITERACIES AND ENGLISH [S.L.327.532 COMMUNICATION SKILLS
-
-are in possession of a Malta Qualifications Framework Level 4 qualification in TESOL or higher; or
-
-*2*
+(a) a Bachelor’s degree in English from this University or from a higher education institution recognised by Senate, provided that they demonstrate, through appropriate certification and references, that they have undertaken at least 500 hours of teaching English or are in possession of a Malta Qualifications Framework Level 4 qualification in TESOL or higher; or
 
 (b) a Bachelor’s degree from this University or from a higher education institution recognised by Senate, in an area of study deemed relevant by the Board, provided that they are either in possession of a Malta Qualifications Framework Level 4 qualification in English or an IELTS 7 or equivalent and have undertaken at least 1000 hours of teaching English or, if they have no teaching experience, they will be required to follow and successfully complete the University of Malta Certificate in ELT; or
 
@@ -102,17 +88,7 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 (2) Students who obtain 30 ECTS credits assigned to taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the course, shall be eligible for the award of the Postgraduate Certificate.
 
-(3) Students who obtain the 60 ECTS credits assigned to the taught study-units with an average mark of at least 50% and do not proceed with the Course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the TEACHING ENGLISH TO SPEAKERS OF OTHER LAN-
-
-GUAGES - M.A. - UNDER THE AUSPICES OF THE CEN-
-
-TRE FOR ACADEMIC LITERACIES AND ENGLISH
-
-*3*
-
-COMMUNICATION SKILLS [S.L.327.532
-
-Postgraduate Diploma.
+(3) Students who obtain the 60 ECTS credits assigned to the taught study-units with an average mark of at least 50% and do not proceed with the Course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the Postgraduate Diploma.
 
 (4) In cases where applicants lack essential knowledge in particular areas not covered in their qualifications, the Board may require students admitted to the Course to follow and pass supplementary study-unit/s to which not more than 12 ECTS credits are assigned in addition to the programme of study specified in paragraph (1) of this bye-law.
 
@@ -140,11 +116,7 @@ Postgraduate Diploma.
 
 (1) Students shall be required to have regular contact with their supervisor.
 
-(2) Supervisors shall submit to the Board progress reports for the students under their supervision at the end of each semester of study, whether the student is following the Course on a full-time or a part-time basis. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, TEACHING ENGLISH TO SPEAKERS OF OTHER LAN- GUAGES - M.A. - UNDER THE AUSPICES OF THE CEN- TRE FOR ACADEMIC LITERACIES AND ENGLISH [S.L.327.532 COMMUNICATION SKILLS
-
-provided that:
-
-*4*
+(2) Supervisors shall submit to the Board progress reports for the students under their supervision at the end of each semester of study, whether the student is following the Course on a full-time or a part-time basis. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 

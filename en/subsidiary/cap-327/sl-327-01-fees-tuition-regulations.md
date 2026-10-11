@@ -1,6 +1,6 @@
 ---
 title: "Fees (Tuition) Regulations"
-identifier: "S.L. 327.1"
+identifier: "S.L. 327.01"
 eli: "https://legislation.mt/eli/sl/327.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/327.1/20210101/eng"
 retrieved: 2026-10-12
 ---
 
-# Fees (Tuition) Regulations (S.L. 327.1)
+# Fees (Tuition) Regulations (S.L. 327.01)
 
 SUBSIDIARY LEGISLATION 327.01
 

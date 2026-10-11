@@ -1,6 +1,6 @@
 ---
 title: "Elections for the Hospital Management Committee Regulations"
-identifier: "S.L. 94.9"
+identifier: "S.L. 94.09"
 eli: "https://legislation.mt/eli/sl/94.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/94.9/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Elections for the Hospital Management Committee Regulations (S.L. 94.9)
+# Elections for the Hospital Management Committee Regulations (S.L. 94.09)
 
 **SUBSIDIARY LEGISLATION 94.09**
 

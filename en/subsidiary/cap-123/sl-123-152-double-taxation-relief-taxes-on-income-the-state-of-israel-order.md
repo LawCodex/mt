@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (The State of Israel) Order (S.L. 123.152)
 
-*1*
-
-(THE STATE OF ISRAEL) [S.L.123.152
-
 **SUBSIDIARY LEGISLATION 123.152**
 
 DOUBLE TAXATION RELIEF (TAXES ON INCOME) (THE STATE OF ISRAEL) ORDER
@@ -48,8 +44,6 @@ It is hereby declared:
 (c) that the Convention shall enter into force on such date as may be announced by notice in the Government Gazette\*.
 
 \*the Convention came into force on 8th December, 2013 - see L.N. 57 of 2014.
-
-2 [S.L.123.152 (THE STATE OF ISRAEL)
 
 ## SCHEDULE
 
@@ -121,8 +115,6 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 \1. For the purposes of this Convention, unless the context otherwise requires:
 
-(THE STATE OF ISRAEL) [S.L.123.152 3
-
 (a) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
 
 (b) the term "Israel" means the State of Israel and when used in a geographical sense comprises the territory in which the Government of the State of Israel has taxation rights, including its territorial sea, as well as those maritime areas adjacent to the outer limit of the territorial sea, including seabed and subsoil thereof over which the State of Israel, in accordance with international law and the laws of the State of Israel, exercises its sovereign or other rights and jurisdiction;
@@ -153,7 +145,7 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 (k) the term "business" includes the performance of professional services and of other activities of an independent character.
 
-\2. As regards the application of the Convention at any time by a Contracting State, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that State for the purposes of the taxes to which the Convention applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State. 4 [S.L.123.152 (THE STATE OF ISRAEL)
+\2. As regards the application of the Convention at any time by a Contracting State, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that State for the purposes of the taxes to which the Convention applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State.
 
 **Article 4**
 
@@ -191,9 +183,7 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 (e) a workshop; and
 
-(f) a mine, an oil or gas well, a quarry or any other place of extraction of (THE STATE OF ISRAEL) [S.L.123.152 5
-
-natural resources.
+(f) a mine, an oil or gas well, a quarry or any other place of extraction of natural resources.
 
 \3. A building site or construction or installation project constitutes a permanent establishment only if it lasts more than twelve months.
 
@@ -231,9 +221,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \1. Income derived by a resident of a Contracting State from immovable property (including income from agriculture or forestry) situated in the other Contracting State may be taxed in that other State.
 
-\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of 6 [S.L.123.152 (THE STATE OF ISRAEL)
-
-general law respecting landed property apply, any option or similar right to acquire immovable property, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources; ships, boats and aircraft shall not be regarded as immovable property.
+\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, any option or similar right to acquire immovable property, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources; ships, boats and aircraft shall not be regarded as immovable property.
 
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
@@ -263,9 +251,7 @@ Where profits include items of income which are dealt with separately in other A
 
 **SHIPPING AND AIR TRANSPORT**
 
-\1. Profits of an enterprise of a Contracting State from the operation of ships or (THE STATE OF ISRAEL) [S.L.123.152 7
-
-aircraft in international traffic shall be taxable only in the Contracting State in which the place of effective management is situated.
+\1. Profits of an enterprise of a Contracting State from the operation of ships or aircraft in international traffic shall be taxable only in the Contracting State in which the place of effective management is situated.
 
 \2. For the purposes of this Article, profits derived from the operation of ships or aircraft in international traffic include profits derived from the rental of ships or aircraft if such ships or aircraft are operated in international traffic or if such rental profits are incidental to other profits described in paragraph 1 of this Article.
 
@@ -299,8 +285,6 @@ and in either case conditions are made or imposed between the two enterprises in
 
 (i) 0 per cent of the gross amount of the dividends if the beneficial owner of the dividends is a company (other than a partnership or a real estate investment company) which holds directly at least 10 per cent of the capital of the company paying the dividends;
 
-8 [S.L.123.152 (THE STATE OF ISRAEL)
-
 (ii) 15 per cent of the gross amount of the dividends in all other cases;
 
 (b) where the dividends are paid by a company which is a resident of Malta to a resident of Israel who is the beneficial owner thereof, Malta tax on the gross amount of the dividends shall not exceed that chargeable on the profits out of which the dividends are paid.
@@ -326,8 +310,6 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 \1. Interest arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other State.
 
 \2. However, such interest may also be taxed in the Contracting State in which it arises and according to the laws of that State, but if the beneficial owner of the interest is a resident of the other Contracting State, the tax so charged shall not exceed 5 per cent of the gross amount of the interest.
-
-(THE STATE OF ISRAEL) [S.L.123.152 9
 
 \3. Notwithstanding the provisions of paragraphs 1 and 2, interest arising in a Contracting State shall be exempt from tax in that State if it is paid:
 
@@ -357,9 +339,7 @@ Where, by reason of a special relationship between the payer and the beneficial 
 
 \2. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including cinematograph films, any patent, trade mark, design or model, plan, secret formula or process, or for information concerning industrial, commercial or scientific experience.
 
-\3. The provisions of paragraph 1 shall not apply if the beneficial owner of the 10 [S.L.123.152 (THE STATE OF ISRAEL)
-
-royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
+\3. The provisions of paragraph 1 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
 \4. Royalties shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment, then such royalties shall be deemed to arise in the State in which the permanent establishment is situated.
 
@@ -380,8 +360,6 @@ royalties, being a resident of a Contracting State, carries on business in the o
 \4. Gains from the alienation of ships or aircraft operated in international traffic or movable property pertaining to the operation of such ships or aircraft shall be taxable only in the Contracting State in which the place of effective management of the enterprise is situated.
 
 \5. Gains from the alienation of any property, other than that referred to in paragraphs 1, 2, 3 and 4, shall be taxable only in the Contracting State of which the alienator is a resident.
-
-(THE STATE OF ISRAEL) [S.L.123.152 11
 
 \6. Where a person, who was a resident of a Contracting State, has become a resident of the other Contracting State, paragraph 5 shall not prevent the first-mentioned State from taxing under its domestic law the capital gains on property of that person at the time of change of residence. In the case of subsequent alienation of such property capital gains on such property up to the time of change of residence shall not be taxed in the other State.
 
@@ -415,9 +393,7 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 \2. Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman himself but to another person, that income may, notwithstanding the provisions of Articles 7 and 14, be taxed in the Contracting State in which the activities of the entertainer or sportsman are exercised.
 
-\3. The provisions of paragraphs 1 and 2 shall not apply to income derived from activities exercised in a Contracting State by an entertainer or sportsman if the visit to that State is wholly or mainly supported by one or both of the Contracting States 12 [S.L.123.152 (THE STATE OF ISRAEL)
-
-or local authorities thereof or by public funds of one or both of the Contracting States or by an institution which is recognised by one or both of the Contracting States as a not-for-profit institution. In such a case, the income shall be taxable in accordance with the provisions of Article 7 or 14, as the case may be.
+\3. The provisions of paragraphs 1 and 2 shall not apply to income derived from activities exercised in a Contracting State by an entertainer or sportsman if the visit to that State is wholly or mainly supported by one or both of the Contracting States or local authorities thereof or by public funds of one or both of the Contracting States or by an institution which is recognised by one or both of the Contracting States as a not-for-profit institution. In such a case, the income shall be taxable in accordance with the provisions of Article 7 or 14, as the case may be.
 
 **Article 17**
 
@@ -451,8 +427,6 @@ Subject to the provisions of paragraph 2 of Article 18, pensions and other simil
 
 \2. No exemption shall be granted under paragraph 1 with respect to any remuneration for research if such research is undertaken not in the public interest but primarily for the private benefit of a specific person or persons.
 
-(THE STATE OF ISRAEL) [S.L.123.152 13
-
 **Article 20**
 
 **STUDENTS**
@@ -483,8 +457,6 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 (b) such deductions shall not, however, exceed that part of the income tax as computed before the deduction is given, which is attributable to the income which may be taxed in Malta.
 
-14 [S.L.123.152 (THE STATE OF ISRAEL)
-
 **Article 23**
 
 **NON-DISCRIMINATION**
@@ -509,9 +481,7 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 \2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Convention. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
 
-\3. The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Convention. They may also consult together for (THE STATE OF ISRAEL) [S.L.123.152 15
-
-the elimination of double taxation in cases not provided for in the Convention.
+\3. The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Convention. They may also consult together for the elimination of double taxation in cases not provided for in the Convention.
 
 \4. The competent authorities of the Contracting States may communicate with each other directly, including through a joint commission consisting of themselves or their representatives, for the purpose of reaching an agreement in the sense of the preceding paragraphs.
 
@@ -539,9 +509,7 @@ the elimination of double taxation in cases not provided for in the Convention.
 
 **Limitation of Benefits**
 
-\1. Notwithstanding the provisions of any other Article of this Convention, a resident of a Contracting State shall not receive the benefit of any reduction in or 16 [S.L.123.152 (THE STATE OF ISRAEL)
-
-exemption from tax provided for in the Convention by the other Contracting State if the main purpose or one of the main purposes of such resident or a person connected with such resident was to obtain the benefits of the Convention.
+\1. Notwithstanding the provisions of any other Article of this Convention, a resident of a Contracting State shall not receive the benefit of any reduction in or exemption from tax provided for in the Convention by the other Contracting State if the main purpose or one of the main purposes of such resident or a person connected with such resident was to obtain the benefits of the Convention.
 
 \2. The foregoing provision shall not apply where a company is engaged in substantive business operations in the Contracting State of which it is a resident and the relief from the taxation claimed from the other Contracting State is with respect to income that is connected with such operations.
 
@@ -574,8 +542,6 @@ This Convention shall remain in force until terminated by one of the Contracting
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto by their respective Governments, have signed this Convention.
 
 Done in duplicate at Jerusalem this 28 day of July 2011, which corresponds to the 26 day of Tammuz, 5771, of the Hebrew Calendar, in the English and Hebrew languages, both texts being equally authoritative. In case of any divergence of the provisions of this Convention, the English text shall prevail.
-
-(THE STATE OF ISRAEL) [S.L.123.152 17
 
 Tonio Borg Avigdor Lieberman
 
@@ -615,9 +581,7 @@ It is understood that in the case of Israel, a Real Estate Investment Trust (REI
 
 \5. With reference to paragraph 2 of Article 11 (Interest):
 
-A resident of a Contracting State may elect, in lieu of the tax that would be imposed under sub-paragraph 11(2) to be taxed on the net amount of interest. The competent authorities of each Contracting State may adopt reasonable rules for the determination and reporting of taxable income. Each competent authority may also adopt procedures to ensure that a person deriving interest income provides such 18 [S.L.123.152 (THE STATE OF ISRAEL)
-
-books and records as are necessary to determine the proper amount of the taxable income.
+A resident of a Contracting State may elect, in lieu of the tax that would be imposed under sub-paragraph 11(2) to be taxed on the net amount of interest. The competent authorities of each Contracting State may adopt reasonable rules for the determination and reporting of taxable income. Each competent authority may also adopt procedures to ensure that a person deriving interest income provides such books and records as are necessary to determine the proper amount of the taxable income.
 
 \6. With reference to paragraph 4 of Article 11 (Interest):
 

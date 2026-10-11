@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science - M.Sc. - under the auspices of the Faculty of Health Sciences (S.L. 327.441)
 
-*1*
-
-THE AUSPICES OF THE FACULTY OF HEALTH SCIENCES [S.L.327.441
-
 **SUBSIDIARY LEGISLATION 327.441**
 
 BYE-LAWS FOR THE DEGREE OF MASTER OF SCIENCES UNDER THE AUSPICES
@@ -70,11 +66,9 @@ The course shall be offered in any area of study that falls within the academic 
 
 (c) a qualification deemed by Senate, on the recommendation of the Board, to be equivalent to the qualifications listed in (a) and (b) above,
 
-provided that for the Clinical Biomechanics and Health Systems Management and Leadership areas of study, applicants in possession of [S.L.327.441 THE AUSPICES OF THE FACULTY OF HEALTH SCIENCES a first degree obtained with at least Second Class (Honours) in a discipline deemed by the Board as being related to the area of study in which the research is to be carried out shall be considered as eligible.”.
+provided that for the Clinical Biomechanics and Health Systems Management and Leadership areas of study, applicants in possession of a first degree obtained with at least Second Class (Honours) in a discipline deemed by the Board as being related to the area of study in which the research is to be carried out shall be considered as eligible.”.
 
 (2) The Board shall recommend to senate the number of applicants that may be allowed to register for the course, depending on the availability of resources. The Board shall announce the areas of study and the number of available places at the time of the call for applications.
-
-*2*
 
 (3) When the number of places is so limited and the number of eligible applicants exceeds the number of places available, applicants shall be selected using the following criteria, the weighting of which shall be published at the time of the call for applications:
 
@@ -108,11 +102,7 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 (1) The Board shall recommend to Senate the appointment of a Faculty Masters by Research Committee normally composed as follows:
 
-The Dean of the Faculty of Health Sciences or delegate THE AUSPICES OF THE FACULTY OF HEALTH SCIENCES [S.L.327.441
-
-(Chairperson)
-
-*3*
+The Dean of the Faculty of Health Sciences or delegate (Chairperson)
 
 2 - 5 members of the Faculty of Health Sciences possessing academic doctoral qualifications
 
@@ -148,11 +138,7 @@ Head of Department in which the research will be carried out
 
 ## 10. Students’ progress.
 
-(1) The Masters by Research Committee shall follow, as it deems fit, the progress of students throughout the course, provided [S.L.327.441 THE AUSPICES OF THE FACULTY OF HEALTH SCIENCES
-
-that it meets at least twice a year to review such progress.
-
-*4*
+(1) The Masters by Research Committee shall follow, as it deems fit, the progress of students throughout the course, provided that it meets at least twice a year to review such progress.
 
 (2) Students shall be required to report to their supervisors at least once every two months, and in addition as often as the supervisor deems necessary.
 

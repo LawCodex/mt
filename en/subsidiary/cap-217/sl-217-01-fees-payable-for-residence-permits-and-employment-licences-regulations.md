@@ -1,6 +1,6 @@
 ---
 title: "Fees payable for Residence Permits and Employment Licences Regulations"
-identifier: "S.L. 217.1"
+identifier: "S.L. 217.01"
 eli: "https://legislation.mt/eli/sl/217.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,11 +15,7 @@ version: "https://legislation.mt/eli/sl/217.1/20250801/eng"
 retrieved: 2026-10-12
 ---
 
-# Fees payable for Residence Permits and Employment Licences Regulations (S.L. 217.1)
-
-*1*
-
-PERMITS AND EMPLOYMENT LICENCES [S.L.217.01
+# Fees payable for Residence Permits and Employment Licences Regulations (S.L. 217.01)
 
 **SUBSIDIARY LEGISLATION 217.01**
 
@@ -82,10 +78,6 @@ persons granted analogous forms Payableon of.protection ........................
 Payable on issue: €80
 
 \*These regulations have been repealed by Legal Notice 164 of 2025.
-
-*2*
-
-[S.L.217.01 PERMITS AND EMPLOYMENT LICENCES
 
 ## 5.
 

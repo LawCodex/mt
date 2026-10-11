@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Science (Honours) - B.Sc. (Hons) - in Mediterranean Agro-Ecosystems Management under the auspices of the Institute of Earth Systems (S.L. 327.299)
 
-DEGREE OF BACHELOR OF SCIENCE (HONOURS) - B.SC. (HONS)
-
-\- IN MEDITERRANEAN AGRO-SYSTEMS MANAGEMENT UNDER
-
-*1*
-
-THE AUSPICES OF THE INSTITUTE OF EARTH SYSTEMS [S.L.327.299
-
 **SUBSIDIARY LEGISLATION 327.299**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF SCIENCE (HONOURS) - B.SC. (HONS) - IN

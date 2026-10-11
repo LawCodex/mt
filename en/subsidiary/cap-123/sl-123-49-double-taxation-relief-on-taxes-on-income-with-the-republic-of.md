@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Republic of Lebanon Order (S.L. 123.49)
 
-*1*
-
-WITH THE REPUBLIC OF LEBANON [ S.L.123.49
-
 SUBSIDIARY LEGISLATION 123.49
 
 DOUBLE TAXATION RELIEF ON TAXES ON
@@ -48,8 +44,6 @@ It is hereby declared:-
 (b) that it is expedient that those arrangements should have effect.
 
 (c) that the Convention has entered into force on the 10th February, 2000.
-
-2 [ S.L.123.49 WITH THE REPUBLIC OF LEBANON
 
 ## SCHEDULE — CONVENTION — BETWEEN THE REPUBLIC OF MALTA
 
@@ -107,8 +101,6 @@ the income tax;
 
 The Convention shall apply also to any identical or substantially similar taxes which are imposed after the date of signature of this Convention in addition to, or in place of, the existing taxes referred to in paragraph 3. The competent authorities of the Contracting States shall notify each other of any substantial changes which have been made in their respective taxation laws within a reasonable period of time after such changes.
 
-WITH THE REPUBLIC OF LEBANON [ S.L.123.49 3
-
 Article 3
 
 GENERAL DEFINITIONS
@@ -146,8 +138,6 @@ For the purposes of this Convention, unless the context otherwise requires:
 *\2.*
 
 As regards the application of this Convention by a Contracting State any term not defined therein shall, unless the context otherwise requires, have the meaning which it has under the law of that State concerning the taxes to which the Convention applies.
-
-4 [ S.L.123.49 WITH THE REPUBLIC OF LEBANON
 
 **Article 4**
 
@@ -189,8 +179,6 @@ As regards the application of this Convention by a Contracting State any term no
 
 (g) a building site, a construction, assembly or installation project or supervisory activities in connection therewith, but only where such site, project or activities continue for a period of more than six months within any twelve-month period; and
 
-WITH THE REPUBLIC OF LEBANON [ S.L.123.49 5
-
 (h) the furnishing of services, including consultancy services, by an enterprise of a Contracting State through employees or other personnel engaged for such purposes in the other Contracting State, provided that such activities continue for the same project or a connected project for a period or periods aggregating more than six months within any twelve-month period.
 
 \3. Notwithstanding the preceding provisions of this Article, the term “permanent establishment” shall be deemed not to include:
@@ -221,8 +209,6 @@ An enterprise shall not be deemed to have a permanent establishment in a Contrac
 
 The fact that a company which is a resident of a Contracting State controls or is controlled by a company which is a resident of the other Contracting State, or which carries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself constitute either company a permanent establishment of the other.
 
-6 [ S.L.123.49 WITH THE REPUBLIC OF LEBANON
-
 **Article 6**
 
 **INCOME FROM IMMOVABLE PROPERTY**
@@ -247,9 +233,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \4. Insofar as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph 2 shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary; the method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles contained in this Article.
 
-\5. No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the WITH THE REPUBLIC OF LEBANON [ S.L.123.49 7
-
-enterprise.
+\5. No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
 
 ## 6.
 
@@ -287,9 +271,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \1. Dividends paid by a company which is a resident of a Contracting State to a resident of the other Contracting State may be taxed in that other State.
 
-\2. However, such dividends may also be taxed in the Contracting State of which the company paying the dividends is a resident and according to the laws of 8 [ S.L.123.49 WITH THE REPUBLIC OF LEBANON
-
-that State, but
+\2. However, such dividends may also be taxed in the Contracting State of which the company paying the dividends is a resident and according to the laws of that State, but
 
 (a) where the dividends are paid by a company which is a resident of Lebanon to a resident of Malta who is the beneficial owner thereof, the Lebanese tax so charged shall not exceed 5 per cent of the gross amount of the dividends;
 
@@ -315,8 +297,6 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \*as amended by Legal Notice 242 of 2010.
 
-WITH THE REPUBLIC OF LEBANON [ S.L.123.49 9
-
 \3. The provisions of paragraph 1 shall not apply if the effective (beneficial) owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \4. Where, by reason of a special relationship between the payer and the effective (beneficial) owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the effective (beneficial) owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
@@ -334,8 +314,6 @@ WITH THE REPUBLIC OF LEBANON [ S.L.123.49 9
 \4. The provisions of paragraphs 1 and 2 shall not apply if the effective (beneficial) owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \5. Royalties shall be deemed to arise in a Contracting State when the payer is that State itself, a local authority, an administrative - territorial unit or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the Contracting State in which the permanent establishment or fixed base is situated.
-
-10 [ S.L.123.49 WITH THE REPUBLIC OF LEBANON
 
 \6. Where, by reason of a special relationship between the payer and the effective (beneficial) owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the effective (beneficial) owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
@@ -365,9 +343,7 @@ WITH THE REPUBLIC OF LEBANON [ S.L.123.49 9
 
 Provided that, in the cases referred to in sub-paragraphs (a) and (b), the income may be taxed in the other Contracting State but only so much of it as is attributable to the fixed base or is derived from the activities performed in the period in which the resident was present, as the case may be, in that other State.
 
-\2. The term “professional services” includes especially independent scientific, WITH THE REPUBLIC OF LEBANON [ S.L.123.49 11
-
-literary, artistic, educational or teaching activities as well as the independent activities of physicians, lawyers, engineers, architects, dentists and accountants.
+\2. The term “professional services” includes especially independent scientific, literary, artistic, educational or teaching activities as well as the independent activities of physicians, lawyers, engineers, architects, dentists and accountants.
 
 **Article 15**
 
@@ -399,9 +375,7 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 \2. Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman himself but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the entertainer or sportsman are exercised.
 
-\3. Notwithstanding the provisions of paragraphs 1 and 2, the income derived from the activities referred to in paragraph 1 within the framework of cultural or sport exchanges agreed to by the governments of the Contracting States and carried 12 [ S.L.123.49 WITH THE REPUBLIC OF LEBANON
-
-out other than for the purpose of profit shall be exempted from tax in the Contracting State in which these activities are exercised.
+\3. Notwithstanding the provisions of paragraphs 1 and 2, the income derived from the activities referred to in paragraph 1 within the framework of cultural or sport exchanges agreed to by the governments of the Contracting States and carried out other than for the purpose of profit shall be exempted from tax in the Contracting State in which these activities are exercised.
 
 **Article 18**
 
@@ -435,9 +409,7 @@ out other than for the purpose of profit shall be exempted from tax in the Contr
 
 \1. A resident of a Contracting State who is temporarily present in the other Contracting State as a student or a trainee and who receives a technical, professional or business training shall, for a period not exceeding seven years, not be taxed in the other Contracting State for remittances from abroad for the purpose of his maintenance, education or training or as a scholarship to continue his education.
 
-\2. Remuneration paid to the student or trainee, as the case may be, for services rendered in the other State shall not be taxed in that other State for a period of two years provided that such services are connected with his education, maintenance or WITH THE REPUBLIC OF LEBANON [ S.L.123.49 13
-
-training.
+\2. Remuneration paid to the student or trainee, as the case may be, for services rendered in the other State shall not be taxed in that other State for a period of two years provided that such services are connected with his education, maintenance or training.
 
 **Article 21**
 
@@ -467,8 +439,6 @@ The amount of credit, however, shall not exceed the amount of Lebanese tax on th
 
 \*as amended by Legal Notice 242 of 2010.
 
-14 [ S.L.123.49 WITH THE REPUBLIC OF LEBANON
-
 **Article 23**
 
 **NON-DISCRIMINATION**
@@ -489,9 +459,7 @@ The amount of credit, however, shall not exceed the amount of Lebanese tax on th
 
 \1. Where a person considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Convention, he may, irrespective of the remedies provided by the domestic law of those States, present his case to the competent authority of the Contracting State of which he is a resident or, if his case comes under paragraph 1 of Article 23, to that of the Contracting State of which he is a national. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Convention.
 
-\2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the WITH THE REPUBLIC OF LEBANON [ S.L.123.49 15
-
-Convention. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
+\2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Convention. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
 
 \3. The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of this Convention. They may also consult together for the elimination of double taxation in cases not provided for in the Convention.
 
@@ -521,9 +489,7 @@ Nothing in this Convention shall affect the fiscal privileges of members of dipl
 
 **ENTRY INTO FORCE**
 
-This Convention shall be ratified and shall enter into force on the thirtieth day after the date of the later of the notifications indicating that both States have complied with the domestic legal procedures required in each State for its entry into 16 [ S.L.123.49 WITH THE REPUBLIC OF LEBANON
-
-force. The Convention shall apply:
+This Convention shall be ratified and shall enter into force on the thirtieth day after the date of the later of the notifications indicating that both States have complied with the domestic legal procedures required in each State for its entry into force. The Convention shall apply:
 
 (a) in the case of Lebanon:
 
@@ -560,8 +526,6 @@ GUIDO DE MARCO GEORGE CORM
 For The Government of For The Government of
 
 The Republic of Malta The Republic of Lebanon
-
-WITH THE REPUBLIC OF LEBANON [ S.L.123.49 17
 
 **PROTOCOL**
 

@@ -1,6 +1,6 @@
 ---
 title: "Designated Employment of Persons with Disability Order"
-identifier: "S.L. 210.3"
+identifier: "S.L. 210.03"
 eli: "https://legislation.mt/eli/sl/210.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/210.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Designated Employment of Persons with Disability Order (S.L. 210.3)
-
-DESIGNATED EMPLOYMENT OF
-
-*1*
-
-PERSONS WITH DISABILITY [S.L.210.03
+# Designated Employment of Persons with Disability Order (S.L. 210.03)
 
 **SUBSIDIARY LEGISLATION 210.03**
 

@@ -1,6 +1,6 @@
 ---
 title: "EU Emergency Travel Document Regulations"
-identifier: "S.L. 61.3"
+identifier: "S.L. 61.03"
 eli: "https://legislation.mt/eli/sl/61.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/61.3/20260113/eng"
 retrieved: 2026-10-12
 ---
 
-# EU Emergency Travel Document Regulations (S.L. 61.3)
+# EU Emergency Travel Document Regulations (S.L. 61.03)
 
 SUBSIDIARY LEGISLATION 61.03
 

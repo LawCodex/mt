@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy - Ph.D. - under the auspices of the Institute of Digital Games (S.L. 327.487)
 
-*1*
-
-THE AUSPICES OF THE INSTITUTE OF DIGITAL GAMES [S.L.327.487
-
 **SUBSIDIARY LEGISLATION 327.487**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR**
@@ -65,11 +61,9 @@ These bye-laws shall be applicable from 1 October 2013 onwards.
 
 \*These regulations have been repealed by Legal Notice 294 of 2024.
 
-*2*
+## 5. Institute Doctoral Committee.
 
-[S.L.327.487 THE AUSPICES OF THE INSTITUTE OF DIGITAL GAMES 5. The Board shall recommend to Senate the appointment of an Institute Doctoral Committee composed as follows:
-
-*Institute Doctoral Committee.*
+The Board shall recommend to Senate the appointment of an Institute Doctoral Committee composed as follows:
 
 (a) the Director of the Institute or delegate (Chairman) (b) two academic members possessing doctoral qualifications who are members of the Institute.
 
@@ -99,11 +93,7 @@ Students shall only be allowed to proceed with their studies subject to satisfac
 
 (1) After twelve months and not later than twenty-four months of full-time study, students are required to submit a report on their research work for consideration by an ad hoc board appointed by the Board. The ad hoc board shall be composed of a chairman, who shall be the Director of the Institute or his delegate, and two examiners, one of whom shall be the Principal Supervisor and the other a member of the Institute as long as the Director is not the Supervisor. In that case, another member shall act as a Chairman.
 
-(2) The ad hoc board shall examine the student orally and shall THE AUSPICES OF THE INSTITUTE OF DIGITAL GAMES [S.L.327.487
-
-submit a written report for consideration by the Institute’s Doctoral Committee in the first instance. The report shall contain recommendations according to the provisions of the Principal Regulations.
-
-*3*
+(2) The ad hoc board shall examine the student orally and shall submit a written report for consideration by the Institute’s Doctoral Committee in the first instance. The report shall contain recommendations according to the provisions of the Principal Regulations.
 
 ## 10. Institute’s research and teaching programmes.
 

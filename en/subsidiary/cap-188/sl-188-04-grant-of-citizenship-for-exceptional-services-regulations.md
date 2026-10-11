@@ -1,6 +1,6 @@
 ---
 title: "Grant of Citizenship for Exceptional Services Regulations"
-identifier: "S.L. 188.4"
+identifier: "S.L. 188.04"
 eli: "https://legislation.mt/eli/sl/188.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,9 @@ version: "https://legislation.mt/eli/sl/188.4/20171129/eng"
 retrieved: 2026-10-12
 ---
 
-# Grant of Citizenship for Exceptional Services Regulations (S.L. 188.4)
+# Grant of Citizenship for Exceptional Services Regulations (S.L. 188.04)
 
-*1*
-
-SERVICES REGULATIONS [S.L. 188.04 SUBSIDIARY LEGISLATION 188.04
+**SUBSIDIARY LEGISLATION 188.04**
 
 **GRANT OF CITIZENSHIP FOR EXCEPTIONAL**
 
@@ -52,13 +50,9 @@ In these regulations, unless the context otherwise requires -
 
 "designated competent body" means the locally registered entity in Malta, specified in the First Schedule, that is capable to determine whether an individual is recognised in a particular field as a leading talent, or has demonstrated exceptional promise and is likely to become a leading talent;
 
-"Evaluation Board", hereinafter referred to as "the Board", means the group of individuals appointed in accordance with these regulations to evaluate applications made under article 10(9)(c) of the [S.L. 188.04 SERVICES REGULATIONS
+"Evaluation Board", hereinafter referred to as "the Board", means the group of individuals appointed in accordance with these regulations to evaluate applications made under article 10(9)(c) of the Act and to prepare a reasoned opinion with regard to each application to be referred to the Minister responsible for Citizenship;
 
 \*Repealed by Legal Notice 437 of 2020. See Regulation 31 of the same Legal Notice.
-
-Act and to prepare a reasoned opinion with regard to each application to be referred to the Minister responsible for Citizenship;
-
-*2*
 
 "exceptional" means unusually excellent or manifestly superior at a local level, and refers primarily to contributions by scientists, researchers, athletes, sports people, artists and cultural performers;
 
@@ -90,11 +84,9 @@ The aim of these regulations is to prescribe the requirements and to administer 
 
 *S.L. 188.01*
 
-(a) documentary evidence certified by the competent body established of the exceptional services rendered to the SERVICES REGULATIONS [S.L. 188.04 Republic of Malta or to humanity, or if the individual claims that his naturalisation is of exceptional interest to the Republic of Malta, an endorsement in the form of a written report by the designated competent body attesting that the individual is recognised in a particular field as a leading talent, or has demonstrated exceptional promise and is likely to become a leading talent;
+(a) documentary evidence certified by the competent body established of the exceptional services rendered to the Republic of Malta or to humanity, or if the individual claims that his naturalisation is of exceptional interest to the Republic of Malta, an endorsement in the form of a written report by the designated competent body attesting that the individual is recognised in a particular field as a leading talent, or has demonstrated exceptional promise and is likely to become a leading talent;
 
 (b) a certificate in the form prescribed by Identity Malta from a reputable health system to the satisfaction of Identity Malta that the applicant is not suffering from any contagious disease and that the applicant is otherwise in good health;
-
-*3*
 
 (c) a police conduct certificate;
 
@@ -116,11 +108,7 @@ Provided that where the applicant is still a member of the household of his fami
 
 In addition to the qualifications and general requirements as set out in regulation 4, the minimum eligibility criteria shall be as follows:
 
-(a) a proper background verification of the applicant, through a due diligence process carried out by Identity Malta, attesting that the applicant is a fit and proper SERVICES REGULATIONS
-
-person to hold Maltese citizenship;
-
-*[S.L. 188.04 4*
+(a) a proper background verification of the applicant, through a due diligence process carried out by Identity Malta, attesting that the applicant is a fit and proper person to hold Maltese citizenship;
 
 (b) a police certificate issued by the Malta police as well as a police certificate issued by the competent authorities in the country of origin and in the country or countries of residence where the applicant has resided for a period of more than six months during the last ten years, or in exceptional cases where it is proved to the satisfaction of Identity Malta that such a certificate is not obtainable, a sworn affidavit made by the applicant, declaring a clean criminal record;
 
@@ -146,11 +134,9 @@ person to hold Maltese citizenship;
 
 (vi) abduction;
 
-(h) the applicant shall not be an individual who at SERVICES REGULATIONS [S.L. 188.04 any time was found guilty, or, at the time of the application, is being interrogated and suspected, or has criminal charges brought against him for any criminal offence, other than an involuntary offence, punishable with more than one year imprisonment. The applicant shall attach with his application a sworn declaration before a commissioner for oaths, lawyer or notary public that the said information that he has provided is true and correct;
+(h) the applicant shall not be an individual who at any time was found guilty, or, at the time of the application, is being interrogated and suspected, or has criminal charges brought against him for any criminal offence, other than an involuntary offence, punishable with more than one year imprisonment. The applicant shall attach with his application a sworn declaration before a commissioner for oaths, lawyer or notary public that the said information that he has provided is true and correct;
 
 (i) where a document is required to be produced under these regulations in support of an application:
-
-*5*
 
 (i) such document must be an original document or if not an original, it must be a certified copy; and
 
@@ -176,11 +162,7 @@ shall not be approved for citizenship under article 10(9)(c) of the Act, unless 
 
 ## 7. Evaluation Board.
 
-(1) The Board shall evaluate applications made under article 10(9)(c) of the Act and prepare a reasoned opinion with regard to each application to be referred to the Minister responsible [S.L. 188.04 SERVICES REGULATIONS
-
-for Citizenship.
-
-*6*
+(1) The Board shall evaluate applications made under article 10(9)(c) of the Act and prepare a reasoned opinion with regard to each application to be referred to the Minister responsible for Citizenship.
 
 (2) The composition of the Board shall vary in accordance with the nature of the application to be evaluated, and shall comprise -
 
@@ -204,11 +186,9 @@ for Citizenship.
 
 (9) The Minister shall appoint a Secretary to the Board and such other officers as may be necessary from time to time and shall determine their duties.
 
-(10) The Board shall have the power to request such technical advise as it may deem necessary for the proper performance of its SERVICES REGULATIONS [S.L. 188.04 functions.
+(10) The Board shall have the power to request such technical advise as it may deem necessary for the proper performance of its functions.
 
 (11) Any notice issued by the Board shall be signed by the Chairperson and counter-signed by the Secretary.
-
-*7*
 
 (12) The decisions of the Board shall be taken by a majority vote, shall be in writing and shall be signed by the Chairperson and by the Secretary.
 
@@ -236,10 +216,6 @@ for Citizenship.
 
 (d) an appropriate risk weighting has been carried out.
 
-*8*
-
-[S.L. 188.04 SERVICES REGULATIONS
-
 (5) Within thirty days from the date of the completion of the verification referred to above, the Citizenship Unit within Identity Malta shall further review the application submitted to it, shall carry out appropriate further background checks, if it deems necessary, and shall refer the particular application together with the supporting documentation and the due diligence report to be reviewed by the Board.
 
 (6) Within one hundred and eighty days from the receipt of the documents referred to above, the Board shall review the application and all documentation and reports submitted in support thereof and prepare a reasoned opinion to be referred to the Minister responsible for Citizenship. In order to properly carry out the task entrusted to it, the Board may interview the applicant in person and, or the legal representative of the designated competent body endorsing the applicant. In its written reasoned opinion, the Board shall indicate whether it deems that a particular application merits favourable consideration.
@@ -253,10 +229,6 @@ Without prejudice to the provisions of article 14 of the Act, the Minister shall
 ## 10. Disclosure.
 
 The Minister shall every year publish in the Gazette the names of all persons who during the previous twelve calendar months were granted Maltese citizenship by registration or naturalization including those persons who were granted Maltese citizenship for exceptional services.
-
-*9*
-
-SERVICES REGULATIONS [S.L. 188.04
 
 ## First Schedule
 
@@ -292,13 +264,9 @@ So help me God.
 
 ....................................
 
-Chairperson/Member [S.L. 188.04 SERVICES REGULATIONS
-
-## Third Schedule
+Chairperson/Member Third Schedule
 
 *Added by: L.N. 213 of 2019.*
-
-*10*
 
 (Regulation 4)
 

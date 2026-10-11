@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (The States of Guernsey) Order (S.L. 123.143)
 
-*1*
-
-(TAXES ON INCOME) (THE STATES OF GUERNSEY) [S.L.123.143
-
 **SUBSIDIARY LEGISLATION 123.143**
 
 DOUBLE TAXATION RELIEF (TAXES ON INCOME) (THE STATES OF GUERNSEY) ORDER
@@ -44,8 +40,6 @@ It is hereby declared:
 (c) that the Convention has entered into force on the 10 March 2013.
 
 \*https://cfr.gov.mt/en/inlandrevenue/itu/Documents/Malta%20-%20Guern-sey%20DTA%20(synthesised%20text).pdf
-
-2 [S.L.123.143 (TAXES ON INCOME) (THE STATES OF GUERNSEY)
 
 ## SCHEDULE — Article 2 — AGREEMENT BETWEEN
 
@@ -109,9 +103,7 @@ The Agreement shall apply also to any identical or substantially similar taxes t
 
 (a) the term "Guernsey" means the States of Guernsey and, when used in a geographical sense, means Guernsey, Alderney and Herm, including the territorial sea adjacent to those islands, in accordance with international law;
 
-(b) the term "Malta" means the Republic of Malta and, when used in a (TAXES ON INCOME) (THE STATES OF GUERNSEY) [S.L.123.143 3
-
-geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
+(b) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
 
 (c) the term "collective investment scheme" means any pooled investment vehicle, irrespective of legal form;
 
@@ -147,9 +139,7 @@ geographical sense, means the Island of Malta, the Island of Gozo and the other 
 
 **RESIDENT**
 
-\1. For the purposes of this Agreement, the term "resident of a Party" means any person who, under the laws of that Party, is liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature, 4 [S.L.123.143 (TAXES ON INCOME) (THE STATES OF GUERNSEY)
-
-and also includes that Party and any political subdivision or local authority thereof, any pension fund or pension scheme recognised by that Party and a person other than an individual which is incorporated or constituted under the laws of a Party.
+\1. For the purposes of this Agreement, the term "resident of a Party" means any person who, under the laws of that Party, is liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature, and also includes that Party and any political subdivision or local authority thereof, any pension fund or pension scheme recognised by that Party and a person other than an individual which is incorporated or constituted under the laws of a Party.
 
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Parties, then his status shall be determined as follows:
 
@@ -193,9 +183,7 @@ Notwithstanding the preceding provisions of this Article, the term "permanent es
 
 (c) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of processing by another enterprise;
 
-(d) the maintenance of a fixed place of business solely for the purpose of (TAXES ON INCOME) (THE STATES OF GUERNSEY) [S.L.123.143 5
-
-purchasing goods or merchandise, or of collecting information, for the enterprise;
+(d) the maintenance of a fixed place of business solely for the purpose of purchasing goods or merchandise, or of collecting information, for the enterprise;
 
 (e) the maintenance of a fixed place of business solely for the purpose of carrying on, for the enterprise, any other activity of a preparatory or auxiliary character;
 
@@ -229,9 +217,7 @@ The fact that a company which is a resident of a Party controls or is controlled
 
 **BUSINESS PROFITS**
 
-\1. The profits of an enterprise of a Party shall be taxable only in that Party unless the enterprise carries on business in the other Party through a permanent 6 [S.L.123.143 (TAXES ON INCOME) (THE STATES OF GUERNSEY)
-
-establishment situated therein. If the enterprise carries on business as aforesaid, the profits of the enterprise may be taxed in the other Party but only so much of them as is attributable to that permanent establishment.
+\1. The profits of an enterprise of a Party shall be taxable only in that Party unless the enterprise carries on business in the other Party through a permanent establishment situated therein. If the enterprise carries on business as aforesaid, the profits of the enterprise may be taxed in the other Party but only so much of them as is attributable to that permanent establishment.
 
 \2. Subject to the provisions of paragraph 3, where an enterprise of a Party carries on business in the other Party through a permanent establishment situated therein, there shall in each Party be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment.
 
@@ -263,8 +249,6 @@ where such rental profits or profits from such use, maintenance or rental, as th
 
 \3. The provisions of paragraph 1 shall also apply to profits from the participation in a pool, a joint business or an international operating agency.
 
-(TAXES ON INCOME) (THE STATES OF GUERNSEY) [S.L.123.143 7
-
 **Article 9**
 
 **ASSOCIATED ENTERPRISES**
@@ -291,8 +275,6 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \5. Where a company which is a resident of a Party derives profits or income from the other Party, that other Party may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other Party or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment situated in that other Party, nor subject the company’s undistributed profits to a tax on the company’s undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other Party.
 
-8 [S.L.123.143 (TAXES ON INCOME) (THE STATES OF GUERNSEY)
-
 **Article 11**
 
 **INTEREST**
@@ -317,9 +299,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \3. The provisions of paragraph 1 shall not apply if the beneficial owner of the royalties, being a resident of a Party, carries on business in the other Party in which the royalties arise, through a permanent establishment situated therein and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
-\4. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article (TAXES ON INCOME) (THE STATES OF GUERNSEY) [S.L.123.143 9
-
-shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Party, due regard being had to the other provisions of this Agreement.
+\4. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Party, due regard being had to the other provisions of this Agreement.
 
 \5. Royalties shall be deemed to arise in a Party when the payer is a resident of that Party. Where, however, the person paying the royalties, whether he is a resident of a Party or not, has in a Party a permanent establishment in connection with which the liabilities to pay the royalties was incurred, and such royalties are borne by such permanent establishment, then such royalties shall be deemed to arise in the Party in which the permanent establishment is situated.
 
@@ -352,8 +332,6 @@ shall apply only to the last-mentioned amount. In such case, the excess part of 
 (c) the remuneration is not borne by a permanent establishment which the employer has in the other Party.
 
 \3. Notwithstanding the preceding provisions of this Article, remuneration derived in respect of an employment exercised aboard a ship or aircraft operated in international traffic by an enterprise of a Party may be taxed in that Party.
-
-10 [S.L.123.143 (TAXES ON INCOME) (THE STATES OF GUERNSEY)
 
 **Article 15**
 
@@ -395,8 +373,6 @@ Pensions and other similar remuneration (including lump sum payments) arising in
 
 Payments which a student or business apprentice who is or was immediately before visiting a Party a resident of the other Party and who is present in the first-mentioned Party solely for the purpose of his education or training receives for the purpose of his maintenance, education or training shall not be taxed in that Party, provided that such payments arise from sources outside that Party.
 
-(TAXES ON INCOME) (THE STATES OF GUERNSEY) [S.L.123.143 11
-
 **Article 20**
 
 **OTHER INCOME**
@@ -429,9 +405,7 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 \1. Nationals of a Party shall not be subjected in the other Party to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other Party in the same circumstances, in particular with respect to residence, are or may be subjected. This provision shall, notwithstanding the provisions of Article 1, also apply to persons who are not residents of one or both of the Parties.
 
-\2. The taxation on a permanent establishment which an enterprise of a Party has in the other Party shall not be less favourably levied in that other Party than the taxation levied on enterprises of that other Party carrying on the same activities. This provision shall not be construed as obliging a Party to grant to residents of the other Party any personal allowances, reliefs and reductions for taxation purposes on 12 [S.L.123.143 (TAXES ON INCOME) (THE STATES OF GUERNSEY)
-
-account of civil status or family responsibilities which it grants to its own residents.
+\2. The taxation on a permanent establishment which an enterprise of a Party has in the other Party shall not be less favourably levied in that other Party than the taxation levied on enterprises of that other Party carrying on the same activities. This provision shall not be construed as obliging a Party to grant to residents of the other Party any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
 
 \3. Except where the provisions of paragraph 1 of Article 9, paragraph 4 of Article 11, or paragraph 4 of Article 12 apply, interest, royalties and other disbursements paid by an enterprise of a Party to a resident of the other Party shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned Party.
 
@@ -457,9 +431,7 @@ account of civil status or family responsibilities which it grants to its own re
 
 \1. The competent authorities of the Parties shall exchange such information as is foreseeably relevant for carrying out the provisions of this Agreement or to the administration or enforcement of the domestic laws concerning taxes of every kind and description imposed on behalf of the Parties, insofar as the taxation thereunder is not contrary to the Agreement. The exchange of information is not restricted by Articles 1 and 2.
 
-\2. Any information received under paragraph 1 by a Party shall be treated as (TAXES ON INCOME) (THE STATES OF GUERNSEY) [S.L.123.143 13
-
-secret in the same manner as information obtained under the domestic laws of that Party and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to the taxes referred to in paragraph 1, or the oversight of the above. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
+\2. Any information received under paragraph 1 by a Party shall be treated as secret in the same manner as information obtained under the domestic laws of that Party and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to the taxes referred to in paragraph 1, or the oversight of the above. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
 
 \3. In no case shall the provisions of paragraphs 1 and 2 be construed so as to impose on a Party the obligation:
 
@@ -491,9 +463,7 @@ Nothing in this Agreement shall affect the fiscal privileges of members of diplo
 
 **TERMINATION**
 
-This Agreement shall remain in force until terminated by a Party. Either Party may terminate the Agreement by giving written notice of termination at least six months before the end of any calendar year beginning after the expiration of a period of five 14 [S.L.123.143 (TAXES ON INCOME) (THE STATES OF GUERNSEY)
-
-years from the date of its entry into force. In such event, the Agreement shall cease to have effect in respect of taxes on income derived during any taxable period or accounting period, as the case may be, beginning on or after the first day of January immediately following the date on which the notice of termination is given.
+This Agreement shall remain in force until terminated by a Party. Either Party may terminate the Agreement by giving written notice of termination at least six months before the end of any calendar year beginning after the expiration of a period of five years from the date of its entry into force. In such event, the Agreement shall cease to have effect in respect of taxes on income derived during any taxable period or accounting period, as the case may be, beginning on or after the first day of January immediately following the date on which the notice of termination is given.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto have signed this Agreement.
 

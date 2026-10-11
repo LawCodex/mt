@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Rulings (Income Tax and Duty Treatment of Mergers and Divisions) Rules (S.L. 123.140)
 
-*1*
-
-OF MERGERS AND DIVISIONS) [S.L.123.140
-
 **SUBSIDIARY LEGISLATION 123.140**
 
 RULINGS (INCOME TAX AND DUTY TREATMENT OF MERGERS AND DIVISIONS) RULES
@@ -57,13 +53,9 @@ Provided that the Commissioner is, in his absolute discretion, satisfied that th
 
 ## 3. Conditions.
 
-In granting his permission for the purposes of these rules, the Commissioner shall, in his absolute discretion, impose such conditions as he may deem fit and reasonable, and such conditions shall apply to any company involved in the merger or division as the case may be, to any shareholder thereof and to any other person (whether or not in existence at the time of the application for the ruling), as may be indicated by the Commissioner in the particular ruling, and shall be operative notwithstanding any other provisions of the Income Tax Act and the Duty on Documents and Transfers [S.L.123.140 OF MERGERS AND DIVISIONS)
+In granting his permission for the purposes of these rules, the Commissioner shall, in his absolute discretion, impose such conditions as he may deem fit and reasonable, and such conditions shall apply to any company involved in the merger or division as the case may be, to any shareholder thereof and to any other person (whether or not in existence at the time of the application for the ruling), as may be indicated by the Commissioner in the particular ruling, and shall be operative notwithstanding any other provisions of the Income Tax Act and the Duty on Documents and Transfers Act. Any resulting ruling specified in rule 2 shall be void if such conditions are at any time not complied with.
 
 *Cap. 123. Cap. 364.*
-
-Act. Any resulting ruling specified in rule 2 shall be void if such conditions are at any time not complied with.
-
-*2*
 
 ## 4. Fee.
 

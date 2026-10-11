@@ -1,6 +1,6 @@
 ---
 title: "Monitoring Board for Detained Persons Regulations"
-identifier: "S.L. 217.8"
+identifier: "S.L. 217.08"
 eli: "https://legislation.mt/eli/sl/217.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/217.8/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Monitoring Board for Detained Persons Regulations (S.L. 217.8)
+# Monitoring Board for Detained Persons Regulations (S.L. 217.08)
 
 **SUBSIDIARY LEGISLATION 217.08**
 

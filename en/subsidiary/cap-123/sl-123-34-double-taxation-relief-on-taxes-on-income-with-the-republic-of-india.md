@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Republic of India Order (S.L. 123.34)
 
-*1*
-
-(TAXES ON INCOME) (REPUBLIC OF INDIA) [S.L.123.34
-
 **SUBSIDIARY LEGISLATION 123.34**
 
 DOUBLE TAXATION RELIEF (TAXES ON INCOME) (REPUBLIC OF INDIA) ORDER
@@ -44,8 +40,6 @@ It is hereby declared:
 (c) that the Agreement shall enter into force on such date as may be announced by notice in the Government Gazette.\*
 
 \*the Agreement came into force on the 7th February, 2014 - see L.N. 67 of 2014.
-
-2 [S.L.123.34 (TAXES ON INCOME) (REPUBLIC OF INDIA)
 
 ## SCHEDULE — Article 2 — AGREEMENT
 
@@ -105,8 +99,6 @@ The Agreement shall apply also to any identical or substantially similar taxes t
 
 \1. For the purposes of this Agreement, unless the context otherwise requires: a) the term "India" means the territory of India and includes the territorial sea and airspace above it, as well as any other maritime zone in which India has sovereign rights, other rights and jurisdiction, according to the Indian law and in accordance with international law, including the U.N. Convention on the Law of the Sea;
 
-(TAXES ON INCOME) (REPUBLIC OF INDIA) [S.L.123.34 3
-
 b) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
 
 c) the terms "Contracting State" and "the other Contracting State" mean the Republic of India or Malta as the context requires;
@@ -141,9 +133,7 @@ l) the term "fiscal year" means:
 
 (ii) in the case of Malta: the year immediately preceding the ‘year of assessment’ as defined in the Income Tax Act (Cap. 123).
 
-\2. As regards the application of the Agreement at any time by a Contracting State any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that State for the purposes of the taxes to which the Agreement applies and any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that 4 [S.L.123.34 (TAXES ON INCOME) (REPUBLIC OF INDIA)
-
-State.
+\2. As regards the application of the Agreement at any time by a Contracting State any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that State for the purposes of the taxes to which the Agreement applies and any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State.
 
 **Article 4**
 
@@ -183,8 +173,6 @@ f) a sales outlet;
 
 g) a farm, plantation or other place where agricultural, forestry, plantation or related activities are carried on; and
 
-(TAXES ON INCOME) (REPUBLIC OF INDIA) [S.L.123.34 5
-
 h) a mine, an oil or gas well, a quarry or any other place of extraction of natural resources including an offshore drilling site.
 
 \3. (a) A building site or construction, installation or assembly project or supervisory activities in connection therewith constitutes a permanent establishment only if such site, project or activities last more than six months.
@@ -214,8 +202,6 @@ a) has and habitually exercises in that State an authority to conclude contracts
 b) has no such authority, but habitually maintains in the first-mentioned State a stock of goods or merchandise from which he regularly delivers goods or merchandise on behalf of the enterprise; or
 
 c) habitually secures orders in the first-mentioned State, wholly or almost wholly for the enterprise itself.
-
-6 [S.L.123.34 (TAXES ON INCOME) (REPUBLIC OF INDIA)
 
 ## 6.
 
@@ -249,8 +235,6 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \2. Subject to the provisions of paragraph 3, where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment.
 
-(TAXES ON INCOME) (REPUBLIC OF INDIA) [S.L.123.34 7
-
 \3. In determining the profits of a permanent establishment, there shall be allowed as deductions expenses which are incurred for the purposes of the permanent establishment, including executive and general administrative expenses so incurred, whether in the State in which the permanent establishment is situated or elsewhere, in accordance with the provisions of and subject to the limitations of the tax laws of that State. However, no such deduction shall be allowed in respect of amounts, if any, paid (otherwise than towards reimbursement of actual expenses) by the permanent establishment to the head office of the enterprise or any of its other offices, by way of royalties, fees or other similar payments in return for the use of patents, know-how or other rights, or by way of commission or other charges for specific services performed or for management, or, except in the case of banking enterprises, by way of interest on moneys lent to the permanent establishment. Likewise, no account shall be taken, in the determination of the profits of a permanent establishment, for amounts charged (otherwise than toward reimbursement of actual expenses), by the permanent establishment to the head office of the enterprise or any of its other offices, by way of royalties, fees or other similar payments in return for the use of patents, know-how or other rights, or by way of commission or other charges for specific services performed or for management, or, except in the case of a banking enterprise, by way of interest on moneys lent to the head office of the enterprise or any of its other offices.
 
 \4. Insofar as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph 2 shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary; the method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles contained in this Article.
@@ -269,9 +253,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \2. Profits derived by a transportation enterprise which is a resident of a Contracting State from the use, maintenance, or rental of containers (including trailers and other equipment for the transport of containers) used for the transport of goods or merchandise in international traffic shall be taxable only in that Contracting State unless the containers are used solely within the other Contracting State.
 
-\3. For the purposes of this Article interest on investments directly connected with the operation of ships or aircraft in international traffic shall be regarded as profits derived from the operation of such ships or aircraft if they are integral to the carrying on of such business, and the provisions of Article 11 shall not apply in 8 [S.L.123.34 (TAXES ON INCOME) (REPUBLIC OF INDIA)
-
-relation to such interest.
+\3. For the purposes of this Article interest on investments directly connected with the operation of ships or aircraft in international traffic shall be regarded as profits derived from the operation of such ships or aircraft if they are integral to the carrying on of such business, and the provisions of Article 11 shall not apply in relation to such interest.
 
 \4. The provisions of paragraph 1 shall also apply to profits from the participation in a pool, a joint business or an international operating agency.
 
@@ -303,9 +285,7 @@ b) if the dividends are paid by a company that is a resident of Malta to a resid
 
 This paragraph shall not affect the taxation of the company in respect of the profits out of which the dividends are paid.
 
-\3. The term "dividends" as used in this Article means income from shares or other rights, not being debt-claims, participating in profits, as well as income from (TAXES ON INCOME) (REPUBLIC OF INDIA) [S.L.123.34 9
-
-other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
+\3. The term "dividends" as used in this Article means income from shares or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
 
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
@@ -331,9 +311,7 @@ c) any other institution as may be agreed upon from time to time between the com
 
 \4. The term "interest" as used in this Article means income from debt claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor's profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
-\5. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal 10 [S.L.123.34 (TAXES ON INCOME) (REPUBLIC OF INDIA)
-
-services from a fixed base situated therein, and the debt claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
+\5. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \6. Interest shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment or fixed base, then such interest shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
@@ -352,8 +330,6 @@ services from a fixed base situated therein, and the debt claim in respect of wh
 (b) The term "fees for technical services" as used in this Article means payments of any kind, other than those mentioned in Articles 14 and 15 of this Agreement as consideration for managerial or technical or consultancy services, including the provision of services of technical or other personnel.
 
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties or fees for technical services being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties or fees for technical services arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties or fees for technical services are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
-
-(TAXES ON INCOME) (REPUBLIC OF INDIA) [S.L.123.34 11
 
 \5. (a) Royalties and fees for technical services shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority, or a resident of that State. Where, however, the person paying the royalties or fees for technical services, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the liability to pay the royalties or fees for technical services was incurred, and such royalties or fees for technical services are borne by such permanent establishment or fixed base, then such royalties or fees for technical services shall be deemed to arise in the Contracting State in which the permanent establishment or fixed base is situated.
 
@@ -379,9 +355,7 @@ services from a fixed base situated therein, and the debt claim in respect of wh
 
 **INDEPENDENT PERSONAL SERVICES**
 
-\1. Income derived by an individual who is a resident of a Contracting State 12 [S.L.123.34 (TAXES ON INCOME) (REPUBLIC OF INDIA)
-
-from the performance of professional services or other independent activities of a similar character shall be taxable only in that State except in the following circumstances when such income may also be taxed in the other Contracting State: a) if he has a fixed base regularly available to him in the other Contracting State for the purpose of performing his activities; in that case, only so much of the income as is attributable to that fixed base may be taxed in that other State; or
+\1. Income derived by an individual who is a resident of a Contracting State from the performance of professional services or other independent activities of a similar character shall be taxable only in that State except in the following circumstances when such income may also be taxed in the other Contracting State: a) if he has a fixed base regularly available to him in the other Contracting State for the purpose of performing his activities; in that case, only so much of the income as is attributable to that fixed base may be taxed in that other State; or
 
 b) if his stay in the other Contracting State is for a period or periods amounting to or exceeding in the aggregate 183 days in any twelve-month period commencing or ending in the fiscal year concerned; in that case, only so much of the income as is derived from his activities performed in that other State may be taxed in that other State.
 
@@ -413,9 +387,7 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 **ARTISTES AND SPORTSPERSONS**
 
-\1. Notwithstanding the provisions of Articles 14 and 15, income derived by a resident of a Contracting State as an entertainer, such as a theatre, motion picture, (TAXES ON INCOME) (REPUBLIC OF INDIA) [S.L.123.34 13
-
-radio or television artiste, or a musician, or as a sportsperson, from personal activities as such exercised in the other Contracting State, may be taxed in that other State.
+\1. Notwithstanding the provisions of Articles 14 and 15, income derived by a resident of a Contracting State as an entertainer, such as a theatre, motion picture, radio or television artiste, or a musician, or as a sportsperson, from personal activities as such exercised in the other Contracting State, may be taxed in that other State.
 
 \2. Where income in respect of personal activities exercised by an entertainer or a sportsperson in his capacity as such accrues not to the entertainer or sportsperson himself but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the entertainer or sportsperson are exercised.
 
@@ -447,8 +419,6 @@ radio or television artiste, or a musician, or as a sportsperson, from personal 
 
 \3. The provisions of Articles 15, 16, 17 and 18 shall apply to salaries, wages and other similar remuneration and to pensions in respect of services rendered in connection with a business carried on by a Contracting State or a political subdivision or a local authority thereof.
 
-14 [S.L.123.34 (TAXES ON INCOME) (REPUBLIC OF INDIA)
-
 **Article 20**
 
 **PROFESSORS, TEACHERS AND RESEARCH SCHOLARS**
@@ -476,8 +446,6 @@ radio or television artiste, or a musician, or as a sportsperson, from personal 
 \2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \3. Notwithstanding the provisions of paragraph 1, if a resident of a Contracting State derives income from sources within the other Contracting State in the form of lotteries, crossword puzzles, races including horse races, card games and other games of any sort or gambling or betting of any form or nature whatsoever, such income may be taxed in the other Contracting State.
-
-(TAXES ON INCOME) (REPUBLIC OF INDIA) [S.L.123.34 15
 
 **Article 23**
 
@@ -507,9 +475,7 @@ b) Where in accordance with any provision of the Agreement, income derived by a 
 
 \2. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favorably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents. This provision shall not be construed as preventing a Contracting State from charging the profits of a permanent establishment which a company of the other Contracting State has in the first mentioned State at a rate of tax which is higher than that imposed on the profits of a similar company of the first mentioned Contracting State, nor as being in conflict with the provisions of paragraph 3 of Article 7.
 
-\3. Except where the provisions of paragraph 1 of Article 9, paragraph 7 of 16 [S.L.123.34 (TAXES ON INCOME) (REPUBLIC OF INDIA)
-
-Article 11, or paragraph 6 of Article 12, apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
+\3. Except where the provisions of paragraph 1 of Article 9, paragraph 7 of Article 11, or paragraph 6 of Article 12, apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
 
 \4. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
 
@@ -533,9 +499,7 @@ Article 11, or paragraph 6 of Article 12, apply, interest, royalties and other d
 
 \1. The competent authorities of the Contracting States shall exchange such information (including documents or authenticated copies of the documents) as is foreseeably relevant for carrying out the provisions of this Agreement or to the administration or enforcement of the domestic laws concerning taxes of every kind and description, imposed on behalf of the Contracting States, or of their political subdivisions or local authorities, insofar as the taxation thereunder is not contrary to the Agreement. The exchange of information is not restricted by Articles 1 and 2.
 
-\2. Any information received under paragraph 1 by a Contracting State shall be (TAXES ON INCOME) (REPUBLIC OF INDIA) [S.L.123.34 17
-
-treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to the taxes referred to in paragraph 1, or the oversight of the above. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions. Notwithstanding the foregoing, information received by a Contracting State may be used for other purposes when such information may be used for such other purposes under the laws of both States and the competent authority of the supplying State authorizes such use.
+\2. Any information received under paragraph 1 by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to the taxes referred to in paragraph 1, or the oversight of the above. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions. Notwithstanding the foregoing, information received by a Contracting State may be used for other purposes when such information may be used for such other purposes under the laws of both States and the competent authority of the supplying State authorizes such use.
 
 \3. In no case shall the provisions of paragraphs 1 and 2 be construed so as to impose on a Contracting State the obligation:
 
@@ -561,9 +525,7 @@ b) to supply information (including documents or authenticated copies of the doc
 
 **MEMBERS OF DIPLOMATIC MISSIONS AND CONSULAR POSTS**
 
-Nothing in this Agreement shall affect the fiscal privileges of members of diplomatic missions or consular posts under the general rules of international law or 18 [S.L.123.34 (TAXES ON INCOME) (REPUBLIC OF INDIA)
-
-under the provisions of special agreements.
+Nothing in this Agreement shall affect the fiscal privileges of members of diplomatic missions or consular posts under the general rules of international law or under the provisions of special agreements.
 
 **Article 29**
 
@@ -600,8 +562,6 @@ George Vella Preneet Kaur
 For the Government For the Government of
 
 of Malta the Republic of India
-
-(TAXES ON INCOME) (REPUBLIC OF INDIA) [S.L.123.34 19
 
 **PROTOCOL**
 

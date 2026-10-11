@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master in Traditional Chinese Medicine and Culture - M. TCM - under the auspices of the Centre for Traditional Chinese Medicine (S.L. 327.537)
 
-CINE AND CULTURE - M. TCM - UNDER THE AUSPICES OF
-
-*1*
-
-THE CENTRE FOR TRADITIONAL CHINESE MEDICINE [S.L.327.537
-
 **SUBSIDIARY LEGISLATION 327.537**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER IN**
@@ -67,11 +61,7 @@ These bye-laws shall be applicable from October 2019 or later.
 
 (2) Applicants not in possession of a first degree in the health care professions but who have other qualifications in Traditional Chinese Medicine of a level acceptable to the University Admissions Board and sufficient to qualify for registration as Traditional Chinese Medicine practitioners (or acupuncturists) with the national registering body (Council for Professions Complementary to Medicine or equivalent EU body) shall also be considered.
 
-(3) Applicants not in possession of a first degree but who have CINE AND CULTURE - M. TCM - UNDER THE AUSPICES OF [S.L.327.537 THE CENTRE FOR TRADITIONAL CHINESE MEDICINE
-
-other qualifications and experience in a health care setting shall also be considered. Such applicants shall be called for an interview to determine whether they will be able to follow the course with profit.
-
-*2*
+(3) Applicants not in possession of a first degree but who have other qualifications and experience in a health care setting shall also be considered. Such applicants shall be called for an interview to determine whether they will be able to follow the course with profit.
 
 (4) The interviewing board appointed by the Board shall be composed of at least three members.
 
@@ -113,13 +103,7 @@ The Course shall extend over a period of three semesters of full-time study or t
 
 (1) Students shall be required to have regular contact with their supervisor.
 
-(2) Supervisors shall submit to the Board of Studies progress CINE AND CULTURE - M. TCM - UNDER THE AUSPICES OF
-
-*3*
-
-THE CENTRE FOR TRADITIONAL CHINESE MEDICINE [S.L.327.537
-
-reports for each student under their supervision. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
+(2) Supervisors shall submit to the Board of Studies progress reports for each student under their supervision. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of Principal Regulations; and
 

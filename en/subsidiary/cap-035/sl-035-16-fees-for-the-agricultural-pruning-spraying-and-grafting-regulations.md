@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Fees for the Agricultural Pruning, Spraying and Grafting Regulations (S.L. 35.16)
 
-*1*
-
-SPRAYING AND GRAFTING [S.L.35.16
-
 **SUBSIDIARY LEGISLATION 35.16**
 
 **FEES FOR THE AGRICULTURAL PRUNING,**
@@ -40,10 +36,6 @@ The title of these regulations is the Fees for the Agricultural Pruning, Sprayin
 (2) A reduction of twenty-five per cent on the fees specified in the second column of the Schedule shall be granted to persons having a full-time farmer’s registration card issued to them by the Director of Agriculture. The fees so discounted shall be payable to the Director of Agriculture in respect of the services specified in the first column thereof.
 
 \*These Regulations have been repealed by Act XXXIV of 2023.
-
-**[S.L.35.16 SPRAYING AND GRAFTING**
-
-*2*
 
 Substituted by: SCHEDULE
 

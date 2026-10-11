@@ -1,6 +1,6 @@
 ---
 title: "Reciprocal Enforcement of Maintenance Orders - Manitoba (Canada) - Order"
-identifier: "S.L. 242.4"
+identifier: "S.L. 242.04"
 eli: "https://legislation.mt/eli/sl/242.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/242.4/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Reciprocal Enforcement of Maintenance Orders - Manitoba (Canada) - Order (S.L. 242.4)
-
-RECIPROCAL ENFORCEMENT OF MAINTENANCE
-
-*1*
-
-ORDERS - MANITOBA (CANADA) [S.L.242.04
+# Reciprocal Enforcement of Maintenance Orders - Manitoba (Canada) - Order (S.L. 242.04)
 
 **SUBSIDIARY LEGISLATION 242.04**
 

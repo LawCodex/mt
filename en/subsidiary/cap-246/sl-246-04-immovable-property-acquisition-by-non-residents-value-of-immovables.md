@@ -1,6 +1,6 @@
 ---
 title: "Immovable Property (Acquisition by Non-Residents) (Value of Immovables) Order"
-identifier: "S.L. 246.4"
+identifier: "S.L. 246.04"
 eli: "https://legislation.mt/eli/sl/246.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/246.4/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Immovable Property (Acquisition by Non-Residents) (Value of Immovables) Order (S.L. 246.4)
-
-IMMOVABLE PROPERTY (ACQUISITION BY
-
-*1*
-
-NON-RESIDENTS) (VALUE OF IMMOVABLES) [S.L.246.04
+# Immovable Property (Acquisition by Non-Residents) (Value of Immovables) Order (S.L. 246.04)
 
 **SUBSIDIARY LEGISLATION 246.04**
 

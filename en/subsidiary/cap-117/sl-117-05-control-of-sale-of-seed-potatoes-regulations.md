@@ -1,6 +1,6 @@
 ---
 title: "Control of Sale of Seed Potatoes Regulations"
-identifier: "S.L. 117.5"
+identifier: "S.L. 117.05"
 eli: "https://legislation.mt/eli/sl/117.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/117.5/20231017/eng"
 retrieved: 2026-10-12
 ---
 
-# Control of Sale of Seed Potatoes Regulations (S.L. 117.5)
+# Control of Sale of Seed Potatoes Regulations (S.L. 117.05)
 
 **SUBSIDIARY LEGISLATION 117.05**
 

@@ -1,6 +1,6 @@
 ---
 title: "Appointment of Central Bank as Agent Order"
-identifier: "S.L. 233.5"
+identifier: "S.L. 233.05"
 eli: "https://legislation.mt/eli/sl/233.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/233.5/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Appointment of Central Bank as Agent Order (S.L. 233.5)
+# Appointment of Central Bank as Agent Order (S.L. 233.05)
 
 **SUBSIDIARY LEGISLATION 233.05**
 

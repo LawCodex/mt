@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Oil and Hazardous and Noxious Substances Pollution Preparedness, Response and Co-operation Regulations (S.L. 234.59)
 
-POLLUTION PREPAREDNESS, RESPONSE
-
-*1*
-
-AND CO-OPERATION [S.L. 234.59
-
 **SUBSIDIARY LEGISLATION 234.59**
 
 OIL AND HAZARDOUS AND NOXIOUS SUBSTANCES POLLUTION PREPAREDNESS, RESPONSE AND CO-
@@ -63,12 +57,6 @@ In these regulations, unless the context otherwise requires:
 
 "National Competent Authority" means the national competent authority appointed under regulation 4;
 
-**POLLUTION PREPAREDNESS, RESPONSE**
-
-**AND CO-OPERATION**
-
-*[S.L. 234.59 2*
-
 "National Contingency Plan" means the National Marine Pollution Contingency Plan prepared by the Authority, as amended from time to time;
 
 "OPRC Convention" means the International Convention on Oil Pollution Preparedness, Response and Co-operation signed in London on 30th November, 1990;
@@ -94,12 +82,6 @@ In these regulations, unless the context otherwise requires:
 ## 3. National Contingency Plan.
 
 (1) The National Contingency Plan, as may be amended from time to time, shall, unless otherwise provided in these regulations and notwithstanding the provision of any other law, form part of and be enforceable as part of the Laws of Malta.
-
-POLLUTION PREPAREDNESS, RESPONSE
-
-*3*
-
-AND CO-OPERATION [S.L. 234.59
 
 (2) The National Contingency Plan shall apply to all marine terminals, marine facilities and to all ships whilst they are in the internal and territorial waters of Malta.
 
@@ -133,13 +115,7 @@ The National Competent Authority shall have the power to:
 
 (2) The Authority shall have the emergency plans in place within twelve months from the date of coming into force of these regulations.
 
-(3) The provisions of sub-regulations (5), (6) and (9) of POLLUTION PREPAREDNESS, RESPONSE
-
-*4*
-
-[S.L. 234.59 AND CO-OPERATION
-
-regulation 7 shall apply, mutatis mutandis, to the Authority.
+(3) The provisions of sub-regulations (5), (6) and (9) of regulation 7 shall apply, mutatis mutandis, to the Authority.
 
 ## 7. Obligations of marine terminals and marine facilities.
 
@@ -167,13 +143,7 @@ Provided further that, where a marine terminal or marine facility comes into ope
 
 (5) A pollution emergency plan shall be revised every five years. Existing plans which are over five years old shall be revised within three years from the date of coming into force of these regulations and subsequently every five years.
 
-(6) Where any major changes occur which affect or could POLLUTION PREPAREDNESS, RESPONSE
-
-*5*
-
-AND CO-OPERATION [S.L. 234.59
-
-affect the material validity or effectiveness of the pollution emergency plan, the marine terminal operator or the marine facility operator in question must immediately inform the National Competent Authority and submit a new plan, or amendments to the existing plan, within three months of becoming aware of such change. Furthermore, the operator is solely responsible to ensure that the National Competent Authority is immediately notified of any changes in the names and contact numbers of any of the key persons identified in the pollution emergency plan.
+(6) Where any major changes occur which affect or could affect the material validity or effectiveness of the pollution emergency plan, the marine terminal operator or the marine facility operator in question must immediately inform the National Competent Authority and submit a new plan, or amendments to the existing plan, within three months of becoming aware of such change. Furthermore, the operator is solely responsible to ensure that the National Competent Authority is immediately notified of any changes in the names and contact numbers of any of the key persons identified in the pollution emergency plan.
 
 (7) Where the National Competent Authority considers that a pollution emergency plan or any amendments thereto are not:
 
@@ -193,13 +163,7 @@ the National Competent Authority may, after consultation with the marine termina
 
 (c) organise periodical and at least once a year, training and drills in pollution incidents:
 
-Provided that, a yearly schedule with the date and time of such training and drills must be given to the National POLLUTION PREPAREDNESS, RESPONSE
-
-*6*
-
-[S.L. 234.59 AND CO-OPERATION
-
-Competent Authority by not later than 31st January of each calendar year; and
+Provided that, a yearly schedule with the date and time of such training and drills must be given to the National Competent Authority by not later than 31st January of each calendar year; and
 
 (d) participate, when requested to do so by the National Competent Authority, and at least once a year, in the national pollution response and emergency training and drills organised periodically by the National Competent Authority. 8. (1) It shall be the duty of every marine terminal operator and marine facility operator who observe or are made aware of any polluting incident, to report without any delay such incident to the National Competent Authority.
 
@@ -225,13 +189,7 @@ Any marine terminal operator or marine facility operator who fails to comply wit
 
 ## 12. Provisions with respect to offences.
 
-(1) The provisions of these regulations establishing offences and punishments in respect thereof shall be without prejudice to any liability arising from any other law or regulations; and shall not bar the infliction of further punishments contemplated by such other POLLUTION PREPAREDNESS, RESPONSE
-
-*7*
-
-AND CO-OPERATION [S.L. 234.59
-
-law or regulations.
+(1) The provisions of these regulations establishing offences and punishments in respect thereof shall be without prejudice to any liability arising from any other law or regulations; and shall not bar the infliction of further punishments contemplated by such other law or regulations.
 
 (2) In particular, the provisions referred to in sub-regulation (1) shall not affect the application of any higher punishment under any other law or regulations.
 

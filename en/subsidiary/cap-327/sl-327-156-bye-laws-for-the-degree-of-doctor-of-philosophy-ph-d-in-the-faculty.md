@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy - Ph.D. - in the Faculty of Medicine and Surgery (S.L. 327.156)
 
-*1*
-
-AUSPICES OF THE FACULTY OF MEDICINE AND SURGERY [S.L.327.156
-
 **SUBSIDIARY LEGISLATION 327.156**
 
 BYE-LAWS FOR THE DEGREE OF DOCTOR OF PHILOSOPHY UNDER THE AUSPICES OF THE
@@ -69,13 +65,9 @@ These bye-laws shall be applicable from 1st March, 2019 onwards.
 
 (g) a Bachelor (Honours) degree in a health science obtained with at least Second Class Honours (Upper Division); or
 
-(h) qualifications which the Board deems comparable to the [S.L.327.156 AUSPICES OF THE FACULTY OF MEDICINE AND SURGERY
+(h) qualifications which the Board deems comparable to the degrees indicated in sub-paragraphs (a) to (g).
 
 \*These bye-laws have been repealed by Legal Notice 25 of 2024.
-
-**degrees indicated in sub-paragraphs (a) to (g).**
-
-*2*
 
 (2) Applicants in possession of the degree indicated in:
 
@@ -125,11 +117,7 @@ Students shall be required to defend their thesis orally. They are expected to m
 
 ## 13. Format of thesis.
 
-The Board shall approve and publish guidelines on the AUSPICES OF THE FACULTY OF MEDICINE AND SURGERY [S.L.327.156
-
-format and presentation of the thesis for the Degree.
-
-*3*
+The Board shall approve and publish guidelines on the format and presentation of the thesis for the Degree.
 
 ## 14. Copies.
 

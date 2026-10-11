@@ -1,6 +1,6 @@
 ---
 title: "Notaries’ Code of Ethics Regulations"
-identifier: "S.L. 55.9"
+identifier: "S.L. 55.09"
 eli: "https://legislation.mt/eli/sl/55.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/55.9/20180524/eng"
 retrieved: 2026-10-12
 ---
 
-# Notaries’ Code of Ethics Regulations (S.L. 55.9)
+# Notaries’ Code of Ethics Regulations (S.L. 55.09)
 
 **SUBSIDIARY LEGISLATION 55.09**
 

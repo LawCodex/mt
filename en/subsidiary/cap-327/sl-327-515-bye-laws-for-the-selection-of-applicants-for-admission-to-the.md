@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Selection of Applicants for Admission to the Bachelor of Science (Honours) (Applied Food and Nutritional Sciences) Degree Course under the auspices of the Faculty of Health (S.L. 327.515)
 
-BACHELOR OF SCIENCE (HONOURS) (APPLIED FOOD AND
-
-NUTRITIONAL SCIENCES) DEGREE COURSE UNDER THE
-
-*1*
-
-AUSPICES OF THE FACULTY OF HEALTH SCIENCES [S.L.327.515 SUBSIDIARY LEGISLATION 327.515
-
 BYE-LAWS FOR THE SELECTION OF APPLICANTS FOR ADMISSION TO THE BACHELOR OF
 
 **SCIENCE (HONOURS) (APPLIED FOOD AND**
@@ -63,15 +55,7 @@ Grade C at Advanced Level equated to Grade B at Intermediate Level
 
 Grade B at Advanced Level equated to Grade A at Intermediate Level
 
-Grade A at Advanced Level equated to Grade A BACHELOR OF SCIENCE (HONOURS) (APPLIED FOOD AND NUTRITIONAL SCIENCES) DEGREE COURSE UNDER THE
-
-**AUSPICES OF THE FACULTY OF HEALTH SCIENCES**
-
-*[S.L.327.515 2*
-
-at Intermediate Level
-
-(c) The qualification categories shall be the following:
+Grade A at Advanced Level equated to Grade A (c) The qualification categories shall be the following:
 
 1st Category: those with 2 'A’s in the primary subjects and an ‘A’ in the secondary subject
 
@@ -103,13 +87,7 @@ or those with 1 ‘A’ and 1 ‘C’ in the primary subjects and a ‘B’ in t
 
 9th Category: those with 2 ‘B’s in the primary subjects and a 'C' in the secondary subject
 
-BACHELOR OF SCIENCE (HONOURS) (APPLIED FOOD AND
-
-NUTRITIONAL SCIENCES) DEGREE COURSE UNDER THE
-
-*3*
-
-AUSPICES OF THE FACULTY OF HEALTH SCIENCES [S.L.327.515 and those with 1 ‘A’ and 1 ‘C’ in the primary subjects and a 'C' in the secondary subject
+and those with 1 ‘A’ and 1 ‘C’ in the primary subjects and a 'C' in the secondary subject
 
 10th Category: those with 2 ‘B’s in the primary subjects and a 'D' in the secondary subject
 
@@ -141,10 +119,6 @@ and those with 2 ‘C’s in the primary subjects and a 'B' in the secondary sub
 
 (2) Applicants in possession of the General Entry Requirements may offer a pass in the primary subjects and/or in the secondary subject either as part of the General Entry Requirements or in addition to the General Entry Requirements.
 
-BACHELOR OF SCIENCE (HONOURS) (APPLIED FOOD AND NUTRITIONAL SCIENCES) DEGREE COURSE UNDER THE [S.L.327.515 AUSPICES OF THE FACULTY OF HEALTH SCIENCES
-
-*4*
-
 (3) When applicants present more than one pass in the primary subjects and/or the secondary subject, the best grade shall be taken into consideration.
 
 (4) When applicants present passes in both Physics and Mathematics at Intermediate Level, the subject in which the highest grade was obtained shall be considered as the secondary subject.
@@ -175,13 +149,7 @@ Advanced Level Intermediate Level
 
 19th Category: those with 1 ‘A’ and 1 ‘D’ in the primary subjects and a 'B' in the secondary subject
 
-BACHELOR OF SCIENCE (HONOURS) (APPLIED FOOD AND
-
-NUTRITIONAL SCIENCES) DEGREE COURSE UNDER THE
-
-*5*
-
-AUSPICES OF THE FACULTY OF HEALTH SCIENCES [S.L.327.515 20th Category: those with 1 ‘A’ and 1 ‘D’ in the primary subjects and a 'C' in the secondary subject
+20th Category: those with 1 ‘A’ and 1 ‘D’ in the primary subjects and a 'C' in the secondary subject
 
 21st Category: those with 1 ‘A’ and 1 ‘D’ in the primary subjects and a 'D' in the secondary subject
 

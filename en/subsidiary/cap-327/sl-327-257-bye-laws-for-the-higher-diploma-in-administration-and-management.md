@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Higher Diploma in Administration and Management under the auspices of the Faculty of Economics, Management and Accountancy (S.L. 327.257)
 
-MENT UNDER THE AUSPICES OF THE FACULTY
-
-*1*
-
-OF ECONOMICS, MANAGEMENT AND ACCOUNTANCY [S.L.327.257
-
 **SUBSIDIARY LEGISLATION 327.257**
 
 **BYE-LAWS FOR THE HIGHER DIPLOMA IN**
@@ -71,13 +65,9 @@ These bye-laws shall be applicable for courses commencing in October 2011 or lat
 
 (2) Applicants admitted under regulation 6(c) of the Admission Regulations must be in possession of those qualifications and/or experience that would satisfy the Board of Studies that they have reached the academic standard required to follow the course with profit. The eligibility of such applicants shall be decided by the Board of Studies, following an interview conducted by an interviewing board appointed for the purpose.
 
-(3) The interviewing board appointed by the Board shall be MENT UNDER THE AUSPICES OF THE FACULTY
+(3) The interviewing board appointed by the Board shall be composed of at least three persons.
 
 \*These Regulations have been repealed by Legal Notice 216 of 2023.
-
-*2*
-
-[S.L.327.257 OF ECONOMICS, MANAGEMENT AND ACCOUNTANCY composed of at least three persons.
 
 ## 4. Course duration.
 

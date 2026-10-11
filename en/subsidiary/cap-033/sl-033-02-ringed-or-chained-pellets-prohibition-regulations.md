@@ -1,6 +1,6 @@
 ---
 title: "Ringed or Chained Pellets (Prohibition) Regulations"
-identifier: "S.L. 33.2"
+identifier: "S.L. 33.02"
 eli: "https://legislation.mt/eli/sl/33.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/33.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Ringed or Chained Pellets (Prohibition) Regulations (S.L. 33.2)
+# Ringed or Chained Pellets (Prohibition) Regulations (S.L. 33.02)
 
 **SUBSIDIARY LEGISLATION 33.02**
 

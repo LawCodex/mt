@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in Music Studies - Dip. Mus. - under the auspices of the Mediterranean Institute (S.L. 327.250)
 
-DIPLOMA IN MUSIC STUDIES - DIP. MUS. - UNDER THE
-
-*1*
-
-AUSPICES OF THE MEDITERRANEAN INSTITUTE [S.L.327.250
-
 **SUBSIDIARY LEGISLATION 327.250**
 
 **BYE-LAWS FOR THE DIPLOMA IN MUSIC**

@@ -1,6 +1,6 @@
 ---
 title: "Public Service Commission Disciplinary Regulations"
-identifier: "S.L. const.3"
+identifier: "S.L. const.03"
 eli: "https://legislation.mt/eli/sl/const.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,11 +15,9 @@ version: "https://legislation.mt/eli/sl/const.3/20231001/eng"
 retrieved: 2026-10-12
 ---
 
-# Public Service Commission Disciplinary Regulations (S.L. const.3)
+# Public Service Commission Disciplinary Regulations (S.L. const.03)
 
-*1*
-
-DISCIPLINARY [S.L.Const.03 Public Service Commission Disciplinary Regulations
+Public Service Commission Disciplinary Regulations
 
 ARRANGEMENT OF REGULATIONS  
 Regulations  
@@ -37,10 +35,6 @@ Recommendations of the Commission
 Part IX  Removal from Office  31 - 32  
 Part X  Miscellaneous  33 - 39  
 Schedule of Offences and Penalties
-
-*2*
-
-[S.L.Const.03 DISCIPLINARY
 
 **SUBSIDIARY LEGISLATION CONST.03**
 
@@ -98,11 +92,9 @@ The title of these regulations is Public Service Commission Disciplinary Regulat
 
 \*These regulations have been repealed by Legal Notice 165 of 2023. †refer to regulation 1(2) of these regulations as originally promulgated.
 
-*3*
-
-DISCIPLINARY [S.L.Const.03 "Head of Department" means the head of any department of Government that is listed in the Second Schedule to the Public Administration Act, but for the purpose of these regulations also includes:
-
 * Cap. 595.*
+
+"Head of Department" means the head of any department of Government that is listed in the Second Schedule to the Public Administration Act, but for the purpose of these regulations also includes:
 
 (a) Permanent Secretaries and Directors General and Directors other than Heads of Department;
 
@@ -142,10 +134,6 @@ DISCIPLINARY [S.L.Const.03 "Head of Department" means the head of any department
 
 ## Part II - General Provisions governing — Disciplinary Proceedings
 
-*4*
-
-[S.L.Const.03 DISCIPLINARY
-
 ### 3. Powers of the Commission.
 
 (1) Nothing in these regulations shall prevent the Commission, with the consent of the Prime Minister, from issuing directives and guidelines to delegated authorities concerning the interpretation and operation of these regulations and the exercise of any functions assigned to them under these regulations or delegated to them under article 110 of the Constitution.
@@ -176,9 +164,7 @@ it may report the case to the Prime Minister with the recommendation that action
 
 (c) neglect or dereliction of duty.
 
-*5*
-
-DISCIPLINARY [S.L.Const.03 (2) Without prejudice to the generality of the foregoing, an officer shall become liable to disciplinary proceedings under these regulations for any of the offences listed in the Schedule of Penalties and Offences.
+(2) Without prejudice to the generality of the foregoing, an officer shall become liable to disciplinary proceedings under these regulations for any of the offences listed in the Schedule of Penalties and Offences.
 
 *  Cap. 164. Cap. 260.*
 
@@ -203,10 +189,6 @@ DISCIPLINARY [S.L.Const.03 (2) Without prejudice to the generality of the forego
 (3) An officer answering disciplinary charges shall be entitled to the assistance of a person or persons of his choice in the preparation and presentation of his case and at every stage of any hearing before a Disciplinary Board or before the Commission, including any hearing on appeal.
 
 (4) An officer answering disciplinary charges shall be entitled, as soon as possible, to know the decision on any report or charge and the penalty, if any, imposed upon him by the Head of Department or the Commission. Such information shall be communicated in writing by the Head of Department or the Executive Secretary to the Commission, as the case may be.
-
-*6*
-
-[S.L.Const.03 DISCIPLINARY
 
 (5) Where an officer answering disciplinary charges is entitled to be notified of any matter or given any information under these regulations, such entitlement shall, unless these regulations prescribe otherwise, be held to have been discharged if the notification is delivered to the address most recently reported by the officer to his department as his home address, and if proof of delivery is retained.
 
@@ -234,11 +216,9 @@ Provided that the alleged victim may submit a written request to the Disciplinar
 
 (b) the alleged victim shall have the same right as the officer charged to access documentary evidence, to the findings of the Disciplinary Board, including the guilt or otherwise of the officer charged and the penalty, if any and to the final decision taken by the Head of Department or the Commission.
 
-*7*
+### 8. Proceedings by Head of the Public Service and Permanent Secretaries.
 
-DISCIPLINARY [S.L.Const.03 8. (1) Whenever the public officer against whom disciplinary proceedings are to be taken happens to be a Head of Department, or any other senior public officer to whom powers to exercise disciplinary action has been delegated, the Head of the Public Service shall take such action as a Head of Department is empowered to take under these regulations, or delegate such power to a Permanent Secretary.
-
-*Proceedings by Head of the Public Service and Permanent Secretaries.*
+(1) Whenever the public officer against whom disciplinary proceedings are to be taken happens to be a Head of Department, or any other senior public officer to whom powers to exercise disciplinary action has been delegated, the Head of the Public Service shall take such action as a Head of Department is empowered to take under these regulations, or delegate such power to a Permanent Secretary.
 
 (2) Where a Head of Department considers that there exist justifiable reasons or circumstances which make it inadvisable for him to involve himself in disciplinary action against a particular officer under his charge, he shall consult the Permanent Secretary of the respective Ministry, who may in turn, take such action as a Head of Department is empowered to take under these regulations:
 
@@ -262,11 +242,7 @@ Provided that the Prime Minister, acting on the recommendation of the Public Ser
 
 (3) An officer under summary suspension shall have the right to report back to work immediately the period of summary suspension in terms of sub-regulation (1) expires and if the Head of Department fails to initiate disciplinary proceedings against the officer in accordance with regulations 17 or 25, the officer shall be refunded the full amount of salary withheld during the period of summary suspension. No record of the summary suspension shall be entered in the officer’s record of service.
 
-(4) Where disciplinary action has been taken against a summarily suspended officer under these regulations and the [S.L.Const.03 DISCIPLINARY
-
-officer is subsequently found guilty of the charge, the period of summary suspension shall be taken into account in determining the penalty to be imposed and adjustments to his salary shall be made, as and where appropriate. Where, however, an officer is acquitted, he shall be refunded the full amount of salary withheld during the period of summary suspension.The officer shall also be entitled to a refund of any other additional earnings that would have been due during the period of the summary suspension.
-
-*8*
+(4) Where disciplinary action has been taken against a summarily suspended officer under these regulations and the officer is subsequently found guilty of the charge, the period of summary suspension shall be taken into account in determining the penalty to be imposed and adjustments to his salary shall be made, as and where appropriate. Where, however, an officer is acquitted, he shall be refunded the full amount of salary withheld during the period of summary suspension.The officer shall also be entitled to a refund of any other additional earnings that would have been due during the period of the summary suspension.
 
 ### 11. Forced leave.
 
@@ -296,11 +272,9 @@ the Head of Department may direct the officer to avail himself of vacation leave
 
 and the Head of Department considers it necessary and in the public interest that the officer should be suspended for precautionary purposes from the exercise of the powers and functions of his office, he shall make a recommendation to the Commission for the precautionary suspension of the officer, giving reasons in justification of his opinion:
 
-Provided that before proceeding with the recommendation, the Head of Department shall inform the officer of his intention and the officer charged shall be allowed five (5) working days from the date on which he is so informed to submit written representations to the Commission, giving justified reasons as to why he should not be suspended for precautionary purposes and regarding the proportion of salary to be withheld in terms of sub-regulation (5). DISCIPLINARY [S.L.Const.03 (2) The Commission shall consider the opinion of the Head of Department and the representations submitted by the officer, if any, and shall recommend to the Prime Minister whether or not the officer should be suspended for precautionary purposes.
+Provided that before proceeding with the recommendation, the Head of Department shall inform the officer of his intention and the officer charged shall be allowed five (5) working days from the date on which he is so informed to submit written representations to the Commission, giving justified reasons as to why he should not be suspended for precautionary purposes and regarding the proportion of salary to be withheld in terms of sub-regulation (5). (2) The Commission shall consider the opinion of the Head of Department and the representations submitted by the officer, if any, and shall recommend to the Prime Minister whether or not the officer should be suspended for precautionary purposes.
 
 (3) The Head of Department may suspend the officer from the exercise of the powers and functions of his office, for precautionary purposes, pending the decision of the Prime Minister acting on the recommendation of the Commission.
-
-*9*
 
 (4) In the event that the request for precautionary suspension is not authorised by the Commission, the officer under suspension shall be immediately recalled for duty and shall be refunded any salary withheld during the period of precautionary suspension.
 
@@ -314,11 +288,7 @@ Provided that, when an officer who has had his salary withheld as a result of hi
 
 (8) An officer who is under precautionary suspension shall not have access to any official premises identified by the Head of Department, and shall not remove, destroy or add to, or cause to be removed, destroyed or added to, any official document, instrument or matter.
 
-(9) An officer who is suspended for precautionary purposes in [S.L.Const.03 DISCIPLINARY
-
-terms of sub-regulation (1)(c), shall seek the permission of the Head of Department if he wishes to travel outside the Schengen area. The Head of Department shall consult the Commissioner of Police before granting such permission. Any such officer who leaves Malta without the required permission shall be liable to disciplinary action, which action may be one leading to dismissal.
-
-*10*
+(9) An officer who is suspended for precautionary purposes in terms of sub-regulation (1)(c), shall seek the permission of the Head of Department if he wishes to travel outside the Schengen area. The Head of Department shall consult the Commissioner of Police before granting such permission. Any such officer who leaves Malta without the required permission shall be liable to disciplinary action, which action may be one leading to dismissal.
 
 (10) Notwithstanding the provisions of sub-regulations (5), (6), and (7), if an officer is in prison under preventive custody or serving a court sentence, no salary shall be due to the officer during the period of imprisonment whether such officer is subsequently found guilty of the offence with which he is charged or otherwise.
 
@@ -336,11 +306,9 @@ Provided that neither the officer nor the Commissioner of Police shall be oblige
 
 (3) Whenever it comes to the notice of the Head of Department that a public officer under his responsibility is to be arraigned in court or is being investigated or has been arrested by the police in connection with a criminal offence which is of a nature likely to warrant disciplinary action, he shall forthwith report the facts to the Commission with a recommendation giving reasons as to whether the officer should or should not be suspended for precautionary purposes from the exercise of his powers and functions. No disciplinary proceedings against such an officer upon any grounds involved in the criminal charge shall be taken until the conclusion of the criminal proceedings and the determination of any appeal. The report referred to the Commission by the Head of Department shall be copied to the officer undergoing criminal proceedings.
 
-(4) Where the Head of Department has recommended to the Commission that the officer should be suspended for precautionary purposes, he may suspend the officer from the exercise of the powers and functions of his office pending the decision of the Prime Minister acting on the recommendation of the Commission. DISCIPLINARY [S.L.Const.03 (5) An officer suspended for precautionary purposes in terms of this regulation, and in respect of whom no criminal charges are instituted after the lapse of six (6) months from the date of such suspension, may submit written representations with justified reasons requesting the Commission to consider the lifting of such suspension.
+(4) Where the Head of Department has recommended to the Commission that the officer should be suspended for precautionary purposes, he may suspend the officer from the exercise of the powers and functions of his office pending the decision of the Prime Minister acting on the recommendation of the Commission. (5) An officer suspended for precautionary purposes in terms of this regulation, and in respect of whom no criminal charges are instituted after the lapse of six (6) months from the date of such suspension, may submit written representations with justified reasons requesting the Commission to consider the lifting of such suspension.
 
 Provided that, the Commission shall refer the representations to the Head of Department for his opinion prior to considering such representations and the Commission shall decide whether its original recommendation should be confirmed or revoked, and it shall make a recommendation to the Prime Minister accordingly.
-
-*11*
 
 (6) The lifting of a precautionary suspension following representations in terms of sub-regulation (5) shall be without prejudice to any action in terms of these regulations, should criminal proceedings be instituted against the officer concerned.
 
@@ -357,10 +325,6 @@ Provided that, the Commission shall refer the representations to the Head of Dep
 (a) whether the officer’s precautionary suspension should be maintained, or whether it should be lifted and, in the latter case;
 
 (b) whether any part of the salary withheld from the officer during his precautionary suspension should be refunded to him, or whether a decision on this matter should be held in abeyance pending conclusion of the disciplinary proceedings.
-
-*12*
-
-[S.L.Const.03 DISCIPLINARY
 
 ### 15. Disciplinary action after conviction on criminal charge.
 
@@ -386,9 +350,7 @@ Part V - Disciplinary Procedure under Delegated Authority 16. The provisions of 
 
 (b) the officer shall be allowed ten (10) working days from the date on which the statement is delivered to him in accordance with regulation 6(5) and (6), to reply in writing to the charge or charges made against him, stating any grounds on which he relies to exculpate himself;
 
-*13*
-
-DISCIPLINARY [S.L.Const.03 (c) a correction to the statement of charges may be made by the Head of Department, by means of a note in writing to the officer charged and to the disciplinary board, as the case may be, at any time during the proceedings, provided that the correction does not alter the substance of the charges;
+(c) a correction to the statement of charges may be made by the Head of Department, by means of a note in writing to the officer charged and to the disciplinary board, as the case may be, at any time during the proceedings, provided that the correction does not alter the substance of the charges;
 
 (d) if, after considering the officer’s reply, the Head of Department is satisfied that the officer has exculpated himself, he shall so inform the officer. All the documents related to the case shall be destroyed after two (2) months from the date the officer is so informed;
 
@@ -412,11 +374,7 @@ Provided that, where the Head of Department had given notice to the officer char
 
 (1) The Permanent Secretary of each Ministry shall, subject to the approval of the Commission, establish a Standing Disciplinary Panel consisting of suitable and competent former public officers.
 
-(2) Members of the Standing Disciplinary Panel of a ministry shall serve thereon for a period of twenty-four (24) months. Subject [S.L.Const.03 DISCIPLINARY
-
-to the Commission’s approval, members may serve for further terms of twenty-four (24) months in other Ministries:
-
-*14*
+(2) Members of the Standing Disciplinary Panel of a ministry shall serve thereon for a period of twenty-four (24) months. Subject to the Commission’s approval, members may serve for further terms of twenty-four (24) months in other Ministries:
 
 Provided that any previous or concurrent service with the Standing Disciplinary Panel of a particular ministry shall not be taken into consideration for the purpose of this sub-regulation in the event that a person is nominated to the Standing Disciplinary Panel of another ministry:
 
@@ -444,11 +402,9 @@ Provided that where the officer charged is in salary scale 3 or higher, the memb
 
 (5) Where no officers within the respective ministry satisfy the criteria of sub-regulations (3) and (4), the Permanent Secretary responsible for the same ministry shall seek the assistance of the Head of the Public Service, or any other officer acting on his behalf, in appointing a disciplinary board.
 
-(6) The Chairperson and members serving on the Board shall not be connected with the case of discipline and they shall not be DISCIPLINARY [S.L.Const.03 related up to the third degree to the officer charged. Where any member of the Board would be placed in a conflict or an apparent conflict of interest if he sat on the disciplinary board, he shall immediately as soon as he becomes aware of such conflicting form the Permanent Secretary, who shall nominate a substitute in keeping with sub-regulations (3) and (4), within ten (10) working days from the date he was notified of such conflict of interest.
+(6) The Chairperson and members serving on the Board shall not be connected with the case of discipline and they shall not be related up to the third degree to the officer charged. Where any member of the Board would be placed in a conflict or an apparent conflict of interest if he sat on the disciplinary board, he shall immediately as soon as he becomes aware of such conflicting form the Permanent Secretary, who shall nominate a substitute in keeping with sub-regulations (3) and (4), within ten (10) working days from the date he was notified of such conflict of interest.
 
 (7) Where serious objections are raised by the officer charged or by his representative that the Chairperson and, or any of the members of the Board are in some way prejudiced against him, the officer charged may accordingly petition the Permanent Secretary before the start of the hearing. Pending the decision of the Permanent Secretary, the disciplinary proceedings shall be suspended.
-
-*15*
 
 (8) If the Permanent Secretary accepts a petition under sub-regulation (7), he shall appoint a fresh Board or make appropriate changes to the Board in keeping with sub-regulations (3) and (4). The petitioning officer shall be informed accordingly.
 
@@ -473,10 +429,6 @@ Provided that where the officer charged is in salary scale 3 or higher, the memb
 (4) The period of thirty (30) working days specified in sub-regulation (2) may be extended by the Head of Department up to a maximum of another thirty (30) working days.
 
 (5) Where serious and justifiable reasons exist which, in the opinion of the Head of Department, preclude the Board from making a report of its findings earlier than the prescribed period of thirty (30) days and any extension thereof, the Head of Department shall refer the matter to the Commission for its direction.
-
-*16*
-
-[S.L.Const.03 DISCIPLINARY
 
 ### 20. Procedure at disciplinary hearings.
 
@@ -506,11 +458,9 @@ Provided that in respect of queries raised by either party, such ruling shall be
 
 (b) if the Head of Department thinks fit to proceed against the officer he shall furnish the officer with a statement of charges for the additional misconduct disclosed, and the procedure described in regulation 17 shall apply;
 
-(c) in drawing up the statement of charges under paragraph (b), the Head of Department may, if applicable and if he deems it necessary in the light of DISCIPLINARY [S.L.Const.03 the additional charges, increase the level of seriousness ascribed to the original case or designate the charges as potentially leading to the officer’s dismissal in which case the provisions of regulation 18(3) and (4) shall apply as to the composition of the Disciplinary Board;
+(c) in drawing up the statement of charges under paragraph (b), the Head of Department may, if applicable and if he deems it necessary in the light of the additional charges, increase the level of seriousness ascribed to the original case or designate the charges as potentially leading to the officer’s dismissal in which case the provisions of regulation 18(3) and (4) shall apply as to the composition of the Disciplinary Board;
 
 (d) unless recomposed, the Disciplinary Board shall continue to hear the case on the basis of both statements of charges received and shall grant both parties to the case the opportunity to present additional witnesses in connection with the additional charges. (2) Where, in the opinion of the Disciplinary Board, the evidence produced discloses other misconduct not related to the original charge, it shall refer such evidence to the representative of the Department who shall, in turn, refer the evidence to the Head of Department and the procedure laid down in regulation 17 shall apply.
-
-*17*
 
 (3) The provisions of sub-regulation (2) shall not be invoked when the additional grounds constitute a minor offence that would have lapsed after twelve (12) months.
 
@@ -542,10 +492,6 @@ Provided that where the Head of Department had given notice to the officer charg
 
 (1) After the findings of the Board are communicated to the Head of Department and to the officer charged, the following procedure shall apply in all cases, except where the Head of Department had given notice to the officer charged that the charges, if proved, could lead to dismissal:
 
-**DISCIPLINARY**
-
-*[S.L.Const.03 18*
-
 (a) the officer charged may make written representations or ask for an appointment to make oral representations to the Head of Department, within ten (10) working days from the date on which the findings of the Board are communicated to him, and such representations shall clearly state the grounds on which they are based;
 
 (b) the Head of Department shall consider the recommendation of the Disciplinary Board with regard to the penalty to be imposed, if any, and any representations made to him by the officer charged and shall, by not later than ten (10) working days from the date such representations reach him, communicate to the officer his decision on the charge or charges, whether he accepts the Board’s findings, and on the penalty, if any, that he has imposed;
@@ -560,11 +506,9 @@ Provided that whenever the Head of Department is not in agreement with the recom
 
 (a) the Head of Department shall, within five (5) working days from receipt of the Board’s report send a copy to the Commission, along with a statement as to whether or not he agrees with the report and including the reasons which led him to agree or disagree with the report;
 
-(b) if after considering the report of the Board and the circumstances of the case, the Head of Department is of the view that it warrants a lesser penalty than dismissal, he shall enclose with the report his DISCIPLINARY [S.L.Const.03 recommendation to the Commission in terms of paragraph (a);
+(b) if after considering the report of the Board and the circumstances of the case, the Head of Department is of the view that it warrants a lesser penalty than dismissal, he shall enclose with the report his recommendation to the Commission in terms of paragraph (a);
 
 (c) in giving consideration to the Board’s findings and opinion, and to any submissions made by the Head of Department in terms of the foregoing, the Commission shall give the officer charged the opportunity to submit written representations. The Commission may give an opportunity to the officer charged and to the Head of Department to make oral representations;
-
-*19*
 
 (d) after considering the findings of the Board and the representations made to it, the Commission shall make its recommendation to the Prime Minister both as to the guilt or otherwise of the officer charged and as to the penalty imposed, if any.
 
@@ -594,10 +538,6 @@ Provided that whenever the Head of Department is not in agreement with the recom
 
 (3) A Head of Department shall comply with any instructions that may be issued by the Head of the Public Service, from time to time, with the concurrence of the Commission, with regard to the holding of records relating to disciplinary proceedings.
 
-*20*
-
-[S.L.Const.03 DISCIPLINARY
-
 ## Part VI - Disciplinary Procedure when Disciplinary — Powers have not been delegated
 
 ### 25. Disciplinary proceedings when disciplinary powers have not been delegated.
@@ -618,9 +558,7 @@ Provided that, if the officer charged is liable to dismissal as a result of the 
 
 (f) after considering the findings of the Board and any representations made to it, the Commission shall make its recommendation to the Prime Minister both as to the guilt or otherwise of the officer charged and as to the penalty, if any.
 
-*21*
-
-DISCIPLINARY [S.L.Const.03 Part VII - Offences and Penalties
+## Part VII - Offences and Penalties
 
 ### 26. Categorisation of offences and penalties.
 
@@ -652,11 +590,7 @@ Part VIII - Appeals from Disciplinary Decisions and Review
 
 (7) Upon approval of its recommendation, the Commission shall inform the appellant of the outcome of the appeal.
 
-(8) Nothing in this regulation shall prevent the Commission, either before the hearing or at any time during the hearing of an appeal, from summarily dismissing or disallowing an appeal [S.L.Const.03 DISCIPLINARY
-
-without hearing it or without hearing it any further as the case may be, on the grounds that an appeal is frivolous or vexatious or one that should not otherwise have been brought or made.
-
-*22*
+(8) Nothing in this regulation shall prevent the Commission, either before the hearing or at any time during the hearing of an appeal, from summarily dismissing or disallowing an appeal without hearing it or without hearing it any further as the case may be, on the grounds that an appeal is frivolous or vexatious or one that should not otherwise have been brought or made.
 
 ### 28. Suspension of penalty pending appeal.
 
@@ -686,11 +620,9 @@ A penalty imposed by a Head of Department acting under a delegated authority sha
 
 (4) The Commission may allow a review of the case if -
 
-(a) in its discretion, it is satisfied that there was a prima facie case of gross disregard of the disciplinary DISCIPLINARY [S.L.Const.03 regulations or a serious miscarriage of justice resulting in a violation of natural justice or fundamental rights; or
+(a) in its discretion, it is satisfied that there was a prima facie case of gross disregard of the disciplinary regulations or a serious miscarriage of justice resulting in a violation of natural justice or fundamental rights; or
 
 (b) the case arose from a criminal conviction which was subsequently annulled or discontinued by a decision of a higher court.
-
-*23*
 
 (5) The Commission shall not consider a petition under this regulation if -
 
@@ -726,10 +658,6 @@ A penalty imposed by a Head of Department acting under a delegated authority sha
 
 (a) he considers the officer as having resigned from the public service with effect from the eleventh day of his unauthorised absence;
 
-*24*
-
-[S.L.Const.03 DISCIPLINARY
-
 (b) the officer shall be liable to pay Government, as stipulated in the Public Service Agreement in force from time to time, half the salary that he would have earned during the applicable notice period.
 
 (3) If an officer who has absented himself without leave as stated in sub-regulation (1) reports for duty before the date of notification by the Head of Department, or before the expiration of the ten (10) working days referred to in sub-regulation (1), he is to be allowed to resume duties without prejudice to any disciplinary action which the Head of Department may take in accordance with these regulations.
@@ -752,11 +680,9 @@ A penalty imposed by a Head of Department acting under a delegated authority sha
 
 (2) If the officer opts to continue with the proceedings and he is eventually found guilty, no penalty shall be imposed, but a record of the findings of the Disciplinary Board shall be entered in the officer’s record of service.
 
-(3) If the officer opts to have the case suspended, he shall DISCIPLINARY [S.L.Const.03 confirm this in writing and a record shall be entered in his record of service stating that at the time of his leaving the service, the officer had a pending disciplinary case.
+(3) If the officer opts to have the case suspended, he shall confirm this in writing and a record shall be entered in his record of service stating that at the time of his leaving the service, the officer had a pending disciplinary case.
 
 (4) If the officer does not, within the stipulated time, state what his preferred option is, the case shall be suspended and a note entered in his record of service stating that at the time of his leaving the service, the officer had a pending disciplinary case.
-
-*25*
 
 (5) Should a person who had been found guilty in accordance with sub-regulation (2) rejoin the public service, whether in the same or in a different capacity, the Head of Department now responsible for the officer shall, within three (3) months of the officer rejoining the service, make a recommendation to the Commission as to whether or not disciplinary proceedings should be resumed with a view to the imposition of the appropriate disciplinary penalty; and if the Commission directs that proceedings should be resumed, the Head of Department shall proceed in accordance with regulation 23 or such other provision of these regulations as may apply.
 
@@ -776,11 +702,7 @@ Subject to the provisions of article 114 of the Constitution and of any other la
 
 ### 36. Secrecy.
 
-No member of the Commission, nor the Executive [S.L.Const.03 DISCIPLINARY
-
-Secretary, nor any member of the staff of the Commission, or any public officer, Board or Authority, charged with powers and functions under these regulations, nor any other person shall, without the written permission of the Prime Minister, publish or disclose to any person, otherwise than in exercise of his official function, the contents of any document, communication or information whatsoever relating to any action taken under these regulations which has come to his notice or knowledge.
-
-*26*
+No member of the Commission, nor the Executive Secretary, nor any member of the staff of the Commission, or any public officer, Board or Authority, charged with powers and functions under these regulations, nor any other person shall, without the written permission of the Prime Minister, publish or disclose to any person, otherwise than in exercise of his official function, the contents of any document, communication or information whatsoever relating to any action taken under these regulations which has come to his notice or knowledge.
 
 Failure to comply with the provisions of this regulation shall, in the case of a public officer, constitute misconduct and, or a breach of discipline.
 
@@ -816,11 +738,9 @@ Unprofessional or unethical behaviour
 
 (a) failure to comply with any laws, rules, regulations or codes governing specific professions and the Public Service or the conduct of the public officers, or the transaction of government business;
 
-(b) being under the influence of drink or drugs while on DISCIPLINARY [S.L.Const.03 duty;
+(b) being under the influence of drink or drugs while on duty;
 
 (c) immoral, indecent or disgraceful conduct at the place of work;
-
-*27*
 
 (d) causing damage to government property;
 
@@ -864,10 +784,6 @@ Neglect or dereliction of duty
 
 (a) habitual late attendance;
 
-*28*
-
-[S.L.Const.03 DISCIPLINARY
-
 (b) unauthorised absence from the place of work;
 
 (c) idling at the place of work;
@@ -904,11 +820,9 @@ Penalties for Minor Cases
 
 (b) Second Disciplinary Case - Suspension without pay for a definite period up to five (5) working days
 
-(c) Third Disciplinary Case - suspension without pay for a DISCIPLINARY [S.L.Const.03 definite period up to ten (10) working days and a "Warning of Dismissal" which shall be valid for two (2) years
+(c) Third Disciplinary Case - suspension without pay for a definite period up to ten (10) working days and a "Warning of Dismissal" which shall be valid for two (2) years
 
 (d) Fourth Disciplinary Case - Dismissal.
-
-*29*
 
 3.2 In determining whether the disciplinary charge is a first, second, third or fourth minor case, no account shall be taken of minor cases which occurred prior to twenty-four (24) months from the date of the offence under investigation.
 
@@ -936,10 +850,6 @@ Penalties for Serious Cases (including criminal conviction)
 
 4.4 The application of penalties under this paragraph shall be subject to the discretion of the Head of Department or the Commission under regulations 23(1) and (2) and 25, as applicable.
 
-*30*
-
-[S.L.Const.03 DISCIPLINARY
-
 4.5 In the case of an officer who had been suspended for precautionary purposes, the provisions of regulation 12(6) shall also apply.
 
 ### 5.
@@ -954,11 +864,9 @@ Penalties imposed on the recommendation of the Commission
 
 After considering the recommendation of the Head of Department, the Commission shall decide whether to accept such a recommendation, and if it does, it shall inform the Head of Department that if the officer agrees to seek professional support preferably through an entity set up by Government to assist public officers experiencing personal, emotional or behavioural problems within ten (10) working days, the penalty shall be held in abeyance. The Head of Department shall inform the officer concerned of the Commission’s decision and shall proceed accordingly. The Head of Department shall be informed of the progress being made by the officer, and for such purposes, a report shall be provided by the entity concerned.
 
-The provisions of the foregoing apply also to cases where the officer had been informed that the charges, if proved, could lead to his dismissal. In such cases, the Commission shall proceed in accordance with regulation 23(2)(c). If the Commission considers that it would be in the best interest of the officer if he is offered the opportunity to rehabilitate himself, preferably through an entity set up by Government to assist public officers experiencing personal, emotional or behavioural problems, and the officer agrees to seek such professional support within ten (10) working days, the Commission shall decide on the penalty, if any, to be imposed but shall refrain to DISCIPLINARY [S.L.Const.03 make its recommendation to the Prime Minister in terms of regulation 23(2)(d). Whenever the officer has been suspended for precautionary purposes, the Commission may make its recommendation to the Prime Minister for the precautionary suspension to be lifted, without prejudice to the forfeiture of the salary withheld during the period under precautionary suspension. The Commission shall be informed of the progress being made by the officer, and for such purposes, a report shall be provided by the entity concerned.
+The provisions of the foregoing apply also to cases where the officer had been informed that the charges, if proved, could lead to his dismissal. In such cases, the Commission shall proceed in accordance with regulation 23(2)(c). If the Commission considers that it would be in the best interest of the officer if he is offered the opportunity to rehabilitate himself, preferably through an entity set up by Government to assist public officers experiencing personal, emotional or behavioural problems, and the officer agrees to seek such professional support within ten (10) working days, the Commission shall decide on the penalty, if any, to be imposed but shall refrain to make its recommendation to the Prime Minister in terms of regulation 23(2)(d). Whenever the officer has been suspended for precautionary purposes, the Commission may make its recommendation to the Prime Minister for the precautionary suspension to be lifted, without prejudice to the forfeiture of the salary withheld during the period under precautionary suspension. The Commission shall be informed of the progress being made by the officer, and for such purposes, a report shall be provided by the entity concerned.
 
 In both circumstances, if the officer is willing to seek professional support and follow the recommended rehabilitation programme, any penalty decided upon by the Head of Department or the Commission shall be held in abeyance until successful completion of the rehabilitation programme. The Commission shall then decide as to whether the penalty shall be put into effect or otherwise.
-
-*31*
 
 If an officer refuses to seek professional assistance, or does not successfully complete a rehabilitation programme, the penalty originally decided upon by the Head of Department or the Commission, as applicable, shall be imposed.
 
@@ -984,8 +892,4 @@ Warning of dismissal for a A period equal to the validity period of number of ye
 
 Demotion 10 years from the date of penalty
 
-The period for recording a penalty imposed by the Commission in cases potentially leading to dismissal or criminal cases, on an officer’s Service and Leave Record Sheet, shall be determined by the Commission depending on the nature and gravity of the offence. The period shall not exceed ten (10) years, unless the officer charged was [S.L.Const.03 DISCIPLINARY
-
-placed under an indefinite warning of dismissal, in which case the penalty would be recorded until the officer concerned reaches 75 years of age.
-
-*32*
+The period for recording a penalty imposed by the Commission in cases potentially leading to dismissal or criminal cases, on an officer’s Service and Leave Record Sheet, shall be determined by the Commission depending on the nature and gravity of the offence. The period shall not exceed ten (10) years, unless the officer charged was placed under an indefinite warning of dismissal, in which case the penalty would be recorded until the officer concerned reaches 75 years of age.

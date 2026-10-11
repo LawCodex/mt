@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in Archives and Records Management - Dip. ARM - under the auspices of the Faculty of Media and Knowledge Sciences (S.L. 327.452)
 
-DIP. ARM - UNDER THE AUSPICES OF THE FACULTY OF
-
-*1*
-
-MEDIA AND KNOWLEDGE SCIENCES [S.L.327.452
-
 **SUBSIDIARY LEGISLATION 327.452**
 
 **BYE-LAWS FOR THE DIPLOMA IN ARCHIVES**
@@ -77,11 +71,11 @@ The Board shall publish the programme of study in accordance with the relevant p
 
 \*These bye-laws have been repealed by Legal Notice 185 of 2022.
 
-*2*
+*60% 40%.*
 
-DIP. ARM - UNDER THE AUSPICES OF THE FACULTY OF [S.L.327.452 MEDIA AND KNOWLEDGE SCIENCES
+Taught study-units, practicum and long essay Synoptic study-units
 
-Taught study-units, practicum and long essay 60% Synoptic study-units 40%. (2) The names of students who qualify for the award of the Diploma shall be published in a list in alphabetical order classified as follows:
+(2) The names of students who qualify for the award of the Diploma shall be published in a list in alphabetical order classified as follows:
 
 Pass with Distinction
 

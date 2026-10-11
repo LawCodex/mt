@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Fees for the Use of the Facilities of the Malta National Park at Ta’ Qali Regulations (S.L. 35.41)
 
-*1*
-
-NATIONAL PARK AT TA’ QALI [S.L. 35.41] SUBSIDIARY LEGISLATION 35.41
+**SUBSIDIARY LEGISLATION 35.41**
 
 **FEES FOR THE USE OF THE FACILITIES OF THE**
 
@@ -61,10 +59,6 @@ Provided that if the facilities are used for a period between four (4) and seven
 ## 4. Bank guarantee.
 
 The organisers of any event held at the Park may be requested to give a bank guarantee as security for the activity or event. The determination of the amount of the guarantee shall be at the discretion of the Director General of the Department following consultation with the Unit.
-
-*2*
-
-[S.L. 35.41] NATIONAL PARK AT TA’ QALI
 
 ## 5. Exemption from the obligation to pay fees.
 
@@ -118,10 +112,6 @@ G CONCERT AREA 5,000 5 1,500 6
 
 **I CAMP SITE 500**
 
-*3*
-
-NATIONAL PARK AT TA’ QALI [S.L. 35.41]
-
 1 on day of event
 
 2
@@ -139,10 +129,6 @@ for general events
 6
 
 for each rehearsal day prior to concert
-
-*4*
-
-[S.L. 35.41] NATIONAL PARK AT TA’ QALI
 
 ## SECOND SCHEDULE
 

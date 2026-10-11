@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # European Union Global Minimum Level of Taxation for Multinational Enterprise Groups and Large-Scale Domestic Groups Regulations (S.L. 123.212)
 
-TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS
-
-*1*
-
-AND LARGE-SCALE DOMESTIC GROUPS [S.L. 123.212
-
 **SUBSIDIARY LEGISLATION 123.212**
 
 EUROPEAN UNION GLOBAL MINIMUM LEVEL OF TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS AND LARGE-SCALE DOMESTIC GROUPS REGULATIONS
@@ -44,11 +38,7 @@ EUROPEAN UNION GLOBAL MINIMUM LEVEL OF TAXATION FOR MULTINATIONAL ENTERPRISE GRO
 
 (2) These regulations shall apply to constituent entities located in Malta that are members of an multinational enterprise group or of a large-scale domestic group as defined in regulation 3 which has an annual revenue of seven hundred and fifty million euro (€750,000,000) or more, including the revenue of the excluded entities referred to in sub-regulation (4), in its ultimate parent entity’s consolidated financial statements in at least two (2) of the four (4) fiscal years immediately preceding the tested fiscal year.
 
-(3) Where one (1) or more of the four (4) fiscal years referred to in sub-regulation (2) is longer or shorter than twelve (12) TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS [S.L. 123.212 AND LARGE-SCALE DOMESTIC GROUPS
-
-months, the revenue threshold referred to in that sub-regulation shall be adjusted proportionately for each of those fiscal years.
-
-*2*
+(3) Where one (1) or more of the four (4) fiscal years referred to in sub-regulation (2) is longer or shorter than twelve (12) months, the revenue threshold referred to in that sub-regulation shall be adjusted proportionately for each of those fiscal years.
 
 (4) These regulations shall not apply to the following excluded entities:
 
@@ -68,13 +58,7 @@ months, the revenue threshold referred to in that sub-regulation shall be adjust
 
 In these regulations, unless the context otherwise requires:
 
-"acceptable financial accounting standard" means International Financial Reporting Standards (IFRS or IFRS as adopted by the Union pursuant to Regulation (EC) No 1606/ 2002 of the European Parliament and of the Council(8)) and the TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS
-
-*3*
-
-AND LARGE-SCALE DOMESTIC GROUPS [S.L. 123.212
-
-generally accepted accounting principles of Australia, Brazil, Canada, the Member States of the European Union, the Member States of the European Economic Area, Hong Kong (China), Japan, Mexico, New Zealand, the People’s Republic of China, the Republic of India, the Republic of Korea, Russia, Singapore, Switzerland, the United Kingdom and the United States of America;
+"acceptable financial accounting standard" means International Financial Reporting Standards (IFRS or IFRS as adopted by the Union pursuant to Regulation (EC) No 1606/ 2002 of the European Parliament and of the Council(8)) and the generally accepted accounting principles of Australia, Brazil, Canada, the Member States of the European Union, the Member States of the European Economic Area, Hong Kong (China), Japan, Mexico, New Zealand, the People’s Republic of China, the Republic of India, the Republic of Korea, Russia, Singapore, Switzerland, the United Kingdom and the United States of America;
 
 "authorised financial accounting standard" means, in respect of an entity, a set of generally acceptable accounting principles permitted by an authorised accounting body in the jurisdiction where that entity is located; for the purposes of this definition, "authorised accounting body" means the body with legal authority in a jurisdiction to prescribe, establish or accept accounting standards for financial reporting purposes;
 
@@ -92,13 +76,7 @@ generally accepted accounting principles of Australia, Brazil, Canada, the Membe
 
 (i) an acceptable financial accounting standard; or
 
-(ii) another financial accounting TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS
-
-**AND LARGE-SCALE DOMESTIC GROUPS**
-
-*[S.L. 123.212 4*
-
-standard, and provided such financial statements have been adjusted to prevent any material competitive distortions;
+(ii) another financial accounting standard, and provided such financial statements have been adjusted to prevent any material competitive distortions;
 
 "constituent entity" means:
 
@@ -120,13 +98,7 @@ Provided that a main entity is deemed to hold the controlling interests in its p
 
 "designated filing entity" means the constituent entity, other than the ultimate parent entity, that has been appointed by the MNE group or large-scale domestic group to fulfil the filing obligations set out in regulation 5 on behalf of the MNE group or the large-scale domestic group;
 
-"disqualified refundable imputation tax" means any tax, TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS
-
-*5*
-
-AND LARGE-SCALE DOMESTIC GROUPS [S.L. 123.212
-
-other than a qualified imputation tax, accrued or paid by a constituent entity that is:
+"disqualified refundable imputation tax" means any tax, other than a qualified imputation tax, accrued or paid by a constituent entity that is:
 
 (a) refundable to the beneficial owner of a dividend distributed by such constituent entity in respect of that dividend or creditable by the beneficial owner against a tax liability other than a tax liability in respect of such dividend; or
 
@@ -144,13 +116,7 @@ For the purposes of this definition, a "qualified imputation tax" means a covere
 
 Provided that for the purposes of paragraph (d):
 
-(i) a non-profit organisation or pension fund is resident in a jurisdiction if it is created and managed in TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS
-
-**AND LARGE-SCALE DOMESTIC GROUPS**
-
-*[S.L. 123.212 6*
-
-that jurisdiction;
+(i) a non-profit organisation or pension fund is resident in a jurisdiction if it is created and managed in that jurisdiction;
 
 (ii) an investment entity is resident in a jurisdiction if it is created and regulated in that jurisdiction;
 
@@ -176,13 +142,7 @@ that jurisdiction;
 
 "flow-through entity" means an entity to the extent it is fiscally transparent with respect to its income, expenditure, profit or loss in the jurisdiction where it was created unless it is tax resident and subject to a covered tax on its income or profit in another jurisdiction. A flow-through entity is deemed to be:
 
-(a) a tax-transparent entity with respect to its TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS
-
-*7*
-
-AND LARGE-SCALE DOMESTIC GROUPS [S.L. 123.212
-
-income, expenditure, profit or loss to the extent that it is fiscally transparent in the jurisdiction in which its owner is located;
+(a) a tax-transparent entity with respect to its income, expenditure, profit or loss to the extent that it is fiscally transparent in the jurisdiction in which its owner is located;
 
 (b) a reverse hybrid entity with respect to its income, expenditure, profit or loss to the extent that it is not fiscally transparent in the jurisdiction in which its owner is located;
 
@@ -204,12 +164,6 @@ For the purposes of this definition a "fiscally transparent entity" means an ent
 
 (ii) managing or investing that government’s or jurisdiction’s assets through the making and holding of investments, asset management, and related investment activities for that government’s or jurisdiction’s assets;
 
-TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS
-
-**AND LARGE-SCALE DOMESTIC GROUPS**
-
-*[S.L. 123.212 8*
-
 (c) it is accountable to a government on its overall performance, and provides annual information reporting to that government; and
 
 (d) its assets vest in a government upon dissolution and, to the extent it distributes net earnings, such net earnings are distributed solely to that government with no portion of its net earnings inuring to the benefit of any private person;
@@ -229,12 +183,6 @@ TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS
 (b) it has in effect a headquarters or substantially similar agreement with the jurisdiction in which it is established, for example arrangements that entitle the organisation’s offices or establishments in that jurisdiction to privileges and immunities; and
 
 (c) law or its governing documents prevent its income inuring to the benefit of private persons;
-
-TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS
-
-*9*
-
-AND LARGE-SCALE DOMESTIC GROUPS [S.L. 123.212
 
 "investment entity" means:
 
@@ -260,12 +208,6 @@ AND LARGE-SCALE DOMESTIC GROUPS [S.L. 123.212
 
 (g) it is managed by investment fund management professionals on behalf of the investors;
 
-TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS
-
-**AND LARGE-SCALE DOMESTIC GROUPS**
-
-*[S.L. 123.212 10*
-
 "large-scale domestic group" means any group of which all constituent entities are located in Malta;
 
 "low-taxed constituent entity" means:
@@ -287,12 +229,6 @@ TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS
 "net book value of tangible assets" means the average of the beginning and end values of tangible assets after taking into account accumulated depreciation, depletion and impairment, as recorded in the financial statements;
 
 "non-profit organisation" means an entity that meets all the following criteria:
-
-TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS
-
-*11*
-
-AND LARGE-SCALE DOMESTIC GROUPS [S.L. 123.212
 
 (a) it is established and operated in its jurisdiction of residence:
 
@@ -316,13 +252,7 @@ AND LARGE-SCALE DOMESTIC GROUPS [S.L. 123.212
 
 (f) it does not carry on a trade or business that is not directly related to the purposes for which it was established;
 
-"non-qualified refundable tax credit" means a tax credit that is a not a qualified refundable tax credit but that is TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS
-
-**AND LARGE-SCALE DOMESTIC GROUPS**
-
-*[S.L. 123.212 12*
-
-refundable in whole or in part;
+"non-qualified refundable tax credit" means a tax credit that is a not a qualified refundable tax credit but that is refundable in whole or in part;
 
 "OECD Model Rules" means the Tax Challenges Arising from the Digitalisation of the Economy – Global Anti-Base Erosion Model Rules (Pillar Two) approved on 14 December 2021 by the OECD/G20 Inclusive Framework on BEPS;
 
@@ -342,13 +272,7 @@ refundable in whole or in part;
 
 (b) a pension services entity;
 
-"pension services entity" means an entity that is established and operated exclusively or almost exclusively to invest funds for the benefit of entities referred to in paragraph TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS
-
-*13*
-
-AND LARGE-SCALE DOMESTIC GROUPS [S.L. 123.212
-
-(a) of the definition of "pension fund" or to carry out activities that are ancillary to the regulated activities referred to in paragraph (a) of the definition of "pension fund", provided that the pension services entity forms part of the same group as the entities carrying out those regulated activities;
+"pension services entity" means an entity that is established and operated exclusively or almost exclusively to invest funds for the benefit of entities referred to in paragraph (a) of the definition of "pension fund" or to carry out activities that are ancillary to the regulated activities referred to in paragraph (a) of the definition of "pension fund", provided that the pension services entity forms part of the same group as the entities carrying out those regulated activities;
 
 "permanent establishment" means:
 
@@ -362,11 +286,7 @@ AND LARGE-SCALE DOMESTIC GROUPS [S.L. 123.212
 
 "qualified domestic top-up tax" means a top-up tax that is implemented in the domestic law of a jurisdiction provided that such jurisdiction does not provide any benefits that are related to those rules, and that:
 
-(a) provides for the determination of the excess profits of the constituent entities located in that jurisdiction in accordance with the rules laid down in the European Union Global Minimum Tax Directive or, as regards third-country jurisdictions, the OECD Model TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS AND LARGE-SCALE DOMESTIC GROUPS
-
-Rules and the application of the minimum tax rate to those excess profits for the jurisdiction and the constituent entities in accordance with the rules laid down in the European Union Global Minimum Tax Directive or, as regards third-country jurisdictions, the OECD Model Rules; and
-
-*[S.L. 123.212 14*
+(a) provides for the determination of the excess profits of the constituent entities located in that jurisdiction in accordance with the rules laid down in the European Union Global Minimum Tax Directive or, as regards third-country jurisdictions, the OECD Model Rules and the application of the minimum tax rate to those excess profits for the jurisdiction and the constituent entities in accordance with the rules laid down in the European Union Global Minimum Tax Directive or, as regards third-country jurisdictions, the OECD Model Rules; and
 
 (b) is administered in a way that is consistent with the rules laid down in the European Union Global Minimum Tax Directive or, as regards third-country jurisdictions, the OECD Model Rules;
 
@@ -381,12 +301,6 @@ Rules and the application of the minimum tax rate to those excess profits for th
 (a) a refundable tax credit designed in such a way that it is to be paid as a cash payment or a cash equivalent (which for these purposes includes by way of discharge against a liability to a tax which is not a covered tax) to a constituent entity within four years from the date when the constituent entity is entitled to receive the refundable tax credit under the laws of the jurisdiction granting the credit; or
 
 (b) if the tax credit is refundable in part, the portion of the refundable tax credit that is payable as a cash payment or a cash equivalent (which for these purposes includes by way of discharge against a liability to a tax which is not a covered tax) to a constituent entity within four (4) years from the date when the constituent entity is entitled to receive the partial refundable tax credit:
-
-TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS
-
-*15*
-
-AND LARGE-SCALE DOMESTIC GROUPS [S.L. 123.212
 
 Provided that a qualified refundable tax credit does not include any amount of tax creditable or refundable pursuant to a qualified imputation tax or a disqualified refundable imputation tax;
 
@@ -410,11 +324,7 @@ Provided that a qualified refundable tax credit does not include any amount of t
 
 ### 4. Location of a constituent entity.
 
-(1) For the purposes of these regulations, an entity other than a flow-through entity shall be determined to be located in TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS [S.L. 123.212 AND LARGE-SCALE DOMESTIC GROUPS
-
-the jurisdiction where it is considered to be resident for tax purposes based on its place of management, its place of creation or similar criteria:
-
-*16*
+(1) For the purposes of these regulations, an entity other than a flow-through entity shall be determined to be located in the jurisdiction where it is considered to be resident for tax purposes based on its place of management, its place of creation or similar criteria:
 
 Provided that where it is not possible to determine the location of an entity other than a flow-through entity based on this sub-regulation, it shall be deemed to be located in the jurisdiction where it was created.
 
@@ -433,12 +343,6 @@ Provided that where it is not possible to determine the location of an entity ot
 (b) Where the applicable tax treaty requires that the competent authorities reach a mutual agreement on the deemed residence for tax purposes of the constituent entity, and no agreement is reached, sub-regulation (5) shall apply.
 
 (c) Where there is no relief for double taxation under the applicable tax treaty due to the fact that a constituent entity is resident for tax purposes in both contracting parties, sub-regulation (5) shall apply.
-
-TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS
-
-*17*
-
-AND LARGE-SCALE DOMESTIC GROUPS [S.L. 123.212
 
 (5) (a) Where a constituent entity is located in two (2) jurisdictions and those jurisdictions do not have an applicable tax treaty, the constituent entity shall be deemed to be located in the jurisdiction which charged the higher amount of covered taxes for the fiscal year.
 
@@ -460,11 +364,7 @@ AND LARGE-SCALE DOMESTIC GROUPS [S.L. 123.212
 
 "designated local entity" shall mean the constituent entity of an MNE group or of a large-scale domestic group that is located in Malta and has been appointed by the other constituent entities of the MNE group or large-scale domestic group located in Malta to file the top-up tax information return or submit the notifications in accordance with this regulation on their behalf;
 
-"qualifying competent authority agreement" shall mean a TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS [S.L. 123.212 AND LARGE-SCALE DOMESTIC GROUPS
-
-bilateral or multilateral agreement or arrangement between two (2) or more competent authorities that provides for the automatic exchange of annual top-up tax information returns.
-
-*18*
+"qualifying competent authority agreement" shall mean a bilateral or multilateral agreement or arrangement between two (2) or more competent authorities that provides for the automatic exchange of annual top-up tax information returns.
 
 (2) A constituent entity located in Malta shall file a top-up tax information return with the Commissioner, in accordance with sub-regulation (5):
 
@@ -486,13 +386,7 @@ Provided that such notification shall be made to the Commissioner on such form a
 
 (a) identification of the constituent entities, including their tax identification numbers, if any, the jurisdiction in which they are located and their status under these regulations;
 
-(b) information on the overall corporate structure of the MNE group or large-scale domestic group, including the controlling interests in the constituent entities held by other TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS
-
-*19*
-
-AND LARGE-SCALE DOMESTIC GROUPS [S.L. 123.212
-
-constituent entities;
+(b) information on the overall corporate structure of the MNE group or large-scale domestic group, including the controlling interests in the constituent entities held by other constituent entities;
 
 (c) the information that is necessary in order to compute:
 
@@ -516,10 +410,6 @@ constituent entities;
 
 (b) all information that is necessary for the application of Article 13 of the European Union Global Minimum Tax Directive, including:
 
-*20*
-
-TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS [S.L. 123.212 AND LARGE-SCALE DOMESTIC GROUPS
-
 (i) identification of all the constituent entities located in the ultimate parent entity jurisdiction and the structure of such ownership interests;
 
 (ii) all information that is necessary in order to compute the effective tax rate of the ultimate parent entity’s jurisdiction and its top-up tax due; and
@@ -540,13 +430,7 @@ TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS [S.L. 123.212 AND LARGE-SCALE DOMES
 
 (2) Where applicable, the elections referred to in Articles 16(7), 22(1)(b), 25(1), 28(2), 30(1) and 40(1) of the European Union Global Minimum Tax Directive shall be valid for a period of one (1) year. The election shall be renewed automatically unless the filing constituent entity revokes the election at the end of the year.
 
-(3) The elections referred to in regulation 2(5) and Articles 16(3), (6), (7), (9), 22(1)(b), 25(1), 28(2), 30(1), 40(1), 42 and 43 of the European Union Global Minimum Tax Directive shall be made to the tax administration of the Member State in which the filing TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS
-
-*21*
-
-AND LARGE-SCALE DOMESTIC GROUPS [S.L. 123.212
-
-constituent entity is located:
+(3) The elections referred to in regulation 2(5) and Articles 16(3), (6), (7), (9), 22(1)(b), 25(1), 28(2), 30(1), 40(1), 42 and 43 of the European Union Global Minimum Tax Directive shall be made to the tax administration of the Member State in which the filing constituent entity is located:
 
 Provided that such election shall be made to the Commissioner on such form and in such manner as the Commissioner shall determine.
 
@@ -576,11 +460,7 @@ Provided that this administrative penalty shall not exceed in total five thousan
 
 Provided that this administrative penalty shall not exceed in total five thousand euro (€5,000).
 
-(4) Where the designated local entity fails to notify the Commissioner of the start of the initial phase of the MNE group’s international activity in terms of regulation 10(5) within the time TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS [S.L. 123.212 AND LARGE-SCALE DOMESTIC GROUPS
-
-stipulated therein it shall be liable to an administrative penalty of:
-
-*22*
+(4) Where the designated local entity fails to notify the Commissioner of the start of the initial phase of the MNE group’s international activity in terms of regulation 10(5) within the time stipulated therein it shall be liable to an administrative penalty of:
 
 (a) two hundred euro (€200); and
 
@@ -602,13 +482,7 @@ Provided that this administrative penalty shall not exceed in total five thousan
 
 (3) Deferred tax assets arising from items excluded from the computation of qualifying income or loss in accordance with Chapter III of the European Union Global Minimum Tax Directive shall be excluded from the computation referred to in sub-regulation (2) when such deferred tax assets are generated in a transaction that takes place after 30th November 2021.
 
-(4) In the case of a transfer of assets between constituent entities after 30th November 2021 and before the commencement of a transition year, the basis in the acquired assets, other than inventory, shall be based upon the disposing constituent entity’s carrying value of TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS
-
-*23*
-
-AND LARGE-SCALE DOMESTIC GROUPS [S.L. 123.212
-
-the transferred assets upon disposal with deferred tax assets and liabilities determined on that basis.
+(4) In the case of a transfer of assets between constituent entities after 30th November 2021 and before the commencement of a transition year, the basis in the acquired assets, other than inventory, shall be based upon the disposing constituent entity’s carrying value of the transferred assets upon disposal with deferred tax assets and liabilities determined on that basis.
 
 ### 9. Transitional relief for the substance-based income exclusion.
 
@@ -666,10 +540,6 @@ Year %
 
 (a) in the first five (5) years of the initial phase of the international activity of the MNE group, notwithstanding the requirements laid down in Chapter V of the European Union Global Minimum Tax Directive;
 
-*24*
-
-TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS [S.L. 123.212 AND LARGE-SCALE DOMESTIC GROUPS
-
 (b) in the first five (5) years, starting from the first day of the fiscal year in which the large-scale domestic group falls within the scope of these regulations for the first time.
 
 (2) Where the ultimate parent entity of an MNE group is located in a third-country jurisdiction, the top-up tax due by a constituent entity located in Malta in accordance with Article 14(2) of the European Union Global Minimum Tax Directive shall be reduced to zero (0) in the first five (5) years of the initial phase of the international activity of that MNE group, notwithstanding the requirements laid down in Chapter V of the European Union Global Minimum Tax Directive.
@@ -686,11 +556,7 @@ TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS [S.L. 123.212 AND LARGE-SCALE DOMES
 
 (b) For MNE groups that are within the scope of the European Union Global Minimum Tax Directive when this came into force, the five (5) year period referred to in sub-regulation (1)(a) shall start on 31st December 2023.
 
-(c) For MNE groups that are within the scope of the European Union Global Minimum Tax Directive when this came into force, the five (5) year period referred to in sub- TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS
-
-*25*
-
-AND LARGE-SCALE DOMESTIC GROUPS [S.L. 123.212 regulation (2) shall start on 31st December 2024.
+(c) For MNE groups that are within the scope of the European Union Global Minimum Tax Directive when this came into force, the five (5) year period referred to in sub-regulation (2) shall start on 31st December 2024.
 
 (d) For large-scale domestic groups that are within the scope of these regulations when these come into force in terms of regulation 1(2), the five (5) year period referred to in sub-regulation (1)(b) shall start on 31st December 2023.
 
@@ -717,10 +583,6 @@ Notwithstanding the provisions of regulation 5(7), the top-up tax information re
 ### 13. Assessment of equivalence.
 
 The legal framework implemented in the domestic law of a third-country jurisdiction shall be considered to be equivalent to a qualified IIR set out in Chapter II of the European Union Global Minimum Tax Directive, and shall not be treated as a controlled foreign company tax regime, if it fulfils the following conditions:
-
-*26*
-
-TAXATION FOR MULTINATIONAL ENTERPRISE GROUPS [S.L. 123.212 AND LARGE-SCALE DOMESTIC GROUPS
 
 (a) it enforces a set of rules in accordance with which the parent entity of an MNE group shall compute and pay its allocable share of top-up tax in respect of the low-taxed constituent entities of the MNE group;
 

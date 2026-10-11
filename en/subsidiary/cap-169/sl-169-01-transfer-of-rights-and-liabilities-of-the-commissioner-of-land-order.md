@@ -1,6 +1,6 @@
 ---
 title: "Transfer of Rights and Liabilities of the Commissioner of Land Order"
-identifier: "S.L. 169.1"
+identifier: "S.L. 169.01"
 eli: "https://legislation.mt/eli/sl/169.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/169.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Transfer of Rights and Liabilities of the Commissioner of Land Order (S.L. 169.1)
-
-*1*
-
-OF THE COMMISSIONER OF LAND [S.L.169.01
+# Transfer of Rights and Liabilities of the Commissioner of Land Order (S.L. 169.01)
 
 **SUBSIDIARY LEGISLATION 169.01**
 
@@ -44,10 +40,6 @@ The rights and liabilities in respect of the land specified in the First Schedul
 ## 4. Transfer back of rights and liabilities.
 
 The rights and liabilities in respect of the areas of land referred to in the Second Schedule shall, with effect from the date specified in the said Schedule, be transferred back to the Commissioner of Land.
-
-*2*
-
-[S.L.169.01 OF THE COMMISSIONER OF LAND
 
 ## FIRST SCHEDULE — Descriptions
 
@@ -85,11 +77,7 @@ Plans L.D. 1/92, L.D. 2/92 and L.D. 3/92 are enrolled in the acts of Notary Vinc
 
 (13) (Revoked by L.N. 69 of 2012).
 
-(14) An area of land including any building thereon at Xewkija, OF THE COMMISSIONER OF LAND [S.L.169.01
-
-Gozo, shown bordered in blue on plan L.D.205/93, which plan is enrolled in the acts of Notary Vincent Miceli by virtue of a deed dated 24th November, 1993.
-
-*3*
+(14) An area of land including any building thereon at Xewkija, Gozo, shown bordered in blue on plan L.D.205/93, which plan is enrolled in the acts of Notary Vincent Miceli by virtue of a deed dated 24th November, 1993.
 
 (15) An area of land including any building thereon at Luqa shown bordered in red on plan L.D.130/93/2, which plan is enrolled in the acts of Notary Vincent Miceli by virtue of a deed dated 1st February, 1995.
 
@@ -123,11 +111,7 @@ An area of land, including any building built thereon, at Kirkop, shown bordered
 
 VII. 1st September, 2001
 
-An area of land, including any building thereon at }al Far, limits of Bir\\ebbu[a, shown bordered in red on Plan P.D.9 92 6, which [S.L.169.01 OF THE COMMISSIONER OF LAND
-
-plan is enrolled in the acts of Notary Vincent Miceli by virtue of a deed dated 7th August, 2001.
-
-*4*
+An area of land, including any building thereon at }al Far, limits of Bir\\ebbu[a, shown bordered in red on Plan P.D.9 92 6, which plan is enrolled in the acts of Notary Vincent Miceli by virtue of a deed dated 7th August, 2001.
 
 VIII. 1st December, 2001
 
@@ -169,10 +153,6 @@ XVII. 1st December, 2009
 
 An area of land, including any building thereon, at |ejtun shown bordered in red on L.D. plan 8/92/3, which plan is enrolled in the Records of Notary Doctor Vincent Miceli by virtue of a deed of the 12th June, 1995.
 
-*5*
-
-OF THE COMMISSIONER OF LAND [S.L.169.01
-
 XVIII. 1st March, 2010
 
 (a) An area of land, including any building thereon, at Paola shown bordered in red on plan P.D. 2009\_757, which plan is enrolled in the Records of Notary Diana Charles by virtue of a deed of the 19th January, 2010; and
@@ -200,10 +180,6 @@ An area of land, including any building thereon, at Pietà shown bordered in red
 XXII. 1st January, 2011
 
 (a) An area of land, including any building thereon, at }al-Far, limits of Bir\\ebbu[a shown hatched on plan P.D. 63\_81\_32, which plan is enrolled in the Records of Notary Vincent Miceli by virtue of a deed of the 6th November, 2000.
-
-*6*
-
-[S.L.169.01 OF THE COMMISSIONER OF LAND
 
 (b) An area of land, including any building thereon, at Xewkija Industrial Estate, Gozo shown bordered in red and marked with the letter ‘A’ on plan P.D. 2011\_486, which plan is enrolled in the records of Notary Diana Charles by virtue of a deed of the 23rd June, 2011; and
 
@@ -237,10 +213,6 @@ An area of land, including any building thereon, at San Ġwann shown bordered in
 
 XXIX. 1st January, 2013
 
-*7*
-
-OF THE COMMISSIONER OF LAND [S.L.169.01
-
 (a) An area of land, including any building thereon, at Birzebbugia shown bordered in red on plan P.D.2012\_986, which plan is enrolled in the Records of Notary Tania Spiteri by virtue of a deed of the 24th December, 2012.
 
 (b) An area of land, including any building thereon, at Safi, shown bordered in red on plan 2010\_153B\_1, which plan is enrolled in the Records of Notary Tania Spiteri by virtue of a deed of the 30th January 2013.
@@ -271,10 +243,6 @@ XXXIII. 1st September, 2014
 
 (d) An area of land, including any building thereon, at Kirkop, Luqa shown bordered in red on plan P.D.2009\_621, which plan is enrolled in the Records of Notary Diana Charles by virtue of a deed of the 12th September 2014.
 
-*8*
-
-[S.L.169.01 OF THE COMMISSIONER OF LAND
-
 (e) An area of land, including any building thereon, at Luqa shown bordered in red on plan P.D.2009\_622, which plan is enrolled in the Records of Notary Diana Charles by virtue of a deed of the 12th September 2014.
 
 (f) An area of land, including any building thereon, at Zurrieq shown bordered in red on plan P.D.86\_78\_A, which plan is enrolled in the Records of Notary Tania Spiteri by virtue of a deed of the 11th September 2014.
@@ -294,10 +262,6 @@ XXXV. 8th March, 2016 - Legal Notice 94 of 2016 as amended by Legal Notice 95 of
 XXXVI. 12th July, 2016
 
 Two parcels of land, including any buildings, structures and dock thereon, at Marsa shown bordered in red on plan P.D.2008\_397\_1D and marked with the letters ‘A’ and ‘B’ respectively, which plan is enrolled in the Records of Notary Anthony Hili by virtue of a deed of the 13th July 2016.
-
-*9*
-
-OF THE COMMISSIONER OF LAND [S.L.169.01
 
 ## SECOND SCHEDULE — Rights and liabilities in respect of lands transferred back — to the Commissioner of Land
 
@@ -337,10 +301,6 @@ VI. 1st January, 2010
 
 An area of land, including any building thereon, at Birzebbugia shown bordered in red on plan P.D. 2009\_572, which plan is enrolled in the Records of Notary Diana Charles by virtue of a deed of the 8th January, 2010.
 
-*10*
-
-[S.L.169.01 OF THE COMMISSIONER OF LAND
-
 VII. 1st July, 2011
 
 An area of land, including any building thereon, at Kirkop, shown bordered in red on plan P.D. 2009\_603, which plan is enrolled in the Records of Notary Diana Charles by virtue of a deed of the 8th January, 2010.
@@ -375,11 +335,7 @@ An area of land, including any building thereon, at Paola shown bordered in red 
 
 XIV. 1st January, 2015
 
-(a) The Club house without airspace and Boċċi Pitch in Triq Diċembru Tlettax, Marsa, and is registered as Tenement number 78913 OF THE COMMISSIONER OF LAND [S.L.169.01
-
-and marked edged red on plan P.D.112\_2001.
-
-*11*
+(a) The Club house without airspace and Boċċi Pitch in Triq Diċembru Tlettax, Marsa, and is registered as Tenement number 78913 and marked edged red on plan P.D.112\_2001.
 
 (b) The Club house without airspace and Boċċi Pitch in Triq Salvu Sacco, Kirkop, and is registered as Tenement number 013379 and marked edged red on plan P.D.106\_2001.
 

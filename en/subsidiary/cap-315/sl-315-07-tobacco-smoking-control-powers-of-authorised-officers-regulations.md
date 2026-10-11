@@ -1,6 +1,6 @@
 ---
 title: "Tobacco Smoking Control (Powers of Authorised Officers) Regulations"
-identifier: "S.L. 315.7"
+identifier: "S.L. 315.07"
 eli: "https://legislation.mt/eli/sl/315.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/315.7/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Tobacco Smoking Control (Powers of Authorised Officers) Regulations (S.L. 315.7)
-
-*1*
-
-(POWERS OF AUTHORISED OFFICERS) [ S.L.315.07
+# Tobacco Smoking Control (Powers of Authorised Officers) Regulations (S.L. 315.07)
 
 SUBSIDIARY LEGISLATION 315.07
 
@@ -68,10 +64,6 @@ Any authorised officer may:
 (j) seal any area, premises or vehicle;
 
 (k) take any photographs, film, tape or video image and make any sketch, plan, or drawing or otherwise make a record of any person, premises or vehicle or of anything contained therein or thereon;
-
-**(POWERS OF AUTHORISED OFFICERS)**
-
-*[ S.L.315.07 2*
 
 (l) test or examine any tobacco or tobacco product;
 

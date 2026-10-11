@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Arts (Honours) - B.A. (Hons) - in Social Policy or in Social Work under the auspices of the Faculty for Social Wellbeing (S.L. 327.259)
 
-\- IN SOCIAL POLICY OR IN SOCIAL WORK UNDER THE
-
-*1*
-
-AUSPICES OF THE FACULTY FOR SOCIAL WELLBEING [S.L.327.259
-
 **SUBSIDIARY LEGISLATION 327.259**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF ARTS (HONOURS) - B.A. (HONS) - IN SOCIAL
@@ -70,11 +64,11 @@ The degree of Bachelor of Arts (Honours) in either Social Policy or in Social Wo
 
 (2) Applicants in possession of the Diploma in Social Work of the University of Malta, or a comparable qualification in an area related to Social Work or Social Policy or who have obtained credits for study-units considered by the Board to be equivalent to those in the course may also be admitted to the course. Subject to the provisions of the principal regulations, such applicants may be allowed by the Board to transfer these credits to the course. The number of credits so transferred shall not exceed those obtainable in one year of the course.
 
-*2*
+## 5. Course duration.
 
-\- IN SOCIAL POLICY OR IN SOCIAL WORK UNDER THE [S.L.327.259 AUSPICES OF THE FACULTY FOR SOCIAL WELLBEING 5. (1) The degree of Bachelor of Arts (Honours) in Social Work shall extend over a period of four years of full-time studies or its equivalent in part-time studies.
+*Substituted by: L.N. 96 of 2015.*
 
-*Course duration. Substituted by: L.N. 96 of 2015.*
+(1) The degree of Bachelor of Arts (Honours) in Social Work shall extend over a period of four years of full-time studies or its equivalent in part-time studies.
 
 (2) Students admitted to the degree of Bachelor of Arts (Honours) in Social Work in terms of the provisions of bye-law 4(2) may complete their course of studies within a period of three years of full-time studies or its equivalent in part-time studies.
 
@@ -117,12 +111,6 @@ The Board shall publish the programmes of studies drawn up in accordance with th
 *Substituted by: L.N. 96 of 2015. Amended by: L.N. 153 of 2022.*
 
 (1)The Final Weighted Average mark for the classification of the degree of Bachelor of Arts (Honours) in Social Work shall be based on the results obtained in the four years of the Course which shall be weighted as follows:
-
-\- IN SOCIAL POLICY OR IN SOCIAL WORK UNDER THE
-
-*3*
-
-AUSPICES OF THE FACULTY FOR SOCIAL WELLBEING [S.L.327.259
 
 First Year Average Mark 10%
 

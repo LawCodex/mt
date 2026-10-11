@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science - M.Sc. - under the auspices of the Institute of Aerospace Technologies (S.L. 327.551)
 
-UNDER THE AUSPICES OF THE INSTITUTE
-
-*1*
-
-OF AEROSPACE TECHNOLOGIES [S.L.327.551
-
 **SUBSIDIARY LEGISLATION 327.551**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -63,12 +57,6 @@ provided that, in appropriate cases, the Board may require students admitted to 
 
 (3) Applicants whose first degree was obtained more than ten years previous to registration for the course may also be admitted provided that they produce sufficient proof of their competence to follow the course with profit.
 
-UNDER THE AUSPICES OF THE INSTITUTE
-
-*2*
-
-[S.L.327.551 OF AEROSPACE TECHNOLOGIES
-
 ## 5. Course duration.
 
 The course shall extend over three semesters of full-time study or the equivalent in part-time study.
@@ -105,11 +93,7 @@ The assessment of the taught study-units shall be held by the end of the semeste
 
 (5) The Panel of Supervision shall periodically inform the Board, in writing, on the general performance of each student. Such advice may include recommendations to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
-(i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the UNDER THE AUSPICES OF THE INSTITUTE
-
-*3*
-
-OF AEROSPACE TECHNOLOGIES [S.L.327.551 Principal Regulations; and
+(i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 
 (ii) the Board may not terminate studies prematurely according to (b) until it has first given the student a chance to be heard.
 

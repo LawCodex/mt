@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the degree of Master of Arts in Baroque Studies – M.A. – under the auspices of the Faculty for the Built Environment (S.L. 327.130)
 
-UNDER THE AUSPICES OF THE FACULTY FOR THE
-
-*1*
-
-BUILT ENVIRONMENT [S.L.327.130
-
 **SUBSIDIARY LEGISLATION 327.130**
 
 *Substituted by: L.N. 118 of 2024.*
@@ -68,11 +62,7 @@ These bye-laws shall be applicable for courses commencing in October 2014 only.
 
 (1) The course shall be open to applicants in possession of a Bachelor's degree from this University obtained with at least Second Class Honours or Category II in an area of study as deemed relevant by the Board, or an equivalent qualification obtained from any other recognised university, provided that where applicants lack essential knowledge in particular areas not covered in their first degree, the Board may require applicants to follow and pass supplementary study-units to which not more than 12 ECTS credits are assigned.
 
-(2) Applicants in possession of the Diploma in Baroque Architecture awarded by this University and who have work experience that is related to the course, may, after an interview, be UNDER THE AUSPICES OF THE FACULTY FOR THE [S.L.327.130 BUILT ENVIRONMENT
-
-admitted to a preparatory programme as specified in bye-law 4 of these bye-laws, which programme, if successfully completed, shall give access to the Degree.
-
-*2*
+(2) Applicants in possession of the Diploma in Baroque Architecture awarded by this University and who have work experience that is related to the course, may, after an interview, be admitted to a preparatory programme as specified in bye-law 4 of these bye-laws, which programme, if successfully completed, shall give access to the Degree.
 
 (3) The interview shall be conducted by an interviewing board appointed by the Board for this purpose and shall be composed of at least three persons.
 
@@ -114,11 +104,7 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 (2) Supervisors shall submit to the Board of Studies progress reports for each student under their supervision at the end of each semester of studies, whether the student is following the Course on a full-time or a part-time basis. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
-UNDER THE AUSPICES OF THE FACULTY FOR THE
-
-*3*
-
-BUILT ENVIRONMENT [S.L.327.130 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
+(i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 
 (ii) the Board may not terminate studies prematurely according to (b) until it has first given the student a chance to be heard.
 

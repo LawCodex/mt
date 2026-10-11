@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-laws for the Degree of Doctor of Philosophy under the auspices of the Centre for English Language Proficiency (S.L. 327.565)
 
-UNDER THE AUSPICES OF THE CENTRE FOR
-
-*1*
-
-ENGLISH LANGUAGE PROFICIENCY [S.L.327.565
-
 **SUBSIDIARY LEGISLATION 327.565**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR OF**
@@ -73,12 +67,6 @@ When the Board deems it necessary, it may require students to successfully compl
 
 \*These bye-laws have been repealed by Legal Notice 218 of 2024.
 
-UNDER THE AUSPICES OF THE CENTRE FOR
-
-*2*
-
-[S.L.327.565 ENGLISH LANGUAGE PROFICIENCY
-
 (2) Applicants may also be asked to demonstrate competence in those skills required by the nature of the proposed research.
 
 ## 6. Centre Doctoral Committee.
@@ -125,10 +113,6 @@ The Board shall approve and publish guidelines on the format and presentation of
 
 (1) Students shall be required to submit a loose bound copy of their thesis for each member of the Board of Examiners in line with the format indicated in the published guidelines, together with a copy in digital format. The officer in charge of the Centre shall issue a dated receipt.
 
-(2) Students may publish the whole or part of their thesis UNDER THE AUSPICES OF THE CENTRE FOR
-
-*3*
-
-ENGLISH LANGUAGE PROFICIENCY [S.L.327.565 before submitting it for examination. Such published work may later be included in the thesis submitted for examination, provided that a statement to this effect is included.
+(2) Students may publish the whole or part of their thesis before submitting it for examination. Such published work may later be included in the thesis submitted for examination, provided that a statement to this effect is included.
 
 (3) On successful completion of their studies, students shall be required to submit to the Centre two hard bound copies of the thesis and one copy in digital format for the University Library within six weeks from the publication of their result. The electronic version must conform to the standards set up by the University Library. Students who do not comply with this bye-law shall not be awarded the Degree.

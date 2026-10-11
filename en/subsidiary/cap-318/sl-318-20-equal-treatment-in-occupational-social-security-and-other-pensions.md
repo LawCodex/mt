@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Equal Treatment in Occupational Social Security and other Pensions Schemes Regulations (S.L. 318.20)
 
-*1*
-
-SECURITY AND OTHER PENSIONS SCHEMES [S.L.318.20
-
 **SUBSIDIARY LEGISLATION 318.20**
 
 EQUAL TREATMENT IN OCCUPATIONAL SOCIAL SECURITY AND OTHER PENSIONS SCHEMES
@@ -55,11 +51,7 @@ LEGAL NOTICE 317 of 2005, as amended by Legal Notices 424 of 2007, 73 of 2014 an
 
 (a) individual contracts for self-employed workers;
 
-(b) schemes for self-employed workers having only one [S.L.318.20 SECURITY AND OTHER PENSIONS SCHEMES
-
-member;
-
-*2*
+(b) schemes for self-employed workers having only one member;
 
 (c) insurance contracts, in the case of salaried workers, to which the employer is not a party;
 
@@ -101,10 +93,6 @@ member;
 
 (c) the calculation of benefits, including supplementary benefits due in respect of a spouse or dependants, and the conditions governing the duration and retention of entitlement to benefits.
 
-*3*
-
-SECURITY AND OTHER PENSIONS SCHEMES [S.L.318.20
-
 (2) For the purposes of these regulations:
 
 (a) direct discriminatory treatment shall be taken to occur where one person is treated less favourably than another is, has been, or would be, treated in a comparable situation;
@@ -140,10 +128,6 @@ Provided that in the case of funded defined-benefit schemes, certain elements in
 (i) the conversion into a capital sum of part of a periodic pension;
 
 (ii) the transfer of pension rights;
-
-*4*
-
-[S.L.318.20 SECURITY AND OTHER PENSIONS SCHEMES
 
 (iii) a revisionary pension payable to a dependant in return for the surrender of part of a pension;
 
@@ -181,11 +165,7 @@ Where in a scheme, there is provision for a flexible pensionable age, then a cla
 
 ## 7. Request of report.
 
-(1) Where an allegation is made that some form of SECURITY AND OTHER PENSIONS SCHEMES [S.L.318.20
-
-discriminatory treatment has occurred, the person making the allegation shall have the right to send a written notification to the scheme’s management body, hereinafter referred to as the management body, of the alleged discriminatory treatment received, giving any relevant details and requesting a reply. On receipt of such notification, the management body shall submit a written reply within ten working days of the date of receipt of such notification, giving the management body’s version of events and any grounds for disputing the allegations, as well as an explanation of any relevant procedures adopted by the management body to prevent discriminatory treatment.
-
-*5*
+(1) Where an allegation is made that some form of discriminatory treatment has occurred, the person making the allegation shall have the right to send a written notification to the scheme’s management body, hereinafter referred to as the management body, of the alleged discriminatory treatment received, giving any relevant details and requesting a reply. On receipt of such notification, the management body shall submit a written reply within ten working days of the date of receipt of such notification, giving the management body’s version of events and any grounds for disputing the allegations, as well as an explanation of any relevant procedures adopted by the management body to prevent discriminatory treatment.
 
 (2) Any correspondence referred to in subregulation (1) shall be admissible in proceedings brought before any court, and if it appears to the court that the management body deliberately, and without reasonable excuse, omitted to reply within ten working days of the date of receipt of such notification or that the reply was evasive or equivocal, the court may draw any inference from that fact that it considers just and equitable to draw, including an inference that an unlawful act was committed.
 

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister of Finance, Economy and Investment for the Issue of ' €6,542,600 7% Malta Government Stock 2018 (III) (S.L. 161.77)
 
-ECONOMY AND INVESTMENT FOR THE ISSUE OF
-
-*1*
-
-€6,542,600 7% MALTA GOVERNMENT STOCK 2018 (III) [S.L.161.77
-
 **SUBSIDIARY LEGISLATION 161.77**
 
 DIRECTIVE BY THE MINISTER OF FINANCE,
@@ -55,11 +49,9 @@ In cases where Stock is registered in the names of two or more persons as joint 
 
 An application for the Stock to be put on the official list for trading on the Malta Stock Exchange will be made in terms of the Financial Markets Act. Such Stock may be freely sold to the public with the prior authorization of the Maltese Episcopal Conference. Such Stock as may however be traded between Ecclesiastical Entities outside the Malta Stock Exchange, does not require such authorization, and shall be exempt from duty on documents.
 
-*2*
+## 5. Charge on Government revenue and assets.
 
-ECONOMY AND INVESTMENT FOR THE ISSUE OF [S.L.161.77 €6,542,600 7% MALTA GOVERNMENT STOCK 2018 (III) 5. The Stock and interest thereon will be a charge on the general revenue and assets of the Government of Malta.
-
-*Charge on Government revenue and assets.*
+The Stock and interest thereon will be a charge on the general revenue and assets of the Government of Malta.
 
 ## 6. Redemption of Stock.
 

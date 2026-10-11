@@ -1,6 +1,6 @@
 ---
 title: "Accountancy Profession (Provision of Accountancy Services on a Temporary and Occasional Basis) Regulations"
-identifier: "S.L. 281.4"
+identifier: "S.L. 281.04"
 eli: "https://legislation.mt/eli/sl/281.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/281.4/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Accountancy Profession (Provision of Accountancy Services on a Temporary and Occasional Basis) Regulations (S.L. 281.4)
-
-*1*
-
-SERVICES ON A TEMPORARY AND OCCASIONAL BASIS) [S.L.281.04
+# Accountancy Profession (Provision of Accountancy Services on a Temporary and Occasional Basis) Regulations (S.L. 281.04)
 
 **SUBSIDIARY LEGISLATION 281.04**
 
@@ -69,11 +65,7 @@ The objective of these regulations is to provide for rules specific to the provi
 
 (a) is legally established in any Member State for the purpose of performing accountancy services:
 
-Provided that where the provision of accountancy services, or the education and training leading to the accountancy service, is not regulated in the Member State in which the temporary service provider is legally established, the temporary service provider [S.L.281.04 SERVICES ON A TEMPORARY AND OCCASIONAL BASIS)
-
-shall not be prohibited from providing accountancy services on a temporary and occasional basis in Malta if he has provided accountancy services in the Member State in which the temporary service provider is legally established for at least one year during the ten years preceding the provision of accountancy services on a temporary and occasional basis in Malta;
-
-*2*
+Provided that where the provision of accountancy services, or the education and training leading to the accountancy service, is not regulated in the Member State in which the temporary service provider is legally established, the temporary service provider shall not be prohibited from providing accountancy services on a temporary and occasional basis in Malta if he has provided accountancy services in the Member State in which the temporary service provider is legally established for at least one year during the ten years preceding the provision of accountancy services on a temporary and occasional basis in Malta;
 
 (b) is covered by adequate indemnity insurance in terms of the Act or regulations issued in terms of the Act;
 
@@ -97,11 +89,7 @@ Provided that a decision of the Board taken pursuant to this sub-regulation shal
 
 *Amended by: L.N. 270 of 2016.*
 
-(1) A temporary service provider shall, prior to the date of commencement of the provision of accountancy services in Malta, submit to the Board, by electronic means or otherwise, a written SERVICES ON A TEMPORARY AND OCCASIONAL BASIS) [S.L.281.04
-
-declaration in such form as may be determined by the Board from time to time and made available on the official website of the Board, setting out the following information:
-
-*3*
+(1) A temporary service provider shall, prior to the date of commencement of the provision of accountancy services in Malta, submit to the Board, by electronic means or otherwise, a written declaration in such form as may be determined by the Board from time to time and made available on the official website of the Board, setting out the following information:
 
 (a) the full name of the temporary service provider;
 
@@ -129,11 +117,7 @@ declaration in such form as may be determined by the Board from time to time and
 
 (e) evidence of the professional qualification of the temporary service provider.
 
-(3) Where, due to a material change in the status of the temporary service provider, the written declaration and, or the documents being submitted together with such written declaration no longer reflect such status, the temporary service provider shall [S.L.281.04 SERVICES ON A TEMPORARY AND OCCASIONAL BASIS)
-
-submit to the Board an updated written declaration and, or the documents reflecting such change in status of the temporary service provider within fifteen days from the date when such change occurred.
-
-*4*
+(3) Where, due to a material change in the status of the temporary service provider, the written declaration and, or the documents being submitted together with such written declaration no longer reflect such status, the temporary service provider shall submit to the Board an updated written declaration and, or the documents reflecting such change in status of the temporary service provider within fifteen days from the date when such change occurred.
 
 (4) Where a temporary service provider wishes to provide accountancy services in the calendar year immediately following the year in which a written declaration has been submitted, or resubmitted as the case may be, such written declaration shall be renewed and resubmitted to the Board:
 
@@ -163,10 +147,6 @@ A temporary service provider shall, when providing accountancy services in Malta
 
 (c) where the provision of accountancy services is subject to authorisation in the Member State in which the temporary service provider is legally established, the details of the competent supervisory authority or public oversight body;
 
-*5*
-
-SERVICES ON A TEMPORARY AND OCCASIONAL BASIS) [S.L.281.04
-
 (d) the professional title or designation used, or in the event that such title or designation does not exist, the formal qualification of the temporary service provider and the Member State in which it was awarded;
 
 (e) the VAT identification number referred to in Council Directive 77/388/EEC of the temporary service provider; and
@@ -192,10 +172,6 @@ Provided further that a decision of the Board taken pursuant to this sub-regulat
 ## 10. Professional conduct.
 
 A temporary service provider providing accountancy services on a temporary and occasional basis in Malta shall adhere to any directives or guidelines regulating the professional conduct of warrant holders and practising certificate holders, code of ethics, standards of competency and integrity and independence to be kept by the profession.
-
-*6*
-
-[S.L.281.04 SERVICES ON A TEMPORARY AND OCCASIONAL BASIS)
 
 ## 11. Sanctions.
 

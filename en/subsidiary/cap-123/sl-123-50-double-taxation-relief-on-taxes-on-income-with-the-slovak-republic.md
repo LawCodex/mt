@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Slovak Republic Order (S.L. 123.50)
 
-*1*
-
-WITH THE SLOVAK REPUBLIC [S.L.123.50
-
 **SUBSIDIARY LEGISLATION 123.50**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -46,8 +42,6 @@ It is hereby declared:
 (c) that the Convention has entered into force on the 20th August, 2000.
 
 \*https://cfr.gov.mt/en/inlandrevenue/itu/Documents/Malta%20- %20Slovakia%20DTA%20(synthesised%20text).pdf
-
-2 [S.L.123.50 WITH THE SLOVAK REPUBLIC
 
 ## SCHEDULE — CONVENTION — BETWEEN MALTA AND THE SLOVAK REPUBLIC
 
@@ -105,9 +99,7 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 \1. For the purposes of this Convention, unless the context otherwise requires:
 
-(a) the term "Slovakia" means the Slovak Republic and, when used in a geographical sense, means the territory over which the Slovak Republic WITH THE SLOVAK REPUBLIC [S.L.123.50 3
-
-exercises its sovereignty, sovereign rights or jurisdiction in accordance with the rules of international law;
+(a) the term "Slovakia" means the Slovak Republic and, when used in a geographical sense, means the territory over which the Slovak Republic exercises its sovereignty, sovereign rights or jurisdiction in accordance with the rules of international law;
 
 (b) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein the Republic of Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
 
@@ -141,9 +133,7 @@ exercises its sovereignty, sovereign rights or jurisdiction in accordance with t
 
 \1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature. But this term does not include any person who is liable to tax in that State in respect only of income from sources in that State.
 
-\2. Where by reason of the provisions of paragraph 1 an individual is a resident 4 [S.L.123.50 WITH THE SLOVAK REPUBLIC
-
-of both Contracting States, then his status shall be determined as follows:
+\2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
 (a) he shall be deemed to be a resident only of the State in which he has a permanent home available to him; if he has a permanent home available to him in both States, he shall be deemed to be a resident of the State with which his personal and economic relations are closer (centre of vital interests);
 
@@ -185,9 +175,7 @@ of both Contracting States, then his status shall be determined as follows:
 
 Notwithstanding the preceding provisions of this Article, the term "permanent establishment" shall be deemed not to include:
 
-(a) the use of facilities solely for the purpose of storage, display or delivery WITH THE SLOVAK REPUBLIC [S.L.123.50 5
-
-of goods or merchandise belonging to the enterprise;
+(a) the use of facilities solely for the purpose of storage, display or delivery of goods or merchandise belonging to the enterprise;
 
 (b) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of storage, display or delivery;
 
@@ -217,11 +205,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \1. Income derived by a resident of a Contracting State from immovable property (including income from agriculture or forestry) situated in the other Contracting State may be taxed in that other State.
 
-\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, or to explore for, mineral deposits, sources and other natural resources;
-
-6 [S.L.123.50 WITH THE SLOVAK REPUBLIC
-
-ships and aircraft shall not be regarded as immovable property.
+\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, or to explore for, mineral deposits, sources and other natural resources; ships and aircraft shall not be regarded as immovable property.
 
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
@@ -251,9 +235,7 @@ Where profits include items of income which are dealt with separately in other A
 
 **SHIPPING AND AIR TRANSPORT**
 
-\1. Profits of an enterprise of a Contracting State from the operation of ships or WITH THE SLOVAK REPUBLIC [S.L.123.50 7
-
-aircraft in international traffic shall be taxable only in that State.
+\1. Profits of an enterprise of a Contracting State from the operation of ships or aircraft in international traffic shall be taxable only in that State.
 
 \2. The provisions of paragraph 1 shall also apply to profits from the participation in a pool, a joint business or an international operating agency.
 
@@ -283,9 +265,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 (b) where the dividends are paid by a company which is a resident of Malta to a resident of Slovakia who is the beneficial owner thereof, Malta tax on the gross amount of the dividends shall not exceed that chargeable on the profits out of which the dividends are paid.
 
-This paragraph shall not affect the taxation of the company in respect of the 8 [S.L.123.50 WITH THE SLOVAK REPUBLIC
-
-profits out of which the dividends are paid.
+This paragraph shall not affect the taxation of the company in respect of the profits out of which the dividends are paid.
 
 \3. The term ''dividends'' as used in this Article means income from all types of shares or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
 
@@ -304,8 +284,6 @@ profits out of which the dividends are paid.
 \3. The provisions of paragraph 1 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \4. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
-
-WITH THE SLOVAK REPUBLIC [S.L.123.50 9
 
 **Article 12**
 
@@ -331,9 +309,7 @@ WITH THE SLOVAK REPUBLIC [S.L.123.50 9
 
 \2. Gains from the alienation of shares or comparable interests in a company the assets of which consist directly or indirectly principally of immovable property situated in a Contracting State may be taxed in that State.
 
-\3. Gains from the alienation of movable property forming part of the business 10 [S.L.123.50 WITH THE SLOVAK REPUBLIC
-
-property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or of movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing independent personal services, including such income or gains from the alienation of such a permanent establishment (alone or with the whole enterprise) or of such fixed base, may be taxed in that other State.
+\3. Gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or of movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing independent personal services, including such income or gains from the alienation of such a permanent establishment (alone or with the whole enterprise) or of such fixed base, may be taxed in that other State.
 
 \4. Gains from the alienation of ships or aircraft operated in international traffic by an enterprise of a Contracting State, or movable property pertaining to the operation of such ships or aircraft, shall be taxable only in that State.
 
@@ -359,9 +335,7 @@ property of a permanent establishment which an enterprise of a Contracting State
 
 (a) the recipient is present in the other State for a period or periods not exceeding in the aggregate 183 days in any twelve-month period commencing or ending in the calendar year concerned, and
 
-(b) the remuneration is paid by, or on behalf of, an employer who is not a WITH THE SLOVAK REPUBLIC [S.L.123.50 11
-
-resident of the other State, and
+(b) the remuneration is paid by, or on behalf of, an employer who is not a resident of the other State, and
 
 (c) the remuneration is not borne by a permanent establishment or a fixed base which the employer has in the other State.
 
@@ -395,9 +369,7 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 **GOVERNMENT SERVICE**
 
-\1. (a) Salaries, wages and other similar remuneration, other than a pension, paid by a Contracting State to an individual in respect of services 12 [S.L.123.50 WITH THE SLOVAK REPUBLIC
-
-rendered to that State shall be taxable only in that State.
+\1. (a) Salaries, wages and other similar remuneration, other than a pension, paid by a Contracting State to an individual in respect of services rendered to that State shall be taxable only in that State.
 
 (b) However, such salaries, wages and other similar remuneration shall be taxable only in the other Contracting State if the services are rendered in that State and the individual is a resident of that State who:
 
@@ -431,9 +403,7 @@ A student or business apprentice who is present in a Contracting State solely fo
 
 \1. In the case of Slovakia, double taxation shall be eliminated as follows:
 
-Slovakia, when imposing taxes on its residents, may include in the tax base upon which such taxes are imposed the items of income which according to the provisions of this Convention may also be taxed in Malta, but shall allow as a credit against the amount of tax computed on WITH THE SLOVAK REPUBLIC [S.L.123.50 13
-
-such a base an amount equal to the tax paid in Malta. Such credit shall not, however, exceed that part of the Slovak tax, as computed before the credit is given, which is appropriate to the income which, in accordance with the provisions of this Convention, may be taxed in Malta.
+Slovakia, when imposing taxes on its residents, may include in the tax base upon which such taxes are imposed the items of income which according to the provisions of this Convention may also be taxed in Malta, but shall allow as a credit against the amount of tax computed on such a base an amount equal to the tax paid in Malta. Such credit shall not, however, exceed that part of the Slovak tax, as computed before the credit is given, which is appropriate to the income which, in accordance with the provisions of this Convention, may be taxed in Malta.
 
 \2. In the case of Malta, double taxation shall be eliminated as follows:
 
@@ -452,8 +422,6 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 \3. Except where the provisions of paragraph 1 of Article 9, paragraph 4 of Article 11, or paragraph 6 of Article 12 apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
 
 \4. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
-
-14 [S.L.123.50 WITH THE SLOVAK REPUBLIC
 
 **Article 24**
 
@@ -479,9 +447,7 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 (b) to supply information which is not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;
 
-(c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or WITH THE SLOVAK REPUBLIC [S.L.123.50 15
-
-information, the disclosure of which would be contrary to public policy (ordre public).
+(c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public policy (ordre public).
 
 **Article 26**
 

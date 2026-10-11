@@ -1,6 +1,6 @@
 ---
 title: "Disposal and Collection of Waste in Valletta Regulations"
-identifier: "S.L. 206.2"
+identifier: "S.L. 206.02"
 eli: "https://legislation.mt/eli/sl/206.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,9 @@ version: "https://legislation.mt/eli/sl/206.2/20180608/eng"
 retrieved: 2026-10-12
 ---
 
-# Disposal and Collection of Waste in Valletta Regulations (S.L. 206.2)
+# Disposal and Collection of Waste in Valletta Regulations (S.L. 206.02)
 
-*1*
-
-OF WASTE IN VALLETTA [S.L.206.02 SUBSIDIARY LEGISLATION 206.02
+**SUBSIDIARY LEGISLATION 206.02**
 
 **DISPOSAL AND COLLECTION OF WASTE IN**
 
@@ -67,13 +65,9 @@ In these regulations, unless the context otherwise requires:
 
 *S.L. 549.45*
 
-"waste carrier for municipal solid waste", for the purposes of these regulations, means a waste carrier duly registered with the Environment and Resources Authority for the transport of non-hazardous and inert waste in terms of the Waste Management [S.L. 206.02 OF WASTE IN VALLETTA
+"waste carrier for municipal solid waste", for the purposes of these regulations, means a waste carrier duly registered with the Environment and Resources Authority for the transport of non-hazardous and inert waste in terms of the Waste Management (Activity Registration) Regulations.
 
 *S.L. 549.45*
-
-(Activity Registration) Regulations.
-
-*2*
 
 ## 3. Prohibitions.
 
@@ -101,11 +95,9 @@ The collection of waste in Valletta may only be carried out by waste collection 
 
 (a) with regard to municipal solid waste, between 7.00am and 8.30am and between 3.00pm and 5.00pm from the zones indicated as the zones for the collection of municipal solid waste in the plan shown in the Second Schedule by a waste carrier for municipal solid waste; and
 
-(b) with regard to commercial waste, between 3.00pm and 5.00pm and between 12.00am and 3.00am from the OF WASTE IN VALLETTA [S.L.206.02 zones indicated as the zones for the collection of commercial waste in the plan shown in the Second Schedule by a waste carrier for commercial waste.
+(b) with regard to commercial waste, between 3.00pm and 5.00pm and between 12.00am and 3.00am from the zones indicated as the zones for the collection of commercial waste in the plan shown in the Second Schedule by a waste carrier for commercial waste.
 
 (2) Waste carriers for commercial waste shall be obliged to collect waste from the zones indicated in the plan shown in the Second Schedule by means of vehicles whose specifications and dimensions conform to those established in paragraph (b) of the First Schedule and to immediately transfer all waste so collected onto a refuse compaction vehicle in such a place as shall be indicated for such purpose by the Local Council.
-
-*3*
 
 (3) The collection of packaging waste by any waste collection operator which is duly licensed and contracted to collect such waste may only be carried out during the times stipulated in sub-regulation (1) and by means of N1 motor vehicles which, with regard to waste which shall be collected from the zones shown in the plan in the Second Schedule as the zones for the collection of solid municipal waste shall have such specifications and dimensions as are indicated in paragraph (a) of the First Schedule and with regard to waste which shall be collected from the zones shown in the plan in the Second Schedule as the zones for the collection of commercial waste shall have such specifications and dimensions as are indicated in paragraph (b) of the First Schedule.
 
@@ -117,11 +109,7 @@ Provided that a commercial establishment which requires the services of waste co
 
 Provided further that in such an event the commercial establishment shall be obliged to inform the Local Council at least twenty-four hours prior to the intended time of such waste collection operation.
 
-(2) Furthermore, any person who, at any time, even during such times indicated in these regulations for the collection of waste, leaves or deposits in Valletta any waste, in whatsoever form it is packaged or deposited, away from his own premises, shall also be [S.L. 206.02 OF WASTE IN VALLETTA
-
-guilty of an offence.
-
-*4*
+(2) Furthermore, any person who, at any time, even during such times indicated in these regulations for the collection of waste, leaves or deposits in Valletta any waste, in whatsoever form it is packaged or deposited, away from his own premises, shall also be guilty of an offence.
 
 (3) Any person who affixes, abandons or leaves affixed in any public place in Valletta any flyers, signs, posted, expired permits or any other printed material shall be guilty of an offence.
 
@@ -151,9 +139,7 @@ guilty of an offence.
 
 (iii) in the case of a third or subsequent conviction, to a fine (ammenda) of three thousand euro (€3,000).
 
-*5*
-
-OF WASTE IN VALLETTA [S.L.206.02 (5) In all cases where a person is accused of having committed an offence in violation of these regulations with the use of a vehicle, the case shall be heard solely and exclusively by a court of criminal jurisdiction.
+(5) In all cases where a person is accused of having committed an offence in violation of these regulations with the use of a vehicle, the case shall be heard solely and exclusively by a court of criminal jurisdiction.
 
 ## 9. Offences committed by vehicle.
 
@@ -171,11 +157,9 @@ OF WASTE IN VALLETTA [S.L.206.02 (5) In all cases where a person is accused of h
 
 (3) Where any such notice is given, the person receiving such notice, or any other person who accepts responsibility for the offence referred to in the said notice, may, within ten days of the notice, call at the place referred to in the notice, produce all such documents therein referred to and pay the fine set out in the second column of the Third Schedule in respect of that offence, or such person shall send those documents and payment of the fine by registered post or shall pay the fine by any other means indicated in the notice.
 
-(4) Where the fine indicated in any such notice is not paid within ten days, ordinary proceedings in respect of the offence in question shall be taken in front of a Local Tribunal as designated by the Minister responsible for justice or the court, as the case may be. [S.L. 206.02 OF WASTE IN VALLETTA
+(4) Where the fine indicated in any such notice is not paid within ten days, ordinary proceedings in respect of the offence in question shall be taken in front of a Local Tribunal as designated by the Minister responsible for justice or the court, as the case may be.
 
 (5) Where any such notice is complied with and the said fine is paid within the said period, no proceedings shall be taken in respect of the offence in question and the payment of such fine shall, for all intents and purposes, be deemed to be an admission of the commission of the offence.
-
-*6*
 
 (6) The provisions of this regulation shall only apply in the case of a first conviction but shall not apply in the case of a second or subsequent conviction.
 
@@ -207,19 +191,13 @@ Width: 2500 millimetres
 
 Height: 2050 millimetres
 
-*7*
-
-OF WASTE IN VALLETTA [S.L.206.02 SECOND SCHEDULE
+## SECOND SCHEDULE
 
 (Regulation 6)
 
 Plan of Valletta which shows, where indicated by the red colour, the zones from which commercial waste is to be collected during such time indicated in paragraph (b) of sub-regulation 6(1), whereas the remaining zone within the boundaries of Valletta where marked with the black line, the zones from which municipal solid waste shall be collected during
 
 **such times indicated in paragraph (a) of sub-regulation 6(1)**
-
-*8*
-
-[S.L. 206.02 OF WASTE IN VALLETTA
 
 THIRD SCHEDULE
 

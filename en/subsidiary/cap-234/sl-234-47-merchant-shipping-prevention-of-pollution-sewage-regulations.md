@@ -55,11 +55,7 @@ Latitude 11°00’ S, longitude 142°08’ E
 
 **To a point in latitude 10°35’ S, longitude 141°55’ E**
 
-Thence to a point latitude 10°00’ S, longitude 142°00’ E Thence to a point latitude 9°10’ S, longitude 143°52’ E Thence to a point latitude 9°00’ S, longitude 144°30’ E Thence to a point latitude 10°41’ S, longitude 145°00’ E [S.L.234.47 (PREVENTION OF POLLUTION BY SEWAGE)
-
-Thence to a point latitude 13°00’ S, longitude 145°00’ E Thence to a point latitude 15°00’ S, longitude 146°00’ E Thence to a point latitude 17°30’ S, longitude 147°00’ E Thence to a point latitude 21°00’ S, longitude 152°55’ E Thence to a point latitude 24°30’ S, longitude 154°00’ E Thence to a point on the coast of Australia in latitude 24°42’ S, longitude 153°15’ E;
-
-*2*
+Thence to a point latitude 10°00’ S, longitude 142°00’ E Thence to a point latitude 9°10’ S, longitude 143°52’ E Thence to a point latitude 9°00’ S, longitude 144°30’ E Thence to a point latitude 10°41’ S, longitude 145°00’ E Thence to a point latitude 13°00’ S, longitude 145°00’ E Thence to a point latitude 15°00’ S, longitude 146°00’ E Thence to a point latitude 17°30’ S, longitude 147°00’ E Thence to a point latitude 21°00’ S, longitude 152°55’ E Thence to a point latitude 24°30’ S, longitude 154°00’ E Thence to a point on the coast of Australia in latitude 24°42’ S, longitude 153°15’ E;
 
 ''sewage'' means:
 
@@ -121,11 +117,7 @@ The Registrar-General may either on a case by case basis or through the issue of
 
 (a) determine, lay down, prescribe, set or specify what may be required to be determined, laid down, prescribed, set or specified by these regulations or by Annex IV, or expound on the requirements of these regulations or Annex IV or clarify their applicability or interpretation; and
 
-(b) extend any of the provisions of Annex IV to other classes of Maltese ships or to other classes of ships while they are in Maltese waters, and in so doing, and without prejudice to the generality of the foregoing, the Registrar-General shall be guided by the circulars, clarifications, codes, decisions, directives, guidelines, [S.L.234.47 (PREVENTION OF POLLUTION BY SEWAGE)
-
-instruments, interpretations, manuals, notices, publications, recommendations, regulations, resolutions, rules or any other similar medium of the International Maritime Organisation or any other body or organisation with an appropriate knowledge or competence on the subject matter.
-
-*4*
+(b) extend any of the provisions of Annex IV to other classes of Maltese ships or to other classes of ships while they are in Maltese waters, and in so doing, and without prejudice to the generality of the foregoing, the Registrar-General shall be guided by the circulars, clarifications, codes, decisions, directives, guidelines, instruments, interpretations, manuals, notices, publications, recommendations, regulations, resolutions, rules or any other similar medium of the International Maritime Organisation or any other body or organisation with an appropriate knowledge or competence on the subject matter.
 
 ## 8. Duty to ensure compliance.
 
@@ -185,11 +177,7 @@ such person shall, on conviction, be liable to a fine (multa) as provided for in
 
 (2) No ship, to which these regulations apply, shall proceed or attempt to proceed to sea on an international voyage from Maltese waters unless in possession of a valid International Sewage Pollution Prevention Certificate in respect of such ship.
 
-(3) If a ship proceeds or attempts to proceed to sea on an international voyage, in contravention of the provisions contained in subregulations (1) and (2), the master of the ship shall be liable [S.L.234.47 (PREVENTION OF POLLUTION BY SEWAGE)
-
-to a fine (multa) as provided for in regulation 12.
-
-*6*
+(3) If a ship proceeds or attempts to proceed to sea on an international voyage, in contravention of the provisions contained in subregulations (1) and (2), the master of the ship shall be liable to a fine (multa) as provided for in regulation 12.
 
 (4) The master of every ship to which the provisions of subregulation (2) apply, shall produce to the officer from whom a clearance for the ship is demanded, at the time a clearance for the ship is demanded for a voyage from Malta to a port or place outside Maltese waters, valid certificates referred to in the said subregulation at the time when the ship proceeds to sea on an international voyage, and such clearance shall not be granted, and the ship may be detained, until the said certificate or certificates are so produced.
 

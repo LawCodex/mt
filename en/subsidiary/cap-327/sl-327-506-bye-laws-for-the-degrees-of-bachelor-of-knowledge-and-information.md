@@ -15,13 +15,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degrees of Bachelor of Knowledge and Information Management (Honours) - B.KIM. (Hons) - and Bachelor of Knowledge and Information Management - B.KIM - under the auspices of the Faculty of Media and Knowledge Sciences (S.L. 327.506)
 
-AGEMENT (HONOURS) - B.KIM. (Hons) -AND BACHELOR OF KNOWL-
-
-EDGE AND INFORMATION MANAGEMENT - B.KIM. - UNDER THE
-
-*1*
-
-AUSPICES OF THE FACULTY OF MEDIA AND KNOWLEDGE SCIENCES [S.L.327.506 SUBSIDIARY LEGISLATION 327.506
+**SUBSIDIARY LEGISLATION 327.506**
 
 BYE-LAWS FOR THE DEGREES OF BACHELOR OF KNOWLEDGE AND INFORMATION
 
@@ -63,9 +57,9 @@ These bye-laws shall be applicable for courses commencing in October 2017 or lat
 
 (3) The Board shall announce a list of areas of study that may be taken with Knowledge and Information Management in the Degree before the commencement of the course.
 
-AGEMENT (HONOURS) - B.KIM. (Hons) -AND BACHELOR OF KNOWL- EDGE AND INFORMATION MANAGEMENT - B.KIM. - UNDER THE [S.L.327.506 AUSPICES OF THE FACULTY OF MEDIA AND KNOWLEDGE SCIENCES 4. Applicants shall be required to indicate their choice of areas of study at the time of applying for admission.
+## 4. Choice of areas of study.
 
-*2 Choice of areas of study.*
+Applicants shall be required to indicate their choice of areas of study at the time of applying for admission.
 
 ## 5. Requirements for admission.
 
@@ -107,13 +101,7 @@ Part Two shall consist of study-units to which 120 ECTS credits are assigned.
 
 (1) Students on the Bachelor of Knowledge and Information Management (Honours) course shall be required to register and obtain credit for study-units to which a total of 180 ECTS credits are assigned, of which not less than 132 ECTS credits shall be in the Knowledge and Information Management area and not less than 36 ECTS credits shall be in the subsidiary area of study.
 
-(2) Students on the Bachelor of Knowledge and Information Management course shall be required to register and obtain credit AGEMENT (HONOURS) - B.KIM. (Hons) -AND BACHELOR OF KNOWL-
-
-EDGE AND INFORMATION MANAGEMENT - B.KIM. - UNDER THE
-
-*3*
-
-AUSPICES OF THE FACULTY OF MEDIA AND KNOWLEDGE SCIENCES [S.L.327.506 for study-units to which a total of 180 ECTS credits are assigned, of which not less than 80 ECTS credits shall be obtained in each of the two main areas of study.
+(2) Students on the Bachelor of Knowledge and Information Management course shall be required to register and obtain credit for study-units to which a total of 180 ECTS credits are assigned, of which not less than 80 ECTS credits shall be obtained in each of the two main areas of study.
 
 ## 12. Classification of the Awards.
 

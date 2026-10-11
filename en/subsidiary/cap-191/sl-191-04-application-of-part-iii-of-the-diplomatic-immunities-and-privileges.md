@@ -1,6 +1,6 @@
 ---
 title: "Application of Part III of the Diplomatic Immunities and Privileges Act (Regional Marine Pollution Emergency Response Centre for the Mediterranean Sea - REMPEC) Order"
-identifier: "S.L. 191.4"
+identifier: "S.L. 191.04"
 eli: "https://legislation.mt/eli/sl/191.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,15 +13,9 @@ version: "https://legislation.mt/eli/sl/191.4/20120105/eng"
 retrieved: 2026-10-12
 ---
 
-# Application of Part III of the Diplomatic Immunities and Privileges Act (Regional Marine Pollution Emergency Response Centre for the Mediterranean Sea - REMPEC) Order (S.L. 191.4)
+# Application of Part III of the Diplomatic Immunities and Privileges Act (Regional Marine Pollution Emergency Response Centre for the Mediterranean Sea - REMPEC) Order (S.L. 191.04)
 
-IMMUNITIES AND PRIVILEGES ACT (REGIONAL MARINE
-
-POLLUTION EMERGENCY RESPONSE CENTRE FOR THE
-
-*1*
-
-MEDITERRANEAN SEA - REMPEC) [S.L.191.04 SUBSIDIARY LEGISLATION 191.04
+**SUBSIDIARY LEGISLATION 191.04**
 
 APPLICATION OF PART III OF THE DIPLOMATIC IMMUNITIES AND PRIVILEGES ACT (REGIONAL MARINE POLLUTION EMERGENCY RESPONSE
 
@@ -58,8 +52,6 @@ The persons specified in the Second Schedule are officers and servants of the Re
 ## 6. Extension of immunities and privileges to officers and servants. Cap. 191.
 
 The officers and servants shall enjoy the immunities and privileges set out in Part III of the Second Schedule to the Diplomatic Immunities and Privileges Act during their term of office with the Regional Marine Pollution Emergency Response Centre for the Mediterranean Sea (REMPEC) in Malta.
-
-IMMUNITIES AND PRIVILEGES ACT (REGIONAL MARINE POLLUTION EMERGENCY RESPONSE CENTRE FOR THE 2 [S.L.191.04 MEDITERRANEAN SEA - REMPEC)
 
 Substituted by: FIRST SCHEDULE
 

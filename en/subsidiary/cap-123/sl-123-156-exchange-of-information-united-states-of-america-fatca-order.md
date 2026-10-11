@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Exchange of Information (United States of America) (FATCA) Order (S.L. 123.156)
 
-*1*
-
-(UNITED STATES OF AMERICA) (FATCA) [S.L.123.156
-
 **SUBSIDIARY LEGISLATION 123.156**
 
 **EXCHANGE OF INFORMATION**
@@ -42,8 +38,6 @@ It is hereby declared:
 (c) that the Agreement shall enter into force on such date as may be announced by notice in the Government Gazette.\*
 
 \*see article 2 of this Order, and Legal Notice 290 of 2014.
-
-2 [S.L.123.156 (UNITED STATES OF AMERICA) (FATCA)
 
 Amended by: SCHEDULE I
 
@@ -83,9 +77,7 @@ Whereas, the Government of the United States of America acknowledges the need to
 
 Whereas, an intergovernmental approach to FATCA implementation would address legal impediments and reduce burdens for Republic of Malta financial institutions;
 
-Whereas, the Parties desire to conclude an agreement to improve international tax compliance and provide for the implementation of FATCA based on domestic (UNITED STATES OF AMERICA) (FATCA) [S.L.123.156 3
-
-reporting and reciprocal automatic exchange pursuant to the Convention and subject to the confidentiality and other protections provided for therein, including the provisions limiting the use of the information exchanged under the Convention;
+Whereas, the Parties desire to conclude an agreement to improve international tax compliance and provide for the implementation of FATCA based on domestic reporting and reciprocal automatic exchange pursuant to the Convention and subject to the confidentiality and other protections provided for therein, including the provisions limiting the use of the information exchanged under the Convention;
 
 Now, therefore, the Parties have agreed as follows:
 
@@ -113,11 +105,7 @@ f) The term "Competent Authority" means:
 
 g) The term "Financial Institution" means a Custodial Institution, a Depository Institution, an Investment Entity, or a Specified Insurance Company.
 
-h) The term "Custodial Institution" means any Entity that holds, as a substantial portion of its business, financial assets for the account of others. An entity holds financial assets for the account of others as a substantial portion of its business if the entity’s gross income attributable to the holding of financial assets and related financial services equals or exceeds 20 percent of the entity’s gross income during the shorter of: (i) the three-year period that ends on December 31 (or the final day of a non-calendar year accounting period) prior to the year in which the determination is being made; or (ii) the period during [S.L.123.156 (UNITED STATES OF AMERICA) (FATCA)
-
-which the entity has been in existence.
-
-*4*
+h) The term "Custodial Institution" means any Entity that holds, as a substantial portion of its business, financial assets for the account of others. An entity holds financial assets for the account of others as a substantial portion of its business if the entity’s gross income attributable to the holding of financial assets and related financial services equals or exceeds 20 percent of the entity’s gross income during the shorter of: (i) the three-year period that ends on December 31 (or the final day of a non-calendar year accounting period) prior to the year in which the determination is being made; or (ii) the period during which the entity has been in existence.
 
 *i)*
 
@@ -155,11 +143,9 @@ The term "Reporting Malta Financial Institution" means any Malta Financial Insti
 
 *p)*
 
-The term "Reporting U.S. Financial Institution" means (i) any Financial Institution that is resident in the United States, but excluding any branch of such Financial Institution that is located outside the United States, and (ii) any branch of a Financial Institution not resident in the United States, if such branch is located in the United States, provided that the Financial Institution or branch has control, receipt, or custody of income with respect to which information is required to be exchanged under subparagraph (2)(b) of Article 2 of this Agreement. The term "Non-Reporting Malta Financial Institution" means any Malta Financial Institution, or other Entity resident in Malta that is described in Annex II as a Non-Reporting Malta Financial Institution or (UNITED STATES OF AMERICA) (FATCA) [S.L.123.156 5
+The term "Reporting U.S. Financial Institution" means (i) any Financial Institution that is resident in the United States, but excluding any branch of such Financial Institution that is located outside the United States, and (ii) any branch of a Financial Institution not resident in the United States, if such branch is located in the United States, provided that the Financial Institution or branch has control, receipt, or custody of income with respect to which information is required to be exchanged under subparagraph (2)(b) of Article 2 of this Agreement. The term "Non-Reporting Malta Financial Institution" means any Malta Financial Institution, or other Entity resident in Malta that is described in Annex II as a Non-Reporting Malta Financial Institution or that otherwise qualifies as a deemed-compliant FFI or an exempt beneficial owner under relevant U.S. Treasury Regulations.
 
 *q)*
-
-that otherwise qualifies as a deemed-compliant FFI or an exempt beneficial owner under relevant U.S. Treasury Regulations.
 
 *r)*
 
@@ -175,13 +161,9 @@ The term "Financial Account" means an account maintained by a Financial Institut
 
 (3) any Cash Value Insurance Contract and any Annuity Contract issued or maintained by a Financial Institution, other than a noninvestment-linked, nontransferable immediate life annuity that is issued to an individual and monetizes a pension or disability benefit provided under an account that is excluded from the definition of Financial Account in Annex II.
 
-Notwithstanding the foregoing, the term "Financial Account" does not include any account that is excluded from the definition of Financial Account in Annex II. For purposes of this Agreement, interests are "regularly traded" if there is a meaningful volume of trading with respect to the interests on an ongoing basis, and an "established securities market" means an exchange that is officially recognized and supervised by a governmental authority in which the market is located and that has a meaningful annual value of shares traded on the exchange. For purposes of this subparagraph 1(s), an interest in a Financial Institution is not "regularly traded" and shall be treated as a Financial Account if the holder of the interest (other than a Financial Institution acting as an intermediary) is registered on the books of such Financial Institution. The preceding sentence will not apply to interests first registered on the books of such Financial Institution prior to July 1, 2014, and with respect to interests first registered on the books of such Financial Institution on or after July 1, 2014, a Financial Institution is not required to apply the preceding sentence prior to January 1, 2016. The term "Depository Account" includes any commercial, checking, savings, time, or thrift account, or an account that is evidenced by a certificate of deposit, thrift certificate, investment certificate, certificate of indebtedness, or other similar instrument maintained by a Financial [S.L.123.156 (UNITED STATES OF AMERICA) (FATCA)
+Notwithstanding the foregoing, the term "Financial Account" does not include any account that is excluded from the definition of Financial Account in Annex II. For purposes of this Agreement, interests are "regularly traded" if there is a meaningful volume of trading with respect to the interests on an ongoing basis, and an "established securities market" means an exchange that is officially recognized and supervised by a governmental authority in which the market is located and that has a meaningful annual value of shares traded on the exchange. For purposes of this subparagraph 1(s), an interest in a Financial Institution is not "regularly traded" and shall be treated as a Financial Account if the holder of the interest (other than a Financial Institution acting as an intermediary) is registered on the books of such Financial Institution. The preceding sentence will not apply to interests first registered on the books of such Financial Institution prior to July 1, 2014, and with respect to interests first registered on the books of such Financial Institution on or after July 1, 2014, a Financial Institution is not required to apply the preceding sentence prior to January 1, 2016. The term "Depository Account" includes any commercial, checking, savings, time, or thrift account, or an account that is evidenced by a certificate of deposit, thrift certificate, investment certificate, certificate of indebtedness, or other similar instrument maintained by a Financial Institution in the ordinary course of a banking or similar business. A Depository Account also includes an amount held by an insurance company pursuant to a guaranteed investment contract or similar agreement to pay or credit interest thereon.
 
 *t)*
-
-Institution in the ordinary course of a banking or similar business. A Depository Account also includes an amount held by an insurance company pursuant to a guaranteed investment contract or similar agreement to pay or credit interest thereon.
-
-*6*
 
 *u)*
 
@@ -209,9 +191,7 @@ The term "Cash Value" means the greater of (i) the amount that the policyholder 
 
 (1) a personal injury or sickness benefit or other benefit providing indemnification of an economic loss incurred upon the occurrence of the event insured against;
 
-(2) a refund to the policyholder of a previously paid premium under an Insurance Contract (other than under a life insurance contract) due to policy cancellation or termination, decrease in risk exposure during the effective period of the Insurance Contract, or (UNITED STATES OF AMERICA) (FATCA) [S.L.123.156 7
-
-arising from a redetermination of the premium due to correction of posting or other similar error; or
+(2) a refund to the policyholder of a previously paid premium under an Insurance Contract (other than under a life insurance contract) due to policy cancellation or termination, decrease in risk exposure during the effective period of the Insurance Contract, or arising from a redetermination of the premium due to correction of posting or other similar error; or
 
 (3) a policyholder dividend based upon the underwriting experience of the contract or group involved.
 
@@ -224,10 +204,6 @@ cc) The term "U.S. Reportable Account" means a Financial Account maintained by a
 dd) The term "Account Holder" means the person listed or identified as the holder of a Financial Account by the Financial Institution that maintains the account. A person, other than a Financial Institution, holding a Financial Account for the benefit or account of another person as agent, custodian, nominee, signatory, investment advisor, or intermediary, is not treated as holding the account for purposes of this Agreement, and such other person is treated as holding the account. For purposes of the immediately preceding sentence, the term "Financial Institution" does not include a Financial Institution organized or incorporated in a U.S. Territory. In the case of a Cash Value Insurance Contract or an Annuity Contract, the Account Holder is any person entitled to access the Cash Value or change the beneficiary of the contract. If no person can access the Cash Value or change the beneficiary, the Account Holder is any person named as the owner in the contract and any person with a vested entitlement to payment under the terms of the contract. Upon the maturity of a Cash Value Insurance Contract or an Annuity Contract, each person entitled to receive a payment under the contract is treated as an Account Holder.
 
 ee) The term "U.S. Person" means a U.S. citizen or resident individual, a partnership or corporation organized in the United States or under the laws of the United States or any State thereof, a trust if (i) a court within the United States would have authority under applicable law to render orders or judgments concerning substantially all issues regarding administration of the trust, and (ii) one or more U.S. persons have the authority to control all substantial decisions of the trust, or an estate of a decedent that is a citizen or resident of the United States. This subparagraph 1(ee) shall be interpreted in accordance with the U.S. Internal Revenue Code.
-
-*8*
-
-[S.L.123.156 (UNITED STATES OF AMERICA) (FATCA)
 
 *ff)*
 
@@ -249,9 +225,7 @@ kk) The term "U.S. TIN" means a U.S. federal taxpayer identifying number. The te
 
 *ll)*
 
-mm) The term "Controlling Persons" means the natural persons who exercise control over an Entity. In the case of a trust, such term means (UNITED STATES OF AMERICA) (FATCA) [S.L.123.156 9
-
-the settlor, the trustees, the protector (if any), the beneficiaries or class of beneficiaries, and any other natural person exercising ultimate effective control over the trust, and in the case of a legal arrangement other than a trust, such term means persons in equivalent or similar positions. The term “Controlling Persons” shall be interpreted in a manner consistent with the Financial Action Task Force Recommendations.
+mm) The term "Controlling Persons" means the natural persons who exercise control over an Entity. In the case of a trust, such term means the settlor, the trustees, the protector (if any), the beneficiaries or class of beneficiaries, and any other natural person exercising ultimate effective control over the trust, and in the case of a legal arrangement other than a trust, such term means persons in equivalent or similar positions. The term “Controlling Persons” shall be interpreted in a manner consistent with the Financial Action Task Force Recommendations.
 
 ## 2.
 
@@ -283,9 +257,7 @@ a) In the case of Malta with respect to each U.S. Reportable Account of each Rep
 
 (A) the total gross amount of interest, the total gross amount of dividends, and the total gross amount of other income generated with respect to the assets held in the account, in each case paid or credited to the account (or with respect to the account) during the calendar year or other appropriate reporting period; and
 
-(B) the total gross proceeds from the sale or redemption of property paid or credited to the account during the calendar year or other appropriate reporting period with respect to which the Reporting Malta Financial Institution acted as a 10 [S.L.123.156 (UNITED STATES OF AMERICA) (FATCA)
-
-custodian, broker, nominee, or otherwise as an agent for the Account Holder;
+(B) the total gross proceeds from the sale or redemption of property paid or credited to the account during the calendar year or other appropriate reporting period with respect to which the Reporting Malta Financial Institution acted as a custodian, broker, nominee, or otherwise as an agent for the Account Holder;
 
 (6) in the case of any Depository Account, the total gross amount of interest paid or credited to the account during the calendar year or other appropriate reporting period; and
 
@@ -323,9 +295,7 @@ a) In the case of Malta:
 
 (1) the information to be obtained and exchanged with respect to 2014 is only the information described in subparagraphs 2(a)(1) through 2(a)(4) of Article 2 of this Agreement;
 
-(2) the information to be obtained and exchanged with respect to 2015 is the information described in subparagraphs 2(a)(1) (UNITED STATES OF AMERICA) (FATCA) [S.L.123.156 11
-
-through 2(a)(7) of Article 2 of this Agreement, except for gross proceeds described in subparagraph 2(a)(5)(B) of Article 2 of this Agreement; and
+(2) the information to be obtained and exchanged with respect to 2015 is the information described in subparagraphs 2(a)(1) through 2(a)(7) of Article 2 of this Agreement, except for gross proceeds described in subparagraph 2(a)(5)(B) of Article 2 of this Agreement; and
 
 (3) the information to be obtained and exchanged with respect to 2016 and subsequent years is the information described in subparagraphs 2(a)(1) through 2(a)(7) of Article 2 of this Agreement;
 
@@ -359,9 +329,7 @@ Following entry into force of this Agreement, each Competent Authority shall pro
 
 ## 9.
 
-The obligations of the Parties to obtain and exchange information under Article 2 of this Agreement shall take effect on the date of the later of the written notifications described in paragraph 8 of this Article. Notwithstanding the foregoing, 12 [S.L.123.156 (UNITED STATES OF AMERICA) (FATCA)
-
-if the Malta Competent Authority is satisfied that the United States has the safeguards and infrastructure described in paragraph 8 of this Article in place, but additional time is necessary for the U.S. Competent Authority to establish that Malta has such safeguards and infrastructure in place, the obligation of Malta to obtain and exchange information under Article 2 of this Agreement shall take effect on the date of the written notification provided by the Malta Competent Authority to the U.S. Competent Authority pursuant to paragraph 8 of this Article.
+The obligations of the Parties to obtain and exchange information under Article 2 of this Agreement shall take effect on the date of the later of the written notifications described in paragraph 8 of this Article. Notwithstanding the foregoing, if the Malta Competent Authority is satisfied that the United States has the safeguards and infrastructure described in paragraph 8 of this Article in place, but additional time is necessary for the U.S. Competent Authority to establish that Malta has such safeguards and infrastructure in place, the obligation of Malta to obtain and exchange information under Article 2 of this Agreement shall take effect on the date of the written notification provided by the Malta Competent Authority to the U.S. Competent Authority pursuant to paragraph 8 of this Article.
 
 ## 10.
 
@@ -383,9 +351,7 @@ d) to the extent that a Reporting Malta Financial Institution is (i) acting as a
 
 e) in the case of a Reporting Malta Financial Institution that is not described in subparagraph 1(d) of this Article and that makes a payment of, or acts as an intermediary with respect to, a U.S. Source Withholdable Payment to any Nonparticipating Financial Institution, the Reporting Malta Financial Institution provides to any immediate payor of such U.S. Source Withholdable Payment the information required for withholding and reporting to occur with respect to such payment.
 
-Notwithstanding the foregoing, a Reporting Malta Financial Institution with respect to which the conditions of this paragraph 1 are not satisfied shall not be subject to withholding under section 1471 of the U.S. Internal Revenue Code unless such Reporting Malta Financial Institution is treated by the IRS as a (UNITED STATES OF AMERICA) (FATCA) [S.L.123.156 13
-
-Nonparticipating Financial Institution pursuant to subparagraph 2(b) of Article 5 of this Agreement.
+Notwithstanding the foregoing, a Reporting Malta Financial Institution with respect to which the conditions of this paragraph 1 are not satisfied shall not be subject to withholding under section 1471 of the U.S. Internal Revenue Code unless such Reporting Malta Financial Institution is treated by the IRS as a Nonparticipating Financial Institution pursuant to subparagraph 2(b) of Article 5 of this Agreement.
 
 \2. Suspension of Rules Relating to Recalcitrant Accounts. The United States shall not require a Reporting Malta Financial Institution to withhold tax under section 1471 or 1472 of the U.S. Internal Revenue Code with respect to an account held by a recalcitrant account holder (as defined in section 1471(d)(6) of the U.S. Internal Revenue Code), or to close such account, if the U.S. Competent Authority receives the information set forth in subparagraph 2(a) of Article 2 of this Agreement, subject to the provisions of Article 3 of this Agreement, with respect to such account.
 
@@ -397,9 +363,7 @@ Nonparticipating Financial Institution pursuant to subparagraph 2(b) of Article 
 
 a) the Malta Financial Institution treats each such Related Entity or branch as a separate Nonparticipating Financial Institution for purposes of all the reporting and withholding requirements of this Agreement and each such Related Entity or branch identifies itself to withholding agents as a Nonparticipating Financial Institution;
 
-b) each such Related Entity or branch identifies its U.S. accounts and reports the information with respect to those accounts as required under section 1471 of the U.S. Internal Revenue Code to the extent permitted under the relevant laws pertaining to the Related Entity or branch; and c) such Related Entity or branch does not specifically solicit U.S. accounts held by persons that are not resident in the jurisdiction where such Related Entity or branch is located or accounts held by Nonparticipating Financial Institutions that are not established in the jurisdiction where such Related Entity or branch is located, and such Related Entity or branch is not used by the Malta Financial Institution or any other 14 [S.L.123.156 (UNITED STATES OF AMERICA) (FATCA)
-
-Related Entity to circumvent the obligations under this Agreement or under section 1471 of the U.S. Internal Revenue Code, as appropriate. 6. Coordination of Timing. Notwithstanding paragraphs 3 and 5 of Article 3 of this Agreement:
+b) each such Related Entity or branch identifies its U.S. accounts and reports the information with respect to those accounts as required under section 1471 of the U.S. Internal Revenue Code to the extent permitted under the relevant laws pertaining to the Related Entity or branch; and c) such Related Entity or branch does not specifically solicit U.S. accounts held by persons that are not resident in the jurisdiction where such Related Entity or branch is located or accounts held by Nonparticipating Financial Institutions that are not established in the jurisdiction where such Related Entity or branch is located, and such Related Entity or branch is not used by the Malta Financial Institution or any other Related Entity to circumvent the obligations under this Agreement or under section 1471 of the U.S. Internal Revenue Code, as appropriate. 6. Coordination of Timing. Notwithstanding paragraphs 3 and 5 of Article 3 of this Agreement:
 
 a) Malta shall not be obligated to obtain and exchange information with respect to a calendar year that is prior to the calendar year with respect to which similar information is required to be reported to the IRS by participating FFIs pursuant to relevant U.S. Treasury Regulations;
 
@@ -423,9 +387,7 @@ a) A Competent Authority shall notify the Competent Authority of the other Party
 
 b) If, in the case of a Reporting Malta Financial Institution, such enforcement actions do not resolve the non-compliance within a period of 18 months after notification of significant non-compliance is first provided, the United States shall treat the Reporting Malta Financial Institution as a Nonparticipating Financial Institution pursuant to this subparagraph 2(b).
 
-\3. Reliance on Third Party Service Providers. Each Party may allow (UNITED STATES OF AMERICA) (FATCA) [S.L.123.156 15
-
-Reporting Financial Institutions to use third party service providers to fulfil the obligations imposed on such Reporting Financial Institutions by a Party, as contemplated in this Agreement, but these obligations shall remain the responsibility of the Reporting Financial Institutions.
+\3. Reliance on Third Party Service Providers. Each Party may allow Reporting Financial Institutions to use third party service providers to fulfil the obligations imposed on such Reporting Financial Institutions by a Party, as contemplated in this Agreement, but these obligations shall remain the responsibility of the Reporting Financial Institutions.
 
 \4. Prevention of Avoidance. The Parties shall implement as necessary requirements to prevent Financial Institutions from adopting practices intended to circumvent the reporting required under this Agreement.
 
@@ -450,8 +412,6 @@ a) The United States commits to establish, by January 1, 2017, for reporting wit
 **Consistency in the Application of FATCA to Partner Jurisdictions**
 
 \1. Malta shall be granted the benefit of any more favourable terms under Article 4 or Annex 1 of this Agreement relating to the application of FATCA to Malta Financial Institutions afforded to another Partner Jurisdiction under a signed bilateral agreement pursuant to which the other Partner Jurisdiction commits to undertake the same obligations as Malta described in Articles 2 and 3 of this Agreement, and subject to the same terms and conditions as described therein and in Articles 5 through 9 of this Agreement.
-
-16 [S.L.123.156 (UNITED STATES OF AMERICA) (FATCA)
 
 \2. The United States shall notify Malta of any such more favorable terms and such more favorable terms shall apply automatically under this Agreement as if such terms were specified in this Agreement and effective as of the date of the entry into force of the agreement incorporating the more favorable terms, unless Malta declines the application thereof.
 
@@ -491,8 +451,6 @@ Edward Scicluna Gina Abercrombie Winstanley
 
 Minister for Finance Ambassador
 
-(UNITED STATES OF AMERICA) (FATCA) [S.L.123.156 17
-
 ## ANNEX I — DUE DILIGENCE OBLIGATIONS FOR IDENTIFYING AND REPORTING — ON U.S. REPORTABLE ACCOUNTS AND ON PAYMENTS TO CERTAIN
 
 **NONPARTICIPATING FINANCIAL INSTITUTIONS**
@@ -530,10 +488,6 @@ II. Preexisting Individual Accounts. The following rules and procedures apply fo
 A. Accounts Not Required to Be Reviewed, Identified, or Reported. Unless the Reporting Malta Financial Institution elects otherwise, either with respect to all Preexisting Individual Accounts or, separately, with respect to any clearly identified group of such accounts, where the implementing rules in Malta provide for such an election, the following Preexisting Individual Accounts are not required to be reviewed, identified, or reported as U.S. Reportable Accounts:
 
 \1. Subject to subparagraph E(2) of this section, a Preexisting Individual Account with a balance or value that does not exceed $50,000 as of June 30, 2014.
-
-*18*
-
-[S.L.123.156 (UNITED STATES OF AMERICA) (FATCA)
 
 *\2.*
 
@@ -577,9 +531,7 @@ If any of the U.S. indicia listed in subparagraph B(1) of this section are disco
 
 Notwithstanding a finding of U.S. indicia under subparagraph B(1) of this section, a Reporting Malta Financial Institution is not required to treat an account as a U.S. Reportable Account if:
 
-a) Where the Account Holder information unambiguously indicates (UNITED STATES OF AMERICA) (FATCA) [S.L.123.156 19
-
-a U.S. place of birth, the Reporting Malta Financial Institution obtains or has previously reviewed and maintains a record of:
+a) Where the Account Holder information unambiguously indicates a U.S. place of birth, the Reporting Malta Financial Institution obtains or has previously reviewed and maintains a record of:
 
 (1) A self-certification that the Account Holder is neither a U.S. citizen nor a U.S. resident for tax purposes (which may be on an IRS Form W-8 or other similar agreed form);
 
@@ -609,9 +561,7 @@ Where the Account Holder information contains a currently effective power of att
 
 (1) A self-certification that the Account Holder is neither a U.S. citizen nor a U.S. resident for tax purposes (which may be on an IRS Form W-8 or other similar agreed form); or
 
-(2) Documentary evidence, as defined in paragraph D of 20 [S.L.123.156 (UNITED STATES OF AMERICA) (FATCA)
-
-section VI of this Annex I, establishing the Account Holder’s non-U.S. status.
+(2) Documentary evidence, as defined in paragraph D of section VI of this Annex I, establishing the Account Holder’s non-U.S. status.
 
 C. Additional Procedures Applicable to Preexisting Individual Accounts That Are Lower Value Accounts.
 
@@ -639,9 +589,7 @@ d) Any power of attorney or signature authority forms currently in effect; and
 
 \3. Exception Where Databases Contain Sufficient Information. A Reporting Malta Financial Institution is not required to perform the paper record search described in subparagraph D(2) of this section if the Reporting Malta Financial Institution’s electronically searchable information includes the following: a) The Account Holder’s nationality or residence status;
 
-b) The Account Holder’s residence address and mailing address currently (UNITED STATES OF AMERICA) (FATCA) [S.L.123.156 21
-
-on file with the Reporting Malta Financial Institution;
+b) The Account Holder’s residence address and mailing address currently on file with the Reporting Malta Financial Institution;
 
 c) The Account Holder’s telephone number(s) currently on file, if any, with the Reporting Malta Financial Institution;
 
@@ -665,9 +613,7 @@ E. Additional Procedures Applicable to High Value Accounts.
 
 \1. If a Preexisting Individual Account is a High Value Account as of June 30, 2014, the Reporting Malta Financial Institution must complete the enhanced review procedures described in paragraph D of this section with respect to such account by June 30, 2015. If based on this review such account is identified as a U.S. Reportable Account on or before December 31, 2014, the Reporting Malta Financial Institution must report the required information about such account with respect to 2014 in the first report on the account and on an annual basis thereafter. In the case of an account identified as a U.S. Reportable Account after December 31, 2014, and on or before June 30, 2015, the Reporting Malta Financial Institution is not required to report information about such account with respect to 2014, but must report information about the account on an annual basis thereafter.
 
-\2. If a Preexisting Individual Account is not a High Value Account as of June 22 [S.L.123.156 (UNITED STATES OF AMERICA) (FATCA)
-
-30, 2014, but becomes a High Value Account as of the last day of 2015 or any subsequent calendar year, the Reporting Malta Financial Institution must complete the enhanced review procedures described in paragraph D of this section with respect to such account within six months after the last day of the calendar year in which the account becomes a High Value Account. If based on this review such account is identified as a U.S. Reportable Account, the Reporting Malta Financial Institution must report the required information about such account with respect to the year in which it is identified as a U.S. Reportable Account and subsequent years on an annual basis, unless the Account Holder ceases to be a Specified U.S. Person.
+\2. If a Preexisting Individual Account is not a High Value Account as of June 30, 2014, but becomes a High Value Account as of the last day of 2015 or any subsequent calendar year, the Reporting Malta Financial Institution must complete the enhanced review procedures described in paragraph D of this section with respect to such account within six months after the last day of the calendar year in which the account becomes a High Value Account. If based on this review such account is identified as a U.S. Reportable Account, the Reporting Malta Financial Institution must report the required information about such account with respect to the year in which it is identified as a U.S. Reportable Account and subsequent years on an annual basis, unless the Account Holder ceases to be a Specified U.S. Person.
 
 \3. Once a Reporting Malta Financial Institution applies the enhanced review procedures described in paragraph D of this section to a High Value Account, the Reporting Malta Financial Institution is not required to re-apply such procedures, other than the relationship manager inquiry described in subparagraph D(4) of this section, to the same High Value Account in any subsequent year.
 
@@ -683,9 +629,7 @@ III. New Individual Accounts. The following rules and procedures apply for purpo
 
 \1. A Depository Account unless the account balance exceeds $50,000 at the end of any calendar year or other appropriate reporting period.
 
-\2. A Cash Value Insurance Contract unless the Cash Value exceeds $50,000 at the end of any calendar year or other appropriate reporting (UNITED STATES OF AMERICA) (FATCA) [S.L.123.156 23
-
-period.
+\2. A Cash Value Insurance Contract unless the Cash Value exceeds $50,000 at the end of any calendar year or other appropriate reporting period.
 
 B. Other New Individual Accounts. With respect to New Individual Accounts not described in paragraph A of this section, upon account opening (or within 90 days after the end of the calendar year in which the account ceases to be described in paragraph A of this section), the Reporting Malta Financial Institution must obtain a self-certification which may be part of the account opening documentation, that allows the Reporting Malta Financial Institution to determine whether the Account Holder is resident in the United States for tax purposes (for this purpose, a U.S. citizen is considered to be resident in the United States for tax purposes, even if the Account Holder is also a tax resident of another jurisdiction) and confirm the reasonableness of such self-certification based on the information obtained by the Reporting Malta Financial Institution in connection with the opening of the account, including any documentation collected pursuant to AML/KYC Procedures.
 
@@ -699,9 +643,7 @@ A. Entity Accounts Not Required to Be Reviewed, Identified, or Reported. Unless 
 
 B. Entity Accounts Subject to Review. A Preexisting Entity Account that has an account balance or value that exceeds $250,000 as of June 30, 2014, and a Preexisting Entity Account that does not exceed $250,000 as of June 30, 2014, but the account balance or value of which exceeds $1,000,000 as of the last day of 2015 or any subsequent calendar year, must be reviewed in accordance with the procedures set forth in paragraph D of this section.
 
-C. Entity Accounts With Respect to Which Reporting is Required. With respect to Preexisting Entity Accounts described in paragraph B of this section, only accounts that are held by one or more Entities that are Specified U.S. Persons, or by Passive NFFEs with one or more Controlling Persons who are U.S. citizens or residents, shall be treated as U.S. Reportable Accounts. In addition, accounts held by Nonparticipating Financial Institutions shall be treated as accounts for which 24 [S.L.123.156 (UNITED STATES OF AMERICA) (FATCA)
-
-aggregate payments as described in subparagraph 1(b) of Article 4 of the Agreement are reported to the Malta Commissioner for Revenue.
+C. Entity Accounts With Respect to Which Reporting is Required. With respect to Preexisting Entity Accounts described in paragraph B of this section, only accounts that are held by one or more Entities that are Specified U.S. Persons, or by Passive NFFEs with one or more Controlling Persons who are U.S. citizens or residents, shall be treated as U.S. Reportable Accounts. In addition, accounts held by Nonparticipating Financial Institutions shall be treated as accounts for which aggregate payments as described in subparagraph 1(b) of Article 4 of the Agreement are reported to the Malta Commissioner for Revenue.
 
 D. Review Procedures for Identifying Entity Accounts With Respect to Which Reporting is Required. For Preexisting Entity Accounts described in paragraph B of this section, the Reporting Malta Financial Institution must apply the following review procedures to determine whether the account is held by one or more Specified U.S. Persons, by Passive NFFEs with one or more Controlling Persons who are U.S. citizens or residents, or by Nonparticipating Financial Institutions:
 
@@ -717,9 +659,7 @@ b) If the information indicates that the Account Holder is a Financial Instituti
 
 \3. Determine Whether a Financial Institution is a Nonparticipating Financial Institution Payments to Which Are Subject to Aggregate Reporting Under Subparagraph 1(b) of Article 4 of the Agreement. a) Subject to subparagraph D(3)(b) of this section, a Reporting Malta Financial Institution may determine that the Account Holder is a Malta Financial Institution or other Partner Jurisdiction Financial Institution if the Reporting Malta Financial Institution reasonably determines that the Account Holder has such status on the basis of the Account Holder’s Global Intermediary Identification Number on the published IRS FFI list or other information that is publicly available or in the possession of the Reporting Malta Financial Institution, as applicable. In such case, no further review, identification, or reporting is required with respect to the account.
 
-b) If the Account Holder is a Malta Financial Institution or other (UNITED STATES OF AMERICA) (FATCA) [S.L.123.156 25
-
-Partner Jurisdiction Financial Institution treated by the IRS as a Nonparticipating Financial Institution, then the account is not a U.S. Reportable Account, but payments to the Account Holder must be reported as contemplated in subparagraph 1(b) of Article 4 of the Agreement.
+b) If the Account Holder is a Malta Financial Institution or other Partner Jurisdiction Financial Institution treated by the IRS as a Nonparticipating Financial Institution, then the account is not a U.S. Reportable Account, but payments to the Account Holder must be reported as contemplated in subparagraph 1(b) of Article 4 of the Agreement.
 
 c) If the Account Holder is not a Malta Financial Institution or other Partner Jurisdiction Financial Institution, then the Reporting Malta Financial Institution must treat the Account Holder as a Nonparticipating Financial Institution payments to which are reportable under subparagraph 1(b) of Article 4 of the Agreement, unless the Reporting Malta Financial Institution:
 
@@ -739,9 +679,7 @@ c) For purposes of determining whether a Controlling Person of a Passive NFFE is
 
 (1) Information collected and maintained pursuant to AML/ KYC Procedures in the case of a Preexisting Entity Account held by one or more NFFEs with an account balance or value that does not exceed $1,000,000; or
 
-(2) A self-certification (which may be on an IRS Form W-8 or W-9, or on a similar agreed form) from the Account Holder or such Controlling Person in the case of a Preexisting 26 [S.L.123.156 (UNITED STATES OF AMERICA) (FATCA)
-
-Entity Account held by one or more NFFEs with an account balance or value that exceeds $1,000,000.
+(2) A self-certification (which may be on an IRS Form W-8 or W-9, or on a similar agreed form) from the Account Holder or such Controlling Person in the case of a Preexisting Entity Account held by one or more NFFEs with an account balance or value that exceeds $1,000,000.
 
 d) If any Controlling Person of a Passive NFFE is a U.S. citizen or resident, the account shall be treated as a U.S. Reportable Account.
 
@@ -760,8 +698,6 @@ A. Entity Accounts Not Required to Be Reviewed, Identified or Reported. Unless t
 B. Other New Entity Accounts. With respect to New Entity Accounts not described in paragraph A of this section, the Reporting Malta Financial Institution must determine whether the Account Holder is: (i) a Specified U.S. Person; (ii) a Malta Financial Institution or other Partner Jurisdiction Financial Institution; (iii) a participating FFI, a deemed-compliant FFI, or an exempt beneficial owner, as those terms are defined in relevant U.S. Treasury Regulations; or (iv) an Active NFFE or Passive NFFE.
 
 \1. Subject to subparagraph B(2) of this section, a Reporting Malta Financial Institution may determine that the Account Holder is an Active NFFE, a Malta Financial Institution, or other Partner Jurisdiction Financial Institution if the Reporting Malta Financial Institution reasonably determines that the Account Holder has such status on the basis of the Account Holder’s Global Intermediary Identification Number or other information that is publicly available or in the possession of the Reporting Malta Financial Institution, as applicable.
-
-(UNITED STATES OF AMERICA) (FATCA) [S.L.123.156 27
 
 \2. If the Account Holder is a Malta Financial Institution or other Partner Jurisdiction Financial Institution treated by the IRS as a Nonparticipating Financial Institution, then the account is not a U.S. Reportable Account, but payments to the Account Holder must be reported as contemplated in subparagraph 1(b) of Article 4 of the Agreement.
 
@@ -783,11 +719,7 @@ B. Definitions. The following definitions apply for purposes of this Annex I.
 
 \1. AML/KYC Procedures. "AML/KYC Procedures" means the customer due diligence procedures of a Reporting Malta Financial Institution pursuant to the anti-money laundering or similar requirements of Malta to which such Reporting Malta Financial Institution is subject.
 
-\2. NFFE. An "NFFE" means any Non-U.S. Entity that is not an FFI as defined in relevant U.S. Treasury Regulations or is an Entity described in subparagraph B(4)(j) of this section, and also includes any Non-U.S. [S.L.123.156 (UNITED STATES OF AMERICA) (FATCA)
-
-Entity that is established in Malta or another Partner Jurisdiction and that is not a Financial Institution.
-
-*28*
+\2. NFFE. An "NFFE" means any Non-U.S. Entity that is not an FFI as defined in relevant U.S. Treasury Regulations or is an Entity described in subparagraph B(4)(j) of this section, and also includes any Non-U.S. Entity that is established in Malta or another Partner Jurisdiction and that is not a Financial Institution.
 
 *\3.*
 
@@ -811,9 +743,7 @@ f) The NFFE is not yet operating a business and has no prior operating history, 
 
 g) The NFFE was not a Financial Institution in the past five years, and is in the process of liquidating its assets or is reorganizing with the intent to continue or recommence operations in a business other than that of a Financial Institution;
 
-h) The NFFE primarily engages in financing and hedging transactions with, or for, Related Entities that are not Financial Institutions, and does not provide financing or hedging services to any Entity that is not a Related Entity, provided that the group of (UNITED STATES OF AMERICA) (FATCA) [S.L.123.156 29
-
-any such Related Entities is primarily engaged in a business other than that of a Financial Institution;
+h) The NFFE primarily engages in financing and hedging transactions with, or for, Related Entities that are not Financial Institutions, and does not provide financing or hedging services to any Entity that is not a Related Entity, provided that the group of any such Related Entities is primarily engaged in a business other than that of a Financial Institution;
 
 i) The NFFE is an "excepted NFFE" as described in relevant U.S. Treasury Regulations; or
 
@@ -839,9 +769,7 @@ Aggregation of Individual Accounts. For purposes of determining the aggregate ba
 
 *\2.*
 
-Aggregation of Entity Accounts. For purposes of determining the aggregate balance or value of Financial Accounts held by an Entity, a Reporting Malta Financial Institution is required to take into account all 30 [S.L.123.156 (UNITED STATES OF AMERICA) (FATCA)
-
-Financial Accounts that are maintained by the Reporting Malta Financial Institution, or by a Related Entity, but only to the extent that the Reporting Malta Financial Institution’s computerized systems link the Financial Accounts by reference to a data element such as client number or taxpayer identification number, and allow account balances or values to be aggregated.
+Aggregation of Entity Accounts. For purposes of determining the aggregate balance or value of Financial Accounts held by an Entity, a Reporting Malta Financial Institution is required to take into account all Financial Accounts that are maintained by the Reporting Malta Financial Institution, or by a Related Entity, but only to the extent that the Reporting Malta Financial Institution’s computerized systems link the Financial Accounts by reference to a data element such as client number or taxpayer identification number, and allow account balances or values to be aggregated.
 
 \3. Special Aggregation Rule Applicable to Relationship Managers. For purposes of determining the aggregate balance or value of Financial Accounts held by a person to determine whether a Financial Account is a High Value Account, a Reporting Malta Financial Institution is also required, in the case of any Financial Accounts that a relationship manager knows, or has reason to know, are directly or indirectly owned, controlled, or established (other than in a fiduciary capacity) by the same person, to aggregate all such accounts.
 
@@ -863,9 +791,7 @@ D. Documentary Evidence. For purposes of this Annex I, acceptable documentary ev
 
 Any financial statement, third-party credit report, bankruptcy filing, or U.S. Securities and Exchange Commission report.
 
-E. Alternative Procedures for Financial Accounts Held by Individual Beneficiaries of a Cash Value Insurance Contract. A Reporting Malta Financial Institution may presume that an individual beneficiary (other than the owner) of a Cash Value Insurance Contract receiving a death benefit is not a Specified U.S. Person and may treat such Financial Account as other than a U.S. Reportable Account unless the Reporting Malta Financial Institution has actual knowledge, or (UNITED STATES OF AMERICA) (FATCA) [S.L.123.156 31
-
-reason to know, that the beneficiary is a Specified U.S. Person. A Reporting Malta Financial Institution has reason to know that a beneficiary of a Cash Value Insurance Contract is a Specified U.S. Person if the information collected by the Reporting Malta Financial Institution and associated with the beneficiary contains U.S. indicia as described in subparagraph (B)(1) of section II of this Annex I. If a Reporting Malta Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Specified U.S. Person, the Reporting Malta Financial Institution must follow the procedures in subparagraph (B)(3) of section II of this Annex I.
+E. Alternative Procedures for Financial Accounts Held by Individual Beneficiaries of a Cash Value Insurance Contract. A Reporting Malta Financial Institution may presume that an individual beneficiary (other than the owner) of a Cash Value Insurance Contract receiving a death benefit is not a Specified U.S. Person and may treat such Financial Account as other than a U.S. Reportable Account unless the Reporting Malta Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Specified U.S. Person. A Reporting Malta Financial Institution has reason to know that a beneficiary of a Cash Value Insurance Contract is a Specified U.S. Person if the information collected by the Reporting Malta Financial Institution and associated with the beneficiary contains U.S. indicia as described in subparagraph (B)(1) of section II of this Annex I. If a Reporting Malta Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Specified U.S. Person, the Reporting Malta Financial Institution must follow the procedures in subparagraph (B)(3) of section II of this Annex I.
 
 F. Reliance on Third Parties. Regardless of whether an election is made under paragraph C of section I of this Annex I, Malta may permit Reporting Malta Financial Institutions to rely on due diligence procedures performed by third parties, to the extent provided in relevant U.S. Treasury Regulations.
 
@@ -877,11 +803,7 @@ The following Entities are treated as exempt beneficial owners or deemed-complia
 
 This Annex II may be modified by a mutual agreement entered into between the Competent Authorities of Malta and the United States: (1) to include additional Entities and accounts that present a low risk of being used by U.S. Persons to evade U.S. tax and that have similar characteristics to the Entities and accounts described in this Annex II as of the date of signature of the Agreement; or (2) to remove Entities and accounts that, due to changes in circumstances, no longer present a low risk of being used by U.S. Persons to evade U.S. tax. Any such addition or removal shall be effective on the date of signature of the mutual agreement, unless otherwise provided therein. Procedures for reaching such a mutual agreement may be included in the mutual agreement described in paragraph 6 of Article 3 of the Agreement. I. Exempt Beneficial Owners other than Funds. The following Entities are treated as Non-Reporting Malta Financial Institutions and as exempt beneficial owners for purposes of sections 1471 and 1472 of the U.S. Internal Revenue Code, other than with respect to a payment that is derived from an obligation held in connection with a commercial financial activity of a type engaged in by a Specified Insurance Company, Custodial Institution, or Depository Institution.
 
-A. Governmental Entity. The government of Malta, any political subdivision of Malta (which, for the avoidance of doubt, includes a state, province, county, or municipality), or any wholly owned agency or instrumentality of Malta or any one or more of the foregoing (each, a [S.L.123.156 (UNITED STATES OF AMERICA) (FATCA)
-
-"Malta Governmental Entity"). This category is comprised of the integral parts, controlled entities, and political subdivisions of Malta.
-
-*32*
+A. Governmental Entity. The government of Malta, any political subdivision of Malta (which, for the avoidance of doubt, includes a state, province, county, or municipality), or any wholly owned agency or instrumentality of Malta or any one or more of the foregoing (each, a "Malta Governmental Entity"). This category is comprised of the integral parts, controlled entities, and political subdivisions of Malta.
 
 ## 1.
 
@@ -911,11 +833,9 @@ Central Bank. An institution that is by law or government sanction the principal
 
 *II.*
 
-Funds that Qualify as Exempt Beneficial Owners. The following Entities are treated as Non-Reporting Malta Financial Institutions and as exempt beneficial owners for purposes of sections 1471 and 1472 of the U.S. Internal Revenue Code. Treaty-Qualified Retirement Fund. A fund established in Malta, provided that the fund is entitled to benefits under an income tax treaty between Malta and the United States on income that it derives from sources within the United States (or would be entitled to such benefits if it derived any such income) as a resident of Malta that satisfies any (UNITED STATES OF AMERICA) (FATCA) [S.L.123.156 33
+Funds that Qualify as Exempt Beneficial Owners. The following Entities are treated as Non-Reporting Malta Financial Institutions and as exempt beneficial owners for purposes of sections 1471 and 1472 of the U.S. Internal Revenue Code. Treaty-Qualified Retirement Fund. A fund established in Malta, provided that the fund is entitled to benefits under an income tax treaty between Malta and the United States on income that it derives from sources within the United States (or would be entitled to such benefits if it derived any such income) as a resident of Malta that satisfies any applicable limitation on benefits requirement, and is operated principally to administer or provide pension or retirement benefits.
 
 *A.*
-
-applicable limitation on benefits requirement, and is operated principally to administer or provide pension or retirement benefits.
 
 *B.*
 
@@ -953,10 +873,6 @@ The employee and employer contributions to the fund (other than transfers of ass
 
 Participants that are not residents of Malta are not entitled to more than 20 percent of the fund’s assets; and
 
-*34*
-
-[S.L.123.156 (UNITED STATES OF AMERICA) (FATCA)
-
 ## 5.
 
 The fund is subject to government regulation and provides annual information reporting about its beneficiaries to the relevant tax authorities in Malta.
@@ -983,9 +899,7 @@ Financial Institutions with a Local Client Base. A Financial Institution satisfy
 
 ## 5.
 
-At least 98 percent of the Financial Accounts by value maintained by the Financial Institution must be held by residents (UNITED STATES OF AMERICA) (FATCA) [S.L.123.156 35
-
-(including residents that are Entities) of Malta or a Member State of the European Union;
+At least 98 percent of the Financial Accounts by value maintained by the Financial Institution must be held by residents (including residents that are Entities) of Malta or a Member State of the European Union;
 
 ## 6.
 
@@ -1013,11 +927,7 @@ Local Bank. A Financial Institution satisfying the following requirements:
 
 \1. The Financial Institution operates solely as (and is licensed and regulated under the laws of Malta as) (a) a bank or (b) a credit union or similar cooperative credit organization that is operated without profit;
 
-\2. The Financial Institution’s business consists primarily of receiving deposits from and making loans to, with respect to a bank, unrelated retail customers and, with respect to a credit union or similar cooperative credit organization, members, [S.L.123.156 (UNITED STATES OF AMERICA) (FATCA)
-
-provided that no member has a greater than five percent interest in such credit union or cooperative credit organization;
-
-*36*
+\2. The Financial Institution’s business consists primarily of receiving deposits from and making loans to, with respect to a bank, unrelated retail customers and, with respect to a credit union or similar cooperative credit organization, members, provided that no member has a greater than five percent interest in such credit union or cooperative credit organization;
 
 \3. The Financial Institution satisfies the requirements set forth in subparagraphs A(2) and A(3) of this section, provided that, in addition to the limitations on the website described in subparagraph A(3) of this section, the website does not permit the opening of a Financial Account;
 
@@ -1043,9 +953,7 @@ Qualified Credit Card Issuer. A Malta Financial Institution satisfying the follo
 
 2, Beginning on or before July 1, 2014, the Financial Institution implements policies and procedures to either prevent a customer deposit in excess of $50,000, or to ensure that any customer deposit in excess of $50,000, in each case applying the rules set forth in Annex I for account aggregation and currency translation, is refunded to the customer within 60 days. For this purpose, a customer deposit does not refer to credit balances to the extent of disputed charges but does include credit balances resulting from merchandise returns.
 
-IV. Investment Entities that Qualify as Deemed-Compliant FFIs and Other Special Rules. The Financial Institutions described in paragraphs A through E of this section are Non-Reporting Malta Financial Institutions that are treated as (UNITED STATES OF AMERICA) (FATCA) [S.L.123.156 37
-
-deemed-compliant FFIs for purposes of section 1471 of the U.S. Internal Revenue Code. In addition, paragraph F of this section provides special rules applicable to an Investment Entity.
+IV. Investment Entities that Qualify as Deemed-Compliant FFIs and Other Special Rules. The Financial Institutions described in paragraphs A through E of this section are Non-Reporting Malta Financial Institutions that are treated as deemed-compliant FFIs for purposes of section 1471 of the U.S. Internal Revenue Code. In addition, paragraph F of this section provides special rules applicable to an Investment Entity.
 
 A. Trustee-Documented Trust. A trust established under the laws of Malta to the extent that the trustee of the trust is a Reporting U.S. Financial Institution, Reporting Model 1 FFI, or Participating FFI and reports all information required to be reported pursuant to the Agreement with respect to all U.S. Reportable Accounts of the trust. B. Sponsored Investment Entity and Controlled Foreign Corporation. A Financial Institution described in subparagraph B(1) or B(2) of this section having a sponsoring entity that complies with the requirements of subparagraph B(3) of this section.
 
@@ -1057,13 +965,9 @@ A. Trustee-Documented Trust. A trust established under the laws of Malta to the 
 
 b) The sponsoring entity has registered as a sponsoring entity with the IRS on the IRS FATCA registration website;
 
-c) If the sponsoring entity identifies any U.S. Reportable Accounts with respect to the Financial Institution, the sponsoring entity registers the Financial Institution pursuant [S.L.123.156 (UNITED STATES OF AMERICA) (FATCA)
+c) If the sponsoring entity identifies any U.S. Reportable Accounts with respect to the Financial Institution, the sponsoring entity registers the Financial Institution pursuant to applicable registration requirements on the IRS FATCA registration website on or before the later of December 31, 2015 and the date that is 90 days after such a U.S. Reportable Account is first identified;
 
 \*A "controlled foreign corporation" means any foreign corporation if more than 50 percent of the total combined voting power of all classes of stock of such corporation entitled to vote, or the total value of the stock of such corporation, is owned, or is considered as owned, by "United States shareholders" on any day during the taxable year of such foreign corporation. The term a "United States shareholder" means, with respect to any foreign corporation, a United States person who owns, or is considered as owning, 10 percent or more of the total combined voting power of all classes of stock entitled to vote of such foreign corporation.
-
-to applicable registration requirements on the IRS FATCA registration website on or before the later of December 31, 2015 and the date that is 90 days after such a U.S. Reportable Account is first identified;
-
-*38*
 
 d) The sponsoring entity agrees to perform, on behalf of the Financial Institution, all due diligence, withholding, reporting, and other requirements that the Financial Institution would have been required to perform if it were a Reporting Malta Financial Institution;
 
@@ -1097,9 +1001,7 @@ The sponsoring entity complies with the following requirements: a) The sponsorin
 
 b) The sponsoring entity agrees to perform, on behalf of the Financial Institution, all due diligence, withholding, reporting, and other requirements that the Financial Institution would have been required to perform if it were a Reporting Malta Financial Institution and retains documentation collected with respect to the Financial Institution for a period of six years;
 
-c) The sponsoring entity identifies the Financial Institution in all reporting completed on the Financial Institution’s (UNITED STATES OF AMERICA) (FATCA) [S.L.123.156 39
-
-behalf; and
+c) The sponsoring entity identifies the Financial Institution in all reporting completed on the Financial Institution’s behalf; and
 
 d) The sponsoring entity has not had its status as a sponsor revoked.
 
@@ -1123,11 +1025,7 @@ b) An Investment Entity that is a qualified collective investment vehicle under 
 
 the reporting obligations of any Investment Entity that is a Malta Financial Institution (other than a Financial Institution through which interests in the collective investment vehicle are held) shall be deemed fulfilled.
 
-\3. With respect to interests in an Investment Entity established in Malta that is not described in paragraph E or subparagraph F(2) of this section, consistent with paragraph 3 of Article 5 of the Agreement, the reporting obligations of all other Investment Entities with respect to such interests shall be deemed fulfilled if the information required to be reported by the first-mentioned Investment Entity pursuant to the Agreement with respect to such interests is reported by such Investment Entity or another person. 4. An Investment Entity established in Malta that is regulated as a collective investment vehicle shall not fail to qualify under paragraph E or subparagraph F(2) of this section, or otherwise as a deemed-compliant FFI, solely because the collective investment [S.L.123.156 (UNITED STATES OF AMERICA) (FATCA)
-
-vehicle has issued physical shares in bearer form, provided that: a) The collective investment vehicle has not issued, and does not issue, any physical shares in bearer form after December 31, 2012;
-
-*40*
+\3. With respect to interests in an Investment Entity established in Malta that is not described in paragraph E or subparagraph F(2) of this section, consistent with paragraph 3 of Article 5 of the Agreement, the reporting obligations of all other Investment Entities with respect to such interests shall be deemed fulfilled if the information required to be reported by the first-mentioned Investment Entity pursuant to the Agreement with respect to such interests is reported by such Investment Entity or another person. 4. An Investment Entity established in Malta that is regulated as a collective investment vehicle shall not fail to qualify under paragraph E or subparagraph F(2) of this section, or otherwise as a deemed-compliant FFI, solely because the collective investment vehicle has issued physical shares in bearer form, provided that: a) The collective investment vehicle has not issued, and does not issue, any physical shares in bearer form after December 31, 2012;
 
 b) The collective investment vehicle retires all such shares upon surrender;
 
@@ -1163,9 +1061,7 @@ Non-Retirement Savings Accounts. An account maintained in Malta (other than an i
 
 a) The account is subject to regulation as a savings vehicle for purposes other than for retirement;
 
-b) The account is tax-favored (i.e., contributions to the account that would otherwise be subject to tax under the laws of Malta are deductible or excluded from the gross income of (UNITED STATES OF AMERICA) (FATCA) [S.L.123.156 41
-
-the account holder or taxed at a reduced rate, or taxation of investment income from the account is deferred or taxed at a reduced rate);
+b) The account is tax-favored (i.e., contributions to the account that would otherwise be subject to tax under the laws of Malta are deductible or excluded from the gross income of the account holder or taxed at a reduced rate, or taxation of investment income from the account is deferred or taxed at a reduced rate);
 
 c) Withdrawals are conditioned on meeting specific criteria related to the purpose of the savings account (for example, the provision of educational or medical benefits), or penalties apply to withdrawals made before such criteria are met; and
 
@@ -1199,11 +1095,7 @@ a) The account is funded solely with a down payment, earnest money, deposit in a
 
 b) The account is established and used solely to secure the obligation of the purchaser to pay the purchase price for the property, the seller to pay any contingent liability, or the lessor or lessee to pay for any damages relating to the leased property as agreed under the lease;
 
-c) The assets of the account, including the income earned thereon, will be paid or otherwise distributed for the benefit of the purchaser, seller, lessor, or lessee (including to satisfy [S.L.123.156 (UNITED STATES OF AMERICA) (FATCA)
-
-such person’s obligation) when the property is sold, exchanged, or surrendered, or the lease terminates;
-
-*42*
+c) The assets of the account, including the income earned thereon, will be paid or otherwise distributed for the benefit of the purchaser, seller, lessor, or lessee (including to satisfy such person’s obligation) when the property is sold, exchanged, or surrendered, or the lease terminates;
 
 d) The account is not a margin or similar account established in connection with a sale or exchange of a financial asset; and
 
@@ -1224,8 +1116,6 @@ Reporting Model 1 FFI. The term Reporting Model 1 FFI means a Financial Institut
 *B.*
 
 Participating FFI. The term Participating FFI means a Financial Institution that has agreed to comply with the requirements of an FFI Agreement, including a Financial Institution described in a Model 2 IGA that has agreed to comply with the requirements of an FFI Agreement. The term Participating FFI also includes a qualified intermediary branch of a Reporting U.S. Financial Institution, unless such branch is a Reporting Model 1 FFI. For purposes of this definition, the term FFI Agreement means an agreement that sets forth the requirements for a Financial Institution to be treated as complying with the requirements of section 1471(b) of the U.S. Internal Revenue Code. In addition, for purposes of this definition, the term Model 2 IGA means an arrangement between the United States or the Treasury Department and a non-U.S. government or one or more agencies thereof to facilitate the implementation of FATCA through reporting by Financial Institutions directly to the IRS in accordance with the requirements of an FFI Agreement, supplemented by the exchange of information between such non-U.S. government or agency thereof and the IRS.
-
-(UNITED STATES OF AMERICA) (FATCA) [S.L.123.156 43
 
 SCHEDULE II Added by:
 

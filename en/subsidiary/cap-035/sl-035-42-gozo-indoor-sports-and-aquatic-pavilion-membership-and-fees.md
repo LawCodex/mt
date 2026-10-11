@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Gozo Indoor Sports and Aquatic Pavilion (Membership and Fees) Regulations (S.L. 35.42)
 
-*1*
-
-(MEMBERSHIP AND FEES) [S.L. 35.42 SUBSIDIARY LEGISLATION 35.42
+**SUBSIDIARY LEGISLATION 35.42**
 
 **GOZO INDOOR SPORTS AND AQUATIC PAVILION**
 
@@ -63,10 +61,6 @@ The Centre Manager may issue a visitor day pass subject to the access hours and 
 (1) There shall be charged by the Minister the fees listed in Schedule I for the use of the facilities at the Centre.
 
 (2) The fees specified in Schedules I and II shall be payable to the Centre Manager upon booking or entry.
-
-*2*
-
-[S.L. 35.42 (MEMBERSHIP AND FEES)
 
 ## 6. Discounted rates.
 
@@ -127,10 +121,6 @@ Free-Swim Zone
 Free-Swim Zone
 
 5 3 Shared up to 75 people 18m by 25m
-
-*3*
-
-(MEMBERSHIP AND FEES) [S.L. 35.42
 
 Water-polo Full- Floating goals & markings 50 30
 

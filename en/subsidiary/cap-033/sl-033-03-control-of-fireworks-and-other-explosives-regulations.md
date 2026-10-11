@@ -1,6 +1,6 @@
 ---
 title: "Control of Fireworks and other Explosives Regulations"
-identifier: "S.L. 33.3"
+identifier: "S.L. 33.03"
 eli: "https://legislation.mt/eli/sl/33.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/33.3/20260917/eng"
 retrieved: 2026-10-12
 ---
 
-# Control of Fireworks and other Explosives Regulations (S.L. 33.3)
+# Control of Fireworks and other Explosives Regulations (S.L. 33.03)
 
 **SUBSIDIARY LEGISLATION 33.03**
 

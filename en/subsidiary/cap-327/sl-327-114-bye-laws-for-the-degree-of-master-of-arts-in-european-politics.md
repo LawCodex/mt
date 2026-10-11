@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in European Politics, Economics and Law - M.A. - under the auspices of the Institute for European Studies (S.L. 327.114)
 
-ECONOMICS AND LAW - M.A. - UNDER THE AUSPICES
-
-*1*
-
-OF THE INSTITUTE FOR EUROPEAN STUDIES [S.L.327.114
-
 **SUBSIDIARY LEGISLATION 327.114**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER**
@@ -73,11 +67,7 @@ These bye-laws shall be applicable for courses commencing in October 2018 or lat
 
 Provided that in appropriate cases, the Board may, after an interview, require students admitted to the course to follow related study-units to which a maximum of 10 credits are assigned in addition to the programme of study specified in bye-law 6.
 
-(2) Applicants in possession of a Bachelor degree with Third Class Honours or Category III in any area deemed relevant by the Board and who have work experience that is related to the course, ECONOMICS AND LAW - M.A. - UNDER THE AUSPICES [S.L.327.114 OF THE INSTITUTE FOR EUROPEAN STUDIES
-
-may, after an interview, be admitted to a preparatory programme as specified in bye-law 4 of these bye-laws which programme, if successfully completed, provides access to the Degree.
-
-*2*
+(2) Applicants in possession of a Bachelor degree with Third Class Honours or Category III in any area deemed relevant by the Board and who have work experience that is related to the course, may, after an interview, be admitted to a preparatory programme as specified in bye-law 4 of these bye-laws which programme, if successfully completed, provides access to the Degree.
 
 (3) The Board may allow applicants possessing a degree other than those specified in paragraphs (1) and (2) to join the course, provided that the degree classification is not less than Second Class Honours / Category II, and subject to the submission of a letter of motivation and an interview to establish whether they have sufficient proficiency and background to be able to profit from the course. In such instances, the Board may recommend that applicants follow the preparatory programme or part of it.
 
@@ -111,11 +101,7 @@ The programme of study shall be published by the Board after approval by Senate 
 
 (2) Students who in any academic year fail in the assessment of not more than 20 credits for taught study-units, if following the course full-time, or not more than 10 credits if following the course part-time, shall be given the opportunity to re-sit the failed assessments during the September supplementary examination session.
 
-(3) Students who fail in more than the number of credits permitted under paragraph (2) or students who after re-assessment fail to obtain the credits for any study-units, shall be deemed to ECONOMICS AND LAW - M.A. - UNDER THE AUSPICES
-
-*3*
-
-OF THE INSTITUTE FOR EUROPEAN STUDIES [S.L.327.114 have failed the course.
+(3) Students who fail in more than the number of credits permitted under paragraph (2) or students who after re-assessment fail to obtain the credits for any study-units, shall be deemed to have failed the course.
 
 ## 9. Dissertation.
 

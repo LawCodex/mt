@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (The Principality of Monaco) Order (S.L. 123.188)
 
-*1*
-
-(THE PRINCIPALITY OF MONACO)) [S.L. 123.188 SUBSIDIARY LEGISLATION 123.188
+**SUBSIDIARY LEGISLATION 123.188**
 
 DOUBLE TAXATION RELIEF (TAXES ON INCOME)
 
@@ -45,15 +43,7 @@ It is hereby declared:-
 
 (c) that the Agreement has entered into force on 16th May, 2019.
 
-## SCHEDULE
-
-*2*
-
-[S.L. 123.188 (THE PRINCIPALITY OF MONACO))
-
-**CONVENTION BETWEEN THE GOVERNMENT OF THE**
-
-**REPUBLIC OF MALTA AND THE GOVERNMENT OF THE**
+## SCHEDULE — CONVENTION BETWEEN THE GOVERNMENT OF THE REPUBLIC OF MALTA AND THE GOVERNMENT OF THE
 
 **PRINCIPALITY OF MONACO**
 
@@ -103,11 +93,9 @@ the income tax;
 
 ## 4.
 
-This Convention shall apply also to any identical or substantially similar taxes that are imposed after the date of signature (THE PRINCIPALITY OF MONACO)) [S.L. 123.188 of the Convention in addition to, or in place of, the existing taxes. The competent authorities of the Contracting States shall notify each other of any significant changes that have been made in their taxation laws.
+This Convention shall apply also to any identical or substantially similar taxes that are imposed after the date of signature of the Convention in addition to, or in place of, the existing taxes. The competent authorities of the Contracting States shall notify each other of any significant changes that have been made in their taxation laws.
 
 **ARTICLE 3**
-
-*3*
 
 **GENERAL DEFINITIONS**
 
@@ -127,11 +115,7 @@ This Convention shall apply also to any identical or substantially similar taxes
 
 (g) the terms "enterprise of a State" and "enterprise of the other State" mean respectively an enterprise carried on by a resident of a Contracting State and an enterprise carried on by a resident of the other Contracting State;
 
-(h) the term "international traffic" means any [S.L. 123.188 (THE PRINCIPALITY OF MONACO))
-
-transport by a ship or aircraft operated by an enterprise of a Contracting State, except when the ship or aircraft is operated solely between places in the other State;
-
-*4*
+(h) the term "international traffic" means any transport by a ship or aircraft operated by an enterprise of a Contracting State, except when the ship or aircraft is operated solely between places in the other State;
 
 (i) the term "business" includes the performance of professional services and of other activities of an independent character;
 
@@ -159,9 +143,7 @@ transport by a ship or aircraft operated by an enterprise of a Contracting State
 
 any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature, and also includes that State or local authority thereof. This term, however, does not include any person who is liable to tax in that State in respect only of income from sources in that State or capital situated therein;
 
-*5*
-
-(THE PRINCIPALITY OF MONACO)) [S.L. 123.188 (b) in the case of Monaco
+(b) in the case of Monaco
 
 any person who, under the laws of the Principality of Monaco, has in Monaco his domicile, residence, habitual abode or place of management, and also includes the State of Monaco, State owned companies or partnerships and any local authorities thereof.
 
@@ -191,10 +173,6 @@ any person who, under the laws of the Principality of Monaco, has in Monaco his 
 
 (c) an office;
 
-*6*
-
-[S.L. 123.188 (THE PRINCIPALITY OF MONACO))
-
 (d) a factory;
 
 (e) a workshop; and
@@ -223,9 +201,9 @@ Notwithstanding the preceding provisions of this Article, the term "permanent es
 
 Notwithstanding the provisions of paragraphs 1 and 2, where a person — other than an agent of an independent status to whom paragraph 6 applies — is acting on behalf of an enterprise and has, and habitually exercises, in a Contracting State an authority to conclude contracts in the name of the enterprise, that enterprise shall be deemed to have a permanent establishment in that State in respect of any activities which that person undertakes for the enterprise, unless the activities of such person are limited to those mentioned in paragraph 4 which, if exercised through a fixed place of business, would not make this fixed place of business a permanent establishment under the provisions of that paragraph.
 
-*7*
+## 6.
 
-(THE PRINCIPALITY OF MONACO)) [S.L. 123.188 6. An enterprise shall not be deemed to have a permanent establishment in a Contracting State merely because it carries on business in that State through a broker, general commission agent or any other agent of an independent status, provided that such persons are acting in the ordinary course of their business.
+An enterprise shall not be deemed to have a permanent establishment in a Contracting State merely because it carries on business in that State through a broker, general commission agent or any other agent of an independent status, provided that such persons are acting in the ordinary course of their business.
 
 ## 7.
 
@@ -249,11 +227,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \1. The profits of an enterprise of a Contracting State shall be taxable only in that State unless the enterprise carries on business in the other Contracting State through a permanent establishment situated therein. If the enterprise carries on business as aforesaid, the profits of the enterprise may be taxed in the other State but only so much of them as is attributable to that permanent establishment.
 
-\2. Subject to the provisions of paragraph 3, where an enterprise of a Contracting State carries on business in the other [S.L. 123.188 (THE PRINCIPALITY OF MONACO))
-
-Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment.
-
-*8*
+\2. Subject to the provisions of paragraph 3, where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment.
 
 \3. In determining the profits of a permanent establishment, there shall be allowed as deductions expenses which are incurred for the purposes of the permanent establishment, including executive and general administrative expenses so incurred, whether in the State in which the permanent establishment is situated or elsewhere.
 
@@ -275,11 +249,9 @@ Where profits include items of income which are dealt with separately in other A
 
 \2. For the purposes of this Article, profits derived from the operation of ships or aircraft in international traffic include profits derived from the rental of ships or aircraft if such ships or aircraft are operated in international traffic or if such rental profits are incidental to other profits described in paragraph 1 of this Article.
 
-\3. The provisions of paragraph 1 shall also apply to profits (THE PRINCIPALITY OF MONACO)) [S.L. 123.188 from the participation in a pool, a joint business or an international operating agency.
+\3. The provisions of paragraph 1 shall also apply to profits from the participation in a pool, a joint business or an international operating agency.
 
 **ARTICLE 9**
-
-*9*
 
 **ASSOCIATED ENTERPRISES**
 
@@ -299,11 +271,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \1. Dividends paid by a company that is a resident of a Contracting State to a resident of the other Contracting State and which are beneficially owned by that resident shall be taxable only in that other State.
 
-\2. The term "dividends" as used in this Article means income from shares, "jouissance" shares or "jouissance" rights, mining shares, founders’ shares or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from [S.L. 123.188 (THE PRINCIPALITY OF MONACO))
-
-shares by the laws of the State of which the company making the distribution is a resident.
-
-*10*
+\2. The term "dividends" as used in this Article means income from shares, "jouissance" shares or "jouissance" rights, mining shares, founders’ shares or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
 
 \3. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
@@ -319,11 +287,9 @@ shares by the laws of the State of which the company making the distribution is 
 
 \3. The provisions of paragraph 1 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises through a permanent establishment situated therein and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
-\4. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such (THE PRINCIPALITY OF MONACO)) [S.L. 123.188 relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
+\4. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
 **ARTICLE 12**
-
-*11*
 
 **ROYALTIES**
 
@@ -342,10 +308,6 @@ shares by the laws of the State of which the company making the distribution is 
 \1. Gains derived by a resident of a Contracting State from the alienation of immovable property referred to in Article 6 and situated in the other State may be taxed in that other State.
 
 \2. Gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State including such gains from the alienation of such a permanent establishment (alone or with the whole enterprise) may be taxed in that other State.
-
-*12*
-
-[S.L. 123.188 (THE PRINCIPALITY OF MONACO))
 
 \3. Gains derived by an enterprise of a Contracting State from the alienation of ships or aircraft operated in international traffic, or from movable property pertaining to the operation of such ships or aircraft, shall be taxable only in that State.
 
@@ -369,9 +331,7 @@ shares by the laws of the State of which the company making the distribution is 
 
 \3. Notwithstanding the preceding provisions of this Article, remuneration derived in respect of an employment exercised aboard a ship or aircraft operated in international traffic by an enterprise of a Contracting State may be taxed in that State.
 
-*13*
-
-(THE PRINCIPALITY OF MONACO)) [S.L. 123.188 ARTICLE 15
+**ARTICLE 15**
 
 **DIRECTORS' FEES**
 
@@ -403,10 +363,6 @@ Subject to the provisions of paragraph 2 of article 18, pensions and other simil
 
 (ii) did not become a resident of that State solely for the purpose of rendering the services.
 
-*14*
-
-[S.L. 123.188 (THE PRINCIPALITY OF MONACO))
-
 \2. (a) Notwithstanding the provisions of paragraph 1, pensions and other similar remuneration paid by, or out of funds created by, a Contracting State or a political subdivision or a local authority thereof to an individual in respect of services rendered to that State or subdivision or authority shall be taxable only in that State.
 
 (b) However, such pensions and other similar remuneration shall be taxable only in the other Contracting State if the individual is a resident of, and a national of, that State.
@@ -433,11 +389,9 @@ Payments which a student or business apprentice who is or was immediately before
 
 \1. In the case of Malta, double taxation shall be avoided as follows:
 
-Subject to the provisions of the law of Malta regarding the allowance of a credit against Malta tax in respect of foreign tax, where, in accordance with the provisions of this Convention, there is included (THE PRINCIPALITY OF MONACO)) [S.L. 123.188 in a Malta assessment income from sources within Monaco, the Monaco tax on such income shall be allowed as a credit against the relative Malta tax payable thereon.
+Subject to the provisions of the law of Malta regarding the allowance of a credit against Malta tax in respect of foreign tax, where, in accordance with the provisions of this Convention, there is included in a Malta assessment income from sources within Monaco, the Monaco tax on such income shall be allowed as a credit against the relative Malta tax payable thereon.
 
 \2. In the case of Monaco, double taxation shall be avoided as follows:
-
-*15*
 
 Where a resident of Monaco derives income which, in accordance with the provisions of this Convention, is taxable in Malta, then Monaco shall allow a deduction from the tax on income of that resident an amount equal to the tax paid in Malta provided that such deduction shall not exceed that part of the tax, as computed before the deduction is given, which is attributable to the income derived from Malta.
 
@@ -451,11 +405,7 @@ Where a resident of Monaco derives income which, in accordance with the provisio
 
 \3. Except where the provisions of paragraph 1 of Article 9, paragraph 4 of Article 11, or paragraph 4 of Article 12, apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
 
-\4. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first- [S.L. 123.188 (THE PRINCIPALITY OF MONACO))
-
-mentioned State are or may be subjected.
-
-*16*
+\4. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
 
 \5. The provisions of this Article shall, notwithstanding the provisions of Article 2, apply to taxes of every kind and description.
 
@@ -477,9 +427,7 @@ mentioned State are or may be subjected.
 
 \1. The competent authorities of the Contracting States shall exchange such information as is foreseeably relevant for carrying out the provisions of this Convention or to the administration or enforcement of the domestic laws concerning taxes of every kind and description imposed on behalf of the Contracting States, or of their political subdivisions or local authorities, insofar as the taxation thereunder is not contrary to the Convention. The exchange of information is not restricted by Article 1 and 2.
 
-*17*
-
-(THE PRINCIPALITY OF MONACO)) [S.L. 123.188 2. Any information received under paragraph 1 by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to the taxes referred to in paragraph 1, or the oversight of the above. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions. Notwithstanding the foregoing, information received by a Contracting State may be used for other purposes when such information may be used for such other purposes under the laws of both States and the competent authority of the supplying State authorises such use.
+\2. Any information received under paragraph 1 by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to the taxes referred to in paragraph 1, or the oversight of the above. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions. Notwithstanding the foregoing, information received by a Contracting State may be used for other purposes when such information may be used for such other purposes under the laws of both States and the competent authority of the supplying State authorises such use.
 
 \3. In no case shall the provisions of paragraphs 1 and 2 be construed so as to impose on a Contracting State the obligation:
 
@@ -492,10 +440,6 @@ mentioned State are or may be subjected.
 \4. If information is requested by a Contracting State in accordance with this Article, the other Contracting State shall use its information gathering measures to obtain the requested information, even though that other State may not need such information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall such limitations be construed to permit a Contracting State to decline to supply information solely because it has no domestic interest in such information.
 
 \5. In no case shall the provisions of paragraph 3 be construed to permit a Contracting State to decline to supply information solely because the information is held by a bank, other financial institution, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person.
-
-*18*
-
-[S.L. 123.188 (THE PRINCIPALITY OF MONACO))
 
 **ARTICLE 25**
 

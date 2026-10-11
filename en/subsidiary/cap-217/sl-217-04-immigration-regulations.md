@@ -1,6 +1,6 @@
 ---
 title: "Immigration Regulations"
-identifier: "S.L. 217.4"
+identifier: "S.L. 217.04"
 eli: "https://legislation.mt/eli/sl/217.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/217.4/20260722/eng"
 retrieved: 2026-10-12
 ---
 
-# Immigration Regulations (S.L. 217.4)
+# Immigration Regulations (S.L. 217.04)
 
 **SUBSIDIARY LEGISLATION 217.04**
 

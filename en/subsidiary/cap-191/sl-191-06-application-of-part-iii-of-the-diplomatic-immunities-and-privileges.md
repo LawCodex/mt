@@ -1,6 +1,6 @@
 ---
 title: "Application of Part III of the Diplomatic Immunities and Privileges Act (International Tribunal for the Law of the Sea) Order"
-identifier: "S.L. 191.6"
+identifier: "S.L. 191.06"
 eli: "https://legislation.mt/eli/sl/191.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/191.6/20130305/eng"
 retrieved: 2026-10-12
 ---
 
-# Application of Part III of the Diplomatic Immunities and Privileges Act (International Tribunal for the Law of the Sea) Order (S.L. 191.6)
-
-DIPLOMATIC IMMUNITIES AND PRIVILEGES ACT
-
-*1*
-
-(INTERNATIONAL TRIBUNAL FOR THE LAW OF THE SEA) [S.L.191.06
+# Application of Part III of the Diplomatic Immunities and Privileges Act (International Tribunal for the Law of the Sea) Order (S.L. 191.06)
 
 **SUBSIDIARY LEGISLATION 191.06**
 
@@ -64,8 +58,6 @@ The International Tribunal for the Law of the Sea shall enjoy the immunities and
 "appropriate authorities of States Parties" shall be construed as including the Malta Police and the Armed Forces of Malta.
 
 (4) The references in Articles 5, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 21 and 22, to the extent to which any privileges and immunities are accorded or granted, shall be construed as referring respectively to the extent to which any privileges and immunities may be specified by the Minister by order published in the Government Gazette.
-
-DIPLOMATIC IMMUNITIES AND PRIVILEGES ACT 2 [S.L.191.06 (INTERNATIONAL TRIBUNAL FOR THE LAW OF THE SEA)
 
 ## Schedule — AGREEMENT ON THE PRIVILEGES AND IMMUNITIES OF THE — INTERNATIONAL TRIBUNAL FOR THE LAW OF THE SEA
 
@@ -125,9 +117,7 @@ The Tribunal shall enjoy immunity from legal process, except insofar as in any p
 
 ## 2.
 
-The property, assets and funds of the Tribunal, wherever located and by DIPLOMATIC IMMUNITIES AND PRIVILEGES ACT
-
-(INTERNATIONAL TRIBUNAL FOR THE LAW OF THE SEA) [S.L.191.06 3 whomsoever held, shall be immune from search, requisition, confiscation, seizure, expropriation or any other form of interference, whether by executive, administrative, judicial or legislative action.
+The property, assets and funds of the Tribunal, wherever located and by whomsoever held, shall be immune from search, requisition, confiscation, seizure, expropriation or any other form of interference, whether by executive, administrative, judicial or legislative action.
 
 ## 3.
 
@@ -167,9 +157,7 @@ In the event that the Tribunal considers it desirable to sit or otherwise exerci
 
 \2. The Tribunal shall be exempt from all customs duties, import turnover taxes and prohibitions and restrictions on imports and exports in respect of articles imported or exported by the Tribunal for its official use.
 
-\3. Goods imported or purchased under such an exemption shall not be sold or DIPLOMATIC IMMUNITIES AND PRIVILEGES ACT 4 [S.L.191.06 (INTERNATIONAL TRIBUNAL FOR THE LAW OF THE SEA)
-
-otherwise disposed of in the territory of a State Party, except under conditions agreed with the Government of that State Party. The Tribunal shall also be exempt from all customs duties, import turnover taxes, prohibitions and restrictions on imports and exports in respect of its publications.
+\3. Goods imported or purchased under such an exemption shall not be sold or otherwise disposed of in the territory of a State Party, except under conditions agreed with the Government of that State Party. The Tribunal shall also be exempt from all customs duties, import turnover taxes, prohibitions and restrictions on imports and exports in respect of its publications.
 
 **Article 10**
 
@@ -202,10 +190,6 @@ otherwise disposed of in the territory of a State Party, except under conditions
 (c) the Tribunal may receive, hold, negotiate, transfer, convert or otherwise deal with bonds and other financial securities.
 
 \2. In exercising its rights under paragraph 1, the Tribunal shall pay due regard to any representations made by any State Party insofar as it is considered that effect can be given to such representations without detriment to the interests of the Tribunal.
-
-DIPLOMATIC IMMUNITIES AND PRIVILEGES ACT
-
-(INTERNATIONAL TRIBUNAL FOR THE LAW OF THE SEA) [S.L.191.06 5
 
 **Article 13**
 
@@ -245,9 +229,7 @@ In particular, they shall be accorded:
 
 (a) immunity from personal arrest or detention and from seizure of their personal baggage;
 
-(b) the right to import free of duty their furniture and effects at the time of first taking up their post in the country in question and to re-export the DIPLOMATIC IMMUNITIES AND PRIVILEGES ACT 6 [S.L.191.06 (INTERNATIONAL TRIBUNAL FOR THE LAW OF THE SEA)
-
-same free of duty to their country of permanent residence;
+(b) the right to import free of duty their furniture and effects at the time of first taking up their post in the country in question and to re-export the same free of duty to their country of permanent residence;
 
 (c) exemption from inspection of personal baggage, unless there are serious grounds for believing that the baggage contains articles not for personal use or articles the import or export of which is prohibited by the law or controlled by the quarantine regulations of the State Party concerned; an inspection in such a case shall be conducted in the presence of the official concerned;
 
@@ -283,9 +265,7 @@ In particular, they shall be accorded:
 
 (e) exemption from immigration restrictions or alien registration;
 
-DIPLOMATIC IMMUNITIES AND PRIVILEGES ACT
-
-(INTERNATIONAL TRIBUNAL FOR THE LAW OF THE SEA) [S.L.191.06 7 (f) the same facilities in respect of currency and exchange restrictions as are accorded to representatives of foreign Governments on temporary official missions;
+(f) the same facilities in respect of currency and exchange restrictions as are accorded to representatives of foreign Governments on temporary official missions;
 
 (g) such experts shall be accorded the same repatriation facilities in time of international crises as are accorded to diplomatic agents under the Vienna Convention.
 
@@ -321,9 +301,7 @@ DIPLOMATIC IMMUNITIES AND PRIVILEGES ACT
 
 **Witnesses, experts and persons performing missions**
 
-\1. Witnesses, experts and persons performing missions by order of the Tribunal shall be accorded, during the period of their missions, including the time spent on DIPLOMATIC IMMUNITIES AND PRIVILEGES ACT 8 [S.L.191.06 (INTERNATIONAL TRIBUNAL FOR THE LAW OF THE SEA)
-
-journeys in connection with their missions, the privileges, immunities and facilities provided for in article 15, subparagraphs (a) to (f).
+\1. Witnesses, experts and persons performing missions by order of the Tribunal shall be accorded, during the period of their missions, including the time spent on journeys in connection with their missions, the privileges, immunities and facilities provided for in article 15, subparagraphs (a) to (f).
 
 \2. Witnesses, experts and such persons shall be accorded repatriation facilities in time of international crises.
 
@@ -355,9 +333,7 @@ Except insofar as additional privileges and immunities may be granted by the Sta
 
 \1. The States Parties shall recognize and accept the United Nations laissez-passer issued to Members and officials of the Tribunal or experts appointed under article 289 of the Convention as a valid travel document.
 
-DIPLOMATIC IMMUNITIES AND PRIVILEGES ACT
-
-(INTERNATIONAL TRIBUNAL FOR THE LAW OF THE SEA) [S.L.191.06 9 2. Applications for visas (where required) from the Members of the Tribunal and the Registrar shall be dealt with as speedily as possible. Applications for visas from all other persons holding or entitled to hold laissez-passer referred to in paragraph 1 of this Article and from persons referred to in articles 16 and 17, when accompanied by a certificate that they are travelling on the business of the Tribunal, shall be dealt with as speedily as possible.
+\2. Applications for visas (where required) from the Members of the Tribunal and the Registrar shall be dealt with as speedily as possible. Applications for visas from all other persons holding or entitled to hold laissez-passer referred to in paragraph 1 of this Article and from persons referred to in articles 16 and 17, when accompanied by a certificate that they are travelling on the business of the Tribunal, shall be dealt with as speedily as possible.
 
 **Article 22**
 
@@ -395,6 +371,4 @@ Insofar as the provisions of this Agreement and the provisions of any special ag
 
 (b) disputes involving any person referred to in this Agreement who by reason of his official position enjoys immunity, if such immunity has not been waived.
 
-\2. All disputes arising out of the interpretation or application of this DIPLOMATIC IMMUNITIES AND PRIVILEGES ACT 10 [S.L.191.06 (INTERNATIONAL TRIBUNAL FOR THE LAW OF THE SEA)
-
-Agreement shall be referred to an arbitral tribunal unless the parties have agreed to another mode of settlement. If a dispute arises between the Tribunal and a State Party which is not settled by consultation, negotiation or other agreed mode of settlement within three months following a request by one of the parties to the dispute, it shall at the request of either party be referred for final decision to a panel of three arbitrators: one to be chosen by the Tribunal, one to be chosen by the State Party and the third, who shall be Chairman of the panel, to be chosen by the first two arbitrators. If either party has failed to make its appointment of an arbitrator within two months of the appointment of an arbitrator by the other party, the Secretary- General of the United Nations shall make such appointment. Should the first two arbitrators fail to agree upon the appointment of the third arbitrator within three months following the appointment of the first two arbitrators the third arbitrator shall be chosen by the Secretary-General of the United Nations upon the request of the Tribunal or the State Party.
+\2. All disputes arising out of the interpretation or application of this Agreement shall be referred to an arbitral tribunal unless the parties have agreed to another mode of settlement. If a dispute arises between the Tribunal and a State Party which is not settled by consultation, negotiation or other agreed mode of settlement within three months following a request by one of the parties to the dispute, it shall at the request of either party be referred for final decision to a panel of three arbitrators: one to be chosen by the Tribunal, one to be chosen by the State Party and the third, who shall be Chairman of the panel, to be chosen by the first two arbitrators. If either party has failed to make its appointment of an arbitrator within two months of the appointment of an arbitrator by the other party, the Secretary- General of the United Nations shall make such appointment. Should the first two arbitrators fail to agree upon the appointment of the third arbitrator within three months following the appointment of the first two arbitrators the third arbitrator shall be chosen by the Secretary-General of the United Nations upon the request of the Tribunal or the State Party.

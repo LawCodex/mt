@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Pre-Tertiary Certificate in the Foundations of Coaching Course Regulations (S.L. 327.370)
 
-*1*
-
-FOUNDATIONS OF COACHING COURSE [S.L.327.370
-
 **SUBSIDIARY LEGISLATION 327.370**
 
 **PRE-TERTIARY CERTIFICATE IN THE**
@@ -69,11 +65,7 @@ To be eligible for the award of the Certificate, students must:
 
 (a) are in possession of passes in five subjects at Grade 5 or better at Secondary Education Certificate level, including English Language, Maltese, Mathematics and any other two subjects, or equivalent qualifications as approved by Senate on the recommendation of the Board;
 
-(b) shall be not less than 18 years of age within 3 calendar months from the commencement of the course; and [S.L.327.370 FOUNDATIONS OF COACHING COURSE
-
-(c) produce certification with regard to their prior or current involvement in Physical Education and/or Sport.
-
-*2*
+(b) shall be not less than 18 years of age within 3 calendar months from the commencement of the course; and (c) produce certification with regard to their prior or current involvement in Physical Education and/or Sport.
 
 (2) Applicants who apply without the requested qualifications listed in sub-regulation (1) shall not be required to sit for the assessments of the study-units and shall be awarded a certificate of attendance, provided that they have attended 80% of the lectures.
 
@@ -122,10 +114,6 @@ Mark Range Grade
 70% - 74% B
 
 60% - 69% C+
-
-*3*
-
-FOUNDATIONS OF COACHING COURSE [S.L.327.370
 
 55% - 59% C
 

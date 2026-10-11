@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Exchange of Information (Tax Matters) (Macao Special Administrative Region of the People’s Republic of China) Order (S.L. 123.153)
 
-(MACAO SPECIAL ADMINISTRATIVE REGION
-
-*1*
-
-OF THE PEOPLE’S REPUBLIC OF CHINA) [S.L.123.153
-
 **SUBSIDIARY LEGISLATION 123.153**
 
 EXCHANGE OF INFORMATION (TAX MATTERS) (MACAO SPECIAL ADMINISTRATIVE REGION OF THE PEOPLE’S REPUBLIC OF CHINA) ORDER \*
@@ -43,10 +37,6 @@ It is hereby declared:
 (c) that the Agreement shall enter into force on such date as may be announced by notice in the Government Gazette.
 
 \*not yet in force.
-
-(MACAO SPECIAL ADMINISTRATIVE REGION
-
-2 [S.L.123.153 OF THE PEOPLE’S REPUBLIC OF CHINA)
 
 ## SCHEDULE — Article 2 — AGREEMENT
 
@@ -93,10 +83,6 @@ This Agreement shall also apply to any identical or any substantially similar ta
 **Definitions**
 
 \1. For the purposes of this Agreement, unless otherwise defined:
-
-(MACAO SPECIAL ADMINISTRATIVE REGION
-
-OF THE PEOPLE’S REPUBLIC OF CHINA) [S.L.123.153 3
 
 *a)*
 
@@ -152,11 +138,7 @@ m) the term "requested Party" means the Contracting Party requested to provide i
 
 *n)*
 
-the term "information gathering measures" means laws and administrative or judicial procedures that enable a Contracting Party to (MACAO SPECIAL ADMINISTRATIVE REGION
-
-4 [S.L.123.153 OF THE PEOPLE’S REPUBLIC OF CHINA)
-
-obtain and provide the requested information;
+the term "information gathering measures" means laws and administrative or judicial procedures that enable a Contracting Party to obtain and provide the requested information;
 
 o) the term "information" means any fact, statement or record in any form whatever.
 
@@ -194,10 +176,6 @@ a) the identity of the person under examination or investigation;
 
 b) period of time with respect to which the information is requested;
 
-(MACAO SPECIAL ADMINISTRATIVE REGION
-
-OF THE PEOPLE’S REPUBLIC OF CHINA) [S.L.123.153 5
-
 c) a statement of the information sought including its nature and the form in which the applicant Party wishes to receive the information from the requested Party;
 
 d) the tax purpose for which the information is sought;
@@ -228,10 +206,6 @@ b) If the competent authority of the requested Party has been unable to obtain a
 
 \2. At the request of the competent authority of one Contracting Party, the competent authority of the other Contracting Party may allow representatives of the competent authority of the first-mentioned Party to be present at the appropriate part of a tax examination in the second-mentioned Party.
 
-(MACAO SPECIAL ADMINISTRATIVE REGION
-
-6 [S.L.123.153 OF THE PEOPLE’S REPUBLIC OF CHINA)
-
 \3. If the request referred to in paragraph 2 is acceded to, the competent authority of the Contracting Party conducting the examination shall, as soon as possible, notify the competent authority of the other Party about the time and place of the examination, the authority or official designated to carry out the examination and the procedures and conditions required by the first-mentioned Party for the conduct of the examination. All decisions with respect to the conduct of the tax examination shall be made by the Party conducting the examination.
 
 **Article 7**
@@ -260,11 +234,7 @@ The requested Party may decline a request for information if the information is 
 
 **Confidentiality**
 
-Any information received by a Contracting Party under this Agreement shall be treated as confidential and may be disclosed only to persons or authorities (including courts and administrative bodies) in the jurisdiction of the Contracting Party concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes imposed by a Contracting Party. Such persons or authorities shall use such information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions. The information may not be disclosed to any other person or entity or authority or any other jurisdiction without the express written consent of (MACAO SPECIAL ADMINISTRATIVE REGION
-
-OF THE PEOPLE’S REPUBLIC OF CHINA) [S.L.123.153 7
-
-the competent authority of the requested Party.
+Any information received by a Contracting Party under this Agreement shall be treated as confidential and may be disclosed only to persons or authorities (including courts and administrative bodies) in the jurisdiction of the Contracting Party concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes imposed by a Contracting Party. Such persons or authorities shall use such information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions. The information may not be disclosed to any other person or entity or authority or any other jurisdiction without the express written consent of the competent authority of the requested Party.
 
 **Article 9**
 
@@ -305,10 +275,6 @@ The Contracting Parties shall enact any legislation necessary to comply with, an
 \2. In the event of termination, both Contracting Parties shall remain bound by the provisions of Article 8 with respect to any information obtained under the Agreement.
 
 In witness whereof the undersigned being duly authorised thereto have signed the Agreement.
-
-(MACAO SPECIAL ADMINISTRATIVE REGION
-
-8 [S.L.123.153 OF THE PEOPLE’S REPUBLIC OF CHINA)
 
 Done at Beijing this 30 day of May 2013, in duplicate in the English, Chinese and Portuguese languages, all texts being equally authentic. In case of any divergence, the English text shall prevail.
 

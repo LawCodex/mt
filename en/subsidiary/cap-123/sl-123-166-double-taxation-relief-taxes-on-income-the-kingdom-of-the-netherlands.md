@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (The Kingdom of the Netherlands, in respect of Curaçao) Order (S.L. 123.166)
 
-*1*
-
-DOM OF THE NETHERLANDS, IN RESPECT OF CURAÇAO) [S.L.123.166
-
 **SUBSIDIARY LEGISLATION 123.166**
 
 DOUBLE TAXATION RELIEF (TAXES ON INCOME) (THE KINGDOM OF THE NETHERLANDS, IN
@@ -51,8 +47,6 @@ It is hereby declared:
 (b) that it is expedient that those arrangements should have effect following the entry into force of the Convention and in accordance with the relevant provisions of the Convention;
 
 (c) that the Convention has entered into force on 1st September 2024.
-
-2 [S.L.123.166 DOM OF THE NETHERLANDS, IN RESPECT OF CURAÇAO)
 
 ## SCHEDULE — Article 2 — CONVENTION
 
@@ -128,21 +122,21 @@ the income tax;
 
 (hereinafter referred to as "Curaçao tax").
 
-DOM OF THE NETHERLANDS, IN RESPECT OF CURAÇAO) [S.L.123.166 3
-
-## 4.
+*\4.*
 
 The Convention shall apply also to any identical or substantially similar taxes that are imposed after the date of signature of the Convention in addition to, or in place of, the existing taxes. The competent authorities of the Contracting States shall notify each other of any significant changes that have been made in their taxation laws.
 
-**CHAPTER 2**
+CHAPTER 2
 
 Definitions
 
-**Article 3**
+Article 3
 
 General definitions
 
-\1. For the purposes of this Convention, unless the context otherwise requires:
+*\1.*
+
+For the purposes of this Convention, unless the context otherwise requires:
 
 (a) the term "Malta” means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
 
@@ -168,8 +162,6 @@ General definitions
 
 (ii) in the case of Curaçao: the Minister of Finance or his authorised representative;
 
-4 [S.L.123.166 DOM OF THE NETHERLANDS, IN RESPECT OF CURAÇAO)
-
 (k) the term "national" means:
 
 (i) in relation to Curaçao, any individual who has Dutch nationality and who would be eligible to vote in Curaçao if he were of age and present in Curaçao, provided however that, if an individual is not present in Curaçao, he must either have been born in Curaçao or have been a resident thereof for at least five years; and any legal person, partnership or association deriving its status as such from the laws in force in Curaçao;
@@ -194,15 +186,15 @@ General definitions
 
 (d) if he is a national of both States or of neither of them, the competent authorities of the Contracting States shall settle the question by mutual agreement.
 
-\3. Where by reason of the provisions of paragraph 1 a person other than an individual is a resident of both Contracting States, then it shall be deemed to be a resident only of the State in which its place of effective management is situated.
+## 3.
+
+Where by reason of the provisions of paragraph 1 a person other than an individual is a resident of both Contracting States, then it shall be deemed to be a resident only of the State in which its place of effective management is situated.
 
 **Article 5**
 
 **Permanent establishment**
 
-\1. For the purposes of this Convention, the term "permanent establishment" means a fixed place of business through which the business of an enterprise is DOM OF THE NETHERLANDS, IN RESPECT OF CURAÇAO) [S.L.123.166 5
-
-wholly or partly carried on.
+\1. For the purposes of this Convention, the term "permanent establishment" means a fixed place of business through which the business of an enterprise is wholly or partly carried on.
 
 \2. The term "permanent establishment" includes especially:
 
@@ -218,7 +210,9 @@ wholly or partly carried on.
 
 (f) a mine, an oil or gas well, a quarry or any other place of extraction of natural resources.
 
-\3. A building site or construction or installation project constitutes a permanent establishment only if it lasts more than twelve months.
+## 3.
+
+A building site or construction or installation project constitutes a permanent establishment only if it lasts more than twelve months.
 
 ## 4.
 
@@ -246,9 +240,7 @@ Notwithstanding the preceding provisions of this Article, an insurance enterpris
 
 ## 7.
 
-An enterprise shall not be deemed to have a permanent establishment in a Contracting State merely because it carries on business in that State through a 6 [S.L.123.166 DOM OF THE NETHERLANDS, IN RESPECT OF CURAÇAO)
-
-broker, general commission agent or any other agent of an independent status, provided that such persons are acting in the ordinary course of their business.
+An enterprise shall not be deemed to have a permanent establishment in a Contracting State merely because it carries on business in that State through a broker, general commission agent or any other agent of an independent status, provided that such persons are acting in the ordinary course of their business.
 
 ## 8.
 
@@ -280,9 +272,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \3. In determining the profits of a permanent establishment, there shall be allowed as deductions expenses which are incurred for the purposes of the permanent establishment, including executive and general administrative expenses so incurred, whether in the State in which the permanent establishment is situated or elsewhere.
 
-\4. Insofar as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an DOM OF THE NETHERLANDS, IN RESPECT OF CURAÇAO) [S.L.123.166 7
-
-apportionment of the total profits of the enterprise to its various parts, nothing in paragraph 2 shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary; the method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles contained in this Article.
+\4. Insofar as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph 2 shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary; the method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles contained in this Article.
 
 \5. No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
 
@@ -316,8 +306,6 @@ Where profits include items of income which are dealt with separately in other A
 
 (a) an enterprise of a Contracting State participates directly or indirectly in the management, control or capital of an enterprise of the other Contracting State; or
 
-8 [S.L.123.166 DOM OF THE NETHERLANDS, IN RESPECT OF CURAÇAO)
-
 (b) the same persons participate directly or indirectly in the management, control or capital of an enterprise of a Contracting State and an enterprise of the other Contracting State,
 
 and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
@@ -346,8 +334,6 @@ The competent authorities of the Contracting States may by mutual agreement sett
 
 \3. The term "dividends" as used in this Article means income from shares, "jouissance" shares or "jouissance" rights, mining shares, founders' shares or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
 
-DOM OF THE NETHERLANDS, IN RESPECT OF CURAÇAO) [S.L.123.166 9
-
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident through a permanent establishment situated therein and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
 \5. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment situated in that other State, nor subject the company's undistributed profits to a tax on the company's undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
@@ -372,9 +358,7 @@ DOM OF THE NETHERLANDS, IN RESPECT OF CURAÇAO) [S.L.123.166 9
 
 \1. Royalties arising in a Contracting State and beneficially owned by a resident of the other Contracting State shall be taxable only in that other State.
 
-\2. The term "royalties" as used in this Article means payments of any kind 10 [S.L.123.166 DOM OF THE NETHERLANDS, IN RESPECT OF CURAÇAO)
-
-received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including cinematograph films, any patent, trade mark, design or model, plan, secret formula or process, or for information concerning industrial, commercial or scientific experience. The term "royalties" also includes income derived from the alienation of any such right or property that is contingent on the productivity or use thereof.
+\2. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including cinematograph films, any patent, trade mark, design or model, plan, secret formula or process, or for information concerning industrial, commercial or scientific experience. The term "royalties" also includes income derived from the alienation of any such right or property that is contingent on the productivity or use thereof.
 
 \3. The provisions of paragraph 1 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise through a permanent establishment situated therein and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
@@ -394,9 +378,7 @@ received as a consideration for the use of, or the right to use, any copyright o
 
 \5. Gains from the alienation of any property, other than that referred to in paragraphs 1, 2, 3 and 4, shall be taxable only in the Contracting State of which the alienator is a resident.
 
-\6. The provisions of paragraph 4 shall not affect the right of a Contracting State to levy according to its own law a tax on gains from the alienation of shares in a company, the capital of which is wholly or partly divided into shares and which under the law of that State is a resident thereof, derived by an individual who is resident of the other Contracting State and has been a resident of the first-mentioned State in the course of the last ten years preceding the alienation of the shares or "jouissance" rights, provided that said individual was a resident of the first-mentioned State for a period of at least twelve months in the aggregate during that DOM OF THE NETHERLANDS, IN RESPECT OF CURAÇAO) [S.L.123.166 11
-
-ten-year period.
+\6. The provisions of paragraph 4 shall not affect the right of a Contracting State to levy according to its own law a tax on gains from the alienation of shares in a company, the capital of which is wholly or partly divided into shares and which under the law of that State is a resident thereof, derived by an individual who is resident of the other Contracting State and has been a resident of the first-mentioned State in the course of the last ten years preceding the alienation of the shares or "jouissance" rights, provided that said individual was a resident of the first-mentioned State for a period of at least twelve months in the aggregate during that ten-year period.
 
 **Article 14**
 
@@ -429,8 +411,6 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 \2. Where income in respect of personal activities exercised by an entertainer or a sportsperson in his capacity as such accrues not to the entertainer or sportsperson himself but to another person, that income may, notwithstanding the provisions of Articles 7 and 14, be taxed in the Contracting State in which the activities of the entertainer or sportsperson are exercised.
 
 \3. The provisions of paragraphs 1 and 2 shall not apply to income derived from activities performed in a Contracting State by entertainers or sportspersons, who are residents of the other Contracting State, if the visit to the first-mentioned State is substantially financed from public funds of the other Contracting State or a political subdivision or a local authority thereof. In such a case the income shall be taxable only in the State of which the entertainer or sportsperson is a resident.
-
-12 [S.L.123.166 DOM OF THE NETHERLANDS, IN RESPECT OF CURAÇAO)
 
 **Article 17**
 
@@ -466,8 +446,6 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 Payments which a student or business apprentice who is or was immediately before visiting a Contracting State a resident of the other Contracting State and who is present in the first-mentioned State solely for the purpose of his education or training receives for the purpose of his maintenance, education or training shall not be taxed in that State, provided that such payments arise from sources outside that State.
 
-DOM OF THE NETHERLANDS, IN RESPECT OF CURAÇAO) [S.L.123.166 13
-
 **Article 20**
 
 **Natural resources**
@@ -492,9 +470,7 @@ DOM OF THE NETHERLANDS, IN RESPECT OF CURAÇAO) [S.L.123.166 13
 
 (a) exploration or exploitation rights; or
 
-(b) property situated in the other Contracting State and used in connection with the exploration or exploitation of the seabed and subsoil and their 14 [S.L.123.166 DOM OF THE NETHERLANDS, IN RESPECT OF CURAÇAO)
-
-natural resources situated in that other State; or
+(b) property situated in the other Contracting State and used in connection with the exploration or exploitation of the seabed and subsoil and their natural resources situated in that other State; or
 
 (c) shares deriving their value or the greater part of their value directly or indirectly from such rights or such property or from such rights and such property taken together,
 
@@ -526,9 +502,7 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 (a) Curaçao, when imposing tax on its residents, may include in the basis upon which such taxes are imposed the items of income which, according to the provisions of this Convention, may be taxed in Malta;
 
-(b) However, where a resident of Curaçao derives items of income which according to Article 6, Article 7, paragraph 4 of Article 10, paragraph 5 of Article 11, paragraph 4 of Article 12, paragraphs 1 and 2 of Article 13, paragraph 1 of Article 14, paragraph 2 of Article 20 and paragraph 2 of Article 21 may be taxed in Malta and are included in the basis referred to in sub-paragraph (a) of this paragraph, Curaçao shall exempt such items of income by allowing a reduction of its tax. This reduction shall be computed in conformity with the provisions of Curaçao law for the avoidance of double taxation. For that purpose the said items of income shall be deemed to be included in the total amount of the items DOM OF THE NETHERLANDS, IN RESPECT OF CURAÇAO) [S.L.123.166 15
-
-of income, which are exempt from Curaçao tax under those provisions;
+(b) However, where a resident of Curaçao derives items of income which according to Article 6, Article 7, paragraph 4 of Article 10, paragraph 5 of Article 11, paragraph 4 of Article 12, paragraphs 1 and 2 of Article 13, paragraph 1 of Article 14, paragraph 2 of Article 20 and paragraph 2 of Article 21 may be taxed in Malta and are included in the basis referred to in sub-paragraph (a) of this paragraph, Curaçao shall exempt such items of income by allowing a reduction of its tax. This reduction shall be computed in conformity with the provisions of Curaçao law for the avoidance of double taxation. For that purpose the said items of income shall be deemed to be included in the total amount of the items of income, which are exempt from Curaçao tax under those provisions;
 
 (c) Further, Curaçao shall allow a deduction from Curaçao tax so computed for the items of income which according to paragraph 2 of Article 10, paragraph 4 of Article 13, Article 15, Article 16 and paragraph 2 of Article 17 may be taxed in Malta to the extent that these items are included in the basis referred to in sub-paragraph (a) of this paragraph. The amount of this deduction shall be equal to the tax paid in Malta (excluding in the case of a dividend, tax payable in respect of the profits out of which the dividend is paid and credited to the shareholder) on these items of income, but shall not exceed the amount of the reduction which would be allowed if the items of income so included were the sole items of income which are exempt from Curaçao tax under the provisions of Curaçao law for the avoidance of double taxation.
 
@@ -550,9 +524,7 @@ of income, which are exempt from Curaçao tax under those provisions;
 
 \5. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
 
-\6. The provisions of this Article shall, notwithstanding the provisions of 16 [S.L.123.166 DOM OF THE NETHERLANDS, IN RESPECT OF CURAÇAO)
-
-Article 2, apply to taxes of every kind and description.
+\6. The provisions of this Article shall, notwithstanding the provisions of Article 2, apply to taxes of every kind and description.
 
 **Article 24**
 
@@ -576,9 +548,7 @@ Article 2, apply to taxes of every kind and description.
 
 **Exchange of information**
 
-\1. The competent authorities of the Contracting States shall exchange such information as is foreseeably relevant for carrying out the provisions of this Convention or to the administration or enforcement of the domestic laws concerning taxes of every kind and description imposed on behalf of the Contracting States, or DOM OF THE NETHERLANDS, IN RESPECT OF CURAÇAO) [S.L.123.166 17
-
-of their political subdivisions or local authorities, insofar as the taxation thereunder is not contrary to the Convention. The exchange of information is not restricted by Articles 1 and 2.
+\1. The competent authorities of the Contracting States shall exchange such information as is foreseeably relevant for carrying out the provisions of this Convention or to the administration or enforcement of the domestic laws concerning taxes of every kind and description imposed on behalf of the Contracting States, or of their political subdivisions or local authorities, insofar as the taxation thereunder is not contrary to the Convention. The exchange of information is not restricted by Articles 1 and 2.
 
 \2. Any information received under paragraph 1 by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to the taxes referred to in paragraph 1, or the oversight of the above. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
 
@@ -602,9 +572,7 @@ of their political subdivisions or local authorities, insofar as the taxation th
 
 \2. The term "revenue claim" as used in this Article means an amount owed in respect of taxes of every kind and description imposed on behalf of the Contracting States, or of their political authorities, insofar as the taxation thereunder is not contrary to this Convention or any other instrument to which the Contracting States are parties, as well as interest, administrative penalties and costs of collection or conservancy related to such amount.
 
-\3. When a revenue claim of a Contracting State is enforceable under the laws of that State and is owed by a person who, at that time, cannot, under the laws of that State, prevent its collection, that revenue claim shall, at the request of the competent authority of that State, be accepted for purposes of collection by the competent 18 [S.L.123.166 DOM OF THE NETHERLANDS, IN RESPECT OF CURAÇAO)
-
-authority of the other Contracting State. That revenue claim shall be collected by that other State in accordance with the provisions of its laws applicable to the enforcement and collection of its own taxes as if the revenue claim were a revenue claim of that other State.
+\3. When a revenue claim of a Contracting State is enforceable under the laws of that State and is owed by a person who, at that time, cannot, under the laws of that State, prevent its collection, that revenue claim shall, at the request of the competent authority of that State, be accepted for purposes of collection by the competent authority of the other Contracting State. That revenue claim shall be collected by that other State in accordance with the provisions of its laws applicable to the enforcement and collection of its own taxes as if the revenue claim were a revenue claim of that other State.
 
 \4. When a revenue claim of a Contracting State is a claim in respect of which that State may, under its law, take measures of conservancy with a view to ensure its collection, that revenue claim shall, at the request of the competent authority of that State, be accepted for purposes of taking measures of conservancy by the competent authority of the other Contracting State. That other State shall take measures of conservancy in respect of that revenue claim in accordance with the provisions of its laws as if the revenue claim were a revenue claim of that other State even if, at the time when such measures are applied, the revenue claim is not enforceable in the first-mentioned State or is owed by a person who has a right to prevent its collection.
 
@@ -631,8 +599,6 @@ In no case shall the provisions of this Article be construed so as to impose on 
 (c) to provide assistance if the other Contracting State has not pursued all reasonable measures of collection or conservancy, as the case may be, available under its laws or administrative practice;
 
 (d) to provide assistance in those cases where the administrative burden of that State is clearly disproportionate to the benefit to be derived by the other Contracting State.
-
-DOM OF THE NETHERLANDS, IN RESPECT OF CURAÇAO) [S.L.123.166 19
 
 **Article 27**
 
@@ -676,9 +642,7 @@ in respect of taxes on income derived during any calendar year or accounting per
 
 (b) in Curaçao:
 
-(i) in respect of taxes withheld at source, on income paid or credited 20 [S.L.123.166 DOM OF THE NETHERLANDS, IN RESPECT OF CURAÇAO)
-
-on or after the first day of January immediately following the date on which the notice is given;
+(i) in respect of taxes withheld at source, on income paid or credited on or after the first day of January immediately following the date on which the notice is given;
 
 (ii) in respect of other taxes, for taxable periods beginning on or after the first day of January immediately following that in which the notice is given.
 

@@ -47,20 +47,19 @@ The aims of the Institute shall be:
 
 (e) to network and liaise with centres for Mediterranean studies overseas; and
 
-(f) initiate and constitute a research resource centre on Maltese culture, including a database, a reference
+(f) initiate and constitute a research resource centre on Maltese culture, including a database, a reference index of publications and other material (photographic, electronic, etc.) on, and a bibliography of Maltese culture.
 
-index  of  publications  and  other  material  
-(photographic, electronic, etc.) on, and a bibliography  
-of Maltese culture.  
-\3.  The Institute shall be governed by a Board that will consist  
-of the following:  
-(i) Chairman: Rector or his delegate;  
-(ii) Vice-Chairman: Director of the Institute;  
-(iii) a person appointed by the Council of the  
-University;  
-(iv) a person appointed by the Senate of the
+*\3.*
 
-University;
+The Institute shall be governed by a Board that will consist of the following:
+
+(i) Chairman: Rector or his delegate;
+
+(ii) Vice-Chairman: Director of the Institute;
+
+(iii) a person appointed by the Council of the University;
+
+(iv) a person appointed by the Senate of the University;
 
 (v) two representatives of the academic staff lecturing at the Institute;
 

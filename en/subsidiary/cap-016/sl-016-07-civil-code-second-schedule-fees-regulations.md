@@ -1,6 +1,6 @@
 ---
 title: "Civil Code (Second Schedule) (Fees) Regulations"
-identifier: "S.L. 16.7"
+identifier: "S.L. 16.07"
 eli: "https://legislation.mt/eli/sl/16.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/16.7/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Civil Code (Second Schedule) (Fees) Regulations (S.L. 16.7)
+# Civil Code (Second Schedule) (Fees) Regulations (S.L. 16.07)
 
 **SUBSIDIARY LEGISLATION 16.07**
 

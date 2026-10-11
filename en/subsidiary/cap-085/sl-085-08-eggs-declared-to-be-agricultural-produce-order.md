@@ -1,6 +1,6 @@
 ---
 title: "Eggs declared to be Agricultural Produce Order"
-identifier: "S.L. 85.8"
+identifier: "S.L. 85.08"
 eli: "https://legislation.mt/eli/sl/85.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/85.8/20231017/eng"
 retrieved: 2026-10-12
 ---
 
-# Eggs declared to be Agricultural Produce Order (S.L. 85.8)
+# Eggs declared to be Agricultural Produce Order (S.L. 85.08)
 
 **SUBSIDIARY LEGISLATION 85.08**
 

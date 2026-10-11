@@ -1,6 +1,6 @@
 ---
 title: "Statute I 00 - General Provisions regarding Institutes of the University Statute"
-identifier: "S.L. 327.7"
+identifier: "S.L. 327.07"
 eli: "https://legislation.mt/eli/sl/327.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/327.7/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Statute I 00 - General Provisions regarding Institutes of the University Statute (S.L. 327.7)
-
-*1*
-
-INSTITUTES AND CENTRES OF THE UNIVERSITY [S.L.327.07
+# Statute I 00 - General Provisions regarding Institutes of the University Statute (S.L. 327.07)
 
 **SUBSIDIARY LEGISLATION 327.07**
 
@@ -71,11 +67,7 @@ The duties assigned to the Chairman should include inter alia:
 
 (a) supporting the Director of an institute/centre and assisting the Rectorate to maintain discipline and to create a scholarly milieu within the institute/centre based on the pursuit of teaching and research excellence;
 
-(b) ensuring that the updated prospecta of any certificate, diploma and degree programmes falling under the INSTITUTES AND CENTRES OF THE UNIVERSITY
-
-aegis of the institute/centre including the target audience and the expected learning outcomes at the various stages of the respective programmes; the descriptions of the study-units offered in the respective programmes, as well as the regulations and bye-laws governing the said programmes are submitted by the Director by not later than January of each academic year;
-
-*[S.L.327.07 2*
+(b) ensuring that the updated prospecta of any certificate, diploma and degree programmes falling under the aegis of the institute/centre including the target audience and the expected learning outcomes at the various stages of the respective programmes; the descriptions of the study-units offered in the respective programmes, as well as the regulations and bye-laws governing the said programmes are submitted by the Director by not later than January of each academic year;
 
 (c) ensuring that the delivery of study programmes within the institute/centre is in accordance with published prospecta, in conformity with regulations and bye-laws, and in line with established quality assurance standards and procedures;
 
@@ -99,11 +91,7 @@ The Chairman of a Board of an Institute/Centre moreover:
 
 (b) should not be engaged in any other activity outside the University which may be in conflict with his duties at the University;
 
-(c) shall not give access to any information to any third party that is not associated with the University of INSTITUTES AND CENTRES OF THE UNIVERSITY [S.L.327.07
-
-Malta, about any work or data that relates to tasks conducted at the University of Malta without the prior approval of the Rector; all work carried out within the institute/centre must be treated according to Maltese data protection legislation;
-
-*3*
+(c) shall not give access to any information to any third party that is not associated with the University of Malta, about any work or data that relates to tasks conducted at the University of Malta without the prior approval of the Rector; all work carried out within the institute/centre must be treated according to Maltese data protection legislation;
 
 (d) is to abide with the statutes, regulations and policies of the University of Malta, which are in force now or will become effective in the duration of his tenure;
 

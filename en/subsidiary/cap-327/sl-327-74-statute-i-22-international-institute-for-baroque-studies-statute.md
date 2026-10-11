@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Statute I 22 - International Institute for Baroque Studies Statute (S.L. 327.74)
 
-*1*
-
-INSTITUTE FOR BAROQUE STUDIES [S.L.327.74
-
 **SUBSIDIARY LEGISLATION 327.74**
 
 STATUTE FOR THE INTERNATIONAL INSTITUTE
@@ -69,13 +65,9 @@ The Institute shall be governed by a Board consisting of the following:
 
 (iv) a person appointed by the Senate of the University;
 
-(v) up to two representatives of the academic staff [S.L.327.74 INSTITUTE FOR BAROQUE STUDIES
+(v) up to two representatives of the academic staff lecturing at the Institute;
 
 \*This Statute has been repealed by Legal Notice 235 of 2024.
-
-lecturing at the Institute;
-
-*2*
 
 (vi) up to two representatives of the students registered with the Institute;
 
@@ -119,11 +111,7 @@ The function of the Board shall be:
 
 The Institute shall have a Director and Staff:
 
-(a) the Director of the Institute shall be appointed according to the procedure for the appointment of INSTITUTE FOR BAROQUE STUDIES [S.L.327.74
-
-Directors of Institutes and Centres as approved by the Council of the University, for a duration of one year, with the possibility of renewal annually subject to established performance criteria, the needs of the Institute and the needs of the University, for a total period not exceeding four (4) years; and
-
-*3*
+(a) the Director of the Institute shall be appointed according to the procedure for the appointment of Directors of Institutes and Centres as approved by the Council of the University, for a duration of one year, with the possibility of renewal annually subject to established performance criteria, the needs of the Institute and the needs of the University, for a total period not exceeding four (4) years; and
 
 (b) the staff of the Institute shall be appointed by the University according to usual practice.
 
@@ -148,10 +136,6 @@ The duties of the Vice-Chairman/Director shall include:
 • January session - by the end of March;
 
 • May/June session - final year results by not later than two working days prior the final year degree classification board but in any case not later than end of July; other results as early as possible but not later than the end of July;
-
-**INSTITUTE FOR BAROQUE STUDIES**
-
-*[S.L.327.74 4*
 
 • September session - by the end of September. (h) encouraging and facilitating co-operation with other universities and other institutions;
 
@@ -179,11 +163,7 @@ The Director moreover:
 
 (a) is to report directly to the Chairman of the Board governing the Institute and shall collaborate with all senior administrative officers of the University;
 
-(b) shall normally be a Resident Academic engaged with the University on a full-time basis for the duration of his tenure as Director. If the Institute is engaged in INSTITUTE FOR BAROQUE STUDIES [S.L.327.74
-
-normal teaching programmes of study then the Director must be engaged with the University as a Resident Academic on a full-time basis;
-
-*5*
+(b) shall normally be a Resident Academic engaged with the University on a full-time basis for the duration of his tenure as Director. If the Institute is engaged in normal teaching programmes of study then the Director must be engaged with the University as a Resident Academic on a full-time basis;
 
 (c) should not be engaged in any other activity outside the University which may be in conflict with, or distract him from, his duties at the University;
 

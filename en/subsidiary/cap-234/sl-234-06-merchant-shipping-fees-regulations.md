@@ -1,6 +1,6 @@
 ---
 title: "Merchant Shipping Fees Regulations"
-identifier: "S.L. 234.6"
+identifier: "S.L. 234.06"
 eli: "https://legislation.mt/eli/sl/234.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/234.6/20251003/eng"
 retrieved: 2026-10-12
 ---
 
-# Merchant Shipping Fees Regulations (S.L. 234.6)
+# Merchant Shipping Fees Regulations (S.L. 234.06)
 
 **SUBSIDIARY LEGISLATION 234.06**
 

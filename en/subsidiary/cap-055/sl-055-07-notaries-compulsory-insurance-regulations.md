@@ -1,6 +1,6 @@
 ---
 title: "Notaries (Compulsory Insurance) Regulations"
-identifier: "S.L. 55.7"
+identifier: "S.L. 55.07"
 eli: "https://legislation.mt/eli/sl/55.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/55.7/20130103/eng"
 retrieved: 2026-10-12
 ---
 
-# Notaries (Compulsory Insurance) Regulations (S.L. 55.7)
+# Notaries (Compulsory Insurance) Regulations (S.L. 55.07)
 
 **SUBSIDIARY LEGISLATION 55.07**
 

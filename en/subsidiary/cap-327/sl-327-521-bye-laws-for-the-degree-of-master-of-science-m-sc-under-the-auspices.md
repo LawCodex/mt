@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science - M.Sc. - under the auspices of the Centre for Biomedical Cybernetics (S.L. 327.521)
 
-*1*
-
-PICES OF THE CENTRE FOR BIOMEDICAL CYBERNETICS [S.L.327.521
-
 **SUBSIDIARY LEGISLATION 327.521**
 
 BYE-LAWS FOR THE DEGREE OF MASTER OF SCIENCE - M.Sc. - UNDER THE AUSPICES OF
@@ -69,17 +65,13 @@ The course shall be open to applicants in possession of the following qualificat
 
 (e) the degree of Master of Dental Surgery awarded from July 2018 onwards; or
 
-(f) a qualification deemed by Senate, on the [S.L.327.521 PICES OF THE CENTRE FOR BIOMEDICAL CYBERNETICS recommendation of the Board, to be equivalent or higher to the qualifications listed in (a) to (e) above.
-
-## 5. Course duration.
-
-The course shall extend over three semesters of full-time study or the equivalent in part-time study.
-
-*2*
+(f) a qualification deemed by Senate, on the recommendation of the Board, to be equivalent or higher to the qualifications listed in (a) to (e) above. 5. The course shall extend over three semesters of full-time study or the equivalent in part-time study.
 
 ## 6. Programme of study.
 
 (1) The programme of study shall comprise study-units to which a total of 90 ECTS credits are assigned, of which not more than 15 ECTS credits are assigned to taught study-units and not less than 75 ECTS credits are assigned to the dissertation study-unit.
+
+*Course duration.*
 
 (2) The programme of study shall be published after approval by Senate, normally not less than eight months prior to the commencement of the course.
 
@@ -107,11 +99,7 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 (3) Students shall be required to report to their supervisors at least once every two months, and in addition, as often as the supervisor deems necessary.
 
-(4) At the end of each semester of study, supervisors shall be required to submit to the Panel of Supervision reports for the students under their supervision, whether they are following the PICES OF THE CENTRE FOR BIOMEDICAL CYBERNETICS [S.L.327.521
-
-course on a full-time or a part-time basis.
-
-*3*
+(4) At the end of each semester of study, supervisors shall be required to submit to the Panel of Supervision reports for the students under their supervision, whether they are following the course on a full-time or a part-time basis.
 
 (5) Students shall seek approval from the Panel of Supervision for any substantial modification in the title or content of the dissertation.
 

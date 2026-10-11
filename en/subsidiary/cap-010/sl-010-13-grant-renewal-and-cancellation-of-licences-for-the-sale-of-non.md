@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Grant, Renewal and Cancellation of Licences for the Sale of Non-intoxicants Regulations (S.L. 10.13)
 
-*1*
-
-LICENCES FOR THE SALE OF NON-INTOXICANTS [ S.L.10.13
-
 **SUBSIDIARY LEGISLATION 10.13**
 
 **GRANT, RENEWAL AND CANCELLATION OF**
@@ -69,10 +65,6 @@ Licences granted as above shall be renewed on the 1st January of each year, prov
 
 (i) the non-observance on the licensed premises of any of these Regulations;
 
-*2*
-
-[S.L.10.13 LICENCES FOR THE SALE OF NON-INTOXICANTS
-
 (ii) the conviction of the licensee on any of the contraventions referred to in article 193 of the Code of Police Laws or in articles 3, 9, 10 and 128 of the Food, Drugs and Drinking Water Ordinance\*, or of any crime;
 
 *Cap. 10.*
@@ -121,16 +113,12 @@ Shops licensed under these Regulations shall not open before 4a.m. and shall clo
 
 *Substituted by: G.N. 829 of 1949.*
 
-The Commissioner of Police may grant licences for the opening of shops, licensed under these Regulations, before 4a.m. and, or, alternatively for the closing of these shops after 11p.m. if, in his opinion, this is necessary or useful for the convenience of special classes of the public following particular trades or callings, or on special occasion or occasions, or for any reasonable cause. LICENCES FOR THE SALE OF NON-INTOXICANTS [ S.L.10.13
+The Commissioner of Police may grant licences for the opening of shops, licensed under these Regulations, before 4a.m. and, or, alternatively for the closing of these shops after 11p.m. if, in his opinion, this is necessary or useful for the convenience of special classes of the public following particular trades or callings, or on special occasion or occasions, or for any reasonable cause. 13. It shall be lawful for the Commissioner of Police to order the closing, between sunset or any other later hour and 8.00a.m or any earlier hour, of any shop licensed under these Regulations, if he has good reason to believe that the shop is used for the unlicensed sale of intoxicants or for other objectionable purposes; and he can also revoke such order.
 
 \*Repealed by Act XL of 1972 (Cap. 231).
-
-## 13. Powers of Commissioner of Police. G.N. 110 of 1921, incorporated.
-
-It shall be lawful for the Commissioner of Police to order the closing, between sunset or any other later hour and 8.00a.m or any earlier hour, of any shop licensed under these Regulations, if he has good reason to believe that the shop is used for the unlicensed sale of intoxicants or for other objectionable purposes; and he can also revoke such order.
-
-*3*
 
 ## 14. Applicability. S.L. 10.09.
 
 The Shops for the Sale of Wine, Beer or Spirituous Liquors (Licences, Good Order and Public Decorum) Regulations shall apply to shops licensed for the sale of non-intoxicants.
+
+*Powers of Commissioner of Police. G.N. 110 of 1921, incorporated.*

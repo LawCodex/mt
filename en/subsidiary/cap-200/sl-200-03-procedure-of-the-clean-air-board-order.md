@@ -1,6 +1,6 @@
 ---
 title: "Procedure of the Clean Air Board Order"
-identifier: "S.L. 200.3"
+identifier: "S.L. 200.03"
 eli: "https://legislation.mt/eli/sl/200.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/200.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Procedure of the Clean Air Board Order (S.L. 200.3)
+# Procedure of the Clean Air Board Order (S.L. 200.03)
 
 **SUBSIDIARY LEGISLATION 200.03**
 

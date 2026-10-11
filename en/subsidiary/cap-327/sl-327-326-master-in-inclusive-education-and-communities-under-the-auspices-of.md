@@ -15,11 +15,7 @@ retrieved: 2026-10-12
 
 # Master in Inclusive Education and Communities - under the auspices of the Faculty of Education - Degree Course Regulations - Repealed by Legal Notice 3 of 2020 (S.L. 327.326)
 
-MASTER IN INCLUSIVE EDUCATION AND
-
-COMMUNITIES DEGREE COURSE - UNDER THE
-
-AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.326 1 SUBSIDIARY LEGISLATION 327.326
+SUBSIDIARY LEGISLATION 327.326
 
 MASTER IN INCLUSIVE EDUCATION AND
 

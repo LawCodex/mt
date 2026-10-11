@@ -1,6 +1,6 @@
 ---
 title: "Fees for the Censorship of Dramatic and other Stage Productions Regulations"
-identifier: "S.L. 35.5"
+identifier: "S.L. 35.05"
 eli: "https://legislation.mt/eli/sl/35.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/35.5/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Fees for the Censorship of Dramatic and other Stage Productions Regulations (S.L. 35.5)
-
-FEES FOR THE CENSORSHIP OF DRAMATIC
-
-*1*
-
-AND OTHER STAGE PRODUCTIONS [S.L.35.05
+# Fees for the Censorship of Dramatic and other Stage Productions Regulations (S.L. 35.05)
 
 **SUBSIDIARY LEGISLATION 35.05**
 

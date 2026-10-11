@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Conditions of Entry and Residence of Third-Country Nationals for the purpose of Highly Qualified Employment Regulations (S.L. 217.15)
 
-COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*1*
-
-HIGHLY QUALIFIED EMPLOYMENT [S.L.217.15
-
 **SUBSIDIARY LEGISLATION 217.15**
 
 **CONDITIONS OF ENTRY AND RESIDENCE**
@@ -69,12 +63,6 @@ For the purpose of these regulations:
 
 \*These regulations have been repealed by Legal Notice 303 of 2023.
 
-COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*2*
-
-[S.L.217.15 HIGHLY QUALIFIED EMPLOYMENT
-
 *S.L. 217.06*
 
 "family members" means third-country nationals as defined in regulation 4(1) of the Family Reunification Regulations;
@@ -105,13 +93,9 @@ Provided that for the purposes of these regulations, a higher education qualific
 
 "professional experience" means the actual and lawful pursuit of the profession concerned,
 
-COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*3*
-
-HIGHLY QUALIFIED EMPLOYMENT [S.L.217.15 "regulated profession" means a regulated profession as defined in regulation 3(1)(a ) of the Recognition of Professional Qualifications Regulations;
-
 *S.L. 451.03*
+
+"regulated profession" means a regulated profession as defined in regulation 3(1)(a ) of the Recognition of Professional Qualifications Regulations;
 
 "third-country national" means any person who is not a citizen of the European Union within the meaning of article 20 of the Treaty on the Functioning of the European Union.
 
@@ -136,12 +120,6 @@ HIGHLY QUALIFIED EMPLOYMENT [S.L.217.15 "regulated profession" means a regulated
 (e) who are family members of Union citizens who have exercised, or are exercising, their right to free movement within the Community in conformity with Directive 2004/38/EC of the European Parliament and of the Council of 29 April 2004 on the right of citizens of the Union and their family members to move and reside freely within the territory of the Member States or have exercised their right of free movement in Malta in accordance with the Free Movement of European Union Nationals and their Family Members Order;
 
 *S.L. 460.17*
-
-COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*4*
-
-[S.L.217.15 HIGHLY QUALIFIED EMPLOYMENT
 
 (f) who enjoy EC long-term resident status in a Member State in accordance with Directive 2003/109/EC and the provisions of the Status of Long-term Residents (Third-Country Nationals) (Amendment) Regulations and exercise their right to reside in Malta in order to carry out an economic activity in an employed or self-employed capacity;
 
@@ -171,11 +149,7 @@ A third-country national shall submit an application for an EU Blue card, endors
 
 *Cap. 452.*
 
-Provided that, where the Minister responsible for employment, from time to time, determines a particular need of third-country national workers and which belong to the major groups 1 and 2 of ISCO, the COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*5*
-
-HIGHLY QUALIFIED EMPLOYMENT [S.L.217.15 salary threshold may be at least 1.2 times the average gross annual salary in Malta. In this case, the Minister responsible for employment shall communicate each year to the Commission the list of the professions for which a derogation has been decided;
+Provided that, where the Minister responsible for employment, from time to time, determines a particular need of third-country national workers and which belong to the major groups 1 and 2 of ISCO, the salary threshold may be at least 1.2 times the average gross annual salary in Malta. In this case, the Minister responsible for employment shall communicate each year to the Commission the list of the professions for which a derogation has been decided;
 
 (b) present a document attesting fulfilment of the conditions set out for the exercise by Union citizens of the regulated profession specified in the contract of employment or statement containing the conditions of employment;
 
@@ -202,12 +176,6 @@ These regulations shall not affect the right of the Minister responsible for emp
 (2) The EU Blue Card shall be valid for a period of, at least, one year:
 
 Provided that in the case of a renewal of an EU Blue Card for the duration of the remaining period of the work contract, where this is less than a year, it shall be renewed for the said remaining period with an additional validity of three months.
-
-COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*6*
-
-[S.L.217.15 HIGHLY QUALIFIED EMPLOYMENT
 
 (3) The Director shall issue the third-country national an EU Blue Card indicating thereon the conditions for access to the labour market.
 
@@ -245,11 +213,7 @@ COUNTRY NATIONALS FOR THE PURPOSE OF
 
 (1) The Director shall withdraw or refuse to renew an EU Blue Card issued on the basis of these regulations in the following cases:
 
-COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*7*
-
-HIGHLY QUALIFIED EMPLOYMENT [S.L.217.15 (a) when it has been fraudulently acquired, or has been falsified or tampered with; or
+(a) when it has been fraudulently acquired, or has been falsified or tampered with; or
 
 (b) wherever it appears that the holder did not meet or no longer meets the conditions for entry and residence laid down in these regulations or is residing for purposes other than that for which the holder was authorised to reside; or
 
@@ -277,13 +241,7 @@ Provided that the lack of communication pursuant to regulations 11(3) and 12(4) 
 
 (1) The Director shall adopt a decision on the complete application for an EU Blue Card and notify the applicant in writing, of the decision, as soon as possible and, in any event, not later than ninety days from when the application was lodged:
 
-Provided that, in the event that the Director fails to give a COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*8*
-
-[S.L.217.15 HIGHLY QUALIFIED EMPLOYMENT
-
-decision within the period specified, the application shall automatically be passed on for appeal to the Board.
+Provided that, in the event that the Director fails to give a decision within the period specified, the application shall automatically be passed on for appeal to the Board.
 
 (2) Where the information or documents supplied in support of the application are inadequate, the Director shall notify the applicants of the additional information that is required and set a reasonable deadline for providing it. The period referred to in sub-regulation (1) shall be suspended until the Director has received the additional information or documents required. If additional information or documents have not been provided within the deadline, the application may be rejected.
 
@@ -305,11 +263,7 @@ decision within the period specified, the application shall automatically be pas
 
 (a) such employment activities which entail occasional involvement in the exercise of public authority and the responsibility for safeguarding the general interest of Malta and where, in accordance with existing national or Community law, these activities are reserved to nationals;
 
-(b) employment activities in cases where, in accordance with existing national or Community law, these activities are reserved to nationals, Union citizens or COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*9*
-
-HIGHLY QUALIFIED EMPLOYMENT [S.L.217.15 EEA citizens.
+(b) employment activities in cases where, in accordance with existing national or Community law, these activities are reserved to nationals, Union citizens or EEA citizens.
 
 (5) Access to the labour market shall be without prejudice to the principle of Community preference as expressed in the relevant provisions of the Acts of Accession of 2003 and 2005, in particular with respect to the rights of nationals of the Member States to access the labour market.
 
@@ -345,13 +299,7 @@ Provided further that:
 
 *Cap.607.*
 
-(ii)the Member State concerned may restrict equal treatment to cases where the registered or usual COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*10*
-
-[S.L.217.15 HIGHLY QUALIFIED EMPLOYMENT
-
-place of residence of the EU Blue Card holder, or that of the family member for whom benefits are claimed, lies within Malta;
+(ii)the Member State concerned may restrict equal treatment to cases where the registered or usual place of residence of the EU Blue Card holder, or that of the family member for whom benefits are claimed, lies within Malta;
 
 (iii) recognition of diplomas, certificates and other professional qualifications in accordance with the relevant national procedures;
 
@@ -385,11 +333,7 @@ Provided that the provisions of regulations 5(2) and 13 of the Family Reunificat
 
 *S.L. 217.06.*
 
-(4) Notwithstanding the provisions of regulation 14(2) of the Family Reunification Regulations, the duration of validity of the residence permits of family members shall be the same as that of the residence permits issued to the EU Blue Card holder insofar as COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*11*
-
-HIGHLY QUALIFIED EMPLOYMENT [S.L.217.15 the period of validity of their travel documents allow it.
+(4) Notwithstanding the provisions of regulation 14(2) of the Family Reunification Regulations, the duration of validity of the residence permits of family members shall be the same as that of the residence permits issued to the EU Blue Card holder insofar as the period of validity of their travel documents allow it.
 
 *S.L. 217.06.*
 
@@ -423,12 +367,6 @@ HIGHLY QUALIFIED EMPLOYMENT [S.L.217.15 the period of validity of their travel d
 
 (6) Regulations 13(e) and 14 shall continue to apply to holders of a long-term residence permit with the remark referred to in regulation 16, where applicable, after the EU Blue Card holder has become an EC long-term resident.
 
-COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*12*
-
-[S.L.217.15 HIGHLY QUALIFIED EMPLOYMENT
-
 ### 16. Long-term residence permit. S.L. 217.05.
 
 The Director shall issue a residence permit, in accordance with regulation 9 of the Status of Long-term Residents (Third- Country Nationals) Regulations to the EU Blue Card holder who fulfils the conditions of regulation 15:
@@ -457,11 +395,7 @@ Provided finally that when the EU Blue Card holder moves to Malta in accordance 
 
 (4) If the EU Blue Card issued by the first Member State expires during the procedure, the Director or other responsible authorities may issue temporary residence permits or equivalent authorisations, allowing the applicant to continue to stay legally in Malta until a decision on the application has been taken.
 
-COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*13*
-
-HIGHLY QUALIFIED EMPLOYMENT [S.L.217.15 (5) The EU Blue Card holder and his employer may be held responsible for the costs related to the return and readmission of the said Blue Card holder and his family members, including costs incurred by public funds, where applicable, pursuant to regulation 3(b).
+(5) The EU Blue Card holder and his employer may be held responsible for the costs related to the return and readmission of the said Blue Card holder and his family members, including costs incurred by public funds, where applicable, pursuant to regulation 3(b).
 
 ### 18. Residence in the Second Member State for family members.
 
@@ -489,12 +423,6 @@ Provided that where the residence permit of the family members issued by the fir
 
 (6) Where the family was not already constituted in the first Member State, regulation 14 shall apply.
 
-COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*14*
-
-[S.L.217.15 HIGHLY QUALIFIED EMPLOYMENT
-
 ### 19. Conditions of readmission of third-country nationals granted an EU Blue Card by Malta.
 
 (1) The Principal Immigration Officer shall immediately readmit a third-country national holding an EU Blue Card issued by Malta, and his family, without formalities, if such EU Blue Card holder, after having been refused the issue of an EU Blue Card by another Member State, was obliged to return to Malta.
@@ -502,12 +430,6 @@ COUNTRY NATIONALS FOR THE PURPOSE OF
 (2) The provisions of sub-regulation (1) shall also apply if the EU Blue Card issued by Malta has expired or has been withdrawn, during the examination of the application by the second Member State.
 
 (3) Upon readmission, the provisions of regulation 12 shall apply.
-
-COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*15*
-
-HIGHLY QUALIFIED EMPLOYMENT [S.L.217.15
 
 *Amended by: XXV. 2015.41.*
 

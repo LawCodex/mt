@@ -1,6 +1,6 @@
 ---
 title: "Distinguishing Letters on Caiques Order"
-identifier: "S.L. 10.6"
+identifier: "S.L. 10.06"
 eli: "https://legislation.mt/eli/sl/10.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/10.6/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Distinguishing Letters on Caiques Order (S.L. 10.6)
+# Distinguishing Letters on Caiques Order (S.L. 10.06)
 
 SUBSIDIARY LEGISLATION 10.06
 

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Pharmacy - M.Pharm. - under the auspices of the Faculty of Medicine and Surgery (S.L. 327.419)
 
-UNDER THE AUSPICES OF THE FACULTY
-
-*1*
-
-OF MEDICINE AND SURGERY [S.L.327.419
-
 **SUBSIDIARY LEGISLATION 327.419**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -60,12 +54,6 @@ These bye-laws shall be applicable for courses commencing in October 2018 or lat
 (3) Applicants in possession of the Bachelor of Pharmacy (Honours) degree obtained with at least Second Class Honours after successfully completing a five-year programme of study shall be eligible to apply for a 30-credit programme of study.
 
 (4) Applicants in possession of the Bachelor of Pharmacy (Honours) degree obtained with Third Class Honours or Pass after successfully completing a five-year programme of study shall be eligible to apply for a 30-credit programme of study if they submit a portfolio covering at least three year’s practice in an area related to pharmacy.
-
-UNDER THE AUSPICES OF THE FACULTY
-
-*2*
-
-[S.L.327.419 OF MEDICINE AND SURGERY
 
 ## 4. Course duration.
 
@@ -119,11 +107,7 @@ The assessment of the taught study-units shall be held by the end of the semeste
 
 (1) Students shall be required to have regular contact with their supervisor.
 
-(2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of UNDER THE AUSPICES OF THE FACULTY
-
-*3*
-
-OF MEDICINE AND SURGERY [S.L.327.419 study. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
+(2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of study. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 

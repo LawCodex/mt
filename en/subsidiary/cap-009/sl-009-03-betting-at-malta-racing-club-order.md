@@ -1,6 +1,6 @@
 ---
 title: "Betting at Malta Racing Club Order"
-identifier: "S.L. 9.3"
+identifier: "S.L. 9.03"
 eli: "https://legislation.mt/eli/sl/9.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/9.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Betting at Malta Racing Club Order (S.L. 9.3)
+# Betting at Malta Racing Club Order (S.L. 9.03)
 
 SUBSIDIARY LEGISLATION 9.03
 

@@ -1,6 +1,6 @@
 ---
 title: "Traffic Offence Ticket Regulations"
-identifier: "S.L. 65.9"
+identifier: "S.L. 65.09"
 eli: "https://legislation.mt/eli/sl/65.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/65.9/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Traffic Offence Ticket Regulations (S.L. 65.9)
+# Traffic Offence Ticket Regulations (S.L. 65.09)
 
 **SUBSIDIARY LEGISLATION 65.09**
 

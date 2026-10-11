@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Control of Sale of Cattle for Slaughter and Beef Regulations (S.L. 117.27)
 
-*1*
-
-CATTLE FOR SLAUGHTER AND BEEF [S.L.117.27
-
 **SUBSIDIARY LEGISLATION 117.27**
 
 CONTROL OF SALE OF CATTLE FOR SLAUGHTER AND BEEF REGULATIONS\*
@@ -67,13 +63,9 @@ The Director may from time to time by order in the Gazette fix minimum prices at
 
 (3) The Director may, in issuing such a licence, attach thereto any condition or conditions as he may deem fit.
 
-(4) The Director shall have the right at any time to withdraw [S.L.117.27 CATTLE FOR SLAUGHTER AND BEEF
+(4) The Director shall have the right at any time to withdraw any licence issued under these Regulations, and in particular if he is satisfied that any of the conditions of the licence have not been observed.
 
 \*These regulations have been repealed by Legal Notice 249 of 2022.
-
-any licence issued under these Regulations, and in particular if he is satisfied that any of the conditions of the licence have not been observed.
-
-*2*
 
 (5) A licence issued by the Director shall not exempt the holder from the requirement of having any other licence under any other law.
 

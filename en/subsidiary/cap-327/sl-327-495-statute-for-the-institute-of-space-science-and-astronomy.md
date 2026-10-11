@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Statute for the Institute of Space Science and Astronomy (S.L. 327.495)
 
-*1*
-
-OF SPACE SCIENCE AND ASTRONOMY [S.L.327.495
-
 **SUBSIDIARY LEGISLATION 327.495**
 
 **STATUTE FOR THE INSTITUTE**
@@ -56,10 +52,6 @@ The Institute for Space Science and Astronomy is hereby established as an instit
 The aims of the Institute shall be:
 
 (a) to promote and organise multidisciplinary and interdisciplinary research, development and services in the fields of space science and astronomy;
-
-**OF SPACE SCIENCE AND ASTRONOMY**
-
-*[S.L.327.495 2*
 
 (b) to organise and run training programmes, study-units, certificate, diploma, degree and postgraduate courses as well as public lectures and professional courses related to astronomy, informatics, cosmology, space technology, in collaboration with other University institutions, as necessary;
 
@@ -109,10 +101,6 @@ The functions of the Board shall be:
 
 (a) to govern the affairs of the Institute subject to the provisions of this statute and of such regulations, policies or directions as may from time to time be approved by the Council and the Senate;
 
-*3*
-
-OF SPACE SCIENCE AND ASTRONOMY [S.L.327.495
-
 (b) to formulate the policy of the Institute, to supervise its activities and administration, and without prejudice to the generality of the foregoing, the Board may:
 
 (i) approve business plans and annual estimates of revenue and expenditure of the Institute for consideration and approval by the Council;
@@ -149,10 +137,6 @@ The duties of the Vice-Chairman/Director of the Institute shall include:
 
 (b) compiling and submitting to the Registrar of the University by not later than January of each academic year, an updated comprehensive prospectus of the content descriptions of all current and projected study-units offered by members of the Institute as per guidelines established by the Programme Validation Committee;
 
-**OF SPACE SCIENCE AND ASTRONOMY**
-
-*[S.L.327.495 4*
-
 (c) ensuring that the study-units offered by the staff members of the Institute are delivered in accordance with the advertised programme of studies; the Director of the Institute must ensure that lecturing staff under his remit deliver all lectures, seminars, tutorials and laboratory sessions assigned to them respectively, at the time and venue advertised in the official timetable, and that any deviations thereof are formally registered, and the students duly notified in good time;
 
 (d) delivering and implementing the strategic plan of the Institute;
@@ -177,11 +161,7 @@ The duties of the Vice-Chairman/Director of the Institute shall include:
 
 (l) representing the Institute during official functions of the University;
 
-(m) compiling and submitting to the Secretary of the University by the end of September of each academic year, an annual report outlining the activities of the Institute for the outgoing year, which should include, amongst others, information that may be requested by the Secretary: a comprehensive list of recent OF SPACE SCIENCE AND ASTRONOMY [S.L.327.495
-
-publications of all members of the Institute; a synopsis of all projects involving members of the Institute which are wholly or partially externally funded; a list of all conferences/seminars/meetings attended abroad by members of the Institute during term time; and an outline of the Institute’s collaboration with third parties including local industry, Government or civil society at large;
-
-*5*
+(m) compiling and submitting to the Secretary of the University by the end of September of each academic year, an annual report outlining the activities of the Institute for the outgoing year, which should include, amongst others, information that may be requested by the Secretary: a comprehensive list of recent publications of all members of the Institute; a synopsis of all projects involving members of the Institute which are wholly or partially externally funded; a list of all conferences/seminars/meetings attended abroad by members of the Institute during term time; and an outline of the Institute’s collaboration with third parties including local industry, Government or civil society at large;
 
 (n) compiling and submitting to the Director of Finance of the University by not later than the end of May of each academic year budgetary estimates for the following year including a manpower plan for the Institute, to cover the projected teaching, research and administration workload of the Institute, and based on the projected workload for each Resident Academic member of the Institute and Visiting Teaching Staff;
 
@@ -205,11 +185,7 @@ The Director of the Institute moreover:
 
 (d) are expected to be present on campus or any designated University of Malta site at least during normal office hours from Monday to Friday throughout the year subject to the exigencies of an academic in accordance with the University’s practices and needs and subject to normal leave entitlement and public holidays as provided for at law; should his absence be necessary and justified they must ensure that he is immediately contactable through the secretarial staff of the Institute;
 
-(e) shall not give access to any information to any third party that is not associated with the University of [S.L.327.495 OF SPACE SCIENCE AND ASTRONOMY
-
-Malta, about any work or data that relates to tasks conducted at the University of Malta without the prior approval of the University of Malta; all work carried out within the Institute must be treated according to Maltese data protection legislation; and
-
-*6*
+(e) shall not give access to any information to any third party that is not associated with the University of Malta, about any work or data that relates to tasks conducted at the University of Malta without the prior approval of the University of Malta; all work carried out within the Institute must be treated according to Maltese data protection legislation; and
 
 (f) is to abide with the statutes, regulations and policies of the University of Malta, which are in force now or will become effective in the duration of his tenure.
 

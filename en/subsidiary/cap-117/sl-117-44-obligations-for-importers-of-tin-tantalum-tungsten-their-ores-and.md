@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Obligations for importers of Tin, Tantalum, Tungsten, their ores, and Gold (Implementing) Regulations (S.L. 117.44)
 
-*1*
-
-TUNGSTEN, THEIR ORES, AND GOLD (IMPLEMENTING) [S.L. 117.44 SUBSIDIARY LEGISLATION 117.44
+**SUBSIDIARY LEGISLATION 117.44**
 
 **OBLIGATIONS FOR IMPORTERS OF TIN,**
 
@@ -56,10 +54,6 @@ The national competent authority for the purposes of Article 10 of the Regulatio
 
 (2) Where an importer fails to submit the audit report to the competent authority within thirty (30) days from the Notification Letter – Request for Information, without a justified reason for such failure to submit the report, he shall be liable to an administrative penalty of five hundred euro (€500).
 
-*2*
-
-[S.L. 117.44 TUNGSTEN, THEIR ORES, AND GOLD (IMPLEMENTING)
-
 (3) Where an importer fails to submit the audit report to the competent authority within thirty (30) days from the Notification Letter – Request for Information, if he provides a justified reason for such failure within the same thirty (30) days, the competent authority may, in its discretion, allow him a further fifteen (15) days to submit the report. If the importer fails to submit the audit report following the expiration of the further two weeks, he shall be liable to an administrative penalty of five hundred euro (€500).
 
 ## 5. Notice of remedial action.
@@ -84,11 +78,9 @@ Service of any letter or notice sent to the importer by the competent authority 
 
 (c) intentionally obstructs or causes obstruction of any person acting in the proper exercise of his functions under these regulations and or fails to allow an inspection under these regulations;
 
-(d) conspires or attempts, or aids, or abets, any other TUNGSTEN, THEIR ORES, AND GOLD (IMPLEMENTING) [S.L. 117.44 person by whatever means, including advertising, counselling or procurement to contravene the provisions or requirements of this or the Regulation;
+(d) conspires or attempts, or aids, or abets, any other person by whatever means, including advertising, counselling or procurement to contravene the provisions or requirements of this or the Regulation;
 
 (e) without reasonable cause, fails to give any person, acting in the exercise of his functions under these regulations, any assistance or information which he may be required to give under this and the Regulation or any other law, or give false or misleading information;
-
-*3*
 
 (f) alters, forges, counterfeits or destroys any document presented or issued by the competent authority under this regulation.
 
@@ -110,11 +102,7 @@ Provided that when the fine is calculated on the profit made by the offender, it
 
 ## 8. Applicability of the Criminal Code. Cap. 9.
 
-(1) The provisions of articles 23 and 30(1) of the Criminal Code shall, mutatis mutandis, apply to proceedings in respect of offences against these regulations, sohowever that the [S.L. 117.44 TUNGSTEN, THEIR ORES, AND GOLD (IMPLEMENTING)
-
-disqualification from holding or obtaining a warrant, licence, permit or authority shall in no case be less than one (1) year.
-
-*4*
+(1) The provisions of articles 23 and 30(1) of the Criminal Code shall, mutatis mutandis, apply to proceedings in respect of offences against these regulations, sohowever that the disqualification from holding or obtaining a warrant, licence, permit or authority shall in no case be less than one (1) year.
 
 *Cap. 9.*
 

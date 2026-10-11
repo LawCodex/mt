@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Fees payable on the Filing of Judicial Acts in connection with Appeals Regulations (S.L. 318.15)
 
-FEES PAYABLE ON THE FILING OF JUDICIAL
-
-*1*
-
-ACTS IN CONNECTION WITH APPEALS [S.L.318.15
-
 **SUBSIDIARY LEGISLATION 318.15**
 
 **FEES PAYABLE ON THE FILING OF JUDICIAL**

@@ -42,30 +42,17 @@ In these Regulations, unless the context otherwise requires -
 
 "specified drug" means any one of such drugs or chemical substances as are specified in the Second Schedule to these Regulations;
 
-"register" means a bound book with consecutively numbered pages, but does not include any form of loose leaf register or card
+"register" means a bound book with consecutively numbered pages, but does not include any form of loose leaf register or card index;
 
-index;  
-"Superintendent" means the Superintendent of Public Health.  
-\3. (1) No person may import, manufacture, export, purchase,  Importation, etc.,  
-of restricted drugs  
-sell, use or be in possession of any restricted drug without a special  
-to be specially  
-authorisation in writing by the Superintendent.  authorised.  
-(2) The Superintendent shall not grant a special authorisation  
-to use any restricted drug except in special cases for scientific or  
-very limited medical purposes inside medical or scientific  
-establishments under government control or specifically approved  
-by the Superintendent, who shall have the power to impose in any  
-authorisation any conditions and requirements he may deem fit to  
-impose with a view to safeguard against abuse.  
-(3) The Superintendent may at any time, without giving any  
-reason whatsoever, withdraw any authorisation granted by him  
-under sub-regulation (1) of this regulation.  
-(4) Any person who has been authorised in accordance with  
-sub-regulation (1) of this regulation shall keep such registers as  
-shall be necessary in accordance with the Third Schedule to these
+"Superintendent" means the Superintendent of Public Health. 3. (1) No person may import, manufacture, export, purchase, sell, use or be in possession of any restricted drug without a special authorisation in writing by the Superintendent.
 
-Regulations in relation to the manufacture, acquisition and/or disposal of restricted drugs, in which registers there shall be entered the details relative to such drugs. Each entry shall be signed, by the person authorised under sub-regulation (1), within twenty-four hours of any transaction or process, and any such register shall be preserved and kept available for inspection by the Superintendent or his representative for at least two years after the date of the last entry recorded therein.
+*Importation, etc., of restricted drugs to be specially authorised.*
+
+(2) The Superintendent shall not grant a special authorisation to use any restricted drug except in special cases for scientific or very limited medical purposes inside medical or scientific establishments under government control or specifically approved by the Superintendent, who shall have the power to impose in any authorisation any conditions and requirements he may deem fit to impose with a view to safeguard against abuse.
+
+(3) The Superintendent may at any time, without giving any reason whatsoever, withdraw any authorisation granted by him under sub-regulation (1) of this regulation.
+
+(4) Any person who has been authorised in accordance with sub-regulation (1) of this regulation shall keep such registers as shall be necessary in accordance with the Third Schedule to these Regulations in relation to the manufacture, acquisition and/or disposal of restricted drugs, in which registers there shall be entered the details relative to such drugs. Each entry shall be signed, by the person authorised under sub-regulation (1), within twenty-four hours of any transaction or process, and any such register shall be preserved and kept available for inspection by the Superintendent or his representative for at least two years after the date of the last entry recorded therein.
 
 (5) Any entry in the register shall be made in ink or other indelible material and shall be entered on the same day in which the transaction, administration or process is effected, or, when this is not possible, on the next following day.
 

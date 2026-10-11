@@ -1,6 +1,6 @@
 ---
 title: "Extradition (Designated Foreign Countries) (No. 2) Order"
-identifier: "S.L. 276.3"
+identifier: "S.L. 276.03"
 eli: "https://legislation.mt/eli/sl/276.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/276.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Extradition (Designated Foreign Countries) (No. 2) Order (S.L. 276.3)
+# Extradition (Designated Foreign Countries) (No. 2) Order (S.L. 276.03)
 
 **SUBSIDIARY LEGISLATION 276.03**
 

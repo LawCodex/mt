@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # The Pensionable Income in accordance with the Thirteenth Schedule for persons born from 1st January 1956 to 31st December 1961 Regulations (S.L. 318.26)
 
-PENSIONABLE INCOME IN ACCORDANCE WITH THE
-
-THIRTEENTH SCHEDULE FOR PERSONS BORN FROM
-
-*1*
-
-1ST JANUARY 1956 TO 31ST DECEMBER 1961 [S.L. 318.26
-
 **SUBSIDIARY LEGISLATION 318.26**
 
 **THE PENSIONABLE INCOME IN ACCORDANCE**

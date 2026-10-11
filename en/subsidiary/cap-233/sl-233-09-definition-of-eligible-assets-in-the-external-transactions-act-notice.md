@@ -1,6 +1,6 @@
 ---
 title: "Definition of \"Eligible Assets\" in the External Transactions Act Notice"
-identifier: "S.L. 233.9"
+identifier: "S.L. 233.09"
 eli: "https://legislation.mt/eli/sl/233.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/233.9/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Definition of "Eligible Assets" in the External Transactions Act Notice (S.L. 233.9)
-
-DEFINITION OF "ELIGIBLE ASSETS"
-
-*1*
-
-IN THE EXTERNAL TRANSACTIONS ACT [S.L.233.09
+# Definition of "Eligible Assets" in the External Transactions Act Notice (S.L. 233.09)
 
 **SUBSIDIARY LEGISLATION 233.09**
 

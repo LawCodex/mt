@@ -1,6 +1,6 @@
 ---
 title: "Oath of Office (Prisons Officers) Regulations"
-identifier: "S.L. 260.5"
+identifier: "S.L. 260.05"
 eli: "https://legislation.mt/eli/sl/260.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/260.5/20130628/eng"
 retrieved: 2026-10-12
 ---
 
-# Oath of Office (Prisons Officers) Regulations (S.L. 260.5)
+# Oath of Office (Prisons Officers) Regulations (S.L. 260.05)
 
 **SUBSIDIARY LEGISLATION 260.05**
 

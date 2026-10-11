@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Higher Diploma in Health Science - H.Dip. - under the auspices of the Faculty of Health Sciences (S.L. 327.524)
 
-UNDER THE AUSPICES OF THE FACULTY
-
-*1*
-
-OF HEALTH SCIENCES [S.L.327.524
-
 **SUBSIDIARY LEGISLATION 327.524**
 
 **BYE-LAWS FOR THE HIGHER DIPLOMA IN**
@@ -77,11 +71,7 @@ The Higher Diploma may be awarded in terms of these bye-laws in Nursing Studies 
 
 ## 8. Publication of areas of study.
 
-The areas of study offered in any particular year shall be published by the Board before the commencement of each course. UNDER THE AUSPICES OF THE FACULTY
-
-*2*
-
-[S.L.327.524 OF HEALTH SCIENCES
+The areas of study offered in any particular year shall be published by the Board before the commencement of each course.
 
 ## 9. Limitation of number of students.
 
@@ -119,12 +109,6 @@ Pass with Merit
 
 Pass.
 
-UNDER THE AUSPICES OF THE FACULTY
-
-*3*
-
-OF HEALTH SCIENCES [S.L.327.524
-
 ## APPENDIX I — The Preparatory Course
 
 *Amended by: L.N. 198 of 2016; L.N. 315 of 2019.*
@@ -161,13 +145,7 @@ The Preparatory Course shall consist of a number of study-units to which 60 ECTS
 
 ## 5.
 
-Subject to changes that the Board, with the approval of Senate, may be constrained to make, students are bound to follow UNDER THE AUSPICES OF THE FACULTY
-
-*4*
-
-[S.L.327.524 OF HEALTH SCIENCES
-
-the study-units and obtain the credits as indicated in the programme of study for the Preparatory Course they are following.
+Subject to changes that the Board, with the approval of Senate, may be constrained to make, students are bound to follow the study-units and obtain the credits as indicated in the programme of study for the Preparatory Course they are following.
 
 ## 6.
 

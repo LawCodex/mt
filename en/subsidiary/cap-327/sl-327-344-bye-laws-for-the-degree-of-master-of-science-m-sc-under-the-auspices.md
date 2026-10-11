@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science - M.Sc. - under the auspices of the Faculty of Information and Communication Technology (S.L. 327.344)
 
-AUSPICES OF THE FACULTY OF INFORMATION
-
-*1*
-
-AND COMMUNICATION TECHNOLOGY [S.L.327.344
-
 **SUBSIDIARY LEGISLATION 327.344**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -70,15 +64,7 @@ The course shall be offered in any area of study that falls within the academic 
 
 (1) For programmes of study structured as detailed in bye-law 7 and in paragraph (a) of bye-law 8, applicants shall be in possession of:
 
-(a) a Bachelor degree pegged at Level 6 on the Malta Qualifications Framework and obtained with at least Second Class (Honours) or Category II in ICT or an area with a strong ICT component, or in Engineering;
-
-AUSPICES OF THE FACULTY OF INFORMATION
-
-*2*
-
-[S.L.327.344 AND COMMUNICATION TECHNOLOGY
-
-provided that for the areas of Signal Processing and Machine Learning, or Data Science, applicants may be allowed to present a degree in an area of study deemed suitable by the Board; or
+(a) a Bachelor degree pegged at Level 6 on the Malta Qualifications Framework and obtained with at least Second Class (Honours) or Category II in ICT or an area with a strong ICT component, or in Engineering; provided that for the areas of Signal Processing and Machine Learning, or Data Science, applicants may be allowed to present a degree in an area of study deemed suitable by the Board; or
 
 (b) a Bachelor degree pegged at Level 6 on the Malta Qualifications Framework classified with Third Class Honours or Category III in the areas outlined in paragraph (a) above, provided that such applicants shall satisfy the Board of Studies that they are in possession of other qualifications, or relevant work experience, obtained following their first cycle degree. The Board of Studies may recommend to the Faculty Admissions Committee that the admission of such applicants may be made conditional on the results of an interview conducted for the purpose; or
 
@@ -98,11 +84,7 @@ provided that for the areas of Signal Processing and Machine Learning, or Data S
 
 ## 5. Course duration.
 
-(1) The course shall extend over three semesters of full- AUSPICES OF THE FACULTY OF INFORMATION
-
-*3*
-
-AND COMMUNICATION TECHNOLOGY [S.L.327.344 time study or the equivalent in part-time study.
+(1) The course shall extend over three semesters of full-time study or the equivalent in part-time study.
 
 (2) The course may include a summer period as specified in the programme of study.
 
@@ -150,12 +132,6 @@ The programme of study shall be published after approval by Senate, normally not
 
 (3) Students who fail in more than the number of credits permitted under paragraph (2) of this bye-law, or students who after re-assessment fail to obtain credit for any study-unit, shall be deemed to have failed the course.
 
-AUSPICES OF THE FACULTY OF INFORMATION
-
-*4*
-
-[S.L.327.344 AND COMMUNICATION TECHNOLOGY
-
 ## 12. Dissertations in mainly taught programmes of study.
 
 (1) In mainly taught programmes of study, structured as detailed in paragraph (1) of bye-law 7, students shall be required to submit an individual dissertation (30 ECTS credits) of not more than 20,000 words in accordance with the guidelines issued by the Board of Studies. The dissertation must also satisfy the Board as regards content and presentation.
@@ -184,11 +160,7 @@ AUSPICES OF THE FACULTY OF INFORMATION
 
 *Amended by: L.N. 334 of 2016; L.N. 274 of 2020.*
 
-(1) In programmes of study mainly by research, structured as detailed in paragraph (b) of bye-law 8, students shall be required to submit an individual dissertation (80 ECTS credits) of a maximum of AUSPICES OF THE FACULTY OF INFORMATION
-
-*5*
-
-AND COMMUNICATION TECHNOLOGY [S.L.327.344 35,000 words in accordance with the guidelines issued by the Board. The dissertation must also satisfy the Board as regards content and presentation.
+(1) In programmes of study mainly by research, structured as detailed in paragraph (b) of bye-law 8, students shall be required to submit an individual dissertation (80 ECTS credits) of a maximum of 35,000 words in accordance with the guidelines issued by the Board. The dissertation must also satisfy the Board as regards content and presentation.
 
 (2) Applications for this type of research Master shall be approved by the Board and shall include the following details:
 

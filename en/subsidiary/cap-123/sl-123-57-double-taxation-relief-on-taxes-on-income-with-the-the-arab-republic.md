@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the The Arab Republic of Egypt Order (S.L. 123.57)
 
-*1*
-
-WITH THE ARAB REPUBLIC OF EGYPT [S.L.123.57
-
 **SUBSIDIARY LEGISLATION 123.57**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -54,8 +50,6 @@ It is hereby declared -
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Convention has entered into force on the 7th April, 2001.
-
-2 [S.L.123.57 WITH THE ARAB REPUBLIC OF EGYPT
 
 ## SCHEDULE — CONVENTION — BETWEEN THE REPUBLIC OF MALTA
 
@@ -111,9 +105,7 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 \1. For the purposes of this Convention, unless the context otherwise requires:
 
-(a) the term ''Egypt'' means the Arab Republic of Egypt and, when used in a geographical sense, means the territory and the territorial waters of the Arab Republic of Egypt and its exclusive economic zone and WITH THE ARAB REPUBLIC OF EGYPT [S.L.123.57 3
-
-continental shelf as defined in accordance with international law;
+(a) the term ''Egypt'' means the Arab Republic of Egypt and, when used in a geographical sense, means the territory and the territorial waters of the Arab Republic of Egypt and its exclusive economic zone and continental shelf as defined in accordance with international law;
 
 (b) the term ''Malta'' means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago, including the territorial waters thereof, and any area outside the territorial waters of Malta which has been or may hereafter be designated, in accordance with international law and under the law of Malta concerning the continental shelf, as an area within which the rights of Malta with respect to the seabed and subsoil and their natural resources may be exercised;
 
@@ -153,9 +145,7 @@ As regards the application of the Convention by a Contracting State any term not
 
 Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
-(a) he shall be deemed to be a resident of the State in which he has a permanent home available to him; if he has a permanent home available 4 [S.L.123.57 WITH THE ARAB REPUBLIC OF EGYPT
-
-to him in both States, he shall be deemed to be a resident of the State with which his personal and economic relations are closer (centre of vital interests);
+(a) he shall be deemed to be a resident of the State in which he has a permanent home available to him; if he has a permanent home available to him in both States, he shall be deemed to be a resident of the State with which his personal and economic relations are closer (centre of vital interests);
 
 (b) if the State in which he has his centre of vital interests cannot be determined, or if he has not a permanent home available to him in either State, he shall be deemed to be a resident of the State in which he has an habitual abode;
 
@@ -203,8 +193,6 @@ Notwithstanding the preceding provisions of this Article, the term ''permanent e
 
 (b) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of storage or display;
 
-WITH THE ARAB REPUBLIC OF EGYPT [S.L.123.57 5
-
 (c) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of processing by another enterprise;
 
 (d) the maintenance of a fixed place of business solely for the purpose of purchasing goods or merchandise, or of collecting information, for the enterprise;
@@ -237,9 +225,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 **INCOME FROM IMMOVABLE PROPERTY**
 
-\1. Income derived by a resident of a Contracting State from immovable property (including income from agriculture) situated in the other Contracting State 6 [S.L.123.57 WITH THE ARAB REPUBLIC OF EGYPT
-
-may be taxed in that other State.
+\1. Income derived by a resident of a Contracting State from immovable property (including income from agriculture) situated in the other Contracting State may be taxed in that other State.
 
 \2. The term ''immovable property'' shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, or to explore for, mineral deposits, sources and other natural resources; ships, boats and aircraft shall not be regarded as immovable property.
 
@@ -262,8 +248,6 @@ may be taxed in that other State.
 \5. No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
 
 \6. For the purposes of the preceding paragraphs, the profits to be attributed to the permanent establishment shall be determined by the same method year by year unless there is good and sufficient reason to the contrary.
-
-WITH THE ARAB REPUBLIC OF EGYPT [S.L.123.57 7
 
 \7. Where profits include items of income which are dealt with separately in other Articles of this Convention, then the provisions of those Articles shall not be affected by the provisions of this Article.
 
@@ -297,9 +281,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \2. (a) However, such dividends may also be taxed in the Contracting State of which the company paying the dividends is a resident and according to the laws of that State, but:
 
-(i) where the dividends are paid by a company which is a resident of Egypt to a resident of Malta who is the beneficial owner thereof, the Egyptian tax so charged shall not exceed 10 percent of the 8 [S.L.123.57 WITH THE ARAB REPUBLIC OF EGYPT
-
-gross amount of the dividends;
+(i) where the dividends are paid by a company which is a resident of Egypt to a resident of Malta who is the beneficial owner thereof, the Egyptian tax so charged shall not exceed 10 percent of the gross amount of the dividends;
 
 (ii) where the dividends are paid by a company which is a resident of Malta to a resident of Egypt who is the beneficial owner thereof, Malta tax on the gross amount of the dividends shall not exceed that chargeable on the profits out of which the dividends are paid. (b) Under the law in force in Malta, income tax paid or payable by a company, as is referable to that part of its profits which is distributed by way of dividends, is assimilated with the personal income tax of the shareholder in receipt of such a dividend. In the shareholder's hands, the dividend is charged to tax gross and the relevant amount of tax, so assimilated, is set off against the shareholder's tax liability on his income from all liable sources.
 
@@ -319,9 +301,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \2. However, such interest may also be taxed in the Contracting State in which it arises and according to the laws of that State, but if the recipient is the beneficial owner of the interest the tax so charged shall not exceed 10 percent of the gross amount of the interest.
 
-\3. The term ''interest'' as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor’s profits, and in particular, income from government WITH THE ARAB REPUBLIC OF EGYPT [S.L.123.57 9
-
-securities and income from bonds or debentures including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
+\3. The term ''interest'' as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor’s profits, and in particular, income from government securities and income from bonds or debentures including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
@@ -341,9 +321,7 @@ securities and income from bonds or debentures including premiums and prizes att
 
 \3. The term ''royalties'' as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including cinematograph films, or films or tapes used for radio or television broadcasting, any patent, trade mark, design or model, plan, secret formula or process, or for the use of, or the right to use, industrial, commercial or scientific equipment, or for information concerning industrial, commercial or scientific experience.
 
-\4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner 10 [S.L.123.57 WITH THE ARAB REPUBLIC OF EGYPT
-
-of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
+\4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \5. Royalties shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
@@ -362,8 +340,6 @@ of the royalties, being a resident of a Contracting State, carries on business i
 \4. Gains from the alienation of ships or aircraft operated in international traffic by an enterprise of a Contracting State, or movable property pertaining to the operation of such ships or aircraft, shall be taxable only in that State.
 
 \5. Gains from the alienation of any property other than that referred to in paragraphs 1, 2, 3 and 4 shall be taxable only in the Contracting State of which the alienator is a resident.
-
-WITH THE ARAB REPUBLIC OF EGYPT [S.L.123.57 11
 
 **Article 14**
 
@@ -395,7 +371,7 @@ WITH THE ARAB REPUBLIC OF EGYPT [S.L.123.57 11
 
 **DIRECTORS’ FEES**
 
-Directors’ fees and other similar payments derived by a resident of a Contracting State in his capacity as a member of the board of directors of a company which is a resident of the other Contracting State may be taxed in that other State. 12 [S.L.123.57 WITH THE ARAB REPUBLIC OF EGYPT
+Directors’ fees and other similar payments derived by a resident of a Contracting State in his capacity as a member of the board of directors of a company which is a resident of the other Contracting State may be taxed in that other State.
 
 **Article 17**
 
@@ -431,9 +407,7 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 **PAYMENTS RECEIVED BY STUDENTS AND APPRENTICES**
 
-Payments which a student or business apprentice who is or was immediately before visiting a Contracting State a resident of the other Contracting State and who is present in the first-mentioned State solely for the purpose of his education or training receives for the purposes of his maintenance, education or training shall not WITH THE ARAB REPUBLIC OF EGYPT [S.L.123.57 13
-
-be taxed in that State, provided that such payments arise from sources outside that State.
+Payments which a student or business apprentice who is or was immediately before visiting a Contracting State a resident of the other Contracting State and who is present in the first-mentioned State solely for the purpose of his education or training receives for the purposes of his maintenance, education or training shall not be taxed in that State, provided that such payments arise from sources outside that State.
 
 **Article 21**
 
@@ -459,9 +433,7 @@ be taxed in that State, provided that such payments arise from sources outside t
 
 \1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected. This provision shall, notwithstanding the provisions of Article 1, also apply to persons who are not residents of one or both of the Contracting States.
 
-\2. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a 14 [S.L.123.57 WITH THE ARAB REPUBLIC OF EGYPT
-
-Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
+\2. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
 
 \3. Except where the provisions of paragraph 1 of Article 9, paragraph 6 of Article 11, or paragraph 6 of Article 12 apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
 
@@ -485,9 +457,7 @@ Contracting State to grant to residents of the other Contracting State any perso
 
 **EXCHANGE OF INFORMATION**
 
-\1. The competent authorities of the Contracting States shall exchange such information as is necessary for carrying out the provisions of this Convention or of the domestic laws of the Contracting States concerning taxes covered by the WITH THE ARAB REPUBLIC OF EGYPT [S.L.123.57 15
-
-Convention insofar as the taxation thereunder is not contrary to the Convention. The exchange of information is not restricted by Article 1. Any information received by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) involved in the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by the Convention. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
+\1. The competent authorities of the Contracting States shall exchange such information as is necessary for carrying out the provisions of this Convention or of the domestic laws of the Contracting States concerning taxes covered by the Convention insofar as the taxation thereunder is not contrary to the Convention. The exchange of information is not restricted by Article 1. Any information received by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) involved in the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by the Convention. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
 
 \2. In no case shall the provisions of paragraph 1 be construed so as to impose on a Contracting State the obligation:
 
@@ -520,8 +490,6 @@ Nothing in this Convention shall affect the fiscal privileges of members of dipl
 (b) in Malta:
 
 in respect of taxes on income derived during any calendar year or accounting period, as the case may be, beginning on or after the first day of January in the calendar year following the date on which the Convention enters into force.
-
-16 [S.L.123.57 WITH THE ARAB REPUBLIC OF EGYPT
 
 **Article 28**
 

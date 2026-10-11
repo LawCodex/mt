@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (The United Mexican States) Order (S.L. 123.151)
 
-*1*
-
-(THE UNITED MEXICAN STATES) [S.L.123.151
-
 SUBSIDIARY LEGISLATION 123.151
 
 DOUBLE TAXATION RELIEF (TAXES ON INCOME) (THE UNITED MEXICAN STATES) ORDER
@@ -50,8 +46,6 @@ It is hereby declared:
 (c) that the Convention shall enter into force on such date as may be announced by notice in the Gazette\*.
 
 \*9th August, 2014 - see Legal Notice 332 of 2014.
-
-2 [S.L.123.151 (THE UNITED MEXICAN STATES)
 
 ## SCHEDULE — Article 2 — CONVENTION BETWEEN
 
@@ -111,9 +105,7 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 **GENERAL DEFINITIONS**
 
-\1. For the purposes of this Convention, unless the context otherwise requires: a) the term "Mexico" means the United Mexican States, when used in a geographical sense, includes the territory of the United Mexican States, as well as the integrated parts of the Federation, the islands, including the reefs and cays in the adjacent waters, the islands of Guadalupe and Revillagigedo, the continental shelf and the seabed and sub-soil of the (THE UNITED MEXICAN STATES) [S.L.123.151 3
-
-islands, cays and reefs, the waters of the territorial seas and the inland waters and beyond them the areas over which, in accordance with the international law, Mexico may exercise its sovereign rights of exploration and exploitation of the natural resources of the seabed, sub-soil and the supra-jacent waters, and the air space of the national territory to the extent and under conditions established by international law;
+\1. For the purposes of this Convention, unless the context otherwise requires: a) the term "Mexico" means the United Mexican States, when used in a geographical sense, includes the territory of the United Mexican States, as well as the integrated parts of the Federation, the islands, including the reefs and cays in the adjacent waters, the islands of Guadalupe and Revillagigedo, the continental shelf and the seabed and sub-soil of the islands, cays and reefs, the waters of the territorial seas and the inland waters and beyond them the areas over which, in accordance with the international law, Mexico may exercise its sovereign rights of exploration and exploitation of the natural resources of the seabed, sub-soil and the supra-jacent waters, and the air space of the national territory to the extent and under conditions established by international law;
 
 b) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
 
@@ -141,7 +133,7 @@ k) the term "national" in relation to a Contracting State, means:
 
 (ii) any legal person, partnership or association deriving its status as such from the laws in force in that Contracting State.
 
-\2. As regards the application of the Convention at any time by a Contracting State, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that State for the purposes of the taxes to which the Convention applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State. 4 [S.L.123.151 (THE UNITED MEXICAN STATES)
+\2. As regards the application of the Convention at any time by a Contracting State, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that State for the purposes of the taxes to which the Convention applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State.
 
 **ARTICLE 4**
 
@@ -177,8 +169,6 @@ b) a branch;
 
 c) an office;
 
-(THE UNITED MEXICAN STATES) [S.L.123.151 5
-
 d) a factory;
 
 e) a workshop, and
@@ -209,9 +199,7 @@ f) the maintenance of a fixed place of business solely for any combination of ac
 
 ## 5.
 
-Notwithstanding the provisions of paragraphs 1 and 2, where a person -other than an agent of an independent status to whom paragraph 7 applies - is acting on behalf of an enterprise and has, and habitually exercises, in a Contracting State an authority to conclude contracts in the name of the enterprise, that enterprise shall be deemed to have a permanent establishment in that State in respect of any activities which that person undertakes for the enterprise, unless the activities of such person are limited to those mentioned in paragraph 4 which, if exercised through a fixed 6 [S.L.123.151 (THE UNITED MEXICAN STATES)
-
-place of business, would not make this fixed place of business a permanent establishment under the provisions of that paragraph.
+Notwithstanding the provisions of paragraphs 1 and 2, where a person -other than an agent of an independent status to whom paragraph 7 applies - is acting on behalf of an enterprise and has, and habitually exercises, in a Contracting State an authority to conclude contracts in the name of the enterprise, that enterprise shall be deemed to have a permanent establishment in that State in respect of any activities which that person undertakes for the enterprise, unless the activities of such person are limited to those mentioned in paragraph 4 which, if exercised through a fixed place of business, would not make this fixed place of business a permanent establishment under the provisions of that paragraph.
 
 ## 6.
 
@@ -247,9 +235,7 @@ a) that permanent establishment;
 
 b) sales in that other State of goods or merchandise of the same or similar kind as the goods or merchandise sold through that permanent establishment.
 
-However, the profits derived from the sales described in subparagraph b) (THE UNITED MEXICAN STATES) [S.L.123.151 7
-
-shall not be taxable in the other Contracting State if the enterprise demonstrates that such sales have been carried out for reasons other than obtaining a benefit under this Convention.
+However, the profits derived from the sales described in subparagraph b) shall not be taxable in the other Contracting State if the enterprise demonstrates that such sales have been carried out for reasons other than obtaining a benefit under this Convention.
 
 \2. Subject to the provisions of paragraph 3, where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment.
 
@@ -273,9 +259,7 @@ shall not be taxable in the other Contracting State if the enterprise demonstrat
 
 \3. For the purposes of this Article, profits from the operation of ships or aircraft in international traffic by a resident of a Contracting State include profits from the rental of ships or aircraft on a full (time or voyage) basis. They also include profits from the rental of ships or aircraft on a bareboat basis if such ships or aircraft are operated in international traffic by the lessee and are derived by a resident of a Contracting State engaged in the operation of ships or aircraft in international traffic.
 
-\4. For the purposes of this Article and notwithstanding the provisions of Article 12, profits of a resident of a Contracting State from the use or rental of containers (including trailers, barges and related equipment for the transport of containers) used in international traffic shall be taxable only in that State where such use or rental is incidental to the operation of ships or aircraft in international traffic. 8 [S.L.123.151 (THE UNITED MEXICAN STATES)
-
-\5. The provisions of paragraph 1 shall also apply to profits from the participation in a pool, a joint business or an international operating agency.
+\4. For the purposes of this Article and notwithstanding the provisions of Article 12, profits of a resident of a Contracting State from the use or rental of containers (including trailers, barges and related equipment for the transport of containers) used in international traffic shall be taxable only in that State where such use or rental is incidental to the operation of ships or aircraft in international traffic. 5. The provisions of paragraph 1 shall also apply to profits from the participation in a pool, a joint business or an international operating agency.
 
 **ARTICLE 9**
 
@@ -301,9 +285,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \3. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
-\4. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends (THE UNITED MEXICAN STATES) [S.L.123.151 9
-
-are paid is effectively connected with a permanent establishment situated in that other State, nor subject the company's undistributed profits to a tax on the company's undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
+\4. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment situated in that other State, nor subject the company's undistributed profits to a tax on the company's undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
 
 **ARTICLE 11**
 
@@ -329,9 +311,7 @@ d) the interest arises in Mexico and is paid in respect of a loan for a period o
 
 \5. The provisions of paragraphs 1, 2 and 3 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
-\6. Interest shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent 10 [S.L.123.151 (THE UNITED MEXICAN STATES)
-
-establishment and such interest is borne by such permanent establishment, then such interest shall be deemed to arise in the State in which the permanent establishment is situated.
+\6. Interest shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment and such interest is borne by such permanent establishment, then such interest shall be deemed to arise in the State in which the permanent establishment is situated.
 
 \7. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest exceeds, for whatever reason, the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
@@ -359,9 +339,7 @@ Notwithstanding the provisions of Article 13, the term "royalties" also includes
 
 \5. Royalties shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the royalties, whether he is a resident of one of the Contracting States or not, has in a Contracting State a permanent establishment and such royalties are borne by such permanent establishment, then the royalties shall be deemed to arise in the State in which the permanent establishment is situated.
 
-\6. Where by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties exceeds, for whatever reason, the amount which would have been agreed (THE UNITED MEXICAN STATES) [S.L.123.151 11
-
-upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
+\6. Where by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties exceeds, for whatever reason, the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
 **ARTICLE 13**
 
@@ -387,9 +365,7 @@ upon by the payer and the beneficial owner in the absence of such relationship, 
 
 \2. Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in the other Contracting State shall be taxable only in the first-mentioned Contracting State if: a) the recipient is present in the other State for a period or periods not exceeding in the aggregate 183 (one hundred and eighty three) days in any 12 (twelve) month period commencing or ending in the fiscal year concerned, and
 
-b) the remuneration is paid by, or on behalf of, an employer who is not a 12 [S.L.123.151 (THE UNITED MEXICAN STATES)
-
-resident of the other State, and
+b) the remuneration is paid by, or on behalf of, an employer who is not a resident of the other State, and
 
 c) the remuneration is not borne by a permanent establishment which the employer has in the other State.
 
@@ -427,9 +403,7 @@ b) However, such salaries, wages and other similar remuneration shall be taxable
 
 (i) is a national of that State; or
 
-(ii) did not become a resident of that State solely for the purpose of (THE UNITED MEXICAN STATES) [S.L.123.151 13
-
-rendering the services.
+(ii) did not become a resident of that State solely for the purpose of rendering the services.
 
 \2. a) Notwithstanding the provisions of paragraph 1, any pension and other similar remuneration paid by, or out of funds created by, a Contracting State or a political subdivision or a local authority thereof to an individual in respect of services rendered to that State or subdivision or authority shall be taxable only in that State.
 
@@ -461,9 +435,7 @@ b) in the case of a company owning at least 10 per cent of the capital of a comp
 
 Subject to the provisions of the law of Malta regarding the allowance of a credit against Malta tax in respect of foreign tax, where, in accordance with the provisions of this Convention, there is included in a Malta assessment income from sources within Mexico, the Mexican tax on such income shall be allowed as a credit against the relative Malta tax payable thereon.
 
-\3. Where in accordance with any provision of the Convention income derived by a resident of a Contracting State is exempt from tax in that State, such State may nevertheless, in calculating the amount of tax on the remaining income of such 14 [S.L.123.151 (THE UNITED MEXICAN STATES)
-
-resident, take into account the exempted income.
+\3. Where in accordance with any provision of the Convention income derived by a resident of a Contracting State is exempt from tax in that State, such State may nevertheless, in calculating the amount of tax on the remaining income of such resident, take into account the exempted income.
 
 **ARTICLE 22**
 
@@ -485,9 +457,7 @@ resident, take into account the exempted income.
 
 \1. Where a person considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Convention, he may, irrespective of the remedies provided by the domestic law of those States, present his case to the competent authority of the Contracting State of which he is a resident or, if his case comes under paragraph 1 of Article 22, to that of the Contracting State of which he is a national. The case must be presented within 3 (three) years from the first notification of the action resulting in taxation not in accordance with the provisions of the Convention.
 
-\2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Convention, provided that the competent authority of the other Contracting State is notified of the case within 4 (four) and a half years from the due date or the date of filing of the return in that other State, whichever is later. In such case, any agreement reached shall be implemented within 10 (ten) years from the due date or the date of (THE UNITED MEXICAN STATES) [S.L.123.151 15
-
-filing of the return in that other State, whichever is later, or a longer period if permitted by the domestic law of that other State.
+\2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Convention, provided that the competent authority of the other Contracting State is notified of the case within 4 (four) and a half years from the due date or the date of filing of the return in that other State, whichever is later. In such case, any agreement reached shall be implemented within 10 (ten) years from the due date or the date of filing of the return in that other State, whichever is later, or a longer period if permitted by the domestic law of that other State.
 
 \3. The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Convention. They may also consult together for the elimination of double taxation in cases not provided for in the Convention.
 
@@ -509,9 +479,7 @@ a) carry out administrative measures at variance with the laws and administrativ
 
 b) supply information which is not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;
 
-c) supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public policy (ordre public). 4. If information is requested by a Contracting State in accordance with this Article, the other Contracting State shall use its information gathering measures to obtain the requested information, even though that other State may not need such 16 [S.L.123.151 (THE UNITED MEXICAN STATES)
-
-information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall such limitations be construed to permit a Contracting State to decline to supply information solely because it has no domestic interest in such information.
+c) supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public policy (ordre public). 4. If information is requested by a Contracting State in accordance with this Article, the other Contracting State shall use its information gathering measures to obtain the requested information, even though that other State may not need such information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall such limitations be construed to permit a Contracting State to decline to supply information solely because it has no domestic interest in such information.
 
 \5. In no case shall the provisions of paragraph 3 be construed to permit a Contracting State to decline to supply information solely because the information is held by a bank, other financial institution, nominee or person acting in an agency or fiduciary capacity or because it relates to ownership interests in a person.
 
@@ -531,9 +499,7 @@ information for its own tax purposes. The obligation contained in the preceding 
 
 \6. Proceedings with respect to the existence, validity or the amount of a revenue claim of a Contracting State shall only be brought before the courts or administrative bodies of that State.
 
-\7. Where, at any time after a request has been made by a Contracting State under paragraph 3 or 4 and before the other Contracting State has collected and (THE UNITED MEXICAN STATES) [S.L.123.151 17
-
-remitted the relevant revenue claim to the first-mentioned State, the relevant revenue claim ceases to be
+\7. Where, at any time after a request has been made by a Contracting State under paragraph 3 or 4 and before the other Contracting State has collected and remitted the relevant revenue claim to the first-mentioned State, the relevant revenue claim ceases to be
 
 a) in the case of a request under paragraph 3, a revenue claim of the first-mentioned State that is enforceable under the laws of that State and is owed by a person who, at that time, cannot, under the laws of that State, prevent its collection, or
 
@@ -575,8 +541,6 @@ b) in Mexico:
 
 (i) in respect of taxes withheld at source, to income paid or credited on or after the first day of January in the calendar year next following that in which the Convention enters into force;
 
-18 [S.L.123.151 (THE UNITED MEXICAN STATES)
-
 (ii) in respect of other taxes, for any taxable year beginning on or after the first day of January in the calendar year next following that in which the Convention enters into force.
 
 **ARTICLE 28**
@@ -611,9 +575,7 @@ At the moment of signing the Convention this day concluded between the United Me
 
 I. For purposes of paragraph 3 of Article 13, gains from the alienation of shares of a company resident in one of the States shall be taxable only in the other State, if:
 
-A. the alienation of shares takes place between members of the same group of (THE UNITED MEXICAN STATES) [S.L.123.151 19
-
-companies to the extent that the remuneration received by the transferor consists of shares or other rights in the capital of the transferee or of another company that owns directly or indirectly 80 per cent or more of the voting rights and value of the transferee and that is resident of one of the States or of a country with which Mexico has a broad exchange of information agreement in terms of the Administrative Tax Regulations (Resolución Miscelánea Fiscal), but only if the following conditions are met:
+A. the alienation of shares takes place between members of the same group of companies to the extent that the remuneration received by the transferor consists of shares or other rights in the capital of the transferee or of another company that owns directly or indirectly 80 per cent or more of the voting rights and value of the transferee and that is resident of one of the States or of a country with which Mexico has a broad exchange of information agreement in terms of the Administrative Tax Regulations (Resolución Miscelánea Fiscal), but only if the following conditions are met:
 
 a) the transferee is a company resident of one of the States or of a country with which Mexico has a broad exchange of information agreement in terms of the Administrative Tax Regulations (Resolución Miscelánea Fiscal);
 
@@ -637,8 +599,6 @@ C. the alienation takes place through a recognized Stock Exchange. However, when
 
 a) in a period of 24 (twenty four) months such resident alienates 10 per cent or more of the shares through one or several simultaneous or successive transactions through a recognized Stock Exchange; or
 
-20 [S.L.123.151 (THE UNITED MEXICAN STATES)
-
 b) the alienation is carried out within the recognized stock exchange through any kind of transaction that prevents such resident to accept other offers than those received before and during the period in which the alienation takes place, the gain derived from that alienation may be taxed in the State of which the company of which the shares are alienated is a resident.
 
 II. The term "recognized Stock Exchange" as mentioned in subparagraph C of paragraph I of this Article, means the Mexican Stock Exchange (Bolsa Mexicana de Valores) and the Malta Stock Exchange.
@@ -659,10 +619,6 @@ IV. The provisions of this Convention shall not prevent a Contracting State from
 
 IN WITNESS whereof the undersigned, being duly authorised thereto, have signed this Protocol.
 
-DONE in duplicate at Rome, this 17th day of December of two thousand and twelve, in the Spanish and English languages, both texts being equally authentic.
-
-(THE UNITED MEXICAN STATES) [S.L.123.151 21
-
-FOR THE UNITED MEXICAN STATES FOR MALTA
+DONE in duplicate at Rome, this 17th day of December of two thousand and twelve, in the Spanish and English languages, both texts being equally authentic. FOR THE UNITED MEXICAN STATES FOR MALTA
 
 Miguel Ruíz-Cabañas Izquierdo Carmel Inguanez

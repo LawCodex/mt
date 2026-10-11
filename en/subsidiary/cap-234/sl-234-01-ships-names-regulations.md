@@ -1,6 +1,6 @@
 ---
 title: "Ships Names Regulations"
-identifier: "S.L. 234.1"
+identifier: "S.L. 234.01"
 eli: "https://legislation.mt/eli/sl/234.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/234.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Ships Names Regulations (S.L. 234.1)
+# Ships Names Regulations (S.L. 234.01)
 
 **SUBSIDIARY LEGISLATION 234.01**
 

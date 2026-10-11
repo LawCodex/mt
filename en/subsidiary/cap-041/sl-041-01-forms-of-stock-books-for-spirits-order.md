@@ -1,6 +1,6 @@
 ---
 title: "Forms of Stock Books for Spirits Order"
-identifier: "S.L. 41.1"
+identifier: "S.L. 41.01"
 eli: "https://legislation.mt/eli/sl/41.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/41.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Forms of Stock Books for Spirits Order (S.L. 41.1)
+# Forms of Stock Books for Spirits Order (S.L. 41.01)
 
 **SUBSIDIARY LEGISLATION 41.01**
 

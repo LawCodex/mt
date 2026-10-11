@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in Education (Individual Educational Needs) under the auspices of the Faculty of Education (S.L. 327.273)
 
-DIPLOMA IN EDUCATION (INDIVIDUAL EDUCATIONAL
-
-NEEDS) UNDER THE AUSPICES OF THE
-
-*1*
-
-FACULTY OF EDUCATION [S.L.327.273
-
 **SUBSIDIARY LEGISLATION 327.273**
 
 **BYE-LAWS FOR THE DIPLOMA IN EDUCATION**

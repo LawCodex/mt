@@ -1,6 +1,6 @@
 ---
 title: "Central Bank of Malta Act (Interchange Fees for Domestic Consumer Debit and Credit Card Transactions) Regulations"
-identifier: "S.L. 204.8"
+identifier: "S.L. 204.08"
 eli: "https://legislation.mt/eli/sl/204.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,15 +13,7 @@ version: "https://legislation.mt/eli/sl/204.8/20160802/eng"
 retrieved: 2026-10-12
 ---
 
-# Central Bank of Malta Act (Interchange Fees for Domestic Consumer Debit and Credit Card Transactions) Regulations (S.L. 204.8)
-
-CENTRAL BANK OF MALTA ACT (INTERCHANGE FEES
-
-FOR DOMESTIC CONSUMER DEBIT AND
-
-*1*
-
-CREDIT CARD TRANSACTIONS) [S.L.204.08
+# Central Bank of Malta Act (Interchange Fees for Domestic Consumer Debit and Credit Card Transactions) Regulations (S.L. 204.08)
 
 **SUBSIDIARY LEGISLATION 204.08**
 

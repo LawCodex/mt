@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Master of Arts - M.A. - in Linguistics Degree Course Regulations (S.L. 327.198)
 
-*1*
-
-THE AUSPICES OF THE INSTITUTE OF LINGUISTICS [ S.L.327.198
-
 **SUBSIDIARY LEGISLATION 327.198**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -68,10 +64,6 @@ The course shall extend over three semesters of full-time study or the equivalen
 ## 6. Programme of study.
 
 (1) The programme of study shall comprise study-units to which 90 credits are assigned of which 10 credits are assigned to taught study-units and 80 credits are assigned to a dissertation study-unit.
-
-*2*
-
-[ S.L.327.198 THE AUSPICES OF THE INSTITUTE OF LINGUISTICS
 
 (2) The programme of study shall be published after approval by Senate normally not less than eight months prior to t he commencement of the course.
 

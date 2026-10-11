@@ -1,6 +1,6 @@
 ---
 title: "Commissioners for Oaths (Fees) Regulations"
-identifier: "S.L. 79.2"
+identifier: "S.L. 79.02"
 eli: "https://legislation.mt/eli/sl/79.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/79.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Commissioners for Oaths (Fees) Regulations (S.L. 79.2)
+# Commissioners for Oaths (Fees) Regulations (S.L. 79.02)
 
 **SUBSIDIARY LEGISLATION 79.02**
 

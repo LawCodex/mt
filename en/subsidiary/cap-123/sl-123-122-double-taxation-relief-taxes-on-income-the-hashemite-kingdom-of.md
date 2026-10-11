@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief Taxes on Income) (The Hashemite Kingdom of Jordan) Order (S.L. 123.122)
 
-*1*
-
-WITH THE HASHEMITE KINGDOM OF JORDAN [S.L.123.122
-
 SUBSIDIARY LEGISLATION 123.122
 
 DOUBLE TAXATION RELIEF ON TAXES ON
@@ -46,8 +42,6 @@ It is hereby declared:
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Convention has entered into force on the 13th October 2010.
-
-2 [S.L.123.122 WITH THE HASHEMITE KINGDOM OF JORDAN
 
 ## SCHEDULE — CONVENTION — Between
 
@@ -103,11 +97,7 @@ Notwithstanding the other provisions of this Article, the Convention shall not a
 
 **GENERAL DEFINITIONS**
 
-\1. For the purposes of this Convention, unless the context otherwise requires:
-
-WITH THE HASHEMITE KINGDOM OF JORDAN [S.L.123.122 3
-
-a. the term "Jordan" means the territories of the Hashemite Kingdom of Jordan, the territorial waters of Jordan, and the seabed and subsoil of the territorial waters, and includes any area extending beyond the limits of the territorial waters of Jordan, and the seabed and subsoil of any such area, which has been or may hereafter be designated, under the laws of Jordan, and in accordance with international law as an area over which Jordan has sovereign rights for the purposes of exploring and exploiting the natural resources, whether living or non-living;
+\1. For the purposes of this Convention, unless the context otherwise requires: a. the term "Jordan" means the territories of the Hashemite Kingdom of Jordan, the territorial waters of Jordan, and the seabed and subsoil of the territorial waters, and includes any area extending beyond the limits of the territorial waters of Jordan, and the seabed and subsoil of any such area, which has been or may hereafter be designated, under the laws of Jordan, and in accordance with international law as an area over which Jordan has sovereign rights for the purposes of exploring and exploiting the natural resources, whether living or non-living;
 
 b. the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, and any area outside the territorial waters of Malta which has been or may hereafter be designated, in accordance with international law and under the law of Malta concerning the continental shelf, as an area within which the rights of Malta with respect to the seabed and subsoil and their natural resources may be exercised;
 
@@ -139,9 +129,7 @@ i. the term "national" means:
 
 **RESIDENT**
 
-\1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a 4 [S.L.123.122 WITH THE HASHEMITE KINGDOM OF JORDAN
-
-similar nature. But this term does not include any person who is liable to tax in that State in respect only of income from sources in that State.
+\1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature. But this term does not include any person who is liable to tax in that State in respect only of income from sources in that State.
 
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
@@ -187,9 +175,7 @@ b. the furnishing of services, including consultancy services, by an enterprise 
 
 ### 4.
 
-Notwithstanding the preceding provisions of this Article, the term WITH THE HASHEMITE KINGDOM OF JORDAN [S.L.123.122 5
-
-"permanent establishment" shall be deemed not to include:
+Notwithstanding the preceding provisions of this Article, the term "permanent establishment" shall be deemed not to include:
 
 a. the use of facilities solely for the purpose of storage, display or delivery of goods or merchandise belonging to the enterprise;
 
@@ -219,9 +205,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \1. Income derived by a resident of a Contracting State from immovable property (including income from agriculture) situated in the other Contracting State may be taxed in that other State.
 
-\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock 6 [S.L.123.122 WITH THE HASHEMITE KINGDOM OF JORDAN
-
-and equipment used in agriculture, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, or to explore for, mineral deposits, sources and other natural resources; ships, boats and aircraft shall not be regarded as immovable property.
+\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, or to explore for, mineral deposits, sources and other natural resources; ships, boats and aircraft shall not be regarded as immovable property.
 
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
@@ -249,7 +233,7 @@ Where profits include items of income which are dealt with separately in other A
 
 ### 8.
 
-The provisions of this Article shall not affect the provisions of the law of a Contracting State regarding the taxation of profits from the business of insurance. WITH THE HASHEMITE KINGDOM OF JORDAN [S.L.123.122 7
+The provisions of this Article shall not affect the provisions of the law of a Contracting State regarding the taxation of profits from the business of insurance.
 
 **Article 8**
 
@@ -287,8 +271,6 @@ a. where the dividends are paid by a company which is a resident of Jordan to a 
 
 b. where the dividends are paid by a company which is a resident of Malta to a resident of Jordan who is the beneficial owner thereof, Malta tax on the gross amount of the dividends shall not exceed that chargeable on the profits out of which the dividends are paid.
 
-8 [S.L.123.122 WITH THE HASHEMITE KINGDOM OF JORDAN
-
 This paragraph shall not affect the taxation of the company in respect of the profits out of which the dividends are paid.
 
 \3. The term "dividends" as used in this Article means income from shares, mining shares, founders' shares or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
@@ -309,9 +291,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \4. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor's profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
-\5. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises , through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, WITH THE HASHEMITE KINGDOM OF JORDAN [S.L.123.122 9
-
-shall apply.
+\5. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises , through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \6. Interest shall be deemed to arise in a Contracting State when the payer is that State itself, a political sub-division, a local authority or a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment or fixed base, then such interest shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
@@ -331,9 +311,7 @@ shall apply.
 
 \5. Royalties shall be deemed to arise in a Contracting State when the payer is that State itself, a political sub-division, a local authority or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or fixed base in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
-\6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the 10 [S.L.123.122 WITH THE HASHEMITE KINGDOM OF JORDAN
-
-beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
+\6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
 **Article 13**
 
@@ -359,9 +337,7 @@ a. if he has a fixed base regularly available to him in the other Contracting St
 
 b. if his stay in the other Contracting State is for a period or periods amounting to or exceeding in the aggregate 183 days in any twelve month period commencing or ending in the fiscal year concerned; in that case, only so much of the income as is derived from the activity exercised in the other Contracting State may be taxed in that other State; or
 
-c. if the remuneration for his activities in the other Contracting State is paid by a resident of that Contracting State or is borne by a permanent establishment or a fixed base situated in that Contracting State and exceeds in the fiscal year the equivalent of 10,000 United States dollars. 2. The term "professional services" includes especially independent scientific, WITH THE HASHEMITE KINGDOM OF JORDAN [S.L.123.122 11
-
-literary, artistic, educational or teaching activities as well as the independent activities of physicians, lawyers, engineers, architects, dentists and accountants.
+c. if the remuneration for his activities in the other Contracting State is paid by a resident of that Contracting State or is borne by a permanent establishment or a fixed base situated in that Contracting State and exceeds in the fiscal year the equivalent of 10,000 United States dollars. 2. The term "professional services" includes especially independent scientific, literary, artistic, educational or teaching activities as well as the independent activities of physicians, lawyers, engineers, architects, dentists and accountants.
 
 **Article 15**
 
@@ -399,9 +375,7 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 \1. Subject to the provisions of paragraph 2 of Article 19, pensions and other similar remuneration paid to a resident of a Contracting State in consideration of past employment shall be taxable only in that State.
 
-\2. Notwithstanding the provisions of paragraph 1, pensions paid and other 12 [S.L.123.122 WITH THE HASHEMITE KINGDOM OF JORDAN
-
-payments made under the social security legislation of a Contracting State shall be taxable only in that State.
+\2. Notwithstanding the provisions of paragraph 1, pensions paid and other payments made under the social security legislation of a Contracting State shall be taxable only in that State.
 
 **Article 19**
 
@@ -437,8 +411,6 @@ A student or business apprentice who is present in a Contracting State solely fo
 
 ## Chapter IV — Elimination of Double Taxation — Article 22
 
-WITH THE HASHEMITE KINGDOM OF JORDAN [S.L.123.122 13
-
 **ELIMINATION OF DOUBLE TAXATION**
 
 \1. In the case of Jordan double taxation shall be eliminated as follows:
@@ -462,8 +434,6 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 \4. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
 
 \5. The provisions of this Article shall, notwithstanding the provisions of Article 2, apply to taxes of every kind and description which are the subject of this Convention.
-
-14 [S.L.123.122 WITH THE HASHEMITE KINGDOM OF JORDAN
 
 **Article 24**
 
@@ -489,9 +459,7 @@ a. to carry out administrative measures at variance with the laws and administra
 
 b. to supply information which is not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;
 
-c. to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public policy WITH THE HASHEMITE KINGDOM OF JORDAN [S.L.123.122 15
-
-(ordre public).
+c. to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public policy (ordre public).
 
 **Article 26**
 
@@ -522,8 +490,6 @@ b. in Malta, in respect of taxes on income derived during any calendar year or a
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto by their respective Governments, have signed this Convention.
 
 DONE at Amman this 16th day of April, 2009 in duplicate in the English and the Arabic languages, both texts being equally authentic.
-
-16 [S.L.123.122 WITH THE HASHEMITE KINGDOM OF JORDAN
 
 Tonio Borg Bassem Salem
 

@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Service (Sworn Applications and Other Documents attached thereto) Regulations (S.L. 12.18)
 
-SERVICE (SWORN APPLICATIONS AND OTHER
-
-*1*
-
-DOCUMENTS ATTACHED THERETO) [S.L.12.18
-
 SUBSIDIARY LEGISLATION 12.18
 
 SERVICE (SWORN APPLICATIONS AND OTHER

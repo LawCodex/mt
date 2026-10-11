@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Certificate of Finance in International Trade - COFIT - under the auspices of the Faculty of Economics, Management and Accountancy (S.L. 327.462)
 
-COFIT - UNDER THE AUSPICES OF THE FACULTY OF
-
-*1*
-
-ECONOMICS, MANAGEMENT AND ACCOUNTANCY [S.L.327.462
-
 **SUBSIDIARY LEGISLATION 327.462**
 
 BYE-LAWS FOR THE CERTIFICATE OF FINANCE
@@ -71,11 +65,11 @@ These bye-laws shall be applicable for courses commencing in February 2015 or la
 
 (4) Admission to the course may, with the approval of Senate, be restricted to applicants who are nominated by FIMBank and the International Factors Group provided that such applicants are eligible for admission in terms of paragraphs (1), (2) and (3) of this bye-law.
 
-*2*
+## 4. Course duration.
 
-COFIT - UNDER THE AUSPICES OF THE FACULTY OF [S.L.327.462 ECONOMICS, MANAGEMENT AND ACCOUNTANCY 4. The course shall extend over a period of one semester of study.
+*Substituted by: L.N. 41 of 2015.*
 
-*Course duration. Substituted by: L.N. 41 of 2015.*
+The course shall extend over a period of one semester of study.
 
 ## 5. Course programme.
 

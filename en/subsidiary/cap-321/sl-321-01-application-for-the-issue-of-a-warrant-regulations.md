@@ -1,6 +1,6 @@
 ---
 title: "Application for the Issue of a Warrant Regulations"
-identifier: "S.L. 321.1"
+identifier: "S.L. 321.01"
 eli: "https://legislation.mt/eli/sl/321.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/321.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Application for the Issue of a Warrant Regulations (S.L. 321.1)
+# Application for the Issue of a Warrant Regulations (S.L. 321.01)
 
 **SUBSIDIARY LEGISLATION 321.01**
 

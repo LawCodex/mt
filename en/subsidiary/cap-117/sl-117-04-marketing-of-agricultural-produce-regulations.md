@@ -1,6 +1,6 @@
 ---
 title: "Marketing of Agricultural Produce Regulations"
-identifier: "S.L. 117.4"
+identifier: "S.L. 117.04"
 eli: "https://legislation.mt/eli/sl/117.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/117.4/20220228/eng"
 retrieved: 2026-10-12
 ---
 
-# Marketing of Agricultural Produce Regulations (S.L. 117.4)
+# Marketing of Agricultural Produce Regulations (S.L. 117.04)
 
 **SUBSIDIARY LEGISLATION 117.04**
 

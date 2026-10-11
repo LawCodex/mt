@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Civil Code (Second Schedule) (Existing Organisations)Regulations (S.L. 16.10)
 
-*1*
-
-(EXISTING ORGANISATIONS) [S.L.16.10
-
 **SUBSIDIARY LEGISLATION 16.10**
 
 **CIVIL CODE (SECOND SCHEDULE)**
@@ -65,11 +61,7 @@ and which have not been registered in accordance with the Schedule;
 
 (ii) a sworn declaration made by the administrators or their delegate before a Notary Public listing the constitutive public deed and all amending public deeds, if any, relating to the existing organisation; and
 
-(iii) a notarised copy of the Statement of Compliance made in accordance with regulation 6 so that the existing organisation complies with the requirements of the Schedule in respect of the [S.L.16.10 (EXISTING ORGANISATIONS)
-
-content of the statute; and
-
-*2*
+(iii) a notarised copy of the Statement of Compliance made in accordance with regulation 6 so that the existing organisation complies with the requirements of the Schedule in respect of the content of the statute; and
 
 (c) the payment of the applicable fees.
 
@@ -105,11 +97,7 @@ The date of establishment of the existing organisation shall be confirmed by the
 
 (b) in the case referred to in regulation 4(2)(a), that the statute delivered to the Notary Public is the authenticated consolidated amended statute up to such date; or
 
-(c) in the case referred to in regulation 4(2)(b), that the resolutions, deeds or instruments delivered to the Notary Public are an authenticated copy of all amending resolutions, deeds or instruments up to such (EXISTING ORGANISATIONS) [S.L.16.10
-
-date.
-
-*3*
+(c) in the case referred to in regulation 4(2)(b), that the resolutions, deeds or instruments delivered to the Notary Public are an authenticated copy of all amending resolutions, deeds or instruments up to such date.
 
 (2) The Notary Public shall warn the persons making any of the above declarations of the importance of truthfulness of such declarations.
 
@@ -147,11 +135,7 @@ date.
 
 (b) the name of the existing organisation, which matter is regulated by regulation 7.
 
-(3) The Statement of Compliance shall be signed by all the administrators in office or their delegates and for the purpose of [S.L.16.10 (EXISTING ORGANISATIONS)
-
-this regulation all administrators shall be deemed to have the power to delegate their function.
-
-*4*
+(3) The Statement of Compliance shall be signed by all the administrators in office or their delegates and for the purpose of this regulation all administrators shall be deemed to have the power to delegate their function.
 
 (4) When the statute of an existing organisation has been drawn up by public deed, any Statement of Compliance made in relation to such statute must also be made by public deed.
 
@@ -177,10 +161,6 @@ this regulation all administrators shall be deemed to have the power to delegate
 
 ## 10. Existing organisations which are already registered on the coming into force of these regulations.
 
-(1) When an existing organisation has already been registered on the basis of ad hoc arrangements, due to the fact that the constitutive deed or statute of such existing organisation did not strictly comply with the requirements of the Schedule, the facility provided by these regulations may be utilised by the administrators of any such organisation, at their discretion, so as to bring the statute of such organisation fully in compliance with the (EXISTING ORGANISATIONS) [S.L.16.10
-
-requirements of the Schedule.
-
-*5*
+(1) When an existing organisation has already been registered on the basis of ad hoc arrangements, due to the fact that the constitutive deed or statute of such existing organisation did not strictly comply with the requirements of the Schedule, the facility provided by these regulations may be utilised by the administrators of any such organisation, at their discretion, so as to bring the statute of such organisation fully in compliance with the requirements of the Schedule.
 
 (2) In such cases, only a notarised copy of the Statement of Compliance made in accordance with regulation 6 shall be presented to the Registrar who shall register the same in the register of the relevant organisation.

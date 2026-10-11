@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy – Ph.D. Degree - for the Degree of Doctor of Philosophy under the auspices of the Institute of Aerospace Technologies (S.L. 327.536)
 
-DEGREE OF DOCTOR OF PHILOSOPHY UNDER THE AUS-
-
-*1*
-
-PICES OF THE INSTITUTE OF AEROSPACE TECHNOLOGY [S.L.327.536
-
 **SUBSIDIARY LEGISLATION 327.536**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR OF**
@@ -71,11 +65,7 @@ Applicants for the Degree offered by the Institute shall be in possession of one
 
 ## 5. Completion of study-units.
 
-When the Board deems it necessary, it may require students to successfully complete a number of study-units during their DEGREE OF DOCTOR OF PHILOSOPHY UNDER THE AUS- [S.L.327.536 PICES OF THE INSTITUTE OF AEROSPACE TECHNOLOGY
-
-studies, and, or to satisfactorily undertake tasks recommended by the Board, under those conditions that it may impose, after approval by Senate.
-
-*2*
+When the Board deems it necessary, it may require students to successfully complete a number of study-units during their studies, and, or to satisfactorily undertake tasks recommended by the Board, under those conditions that it may impose, after approval by Senate.
 
 ## 6. Institute Doctoral Committee.
 
@@ -121,10 +111,4 @@ The Board shall approve and publish guidelines on the format and presentation of
 
 (1) Students shall be required to submit a loose bound copy of their thesis for each member of the Board of Examiners, together with an electronic version. The officer in charge of the Institute shall issue a dated receipt.
 
-(2) On successful completion of their studies, students shall be required to submit to the Institute two hard bound copies and one DEGREE OF DOCTOR OF PHILOSOPHY UNDER THE AUS-
-
-*3*
-
-PICES OF THE INSTITUTE OF AEROSPACE TECHNOLOGY [S.L.327.536
-
-electronic version of the thesis, which shall include a signed declaration of authenticity, within six weeks from the publication of their result. One copy of the thesis shall be kept in the Library of the Institute. The electronic version must conform to the standards set up by the University of Malta Library. Students who do not comply with this bye-law shall not be awarded the Degree.
+(2) On successful completion of their studies, students shall be required to submit to the Institute two hard bound copies and one electronic version of the thesis, which shall include a signed declaration of authenticity, within six weeks from the publication of their result. One copy of the thesis shall be kept in the Library of the Institute. The electronic version must conform to the standards set up by the University of Malta Library. Students who do not comply with this bye-law shall not be awarded the Degree.

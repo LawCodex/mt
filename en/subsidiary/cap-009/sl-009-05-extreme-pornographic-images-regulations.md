@@ -1,6 +1,6 @@
 ---
 title: "Extreme Pornographic Images Regulations"
-identifier: "S.L. 9.5"
+identifier: "S.L. 9.05"
 eli: "https://legislation.mt/eli/sl/9.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/9.5/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Extreme Pornographic Images Regulations (S.L. 9.5)
+# Extreme Pornographic Images Regulations (S.L. 9.05)
 
 **SUBSIDIARY LEGISLATION 9.05**
 

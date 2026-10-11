@@ -1,6 +1,6 @@
 ---
 title: "Public Lotto Regulations"
-identifier: "S.L. 70.3"
+identifier: "S.L. 70.03"
 eli: "https://legislation.mt/eli/sl/70.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/70.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Public Lotto Regulations (S.L. 70.3)
+# Public Lotto Regulations (S.L. 70.03)
 
 SUBSIDIARY LEGISLATION 70.03
 

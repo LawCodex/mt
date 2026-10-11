@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Grand Duchy of Luxembourg Order (S.L. 123.37)
 
-*1*
-
-WITH THE GRAND DUCHY OF LUXEMBOURG [S.L.123.37
-
 **SUBSIDIARY LEGISLATION 123.37**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -52,8 +48,6 @@ It is hereby declared:
 (v) the communal trade tax;
 
 (b) that it is expedient that those arrangements should have effect.
-
-2 [S.L.123.37 WITH THE GRAND DUCHY OF LUXEMBOURG
 
 ## SCHEDULE — CONVENTION — BETWEEN MALTA
 
@@ -109,8 +103,6 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 Notwithstanding the other provisions of this Article this Convention shall not apply to tax paid or payable in Malta in accordance with the provisions of sub-article (13) of article 56 of the Income Tax Act concerning the chargeable income of any person engaged in the production of petroleum produced in Malta or any substantially similar provision which is imposed after the date of signature of this Convention.
 
-WITH THE GRAND DUCHY OF LUXEMBOURG [S.L.123.37 3
-
 **ARTICLE 3**
 
 **General Definitions**
@@ -149,9 +141,7 @@ WITH THE GRAND DUCHY OF LUXEMBOURG [S.L.123.37 3
 
 **Resident**
 
-\1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by 4 [S.L.123.37 WITH THE GRAND DUCHY OF LUXEMBOURG
-
-reason of his domicile, residence, place of management or any other criterion of a similar nature. But this term does not include any person who is liable to tax in that State in respect only of income from sources in that State or capital situated therein.
+\1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature. But this term does not include any person who is liable to tax in that State in respect only of income from sources in that State or capital situated therein.
 
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
@@ -197,8 +187,6 @@ Notwithstanding the preceding provisions of this Article, the term "permanent es
 
 (b) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of storage, display or delivery;
 
-WITH THE GRAND DUCHY OF LUXEMBOURG [S.L.123.37 5
-
 (c) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of processing by another enterprise;
 
 (d) the maintenance of a fixed place of business solely for the purpose of purchasing goods or merchandise or of collecting information, for the enterprise;
@@ -233,8 +221,6 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 **ARTICLE 6**
 
-6 [S.L.123.37 WITH THE GRAND DUCHY OF LUXEMBOURG
-
 **Income from Immovable Property**
 
 \1. Income derived by a resident of a Contracting State from immovable property (including income from agriculture or forestry) situated in the other Contracting State may be taxed in that other State.
@@ -257,9 +243,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \4. Nothing in this Article shall affect the application of any law of a Contracting State relating to the determination of the tax liability of a person, including the determination of such liability by the exercise of discretion or the making of an estimate by the competent authority of that State in cases in which, from the information available to the competent authority of that State, it is not possible or not practicable to ascertain the profits to be attributed to a permanent establishment, provided that that law shall be applied, and the result shall be in accordance with the principles contained in this Article.
 
-\5. No profits shall be attributed to a permanent establishment by reason of the WITH THE GRAND DUCHY OF LUXEMBOURG [S.L.123.37 7
-
-mere purchase by that permanent establishment of goods or merchandise for the enterprise.
+\5. No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
 
 \6. For the purposes of the preceding paragraphs, the profits to be attributed to the permanent establishment shall be determined by the same method year by year unless there is good and sufficient reason to the contrary.
 
@@ -291,9 +275,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \2. Nothing in this Article shall affect the application of any law of a Contracting State relating to the determination of the tax liability of an enterprise including the determination of such liability by the exercise of a discretion or the making of an estimate by the competent authority of that State in cases which, from the information available to the competent authority of that State, it is not possible or not practicable to determine the income to be attributed to an enterprise, provided that that law shall be applied, and the result shall be in accordance with the principles contained in this Article.
 
-\3. Where a Contracting State includes in the profits of an enterprise of that State, and taxes accordingly, profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to that enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an 8 [S.L.123.37 WITH THE GRAND DUCHY OF LUXEMBOURG
-
-appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Convention and the competent authorities of the Contracting States shall if necessary consult each other.
+\3. Where a Contracting State includes in the profits of an enterprise of that State, and taxes accordingly, profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to that enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Convention and the competent authorities of the Contracting States shall if necessary consult each other.
 
 **ARTICLE 10**
 
@@ -318,8 +300,6 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \5. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company’s undistributed profits to a tax on the company’s undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
-
-WITH THE GRAND DUCHY OF LUXEMBOURG [S.L.123.37 9
 
 **ARTICLE 11**
 
@@ -347,9 +327,7 @@ WITH THE GRAND DUCHY OF LUXEMBOURG [S.L.123.37 9
 
 (b) the supply of scientific, technical, industrial or commercial knowledge or information;
 
-(c) the supply of any assistance that is ancillary and subsidiary to, and is furnished as a means of enabling the application or enjoyment of, any such property or right as is mentioned in sub-paragraph (a), or any such 10 [S.L.123.37 WITH THE GRAND DUCHY OF LUXEMBOURG
-
-knowledge or information as is mentioned in sub-paragraph (b);
+(c) the supply of any assistance that is ancillary and subsidiary to, and is furnished as a means of enabling the application or enjoyment of, any such property or right as is mentioned in sub-paragraph (a), or any such knowledge or information as is mentioned in sub-paragraph (b);
 
 (d) the use of, or the right to use:
 
@@ -375,9 +353,7 @@ knowledge or information as is mentioned in sub-paragraph (b);
 
 \2. Income or gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or of movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing independent personal services, including such income or gains from the alienation of such a permanent establishment (alone or together with the whole enterprise) or of such fixed base, may be taxed in the other State.
 
-\3. Income or gains derived by an enterprise of a Contracting State from the alienation of ships or aircraft operated in international traffic or movable property pertaining to the operation of such ships or aircraft, shall be taxable only in that WITH THE GRAND DUCHY OF LUXEMBOURG [S.L.123.37 11
-
-State.
+\3. Income or gains derived by an enterprise of a Contracting State from the alienation of ships or aircraft operated in international traffic or movable property pertaining to the operation of such ships or aircraft, shall be taxable only in that State.
 
 \4. Income or gains from the alienation of any property other than that referred to in paragraphs 1, 2 and 3, shall be taxable only in the Contracting State of which the alienator is a resident.
 
@@ -413,8 +389,6 @@ State.
 
 **Directors’ Fees**
 
-12 [S.L.123.37 WITH THE GRAND DUCHY OF LUXEMBOURG
-
 Directors’ fees and other similar payments derived by a resident of a Contracting State in his capacity as a member of the board of directors of a company which is a resident of the other Contracting State may be taxed in that other State.
 
 **ARTICLE 17**
@@ -449,9 +423,7 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 (b) However, such pension shall be taxable only in the other Contracting State if the individual is a resident of, and a national of, that State.
 
-\3. The provisions of Articles 15, 16 and 18 shall apply to remuneration and pensions in respect of services rendered in connection with a business carried on by WITH THE GRAND DUCHY OF LUXEMBOURG [S.L.123.37 13
-
-a Contracting State or a political subdivision or local authority thereof.
+\3. The provisions of Articles 15, 16 and 18 shall apply to remuneration and pensions in respect of services rendered in connection with a business carried on by a Contracting State or a political subdivision or local authority thereof.
 
 **ARTICLE 20**
 
@@ -487,9 +459,7 @@ shall be exempt from tax in that other State on:
 
 \1. Capital represented by immovable property referred to in Article 6, owned by a resident of a Contracting State and situated in the other Contracting State, may be taxed in that other State.
 
-\2. Capital represented by movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has 14 [S.L.123.37 WITH THE GRAND DUCHY OF LUXEMBOURG
-
-in the other Contracting State or by movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing independent personal services, may be taxed in that other State.
+\2. Capital represented by movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or by movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing independent personal services, may be taxed in that other State.
 
 \3. Capital represented by ships and aircraft operated in international traffic by an enterprise of a Contracting State and by movable property pertaining to the operation of such ships and aircraft, shall be taxable only in that State.
 
@@ -513,8 +483,6 @@ in the other Contracting State or by movable property pertaining to a fixed base
 
 (ii) 10 per cent of the gross amount of the royalties referred to in Article 12.
 
-WITH THE GRAND DUCHY OF LUXEMBOURG [S.L.123.37 15
-
 The provisions of this sub-paragraph shall apply for a period of seven years beginning on the 1 January in the calendar year in which the Convention enters into force. This period may be extended by mutual agreement between the competent authorities.
 
 (e) Where a company which is a resident of Luxembourg derives dividends from Malta sources, Luxembourg shall exempt such dividends from tax, provided that the company which is a resident of Luxembourg holds directly at least 25 per cent of the capital of the company paying the dividends since the beginning of the accounting year and if this company is subject in Malta to an income tax corresponding to the Luxembourg corporation tax. The above-mentioned shares in the Malta company are, under the same conditions, exempt from the Luxembourg capital tax. The exemption under this sub-paragraph shall also apply notwithstanding that the Malta company is exempted from tax or taxed at a reduced rate in Malta in accordance with Malta laws providing incentives for the promotion of development of industry, infrastructure and tourism in Malta.
@@ -531,9 +499,7 @@ The provisions of this sub-paragraph shall apply for a period of seven years beg
 
 **Non-Discrimination**
 
-\1. Nationals of a Contracting State shall not be subjected in the other 16 [S.L.123.37 WITH THE GRAND DUCHY OF LUXEMBOURG
-
-Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances are or may be subjected. This provision shall, notwithstanding the provisions of Article 1, also apply to persons who are not residents of one or both of the Contracting States.
+\1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances are or may be subjected. This provision shall, notwithstanding the provisions of Article 1, also apply to persons who are not residents of one or both of the Contracting States.
 
 \2. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities.
 
@@ -554,8 +520,6 @@ Similarly, any debts of an enterprise of a Contracting State to a resident of th
 \1. Where a person considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Convention, he may, irrespective of the remedies provided by the domestic law of those States, present his case to the competent authority of the Contracting State of which he is a resident or, if his case comes under paragraph 1 of Article 24, to that of the Contracting State of which he is a national. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Convention.
 
 \2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Convention. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
-
-WITH THE GRAND DUCHY OF LUXEMBOURG [S.L.123.37 17
 
 \3. The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Convention. They may also consult together for the elimination of double taxation in cases not provided for in the Convention.
 
@@ -579,11 +543,9 @@ c) to supply information which would disclose any trade, business, industrial, c
 
 \4. If information is requested by a Contracting State in accordance with this Article, the other Contracting State shall use its information gathering measures to obtain the requested information, even though that other State may not need such information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall such limitations be construed to permit a Contracting State to decline to supply information solely because it has no domestic interest in such information.
 
-\5. In no case shall the provisions of paragraph 3 be construed to permit a Contracting State to decline to supply information upon request solely because the information is held by a bank, other financial institution, nominee or person acting in 18 [S.L.123.37 WITH THE GRAND DUCHY OF LUXEMBOURG
+\5. In no case shall the provisions of paragraph 3 be construed to permit a Contracting State to decline to supply information upon request solely because the information is held by a bank, other financial institution, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person.
 
 \*as substituted by the Protocol reproduced in Legal Notice 238 of 2013.
-
-an agency or a fiduciary capacity or because it relates to ownership interests in a person.
 
 **ARTICLE 27**
 
@@ -621,9 +583,7 @@ in respect of taxes which are levied for any year of assessment beginning on or 
 
 **Termination**
 
-This Convention shall remain in force until terminated by a Contracting State. Either Contracting State may terminate the Convention, through diplomatic channels, by giving notice of termination at least six months before the end of any calendar year following after the period of five years from the date on which the WITH THE GRAND DUCHY OF LUXEMBOURG [S.L.123.37 19
-
-Convention enters into force. In such event, the Convention shall cease to have effect:
+This Convention shall remain in force until terminated by a Contracting State. Either Contracting State may terminate the Convention, through diplomatic channels, by giving notice of termination at least six months before the end of any calendar year following after the period of five years from the date on which the Convention enters into force. In such event, the Convention shall cease to have effect:
 
 \1. in Luxembourg:
 
@@ -659,9 +619,7 @@ The representatives of the Government of Malta and the Government of the Grand D
 
 \2. With reference to Article 28 of the Convention, the term "companies enjoying a special fiscal treatment by virtue of the laws or the administrative practice of either one of the Contracting States" means:
 
-(a) in the case of Luxembourg holding companies within the meaning of the 20 [S.L.123.37 WITH THE GRAND DUCHY OF LUXEMBOURG
-
-Act (lot) of 31 July, 1929 and the Decree (arrete grand-ducal) of 17 December, 1938;
+(a) in the case of Luxembourg holding companies within the meaning of the Act (lot) of 31 July, 1929 and the Decree (arrete grand-ducal) of 17 December, 1938;
 
 (b) in the case of Malta companies which are subject to a special tax regime under the Malta Financial Services Centre Act, except for companies which opt in terms of article 41 of the said Act to be subject to the normal provisions of the Income Tax Act.
 
@@ -713,9 +671,7 @@ Article 26 (EXCHANGE OF INFORMATION) of the Convention shall be deleted and repl
 
 \1. The competent authorities of the Contracting States shall exchange such information as is foreseeably relevant for carrying out the provisions of this Convention or to the administration or enforcement of the domestic laws concerning taxes of every kind and description imposed on behalf of the Contracting States, or of their political subdivisions or local authorities, insofar as the taxation thereunder is not contrary to the Convention. The exchange of information is not restricted by Articles 1 and 2.
 
-\2. Any information received under paragraph 1 by a Contracting State shall be WITH THE GRAND DUCHY OF LUXEMBOURG [S.L.123.37 21
-
-treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to the taxes referred to in paragraph 1, or the oversight of the above. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
+\2. Any information received under paragraph 1 by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to the taxes referred to in paragraph 1, or the oversight of the above. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
 
 \3. In no case shall the provisions of paragraphs 1 and 2 be construed so as to impose on a Contracting State the obligation:
 
@@ -745,8 +701,6 @@ For the Government of For the Government of
 
 **Malta Grand Duchy of Luxembourg**
 
-22 [S.L.123.37 WITH THE GRAND DUCHY OF LUXEMBOURG
-
 Brussels, the 30th November 2011
 
 His Excellency Mr Tonio Fenech Minister of Finance of Malta Excellency,
@@ -771,9 +725,7 @@ f) a statement that the applicant State has pursued all means available in its o
 
 If the foregoing understandings meet with the approval of the Government of Malta, I have the further honour to propose that this Note and your affirmative Note in reply shall constitute an agreement between our Governments which shall become an integral part of the Convention on the date of entry into force of the Protocol. Accept, Your Excellency, the expression of my highest consideration.
 
-Luc Frieden WITH THE GRAND DUCHY OF LUXEMBOURG [S.L.123.37 23
-
-Brussels, 30 November, 2011 His Excellency Mr. Luc Frieden Minister of Finance of the Grand Duchy of Luxembourg Excellency,
+Luc Frieden Brussels, 30 November, 2011 His Excellency Mr. Luc Frieden Minister of Finance of the Grand Duchy of Luxembourg Excellency,
 
 I have the honour to acknowledge the receipt of Your Excellency’s Note of today’s date which reads as follows:
 

@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Selection of Applicants for Admission to the Master of Dental Surgery - M.D.S. - Degree Course Regulations (S.L. 327.486)
 
-TO THE MASTER OF DENTAL SURGERY -
-
-*1*
-
-M.D.S. - DEGREE COURSE [S.L.327.486
-
 **SUBSIDIARY LEGISLATION 327.486**
 
 SELECTION OF APPLICANTS FOR ADMISSION TO THE MASTER OF DENTAL SURGERY - M.D.S. -
@@ -66,12 +60,6 @@ In order to be admitted into the course applicants must satisfy the requirements
 
 (3) If there are more eligible applicants of holders of the degree of Bachelor of Science (Honours) in Dental Hygiene or Dental Technology than there are places available, applicants from this group shall be selected as indicated in regulation 7.
 
-TO THE MASTER OF DENTAL SURGERY -
-
-*2*
-
-[S.L.327.486 M.D.S. - DEGREE COURSE
-
 ## 6. Criteria for selection.
 
 *Amended by: L.N. 307 of 2014; L.N. 251 of 2015; L.N. 426 of 2018; L.N. 290 of 2021; L.N. 328 of 2022. Renumbered by: L.N. 328 of 2022.*
@@ -96,11 +84,7 @@ TO THE MASTER OF DENTAL SURGERY -
 
 2nd Category: those with 2 ‘A’s in the primary subjects and a ‘B’ in the secondary subject obtained in one session
 
-3rd Category: those with 2 ‘A’s in the primary subjects and a ‘C’ in the secondary TO THE MASTER OF DENTAL SURGERY -
-
-*3*
-
-M.D.S. - DEGREE COURSE [S.L.327.486 subject obtained in one session
+3rd Category: those with 2 ‘A’s in the primary subjects and a ‘C’ in the secondary subject obtained in one session
 
 and
 
@@ -130,12 +114,6 @@ those with 2 ‘B’s in the primary subjects and an ‘A’ in the secondary su
 
 13th Category: those with 1 ‘B’ and 1 ‘C’ in the primary subjects and a ‘C’ in the secondary subject obtained in one session
 
-TO THE MASTER OF DENTAL SURGERY -
-
-*4*
-
-[S.L.327.486 M.D.S. - DEGREE COURSE
-
 14th Category: those with 2 ‘C’s in the primary subjects and an ‘A’ in the secondary subject obtained in one session
 
 15th Category: those with 2 ‘C’s in the primary subjects and a ‘B’ in the secondary subject obtained in one session
@@ -154,11 +132,7 @@ TO THE MASTER OF DENTAL SURGERY -
 
 (b) If there are less eligible applicants from the Foundation Studies Programme by the end of the June examination session, other eligible applicants from non-EU/EEA countries shall be considered and selection shall be based on their academic ranking and on an interview (including a manual dexterity test) which shall be held in July or later.
 
-(c) Applicants successful in terms of sub-paragraphs (a) and (b) of this regulation shall be classified in order of merit so that the vacant places can be filled. Successful TO THE MASTER OF DENTAL SURGERY -
-
-*5*
-
-M.D.S. - DEGREE COURSE [S.L.327.486 applicants shall be expected to comply with the Occupational Health Protocol.
+(c) Applicants successful in terms of sub-paragraphs (a) and (b) of this regulation shall be classified in order of merit so that the vacant places can be filled. Successful applicants shall be expected to comply with the Occupational Health Protocol.
 
 ## 7.
 

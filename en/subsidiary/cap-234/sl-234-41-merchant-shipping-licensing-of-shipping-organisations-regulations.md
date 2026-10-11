@@ -63,11 +63,7 @@ An application required in terms of these regulations shall be signed by an auth
 
 ## 5. Shipping organisation deemed to be issued with a licence.
 
-A shipping organisation which qualifies as a shipping organisation in terms of article 84Z(1)(a) of the Act, or in terms of paragraphs (a) and (d) of that subarticle, and qualified to own a Maltese ship that, on the 1st May, 2004, was, or, on or after that date became or becomes, a registered owner or a registered bareboat charterer shall be deemed to have been issued with a licence as a shipping organisation authorising it to carry on the activities set out in article 84Z(1)(a) of the Act or in paragraphs (a) and (d) of that subarticle, as the case may be, valid as from the 1st May, 2004 or from the date that the organisation became or becomes a registered owner or a registered bareboat charterer, whichever is the later date, until such time, if such licence has not [S.L.234.41 (LICENSING OF SHIPPING ORGANISATIONS)
-
-been cancelled in terms of regulation 9, that the organisation remains uninterruptedly a registered owner or a registered bareboat charterer:
-
-*2*
+A shipping organisation which qualifies as a shipping organisation in terms of article 84Z(1)(a) of the Act, or in terms of paragraphs (a) and (d) of that subarticle, and qualified to own a Maltese ship that, on the 1st May, 2004, was, or, on or after that date became or becomes, a registered owner or a registered bareboat charterer shall be deemed to have been issued with a licence as a shipping organisation authorising it to carry on the activities set out in article 84Z(1)(a) of the Act or in paragraphs (a) and (d) of that subarticle, as the case may be, valid as from the 1st May, 2004 or from the date that the organisation became or becomes a registered owner or a registered bareboat charterer, whichever is the later date, until such time, if such licence has not been cancelled in terms of regulation 9, that the organisation remains uninterruptedly a registered owner or a registered bareboat charterer:
 
 Provided that if the principal objects of a shipping organisation authorised in terms of this regulation to carry on only the activities set out in article 84Z(1)(a) of the Act are amended as to include the activities set out in paragraph (d) of that subarticle, such organisation shall be deemed to be authorised to carry on the activities set out in such paragraph (d) from the date that it is certified that the amendment has come into effect:
 
@@ -115,11 +111,7 @@ The non-issue, expiry, non renewal or cancellation of a licence issued in terms 
 
 (1) The Registrar-General shall maintain a Register of Licences recording the status of all licences issued in terms of regulation 6, as well as all decisions taken in terms of these regulations in respect of all licences.
 
-(2) The Register of Licences shall be available for public inspection on payment of such fee as may be prescribed and on [S.L.234.41 (LICENSING OF SHIPPING ORGANISATIONS)
-
-application to the Registrar-General at all reasonable time during the hours of his official attendance.
-
-*4*
+(2) The Register of Licences shall be available for public inspection on payment of such fee as may be prescribed and on application to the Registrar-General at all reasonable time during the hours of his official attendance.
 
 ## 13. Savings.
 

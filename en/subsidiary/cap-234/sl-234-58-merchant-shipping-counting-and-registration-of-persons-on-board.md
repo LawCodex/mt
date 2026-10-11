@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Merchant Shipping (Counting and Registration of Persons on Board Passenger Ships) Regulations (S.L. 234.58)
 
-REGISTRATION OF PERSONS ON BOARD PASSENGER
-
-*1*
-
-SHIPS) [S.L. 234.58
-
 **SUBSIDIARY LEGISLATION 234.58**
 
 **MERCHANT SHIPPING (COUNTING AND**
@@ -55,11 +49,7 @@ In these regulations, unless the context otherwise requires:
 
 "Directive 2010/65/EU" means Directive 2010/65/EU of the European Parliament of the Council of 20 October 2010 on reporting formalities for ships arriving in and/or departing from ports of the Member States and repealing Directive 2002/6/EC, in its up-to-date version;
 
-"EU Member State" means a Member State of the European Union (including, for the avoidance of doubt, Malta) REGISTRATION OF PERSONS ON BOARD PASSENGER [S.L. 234.58 SHIPS)
-
-or of the European Economic Area;
-
-*2*
+"EU Member State" means a Member State of the European Union (including, for the avoidance of doubt, Malta) or of the European Economic Area;
 
 "Maltese passenger ship" means a passenger ship which is a Maltese ship registered in terms of Article 3(1) of the Act;
 
@@ -93,12 +83,6 @@ Provided that, by derogation from the aforementioned paragraph, such information
 
 (a) the family names of the persons on board, their forenames, their gender, their nationality, their dates of birth;
 
-REGISTRATION OF PERSONS ON BOARD PASSENGER
-
-*3*
-
-SHIPS) [S.L. 234.58
-
 (b) when volunteered by a passenger, information concerning special care or assistance that might be needed in an emergency;
 
 (c) when volunteered by the passenger, a contact number in case of an emergency.
@@ -121,11 +105,7 @@ Before a Maltese passenger ship departs form a port located in an EU Member Stat
 
 (1) Each company assuming responsibility for operating a Maltese passenger ship shall, where required under regulations 4 and 5 of these regulations, appoint a passenger registrar responsible for reporting the information referred to in those provisions in the single window established pursuant to Article 5 of Directive 2010/65/EU or to the Registrar-General by means of the Automatic Identification System.
 
-(2) Personal data collected in accordance with regulation 5 of these regulations shall be kept by the company no longer than is necessary for the purposes of these regulations, and in any event only until the moment the ship's voyage in question has been safely completed and the data has been reported in the single window REGISTRATION OF PERSONS ON BOARD PASSENGER [S.L. 234.58 SHIPS)
-
-established pursuant to Article 5 of Directive 2010/65/EU. Without prejudice to other specific legal obligations, including for statistical purposes, once the information is no longer needed for this purpose, it shall be erased automatically and without undue delay.
-
-*4*
+(2) Personal data collected in accordance with regulation 5 of these regulations shall be kept by the company no longer than is necessary for the purposes of these regulations, and in any event only until the moment the ship's voyage in question has been safely completed and the data has been reported in the single window established pursuant to Article 5 of Directive 2010/65/EU. Without prejudice to other specific legal obligations, including for statistical purposes, once the information is no longer needed for this purpose, it shall be erased automatically and without undue delay.
 
 (3) Each company shall ensure that information concerning passengers who have declared a need for special care or assistance in emergency situations is properly recorded and communicated to the master before the passenger ship departs.
 

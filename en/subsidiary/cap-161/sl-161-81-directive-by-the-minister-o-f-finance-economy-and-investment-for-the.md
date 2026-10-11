@@ -15,15 +15,7 @@ retrieved: 2026-10-12
 
 # Directive by the Minister o f Finance, Economy and Investment for the issue of €100,000,000 (S.L. 161.81)
 
-FOR THE ISSUE OF €100,000,000 (I) 3.6% MALTA GOVERNMENT STOCK 2013
-
-(FOURTH ISSUE); OR (II) 5.2% MALTA GOVERNMENT STOCK 2020 (FIRST ISSUE);
-
-OR OF (III) ANY COMBINATION OF THE ABOVE TWO STOCKS IN THE AGGRE-
-
-*1*
-
-GATE OF THE ABOVE TWO STOCKS [S.L.161.81 SUBSIDIARY LEGISLATION 161.81
+**SUBSIDIARY LEGISLATION 161.81**
 
 DIRECTIVE BY THE MINISTER OF FINANCE,
 
@@ -74,16 +66,6 @@ All persons and, or entities are eligible to apply for these Stocks. Allotment w
 ## 5. Sum of money to be raised.
 
 The sum of money to be raised by either Stock, or of any combination of the two Stocks shall in the aggregate be Euro 100,000,000. The Accountant General reserves the right to increase the sum of money to be raised by a maximum of Euro 20,000,000.
-
-**FOR THE ISSUE OF €100,000,000 (I) 3.6% MALTA GOVERNMENT STOCK 2013**
-
-(FOURTH ISSUE); OR (II) 5.2% MALTA GOVERNMENT STOCK 2020 (FIRST ISSUE);
-
-OR OF (III) ANY COMBINATION OF THE ABOVE TWO STOCKS IN THE AGGRE-
-
-**GATE OF THE ABOVE TWO STOCKS**
-
-*2 [S.L.161.81*
 
 *\6.*
 

@@ -1,6 +1,6 @@
 ---
 title: "Malta Membership of the International Monetary Fund (2020 Borrowing Agreement) Order"
-identifier: "S.L. 209.3"
+identifier: "S.L. 209.03"
 eli: "https://legislation.mt/eli/sl/209.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,17 +13,13 @@ version: "https://legislation.mt/eli/sl/209.3/20210211/eng"
 retrieved: 2026-10-12
 ---
 
-# Malta Membership of the International Monetary Fund (2020 Borrowing Agreement) Order (S.L. 209.3)
+# Malta Membership of the International Monetary Fund (2020 Borrowing Agreement) Order (S.L. 209.03)
 
-*1*
+SUBSIDIARY LEGISLATION 209.03
 
-MONETARY FUND (2020 BORROWING AGREEMENT) [S.L. 209.03 SUBSIDIARY LEGISLATION 209.03
+MALTA MEMBERSHIP OF THE INTERNATIONAL MONETARY FUND (2020 BORROWING
 
-MALTA MEMBERSHIP OF THE INTERNATIONAL
-
-**MONETARY FUND (2020 BORROWING**
-
-**AGREEMENT) ORDER**
+AGREEMENT) ORDER
 
 14th January, 2021
 
@@ -49,8 +45,4 @@ It is hereby declared:
 
 (e) that it is expedient that those arrangements under the 2020 Borrowing Agreement should take effect upon the entry into force of the 2020 Borrowing Agreement and in accordance with the relevant provisions of the said 2020 Borrowing Agreement;
 
-(f) that the 2020 Borrowing Agreement shall enter [S.L. 209.03 MONETARY FUND (2020 BORROWING AGREEMENT)
-
-into force immediately upon the signing thereof.
-
-*2*
+(f) that the 2020 Borrowing Agreement shall enter into force immediately upon the signing thereof.

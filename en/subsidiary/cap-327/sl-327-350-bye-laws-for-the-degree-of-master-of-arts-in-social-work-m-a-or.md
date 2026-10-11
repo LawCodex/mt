@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Social Work - M.A. - or Master of Arts in Social Policy - M.A. - under the auspices of the Faculty for Social Wellbeing (S.L. 327.350)
 
-MASTER OF ARTS IN SOCIAL POLICY - M.A. - UNDER THE
-
-*1*
-
-AUSPICES OF THE FACULTY FOR SOCIAL WELLBEING [S.L.327.350
-
 **SUBSIDIARY LEGISLATION 327.350**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER**
@@ -68,11 +62,9 @@ These bye-laws shall be applicable for courses commencing in October 2020 or lat
 
 (a) a Bachelor degree from this University or any higher education institution recognised by Senate, in Social Policy, Psychology, Youth and Community Studies or Social Wellbeing Studies, obtained with at least Second Class Honours and with a minimum average mark of 65%; or
 
-(b) a Bachelor degree from this University or another higher education institution recognised by Senate, obtained with at least Category II and with a minimum overall average mark of 65% in any two of the MASTER OF ARTS IN SOCIAL POLICY - M.A. - UNDER THE [S.L.327.350 AUSPICES OF THE FACULTY FOR SOCIAL WELLBEING following areas of study: Anthropology, Psychology, Sociology or Social Studies; or
+(b) a Bachelor degree from this University or another higher education institution recognised by Senate, obtained with at least Category II and with a minimum overall average mark of 65% in any two of the following areas of study: Anthropology, Psychology, Sociology or Social Studies; or
 
 (c) a Bachelor degree from this University or another higher education institution recognised by Senate, in Theology with Psychology or Social Studies or Sociology, obtained with at least Category II and with a minimum overall average mark of 65%; or
-
-*2*
 
 (d) a Bachelor degree from this University or another higher education institution recognised by Senate, obtained with at least Second Class Honours and with a minimum average mark of 65% in any area of study.
 
@@ -114,13 +106,11 @@ The programme of study shall comprise study-units to which a total of 90 credits
 
 Students who obtain a total of 30 credits for taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the taught study-units, shall be eligible for the award of the Postgraduate Certificate in the respective area of study.
 
-MASTER OF ARTS IN SOCIAL POLICY - M.A. - UNDER THE
+## 10. Postgraduate Diploma. Re-numbered by: L.N. 413 of 2010; L.N. 292 of 2017.
 
-*3*
+*Amended by: L.N. 292 of 2017.*
 
-AUSPICES OF THE FACULTY FOR SOCIAL WELLBEING [S.L.327.350 10. (1) Students who successfully complete the 60 credits assigned to taught study-units with an average mark of at least 60% shall be allowed to proceed to the dissertation study-unit.
-
-*Postgraduate Diploma. Re-numbered by: L.N. 413 of 2010; L.N. 292 of 2017. Amended by: L.N. 292 of 2017.*
+(1) Students who successfully complete the 60 credits assigned to taught study-units with an average mark of at least 60% shall be allowed to proceed to the dissertation study-unit.
 
 (2) Students who obtain the 60 credits assigned to the taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the Postgraduate Diploma in the respective area of study.
 
@@ -154,11 +144,9 @@ The programme of study shall be published after approval by Senate, normally not
 
 (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
-(i) the extension of the study period referred to in MASTER OF ARTS IN SOCIAL POLICY - M.A. - UNDER THE [S.L.327.350 AUSPICES OF THE FACULTY FOR SOCIAL WELLBEING paragraph (a) shall be in accordance with the provisions of the Principal Regulations; and
+(i) the extension of the study period referred to in paragraph (a) shall be in accordance with the provisions of the Principal Regulations; and
 
 (ii) the Board may not terminate studies prematurely according to paragraph (b) until it has first given the student a chance to be heard.
-
-*4*
 
 ## 15. Classification of the Awards. Re-numbered by: L.N. 413 of 2010; L.N. 292 of 2017.
 

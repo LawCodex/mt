@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Prime Minister and Minister of Finance for the Issue of €116,468,669.93 (S.L. 161.118)
 
-STOCK 2012 OR (II) 5% MALTA GOVERNMENT STOCK 2021
-
-*1*
-
-OR (III) ANY COMBINATION OF THE ABOVE TWO STOCKS [S.L.161.118
-
 **SUBSIDIARY LEGISLATION 161.118**
 
 **DIRECTIVE BY THE PRIME MINISTER AND**
@@ -70,12 +64,6 @@ All persons and, or entities are eligible to apply for these Stocks. Allotment w
 *Amended by: L.N. 427 of 2007.*
 
 The sum of money to be raised by either Stock, or of any combination of the two Stocks shall not in the aggregate exceed €116,468,669.93.
-
-**STOCK 2012 OR (II) 5% MALTA GOVERNMENT STOCK 2021**
-
-*2*
-
-[S.L.161.118 OR (III) ANY COMBINATION OF THE ABOVE TWO STOCKS
 
 *\6.*
 

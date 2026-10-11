@@ -1,6 +1,6 @@
 ---
 title: "Labelling of Tobacco Products Regulations"
-identifier: "S.L. 315.1"
+identifier: "S.L. 315.01"
 eli: "https://legislation.mt/eli/sl/315.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/315.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Labelling of Tobacco Products Regulations (S.L. 315.1)
+# Labelling of Tobacco Products Regulations (S.L. 315.01)
 
 SUBSIDIARY LEGISLATION 315.01
 

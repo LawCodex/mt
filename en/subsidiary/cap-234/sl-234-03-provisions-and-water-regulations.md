@@ -1,6 +1,6 @@
 ---
 title: "Provisions and Water Regulations"
-identifier: "S.L. 234.3"
+identifier: "S.L. 234.03"
 eli: "https://legislation.mt/eli/sl/234.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/234.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Provisions and Water Regulations (S.L. 234.3)
+# Provisions and Water Regulations (S.L. 234.03)
 
 SUBSIDIARY LEGISLATION 234.03
 

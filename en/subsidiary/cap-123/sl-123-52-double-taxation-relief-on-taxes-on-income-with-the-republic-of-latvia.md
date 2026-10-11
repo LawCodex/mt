@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Republic of Latvia Order (S.L. 123.52)
 
-*1*
-
-WITH THE REPUBLIC OF LATVIA [S.L.123.52
-
 **SUBSIDIARY LEGISLATION 123.52**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -48,8 +44,6 @@ It is hereby declared:
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Convention has entered into force on the 24th October, 2000.
-
-2 [S.L.123.52 WITH THE REPUBLIC OF LATVIA
 
 ## SCHEDULE — CONVENTION BETWEEN THE GOVERNMENT OF MALTA AND THE GOVERNMENT OF THE REPUBLIC OF LATVIA FOR THE AVOIDANCE OF
 
@@ -107,9 +101,7 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 (a) the term "Latvia" means the Republic of Latvia and, when used in the geographical sense, means the territory of the Republic of Latvia and any other area adjacent to the territorial waters of the Republic of Latvia within which under the laws of Latvia and in accordance with international law, the rights of Latvia may be exercised with respect to the sea bed and its sub-soil and their natural resources;
 
-(b) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial WITH THE REPUBLIC OF LATVIA [S.L.123.52 3
-
-waters thereof, as well as any area of the seabed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein the Republic of Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
+(b) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the seabed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein the Republic of Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
 
 (c) the terms "a Contracting State" and "the other Contracting State" mean Latvia or Malta, as the context requires;
 
@@ -144,8 +136,6 @@ waters thereof, as well as any area of the seabed, its sub-soil and the superjac
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
 (a) he shall be deemed to be a resident only of the State in which he has a permanent home available to him; if he has a permanent home available to him in both States, he shall be deemed to be a resident only of the State with which his personal and economic relations are closer (centre of vital interests);
-
-4 [S.L.123.52 WITH THE REPUBLIC OF LATVIA
 
 (b) if the State in which he has his centre of vital interests cannot be determined, or if he has not a permanent home available to him in either State, he shall be deemed to be a resident only of the State in which he has an habitual abode;
 
@@ -191,9 +181,7 @@ Notwithstanding the preceding provisions of this Article, the term "permanent es
 
 (c) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of processing by another enterprise;
 
-(d) the maintenance of a fixed place of business solely for the purpose of WITH THE REPUBLIC OF LATVIA [S.L.123.52 5
-
-purchasing goods or merchandise, or of collecting information, for the enterprise;
+(d) the maintenance of a fixed place of business solely for the purpose of purchasing goods or merchandise, or of collecting information, for the enterprise;
 
 (e) the maintenance of a fixed place of business solely for the purpose of carrying on, for the enterprise, any other activity of a preparatory or auxiliary character;
 
@@ -221,9 +209,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
-\4. Where the ownership of shares or other corporate rights in a company entitles the owner of such shares or corporate rights to the enjoyment of immovable property held by the company, the income from the direct use, letting, or use in any 6 [S.L.123.52 WITH THE REPUBLIC OF LATVIA
-
-other form of such right to enjoyment may be taxed in the Contracting State in which the immovable property is situated.
+\4. Where the ownership of shares or other corporate rights in a company entitles the owner of such shares or corporate rights to the enjoyment of immovable property held by the company, the income from the direct use, letting, or use in any other form of such right to enjoyment may be taxed in the Contracting State in which the immovable property is situated.
 
 \5. The provisions of paragraphs 1, 3 and 4 shall also apply to the income from immovable property of an enterprise and to income from immovable property used for the performance of independent personal services.
 
@@ -254,8 +240,6 @@ Where profits include items of income which are dealt with separately in other A
 \1. Profits of an enterprise of a Contracting State from the operation of ships or aircraft in international traffic shall be taxable only in that State.
 
 \2. The provisions of paragraph 1 shall also apply to profits from the participation in a pool, a joint business or an international operating agency.
-
-WITH THE REPUBLIC OF LATVIA [S.L.123.52 7
 
 **Article 9**
 
@@ -289,8 +273,6 @@ and in either case conditions are made or imposed between the two enterprises in
 
 This paragraph shall not affect the taxation of the company in respect of the profits out of which the dividends are paid.
 
-8 [S.L.123.52 WITH THE REPUBLIC OF LATVIA
-
 \3. The term "dividends" as used in this Article means income from shares or other rights, not being debt-claims, participating in profits, as well as income from other rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
 
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
@@ -309,9 +291,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \4. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage, and whether or not carrying a right to participate in the debtor’s profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. The term “interest” shall not include any income which is treated as a dividend under the provisions of Article 10. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
-\5. The provisions of paragraphs 1, 2 and 3 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, WITH THE REPUBLIC OF LATVIA [S.L.123.52 9
-
-shall apply.
+\5. The provisions of paragraphs 1, 2 and 3 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \6. Interest shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment or fixed base, then such interest shall be deemed to arise iii the State in which the permanent establishment or fixed base is situated.
 
@@ -333,9 +313,7 @@ Where, by reason of a special relationship between the payer and the beneficial 
 
 \5. Royalties shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
-\6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the 10 [S.L.123.52 WITH THE REPUBLIC OF LATVIA
-
-beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
+\6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
 **Article 13**
 
@@ -361,9 +339,7 @@ beneficial owner in the absence of such relationship, the provisions of this Art
 
 **DEPENDENT PERSONAL SERVICES**
 
-\1. Subject to the provisions of Articles 16, 18 and 19, salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as WITH THE REPUBLIC OF LATVIA [S.L.123.52 11
-
-is derived therefrom may be taxed in that other State.
+\1. Subject to the provisions of Articles 16, 18 and 19, salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
 
 \2. Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in the other Contracting State shall be taxable only in the first-mentioned State if:
 
@@ -398,8 +374,6 @@ Directors’ fees and other similar remuneration derived by a resident of a Cont
 \1. Subject to the provisions of paragraph 2 of Article 19, pensions and other similar remuneration paid to a resident of a Contracting State in consideration of past employment shall be taxable only in that State.
 
 \2. Notwithstanding the provisions of paragraph 1, pensions paid and other payments made under the social security legislation of a Contracting State shall be taxable only in that State.
-
-12 [S.L.123.52 WITH THE REPUBLIC OF LATVIA
 
 **Article 19**
 
@@ -437,9 +411,7 @@ A student, an apprentice or a trainee who is present in a Contracting State sole
 
 \4. The provisions of paragraph 3 shall not apply where the offshore activities are carried on for a period or periods not exceeding in the aggregate 30 days in any twelve month period. For the purposes of this paragraph:
 
-(a) offshore activities carried on by a person who is associated with another WITH THE REPUBLIC OF LATVIA [S.L.123.52 13
-
-person shall be deemed to be carried on by the other person if the activities in question are substantially the same as those carried on by the first-mentioned person, except when those activities are carried on at the same time as its own activities;
+(a) offshore activities carried on by a person who is associated with another person shall be deemed to be carried on by the other person if the activities in question are substantially the same as those carried on by the first-mentioned person, except when those activities are carried on at the same time as its own activities;
 
 (b) a person shall be deemed to be associated with another person if one is controlled directly or indirectly by the other, or both are controlled directly or indirectly by a third person or third persons.
 
@@ -469,9 +441,7 @@ In this paragraph the term "exploration or exploitation rights" means rights to 
 
 \1. In the case of a resident of Latvia, double taxation shall be eliminated as follows:
 
-Where a resident of Latvia derives income which, in accordance with this Convention, may be taxed in Malta, unless a more favourable treatment is provided in its domestic law, Latvia shall allow as a deduction from the tax on the income of that resident an amount equal to the income tax paid thereon in Malta. Such 14 [S.L.123.52 WITH THE REPUBLIC OF LATVIA
-
-deduction shall not, however, exceed that part of the income tax in Latvia, as computed before the deduction is given, which is attributable to the income which may be taxed in Malta.
+Where a resident of Latvia derives income which, in accordance with this Convention, may be taxed in Malta, unless a more favourable treatment is provided in its domestic law, Latvia shall allow as a deduction from the tax on the income of that resident an amount equal to the income tax paid thereon in Malta. Such deduction shall not, however, exceed that part of the income tax in Latvia, as computed before the deduction is given, which is attributable to the income which may be taxed in Malta.
 
 \2. In the case of a resident of Malta, double taxation shall be eliminated as follows:
 
@@ -491,9 +461,7 @@ Subject to the provisions the Malta law regarding the allowance of a credit agai
 
 \4. Except where the provisions of paragraph 1 of Article 9, paragraph 7 of Article 11, or paragraph 6 of Article 12, apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
 
-\5. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other WITH THE REPUBLIC OF LATVIA [S.L.123.52 15
-
-Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
+\5. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
 
 **Article 25**
 
@@ -518,8 +486,6 @@ Contracting State, shall not be subjected in the first-mentioned State to any ta
 (a) to carry out administrative measures at variance with the laws and administrative practice of that or of the other Contracting State;
 
 (b) to supply information which is not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;
-
-16 [S.L.123.52 WITH THE REPUBLIC OF LATVIA
 
 (c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public policy (ordre public).
 
@@ -555,8 +521,6 @@ Nothing in this Convention shall affect the fiscal privileges of members of dipl
 
 (b) in Malta:
 
-WITH THE REPUBLIC OF LATVIA [S.L.123.52 17
-
 in respect of taxes on income derived during any calendar year or accounting period, as the case may be, beginning on or after the first day of January immediately following the date on which the Convention enters into force.
 
 **Article 30**
@@ -589,9 +553,7 @@ At the signing of the Convention between the Government of the Republic of Latvi
 
 \1. With reference to paragraph 3 of Article 4
 
-It is understood that under the domestic legislation in Latvia, a company may only be considered resident for tax purposes if it is incorporated in Latvia. Should such legislation be changed to provide for tax residence to be established also on the basis of the place of effective management of a company, then where a company is considered to be a resident of both Contracting States, it shall be deemed to be a resident only of the Contracting State in which its place of effective 18 [S.L.123.52 WITH THE REPUBLIC OF LATVIA
-
-management is situated. This provision shall be applicable from the date from which the said change in legislation shall have effect.
+It is understood that under the domestic legislation in Latvia, a company may only be considered resident for tax purposes if it is incorporated in Latvia. Should such legislation be changed to provide for tax residence to be established also on the basis of the place of effective management of a company, then where a company is considered to be a resident of both Contracting States, it shall be deemed to be a resident only of the Contracting State in which its place of effective management is situated. This provision shall be applicable from the date from which the said change in legislation shall have effect.
 
 \2. With reference to paragraph 1 of Article 7
 

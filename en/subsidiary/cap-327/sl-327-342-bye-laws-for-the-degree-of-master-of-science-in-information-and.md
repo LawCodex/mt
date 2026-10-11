@@ -16,13 +16,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science in Information and Communication Technology - M.Sc. ICT - under the auspices of the Faculty of Information and Communication Technology (S.L. 327.342)
 
-COMMUNICATION TECHNOLOGY - M.SC. ICT. - UNDER THE
-
-AUSPICES OF THE FACULTY OF INFORMATION AND
-
-*1*
-
-COMMUNICATION TECHNOLOGY [S.L.327.342 SUBSIDIARY LEGISLATION 327.342
+**SUBSIDIARY LEGISLATION 327.342**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
 
@@ -80,13 +74,7 @@ The course shall be offered in any area of study that falls within the academic 
 
 (b) the degree of Bachelor of Engineering (Honours).
 
-(2) Applicants for the course in any other area of study shall, COMMUNICATION TECHNOLOGY - M.SC. ICT. - UNDER THE AUSPICES OF THE FACULTY OF INFORMATION AND
-
-*2*
-
-[S.L.327.342 COMMUNICATION TECHNOLOGY
-
-subject to the conditions laid down in bye-law 5, be in possession of one of the following qualifications:
+(2) Applicants for the course in any other area of study shall, subject to the conditions laid down in bye-law 5, be in possession of one of the following qualifications:
 
 (a) a Bachelor degree with a strong ICT component obtained with at least Second Class Honours (Upper Division) and comprising 180 ECTS credits or more;
 
@@ -122,13 +110,7 @@ The programme of study shall comprise taught study-units to which a total of 60 
 
 ## 9. Postgraduate Diploma.
 
-Students who obtain the 60 credits for the taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the Postgraduate COMMUNICATION TECHNOLOGY - M.SC. ICT. - UNDER THE
-
-AUSPICES OF THE FACULTY OF INFORMATION AND
-
-*3*
-
-COMMUNICATION TECHNOLOGY [S.L.327.342 Diploma.
+Students who obtain the 60 credits for the taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the Postgraduate Diploma.
 
 ## 10.
 
@@ -172,13 +154,7 @@ The programme of study shall be published after approval by Senate, normally not
 
 (3) The Board of Studies shall periodically inform the Board, in writing, on the general performance of each student. Such advice may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
-(i) the extension of the study period referred to in (a) shall COMMUNICATION TECHNOLOGY - M.SC. ICT. - UNDER THE AUSPICES OF THE FACULTY OF INFORMATION AND
-
-*4*
-
-[S.L.327.342 COMMUNICATION TECHNOLOGY
-
-be in accordance with the provisions of the Principal Regulations; and
+(i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 
 (ii) the Board may not terminate studies prematurely according to (b) until it has first given the student a chance to be heard.
 

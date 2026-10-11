@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister of Finance, the Economy and Investment for the Conversion of Euro 200,000,000 out of the Euro 428,885,7035. 70% Malta Government Stock 2012 (III) into Euro 200,000,000 4.30% Malta Government Stock 2016 (IV) (S.L. 161.89)
 
-428,885,703 5.70% MALTA GOVERNMENT STOCK 2102 (III) INTO
-
-*1*
-
-EURO 200,000,000 4.30 MALTA GOVERNMENT STOCK 2016 (IV) [S.L.161.89
-
 **SUBSIDIARY LEGISLATION 161.89**
 
 DIRECTIVE BY THE MINISTER OF FINANCE, THE ECONOMY AND INVESTMENT FOR THE
@@ -67,12 +61,8 @@ The amount to be created and issued under this Stock shall be Euro 200,000,000.
 
 (1) Interest at the rate of 2.15% for every Euro 100 in respect of the 4.30% Malta Government Stock 2016 (IV) shall be payable half-yearly in arrears on the 16th of February and the 16th of August in every year during the duration of the Stock.
 
-(2) The first interest payment of Euro 2.15 for every Euro 100 stock covering the period from the 16th August, 2011 to 15th 428,885,703 5.70% MALTA GOVERNMENT STOCK 2102 (III) INTO [S.L.161.89 EURO 200,000,000 4.30 MALTA GOVERNMENT STOCK 2016 (IV)
+(2) The first interest payment of Euro 2.15 for every Euro 100 stock covering the period from the 16th August, 2011 to 15th February, 2012 (both dates inclusive), shall be made on the 16th February, 2012.
 
-February, 2012 (both dates inclusive), shall be made on the 16th February, 2012.
+Redemption of 8. The 4.30% Malta Government Stock 2016 (IV) shall be Stock.
 
-*2*
-
-## 8. Redemption of Stock.
-
-The 4.30% Malta Government Stock 2016 (IV) shall be redeemed at par on 16th August, 2016.
+redeemed at par on 16th August, 2016.

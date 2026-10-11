@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Selection of Applicants for Admission to the Bachelor of Science (Honours) (Podiatry) Degree Course under the auspices of the Faculty of Health Sciences (S.L. 327.467)
 
-LOR OF SCIENCE (HONOURS) (PODIATRY) DEGREE COURSE
-
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF HEALTH SCIENCES [S.L.327.467
-
 **SUBSIDIARY LEGISLATION 327.467**
 
 BYE-LAWS FOR THE SELECTION OF APPLICANTS FOR ADMISSION TO THE BACHELOR OF
@@ -71,10 +65,6 @@ Grade B at Advanced Level equated to Grade A at Intermediate Level
 
 Grade A at Advanced Level equated to Grade A at Intermediate Level
 
-*2*
-
-LOR OF SCIENCE (HONOURS) (PODIATRY) DEGREE COURSE [S.L.327.467 UNDER THE AUSPICES OF THE FACULTY OF HEALTH SCIENCES
-
 (c) Applicants who satisfy the general and the special course requirements as laid down in the bye-laws for the course shall be selected from amongst all eligible applicants according to the following categories, listed in order of preference:
 
 1st Category: those with an ‘A’ in the primary subject and an ‘A’ in the secondary subject
@@ -111,13 +101,7 @@ those with a ‘C’ in the primary subject and a ‘B’ in the secondary subje
 
 (3) When applicants present more than one pass in the primary subject and/or in the secondary subject, the best grade shall be taken into consideration.
 
-(4) For the purpose of selection, applicants who fully satisfy the general and the special course requirements by the 31 August preceding the commencement of the course shall be considered LOR OF SCIENCE (HONOURS) (PODIATRY) DEGREE COURSE
-
-*3*
-
-UNDER THE AUSPICES OF THE FACULTY OF HEALTH SCIENCES [S.L.327.467
-
-first.
+(4) For the purpose of selection, applicants who fully satisfy the general and the special course requirements by the 31 August preceding the commencement of the course shall be considered first.
 
 (5) If the number of eligible applicants falling in the last category of applicants eligible to be admitted in terms of the provisions of paragraph (1) of this bye-law is such that the total number of applicants to be admitted exceeds the number of places established by Senate, consideration shall first be given to:
 

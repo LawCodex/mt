@@ -1,6 +1,6 @@
 ---
 title: "Fees of the Rent Regulation Board Regulations"
-identifier: "S.L. 69.2"
+identifier: "S.L. 69.02"
 eli: "https://legislation.mt/eli/sl/69.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/69.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Fees of the Rent Regulation Board Regulations (S.L. 69.2)
+# Fees of the Rent Regulation Board Regulations (S.L. 69.02)
 
 **SUBSIDIARY LEGISLATION 69.02**
 

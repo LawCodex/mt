@@ -16,11 +16,7 @@ retrieved: 2026-10-12
 
 # Members of the Board of Examiners (Fixing of Honorarium) Regulations (S.L. 55.11)
 
-MEMBERS OF THE BOARD OF EXAMINERS
-
-*1*
-
-(FIXING OF HONORARIUM) [S.L. 55.11 SUBSIDIARY LEGISLATION 55.11
+**SUBSIDIARY LEGISLATION 55.11**
 
 **MEMBERS OF THE BOARD OF EXAMINERS**
 

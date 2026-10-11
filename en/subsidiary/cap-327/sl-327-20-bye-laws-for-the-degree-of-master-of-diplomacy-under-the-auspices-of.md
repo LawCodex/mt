@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Diplomacy under the auspices of the Mediterranean Academy of Diplomatic Studies (S.L. 327.20)
 
-UNDER THE AUSPICES OF THE MEDITERRANEAN
-
-*1*
-
-ACADEMY OF DIPLOMATIC STUDIES [S.L.327.20
-
 **SUBSIDIARY LEGISLATION 327.20**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -81,11 +75,7 @@ The programme of study shall be published after approval by Senate, normally not
 
 (1) The assessment of each taught study-unit shall be completed by the end of the semester in which the teaching of the study unit is held.
 
-(2) Students who in any academic year fail in the assessment of not more than 20 credits for taught study-units, if following the UNDER THE AUSPICES OF THE MEDITERRANEAN [ S.L.327.20 ACADEMY OF DIPLOMATIC STUDIES
-
-course full-time, or not more than 10 credits if following the course part-time, shall be given the opportunity to re-sit the failed assessments during the September supplementary examination session.
-
-*2*
+(2) Students who in any academic year fail in the assessment of not more than 20 credits for taught study-units, if following the course full-time, or not more than 10 credits if following the course part-time, shall be given the opportunity to re-sit the failed assessments during the September supplementary examination session.
 
 (3) Students who fail in more than the number of credits permitted under paragraph (2) or students who after re-assessment fail to obtain the credits for any study-unit, shall be deemed to have failed the course.
 

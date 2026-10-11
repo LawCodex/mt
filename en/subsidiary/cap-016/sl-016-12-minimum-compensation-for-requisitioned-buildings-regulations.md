@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Minimum Compensation for Requisitioned Buildings Regulations (S.L. 16.12)
 
-MINIMUM COMPENSATION
-
-*1*
-
-FOR REQUISITIONED BUILDINGS [S.L.16.12
-
 SUBSIDIARY LEGISLATION 16.12
 
 MINIMUM COMPENSATION FOR

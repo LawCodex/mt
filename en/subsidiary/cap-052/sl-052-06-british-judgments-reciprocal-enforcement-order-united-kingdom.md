@@ -1,6 +1,6 @@
 ---
 title: "British Judgments Reciprocal Enforcement Order - United Kingdom"
-identifier: "S.L. 52.6"
+identifier: "S.L. 52.06"
 eli: "https://legislation.mt/eli/sl/52.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/52.6/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# British Judgments Reciprocal Enforcement Order - United Kingdom (S.L. 52.6)
-
-*1*
-
-UNITED KINGDOM [ S.L.52.06
+# British Judgments Reciprocal Enforcement Order - United Kingdom (S.L. 52.06)
 
 **SUBSIDIARY LEGISLATION 52.06**
 
@@ -55,13 +51,9 @@ Present,
 
 **The King’s Most Excellent Majesty in Council**
 
-WHEREAS by Part II of the Administration of Justice Act 1920, provision has been made for the reciprocal enforcement of [S.L.52.06 UNITED KINGDOM
+WHEREAS by Part II of the Administration of Justice Act 1920, provision has been made for the reciprocal enforcement of judgments in the United Kingdom and in other parts of His Majesty’s dominions;
 
 \*The Proclamation is reproduced in its original form. By virtue of the amendments, made to the parent law, by Act LVIII of 1974, the power to extend the applicability of the Act outside Malta is vested in the President of Malta.
-
-judgments in the United Kingdom and in other parts of His Majesty’s dominions;
-
-*2*
 
 AND WHEREAS by the said Act it is, amongst other things, provided that where His Majesty is satisfied that reciprocal provisions have been made by the Legislature of any part of His Majesty’s dominions outside the United Kingdom for the enforcement within that part of His dominions of judgments obtained in the High Court in England, the Court of Session in Scotland and the High Court in Ireland, His Majesty may by Order in Council declare that the said part of that Act shall extend to that part of His dominions and that on any such order being made the said part of that Act shall extend accordingly;
 

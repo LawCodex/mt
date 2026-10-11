@@ -1,6 +1,6 @@
 ---
 title: "Maintenance Orders Rules of Court"
-identifier: "S.L. 48.2"
+identifier: "S.L. 48.02"
 eli: "https://legislation.mt/eli/sl/48.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/48.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Maintenance Orders Rules of Court (S.L. 48.2)
+# Maintenance Orders Rules of Court (S.L. 48.02)
 
 **SUBSIDIARY LEGISLATION 48.02**
 

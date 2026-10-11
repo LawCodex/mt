@@ -1,6 +1,6 @@
 ---
 title: "Appointment of Authorised Dealer Order"
-identifier: "S.L. 233.2"
+identifier: "S.L. 233.02"
 eli: "https://legislation.mt/eli/sl/233.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/233.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Appointment of Authorised Dealer Order (S.L. 233.2)
+# Appointment of Authorised Dealer Order (S.L. 233.02)
 
 **SUBSIDIARY LEGISLATION 233.02**
 

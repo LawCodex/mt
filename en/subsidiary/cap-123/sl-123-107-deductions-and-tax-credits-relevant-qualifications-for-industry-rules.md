@@ -16,8 +16,6 @@ retrieved: 2026-10-12
 
 # Deductions and Tax Credits (Relevant Qualifications for Industry) Rules (S.L. 123.107)
 
-(RELEVANT QUALIFICATIONS FOR INDUSTRY) [S.L.123.107
-
 **SUBSIDIARY LEGISLATION 123.107**
 
 **DEDUCTIONS AND TAX CREDITS**
@@ -64,8 +62,6 @@ In these rules, unless the context otherwise requires -
 
 "study costs" means such fees paid by an individual to the university, institution or other entity recognised by the Corporation for the admission and attendance to the relevant course and for sitting for the examinations required to achieve the relevant qualification or as specified in the guidelines.
 
-[S.L.123.107 (RELEVANT QUALIFICATIONS FOR INDUSTRY)
-
 ## 3. Tax credits.
 
 *Amended by: L.N. 287 of 2021.*
@@ -90,9 +86,11 @@ The tax credit referred to in this rule shall not be due unless the student subm
 
 Provided that the Commissioner may require evidence confirming that such costs have been incurred and the authenticity of the certificate substantiating the claim for the tax credit.
 
-(RELEVANT QUALIFICATIONS FOR INDUSTRY) [S.L.123.107 5. The tax credit certificate referred to in rule 4(c) shall be issued by the Corporation in terms of guidelines to be published in the Corporation’s website following the application by a student, when the Corporation is satisfied that the application is a bona fide application that complies with the provisions of rule 3, and when, after it has obtained all such information and made such ascertainment as it has considered necessary, it considers it appropriate so to do, it may determine that the course in question is a relevant course and determine the extent to which, in its opinion, the expenditure referred to in the application constitutes qualifying study costs and is necessary and reasonable in the light of the purpose for which it is incurred, and the amount so determined shall constitute the maximum qualifying study costs:
+## 5. Tax credit certificate.
 
-*Tax credit certificate. Amended by: L.N. 207 of 2017; L.N. 283 of 2020; L.N. 287 of 2021; L.N. 266 of 2023; L.N. 323 of 2024; L.N. 79 of 2026.*
+*Amended by: L.N. 207 of 2017; L.N. 283 of 2020; L.N. 287 of 2021; L.N. 266 of 2023; L.N. 323 of 2024; L.N. 79 of 2026.*
+
+The tax credit certificate referred to in rule 4(c) shall be issued by the Corporation in terms of guidelines to be published in the Corporation’s website following the application by a student, when the Corporation is satisfied that the application is a bona fide application that complies with the provisions of rule 3, and when, after it has obtained all such information and made such ascertainment as it has considered necessary, it considers it appropriate so to do, it may determine that the course in question is a relevant course and determine the extent to which, in its opinion, the expenditure referred to in the application constitutes qualifying study costs and is necessary and reasonable in the light of the purpose for which it is incurred, and the amount so determined shall constitute the maximum qualifying study costs:
 
 Provided that the Corporation shall not issue the tax credit certificate in respect of a course of studies that commences after 31st December, 2025 or after such earlier date as the Corporation may specify by means of a notice in the Gazette:
 

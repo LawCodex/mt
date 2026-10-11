@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science in Conservation of Decorative Architectural Surfaces under the auspices of the Faculty for the Built Environment (S.L. 327.457)
 
-DECORATIVE ARCHITECTURAL SURFACES UNDER THE
-
-*1*
-
-AUSPICES OF THE FACULTY FOR THE BUILT ENVIRONMENT [S.L.327.457
-
 **SUBSIDIARY LEGISLATION 327.457**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER IN**
@@ -67,10 +61,6 @@ The course shall be open to applicants in possession of:
 
 (c) qualifications deemed by Senate, on the recommendation of the Board, to be comparable to the qualifications listed in paragraph (a) or (b) of this bye-law. The admission of applicants under this paragraph may be made conditional on the results of an assessment as the Board may deem appropriate.
 
-*2*
-
-DECORATIVE ARCHITECTURAL SURFACES UNDER THE [S.L.327.457 AUSPICES OF THE FACULTY FOR THE BUILT ENVIRONMENT
-
 ## 4. Preparatory programme.
 
 Applicants registering under paragraph (b) and, if necessary, (c) of bye-law 3 shall be required to successfully complete a preparatory programme comprising 60 ECTS credits, with an overall average mark of 55% or better, prior to their registration as regular students on the course.
@@ -103,13 +93,7 @@ The course shall extend over four semesters of full-time study or the equivalent
 
 ## 8. Dissertation study-unit.
 
-Students shall be allowed to proceed to the dissertation study-unit subject to obtaining the 80 ECTS credits assigned to the DECORATIVE ARCHITECTURAL SURFACES UNDER THE
-
-*3*
-
-AUSPICES OF THE FACULTY FOR THE BUILT ENVIRONMENT [S.L.327.457
-
-taught and practical study-units, with a minimum average mark of 65%.
+Students shall be allowed to proceed to the dissertation study-unit subject to obtaining the 80 ECTS credits assigned to the taught and practical study-units, with a minimum average mark of 65%.
 
 ## 9. Dissertation.
 

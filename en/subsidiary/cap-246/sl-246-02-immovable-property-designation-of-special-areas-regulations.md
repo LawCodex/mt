@@ -1,6 +1,6 @@
 ---
 title: "Immovable Property (Designation of Special Areas) Regulations"
-identifier: "S.L. 246.2"
+identifier: "S.L. 246.02"
 eli: "https://legislation.mt/eli/sl/246.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/246.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Immovable Property (Designation of Special Areas) Regulations (S.L. 246.2)
-
-*1*
-
-(DESIGNATION OF SPECIAL AREAS) [S.L.246.02
+# Immovable Property (Designation of Special Areas) Regulations (S.L. 246.02)
 
 **SUBSIDIARY LEGISLATION 246.02**
 
@@ -53,10 +49,6 @@ The title of these regulations is Immovable Property (Designation of Special Are
 
 (h) the applicant will retain the management and regular maintenance of all the area, including the infrastructure and utilities thereof, intended for public or common use; provided that such management and maintenance may be delegated to a management company with a proven track record.
 
-*2*
-
-[S.L.246.02 (DESIGNATION OF SPECIAL AREAS)
-
 (2) A Special Designated Area shall be defined by reference to the boundaries set out in the Order and by reference to a site plan contained in the Order.
 
 (3) In assessing the suitability of the area indicated in the application and the conformity of the development projected thereon with the parameters of subregulation (1), the Minister shall seek the advice of experts in the respective fields.
@@ -83,11 +75,7 @@ The title of these regulations is Immovable Property (Designation of Special Are
 
 *Fee payable.*
 
-(4) Upon approval of the application by the Minister, but prior to the designation of the area as a Special Designated Area, the applicant shall pay a one-time fee of twenty three thousand euro (€23,000) increased by two euro and thirty three cents (€ 2.33) per (DESIGNATION OF SPECIAL AREAS) [S.L.246.02
-
-square metre of total floor area in excess of thirty thousand square metres (30,000m2).
-
-*3*
+(4) Upon approval of the application by the Minister, but prior to the designation of the area as a Special Designated Area, the applicant shall pay a one-time fee of twenty three thousand euro (€23,000) increased by two euro and thirty three cents (€ 2.33) per square metre of total floor area in excess of thirty thousand square metres (30,000m2).
 
 ## 5. Minister to keep record of transfers.
 

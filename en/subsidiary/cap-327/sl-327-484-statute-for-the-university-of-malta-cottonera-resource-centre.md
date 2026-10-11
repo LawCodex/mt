@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Statute for the University of Malta Cottonera Resource Centre (S.L. 327.484)
 
-*1*
-
-COTTONERA RESOURCE CENTRE [S.L.327.484
-
 **SUBSIDIARY LEGISLATION 327.484**
 
 **STATUTE FOR THE UNIVERSITY OF MALTA**
@@ -73,23 +69,15 @@ The Centre shall be governed by a Board that will consist of the following:
 
 (vii) up to two student representatives, elected from and by students attending courses at the University of Malta Cottonera Resource Centre as observers.
 
-The Registrar or his delegate shall act as Secretary to the COTTONERA RESOURCE CENTRE
-
-*\6.*
-
-*Appointment.*
-
-All the members of the Board, other than those appointed ex officio, and the two representatives of the students, shall be appointed for a period of one year, renewable for up to four years. A retiring member will be eligible for re-appointment.
-
-*[S.L.327.484 2*
-
-*Board.*
+The Registrar or his delegate shall act as Secretary to the All the members of the Board, other than those appointed ex officio, and the two representatives of the students, shall be appointed for a period of one year, renewable for up to four years. A retiring member will be eligible for re-appointment.
 
 *\7.*
 
 *Functions of the Board.*
 
 The functions of the Board shall be:
+
+*Board. 6. Appointment.*
 
 (a) to govern the affairs of the Centre, subject to the provisions of these statutes and of such regulations, policies or directions as may from time to time be approved by the Council and the Senate;
 
@@ -127,11 +115,7 @@ The duties of the Director/Vice-Chairman shall include:
 
 (d) encouraging and facilitating co-operation with other universities and other institutions;
 
-(e) chairing meetings of the Board in the absence and with COTTONERA RESOURCE CENTRE [S.L.327.484
-
-the permission of the Chairman;
-
-*3*
+(e) chairing meetings of the Board in the absence and with the permission of the Chairman;
 
 (f) ensuring and facilitating the further development and training of administrative staff;
 
@@ -161,11 +145,7 @@ The Director moreover:
 
 (c) shall not give access to any information to any third party that is not associated with the University of Malta, about any work or data that relates to tasks conducted at the University of Malta without the prior approval of the University of Malta; all work carried out within the Centre must be treated according to Maltese data protection legislation; and
 
-(d) is to abide with the statutes, regulations and policies of the University of Malta, which are in force now or which will become effective during the duration of his COTTONERA RESOURCE CENTRE
-
-tenure.
-
-*[S.L.327.484 4*
+(d) is to abide with the statutes, regulations and policies of the University of Malta, which are in force now or which will become effective during the duration of his tenure.
 
 ## 11. The Treasurer.
 

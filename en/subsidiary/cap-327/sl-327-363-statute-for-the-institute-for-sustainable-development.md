@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Statute for the Institute for Sustainable Development (S.L. 327.363)
 
-*1*
-
-CHANGE AND SUSTAINABLE DEVELOPMENT [S.L.327.363
-
 SUBSIDIARY LEGISLATION 327.363
 
 *Substituted by: L.N. 19 of 2014.*
@@ -61,11 +57,7 @@ The aims of the Institute shall be:
 
 (f) to engage in knowledge transfer and awareness raising initiatives on sustainable development and climate change with companies, organisations and other institutions outside the University to promote best-practice (e.g. to promote the uptake of cleaner technologies; to mitigate and adapt to impacts of climate change on business operations and markets);
 
-(g) to network and liaise with similar or complementary, [S.L.327.363 CHANGE AND SUSTAINABLE DEVELOPMENT
-
-university institutions and centres for sustainable development or climate change overseas; and
-
-*2*
+(g) to network and liaise with similar or complementary, university institutions and centres for sustainable development or climate change overseas; and
 
 (h) to disseminate acquired knowledge through online media, publications, seminars, conferences and teaching programmes.
 
@@ -117,11 +109,7 @@ The function of the Board shall be:
 
 (b) to decide the policy of the Institute, to supervise its activities and administration, and without prejudice to the generality of the foregoing, the Board may:
 
-(i) approve business plans and annual estimates of revenue and expenditure of the Institute for CHANGE AND SUSTAINABLE DEVELOPMENT [S.L.327.363
-
-consideration and approval by the Council;
-
-*3*
+(i) approve business plans and annual estimates of revenue and expenditure of the Institute for consideration and approval by the Council;
 
 (ii) with the written concurrence of the Rector enter into agreements with third parties for funding of the Institute or of particular activities;
 
@@ -155,11 +143,7 @@ The duties of the Director/Vice-Chairman shall include:
 
 (b) compiling and submitting to the Registrar of the University by not later than January of each academic year, an updated comprehensive prospectus of the content descriptions of all current and projected study-units offered by members of the Institute as per guidelines established by the Programme Validation Committee;
 
-(c) ensuring that the study-units offered by the staff members of the Institute are delivered in accordance with the advertised programme of studies; the Director must ensure that lecturing staff under his remit deliver all lectures, seminars, tutorials and laboratory sessions assigned to them respectively, at the time and venue advertised in the official timetable, and that any deviations thereof are formally registered, and the CHANGE AND SUSTAINABLE DEVELOPMENT
-
-students duly notified in good time;
-
-*[S.L.327.363 4*
+(c) ensuring that the study-units offered by the staff members of the Institute are delivered in accordance with the advertised programme of studies; the Director must ensure that lecturing staff under his remit deliver all lectures, seminars, tutorials and laboratory sessions assigned to them respectively, at the time and venue advertised in the official timetable, and that any deviations thereof are formally registered, and the students duly notified in good time;
 
 (d) delivering and implementing the strategic plan of the Institute;
 
@@ -185,11 +169,7 @@ students duly notified in good time;
 
 (l) representing the Institute during official functions of the University;
 
-(m) compiling and submitting to the Secretary of the University by the end of September of each academic year, an annual report outlining the activities of the Institute for the outgoing year, which should include, amongst others, information that may be requested by the Secretary: a comprehensive list of recent publications of all members of the Institute; a synopsis of all projects involving members of the Institute which are wholly or partially externally funded; a list of all conferences/seminars/meetings attended abroad by members of the Institute during term time; and an outline of the Institute’s collaboration with third parties including local CHANGE AND SUSTAINABLE DEVELOPMENT [S.L.327.363
-
-industry, Government or civil society at large;
-
-*5*
+(m) compiling and submitting to the Secretary of the University by the end of September of each academic year, an annual report outlining the activities of the Institute for the outgoing year, which should include, amongst others, information that may be requested by the Secretary: a comprehensive list of recent publications of all members of the Institute; a synopsis of all projects involving members of the Institute which are wholly or partially externally funded; a list of all conferences/seminars/meetings attended abroad by members of the Institute during term time; and an outline of the Institute’s collaboration with third parties including local industry, Government or civil society at large;
 
 (n) compiling and submitting to the Director of Finance of the University by not later than end of May of each academic year budgetary estimates for the following year including a manpower plan for the Institute, to cover the projected teaching, research and administration workload of the Institute, and based on the projected workload for each Resident Academic member of the Institute and Visiting Teaching Staff;
 
@@ -213,10 +193,8 @@ The Director moreover:
 
 (e) shall not give access to any information to any third party that is not associated with the University of Malta, about any work or data that relates to tasks conducted at the University of Malta without the prior approval of the University of Malta; all work carried out within the Institute must be treated according to Maltese data protection legislation;
 
-(f) is to abide with the statutes, regulations and policies of the University of Malta, which are in force now or will become effective in the duration of his tenure. [S.L.327.363 CHANGE AND SUSTAINABLE DEVELOPMENT
+(f) is to abide with the statutes, regulations and policies of the University of Malta, which are in force now or will become effective in the duration of his tenure.
 
 ## 9.
 
 The Director of Finance of the University shall be the Treasurer of the Institute.
-
-*6*

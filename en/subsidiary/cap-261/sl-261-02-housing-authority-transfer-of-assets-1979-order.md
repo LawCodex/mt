@@ -1,6 +1,6 @@
 ---
 title: "Housing Authority (Transfer of Assets) (1979) Order"
-identifier: "S.L. 261.2"
+identifier: "S.L. 261.02"
 eli: "https://legislation.mt/eli/sl/261.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/261.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Housing Authority (Transfer of Assets) (1979) Order (S.L. 261.2)
+# Housing Authority (Transfer of Assets) (1979) Order (S.L. 261.02)
 
 **SUBSIDIARY LEGISLATION 261.02**
 

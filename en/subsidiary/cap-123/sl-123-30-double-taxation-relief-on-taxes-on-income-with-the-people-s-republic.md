@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the People s Republic of China Order (S.L. 123.30)
 
-*1*
-
-WITH THE PEOPLE’S REPUBLIC OF CHINA [S.L.123.30
-
 SUBSIDIARY LEGISLATION 123.30
 
 DOUBLE TAXATION RELIEF ON TAXES ON
@@ -46,8 +42,6 @@ It is hereby declared -
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Agreement has entered into force on 25 August, 2011.
-
-2 [S.L.123.30 WITH THE PEOPLE’S REPUBLIC OF CHINA
 
 ## SCHEDULE
 
@@ -113,9 +107,7 @@ The Agreement shall apply also to any identical or substantially similar taxes t
 
 **GENERAL DEFINITIONS**
 
-\1. For the purposes of this Agreement, unless the context otherwise requires: a) the term "China" means the People’s Republic of China; when used in a geographical sense, means all the territory of the People’s Republic of China, in which the Chinese laws relating to taxation apply, including WITH THE PEOPLE’S REPUBLIC OF CHINA [S.L.123.30 3
-
-its territorial sea, and any area beyond its territorial sea, within which the People’s Republic of China has sovereign rights or jurisdiction for the purpose of exploration for and exploitation of resources of the sea-bed and its sub-soil and superjacent water resources in accordance with international law and its domestic law;
+\1. For the purposes of this Agreement, unless the context otherwise requires: a) the term "China" means the People’s Republic of China; when used in a geographical sense, means all the territory of the People’s Republic of China, in which the Chinese laws relating to taxation apply, including its territorial sea, and any area beyond its territorial sea, within which the People’s Republic of China has sovereign rights or jurisdiction for the purpose of exploration for and exploitation of resources of the sea-bed and its sub-soil and superjacent water resources in accordance with international law and its domestic law;
 
 b) the term "Malta", when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, and any area outside the territorial sea of Malta which, in accordance with international law, has been or may hereafter be designated, under the law of Malta concerning the Continental Shelf, as an area within which the rights of Malta with respect to the sea-bed and sub-soil and their natural resources may be exercised;
 
@@ -147,9 +139,7 @@ i) the term "national", in relation to a Contracting State, means:
 
 **RESIDENT**
 
-\1. For the purposes of this Agreement, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of incorporation, place of effective 4 [S.L.123.30 WITH THE PEOPLE’S REPUBLIC OF CHINA
-
-management or any other criterion of a similar nature. This term, however, does not include any person who is liable to tax in that State in respect only of income from sources in that State.
+\1. For the purposes of this Agreement, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of incorporation, place of effective management or any other criterion of a similar nature. This term, however, does not include any person who is liable to tax in that State in respect only of income from sources in that State.
 
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
@@ -187,8 +177,6 @@ a) a building site, or construction, assembly or installation project or supervi
 
 b) the furnishing of services, including consultancy services, by an enterprise through employees or other personnel engaged for such purpose, but only if activities of that nature continue (for the same or a connected project) within a Contracting State for a period or periods aggregating more than 183 days in any twelve month period commencing or ending in the fiscal year concerned.
 
-WITH THE PEOPLE’S REPUBLIC OF CHINA [S.L.123.30 5
-
 ## 4.
 
 Notwithstanding the preceding provisions of this Article, the term "permanent establishment" shall be deemed not to include:
@@ -221,9 +209,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \1. Income derived by a resident of a Contracting State from immovable property (including income from agriculture or forestry) situated in the other Contracting State may be taxed in that other State.
 
-\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The 6 [S.L.123.30 WITH THE PEOPLE’S REPUBLIC OF CHINA
-
-term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources; ships and aircraft shall not be regarded as immovable property.
+\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources; ships and aircraft shall not be regarded as immovable property.
 
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
@@ -248,8 +234,6 @@ term shall in any case include property accessory to immovable property, livesto
 ## 7.
 
 Where profits include items of income which are dealt with separately in other Articles of this Agreement, then the provisions of those Articles shall not be affected by the provisions of this Article.
-
-WITH THE PEOPLE’S REPUBLIC OF CHINA [S.L.123.30 7
 
 **ARTICLE 8**
 
@@ -283,9 +267,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \1. Dividends paid by a company which is a resident of a Contracting State to a resident of the other Contracting State may be taxed in that other State.
 
-\2. However, such dividends may also be taxed in the Contracting State of which the company paying the dividends is a resident and according to the laws of that State, but if the beneficial owner of the dividends is a resident of the other 8 [S.L.123.30 WITH THE PEOPLE’S REPUBLIC OF CHINA
-
-Contracting State, the tax so charged shall not exceed:
+\2. However, such dividends may also be taxed in the Contracting State of which the company paying the dividends is a resident and according to the laws of that State, but if the beneficial owner of the dividends is a resident of the other Contracting State, the tax so charged shall not exceed:
 
 a) 5 per cent of the gross amount of the dividends if the beneficial owner is a company (other than a partnership) which holds directly at least 25 per cent of the capital of the company paying the dividends;
 
@@ -311,9 +293,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \2. However, such interest may also be taxed in the Contracting State in which it arises and according to the laws of that State, but if the beneficial owner of the interest is a resident of the other Contracting State, the tax so charged shall not exceed 10 per cent of the gross amount of the interest. The competent authorities of the Contracting States shall by mutual agreement settle the mode of application of this limitation.
 
-\3. Notwithstanding the provisions of paragraph 2, interest arising in a Contracting State shall be exempt from tax in that State if it is derived by the Government of the other Contracting State, a local authority thereof or such WITH THE PEOPLE’S REPUBLIC OF CHINA [S.L.123.30 9
-
-institution as may be agreed upon by both Contracting States, provided that such institution is wholly owned or controlled by that Government or local authority.
+\3. Notwithstanding the provisions of paragraph 2, interest arising in a Contracting State shall be exempt from tax in that State if it is derived by the Government of the other Contracting State, a local authority thereof or such institution as may be agreed upon by both Contracting States, provided that such institution is wholly owned or controlled by that Government or local authority.
 
 \4. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor’s profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
@@ -337,9 +317,7 @@ The provision of this Article shall not apply if it was the main purpose or one 
 
 \2. However, such royalties may also be taxed in the Contracting State in which they arise and according to the laws of that State, but if the beneficial owner of the royalties is a resident of the other Contracting State, the tax so charged shall not exceed 10 per cent of the gross amount of the royalties. Notwithstanding the preceding provisions of this paragraph, the tax on royalties derived as a consideration for the use of, or the right to use, industrial, commercial, or scientific equipment shall not exceed 10 per cent on an amount corresponding to 70 per cent of the gross amount of the royalties. The competent authorities of the Contracting States shall by mutual agreement settle the mode of application of these limitations.
 
-\3. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of 10 [S.L.123.30 WITH THE PEOPLE’S REPUBLIC OF CHINA
-
-literary, artistic or scientific work including cinematography films, or films or tapes for radio or television broadcasting, any patent, trade mark, design or model, plan, secret formula or process, or for the use of, or the right to use, industrial, commercial, or scientific equipment, or for information concerning industrial, commercial or scientific experience.
+\3. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including cinematography films, or films or tapes for radio or television broadcasting, any patent, trade mark, design or model, plan, secret formula or process, or for the use of, or the right to use, industrial, commercial, or scientific equipment, or for information concerning industrial, commercial or scientific experience.
 
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
@@ -359,9 +337,7 @@ literary, artistic or scientific work including cinematography films, or films o
 
 \3. Gains derived by an enterprise of a Contracting State from the alienation of ships or aircraft operated in international traffic or movable property pertaining to the operation of such ships or aircraft, shall be taxable only in that State.
 
-\4. Gains from the alienation of shares in a company the property of which consists directly or indirectly principally of immovable property situated in a WITH THE PEOPLE’S REPUBLIC OF CHINA [S.L.123.30 11
-
-Contracting State may be taxed in that Contracting State.
+\4. Gains from the alienation of shares in a company the property of which consists directly or indirectly principally of immovable property situated in a Contracting State may be taxed in that Contracting State.
 
 \5. Gains derived by a resident of a Contracting State from the alienation of shares in a company which is a resident of the other Contracting State may be taxed in that other State if the recipient of the gain, at any time during the 12 month period preceding such alienation, had a participation, directly or indirectly, of at least 25 per cent in the capital of that company.
 
@@ -393,9 +369,7 @@ b) the remuneration is paid by, or on behalf of, an employer who is not a reside
 
 c) the remuneration is not borne by a permanent establishment or a fixed base which the employer has in the other State.
 
-\3. Notwithstanding the preceding provisions of this Article, remuneration derived in respect of an employment exercised aboard a ship or aircraft operated in international traffic, may be taxed in the Contracting State in which the place of 12 [S.L.123.30 WITH THE PEOPLE’S REPUBLIC OF CHINA
-
-effective management of the enterprise is situated.
+\3. Notwithstanding the preceding provisions of this Article, remuneration derived in respect of an employment exercised aboard a ship or aircraft operated in international traffic, may be taxed in the Contracting State in which the place of effective management of the enterprise is situated.
 
 **ARTICLE 16**
 
@@ -431,9 +405,7 @@ a) is a national of that State; or
 
 b) did not become a resident of that State solely for the purpose of rendering the services.
 
-\2. a) Pensions and other similar remuneration paid by, or out of funds created WITH THE PEOPLE’S REPUBLIC OF CHINA [S.L.123.30 13
-
-by, a Contracting State or a local authority thereof to an individual in respect of services rendered to the Government of that State or authority shall be taxable only in that State.
+\2. a) Pensions and other similar remuneration paid by, or out of funds created by, a Contracting State or a local authority thereof to an individual in respect of services rendered to the Government of that State or authority shall be taxable only in that State.
 
 b) However, such pensions and other similar remuneration shall be taxable only in the other Contracting State if the individual is a resident of, and a national of, that State.
 
@@ -463,8 +435,6 @@ Payments which a student or business apprentice who is or was immediately before
 
 \3. The provision of this Article shall not apply if it was the main purpose or one of the main purposes of any person concerned with the creation or assignment of the rights in respect of which the income is paid to take advantage of this Article by means of that creation or assignment.
 
-14 [S.L.123.30 WITH THE PEOPLE’S REPUBLIC OF CHINA
-
 **ARTICLE 23**
 
 **METHODS FOR ELIMINATION OF DOUBLE TAXATION**
@@ -493,9 +463,7 @@ Nothing in this Agreement shall prejudice the right of each Contracting State to
 
 \2. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favorably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
 
-\3. Except where the provisions of paragraph 1 of Article 9, paragraph 7 of Article 11, or paragraph 6 of Article 12, apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other WITH THE PEOPLE’S REPUBLIC OF CHINA [S.L.123.30 15
-
-Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
+\3. Except where the provisions of paragraph 1 of Article 9, paragraph 7 of Article 11, or paragraph 6 of Article 12, apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
 
 \4. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
 
@@ -519,9 +487,7 @@ Contracting State shall, for the purpose of determining the taxable profits of s
 
 \1. The competent authorities of the Contracting States shall exchange such information as is foreseeably relevant for carrying out the provisions of this Agreement or to the administration or enforcement of the domestic laws concerning taxes of every kind and description imposed on behalf of the Contracting States or local authorities, insofar as the taxation thereunder is not contrary to the Agreement. The exchange of information is not restricted by Articles 1 and 2.
 
-\2. Any information received under paragraph 1 by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to 16 [S.L.123.30 WITH THE PEOPLE’S REPUBLIC OF CHINA
-
-the taxes referred to in paragraph 1, or the oversight of the above. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
+\2. Any information received under paragraph 1 by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to the taxes referred to in paragraph 1, or the oversight of the above. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
 
 \3. In no case shall the provisions of paragraphs 1 and 2 be construed so as to impose on a Contracting State the obligation:
 
@@ -557,9 +523,7 @@ Nothing in this Agreement shall affect the fiscal privileges of members of diplo
 
 **ENTRY INTO FORCE**
 
-\1. Both Contracting States shall notify each other in writing through diplomatic channels that they have completed the internal legal procedures necessary for the entry into force of this Agreement. This Agreement shall enter into force WITH THE PEOPLE’S REPUBLIC OF CHINA [S.L.123.30 17
-
-thirty days from the receipt of the latter notification. This Agreement shall be applicable in respect of income derived during the taxable years beginning on or after the first day of January next following that in which this Agreement enters into force.
+\1. Both Contracting States shall notify each other in writing through diplomatic channels that they have completed the internal legal procedures necessary for the entry into force of this Agreement. This Agreement shall enter into force thirty days from the receipt of the latter notification. This Agreement shall be applicable in respect of income derived during the taxable years beginning on or after the first day of January next following that in which this Agreement enters into force.
 
 \2. The Agreement between the Government of the People’s Republic of China and the Government of Malta for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income and the Protocol signed at Beijing on February 2, 1993, shall cease to be effective with respect to income in respect of which the provisions of this Agreement have effect, in accordance with the provisions of paragraph 1.
 

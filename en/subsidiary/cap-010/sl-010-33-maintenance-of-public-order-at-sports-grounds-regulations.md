@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Maintenance of Public Order at Sports Grounds Regulations (S.L. 10.33)
 
-*1*
-
-AT SPORTS GROUNDS [S.L.10.33
-
 **SUBSIDIARY LEGISLATION 10.33**
 
 **MAINTENANCE OF PUBLIC ORDER AT SPORTS**
@@ -85,11 +81,7 @@ The Commissioner may search any person while gaining admission to, while inside 
 
 ## 5. Entry into field of play.
 
-No person except the officials, the persons taking part in the game or games, and those authorised either by the authority or [S.L.10.33 AT SPORTS GROUNDS
-
-association under the auspices of which the game or games are being held or by the ground management, shall trespass beyond the fence or barrier surrounding the pitch and enter the field of play.
-
-*2*
+No person except the officials, the persons taking part in the game or games, and those authorised either by the authority or association under the auspices of which the game or games are being held or by the ground management, shall trespass beyond the fence or barrier surrounding the pitch and enter the field of play.
 
 ## 6. Breach of the peace.
 

@@ -1,6 +1,6 @@
 ---
 title: "Accounting Treatment of the Maltese Lira Regulations"
-identifier: "S.L. 204.4"
+identifier: "S.L. 204.04"
 eli: "https://legislation.mt/eli/sl/204.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/204.4/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Accounting Treatment of the Maltese Lira Regulations (S.L. 204.4)
+# Accounting Treatment of the Maltese Lira Regulations (S.L. 204.04)
 
 SUBSIDIARY LEGISLATION 204.04
 

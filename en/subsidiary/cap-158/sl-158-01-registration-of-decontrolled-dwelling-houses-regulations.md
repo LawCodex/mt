@@ -1,6 +1,6 @@
 ---
 title: "Registration of Decontrolled Dwelling Houses Regulations"
-identifier: "S.L. 158.1"
+identifier: "S.L. 158.01"
 eli: "https://legislation.mt/eli/sl/158.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/158.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Registration of Decontrolled Dwelling Houses Regulations (S.L. 158.1)
+# Registration of Decontrolled Dwelling Houses Regulations (S.L. 158.01)
 
 **SUBSIDIARY LEGISLATION 158.01**
 

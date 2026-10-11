@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Architecture - M.Arch. - under the auspices of the Faculty for the Built Environment (S.L. 327.500)
 
-UNDER THE AUSPICES OF THE FACULTY
-
-*1*
-
-FOR THE BUILT ENVIRONMENT [S.L.327.500
-
 **SUBSIDIARY LEGISLATION 327.500**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -67,13 +61,7 @@ These bye-laws shall be applicable for courses commencing in October 2020 or lat
 
 (b) a qualification deemed by Senate, on the recommendation of the Board, to be comparable to the qualification listed in paragraph (a) of this bye-law. The admission of applicants under this bye-law may be made conditional on the results of an assessment as the Board may deem appropriate.
 
-(2) All applicants shall be required to submit a transcript of studies showing that during the first cycle degree they successfully completed the minimum number of credits in the relative thematic UNDER THE AUSPICES OF THE FACULTY
-
-*2*
-
-[S.L.327.500 FOR THE BUILT ENVIRONMENT
-
-study-units, as indicated in the Schedule approved by the Board. Study-units which were awarded a Compensated Pass shall not be considered sufficient for this purpose, provided that, at the discretion of the Board, applicants who present Compensated Passes in up to 4 ECTS credits may be allowed to join the Course subject to any conditions which the Board may impose.
+(2) All applicants shall be required to submit a transcript of studies showing that during the first cycle degree they successfully completed the minimum number of credits in the relative thematic study-units, as indicated in the Schedule approved by the Board. Study-units which were awarded a Compensated Pass shall not be considered sufficient for this purpose, provided that, at the discretion of the Board, applicants who present Compensated Passes in up to 4 ECTS credits may be allowed to join the Course subject to any conditions which the Board may impose.
 
 (3) Study-units which were successfully completed during exchange periods of study at other universities may be offered in lieu of study-units indicated in the Schedule, subject to confirmation by the Board that such study-units have a thematic content which is compatible with the relative Schedule, and that study-units so presented are at least at the same level as the study-units they are replacing.
 
@@ -97,11 +85,7 @@ The course shall extend over four semesters of full-time study.
 
 (4) Programmes shall be offered as follows:
 
-M.Arch. (Architectural Design), comprising main UNDER THE AUSPICES OF THE FACULTY
-
-*3*
-
-FOR THE BUILT ENVIRONMENT [S.L.327.500 thematic study-units in Architectural Design, and in Architectural Science and Technology, and secondary thematic study-units in Management Studies;
+M.Arch. (Architectural Design), comprising main thematic study-units in Architectural Design, and in Architectural Science and Technology, and secondary thematic study-units in Management Studies;
 
 M.Arch. (Architecture and Urban Design), comprising main thematic study-units in Architectural Design, and in Urban Design, and secondary thematic study-units in Management Studies; and
 
@@ -133,13 +117,7 @@ Students shall be required to complete the Final Project Workshop and write a di
 
 *Amended by: L.N. 8 of 2017. S.L. 327.328*
 
-(1) The Final Project Workshop has the same status as a dissertation as defined in the General Regulations for University Postgraduate Awards. The assessment of the Final Project Workshop shall accordingly be as defined in the Procedures for UNDER THE AUSPICES OF THE FACULTY
-
-*4*
-
-[S.L.327.500 FOR THE BUILT ENVIRONMENT
-
-Boards of Examiners of Master’s dissertations (assigned less than 60 ECTS credits), approved by Senate.
+(1) The Final Project Workshop has the same status as a dissertation as defined in the General Regulations for University Postgraduate Awards. The assessment of the Final Project Workshop shall accordingly be as defined in the Procedures for Boards of Examiners of Master’s dissertations (assigned less than 60 ECTS credits), approved by Senate.
 
 (2) The Board of Examiners for the Final Project Workshop shall be composed of at least seven members, comprising the Dean as Chairman and including members of staff with expertise in the disciplines relevant to the theme of the Final Project Workshop, as approved by Senate.
 
@@ -165,11 +143,7 @@ Boards of Examiners of Master’s dissertations (assigned less than 60 ECTS cred
 
 (1) Students shall be required to have regular contact with their supervisors, not less than once a month.
 
-(2) Students shall be required to make an interim presentation to the relative Board of Examiners, mid-way through the programme of both the Dissertation and Final Project Workshop, so that it may be ascertained that each student is making satisfactory progress. Following such interim presentations, a progress report shall be drawn up, which may include recommendations to either (a) extend the period of study in order to enable the student to UNDER THE AUSPICES OF THE FACULTY
-
-*5*
-
-FOR THE BUILT ENVIRONMENT [S.L.327.500 complete the work properly; or (b) terminate studies prematurely if the Board deems this to be proper in the circumstances, provided that:
+(2) Students shall be required to make an interim presentation to the relative Board of Examiners, mid-way through the programme of both the Dissertation and Final Project Workshop, so that it may be ascertained that each student is making satisfactory progress. Following such interim presentations, a progress report shall be drawn up, which may include recommendations to either (a) extend the period of study in order to enable the student to complete the work properly; or (b) terminate studies prematurely if the Board deems this to be proper in the circumstances, provided that:
 
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 

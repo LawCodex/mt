@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister of Finance, the Economy and Investment for the issue of Euro 100,000,000 Malta Government Stocks (S.L. 161.126)
 
-*1*
-
-MALTA GOVERNMENT STOCKS [S.L.161.126
-
 **SUBSIDIARY LEGISLATION 161.126**
 
 DIRECTIVE BY THE MINISTER OF FINANCE,
@@ -71,11 +67,7 @@ The sum of money to be raised by either Stock, or of any combination of the two 
 
 (1) Interest at the rate of Euro 2.125 for every Euro 100 in respect of the 4.25% Malta Government Stock 2017 (III) shall be payable half-yearly in arrears on the 6th day of May and the 6th day of November in every year for the duration of the Stock:
 
-(a) the first pro rata interest payment in respect of the [S.L.161.126 MALTA GOVERNMENT STOCKS
-
-allotted amount from applications submitted by members of the public covering the period from the 21st day of November, 2011 to the 5th day of May, 2012 (both dates inclusive), shall be made on the 6th day of May, 2012;
-
-*2*
+(a) the first pro rata interest payment in respect of the allotted amount from applications submitted by members of the public covering the period from the 21st day of November, 2011 to the 5th day of May, 2012 (both dates inclusive), shall be made on the 6th day of May, 2012;
 
 (b) the first pro rata interest payment in respect of the allotted amount from bids/applications submitted by institutional investors covering the period from the 23rd day of November, 2011 to the 5th day of May, 2012 (both dates inclusive), shall be made on the 6th day of May, 2012.
 

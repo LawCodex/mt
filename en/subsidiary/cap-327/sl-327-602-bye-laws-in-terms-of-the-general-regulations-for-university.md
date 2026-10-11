@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws in terms of the General Regulations for University Postgraduate Awards, 2008 for the degree of Master of Arts in European Legal Studies - M.A. - under the auspices of the Faculty of Laws (S.L. 327.602)
 
-*1*
-
-\- UNDER THE AUSPICES OF THE FACULTY OF LAWS [S.L. 327.602
-
 **SUBSIDIARY LEGISLATION 327.602**
 
 **BYE-LAWS IN TERMS OF THE GENERAL**
@@ -65,11 +61,7 @@ The programme of study shall comprise study-units to which a total of 90 ECTS cr
 
 ## 6.
 
-Students who obtain 30 ECTS credits assigned to taught [S.L. 327.602 - UNDER THE AUSPICES OF THE FACULTY OF LAWS
-
-study-units with an average mark of at least 50% and do not proceed with the Course, or having proceeded do not successfully complete the Course, shall be eligible for the award of the Postgraduate Certificate.
-
-*2*
+Students who obtain 30 ECTS credits assigned to taught study-units with an average mark of at least 50% and do not proceed with the Course, or having proceeded do not successfully complete the Course, shall be eligible for the award of the Postgraduate Certificate.
 
 ## 7.
 
@@ -102,10 +94,6 @@ The programme of study shall be published after approval by Senate, normally not
 ## 12.
 
 (1) Students shall be required to keep regular contact with their supervisor.
-
-*3*
-
-\- UNDER THE AUSPICES OF THE FACULTY OF LAWS [S.L. 327.602
 
 (2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies, whether the student is following the Course on a full-time or a part-time basis. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 

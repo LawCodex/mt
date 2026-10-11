@@ -1,6 +1,6 @@
 ---
 title: "Retiring Age of Port Workers Regulations"
-identifier: "S.L. 171.1"
+identifier: "S.L. 171.01"
 eli: "https://legislation.mt/eli/sl/171.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/171.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Retiring Age of Port Workers Regulations (S.L. 171.1)
+# Retiring Age of Port Workers Regulations (S.L. 171.01)
 
 **SUBSIDIARY LEGISLATION 171.01**
 

@@ -1,6 +1,6 @@
 ---
 title: "Judicial Sales Rules of Court"
-identifier: "S.L. 12.1"
+identifier: "S.L. 12.01"
 eli: "https://legislation.mt/eli/sl/12.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/12.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Judicial Sales Rules of Court (S.L. 12.1)
+# Judicial Sales Rules of Court (S.L. 12.01)
 
 **SUBSIDIARY LEGISLATION 12.01**
 

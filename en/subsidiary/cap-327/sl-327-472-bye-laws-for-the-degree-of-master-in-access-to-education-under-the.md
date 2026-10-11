@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master in Access to Education under the auspices of the Faculty of Education (S.L. 327.472)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.472
-
 **SUBSIDIARY LEGISLATION 327.472**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER**
@@ -74,11 +70,9 @@ These bye-laws shall apply to courses commencing in October 2015 or later.
 
 either
 
-(i) a first cycle degree classified with at least Second Class (Honours) in Education or [S.L.327.472 UNDER THE AUSPICES OF THE FACULTY OF EDUCATION Communication Therapy, together with a minimum of two years’ work experience in education or communication therapy;
+(i) a first cycle degree classified with at least Second Class (Honours) in Education or Communication Therapy, together with a minimum of two years’ work experience in education or communication therapy;
 
 or
-
-*2*
 
 (ii) a first cycle degree classified with at least Second Class (Honours) in any other area, together with a Postgraduate Certificate in Education in any area and a minimum of two years’ work experience in education;
 
@@ -111,10 +105,6 @@ or
 (2) The Board of Studies shall recommend to Senate the number of applicants that may be allowed to register in each area of specialization, depending on the availability of resources. The number of available places shall be announced at the time of the call for applications.
 
 (3) If the number of applicants exceeds the number of available places, applicants shall be selected using the following criteria, weighted as follows:
-
-*3*
-
-UNDER THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.472
 
 (a) degree type and classification - 20%;
 
@@ -162,11 +152,7 @@ The programme of study shall be published after approval by Senate normally not 
 
 ## 10. Assessment and progress.
 
-(1) The assessment of each taught study-unit shall be completed by the end of the semester in which the teaching of the [S.L.327.472 UNDER THE AUSPICES OF THE FACULTY OF EDUCATION
-
-study-unit is held.
-
-*4*
+(1) The assessment of each taught study-unit shall be completed by the end of the semester in which the teaching of the study-unit is held.
 
 (2) Students who in any academic year fail in the assessment of not more than 10 ECTS credits shall be given the opportunity to re-sit the failed assessment/s once during the September supplementary examination session.
 

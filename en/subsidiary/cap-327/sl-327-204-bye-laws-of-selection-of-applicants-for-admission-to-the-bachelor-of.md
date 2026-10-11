@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws of Selection of Applicants for Admission to the Bachelor of Science (Honours) (Physiotherapy) Degree Course under the auspices of the Faculty of Health Sciences (S.L. 327.204)
 
-OF SCIENCE (HONOURS) (PHYSIOTHERAPY) DEGREE COURSE
-
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF HEALTH SCIENCES [S.L.327.204
-
 **SUBSIDIARY LEGISLATION 327.204**
 
 BYE-LAWS FOR THE SELECTION OF APPLICANTS FOR ADMISSION TO THE BACHELOR OF
@@ -67,11 +61,7 @@ Whenever the number of students that may be admitted to the Physiotherapy area o
 
 6th Category: those with a grade 'B' in Biology and a grade 'C' in Physics
 
-7th Category: those with a grade 'B' in Biology and a grade 'D' in Physics those with a grade 'C' in Biology and a OF SCIENCE (HONOURS) (PHYSIOTHERAPY) DEGREE COURSE [S.L.327.204 UNDER THE AUSPICES OF THE FACULTY OF HEALTH SCIENCES
-
-grade 'A' in Physics
-
-*2*
+7th Category: those with a grade 'B' in Biology and a grade 'D' in Physics those with a grade 'C' in Biology and a grade 'A' in Physics
 
 8th Category: those with a grade 'B' in Biology and a grade 'E' in Physics those with a grade 'C' in Biology and a grade 'B' in Physics
 
@@ -105,18 +95,12 @@ Grade A at Advanced Level equated to Grade A at Intermediate Level.
 
 Advanced Level Intermediate Level Grade A 30 points 10 points
 
-OF SCIENCE (HONOURS) (PHYSIOTHERAPY) DEGREE COURSE
+**Grade B 24 points 8 points**
 
-*3*
+**Grade C 18 points 6 points**
 
-UNDER THE AUSPICES OF THE FACULTY OF HEALTH SCIENCES [S.L.327.204
+**Grade D 12 points 4 points**
 
-Grade B 24 points 8 points
-
-Grade C 18 points 6 points
-
-Grade D 12 points 4 points
-
-Grade E 6 points 2 points
+**Grade E 6 points 2 points**
 
 (b) if this is not sufficient, the remaining eligible applicants in that category shall be interviewed by an Interviewing Board appointed by the Board for the purpose in order to fill the remaining place/s.

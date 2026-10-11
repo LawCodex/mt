@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (Jersey) Order (S.L. 123.120)
 
-*1*
-
-ON TAXES ON INCOME WITH JERSEY [S.L.123.120
-
 SUBSIDIARY LEGISLATION 123.120
 
 DOUBLE TAXATION RELIEF ON TAXES ON
@@ -44,8 +40,6 @@ It is hereby declared:-
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Convention has entered into force on the 19th July, 2010.
-
-2 [S.L.123.120 ON TAXES ON INCOME WITH JERSEY
 
 ## SCHEDULE — CONVENTION BETWEEN — MALTA
 
@@ -101,9 +95,7 @@ The Agreement shall apply also to any identical taxes or substantially similar t
 
 \1. For the purposes of this Agreement, unless the context otherwise requires:
 
-(a) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the island of Malta, the island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its ON TAXES ON INCOME WITH JERSEY [S.L.123.120 3
-
-natural resources;
+(a) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the island of Malta, the island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
 
 (b) the term "Jersey" means the Bailiwick of Jersey and, when used in a geographical sense, means the island of Jersey, including its territorial sea, in accordance with international law;
 
@@ -140,8 +132,6 @@ natural resources;
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Parties, then his status shall be determined as follows:
 
 (a) he shall be deemed to be a resident only of the Party in which he has a permanent home available to him; if he has a permanent home available to him in both Parties, he shall be deemed to be a resident only of the Party with which his personal and economic relations are closer (centre of vital interests);
-
-4 [S.L.123.120 ON TAXES ON INCOME WITH JERSEY
 
 (b) if the Party in which he has his centre of vital interests cannot be determined, or if he has not a permanent home available to him in either Party, he shall be deemed to be a resident only of the Party in which he has an habitual abode;
 
@@ -187,9 +177,7 @@ Notwithstanding the preceding provisions of this Article, the term "permanent es
 
 (e) the maintenance of a fixed place of business solely for the purpose of carrying on, for the enterprise, any other activity of a preparatory or auxiliary character;
 
-(f) the maintenance of a fixed place of business solely for any combination of activities mentioned in sub-paragraphs (a) to (e), provided that the overall activity of the fixed place of business resulting from this ON TAXES ON INCOME WITH JERSEY [S.L.123.120 5
-
-combination is of a preparatory or auxiliary character.
+(f) the maintenance of a fixed place of business solely for any combination of activities mentioned in sub-paragraphs (a) to (e), provided that the overall activity of the fixed place of business resulting from this combination is of a preparatory or auxiliary character.
 
 ## 5.
 
@@ -221,9 +209,7 @@ The fact that a company which is a resident of a Party controls or is controlled
 
 \1. The profits of an enterprise of a Party shall be taxable only in that Party unless the enterprise carries on business in the other Party through a permanent establishment situated therein. If the enterprise carries on business as aforesaid, the profits of the enterprise may be taxed in the other Party but only so much of them as is attributable to that permanent establishment.
 
-\2. Subject to the provisions of paragraph 3, where an enterprise of a Party carries on business in the other Party through a permanent establishment situated therein, there shall in each Party be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate 6 [S.L.123.120 ON TAXES ON INCOME WITH JERSEY
-
-enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment.
+\2. Subject to the provisions of paragraph 3, where an enterprise of a Party carries on business in the other Party through a permanent establishment situated therein, there shall in each Party be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment.
 
 \3. In determining the profits of a permanent establishment, there shall be allowed as deductions expenses which are incurred for the purposes of the permanent establishment including executive and general administrative expenses so incurred, whether in the Party in which the permanent establishment is situated or elsewhere.
 
@@ -261,8 +247,6 @@ where such rental profits or profits from such use, maintenance or rental, as th
 
 (a) an enterprise of a Party participates directly or indirectly in the management, control or capital of an enterprise of the other Party, or (b) the same persons participate directly or indirectly in the management, control or capital of an enterprise of a Party and an enterprise of the other Party,
 
-ON TAXES ON INCOME WITH JERSEY [S.L.123.120 7
-
 and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
 
 \2. Where a Party includes in the profits of an enterprise of that Party - and taxes accordingly - profits on which an enterprise of the other Party has been charged to tax in that other Party and the profits so included are profits which would have accrued to the enterprise of the first-mentioned Party if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other Party shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Agreement and the competent authorities of the Parties shall if necessary consult each other.
@@ -282,8 +266,6 @@ and in either case conditions are made or imposed between the two enterprises in
 \5. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Party, carries on business in the other Party of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other Party independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \6. Where a company which is a resident of a Party derives profits or income from the other Party, that other Party may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other Party or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other Party, nor subject the company’s undistributed profits to a tax on the company’s undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other Party.
-
-8 [S.L.123.120 ON TAXES ON INCOME WITH JERSEY
 
 **Article 11**
 
@@ -308,8 +290,6 @@ and in either case conditions are made or imposed between the two enterprises in
 \3. The provisions of paragraph 1 shall not apply if the beneficial owner of the royalties, being a resident of a Party, carries on business in the other Party in which the royalties arise, through a permanent establishment situated therein, or performs in that other Party independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \4. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Party, due regard being had to the other provisions of this Agreement.
-
-ON TAXES ON INCOME WITH JERSEY [S.L.123.120 9
 
 **Article 13**
 
@@ -346,8 +326,6 @@ ON TAXES ON INCOME WITH JERSEY [S.L.123.120 9
 (b) the remuneration is paid by, or on behalf of, an employer who is not a resident of the other Party, and
 
 (c) the remuneration is not borne by a permanent establishment or a fixed base which the employer has in the other Party.
-
-10 [S.L.123.120 ON TAXES ON INCOME WITH JERSEY
 
 \3. Notwithstanding the preceding provisions of this Article, remuneration derived in respect of an employment exercised aboard a ship or aircraft operated in international traffic by an enterprise of a Party may be taxed in that Party.
 
@@ -387,9 +365,7 @@ Directors’ fees and other similar payments derived by a resident of a Party in
 
 (ii) did not become a resident of that Party solely for the purpose of rendering the services.
 
-\2. (a) Notwithstanding the provisions of paragraph 1, pensions and other ON TAXES ON INCOME WITH JERSEY [S.L.123.120 11
-
-similar remuneration paid by, or out of funds created by, a Party or a political subdivision or a local authority thereof to an individual in respect of services rendered to that Party or subdivision or authority shall be taxable only in that Party.
+\2. (a) Notwithstanding the provisions of paragraph 1, pensions and other similar remuneration paid by, or out of funds created by, a Party or a political subdivision or a local authority thereof to an individual in respect of services rendered to that Party or subdivision or authority shall be taxable only in that Party.
 
 (b) However, such pensions and similar remuneration shall be taxable only in the other Party if the individual is a resident of, and a national or citizen of, that Party.
 
@@ -423,8 +399,6 @@ Subject to the provisions of the laws of Jersey regarding the allowance of a cre
 
 (a) When imposing tax on its residents Jersey may include in the basis upon which such taxes are imposed the items of income, which, according to the provisions of this Agreement, may be taxed in Malta.
 
-12 [S.L.123.120 ON TAXES ON INCOME WITH JERSEY
-
 (b) Where a resident of Jersey derives income which, in accordance with the provisions of this Agreement, may be taxed in Malta Jersey shall allow as a deduction from the tax on the income of that resident, an amount equal to the income tax paid in Malta. Such deduction in either case shall not, however, exceed that part of the income tax, as computed before the deduction is given, which is attributable to the income which may be taxed in Malta.
 
 **Article 23**
@@ -447,9 +421,7 @@ Subject to the provisions of the laws of Jersey regarding the allowance of a cre
 
 \1. Where a person considers that the actions of one or both of the Parties result or will result for him in taxation not in accordance with the provisions of this Agreement, he may, irrespective of the remedies provided by the domestic law of those Parties, present his case to the competent authority of the Party of which he is a resident or, if his case comes under paragraph 1 of Article 23, to that of the Party of which he is a national or citizen. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Agreement.
 
-\2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Party, with a ON TAXES ON INCOME WITH JERSEY [S.L.123.120 13
-
-view to the avoidance of taxation which is not in accordance with the Agreement. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Parties.
+\2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Party, with a view to the avoidance of taxation which is not in accordance with the Agreement. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Parties.
 
 \3. The competent authorities of the Parties shall endeavour to resolve, by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Agreement. They may also consult together for the elimination of double taxation in cases not provided for in the Agreement.
 
@@ -474,8 +446,6 @@ view to the avoidance of taxation which is not in accordance with the Agreement.
 \4. If information is requested by a Party in accordance with this Article, the other Party shall use its information gathering measures to obtain the requested information, even though that other Party may not need such information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall such limitations be construed to permit a Party to decline to supply information solely because it has no domestic interest in such information.
 
 \5. In no case shall the provisions of paragraph 3 be construed to permit a Party to decline to supply information solely because the information is held by a bank, other financial institution, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person.
-
-14 [S.L.123.120 ON TAXES ON INCOME WITH JERSEY
 
 **Article 26**
 
@@ -514,8 +484,6 @@ It is understood that the provisions of the Agreement shall not prevent the appl
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto by their respective Governments, have signed this Protocol.
 
 DONE at London this 25th day of January, 2010 in duplicate in the English language.
-
-ON TAXES ON INCOME WITH JERSEY [S.L.123.120 15
 
 Joseph |ammit Tabona Terry Le Sueur
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Pre-Tertiary Institute Certificate in Baroque Architecture Course Regulations (S.L. 327.529)
 
-*1*
-
-IN BAROQUE ARCHITECTURE COURSE [S.L.327.529
-
 **SUBSIDIARY LEGISLATION 327.529**
 
 **PRE-TERTIARY INSTITUTE CERTIFICATE IN**
@@ -74,10 +70,6 @@ The course shall extend over two semesters of part-time study.
 ## 6. Board of Studies.
 
 The general administration of the course shall be entrusted to a Board of Studies, approved by Senate.
-
-*2*
-
-[S.L.327.529 IN BAROQUE ARCHITECTURE COURSE
 
 ## 7. Programme of Study.
 

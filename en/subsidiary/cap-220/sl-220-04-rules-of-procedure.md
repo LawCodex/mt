@@ -1,6 +1,6 @@
 ---
 title: "Rules of Procedure"
-identifier: "S.L. 220.4"
+identifier: "S.L. 220.04"
 eli: "https://legislation.mt/eli/sl/220.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/220.4/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Rules of Procedure (S.L. 220.4)
+# Rules of Procedure (S.L. 220.04)
 
 **SUBSIDIARY LEGISLATION 220.04**
 

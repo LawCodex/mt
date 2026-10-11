@@ -1,6 +1,6 @@
 ---
 title: "Public Service Commission Disciplinary Regulations"
-identifier: "S.L. const.7"
+identifier: "S.L. const.07"
 eli: "https://legislation.mt/eli/sl/const.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/const.7/20231001/eng"
 retrieved: 2026-10-12
 ---
 
-# Public Service Commission Disciplinary Regulations (S.L. const.7)
+# Public Service Commission Disciplinary Regulations (S.L. const.07)
 
 **SUBSIDIARY LEGISLATION CONST.07**
 

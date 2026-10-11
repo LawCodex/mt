@@ -1,6 +1,6 @@
 ---
 title: "Applications for Holding Musical Bands Order"
-identifier: "S.L. 10.1"
+identifier: "S.L. 10.01"
 eli: "https://legislation.mt/eli/sl/10.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/10.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Applications for Holding Musical Bands Order (S.L. 10.1)
+# Applications for Holding Musical Bands Order (S.L. 10.01)
 
 **SUBSIDIARY LEGISLATION 10.01**
 

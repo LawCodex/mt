@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Cultural Heritage Management under the auspices of the Faculty for the Built Environment (S.L. 327.311)
 
-MANAGEMENT TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ TAL-AMBJENT MIBNI [L.S.327.311
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.311**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -70,13 +64,7 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 ## 5. Programm ta’ studju.
 
-(1) Il-programm ta’ studju għandu jkun magħmul minn taqsimiet studju li għalihom hemm assenjati total ta’ 90 kredtu ECTS, li minnhom 55 kredtu ECTS ikunu assenjati għal taqsimiet studju mgħallma, 5 kredti ECTS ikunu assenjati għall-istage tas- MANAGEMENT TAĦT IL-PATROĊINJU
-
-*2*
-
-[L.S.327.311 TAL-FAKULTÀ TAL-AMBJENT MIBNI
-
-sajf u 30 kredtu ECTS ikunu assenjati għat-taqsima studju tad-dissertazzjoni.
+(1) Il-programm ta’ studju għandu jkun magħmul minn taqsimiet studju li għalihom hemm assenjati total ta’ 90 kredtu ECTS, li minnhom 55 kredtu ECTS ikunu assenjati għal taqsimiet studju mgħallma, 5 kredti ECTS ikunu assenjati għall-istage tas-sajf u 30 kredtu ECTS ikunu assenjati għat-taqsima studju tad-dissertazzjoni.
 
 (2) L-istudenti kollha huma meħtieġa jagħmlu stage tas-sajf obbligatorju f’istituzzjoni approvata mill-Bord, kif indikat fil-programm ta’ studju.
 
@@ -110,11 +98,7 @@ sajf u 30 kredtu ECTS ikunu assenjati għat-taqsima studju tad-dissertazzjoni.
 
 (1) L-istudenti huma meħtieġa jkollhom kuntatt regolari mas-superviżur tagħhom, għall-inqas darba fix-xahar.
 
-MANAGEMENT TAĦT IL-PATROĊINJU
-
-*3*
-
-TAL-FAKULTÀ TAL-AMBJENT MIBNI [L.S.327.311 (2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress tal-istudenti taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studju, kemm jekk l-istudent ikun qiegħed isegwi l-kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
+(2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress tal-istudenti taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studju, kemm jekk l-istudent ikun qiegħed isegwi l-kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 
 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont id-dispożizzjonijiet tar-Regolamenti Prinċipali; u
 

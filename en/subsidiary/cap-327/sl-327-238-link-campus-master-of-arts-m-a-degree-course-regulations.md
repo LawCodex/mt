@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Link Campus Master of Arts - M.A. - Degree Course Regulations (S.L. 327.238)
 
-LINK CAMPUS MASTER OF ARTS - M.A. -
-
-*1*
-
-DEGREE COURSE [S.L.327.238
-
 SUBSIDIARY LEGISLATION 327.238
 
 LINK CAMPUS MASTER OF ARTS - M.A. -

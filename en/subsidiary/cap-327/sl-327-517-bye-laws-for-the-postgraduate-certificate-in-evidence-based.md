@@ -17,14 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Postgraduate Certificate in Evidence-Based Management and Effective Decision Making - P.G.Cert. E.B.M.(Melit.) under the auspices of the Faculty of Economics, Management and Accountancy (S.L. 327.517)
 
-AGEMENT AND EFFECTIVE DECISION MAKING - P.G.Cert.
-
-E.B.M.(Melit.) UNDER THE AUSPICES OF THE FACULTY OF
-
-*1*
-
-ECONOMICS, MANAGEMENT AND ACCOUNTANCY [S.L.327.517 SUBSIDIARY LEGISLATION 327.517
-
 **BYE-LAWS FOR THE POSTGRADUTATE**
 
 **CERTIFICATE IN EVIDENCE-BASED**
@@ -68,12 +60,6 @@ These bye-laws shall be applicable for courses commencing in October 2015 and la
 (3) When the number of places is so limited and the number of eligible applicants exceeds the number of places available, applicants will be selected using the following criteria, the weighting of which shall be published at the time of the call for applications:
 
 \*These bye-laws have been repealed by Legal Notice 185 of 2022.
-
-AGEMENT AND EFFECTIVE DECISION MAKING - P.G.Cert. E.B.M.(Melit.) UNDER THE AUSPICES OF THE FACULTY OF [S.L.327.517 ECONOMICS, MANAGEMENT AND ACCOUNTANCY
-
-*2*
-
-(a) degree type and class;
 
 (b) experience in the area of the proposed study; and
 

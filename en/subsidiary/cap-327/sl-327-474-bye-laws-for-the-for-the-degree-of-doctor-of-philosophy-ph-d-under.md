@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the for the Degree of Doctor of Philosophy - Ph.D. - under the auspices of the Institute for Climate Change and Sustainable Development (S.L. 327.474)
 
-THE AUSPICES OF THE INSTITUTE FOR CLIMATE
-
-*1*
-
-CHANGE AND SUSTAINABLE DEVELOPMENT [S.L.327.474
-
 **SUBSIDIARY LEGISLATION 327.474**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR OF**
@@ -77,10 +71,6 @@ These bye-laws shall be applicable from October 2019 onwards.
 
 \*These bye-laws have been repealed by Legal Notice 216 of 2024.
 
-*2*
-
-THE AUSPICES OF THE INSTITUTE FOR CLIMATE [S.L.327.474 CHANGE AND SUSTAINABLE DEVELOPMENT
-
 (2) Applicants may also be asked to demonstrate competence in those skills required by the nature of the proposed research.
 
 ## 5. Institute Doctoral Committee.
@@ -121,8 +111,4 @@ The Board shall approve and publish guidelines on the format and presentation of
 
 (1) Students shall be required to submit a loose bound copy of their thesis for each member of the Board of Examiners, together with a copy in digital format. The officer in charge of the Institute shall issue a dated receipt.
 
-(2) On successful completion of their studies, students shall be required to submit to the Institute three hard bound copies of the thesis and one copy in digital format within six weeks from the publication of their result. One copy of the thesis shall be kept in the Library of the Institute and another at the University Library. THE AUSPICES OF THE INSTITUTE FOR CLIMATE
-
-*3*
-
-CHANGE AND SUSTAINABLE DEVELOPMENT [S.L.327.474 Students who do not comply with this bye-law shall not be awarded the Degree.
+(2) On successful completion of their studies, students shall be required to submit to the Institute three hard bound copies of the thesis and one copy in digital format within six weeks from the publication of their result. One copy of the thesis shall be kept in the Library of the Institute and another at the University Library. Students who do not comply with this bye-law shall not be awarded the Degree.

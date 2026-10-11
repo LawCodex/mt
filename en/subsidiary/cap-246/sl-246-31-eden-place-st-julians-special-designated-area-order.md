@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Eden Place, St Julians (Special Designated Area) Order (S.L. 246.31)
 
-*1*
-
-(SPECIAL DESIGNATED AREA) [S.L. 246.31] SUBSIDIARY LEGISLATION 246.31
+**SUBSIDIARY LEGISLATION 246.31**
 
 EDEN PLACE, ST JULIANS (SPECIAL DESIGNATED AREA) ORDER
 
@@ -37,7 +35,3 @@ Eden Place, St Julians consisting of immovable property situated in the area bor
 ## 3. Addition to the First Schedule to the Immovable Property (Acquisition by Non-Residents) Act. Cap. 246.
 
 Eden Place, St Julians shall be added to the List of Scheduled Zones in the First Schedule to the Immovable Property (Acquisition by Non-Residents) Act.
-
-*2*
-
-[S.L. 246.31] (SPECIAL DESIGNATED AREA)

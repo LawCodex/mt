@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Republic of Austria Order (S.L. 123.12)
 
-*1*
-
-WITH THE REPUBLIC OF AUSTRIA [S.L.123.12
-
 **SUBSIDIARY LEGISLATION 123.12**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -64,8 +60,6 @@ It is hereby declared -
 (b) that it is expedient that these arrangements should have effect.
 
 \*https://cfr.gov.mt/en/inlandrevenue/itu/Documents/Malta%20- %20Austria%20DTA%20(sythesised%20text).pdf
-
-2 [S.L.123.12 WITH THE REPUBLIC OF AUSTRIA
 
 ## SCHEDULE — CONVENTION BETWEEN — THE REPUBLIC OF MALTA
 
@@ -113,8 +107,6 @@ This Convention shall apply to persons who are residents of one or both of the C
 
 (ix) the contributions from agricultural and forestry enterprises to the fund for the equalisation of family burdens (die Beitrage yon land- und forstwirtschaftlichen Betrieben zum Ausgleichsfonds fur Familienbeihilfen);
 
-WITH THE REPUBLIC OF AUSTRIA [S.L.123.12 3
-
 (x) the tax on the value of vacant plots (die Abgabe vom Bodenwert bet unbebauten Grundstucken);
 
 (hereinafter referred to as "Austrian tax").
@@ -149,9 +141,7 @@ the income tax and surtax, including prepayments of tax whether made by deductio
 
 (g) the term "national" means:
 
-(i) in respect of Austria, any individual possessing the nationality of 4 [S.L.123.12 WITH THE REPUBLIC OF AUSTRIA
-
-Austria and any legal person, partnership and association deriving its status as such from the law in force in Austria;
+(i) in respect of Austria, any individual possessing the nationality of Austria and any legal person, partnership and association deriving its status as such from the law in force in Austria;
 
 (ii) in respect of Malta, any citizen of Malta as provided for in Chapter III of the Constitution of Malta and in the Maltese Citizenship Act, and any legal person, partnership or association deriving its status as such from the law in force in Malta;
 
@@ -181,9 +171,7 @@ Austria and any legal person, partnership and association deriving its status as
 
 (d) If he is a national of both Contracting States or of neither of them, the competent authorities of the Contracting States shall endeavour to settle the question by mutual agreement.
 
-(3) Where by reason of the provisions of paragraph (1) a person other than an individual is a resident of both Contracting States, then it shall be deemed to be a resident of the Contracting State in which its place of effective management is WITH THE REPUBLIC OF AUSTRIA [S.L.123.12 5
-
-situated.
+(3) Where by reason of the provisions of paragraph (1) a person other than an individual is a resident of both Contracting States, then it shall be deemed to be a resident of the Contracting State in which its place of effective management is situated.
 
 **ARTICLE 5**
 
@@ -223,9 +211,7 @@ situated.
 
 (5) An enterprise of a Contracting State shall not be deemed to have a permanent establishment in the other Contracting State merely because it carries on business in that other State through a broker, general commission agent or any other agent of an independent status, where such persons are acting in the ordinary course of their business.
 
-(6) The fact that a company which is a resident of a Contracting State controls or is controlled by a company which is a resident of the other Contracting State, or which carries on business in that other State (whether through a permanent 6 [S.L.123.12 WITH THE REPUBLIC OF AUSTRIA
-
-establishment or otherwise), shall not of itself make either company a permanent establishment of the other.
+(6) The fact that a company which is a resident of a Contracting State controls or is controlled by a company which is a resident of the other Contracting State, or which carries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself make either company a permanent establishment of the other.
 
 ## CHAPTER III — Taxation of Income — ARTICLE 6
 
@@ -249,9 +235,7 @@ establishment or otherwise), shall not of itself make either company a permanent
 
 (3) In the determination of the profits of a permanent establishment, there shall be allowed as deductions expenses which are incurred for the purposes of the permanent establishment including executive and general administrative expenses so incurred, whether in the State in which the permanent establishment is situated or elsewhere.
 
-(4) In so far as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph (2) shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary. The method of apportionment WITH THE REPUBLIC OF AUSTRIA [S.L.123.12 7
-
-adopted shall, however, be such that the result shall be in accordance with the principles embodied in this Article.
+(4) In so far as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph (2) shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary. The method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles embodied in this Article.
 
 (5) No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
 
@@ -285,8 +269,6 @@ adopted shall, however, be such that the result shall be in accordance with the 
 
 and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
 
-8 [S.L.123.12 WITH THE REPUBLIC OF AUSTRIA
-
 **ARTICLE 10**
 
 **Dividends**
@@ -311,9 +293,7 @@ This paragraph shall not effect the taxation of the company in respect of the pr
 
 (4) The provisions of paragraphs (1) and (2) shall not apply if the recipient of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State, of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State professional services from a fixed base situated therein and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such a case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
-(5) Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company to residents of the first-mentioned State, or subject the company’s undistributed profits to a tax on undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in that other State. The provisions of this paragraph shall not prevent WITH THE REPUBLIC OF AUSTRIA [S.L.123.12 9
-
-that other State from taxing dividends paid to residents of that State or dividends relating to a holding which is effectively connected with a permanent establishment or fixed base maintained in that other State by a resident of the first-mentioned State.
+(5) Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company to residents of the first-mentioned State, or subject the company’s undistributed profits to a tax on undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in that other State. The provisions of this paragraph shall not prevent that other State from taxing dividends paid to residents of that State or dividends relating to a holding which is effectively connected with a permanent establishment or fixed base maintained in that other State by a resident of the first-mentioned State.
 
 **ARTICLE 11**
 
@@ -337,9 +317,7 @@ that other State from taxing dividends paid to residents of that State or divide
 
 (1) Royalties arising in a Contracting State and paid to a resident of the other Contracting State shall be taxable only in that other State if such royalties consist of payments of any kind received as consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work.
 
-(2) Royalties arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other Contracting State if the royalties consist 10 [S.L.123.12 WITH THE REPUBLIC OF AUSTRIA
-
-of payments of any kind received as a consideration for the use of, or the right to use, cinematographic films or tapes for television or broadcasting, any patent, trade mark, design, model, plan, secret formula or process, industrial, commercial or scientific equipment, or information concerning industrial, commercial or scientific experience. However, such royalties may also be taxed in the Contracting State in which they arise, and according to the law of that State, but the tax so charged shall not exceed 10 per cent of the gross amount of such royalties.
+(2) Royalties arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other Contracting State if the royalties consist of payments of any kind received as a consideration for the use of, or the right to use, cinematographic films or tapes for television or broadcasting, any patent, trade mark, design, model, plan, secret formula or process, industrial, commercial or scientific equipment, or information concerning industrial, commercial or scientific experience. However, such royalties may also be taxed in the Contracting State in which they arise, and according to the law of that State, but the tax so charged shall not exceed 10 per cent of the gross amount of such royalties.
 
 (3) The provisions of paragraphs (1) and (2) shall not apply if the recipient of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State professional services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such a case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
@@ -356,8 +334,6 @@ of payments of any kind received as a consideration for the use of, or the right
 (2) Gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or of movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing professional services, including such gains from the alienation of such a permanent establishment (alone or together with the whole enterprise) or of such a fixed base, may be taxed in the other State. However, gains from the alienation of movable property of the kind referred to in paragraph (3) of Article 22 shall be taxable only in the Contracting State in which such movable property is taxable according to the said Article.
 
 (3) Gains from the alienation of any property other than those mentioned in paragraphs (1) and (2) shall be taxable only in the Contracting State of which the alienator is a resident.
-
-WITH THE REPUBLIC OF AUSTRIA [S.L.123.12 11
 
 **ARTICLE 14**
 
@@ -393,8 +369,6 @@ Directors’ fees and similar payments derived by a resident of a Contracting St
 
 (1) Notwithstanding the provisions of Articles 14 and 15, income derived by public entertainers, such as theatre, motion picture, radio or television artistes, and musicians, and by athletes, from their personal activities as such, may be taxed in the Contracting State in which these activities are exercised.
 
-12 [S.L.123.12 WITH THE REPUBLIC OF AUSTRIA
-
 (2) Where income in respect of personal activities as such of an entertainer or athlete accrues not to that entertainer or athlete himself but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the entertainer or athlete are exercised.
 
 **ARTICLE 18**
@@ -429,8 +403,6 @@ Pensions and other similar remuneration paid to a resident of a Contracting Stat
 
 (a) on all remittances from abroad for purposes of his maintenance, education or training; and
 
-WITH THE REPUBLIC OF AUSTRIA [S.L.123.12 13
-
 (b) for any remuneration for an employment exercised in the other Contracting State for a period not exceeding 183 days in the calendar year for the purposes of his practical training.
 
 (3) An individual who was a resident of a Contracting State immediately before visiting the other Contracting State and is temporarily present in that other State solely for the purpose of study, research or training as a recipient of a grant, allowance or award from a scientific, educational, religious or charitable organization or under a technical assistance programme entered into by the Government of a Contracting State shall, from the date of his arrival in that other State in connection with that visit, be exempt from tax in that other State -
@@ -459,8 +431,6 @@ WITH THE REPUBLIC OF AUSTRIA [S.L.123.12 13
 
 (4) All other elements of capital of a resident of a Contracting State shall be taxable only in that State.
 
-14 [S.L.123.12 WITH THE REPUBLIC OF AUSTRIA
-
 ## CHAPTER V — Elimination of Double Taxation — ARTICLE 23
 
 **Elimination of Double Taxation**
@@ -487,9 +457,7 @@ of the gross amount of the income in each case.
 
 (1) Notwithstanding the provisions of Article 1, the nationals of a Contracting State whether or not they are residents of one of the Contracting States, shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances are or may be subjected.
 
-(2) The taxation of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably WITH THE REPUBLIC OF AUSTRIA [S.L.123.12 15
-
-levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities.
+(2) The taxation of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities.
 
 This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities or any other personal circumstances which it grants to its own residents.
 
@@ -512,8 +480,6 @@ Similarly, any debts of an enterprise of a Contracting State to a resident of th
 (3) The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Convention. They may also consult together for the elimination of double taxation in cases not provided for in the Convention.
 
 (4) The competent authorities of the Contracting States may communicate with each other directly for the purpose of reaching an agreement in the sense of the preceding paragraphs.
-
-16 [S.L.123.12 WITH THE REPUBLIC OF AUSTRIA
 
 **ARTICLE 26**
 
@@ -551,9 +517,7 @@ Nothing in this Convention shall affect the fiscal privileges of diplomatic or c
 
 **Termination**
 
-This Convention shall remain in force indefinitely but either of the Contracting WITH THE REPUBLIC OF AUSTRIA [S.L.123.12 17
-
-States may, on or before the thirtieth day of June in any calendar year beginning after the expiration of a period of three years from the date of its entry into force, give to the other Contracting State, through diplomatic channels, written notice of termination and, in such event, the Convention shall cease to be effective:
+This Convention shall remain in force indefinitely but either of the Contracting States may, on or before the thirtieth day of June in any calendar year beginning after the expiration of a period of three years from the date of its entry into force, give to the other Contracting State, through diplomatic channels, written notice of termination and, in such event, the Convention shall cease to be effective:
 
 (a) in respect of taxes on income derived on or after the first day of January next following the year during which notice of termination has been given;
 

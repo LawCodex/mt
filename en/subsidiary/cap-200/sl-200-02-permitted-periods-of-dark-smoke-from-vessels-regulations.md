@@ -1,6 +1,6 @@
 ---
 title: "Permitted Periods of Dark Smoke from Vessels Regulations"
-identifier: "S.L. 200.2"
+identifier: "S.L. 200.02"
 eli: "https://legislation.mt/eli/sl/200.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/200.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Permitted Periods of Dark Smoke from Vessels Regulations (S.L. 200.2)
+# Permitted Periods of Dark Smoke from Vessels Regulations (S.L. 200.02)
 
 **SUBSIDIARY LEGISLATION 200.02**
 

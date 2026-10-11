@@ -1,6 +1,6 @@
 ---
 title: "Commissioners for Justice (Remuneration) Notice"
-identifier: "S.L. 291.5"
+identifier: "S.L. 291.05"
 eli: "https://legislation.mt/eli/sl/291.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/291.5/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Commissioners for Justice (Remuneration) Notice (S.L. 291.5)
+# Commissioners for Justice (Remuneration) Notice (S.L. 291.05)
 
 **SUBSIDIARY LEGISLATION 291.05**
 

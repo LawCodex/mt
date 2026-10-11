@@ -1,6 +1,6 @@
 ---
 title: "Milk Boiling Regulations"
-identifier: "S.L. 36.3"
+identifier: "S.L. 36.03"
 eli: "https://legislation.mt/eli/sl/36.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/36.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Milk Boiling Regulations (S.L. 36.3)
+# Milk Boiling Regulations (S.L. 36.03)
 
 **SUBSIDIARY LEGISLATION 36.03**
 

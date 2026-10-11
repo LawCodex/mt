@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws of in terms of the General Regulations for University Undergraduate Awards, 2004 for the Degree of Bachelor of Arts (Honours) in Public Sector Accounting - B.A. (Hons) - under the auspices of the Faculty of Economics, Management and Accountancy (S.L. 327.596)
 
-*1*
-
-ACCOUNTING - B.A. (HONS) - [S.L. 327.596 SUBSIDIARY LEGISLATION 327.596
+**SUBSIDIARY LEGISLATION 327.596**
 
 **BYE-LAWS IN TERMS OF THE GENERAL**
 
@@ -61,11 +59,7 @@ These bye-laws shall be applicable for courses commencing in October 2018 or lat
 
 ## 3. Requirements for Admission
 
-(1) To be registered as regular students in the Course, [S.L. 327.596 ACCOUNTING - B.A. (HONS) -
-
-applicants shall satisfy the general requirements for admission as specified in the Admissions Regulations of the University.
-
-*2*
+(1) To be registered as regular students in the Course, applicants shall satisfy the general requirements for admission as specified in the Admissions Regulations of the University.
 
 (2) Applicants admitted under paragraph (c) of regulation 6 of the Admissions Regulations must be in possession of those qualifications and/or experience that would satisfy the Faculty Admissions Committee that they have reached the academic standard required to follow the Course with profit.
 
@@ -89,9 +83,9 @@ The programme of study, which shall comprise study-units to which 180 ECTS credi
 
 Students who successfully complete taught study-units to which 30 ECTS credits are assigned and opt not to proceed with the Course, or having proceeded do not successfully complete the Course, shall be entitled to the Certificate.
 
-*3*
+## 7.
 
-ACCOUNTING - B.A. (HONS) - [S.L. 327.596 7. Students who successfully complete taught study-units to which 60 ECTS credits are assigned and opt not to proceed with the Course, or having proceeded do not successfully complete the Course, shall be entitled to the Diploma.
+Students who successfully complete taught study-units to which 60 ECTS credits are assigned and opt not to proceed with the Course, or having proceeded do not successfully complete the Course, shall be entitled to the Diploma.
 
 ## 8.
 

@@ -1,6 +1,6 @@
 ---
 title: "Financial Assistance Arrangements"
-identifier: "S.L. 146.1"
+identifier: "S.L. 146.01"
 eli: "https://legislation.mt/eli/sl/146.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/146.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Financial Assistance Arrangements (S.L. 146.1)
+# Financial Assistance Arrangements (S.L. 146.01)
 
 **SUBSIDIARY LEGISLATION 146.01**
 

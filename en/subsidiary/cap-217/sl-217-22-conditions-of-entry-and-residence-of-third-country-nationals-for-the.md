@@ -15,16 +15,6 @@ retrieved: 2026-10-12
 
 # Conditions of Entry and Residence of Third-Country Nationals for the Purposes of Research, Studies, Training and Voluntary Service in the Mobility Project for Young People: Voluntary Projects Regulations (S.L. 217.22)
 
-COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*1*
-
-PEOPLE: VOLUNTARY PROJECTS [S.L. 217.22
-
 **SUBSIDIARY LEGISLATION 217.22**
 
 **CONDITIONS OF ENTRY AND RESIDENCE OF**
@@ -59,16 +49,6 @@ Provided that the categories of third country nationals that may be admitted int
 
 (3) The scope of these regulations is to lay down:
 
-**COUNTRY NATIONALS FOR THE PURPOSES OF**
-
-**RESEARCH, STUDIES, TRAINING AND VOLUNTARY**
-
-**SERVICE IN THE MOBILITY PROJECT FOR YOUNG**
-
-**PEOPLE: VOLUNTARY PROJECTS**
-
-*[S.L. 217.22 2*
-
 (a) the conditions of entry into, and residence for a period exceeding 90 days in Malta, and the rights of third-country nationals, and where applicable their family members, for the purpose of research, studies, training or voluntary service in the Mobility Project for Young People: Voluntary Projects;
 
 (b) the conditions of entry and residence, and the rights of researchers, and where applicable their family members, and students, referred to in paragraph (a), in Malta, where such third country nationals have been granted an authorisation in an other Member State on the basis of Council Directive 2016/801/EU of 11th May 2016 on the conditions of entry and residence of third-country nationals for the purposes of research, studies, training, voluntary service, pupil exchange schemes or educational projects and au pairing.
@@ -101,17 +81,7 @@ In these regulations, unless the context otherwise requires:
 
 "educational project" means a set of educational actions developed by a Maltese educational establishment in cooperation with similar establishments in a third country, with the purpose of sharing cultures and knowledge;
 
-"employer" means any natural person or any legal entity, COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*3*
-
-PEOPLE: VOLUNTARY PROJECTS [S.L. 217.22
-
-for or under the direction or supervision of whom or which the employment is undertaken;
+"employer" means any natural person or any legal entity, for or under the direction or supervision of whom or which the employment is undertaken;
 
 "employment" means the exercise of activities covering any form of labour or work regulated under national law or applicable collective agreements or in accordance with established practice for or under the direction or supervision of an employer;
 
@@ -135,16 +105,6 @@ for or under the direction or supervision of whom or which the employment is und
 
 "other Member State" means the Member State which first issues an authorisation to a third-country national on the basis of the Directive referred to in regulation 1(2);
 
-**COUNTRY NATIONALS FOR THE PURPOSES OF**
-
-**RESEARCH, STUDIES, TRAINING AND VOLUNTARY**
-
-**SERVICE IN THE MOBILITY PROJECT FOR YOUNG**
-
-**PEOPLE: VOLUNTARY PROJECTS**
-
-*[S.L. 217.22 4*
-
 "research" means creative work undertaken on a systematic basis in order to increase the stock of knowledge, including knowledge of man, culture and society, and the use of this stock of knowledge to devise new applications;
 
 "researcher" means a third-country national who holds a doctoral degree or an appropriate higher education qualification which gives that third-country national access to doctoral programmes, who is selected by a research organisation and admitted to Malta for carrying out a research activity for which such qualification is normally required;
@@ -160,16 +120,6 @@ for or under the direction or supervision of whom or which the employment is und
 "third-country national" means a person who is not a citizen of the Union within the meaning of Article 20(1) of the Treaty on the Functioning of the European Union;
 
 "trainee" means a third-country national who holds a degree of higher education or is pursuing a course of study in a third country that leads to a higher education degree and who is admitted to the territory of Malta for a training programme for the purpose of gaining knowledge, practice and experience in a professional environment;
-
-COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*5*
-
-PEOPLE: VOLUNTARY PROJECTS [S.L. 217.22
 
 "Union or multilateral programmes that comprise mobility measures" means programmes funded by the Union or by Member States promoting mobility of third-country nationals in the Union or in the Member States participating in the respective programmes;
 
@@ -194,16 +144,6 @@ PEOPLE: VOLUNTARY PROJECTS [S.L. 217.22
 (d) who enjoy long-term resident status in a Member State in accordance with the Status of Long-Term Residents (Third Country Nationals) Regulations and Council Directive 2003/109/EC concerning the status of third-country nationals who are long-term residents;
 
 *S.L. 217.05.*
-
-COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*6*
-
-[S.L. 217.22 PEOPLE: VOLUNTARY PROJECTS
 
 (e) who enjoy, together with their family members, and irrespective of their nationality, rights of free movement equivalent to those of citizens of the Union under agreements either between the Union and its Member States and third countries or between the Union and third countries;
 
@@ -235,17 +175,7 @@ Conditions for admission Criteria and requirements for admission.
 
 (b) the relevant specific conditions in regulations 8, 11, 12 or 13.
 
-(2) Where all the general conditions and relevant specific COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*7*
-
-PEOPLE: VOLUNTARY PROJECTS [S.L. 217.22
-
-conditions are fulfilled, the third-country national shall be entitled to an authorisation:
+(2) Where all the general conditions and relevant specific conditions are fulfilled, the third-country national shall be entitled to an authorisation:
 
 Provided that where an authorisation is in the format of a residence permit and all the admission conditions laid down in the regulations have been fulfilled, a visa, where this is required, shall be issued with a view to enabling the person to travel to Malta.
 
@@ -269,17 +199,7 @@ Provided that, with regard to students, the pertinent authorities may either con
 
 (e) evidence that during the planned stay, the applicant will have sufficient resources to cover subsistence costs without having recourse to the national social assistance system in Malta as well as return travel costs:
 
-Provided that the assessment of the sufficient resources shall be based on an individual examination of the case and shall take into account resources that derive, inter alia, from a grant, a scholarship or a fellowship, a valid work COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*8*
-
-[S.L. 217.22 PEOPLE: VOLUNTARY PROJECTS
-
-contract or a binding job offer or a financial undertaking by an entity hosting trainees or a Mobility Project for Young People:
+Provided that the assessment of the sufficient resources shall be based on an individual examination of the case and shall take into account resources that derive, inter alia, from a grant, a scholarship or a fellowship, a valid work contract or a binding job offer or a financial undertaking by an entity hosting trainees or a Mobility Project for Young People:
 
 Voluntary Projects scheme organisation:
 
@@ -301,17 +221,7 @@ Provided that the Chief Executive Officer may accept an application submitted wh
 
 ### 8. Specific conditions for researchers.
 
-(1) Without prejudice to the general conditions laid down in regulation 7, a third-country national submitting an application for admission for the purpose of research shall present a hosting agreement, which shall specify the legal relationship and working conditions of the researcher, duly signed by the researcher and the COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*9*
-
-PEOPLE: VOLUNTARY PROJECTS [S.L. 217.22
-
-research organisation, provided that:
+(1) Without prejudice to the general conditions laid down in regulation 7, a third-country national submitting an application for admission for the purpose of research shall present a hosting agreement, which shall specify the legal relationship and working conditions of the researcher, duly signed by the researcher and the research organisation, provided that:
 
 (a) the research project has been accepted by the relevant authorities in the research organisation, after the said authorities have examined the purpose, the duration of the research, the availability of the necessary financial resources for it to be carried out and the researcher’s qualifications, in the light of the research objectives, which qualifications should be evidenced by a certified copy of his qualification;
 
@@ -331,17 +241,7 @@ Provided that, where the right of residence of the researcher is extended in acc
 
 (a) which no longer meets the conditions laid down by the Council for the purposes of sub-regulation (1), the provisions of regulation 8(1)(b) or the provisions of regulation 10(8); or
 
-(b) which fails to provide to the Council, within two months of the date of expiry of the hosting agreement referred COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*10*
-
-[S.L. 217.22 PEOPLE: VOLUNTARY PROJECTS
-
-to in regulation 10 with confirmation that the work has been carried out for each of the research projects in respect of which a hosting agreement has been signed; or
+(b) which fails to provide to the Council, within two months of the date of expiry of the hosting agreement referred to in regulation 10 with confirmation that the work has been carried out for each of the research projects in respect of which a hosting agreement has been signed; or
 
 (c) in cases where the approval has been fraudulently acquired; or
 
@@ -365,17 +265,7 @@ to in regulation 10 with confirmation that the work has been carried out for eac
 
 (d) the start and end date or the estimated duration of the research activity;
 
-(e) information on the intended mobility in one or several second Member States if the mobility is known at the COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*11*
-
-PEOPLE: VOLUNTARY PROJECTS [S.L. 217.22
-
-time of application in Malta.
+(e) information on the intended mobility in one or several second Member States if the mobility is known at the time of application in Malta.
 
 (4) The hosting agreement may also contain:
 
@@ -405,16 +295,6 @@ time of application in Malta.
 
 (b) the fees charged by the higher education institution have been paid;
 
-COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*12*
-
-[S.L. 217.22 PEOPLE: VOLUNTARY PROJECTS
-
 (c) he has sufficient knowledge of the language of the course to be followed;
 
 (d) he will have sufficient resources to cover the study costs.
@@ -440,16 +320,6 @@ SERVICE IN THE MOBILITY PROJECT FOR YOUNG
 (v) the legal relationship between the trainee and the host entity;
 
 (b) provide evidence of having obtained a higher education degree within the two years preceding the date of application or of pursuing a course of study that leads to a higher education degree;
-
-COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*13*
-
-PEOPLE: VOLUNTARY PROJECTS [S.L. 217.22
 
 (c) provide evidence that during the stay he will have sufficient resources to cover the training costs;
 
@@ -479,16 +349,6 @@ In addition to the general conditions laid down in regulation 7, a third-country
 
 (iv) the volunteering hours;
 
-COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*14*
-
-[S.L. 217.22 PEOPLE: VOLUNTARY PROJECTS
-
 (v) the resources available to cover his subsistence and accommodation costs and a minimum sum of money as pocket money throughout the stay; and
 
 (vi) where applicable, the training he will receive to help perform the voluntary service;
@@ -513,17 +373,7 @@ SERVICE IN THE MOBILITY PROJECT FOR YOUNG
 
 (3) For researchers and students coming to the Union in the framework of a specific Union or multilateral programme that comprises mobility measures, or an agreement between two or more recognised higher education institutions, the authorisation shall make a reference to that specific programme or agreement.
 
-(4) When the authorisation for long-term mobility is issued to a researcher in the form of a residence permit, the Chief Executive Officer shall use the format laid down in Regulation (EC) No 1030/ COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*15*
-
-PEOPLE: VOLUNTARY PROJECTS [S.L. 217.22
-
-2002 and enter ‘researcher-mobility’ on the residence permit.
+(4) When the authorisation for long-term mobility is issued to a researcher in the form of a residence permit, the Chief Executive Officer shall use the format laid down in Regulation (EC) No 1030/ 2002 and enter ‘researcher-mobility’ on the residence permit.
 
 (5) When the authorisation for long-term mobility is issued to a researcher in the form of a long-stay visa, the authorities responsible for the issuance of visas shall enter ‘researcher-mobility’ under the heading ‘remarks’ on the visa sticker.
 
@@ -545,16 +395,6 @@ Provided further that if the general conditions laid down in regulation 7 are no
 
 (4) The period of validity of an authorisation for trainees shall be for the duration of the training agreement where this is shorter than six months, or for a maximum of six months:
 
-COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*16*
-
-[S.L. 217.22 PEOPLE: VOLUNTARY PROJECTS
-
 Provided that if the duration of the agreement is longer than six months, the duration of the validity of the authorisation may correspond to the period concerned subject to approval bv the pertinent education authorities. The Chief Executive Officer, in consultation with the pertinent education authorities, may decide to allow the renewal of the authorisation once, for the period necessary to complete the traineeship if the provisions of regulation 18 do not apply.
 
 (5) The period of validity of an authorisation for volunteers shall be for the duration of the agreement referred to in regulation 13(a) if this period is shorter than one year or for the maximum period of one year:
@@ -574,16 +414,6 @@ Grounds for rejection, withdrawal or non-renewal of authorisations 17. (1) The C
 (a) the general conditions laid down in regulation 7 or the relevant specific conditions laid down in regulations 8, 11, 12 or 13 are not met;
 
 (b) the documents presented have been fraudulently acquired, or falsified, or tampered with;
-
-COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*17*
-
-PEOPLE: VOLUNTARY PROJECTS [S.L. 217.22
 
 (c) the host entity is not approved;
 
@@ -611,17 +441,7 @@ PEOPLE: VOLUNTARY PROJECTS [S.L. 217.22
 
 (1) The Chief Executive Officer shall withdraw or, where applicable, refuse to renew an authorisation where:
 
-(a) the third-country national no longer meets the COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*18*
-
-[S.L. 217.22 PEOPLE: VOLUNTARY PROJECTS
-
-general conditions laid down in regulation 7, except for regulation 7(6), or the relevant specific conditions laid down in regulations 8, 11, 12 or 13, or the conditions laid down in regulation 16;
+(a) the third-country national no longer meets the general conditions laid down in regulation 7, except for regulation 7(6), or the relevant specific conditions laid down in regulations 8, 11, 12 or 13, or the conditions laid down in regulation 16;
 
 (b) the authorisation or the documents presented have been fraudulently acquired, or falsified, or tampered with;
 
@@ -647,16 +467,6 @@ general conditions laid down in regulation 7, except for regulation 7(6), or the
 
 (3) With regard to withdrawal of authorisation, when assessing the lack of progress in the relevant studies, as referred to in sub-regulation (2)(f), the Chief Executive Officer shall consult with the host entity.
 
-COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*19*
-
-PEOPLE: VOLUNTARY PROJECTS [S.L. 217.22
-
 (4) The Chief Executive Officer shall withdraw or refuse to renew an authorisation for reasons of public policy, public security or public health.
 
 (5) Where a third-country national applies for renewal of the authorisation to enter into or continue to be in an employment relationship in Malta, with the exception of a researcher who continues the employment relationship with the same host entity, the Chief Executive Officer may verify with the authorities responsible for employment whether the post in question could be filled by Maltese nationals or by other Union citizens, or by third-country nationals who are long-term residents in Malta, in which case he may refuse to renew the authorisation. This provision shall apply without prejudice to the principle of preference for Union citizens as provided in the relevant provisions of the Treaty of Accession.
@@ -679,17 +489,7 @@ PEOPLE: VOLUNTARY PROJECTS [S.L. 217.22
 
 (a) study and maintenance grants and loans or other grants and loans;
 
-(b) the granting family benefits to researchers who COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*20*
-
-[S.L. 217.22 PEOPLE: VOLUNTARY PROJECTS
-
-have been authorised to reside in Malta for a period not exceeding six months;
+(b) the granting family benefits to researchers who have been authorised to reside in Malta for a period not exceeding six months;
 
 (c) the limitation of the said regulation 23 to cases where the registered or usual place of residence of the family members of the researcher for whom he or she claims benefits lies in the territory of Malta;
 
@@ -711,21 +511,11 @@ The researcher may carry out teaching activities in accordance with guidelines i
 
 Provided that such student is in possession of an employment licence issued in terms of article 11(3) of the Act.
 
-(2) The authorities responsible for employment, in consultation with the education authorities and the Chief Executive Officer, shall determine, following the examination of the labour market situation, the maximum number of hours per week or days or months per year allowed for such an activity, which shall not be less than 15 hours per week, or the equivalent in days or months per year. COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*21*
-
-PEOPLE: VOLUNTARY PROJECTS [S.L. 217.22
-
-### 22. Stay for the purpose of job-searching or entrepreneurship for researchers and students.
-
-(1) After the completion of the research or studies, researchers and students shall have the possibility to stay in Malta, on the basis of the residence permit referred to in sub-regulation (2), for a period of at least nine months in order to seek employment or set up a business:
+(2) The authorities responsible for employment, in consultation with the education authorities and the Chief Executive Officer, shall determine, following the examination of the labour market situation, the maximum number of hours per week or days or months per year allowed for such an activity, which shall not be less than 15 hours per week, or the equivalent in days or months per year. 22. (1) After the completion of the research or studies, researchers and students shall have the possibility to stay in Malta, on the basis of the residence permit referred to in sub-regulation (2), for a period of at least nine months in order to seek employment or set up a business:
 
 Provided that the authorities responsible for education and employment in consultation with the Chief Executive Officer and may decide to set a minimum level of qualification that students shall have obtained in order to benefit from this possibility which level shall not be higher than level 7 of the European Qualifications Framework.
+
+*Stay for the purpose of job-searching or entrepreneurship for researchers and students.*
 
 (2) For the purpose of stay referred to in sub-regulation (1), the Chief Executive Officer shall, upon an application by the researcher or the student, issue a residence permit to that third-country national in accordance with Regulation EC No 1030/2002 where the conditions laid down in regulation 7(1) (a), (c), (d) and (e), regulation 7(6) and, where applicable, in regulation 7(2) are still fulfilled.
 
@@ -741,17 +531,7 @@ Provided that the authorities responsible for education and employment in consul
 
 (6) Applications of the researcher or the student and, where applicable, the members of the researcher’s family under this regulation, shall be submitted at least 30days before the expiry of the authorisation issued under regulations 15 and 23.
 
-(7) If the evidence of having obtained a higher education diploma, certificate or other evidence of formal qualifications or the confirmation by the research organisation of the completion of the research activity are not available before the expiry of the COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*22*
-
-[S.L. 217.22 PEOPLE: VOLUNTARY PROJECTS
-
-authorisation issued under regulation 15, and all other conditions are fulfilled, the Chief Executive Officer shall allow the third-country national to stay in Malta in order to submit such evidence within a reasonable time.
+(7) If the evidence of having obtained a higher education diploma, certificate or other evidence of formal qualifications or the confirmation by the research organisation of the completion of the research activity are not available before the expiry of the authorisation issued under regulation 15, and all other conditions are fulfilled, the Chief Executive Officer shall allow the third-country national to stay in Malta in order to submit such evidence within a reasonable time.
 
 (8) After a minimum of three months from the issuance of the residence permit under this regulation, the Chief Executive Officer shall require a third-country national to prove that he has a genuine chance of being engaged or of launching a business.
 
@@ -773,17 +553,7 @@ For the purpose of allowing the family members of the researcher to join him in 
 
 *S.L. 217.06.*
 
-(c) by way of derogation from the provisions of regulation 9 of the Family Reunification Regulations, residence permits for family members shall be granted by the Chief Executive Officer if the conditions for family reunification are fulfilled, within ninety days from the date on which the complete application was submitted. The Chief Executive Officer shall process the application for the family members at the same time as the application for admission or for long-term mobility of the researcher, in case where the application for the family members is submitted at the same time. The residence COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*23*
-
-PEOPLE: VOLUNTARY PROJECTS [S.L. 217.22
-
-permit for family members shall be granted only if the researcher is issued an authorisation under regulation 15;
+(c) by way of derogation from the provisions of regulation 9 of the Family Reunification Regulations, residence permits for family members shall be granted by the Chief Executive Officer if the conditions for family reunification are fulfilled, within ninety days from the date on which the complete application was submitted. The Chief Executive Officer shall process the application for the family members at the same time as the application for admission or for long-term mobility of the researcher, in case where the application for the family members is submitted at the same time. The residence permit for family members shall be granted only if the researcher is issued an authorisation under regulation 15;
 
 *S.L. 217.06.*
 
@@ -802,16 +572,6 @@ permit for family members shall be granted only if the researcher is issued an a
 (2) During the mobility referred to in sub-regulation (1), researchers may, in addition to research activities, teach and students may, in addition to their studies, work, in accordance with the conditions laid down in regulations 20 and 21 respectively.
 
 (3) When a researcher moves to Malta in accordance with regulations 25 or 26, family members holding a residence permit issued in accordance with regulation 23 and accompanying the researcher, shall be authorised to move to Malta with the researcher in the framework of the researcher's mobility under the conditions laid down in regulation 27.
-
-COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*24*
-
-[S.L. 217.22 PEOPLE: VOLUNTARY PROJECTS
 
 ### 25. Short-term mobility of researchers.
 
@@ -837,17 +597,7 @@ SERVICE IN THE MOBILITY PROJECT FOR YOUNG
 
 (b) where not specified in the hosting agreement, the planned duration and dates of the mobility;
 
-(c) evidence that the researcher has sickness insurance COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*25*
-
-PEOPLE: VOLUNTARY PROJECTS [S.L. 217.22
-
-for all the risks normally covered for Maltese nationals as provided for in regulation 7(1) (c);
+(c) evidence that the researcher has sickness insurance for all the risks normally covered for Maltese nationals as provided for in regulation 7(1) (c);
 
 (d) evidence that during the stay the researcher will have sufficient resources to cover subsistence costs without having recourse to the social assistance system in Malta, as provided for in regulation 7(1) (e), as well as the travel costs to the other Member State in the cases referred to in regulation 30(2):
 
@@ -867,17 +617,7 @@ Provided further that the research organisation shall present the documents in e
 
 (9) The Chief Executive Officer shall, without delay, inform the competent authorities of the other Member State and the research organisation, in writing, of his objection, if any, to the mobility. Where the Chief Executive Officer objects to the mobility in accordance with sub-regulation (7) and the mobility has not yet taken place, the researcher shall not be allowed to carry out part of the research in the research organisation in Malta. Where the mobility has already taken place, regulation 29(3) or regulation 30(2) or (3) shall apply.
 
-(10) After the period of objection referred to in sub-regulation (7) has expired, the Chief Executive Officer shall issue a document to the researcher attesting that he is entitled to stay in Malta and enjoy the COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*26*
-
-[S.L. 217.22 PEOPLE: VOLUNTARY PROJECTS
-
-rights provided for in these regulations.
+(10) After the period of objection referred to in sub-regulation (7) has expired, the Chief Executive Officer shall issue a document to the researcher attesting that he is entitled to stay in Malta and enjoy the rights provided for in these regulations.
 
 ### 26. Long-term mobility of researchers.
 
@@ -901,17 +641,7 @@ Provided that the long-term mobility of a researcher shall not be less than 360 
 
 (vi) the address of the researcher in Malta:
 
-Provided that where the address is not available at the time of the application for mobility, and the researcher does not yet know his future address, the Chief Executive Officer shall accept a temporary address. In such a case, the researcher shall provide his permanent COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*27*
-
-PEOPLE: VOLUNTARY PROJECTS [S.L. 217.22
-
-address at the latest at the time of the issuance of the authorisation for long-term mobility:
+Provided that where the address is not available at the time of the application for mobility, and the researcher does not yet know his future address, the Chief Executive Officer shall accept a temporary address. In such a case, the researcher shall provide his permanent address at the latest at the time of the issuance of the authorisation for long-term mobility:
 
 Provided further that the applicant shall present the documents in the Maltese or English language and if such documents are not in the Maltese or the English language, a translation thereof shall be submitted;
 
@@ -932,16 +662,6 @@ Provided further that the applicant shall present the documents in the Maltese o
 (a) the conditions set out in sub-regulation (2)(a) are not complied with;
 
 (b) one of the grounds for rejection set out in regulation 17, with the exception of sub-regulation (1)(a) of that regulation applies;
-
-COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*28*
-
-[S.L. 217.22 PEOPLE: VOLUNTARY PROJECTS
 
 (c) the researcher's authorisation in the other Member State expires during the procedure; or
 
@@ -969,16 +689,6 @@ SERVICE IN THE MOBILITY PROJECT FOR YOUNG
 
 (b) evidence that the family member has resided as a member of the family of the researcher in the other Member State in accordance with regulation 23:
 
-COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*29*
-
-PEOPLE: VOLUNTARY PROJECTS [S.L. 217.22
-
 Provided that the Chief Executive Officer may object to the mobility of the family member where the conditions set out in sub-regulation (1) are not complied with and, in such case, the provisions of regulation 25(7)(b) and (c) and (9) shall apply to those family members accordingly.
 
 (3) In relation to a family member of a researcher to whom the provisions of regulation 26 apply, an application shall be submitted by the researcher or by the family members of the researcher to the Chief Executive Officer. The Chief Executive Officer shall require the transmission of the following documents and information in relation to the family members:
@@ -999,17 +709,7 @@ Provided that the Chief Executive Officer may object to the mobility of the fami
 
 ### 28. Mobility of students.
 
-(1) A student who holds a valid authorisation issued by the other Member State and who is covered by a Union or multilateral programme that comprises mobility measures or by an COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*30*
-
-[S.L. 217.22 PEOPLE: VOLUNTARY PROJECTS
-
-agreement between two or more higher education institutions shall be entitled to enter and stay in Malta in order to carry out part of his studies in a higher education institution for a period up to 360 days subject to the conditions laid down in sub-regulations (3) to (11).
+(1) A student who holds a valid authorisation issued by the other Member State and who is covered by a Union or multilateral programme that comprises mobility measures or by an agreement between two or more higher education institutions shall be entitled to enter and stay in Malta in order to carry out part of his studies in a higher education institution for a period up to 360 days subject to the conditions laid down in sub-regulations (3) to (11).
 
 (2) A student who is not covered by a Union or multilateral programme that comprises mobility measures or by an agreement between two or more higher education institutions shall submit an application for an authorisation to enter and stay in Malta in order to carry out part of the studies in a higher education institution in accordance with regulations 7 and 11.
 
@@ -1026,16 +726,6 @@ agreement between two or more higher education institutions shall be entitled to
 (6) The notification shall include the valid travel document, as provided for in regulation 7(1) (a), and the valid authorisation issued by the other Member State covering the total period of the mobility.
 
 (7) The Chief Executive Officer may require the notification to include the transmission of the following documents and information:
-
-COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*31*
-
-PEOPLE: VOLUNTARY PROJECTS [S.L. 217.22
 
 (a) evidence that the student carries out part of the studies in Malta in the framework of a Union or multilateral programme that comprises mobility measures or of an agreement between two or more higher education institutions and evidence that the student has been accepted by a higher education institution in Malta;
 
@@ -1059,17 +749,7 @@ Provided further that the Chief Executive Officer may require the higher educati
 
 (c) the maximum duration of stay referred to in sub-regulation (1) is going to be reached.
 
-(9) A student who is considered to pose a threat to public COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*32*
-
-[S.L. 217.22 PEOPLE: VOLUNTARY PROJECTS
-
-policy, public security or public health shall not be allowed to enter or to stay in Malta.
+(9) A student who is considered to pose a threat to public policy, public security or public health shall not be allowed to enter or to stay in Malta.
 
 (10) The Chief Executive Officer shall, without delay, inform the competent authorities of the other Member State and the higher education institution in Malta in writing about their objection to the mobility. Where the objection to the mobility is in accordance with sub-regulation (8), the student shall not be allowed to carry out part of the studies in the higher education institution in Malta.
 
@@ -1088,16 +768,6 @@ policy, public security or public health shall not be allowed to enter or to sta
 ### 30. Malta as the other Member State.
 
 (1) Where applicable, where the Chief Executive Officer withdraws the authorisation in accordance with the provisions of regulation 18, he shall inform the competent authorities of the Member State to which the third country national has exercised his right to mobility immediately.
-
-COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*33*
-
-PEOPLE: VOLUNTARY PROJECTS [S.L. 217.22
 
 (2) Where the researcher or, where applicable, his family members, or the student, do not or no longer fulfil, the conditions for mobility in the Member State where the third country national has exercised mobility, upon the request of the said Member State, the Chief Executive Officer and the Principal Immigration Officer shall allow re-entry of the researcher and, where applicable, of his family members, or of the student, without formalities and delay.
 
@@ -1118,16 +788,6 @@ Provided that the period referred to in subregulation (1) shall be suspended unt
 Provided further that the application may be rejected if the additional information or documents have not been submitted within the deadline indicated in this regulation.
 
 (3) Reasons for a decision declaring as inadmissable or rejecting an application or refusing renewal of the authorisation shall be given in writing to the applicant.
-
-COUNTRY NATIONALS FOR THE PURPOSES OF
-
-RESEARCH, STUDIES, TRAINING AND VOLUNTARY
-
-SERVICE IN THE MOBILITY PROJECT FOR YOUNG
-
-*34*
-
-[S.L. 217.22 PEOPLE: VOLUNTARY PROJECTS
 
 (4) Reasons for a decision withdrawing an authorisation shall be given in writing to the third-country national as well as to the host entity.
 

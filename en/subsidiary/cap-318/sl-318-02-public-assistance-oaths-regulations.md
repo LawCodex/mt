@@ -1,6 +1,6 @@
 ---
 title: "Public Assistance (Oaths) Regulations"
-identifier: "S.L. 318.2"
+identifier: "S.L. 318.02"
 eli: "https://legislation.mt/eli/sl/318.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/318.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Public Assistance (Oaths) Regulations (S.L. 318.2)
+# Public Assistance (Oaths) Regulations (S.L. 318.02)
 
 **SUBSIDIARY LEGISLATION 318.02**
 

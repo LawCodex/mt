@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Addressing the Dissemination of Terrorist Content Online Regulations (S.L. 9.30)
 
-*1*
-
-CONTENT ONLINE [S.L. 9.30 SUBSIDIARY LEGISLATION 9.30
+**SUBSIDIARY LEGISLATION 9.30**
 
 ADDRESSING THE DISSEMINATION OF TERRORIST CONTENT ONLINE REGULATIONS
 
@@ -58,11 +56,9 @@ In these regulations, unless the context otherwise requires:
 
 (2) Where a removal order has not been previously issued to the hosting service provider, the Police shall provide that hosting service provider with information on the applicable procedures and deadlines, at least twelve (12) hours before the issuing of the removal order;
 
-Provided that a lesser period shall apply in urgent cases. [S.L. 9.30 CONTENT ONLINE
+Provided that a lesser period shall apply in urgent cases.
 
 (3) The Police shall transmit the removal order to the contact point of the hosting service provider by electronic means capable of producing a written record under conditions that allow to establish the authentication of the sender, including the accuracy of the date and the time of sending and receipt of the order.
-
-*2*
 
 (4) Where the hosting service provider has its established or legal representative in another Member State, the Police shall simultaneously send a copy of the removal order to the competent authority of the Member State where the hosting service provider has its main establishment or legal representative.
 
@@ -78,13 +74,11 @@ Provided that a lesser period shall apply in urgent cases. [S.L. 9.30 CONTENT ON
 
 (2) If the Magistrate decides that the hosting service provider is exposed to terrorist content, the hosting service provider shall, within three (3) months from receipt of the decision and on an annual basis thereafter, report to the Police on the specific measures that it has taken in accordance with the provisions of article 5(5) of the Regulation.
 
-(3) Where, based on the report referred to in sub-regulation (2) and, where relevant, any other objective factors, the Police, acting on the advice of the Critical Information Infrastructure Protection Unit, as defined in the Measures for High Common Level of Security of Network CONTENT ONLINE [S.L. 9.30 and Information Systems Order, consider that the specific measures taken do not comply with paragraphs (2) and (3) of Article 5 of the Regulation, the Police shall submit a report to the Court by means of an application filed by a police officer not below the rank of inspector. The Court shall hear submissions from the Police and the hosting service provider and may require the hosting service provider to take the necessary measures.
+(3) Where, based on the report referred to in sub-regulation (2) and, where relevant, any other objective factors, the Police, acting on the advice of the Critical Information Infrastructure Protection Unit, as defined in the Measures for High Common Level of Security of Network and Information Systems Order, consider that the specific measures taken do not comply with paragraphs (2) and (3) of Article 5 of the Regulation, the Police shall submit a report to the Court by means of an application filed by a police officer not below the rank of inspector. The Court shall hear submissions from the Police and the hosting service provider and may require the hosting service provider to take the necessary measures.
 
 *S.L. 460.35.*
 
 (4) A hosting service provider may, at any time, request the Magistrate to review and, where appropriate, amend or revoke any decision referred to in sub-regulations (1) or (3).
-
-*3*
 
 (5) The Magistrate shall, within three (3) months from receipt of the request referred to in sub-regulation (4), adopt a reasoned decision on the request based on objective factors and notify the hosting service provider of that decision.
 
@@ -102,11 +96,7 @@ The Magistrate or the Police may request a hosting service provider to preserve 
 
 (4) Hosting service providers and content providers shall have the right to submit, within forty-eight (48) hours of receiving a removal order, an application together with a reasoned request to the Court requesting scrutiny of the removal order as referred to in sub-regulation (1) of this regulation.
 
-(5) The Magistrate shall, within seventy-two (72) hours of receiving the application referred to in sub-regulation (4), following [S.L. 9.30 CONTENT ONLINE
-
-scrutiny of the removal order, adopt a reasoned decision setting out its findings as to whether the removal order seriously or manifestly infringes the provisions of the Regulation, or the fundamental rights and freedoms guaranteed by the Charter.
-
-*4*
+(5) The Magistrate shall, within seventy-two (72) hours of receiving the application referred to in sub-regulation (4), following scrutiny of the removal order, adopt a reasoned decision setting out its findings as to whether the removal order seriously or manifestly infringes the provisions of the Regulation, or the fundamental rights and freedoms guaranteed by the Charter.
 
 (6) When the Magistrate, upon scrutiny of the removal order, decides that the removal order issued by the competent authority of another Member State is in accordance with the provisions of the Charter and of the Regulation, the Magistrate shall issue a reasoned decision requiring the hosting service provider to comply with the requirements of the removal order.
 

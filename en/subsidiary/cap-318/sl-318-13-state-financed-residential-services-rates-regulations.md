@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # State Financed Residential Services Rates Regulations (S.L. 318.13)
 
-*1*
-
-RESIDENTIAL SERVICES RATES [S.L. 318.13 SUBSIDIARY LEGISLATION 318.13
+**SUBSIDIARY LEGISLATION 318.13**
 
 **STATE FINANCED RESIDENTIAL**
 
@@ -53,10 +51,6 @@ shall contribute to Government for his care and upkeep, an amount in accordance 
 
 Provided that the total contribution shall not exceed €24.46 per diem, or be such to leave such resident with less than €1,397.62 per annum at the resident’s disposal.
 
-*2*
-
-[S.L. 318.13 RESIDENTIAL SERVICES RATES
-
 (2) Any resident who prior to 3rd January 2004 was already in a residential service, and was receiving level 2 care, in accordance with regulation 2(2)(b), shall contribute 80% of any pension, social assistance and bonus receivable, net of income tax, and 60%, of any other income received during the calendar year immediately preceding the year in which the assessment of such other income is made for the purposes of these regulations, net of income tax:
 
 Provided that the total contribution shall not exceed €31.45 per diem, or be such as to leave such resident with less than €1,397.62 per annum at the resident’s disposal.
@@ -73,9 +67,7 @@ Provided that such contribution made by the resident shall not be such as to lea
 
 (a) receiving level 1 care, in accordance with regulation 2(2)(a), shall contribute 40% of any pension, social assistance and bonus receivable, net of income tax, and 40% of any other income received during the calendar year immediately preceding the year in which the assessment of such other income is made for the purposes of these regulations, net of income tax, provided such person returns to the Housing Authority, the rented residential property from the Housing Authority upon becoming a resident of such residential service; and
 
-*3*
-
-RESIDENTIAL SERVICES RATES [S.L. 318.13 (b) receiving level 2 care, in accordance with regulation 2(2)(a), shall contribute 60% of any pension, social assistance and bonus receivable, net of income tax, and 40% of any other income received during the calendar year immediately preceding the year in which the assessment of such other income is made for the purposes of these regulations, net of income tax, provided such person returns to the Housing Authority, the rented residential property from the Housing Authority upon becoming a resident of such residential service.
+(b) receiving level 2 care, in accordance with regulation 2(2)(a), shall contribute 60% of any pension, social assistance and bonus receivable, net of income tax, and 40% of any other income received during the calendar year immediately preceding the year in which the assessment of such other income is made for the purposes of these regulations, net of income tax, provided such person returns to the Housing Authority, the rented residential property from the Housing Authority upon becoming a resident of such residential service.
 
 (6) For the purposes of these regulations where such resident is a married person and the community of acquests exists between the spouses, the term all other income shall in all cases include half the income deriving to the community of acquests.
 
@@ -98,10 +90,6 @@ Provided that the value of any urban immovable property taken for these purposes
 ## 5. State Financed Residential Service and State Financed Institutions which are specified.
 
 In terms of the provisions of article 93 of the Act, and for the purposes of regulation 2 the following institutions are being specified for the aforementioned purposes:-
-
-*4*
-
-[S.L. 318.13 RESIDENTIAL SERVICES RATES
 
 Saint Vincent de Paule Residence
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Statute for the Centre for Distributed Ledger Technologies (S.L. 327.597)
 
-*1*
-
-LEDGER TECHNOLOGIES [S.L. 327.597
-
 **SUBSIDIARY LEGISLATION 327.597**
 
 **STATUTE FOR THE CENTRE FOR**
@@ -59,11 +55,9 @@ The aims of the Centre shall be:
 
 (d) to develop study-units and undergraduate and postgraduate programmes of study;
 
-(e) to assist in generating and coordinating research and funding efforts related to Blockchain and DLT; [S.L. 327.597 LEDGER TECHNOLOGIES
+(e) to assist in generating and coordinating research and funding efforts related to Blockchain and DLT;
 
 (f) to engage in world-class, cutting-edge Blockchain and DLT research disseminated in leading conferences, journals and books in the field;
-
-*2*
 
 (g) to participate in international research collaborations, funded or otherwise, with leading institutions in the field;
 
@@ -95,11 +89,9 @@ All members of the Board, other than those appointed ex officio, and the two stu
 
 The functions of the Board shall be:
 
-(a) to govern the affairs of the Centre, subject to the provisions of these statutes and of such regulations, LEDGER TECHNOLOGIES [S.L. 327.597 policies or directions as may from time to time be approved by the Council and the Senate;
+(a) to govern the affairs of the Centre, subject to the provisions of these statutes and of such regulations, policies or directions as may from time to time be approved by the Council and the Senate;
 
 (b) to decide the policy of the Centre, to supervise its activities and administration, and without prejudice to the generality of the foregoing, the Board may:
-
-*3*
 
 (i) approve business plans and annual estimates of revenue and expenditure of the Centre for consideration and approval by the Council;
 
@@ -122,10 +114,6 @@ The functions of the Board shall be:
 The Centre shall have a Director and Staff:
 
 (a) the Director of the Centre shall be appointed according to the procedure for the appointment of Directors of Institutes, Centres and Schools as approved by the Council of the University, for a duration of one year, with the possibility of renewal annually subject to established performance criteria, the needs of the Centre and the needs of the University, for a total period not exceeding four (4) years; and
-
-*4*
-
-[S.L. 327.597 LEDGER TECHNOLOGIES
 
 (b) the Director shall be assisted by administrative staff, academic associate members and Research Support Officers.
 

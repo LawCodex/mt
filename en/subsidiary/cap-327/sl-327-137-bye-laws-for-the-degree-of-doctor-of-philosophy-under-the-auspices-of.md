@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy under the auspices of the Faculty of Media and Knowledge Sciences (S.L. 327.137)
 
-UNDER THE AUSPICES OF THE FACULTY
-
-*1*
-
-OF MEDIA AND KNOWLEDGE SCIENCES [S.L.327.137
-
 **SUBSIDIARY LEGISLATION 327.137**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR OF**
@@ -78,12 +72,6 @@ The Dean of the Faculty or delegate (chairman)
 The Faculty Doctoral Committee may co-opt other members if deemed necessary.
 
 \*These regulations have been repealed by Legal Notice 293 of 2024.
-
-UNDER THE AUSPICES OF THE FACULTY
-
-*2*
-
-[S.L.327.137 OF MEDIA AND KNOWLEDGE SCIENCES
 
 ## 6. Supervision and Students’ Progress.
 

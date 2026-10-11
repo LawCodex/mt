@@ -1,6 +1,6 @@
 ---
 title: "Statute for the European Centre for Gerontology"
-identifier: "S.L. 327.6"
+identifier: "S.L. 327.06"
 eli: "https://legislation.mt/eli/sl/327.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/327.6/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Statute for the European Centre for Gerontology (S.L. 327.6)
-
-STATUTE FOR
-
-*1*
-
-THE EUROPEAN CENTRE FOR GERONTOLOGY [S.L.327.06
+# Statute for the European Centre for Gerontology (S.L. 327.06)
 
 SUBSIDIARY LEGISLATION 327.06
 

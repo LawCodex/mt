@@ -1,6 +1,6 @@
 ---
 title: "Carriage of Goods by Sea (Exemption) Regulations"
-identifier: "S.L. 283.1"
+identifier: "S.L. 283.01"
 eli: "https://legislation.mt/eli/sl/283.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/283.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Carriage of Goods by Sea (Exemption) Regulations (S.L. 283.1)
+# Carriage of Goods by Sea (Exemption) Regulations (S.L. 283.01)
 
 **SUBSIDIARY LEGISLATION 283.01**
 

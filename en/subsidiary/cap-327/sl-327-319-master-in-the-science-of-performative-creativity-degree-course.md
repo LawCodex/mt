@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Master in the Science of Performative Creativity Degree Course Regulations - Repealed by Legal Notice 3 of 2020 (S.L. 327.319)
 
-*1*
-
-PERFORMATIVE CREATIVITY DEGREE COURSE [S.L.327.319
-
 SUBSIDIARY LEGISLATION 327.319
 
 MASTER IN THE SCIENCE OF
@@ -32,5 +28,3 @@ COURSE REGULATIONS
 LEGAL NOTICE 381 of 2007, as amended by Legal Notice 389 of 2010.
 
 Repealed by Legal Notice 3 of 2020
-
-2 [S.L.327.319 PERFORMATIVE CREATIVITY DEGREE COURSE

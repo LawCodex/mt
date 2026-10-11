@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor in Theatre (Honours) – B.Thr.(Hons) - under the auspices of the School of Performing Arts (S.L. 327.544)
 
-BACHELOR IN THEATRE (HONOURS) –
-
-*1*
-
-B. THEATRE (HONS) [S.L.327.544
-
 **SUBSIDIARY LEGISLATION 327.544**
 
 **BYE-LAWS FOR THE DEGREE OF BACHELOR IN**

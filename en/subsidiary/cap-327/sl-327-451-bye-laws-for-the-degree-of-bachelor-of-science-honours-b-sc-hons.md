@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Science (Honours) - B.Sc. (Hons) - under the auspices of the Faculty of Information and Communication Technology (S.L. 327.451)
 
-(HONS) - UNDER THE AUSPICES OF THE FACULTY OF
-
-*1*
-
-INFORMATION AND COMMUNICATION TECHNOLOGY [S.L.327.451
-
 **SUBSIDIARY LEGISLATION 327.451**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF SCIENCE (HONOURS) - B.Sc. (HONS) - UNDER
@@ -73,11 +67,11 @@ These bye-laws shall be applicable for courses commencing in October 2020 or lat
 
 \*These regulations have been repealed by Legal Notice 277 of 2022.
 
-*2*
+## 4. Special course requirements.
 
-(HONS) - UNDER THE AUSPICES OF THE FACULTY OF [S.L.327.451 INFORMATION AND COMMUNICATION TECHNOLOGY 4. (1)\* To be registered as regular students in the Course applicants shall:
+*Amended by: L.N. 325 of 2013; L.N. 19 of 2016; L.N. 154 of 2016; L.N. 355 of 2020; L.N. 169 of 2022.*
 
-*Special course requirements. Amended by: L.N. 325 of 2013; L.N. 19 of 2016; L.N. 154 of 2016; L.N. 355 of 2020; L.N. 169 of 2022.*
+(1)\* To be registered as regular students in the Course applicants shall:
 
 either (a) satisfy the special course requirements listed in paragraphs (2) to (3) of this bye-law;
 
@@ -110,12 +104,6 @@ or
 (ii) the MCAST-BTEC Higher National Diploma (HND) in an area deemed to be relevant to the Course by the Board;
 
 \*Shall be applicable for courses commencing in October 2023 or later †Shall be applicable for courses commencing in October 2024 or later
-
-(HONS) - UNDER THE AUSPICES OF THE FACULTY OF
-
-*3*
-
-INFORMATION AND COMMUNICATION TECHNOLOGY [S.L.327.451
 
 or
 
@@ -160,10 +148,6 @@ Students who successfully complete study-units to which 120 ECTS credits are ass
 First Year Average Mark 10%
 
 Second Year Average Mark 10%
-
-*4*
-
-(HONS) - UNDER THE AUSPICES OF THE FACULTY OF [S.L.327.451 INFORMATION AND COMMUNICATION TECHNOLOGY
 
 Third Year Average Mark 20%
 

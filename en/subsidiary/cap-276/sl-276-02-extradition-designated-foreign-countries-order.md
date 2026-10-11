@@ -1,6 +1,6 @@
 ---
 title: "Extradition (Designated Foreign Countries) Order"
-identifier: "S.L. 276.2"
+identifier: "S.L. 276.02"
 eli: "https://legislation.mt/eli/sl/276.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/276.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Extradition (Designated Foreign Countries) Order (S.L. 276.2)
+# Extradition (Designated Foreign Countries) Order (S.L. 276.02)
 
 **SUBSIDIARY LEGISLATION 276.02**
 
@@ -49,28 +49,11 @@ Any arrangement as is referred to in articles 7 and 30 of the relevant Act with 
 
 ## 4. Foreign countries.
 
-(1) Those countries listed in the Schedule with which no
+(1) Those countries listed in the Schedule with which no arrangement as referred to in articles 7 and 30 of the relevant Act exists on the relevant date, are hereby being designated as foreign countries for the purposes of article 6 of the said Act only in respect of an offence as is referred to in paragraph 2 of Article 6 of the Convention and subject to the provisions of the following subarticles.
 
-arrangement as referred to in articles 7 and 30 of the relevant Act  
-exists on the relevant date, are hereby being designated as foreign  
-countries for the purposes of article 6 of the said Act only in  
-respect of an offence as is referred to in paragraph 2 of Article 6 of  
-the Convention and subject to the provisions of the following  
-subarticles.  
-(2) In the case of a country to which subarticle (1) applies, no  
-proceedings shall be taken on an application for a provisional arrest  
-warrant under article 14(1)(b) of the relevant Act and no such  
-warrant shall be issued unless the application is made with the  
-consent of the Minister responsible for justice signified by means  
-of an appropriate certificate to that effect; but subject as aforesaid  
-the signification of consent shall not affect the provisions of the  
-said article 14.  
-(3) In the case of an extradition request from a country to  
-which subarticle (1) applies in respect of an offence referred to in  
-the same subarticle and without prejudice to his so deciding on  
-other grounds, the Minister responsible for justice may, in the
+(2) In the case of a country to which subarticle (1) applies, no proceedings shall be taken on an application for a provisional arrest warrant under article 14(1)(b) of the relevant Act and no such warrant shall be issued unless the application is made with the consent of the Minister responsible for justice signified by means of an appropriate certificate to that effect; but subject as aforesaid the signification of consent shall not affect the provisions of the said article 14.
 
-circumstances mentioned in subarticle (4), decide not to make an order under article 13 or article 21 of the relevant Act or for the purposes of subarticle (2) signifying his consent to an application for a provisional warrant.
+(3) In the case of an extradition request from a country to which subarticle (1) applies in respect of an offence referred to in the same subarticle and without prejudice to his so deciding on other grounds, the Minister responsible for justice may, in the circumstances mentioned in subarticle (4), decide not to make an order under article 13 or article 21 of the relevant Act or for the purposes of subarticle (2) signifying his consent to an application for a provisional warrant.
 
 (4) The Minister responsible for justice may decide as provided in subarticle (3) where the Minister is not satisfied that provision is made by the law of the requesting country under which a person accused or convicted in Malta of the like offence as that to which the request refers might be surrendered to Malta if found in the requesting country.
 

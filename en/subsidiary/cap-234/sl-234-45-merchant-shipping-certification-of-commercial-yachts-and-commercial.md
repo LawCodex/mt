@@ -57,10 +57,6 @@ The title of these rules is the Merchant Shipping (Certification of Commercial Y
 
 (1) The Registrar-General shall take the necessary measures for the development of a Code of Practice relating to the construction, equipment and operation of commercial yachts or commercial cruising vessels.
 
-*2*
-
-[ S.L.234.45 YACHTS AND COMMERCIAL CRUISING VESSELS)
-
 (2) In the development of the Code, the Registrar-General shall be guided by the circulars, clarifications, codes, decisions, directives, guidelines, instruments, interpretations, manuals, notices, publications, recommendations, regulations, resolutions, rules or any other similar medium of the International Maritime Organisation or any other body or organisation with an appropriate knowledge or competence on the subject matter.
 
 (3) The Registrar-General shall publish the development of this Code of Practice by means of a Merchant Shipping Notice and shall make such Code available to the general public.

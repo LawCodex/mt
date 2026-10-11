@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Arts (Honours) in Social Wellbeing Studies - B.A. (Hons) SWB - under the auspices of the Faculty for Social Wellbeing (S.L. 327.553)
 
-*1*
-
-WELLBEING STUDIES - B.A. (HONS) [S.L.327.553
-
 **SUBSIDIARY LEGISLATION 327.553**
 
 **BYE-LAWS FOR THE DEGREE OF BACHELOR OF**
@@ -65,11 +61,9 @@ These bye-laws shall be applicable for courses commencing in October 2020 or lat
 
 (1) To be registered as regular students in the course, applicants shall satisfy the general requirements for admission as specified in the Admissions Regulations.
 
-(2) Applicants considered as “Adult Learners” (mature applicants) in terms of paragraph (c) of regulation 6 of the Admissions Regulations must be in possession of those qualifications and/or experience that would satisfy the Faculty Admissions Committee that they have reached the academic standard required to follow the Course with profit. Such applicants shall be required to submit with their application a letter written in English giving their motivation for applying for the Course together with a copy of their Curriculum Vitae (C.V.) Applicants shall be asked to attend an interview during the last two weeks of September. [S.L.327.553 WELLBEING STUDIES - B.A. (HONS)
+(2) Applicants considered as “Adult Learners” (mature applicants) in terms of paragraph (c) of regulation 6 of the Admissions Regulations must be in possession of those qualifications and/or experience that would satisfy the Faculty Admissions Committee that they have reached the academic standard required to follow the Course with profit. Such applicants shall be required to submit with their application a letter written in English giving their motivation for applying for the Course together with a copy of their Curriculum Vitae (C.V.) Applicants shall be asked to attend an interview during the last two weeks of September.
 
 (3) The eligibility of applicants referred to in paragraph (2) of this bye-law shall be decided by the University Admissions Board, on the recommendation of the Faculty Admissions Committee, following an interview conducted by an interviewing board appointed for the purpose.
-
-*2*
 
 (4) The interviewing board appointed by the Board shall be composed of at least three persons.
 
@@ -109,11 +103,7 @@ Second Year Average Mark 40%
 
 Third Year Average Mark 40%.
 
-(2) The Final Weighted Average Mark for the classification of the Degree followed on part-time basis shall be based on the results WELLBEING STUDIES - B.A. (HONS) [S.L.327.553
-
-obtained in the five years of the part-time Course which shall be weighted as follows:
-
-*3*
+(2) The Final Weighted Average Mark for the classification of the Degree followed on part-time basis shall be based on the results obtained in the five years of the part-time Course which shall be weighted as follows:
 
 First Year Average Mark 10%
 

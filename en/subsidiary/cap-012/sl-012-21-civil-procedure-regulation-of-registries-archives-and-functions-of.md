@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Civil Procedure (Regulation of Registries, Archives and Functions of Director Courts (Gozo) and other Court Executive Officers) Regulations (S.L. 12.21)
 
-ARCHIVES AND FUNCTIONS OF DIRECTOR COURTS
-
-*1*
-
-(GOZO) AND OTHER COURT EXECUTIVE OFFICERS) [S.L.12.21
-
 **SUBSIDIARY LEGISLATION 12.21**
 
 CIVIL PROCEDURE (REGULATION OF REGISTRIES, ARCHIVES AND FUNCTIONS OF DIRECTOR
@@ -64,11 +58,7 @@ For the purposes of these regulations:
 
 (1) There shall continue to be in Malta a division of government styled "Courts of Justice Division" which shall be headed by the Director General (Courts).
 
-(2) The Director General (Courts) shall perform his functions either personally or through any court executive officer listed in ARCHIVES AND FUNCTIONS OF DIRECTOR COURTS [S.L.12.21 (GOZO) AND OTHER COURT EXECUTIVE OFFICERS)
-
-regulation 8(2)(a) and (c) to (m) (both inclusive).
-
-*2*
+(2) The Director General (Courts) shall perform his functions either personally or through any court executive officer listed in regulation 8(2)(a) and (c) to (m) (both inclusive).
 
 (3) The Director General (Courts) shall be responsible for the management and administration of the Courts of Justice Division, including the registries, archives and other services. He shall head the Courts of Justice Division and all court executive officers performing duties in the Courts of Justice Division shall, in the execution of their duties, take instruction from, and be answerable to, the Director General (Courts).
 
@@ -95,12 +85,6 @@ regulation 8(2)(a) and (c) to (m) (both inclusive).
 (7) Sittings which are not presided by judges and magistrates shall be held, if there is no space available during the morning, after sittings presided by judges and magistrates come to an end.
 
 (8) When video conferencing facilities are required, the Director General (Courts) or his delegate shall ensure that first preference is given to that court which needs to use a hall having such facilities and any other court or tribunal which usually uses that particular hall or which had already been assigned that hall shall, subject to availability of space, be provided with an alternative hall.
-
-ARCHIVES AND FUNCTIONS OF DIRECTOR COURTS
-
-*3*
-
-(GOZO) AND OTHER COURT EXECUTIVE OFFICERS) [S.L.12.21
 
 (9) All halls in the Courts of Justice Division buildings shall be numbered.
 
@@ -133,10 +117,6 @@ ARCHIVES AND FUNCTIONS OF DIRECTOR COURTS
 *Registry in Malta.*
 
 (2) The registry mentioned in sub-regulation (1) shall be located in Valletta.
-
-*4*
-
-ARCHIVES AND FUNCTIONS OF DIRECTOR COURTS [S.L.12.21 (GOZO) AND OTHER COURT EXECUTIVE OFFICERS)
 
 (3) The Registry of the Civil Courts and Tribunals, Malta shall be competent to receive all judicial acts, written pleadings and other documents which in accordance with any law are to be filed in the registry of the following courts and tribunals:
 
@@ -190,12 +170,6 @@ ARCHIVES AND FUNCTIONS OF DIRECTOR COURTS [S.L.12.21 (GOZO) AND OTHER COURT EXEC
 
 (e) Revising Officers appointed under the General Elections Act;
 
-ARCHIVES AND FUNCTIONS OF DIRECTOR COURTS
-
-*5*
-
-(GOZO) AND OTHER COURT EXECUTIVE OFFICERS) [S.L.12.21
-
 (f) the Small Claims Tribunal; and
 
 (g) any other eourt or tribunal, the judicial acts, written pleadings and other documents whereof shall, in terms of any law, be filed in the Registry of the Civil Courts and Tribunals, Gozo.
@@ -230,11 +204,7 @@ Provided that when a judicial act is filed by electronic means outside registry 
 
 (2) The Registry of the Civil Courts and Tribunals, Gozo shall be under the control of the Registrar, Gozo Courts and Tribunals.
 
-(3) The Registrar, Civil Courts and Tribunals and the Registrar, Gozo Courts and Tribunals shall have the direction of, and shall be respectively responsible for, the registries entrusted to them. They shall execute their legal duties in terms of law and shall not, in the ARCHIVES AND FUNCTIONS OF DIRECTOR COURTS [S.L.12.21 (GOZO) AND OTHER COURT EXECUTIVE OFFICERS)
-
-execution of their legal duties under the Code or under any other law, act under the direction of any person or authority except for the directions that may be given to them by the courts or tribunals in terms of law.
-
-*6*
+(3) The Registrar, Civil Courts and Tribunals and the Registrar, Gozo Courts and Tribunals shall have the direction of, and shall be respectively responsible for, the registries entrusted to them. They shall execute their legal duties in terms of law and shall not, in the execution of their legal duties under the Code or under any other law, act under the direction of any person or authority except for the directions that may be given to them by the courts or tribunals in terms of law.
 
 (4) The Registrar, Civil Courts and Tribunals and the Registrar, Gozo Courts and Tribunals shall be responsible for the archives entrusted to them.
 
@@ -286,13 +256,7 @@ execution of their legal duties under the Code or under any other law, act under
 
 *Amended by: L.N. 46 of 2008.*
 
-(1) Without prejudice to the provisions of sub-regulation (2), the registries of the courts and tribunals mentioned in regulations 5 and 6 shall be open for the filing of judicial acts ARCHIVES AND FUNCTIONS OF DIRECTOR COURTS
-
-*7*
-
-(GOZO) AND OTHER COURT EXECUTIVE OFFICERS) [S.L.12.21
-
-during the following days and during the following working hours:
+(1) Without prejudice to the provisions of sub-regulation (2), the registries of the courts and tribunals mentioned in regulations 5 and 6 shall be open for the filing of judicial acts during the following days and during the following working hours:
 
 Between 1st October and 15th June of every year:
 
@@ -334,11 +298,7 @@ Provided that in case of an emergency which affects the proper functioning of an
 
 *Cap. 339.*
 
-(6) Unless otherwise provided by law, the archives shall be ARCHIVES AND FUNCTIONS OF DIRECTOR COURTS [S.L.12.21 (GOZO) AND OTHER COURT EXECUTIVE OFFICERS)
-
-organised as each Registrar mentioned in sub-regulation (4) may direct, including, but not limited to, providing for the opening hours thereof.
-
-*8*
+(6) Unless otherwise provided by law, the archives shall be organised as each Registrar mentioned in sub-regulation (4) may direct, including, but not limited to, providing for the opening hours thereof.
 
 (7) The act deposited in the archives shall be accessible to the public, provided that access to the archives of the Civil Court (Family Section) and the Civil Court (Voluntary Jurisdiction Section) shall, except for any judgment, decree, decision or other document, be restricted to the parties and their advocates or legal procurators, and to any other person who may be so authorised by the judge or magistrate, as the case may be.
 
@@ -357,12 +317,6 @@ every page ............................................ €0.58
 *Added by: L.N. 46 of 2008.*
 
 Notwithstanding the foregoing provisions of these regulations, the Director General or any person authorised by him under these regulations, in the exercise of his functions thereunder, shall ensure that he does not interfere in any manner in the exercise of judicial functions by the members of the judiciary and, should this be the case, the Chief Justice shall, by written notice under his hand and in terms of this regulation, overrule any such decision of the Director General; and, in doing so, the Chief Justice may give such directions to the Director General or to any delegate thereof which might appear to the Chief Justice to be in the interests of the better administration of justice in the instant case.
-
-ARCHIVES AND FUNCTIONS OF DIRECTOR COURTS
-
-*9*
-
-(GOZO) AND OTHER COURT EXECUTIVE OFFICERS) [S.L.12.21
 
 ## Schedule
 
@@ -395,10 +349,6 @@ The Civil Court (Voluntary (i) Application in terms Jurisdiction Section)
 of article 4(4) of the Protection of Minors (Registration) Act
 
 (ii) Application for requests of authorisation with respect to vulnerable persons and minors
-
-*10*
-
-ARCHIVES AND FUNCTIONS OF DIRECTOR COURTS [S.L.12.21 (GOZO) AND OTHER COURT EXECUTIVE OFFICERS)
 
 The Courts of Magistrates (i) Judicial letters which (Malta) do not require the administration of the oath by The Courts of Magistrates
 

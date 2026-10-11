@@ -1,6 +1,6 @@
 ---
 title: "Detention of a Person at Savio College Regulations"
-identifier: "S.L. 217.2"
+identifier: "S.L. 217.02"
 eli: "https://legislation.mt/eli/sl/217.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/217.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Detention of a Person at Savio College Regulations (S.L. 217.2)
+# Detention of a Person at Savio College Regulations (S.L. 217.02)
 
 **SUBSIDIARY LEGISLATION 217.02**
 

@@ -6,18 +6,17 @@ type: subsidiary_legislation
 jurisdiction: mt
 language: en
 parent: "Cap. 327"
+date: 2018-11-06
+last_amended: 2022-05-20
 status: in_force
 source: "https://legislation.mt/eli/sl/327.608/eng/pdf"
+version: "https://legislation.mt/eli/sl/327.608/20220520/eng"
 retrieved: 2026-10-12
 ---
 
 # Bye-Laws in terms of the General Regulations for University Postgraduate Awards, 2008 for the degree of Master of Arts in Museum Education - M.A. - under the auspices of the Faculty of Education (S.L. 327.608)
 
-UNDER THE AUSPICES OF THE FACULTY OF
-
-*1*
-
-EDUCATION [S.L. 327.608 SUBSIDIARY LEGISLATION 327.608
+**SUBSIDIARY LEGISLATION 327.608**
 
 **BYE-LAWS IN TERMS OF THE GENERAL**
 
@@ -55,13 +54,7 @@ These bye-laws shall be applicable for courses commencing in October 2018 or lat
 
 (b) a Bachelor degree obtained with Third Class Honours or with Category III provided that they have obtained other qualifications, including relevant experience, following their first cycle degree.
 
-(2) Admission of applicants under sub-paragraph (b) of paragraph (1) of this bye-law shall be made conditional on the result UNDER THE AUSPICES OF THE FACULTY OF
-
-*2*
-
-[S.L. 327.608 EDUCATION
-
-of an interview.
+(2) Admission of applicants under sub-paragraph (b) of paragraph (1) of this bye-law shall be made conditional on the result of an interview.
 
 (3) The Board shall recommend to Senate the number of applicants that may be allowed to register for the Course, depending on the availability of resources. The Board shall announce the number of available places at the time of the call for applications.
 
@@ -101,11 +94,7 @@ The programme of study shall be published after approval by Senate, normally not
 
 (1) The assessment of each taught study-unit shall be completed by the end of the semester in which the teaching of the study-unit is held.
 
-UNDER THE AUSPICES OF THE FACULTY OF
-
-*3*
-
-EDUCATION [S.L. 327.608 (2) Students who fail in the assessment of not more than 20 ECTS credits for taught study-units, if following the full-time Course, or not more than 10 ECTS credits if following the part-time Course, shall be given the opportunity to re-sit the failed assessment during the September supplementary examination session.
+(2) Students who fail in the assessment of not more than 20 ECTS credits for taught study-units, if following the full-time Course, or not more than 10 ECTS credits if following the part-time Course, shall be given the opportunity to re-sit the failed assessment during the September supplementary examination session.
 
 (3) Students who fail more than the number of credits permitted under paragraph (2) of this bye-law or students who after re-assessment fail to obtain the credits for any study-unit, shall be deemed to have failed the Course.
 
@@ -137,12 +126,8 @@ EDUCATION [S.L. 327.608 (2) Students who fail in the assessment of not more than
 
 The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma and of the Degree shall be based on the results obtained in all components of the programme of study, all credits being weighted equally.
 
-UNDER THE AUSPICES OF THE FACULTY OF
+## 13. Special Provisions for Part-Time Courses
 
-*4 Special Provisions for Part-Time Courses Renumbered by: L.N. 145 of 2022.*
-
-[S.L. 327.608 EDUCATION
-
-## 13.
+*Renumbered by: L.N. 145 of 2022.*
 
 The provisions of the foregoing bye-laws shall apply mutatis mutandis to courses followed on a part-time basis, and subject to such changes as may reasonably be deemed by the Board as necessary due to the part-time nature of the Course.

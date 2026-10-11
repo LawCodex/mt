@@ -1,6 +1,6 @@
 ---
 title: "Port Workers Regulations"
-identifier: "S.L. 171.2"
+identifier: "S.L. 171.02"
 eli: "https://legislation.mt/eli/sl/171.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/171.2/20260626/eng"
 retrieved: 2026-10-12
 ---
 
-# Port Workers Regulations (S.L. 171.2)
+# Port Workers Regulations (S.L. 171.02)
 
 **SUBSIDIARY LEGISLATION 171.02**
 

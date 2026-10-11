@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Customs Ordinance (Convention on Mutual Assistance and Co-operation between Customs Administrations) (Naples II) Regulations (S.L. 37.13)
 
-ON MUTUAL ASSISTANCE AND CO-OPERATION
-
-*1*
-
-BETWEEN CUSTOMS ADMINISTRATIONS) (NAPLES II) [S.L.37.13
-
 **SUBSIDIARY LEGISLATION 37.13**
 
 **CUSTOMS ORDINANCE (CONVENTION ON**
@@ -52,10 +46,6 @@ The title of these regulations is the Customs Ordinance (Convention on Mutual As
 ### 3. Enforcement of the Convention and Reservations thereto.
 
 The provisions of the Convention contained in the First Schedule and of the Reservations contained in the Second Schedule, shall be in force in Malta.
-
-ON MUTUAL ASSISTANCE AND CO-OPERATION
-
-2 [S.L.37.13 BETWEEN CUSTOMS ADMINISTRATIONS) (NAPLES II)
 
 ## FIRST SCHEDULE
 
@@ -98,10 +88,6 @@ Where a criminal investigation is carried out by or under the direction of a jud
 For the purposes of this Convention, the following definitions shall apply:
 
 \1. "national customs provisions": all laws, regulations and administrative provisions of a Member State the application of which comes wholly or partly within the jurisdiction of the customs administration of the Member State concerning:
-
-ON MUTUAL ASSISTANCE AND CO-OPERATION
-
-**BETWEEN CUSTOMS ADMINISTRATIONS) (NAPLES II) [S.L.37.13 3**
 
 \- cross-border traffic in goods subject to bans, restrictions or controls, in particular pursuant to Articles 36 and 223 of the Treaty establishing the European Community,
 
@@ -151,11 +137,7 @@ ON MUTUAL ASSISTANCE AND CO-OPERATION
 
 **Central coordinating units**
 
-\1. Member States shall appoint in their customs authorities a central unit (coordinating unit). It shall be responsible for receiving all applications for mutual assistance under this Convention and for coordinating mutual assistance, without ON MUTUAL ASSISTANCE AND CO-OPERATION
-
-4 [S.L.37.13 BETWEEN CUSTOMS ADMINISTRATIONS) (NAPLES II)
-
-prejudice to paragraph 2. The unit shall also be responsible for cooperation with other authorities involved in an assistance measure under this Convention. The coordinating units of the Member States shall maintain the necessary direct contact with each other, particularly in the cases covered by Title IV.
+\1. Member States shall appoint in their customs authorities a central unit (coordinating unit). It shall be responsible for receiving all applications for mutual assistance under this Convention and for coordinating mutual assistance, without prejudice to paragraph 2. The unit shall also be responsible for cooperation with other authorities involved in an assistance measure under this Convention. The coordinating units of the Member States shall maintain the necessary direct contact with each other, particularly in the cases covered by Title IV.
 
 \2. The activity of the central coordinating units shall not exclude, particularly in an emergency, direct cooperation between other services of the customs authorities of the Member States. For reasons of efficiency and consistency, the central coordinating units shall be informed of any action involving such direct cooperation.
 
@@ -188,10 +170,6 @@ prejudice to paragraph 2. The unit shall also be responsible for cooperation wit
 Unless otherwise specified in this Convention, officers of the applicant authority present in another Member State in order to exercise the rights laid down in this Convention shall at all times be able to produce written authority stating their identity and their official functions.
 
 ## TITLE II — ASSISTANCE ON REQUEST — Article 8
-
-ON MUTUAL ASSISTANCE AND CO-OPERATION
-
-**BETWEEN CUSTOMS ADMINISTRATIONS) (NAPLES II) [S.L.37.13 5**
 
 **Principles**
 
@@ -235,11 +213,7 @@ ON MUTUAL ASSISTANCE AND CO-OPERATION
 
 \2. The information communicated is to be accompanied by reports and other documents, or certified copies or extracts of the same, on which that information is based and which are in the possession of the request authority or which were produced or obtained in order to execute the request for information.
 
-\3. By agreement between the applicant authority and the requested authority, officers authorised by the applicant authority may, subject to detailed instructions ON MUTUAL ASSISTANCE AND CO-OPERATION
-
-6 [S.L.37.13 BETWEEN CUSTOMS ADMINISTRATIONS) (NAPLES II)
-
-from the requested authority, obtain information pursuant to paragraph 1 from the offices of the requested Member State. This shall apply to all information derived from the documentation to which the staff of those offices have access. Those officers shall be authorised to take copies of the said documentation.
+\3. By agreement between the applicant authority and the requested authority, officers authorised by the applicant authority may, subject to detailed instructions from the requested authority, obtain information pursuant to paragraph 1 from the offices of the requested Member State. This shall apply to all information derived from the documentation to which the staff of those offices have access. Those officers shall be authorised to take copies of the said documentation.
 
 **Article 11**
 
@@ -267,11 +241,7 @@ At the request of the applicant authority, the requested authority shall as far 
 
 **Use as evidence**
 
-Findings, certificates, information, documents, certified true copies and other papers obtained in accordance with their national law by officers of the requested authority and transmitted to the applicant authority in the cases of assistance provided for in Articles 10 to 12 may be used as evidence in accordance with ON MUTUAL ASSISTANCE AND CO-OPERATION
-
-**BETWEEN CUSTOMS ADMINISTRATIONS) (NAPLES II) [S.L.37.13 7**
-
-national law by the competent bodies of the Member State where the applicant authority is based.
+Findings, certificates, information, documents, certified true copies and other papers obtained in accordance with their national law by officers of the requested authority and transmitted to the applicant authority in the cases of assistance provided for in Articles 10 to 12 may be used as evidence in accordance with national law by the competent bodies of the Member State where the applicant authority is based.
 
 ## TITLE III — SPONTANEOUS ASSISTANCE — Article 15
 
@@ -305,11 +275,7 @@ Surveillance reports and information obtained by officers of one Member State an
 
 **Principles**
 
-\1. Customs administrations shall engage in cross-border cooperation in accordance with this Title. They shall provide each other with the necessary assistance in terms of staff and organisational support. Requests for cooperation shall, as a rule, take the form of requests for assistance in accordance with Article 9. In specific cases referred to in this Title, officers of the applicant authority may engage in activities in the territory of the requested State, with the approval of the ON MUTUAL ASSISTANCE AND CO-OPERATION
-
-8 [S.L.37.13 BETWEEN CUSTOMS ADMINISTRATIONS) (NAPLES II)
-
-requested authority.
+\1. Customs administrations shall engage in cross-border cooperation in accordance with this Title. They shall provide each other with the necessary assistance in terms of staff and organisational support. Requests for cooperation shall, as a rule, take the form of requests for assistance in accordance with Article 9. In specific cases referred to in this Title, officers of the applicant authority may engage in activities in the territory of the requested State, with the approval of the requested authority.
 
 Coordination and planning of cross-border operations shall be the responsibility of the central coordinating units in accordance with Article 5.
 
@@ -330,10 +296,6 @@ Coordination and planning of cross-border operations shall be the responsibility
 \6. Without prejudice to the exercise of its rights vis-à-vis third parties and notwithstanding the obligation to make good damages according to the second sentence of paragraph 5, each Member State shall refrain, in the case provided for in the first sentence of paragraph 5, from requesting reimbursement of the amount of damages it has sustained from another Member State.
 
 \7. Information obtained by officers during cross-border cooperation provided for in Articles 20 to 24 may be used, in accordance with national law and subject to particular conditions laid down by the competent authorities of the State in which the information was obtained, as evidence by the competent bodies of the Member State receiving the information.
-
-ON MUTUAL ASSISTANCE AND CO-OPERATION
-
-**BETWEEN CUSTOMS ADMINISTRATIONS) (NAPLES II) [S.L.37.13 9**
 
 \8. In the course of the operations referred to in Articles 20 to 24, officers on mission in the territory of another Member State shall be treated in the same way as officers of that State as regards infringements committed against them or by them.
 
@@ -375,10 +337,6 @@ The joint special investigation team shall have the following tasks:
 
 \3. Membership of the team shall not bestow on officers any powers of intervention in the territory of another Member State.
 
-ON MUTUAL ASSISTANCE AND CO-OPERATION
-
-10 [S.L.37.13 BETWEEN CUSTOMS ADMINISTRATIONS) (NAPLES II)
-
 ## TITLE V — DATA PROTECTION — Article 25
 
 **Data protection for the exchange of data**
@@ -395,11 +353,7 @@ ON MUTUAL ASSISTANCE AND CO-OPERATION
 
 (d) the forwarding and receipt of exchanged data shall be recorded by the authorities concerned;
 
-(e) if so requested, the communicating and recipient authorities shall inform the person concerned, at that person’s request, of the personal data communicated and the use to which they are to be put. There is no obligation to provide the information if it is found, on consideration of the matter, that the importance to the public of the information being withheld outweighs the importance to the person concerned of receiving it. Moreover, the right of the person concerned to receive information about the personal data communicated shall be determined in accordance with the national laws, regulations and procedures of the Member State in whose territory the information is requested. Before ON MUTUAL ASSISTANCE AND CO-OPERATION
-
-**BETWEEN CUSTOMS ADMINISTRATIONS) (NAPLES II) [S.L.37.13 11**
-
-any decision is taken on providing information, the communicating authority shall be given the opportunity of stating its position;
+(e) if so requested, the communicating and recipient authorities shall inform the person concerned, at that person’s request, of the personal data communicated and the use to which they are to be put. There is no obligation to provide the information if it is found, on consideration of the matter, that the importance to the public of the information being withheld outweighs the importance to the person concerned of receiving it. Moreover, the right of the person concerned to receive information about the personal data communicated shall be determined in accordance with the national laws, regulations and procedures of the Member State in whose territory the information is requested. Before any decision is taken on providing information, the communicating authority shall be given the opportunity of stating its position;
 
 (f) Member States shall be liable, in accordance with their own laws, regulations and procedures, for injury caused to a person through the processing of data communicated in the Member State concerned. This shall also be the case where the injury was caused by the communication of inaccurate data or the fact that the communicating authority communicated data in violation of the Convention;
 
@@ -421,11 +375,7 @@ any decision is taken on providing information, the communicating authority shal
 
 \4. By a declaration made at the time of the signing of this Convention or at any time thereafter, any Member State shall be able to accept the jurisdiction of the Court of Justice of the European Communities to give preliminary rulings on the interpretation of this Convention as specified in either paragraph 5(a) or (b).
 
-\5. A Member State which has made a declaration pursuant to paragraph 4 shall ON MUTUAL ASSISTANCE AND CO-OPERATION
-
-12 [S.L.37.13 BETWEEN CUSTOMS ADMINISTRATIONS) (NAPLES II)
-
-specify that either:
+\5. A Member State which has made a declaration pursuant to paragraph 4 shall specify that either:
 
 (a) any court or tribunal of that State against whose decisions there is no judicial remedy under national law may request the Court of Justice of the European Communities to give a preliminary ruling on a question raised in a case pending before it and concerning the interpretation of this Convention if that court or tribunal considers that a decision on the question is necessary to enable it to give judgment, or
 
@@ -455,11 +405,7 @@ The customs administrations shall take account, in each specific case of exchang
 
 **Expenses**
 
-\1. Member States shall normally waive all claims for reimbursement of costs incurred in the implementation of this Convention, with the exception of expenses ON MUTUAL ASSISTANCE AND CO-OPERATION
-
-**BETWEEN CUSTOMS ADMINISTRATIONS) (NAPLES II) [S.L.37.13 13**
-
-for fees paid to experts.
+\1. Member States shall normally waive all claims for reimbursement of costs incurred in the implementation of this Convention, with the exception of expenses for fees paid to experts.
 
 \2. If expenses of a substantial and extraordinary nature are, or will be, required to execute the request, the customs administrations involved shall consult to determine the terms and conditions under which a request shall be executed as well as the manner in which the costs shall be borne.
 
@@ -489,11 +435,7 @@ for fees paid to experts.
 
 \2. Member States shall notify the depositary of the completion of the constitutional procedures for the adoption of this Convention.
 
-\3. This convention shall enter into force 90 days after the notification referred to in paragraph 2 by the State, Member of the European Union at the time of adoption by the Council of the Act drawing up this Convention, which is last to ON MUTUAL ASSISTANCE AND CO-OPERATION
-
-14 [S.L.37.13 BETWEEN CUSTOMS ADMINISTRATIONS) (NAPLES II)
-
-complete that formality.
+\3. This convention shall enter into force 90 days after the notification referred to in paragraph 2 by the State, Member of the European Union at the time of adoption by the Council of the Act drawing up this Convention, which is last to complete that formality.
 
 \4. Until this Convention enters into force, any Member State may, when giving the notification referred to in paragraph 2, or at any other later time, declare that as far as it is concerned this Convention, with the exception of Article 23 thereof, shall apply to its relations with Member States that have made the same declaration. Such declarations shall take effect 90 days after the date of deposit thereof.
 
@@ -532,10 +474,6 @@ complete that formality.
 \1. The Secretary-General of the Council of the European Union shall act as depositary of this Convention.
 
 \2. The depositary shall publish in the Official Journal of the European Communities information on the progress of adoptions and accessions, implementation, declarations and reservations, and also any other notification concerning this Convention.
-
-ON MUTUAL ASSISTANCE AND CO-OPERATION
-
-**BETWEEN CUSTOMS ADMINISTRATIONS) (NAPLES II) [S.L.37.13 15**
 
 ## SECOND SCHEDULE
 

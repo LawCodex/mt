@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # European Union Anti-Tax Avoidance Directives Implementation Regulations (S.L. 123.187)
 
-*1*
-
-IMPLEMENTATION [S.L. 123.187 SUBSIDIARY LEGISLATION 123.187
+**SUBSIDIARY LEGISLATION 123.187**
 
 **EUROPEAN UNION ANTI-TAX AVOIDANCE**
 
@@ -57,10 +55,6 @@ If an individual or entity holds directly or indirectly a participation of twent
 
 For the purposes of regulations 9 and 10:
 
-*2*
-
-[S.L. 123.187 IMPLEMENTATION
-
 (i) where the mismatch outcome arises under paragraph (b), (c), (d), (e) or (g) of the definition of "hybrid mismatch" or where an adjustment is required under regulation 9(3) or regulation 10, the definition "associated enterprise" is modified so that the 25 per cent (25%) requirement is replaced by a 50 per cent (50%) requirement;
 
 (ii) a person who acts together with another person in respect of the voting rights or capital ownership of an entity shall be treated as holding a participation in all of the voting rights or capital ownership of that entity that are held by the other person;
@@ -71,11 +65,9 @@ For the purposes of regulations 9 and 10:
 
 "consolidated group for financial accounting purposes" means a group consisting of all entities which are fully included in consolidated financial statements drawn up in accordance with the International Financial Reporting Standards or any other financial reporting system as may be determined by means of guidelines issued under article 96(2) of the Act;
 
-"exceeding borrowing costs" means the amount by which the deductible borrowing costs of a taxpayer in terms of the Act, were it not IMPLEMENTATION [S.L. 123.187 for the provisions of these regulations, exceed taxable interest revenues and other economically equivalent taxable revenues that the taxpayer receives;
+"exceeding borrowing costs" means the amount by which the deductible borrowing costs of a taxpayer in terms of the Act, were it not for the provisions of these regulations, exceed taxable interest revenues and other economically equivalent taxable revenues that the taxpayer receives;
 
 "financial undertaking" means any of the following entities:
-
-*3*
 
 (a) a credit institution or an investment firm as defined in point (1) of Article 4(1) of Directive 2004/39/EC of the European Parliament and of the Council or an alternative investment fund manager (AIFM) as defined in point (b) of Article 4(1) of Directive 2011/61/EU of the European Parliament and of the Council or an undertaking for collective investment in transferable securities (UCITS) management company as defined in point (b) of Article 2(1) of Directive 2009/65/EC of the European Parliament and of the Council;
 
@@ -97,11 +89,9 @@ For the purposes of regulations 9 and 10:
 
 (i) a central securities depository as defined in point (1) of Article 2(1) of Regulation (EU) No 909/2014 of the European Parliament and of the Council;
 
-"hybrid mismatch" means a situation involving a taxpayer or, with respect to regulation 9(3), an entity, where: [S.L. 123.187 IMPLEMENTATION
+"hybrid mismatch" means a situation involving a taxpayer or, with respect to regulation 9(3), an entity, where:
 
 (a) a payment under a financial instrument gives rise to a deduction without inclusion outcome and:
-
-*4*
 
 (i) such payment is not included within a reasonable period of time; and
 
@@ -115,11 +105,9 @@ For the purposes of sub-paragraph (i), a payment under a financial instrument sh
 
 (b) a payment to a hybrid entity gives rise to a deduction without inclusion and that mismatch outcome is the result of differences in the allocation of payments made to the hybrid entity under the laws of the jurisdiction where the hybrid entity is established or registered and the jurisdiction of any person with a participation in that hybrid entity;
 
-(c) a payment to an entity with one (1) or more permanent establishments gives rise to a deduction without inclusion and that mismatch outcome is the result of differences in the allocation of payments between the head office and permanent establishment or between two (2) or more permanent IMPLEMENTATION [S.L. 123.187 establishments of the same entity under the laws of the jurisdictions where the entity operates;
+(c) a payment to an entity with one (1) or more permanent establishments gives rise to a deduction without inclusion and that mismatch outcome is the result of differences in the allocation of payments between the head office and permanent establishment or between two (2) or more permanent establishments of the same entity under the laws of the jurisdictions where the entity operates;
 
 (d) a payment gives rise to a deduction without inclusion as a result of a payment to a disregarded permanent establishment;
-
-*5*
 
 (e) a payment by a hybrid entity gives rise to a deduction without inclusion and that mismatch is the result of the fact that the payment is disregarded under the laws of the payee jurisdiction;
 
@@ -133,11 +121,7 @@ Provided that for the purposes of this definition:
 
 (ii) a hybrid mismatch shall only arise under paragraphs (e), (f) or (g) to the extent that the payer jurisdiction allows the deduction to be set off against an amount that is not dual-inclusion income;
 
-(iii) a mismatch outcome shall not be treated as a hybrid mismatch unless it arises between associated enterprises, between a taxpayer and an associated enterprise, between the head office and permanent establishment, IMPLEMENTATION
-
-between two (2) or more permanent establishments of the same entity or under a structured arrangement:
-
-*[S.L. 123.187 6*
+(iii) a mismatch outcome shall not be treated as a hybrid mismatch unless it arises between associated enterprises, between a taxpayer and an associated enterprise, between the head office and permanent establishment, between two (2) or more permanent establishments of the same entity or under a structured arrangement:
 
 Provided further that for the purposes of this definition and regulations 9, 10 and 11:
 
@@ -151,11 +135,9 @@ Provided further that for the purposes of this definition and regulations 9, 10 
 
 "dual inclusion income" means any item of income that is included under the laws of both jurisdictions where the mismatch outcome has arisen;
 
-"financial instrument" means any instrument to the extent that it gives rise to a financing or equity return that is taxed under the rules for taxing debt, equity or IMPLEMENTATION [S.L. 123.187 derivatives under the laws of either the payee or payer jurisdictions and includes a hybrid transfer;
+"financial instrument" means any instrument to the extent that it gives rise to a financing or equity return that is taxed under the rules for taxing debt, equity or derivatives under the laws of either the payee or payer jurisdictions and includes a hybrid transfer;
 
 "financial trader" is a person or entity engaged in the business of regularly buying and selling financial instruments on its own account for the purposes of making a profit;
-
-*7*
 
 "hybrid entity" means any entity or arrangement that is regarded as a taxable entity under the laws of one (1) jurisdiction and whose income or expenditure is treated as income or expenditure of one (1) or more other persons under the laws of another jurisdiction;
 
@@ -177,11 +159,7 @@ A payment under a financial instrument shall not be treated as included to the e
 
 "tax period" means the year immediately preceding the year of assessment referred to in articles 10 and 11 of the Act, as applicable;
 
-"transfer of assets" means an operation whereby Malta loses the [S.L. 123.187 IMPLEMENTATION
-
-right to tax the transferred assets, whilst the assets remain under the legal or economic ownership of the same taxpayer and "transferred assets" shall be construed accordingly;
-
-*8*
+"transfer of assets" means an operation whereby Malta loses the right to tax the transferred assets, whilst the assets remain under the legal or economic ownership of the same taxpayer and "transferred assets" shall be construed accordingly;
 
 "transfer of tax residence" means an operation whereby a taxpayer ceases to be resident for tax purposes in Malta, whilst acquiring tax residence in another EU Member State or third country;
 
@@ -209,11 +187,9 @@ In such circumstances, exceeding borrowing costs and the EBITDA may be calculate
 
 Provided that where under the provisions of sub-regulation (1) a group is treated as a taxpayer, the amount of three million euro (€3,000,000) shall be considered for the entire group;
 
-(b) fully deduct exceeding borrowing costs if the IMPLEMENTATION [S.L. 123.187 taxpayer is a standalone entity. For the purposes of this paragraph, "a standalone entity" means a taxpayer that is not part of a consolidated group for financial accounting purposes and has no associated enterprise or permanent establishment.
+(b) fully deduct exceeding borrowing costs if the taxpayer is a standalone entity. For the purposes of this paragraph, "a standalone entity" means a taxpayer that is not part of a consolidated group for financial accounting purposes and has no associated enterprise or permanent establishment.
 
 (4) The following exceeding borrowing costs shall be excluded from the scope sub-regulation (1):
-
-*9*
 
 (a) costs incurred on loans which were concluded before 17 June 2016, but the exclusion shall not extend to any subsequent modification of such loans;
 
@@ -230,10 +206,6 @@ Provided that –
 (a) the ratio of the taxpayer's equity over its total assets is considered to be equal to the equivalent ratio of the group if the ratio of the taxpayer's equity over its total assets is lower by up to two (2) percentage points; and
 
 (b) all assets and liabilities are valued using the same method as in the consolidated financial statements drawn up in accordance with the International Financial Reporting Standards or any other financial reporting system as may be determined by means of guidelines issued under article 96(2) of the Act.
-
-*10*
-
-[S.L. 123.187 IMPLEMENTATION
 
 (6) The taxpayer may carry forward, without time limitation, exceeding borrowing costs and, for a maximum of five (5) years, unused interest capacity, which cannot be deducted in the current tax period under sub-regulations (1) to (5).
 
@@ -253,13 +225,11 @@ Provided that –
 
 (d) a taxpayer transfers the business carried on by its permanent establishment from Malta to another EU Member State or to a third country in so far as Malta no longer has the right to tax capital gains from the transfer of such assets due to the transfer.
 
-(2) The exit tax referred to in sub-regulation (1) shall be paid by not later than the taxpayer’s tax return date in such manner as may be determined by the Commissioner. A taxpayer may however defer the payment of an exit tax referred to in sub-regulation (1) by paying it in IMPLEMENTATION [S.L. 123.187 instalments over five (5) years, in any of the following circumstances:
+(2) The exit tax referred to in sub-regulation (1) shall be paid by not later than the taxpayer’s tax return date in such manner as may be determined by the Commissioner. A taxpayer may however defer the payment of an exit tax referred to in sub-regulation (1) by paying it in instalments over five (5) years, in any of the following circumstances:
 
 \*Applicable from 1st January, 2020.
 
 (a) a taxpayer transfers assets from its head office in Malta to its permanent establishment in another EU Member State or in a third country that is party to the Agreement on the European Economic Area (EEA Agreement);
-
-*11*
 
 (b) a taxpayer transfers assets from its permanent establishment in Malta to its head office or another permanent establishment in another EU Member State or a third country that is party to the EEA Agreement;
 
@@ -285,10 +255,6 @@ The provisions of this sub-regulation relating to deferment of payment of the ex
 
 (b) the transferred assets are subsequently transferred to a third country;
 
-*12*
-
-[S.L. 123.187 IMPLEMENTATION
-
 (c) the taxpayer's tax residence or the business carried on by its permanent establishment is subsequently transferred to a third country;
 
 (d) the taxpayer goes bankrupt or is wound up;
@@ -311,9 +277,7 @@ Provided that such assets are set to revert to Malta within a period of twelve (
 
 (1) For the purposes of calculating the tax liability in according with the Income Tax Acts, there shall be ignored an arrangement or a series of arrangements which, having been put into place for the main purpose or one of the main purposes of obtaining a tax advantage that defeats the object or purpose of the applicable tax law, are not genuine having regard to all relevant facts and circumstances. An arrangement may comprise more than one step or part.
 
-*13*
-
-IMPLEMENTATION [S.L. 123.187 (2) For the purposes of sub-regulation (1), an arrangement or a series thereof shall be regarded as non-genuine to the extent that they are not put into place for valid commercial reasons which reflect economic reality.
+(2) For the purposes of sub-regulation (1), an arrangement or a series thereof shall be regarded as non-genuine to the extent that they are not put into place for valid commercial reasons which reflect economic reality.
 
 (3) Where arrangements or a series thereof are ignored in accordance with sub-regulation (1), the tax liability shall be calculated in accordance with the provisions of the Income Tax Acts.
 
@@ -334,10 +298,6 @@ Provided also that the tax that would have been charged in Malta means the tax a
 For the purposes of this sub-regulation, an arrangement or a series thereof shall be regarded as non-genuine to the extent that the entity or permanent establishment would not own the assets or would not have undertaken the risks which generate all, or part of, its income if it were not controlled by a company where the significant people functions, which are relevant to those assets and risks, are carried out and are instrumental in generating the controlled company's income:
 
 Provided that the said company is the taxpayer and the said significant people functions are carried out in Malta.
-
-**IMPLEMENTATION**
-
-*[S.L. 123.187 14*
 
 (3) There shall be excluded from the scope of sub-regulation (2) an entity or permanent establishment:
 
@@ -363,9 +323,7 @@ For the purposes of regulation 7 -
 
 (f) there shall be allowed a credit of the tax paid by the entity or permanent establishment against the tax liability of the taxpayer. The credit shall be calculated in accordance with the provisions of articles 77 and 82 of the Act.
 
-*15*
-
-IMPLEMENTATION [S.L. 123.187 \*
+\*
 
 ## 9. Hybrid mismatches.
 
@@ -395,13 +353,9 @@ Provided that, any such deduction shall be eligible to be set off against dual i
 
 (i) the financial instrument has conversion, bail-in or write down features;
 
-(ii) the financial instrument has been issued with the sole purpose of satisfying loss absorbing [S.L. 123.187 IMPLEMENTATION
+(ii) the financial instrument has been issued with the sole purpose of satisfying loss absorbing capacity requirements applicable to the banking sector and the financial instrument is recognised as such in the taxpayer's loss absorbing capacity requirements;
 
 \*Applicable from 1st January, 2020.
-
-capacity requirements applicable to the banking sector and the financial instrument is recognised as such in the taxpayer's loss absorbing capacity requirements;
-
-*16*
 
 (iii) the financial instrument has been issued:
 
@@ -425,12 +379,10 @@ Provided that the provisions of this paragraph (b) shall only apply until 31 Dec
 
 (1) As from 1 January 2022, where one (1) or more associated non-resident entities holding in aggregate a direct or indirect interest in fifty per cent (50%) or more of the voting rights, capital interests or rights to a share of profit in a hybrid entity that is incorporated or established in Malta are located in a jurisdiction or jurisdictions that regard the hybrid entity as a taxable person, the hybrid entity shall be regarded as a resident of Malta and taxed on its income to the extent that that income is not otherwise taxed under any other provision of the Income Tax Acts or in any other jurisdiction.
 
-(2) Sub-regulation (1) shall not apply to a collective investment vehicle. For the purposes of this regulation, "collective IMPLEMENTATION [S.L. 123.187 investment vehicle" means an investment fund or vehicle that is widely held, holds a diversified portfolio of securities and is subject to investor-protection regulation in the country in which it is established.
+(2) Sub-regulation (1) shall not apply to a collective investment vehicle. For the purposes of this regulation, "collective investment vehicle" means an investment fund or vehicle that is widely held, holds a diversified portfolio of securities and is subject to investor-protection regulation in the country in which it is established.
 
 *Tax residency mismatches. Added by: L.N. 348 of 2019.*
 
 11.\* To the extent that a deduction for payment, expenses or losses of a taxpayer who is resident for tax purposes in Malta and in another jurisdiction is deductible from the tax base in Malta and in that other jurisdiction, the deduction shall be denied to the extent that the other jurisdiction allows the duplicate deduction to be set off against income that is not dual-inclusion income. If the other jurisdiction is a Member State, the deduction shall be denied only if the taxpayer is not deemed to be resident in Malta according to the double taxation treaty between Malta and the other Member State concerned.
-
-*17*
 
 \*Applicable from 1st January, 2020.

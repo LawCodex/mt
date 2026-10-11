@@ -1,6 +1,6 @@
 ---
 title: "Fees for Censorship of Cinematograph Films Regulations"
-identifier: "S.L. 35.4"
+identifier: "S.L. 35.04"
 eli: "https://legislation.mt/eli/sl/35.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/35.4/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Fees for Censorship of Cinematograph Films Regulations (S.L. 35.4)
+# Fees for Censorship of Cinematograph Films Regulations (S.L. 35.04)
 
 **SUBSIDIARY LEGISLATION 35.04**
 

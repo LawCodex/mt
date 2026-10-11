@@ -1,6 +1,6 @@
 ---
 title: "Passport Regulations"
-identifier: "S.L. 61.2"
+identifier: "S.L. 61.02"
 eli: "https://legislation.mt/eli/sl/61.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/61.2/20230728/eng"
 retrieved: 2026-10-12
 ---
 
-# Passport Regulations (S.L. 61.2)
+# Passport Regulations (S.L. 61.02)
 
 **SUBSIDIARY LEGISLATION 61.02**
 

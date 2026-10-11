@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Master in Early Childhood Education and Care Degree Course Regulations - Repealed by Legal Notice 3 of 2020 (S.L. 327.420)
 
-MASTER IN EARLY CHILDHOOD EDUCATION
-
-*1*
-
-AND CARE DEGREE COURSE [S.L.327.420
-
 SUBSIDIARY LEGISLATION 327.420
 
 MASTER IN EARLY CHILDHOOD EDUCATION

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in Water Operations Management under the auspices of the Institute of Agriculture (S.L. 327.286)
 
-DIPLOMA IN WATER OPERATIONS MANAGEMENT UNDER
-
-*1*
-
-THE AUSPICES OF THE INSTITUTE OF AGRICULTURE [S.L.327.286
-
 **SUBSIDIARY LEGISLATION 327.286**
 
 **BYE-LAWS FOR THE DIPLOMA IN WATER**

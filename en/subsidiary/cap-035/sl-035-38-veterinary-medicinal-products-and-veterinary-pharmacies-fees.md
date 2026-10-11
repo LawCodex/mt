@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Veterinary Medicinal Products and Veterinary Pharmacies (Fees) Regulations (S.L. 35.38)
 
-*1*
-
-VETERINARY PHARMACIES (FEES) [S.L. 35.38
-
 **SUBSIDIARY LEGISLATION 35.38**
 
 **VETERINARY MEDICINAL PRODUCTS AND**
@@ -75,10 +71,6 @@ research and development purposes;
 (c) for the issuance and 1 year 60 renewal of an authorisation for
 
 cascade use;
-
-**VETERINARY PHARMACIES (FEES)**
-
-*[S.L. 35.38 2*
 
 (d) for the issuance and 5 years 1,000 renewal of a marketing authorisation
 
@@ -138,10 +130,6 @@ distribution of Veterinary Medicinal Products
 
 and active substances:
 
-*3*
-
-VETERINARY PHARMACIES (FEES) [S.L. 35.38
-
 (a) for the issuance and as An renewal of the manufacturing determined annual authorisation requiring a GMP by the fee of inspection; Director 25% on following the total an payment inspection requested (maximum by the 3 years) contracto r carrying out the GMP inspectio n
 
 (i) for changes in 60 manufacturing authorisations
@@ -164,11 +152,7 @@ Large (76 to 200 employee s) - 1,960
 
 Super employee (more than 200 employee s) - 2,910
 
-Partial manufact ure - 290 VETERINARY PHARMACIES (FEES)
-
-(i) for changes to the 60 manufacturing authorisation
-
-*[S.L. 35.38 4*
+Partial manufact ure - 290 (i) for changes to the 60 manufacturing authorisation
 
 that do not require any
 
@@ -240,10 +224,6 @@ involve an inspection in Malta: Director
 
 (ii) renewal of a 700 registration;
 
-*5*
-
-VETERINARY PHARMACIES (FEES) [S.L. 35.38
-
 (b) for registration for as
 
 importation and distribution of active determined
@@ -282,11 +262,7 @@ submitted at the same time and
 
 are related to each other;
 
-(b) for the as as pharmacovigilance inspection; determined determine by the d by the Director contracte following d party an conductin inspection g the (maximum inspectio 3 years) n + 25% adminis-trative fee VETERINARY PHARMACIES (FEES)
-
-(c) pharmacovigilance as as inspection as a routine inspection or determined determine for other necessary inspections e.g. to by the d by the investigate a complaint, following a Director contracte variation; following d party an conductin inspection g the (maximum inspectio 3 years) n + 25% adminis-trative fee (d) for the supervision of 50 destruction of veterinary medicinal
-
-*[S.L. 35.38 6*
+(b) for the as as pharmacovigilance inspection; determined determine by the d by the Director contracte following d party an conductin inspection g the (maximum inspectio 3 years) n + 25% adminis-trative fee (c) pharmacovigilance as as inspection as a routine inspection or determined determine for other necessary inspections e.g. to by the d by the investigate a complaint, following a Director contracte variation; following d party an conductin inspection g the (maximum inspectio 3 years) n + 25% adminis-trative fee (d) for the supervision of 50 destruction of veterinary medicinal
 
 products alone or in feed, active
 
@@ -330,10 +306,6 @@ with retail sale of Veterinary Medicinal
 
 Products and active substances:
 
-*7*
-
-VETERINARY PHARMACIES (FEES) [S.L. 35.38
-
 (a) for the issuance and as
 
 renewal of a veterinary pharmacy determined
@@ -352,12 +324,4 @@ Malta; Director
 
 ## 9.
 
-Assessment of dossier for the as as Marketing Authorisation of Veterinary determined determine Medicinal Products with the scope of by the d by the granting any type of authorisation for Director contracte marketing. prior to the d party assessment conductin g the inspectio n + 25% adminis-trative fee 10. For the testing (quality, safety, as as efficacy or environmental safety) of determined determine veterinary medicinal products alone or in feed, by the d by the active substances or other products intended to Director contracte be administered to or on animals or given as d party feed or with feed or water for control purposes conductin or enforcement. g the testing + adminis-trative costs according to the case
-
-**VETERINARY PHARMACIES (FEES)**
-
-*[S.L. 35.38 8*
-
-## 11.
-
-For the destruction of veterinary not as medicinal products alone or in feed, active applicable determine substances or other products intended to be d by the administered to or on animals or given as feed contracte or with feed or water. d party carrying out the destructio n + adminis-trative costs according to the case
+Assessment of dossier for the as as Marketing Authorisation of Veterinary determined determine Medicinal Products with the scope of by the d by the granting any type of authorisation for Director contracte marketing. prior to the d party assessment conductin g the inspectio n + 25% adminis-trative fee 10. For the testing (quality, safety, as as efficacy or environmental safety) of determined determine veterinary medicinal products alone or in feed, by the d by the active substances or other products intended to Director contracte be administered to or on animals or given as d party feed or with feed or water for control purposes conductin or enforcement. g the testing + adminis-trative costs according to the case 11. For the destruction of veterinary not as medicinal products alone or in feed, active applicable determine substances or other products intended to be d by the administered to or on animals or given as feed contracte or with feed or water. d party carrying out the destructio n + adminis-trative costs according to the case

@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of International Master of Arts in Transcultural Counselling - M.A. - under the auspices of the Faculty for Social Wellbeing (S.L. 327.418)
 
-COUNSELLING - M.A. (T.Couns.) - UNDER THE AUSPICES
-
-*1*
-
-OF THE FACULTY FOR SOCIAL WELLBEING [S.L.327.418
-
 **SUBSIDIARY LEGISLATION 327.418**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -72,10 +66,6 @@ These bye-laws shall be applicable for courses commencing in October 2019 or lat
 
 (2) All applicants shall be required to demonstrate that they have the necessary aptitude and disposition to follow the course with profit.
 
-*2*
-
-COUNSELLING - M.A. (T.Couns.) - UNDER THE AUSPICES [S.L.327.418 OF THE FACULTY FOR SOCIAL WELLBEING
-
 (3) (a) Professional aptitude and disposition shall be measured by means of exercises involving an extended personal interview and personality test.
 
 (b) Applicants who obtain less than 60% for the professional aptitude and the disposition criterion shall automatically not be admitted into the course.
@@ -118,13 +108,7 @@ The course shall extend over a period of four semesters of full-time study.
 
 (1) The assessment of each taught study-unit shall be completed by the end of the semester in which the teaching of the study-unit is held.
 
-(2) Students who in any academic year fail in the assessment of not more than four taught study-units shall be given the opportunity to re-sit COUNSELLING - M.A. (T.Couns.) - UNDER THE AUSPICES
-
-*3*
-
-OF THE FACULTY FOR SOCIAL WELLBEING [S.L.327.418
-
-the failed assessments during the September assessment session.
+(2) Students who in any academic year fail in the assessment of not more than four taught study-units shall be given the opportunity to re-sit the failed assessments during the September assessment session.
 
 (3) Students who fail in more than the number of study-units permitted under paragraph (2) of this bye-law, or students who after re-assessment fail to obtain credit for any taught study-unit, shall be deemed to have failed the course.
 
@@ -157,7 +141,3 @@ the failed assessments during the September assessment session.
 ## 9. Classification of the Awards. Re-numbered and substituted by: L.N. 186 of 2016.
 
 The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma and of the Degree shall be based on the results obtained in all the components of the programme of study, all credits being weighted equally.
-
-*4*
-
-COUNSELLING - M.A. (T.Couns.) - UNDER THE AUSPICES [S.L.327.418 OF THE FACULTY FOR SOCIAL WELLBEING

@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister of Finance for the Issue of €291,171.67 7% Malta Government Stock 2001 (S.L. 161.62)
 
-ISSUE OF €291,171.67 7%
-
-*1*
-
-MALTA GOVERNMENT STOCK 2011 [S.L.161.62
-
 **SUBSIDIARY LEGISLATION 161.62**
 
 DIRECTIVE BY THE MINISTER OF FINANCE FOR THE ISSUE OF €291,171.67 7% MALTA

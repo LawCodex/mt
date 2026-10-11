@@ -1,6 +1,6 @@
 ---
 title: "Registration and Appeal of Persons with Disability Regulations"
-identifier: "S.L. 210.1"
+identifier: "S.L. 210.01"
 eli: "https://legislation.mt/eli/sl/210.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/210.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Registration and Appeal of Persons with Disability Regulations (S.L. 210.1)
-
-*1*
-
-PERSONS WITH DISABILITY [S.L.210.01
+# Registration and Appeal of Persons with Disability Regulations (S.L. 210.01)
 
 **SUBSIDIARY LEGISLATION 210.01**
 
@@ -67,10 +63,6 @@ No person’s name shall be entered in the register, as the case may be, if -
 
 (c) he is not, at the time, ordinarily resident in Malta.
 
-*2*
-
-[S.L.210.01 PERSONS WITH DISABILITY
-
 ## 6. Form of certificate of registration.
 
 *Amended by: L.N. 321 of 2019.*
@@ -105,17 +97,11 @@ Where, in pursuance of the provision of article 13(1) of the Act, the Corporatio
 
 (3) For the purposes of this regulation, any notification made by means of a letter through the post and directed to the address shown on the relative application made under regulation 3(1) shall be deemed, unless the contrary is proved, to have been received by the person concerned not later than the second day after the date of posting of the letter.
 
-*3*
+## 11. Preservation of registers and records.
 
-PERSONS WITH DISABILITY [S.L.210.01 11. (1) Any register kept by any person in accordance with the provision of article 20(1) of the Act shall be preserved by such person for a period not shorter than five years from the date of the last entry therein.
-
-*Preservation of registers and records.*
+(1) Any register kept by any person in accordance with the provision of article 20(1) of the Act shall be preserved by such person for a period not shorter than five years from the date of the last entry therein.
 
 (2) Any record kept by any person in accordance with the provision of article 20(2) of the Act shall be preserved by such person for a period not shorter than five years from the date to which the records relate.
-
-*4*
-
-[S.L.210.01 PERSONS WITH DISABILITY
 
 FIRST SCHEDULE
 

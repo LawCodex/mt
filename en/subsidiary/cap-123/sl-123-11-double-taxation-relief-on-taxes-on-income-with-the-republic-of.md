@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Republic of Finland Order (S.L. 123.11)
 
-*1*
-
-WITH THE REPUBLIC OF FINLAND [S.L.123.11
-
 **SUBSIDIARY LEGISLATION 123.11**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -58,10 +54,6 @@ It is hereby declared -
 (c) that the Agreement has entered into force on the 30th December, 2001.
 
 \*https://cfr.gov.mt/en/inlandrevenue/itu/Documents/Malta%20- %20Finland%20DTA%20(synthesised%20text).pdf
-
-2 [S.L.123.11 WITH THE REPUBLIC OF FINLAND
-
-WITH THE REPUBLIC OF FINLAND [S.L.123.11 3
 
 ## SCHEDULE — AGREEMENT BETWEEN — MALTA AND THE REPUBLIC OF FINLAND
 
@@ -121,8 +113,6 @@ The Agreement shall apply also to any identical or substantially similar taxes w
 
 **Article 3**
 
-4 [S.L.123.11 WITH THE REPUBLIC OF FINLAND
-
 **General definitions**
 
 \1. For the purposes of this Agreement, unless the context otherwise requires:
@@ -157,9 +147,7 @@ The Agreement shall apply also to any identical or substantially similar taxes w
 
 **Residence**
 
-\1. For the purposes of this Agreement, the term ''resident of a Contracting State'' means any person who, under the laws of that State, is liable to tax therein by WITH THE REPUBLIC OF FINLAND [S.L.123.11 5
-
-reason of his domicile, residence, place of management, place of incorporation (registration) or any other criterion of a similar nature, and also includes that State and any statutory body or local authority thereof. This term, however, does not include any person who is liable to tax in that State in respect only of income from sources in that State.
+\1. For the purposes of this Agreement, the term ''resident of a Contracting State'' means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of management, place of incorporation (registration) or any other criterion of a similar nature, and also includes that State and any statutory body or local authority thereof. This term, however, does not include any person who is liable to tax in that State in respect only of income from sources in that State.
 
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
@@ -197,8 +185,6 @@ reason of his domicile, residence, place of management, place of incorporation (
 
 (a) a building site, a construction, assembly or installation project or supervisory activities in connection therewith, but only where such site, project or activities continue for a period of more than twelve months;
 
-6 [S.L.123.11 WITH THE REPUBLIC OF FINLAND
-
 (b) the furnishing of services, including consultancy services, by an enterprise through employees or other personnel engaged by the enterprise for such purpose, but only where activities of that nature continue (for the same or a connected project) within a Contracting State for a period or periods aggregating more than twelve months within any eighteen-month period.
 
 ## 4.
@@ -235,9 +221,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \1. Income derived by a resident of a Contracting State from immovable property (including income from agriculture or forestry) situated in the other Contracting State may be taxed in that other State.
 
-\2. (a) The term ''immovable property'' shall, subject to the provisions of sub- WITH THE REPUBLIC OF FINLAND [S.L.123.11 7
-
-paragraphs b) and c), have the meaning which it has under the law of the Contracting State in which the property in question is situated.
+\2. (a) The term ''immovable property'' shall, subject to the provisions of sub-paragraphs b) and c), have the meaning which it has under the law of the Contracting State in which the property in question is situated.
 
 (b) The term ''immovable property'' shall in any case include buildings, property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, or to explore for, mineral deposits, sources and other natural resources.
 
@@ -264,8 +248,6 @@ paragraphs b) and c), have the meaning which it has under the law of the Contrac
 \5. Where profits include items of income which are dealt with separately in other Articles of this Agreement, then the provisions of those Articles shall not be affected by the provisions of this Article.
 
 **Article 8**
-
-8 [S.L.123.11 WITH THE REPUBLIC OF FINLAND
 
 **Shipping and air transport**
 
@@ -299,8 +281,6 @@ and in either case conditions are made or imposed between the two enterprises in
 
 (i) 5 per cent of the gross amount of the dividends if the beneficial owner is a company (other than a partnership) which controls directly at least 10 per cent of the voting power in the company paying the dividends;
 
-WITH THE REPUBLIC OF FINLAND [S.L.123.11 9
-
 (ii) 15 per cent of the gross amount of the dividends in all other cases;
 
 (b) notwithstanding the provisions of sub-paragraph a), as long as an individual resident in Finland is under Finnish tax law entitled to a tax credit in respect of dividends paid by a company resident in Finland, dividends paid by a company which is a resident of Finland to a resident of Malta shall be taxable only in Malta if the beneficial owner of the dividends is a resident of Malta.
@@ -323,9 +303,7 @@ WITH THE REPUBLIC OF FINLAND [S.L.123.11 9
 
 **Interest**
 
-\1. Interest arising in a Contracting State shall be taxable only in the other Contracting State if the beneficial owner of the interest is a resident of that other 10 [S.L.123.11 WITH THE REPUBLIC OF FINLAND
-
-State.
+\1. Interest arising in a Contracting State shall be taxable only in the other Contracting State if the beneficial owner of the interest is a resident of that other State.
 
 \2. The term ''interest'' as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor's profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
@@ -344,8 +322,6 @@ State.
 \3. The provisions of paragraph 1 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \4. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Agreement.
-
-WITH THE REPUBLIC OF FINLAND [S.L.123.11 11
 
 **Article 13**
 
@@ -374,8 +350,6 @@ WITH THE REPUBLIC OF FINLAND [S.L.123.11 11
 (b) if his stay in that other State is for a period or periods amounting to or exceeding in the aggregate 183 days within any twelve-month period commencing or ending in the calendar year concerned; in that case, only so much of the income as is derived from his activities performed in that other State during such period or periods may be taxed in that other State.
 
 \2. The term ''professional services'' includes especially independent scientific, literary, artistic, educational or teaching activities as well as the independent activities of physicians, lawyers, engineers, architects, dentists and accountants.
-
-12 [S.L.123.11 WITH THE REPUBLIC OF FINLAND
 
 **Article 15**
 
@@ -413,9 +387,7 @@ Directors' fees and other similar payments derived by a resident of a Contractin
 
 \1. Subject to the provisions of paragraph 2 of Article 19, pensions and other similar remuneration paid to a resident of a Contracting State in consideration of past employment shall be taxable only in that State.
 
-\2. Notwithstanding the provisions of paragraph 1, and subject to the provisions of paragraph 2 of Article 19, pensions paid and other benefits, whether periodic or WITH THE REPUBLIC OF FINLAND [S.L.123.11 13
-
-lump-sum compensation, awarded under the social security legislation of a Contracting State or under any public scheme organised by a Contracting State for social welfare purposes, or any annuity arising in a Contracting State, shall be taxable only in that State.
+\2. Notwithstanding the provisions of paragraph 1, and subject to the provisions of paragraph 2 of Article 19, pensions paid and other benefits, whether periodic or lump-sum compensation, awarded under the social security legislation of a Contracting State or under any public scheme organised by a Contracting State for social welfare purposes, or any annuity arising in a Contracting State, shall be taxable only in that State.
 
 \3. The term ''annuity'' as used in this Article means a stated sum payable periodically at stated times during life, or during a specified or ascertainable period of time, under an obligation to make the payments in return for adequate and full consideration in money or money’s worth (other than services rendered).
 
@@ -447,9 +419,7 @@ A student, trainee or apprentice who is present in a Contracting State solely fo
 
 \1. Items of income of a resident of a Contracting State, wherever arising, not dealt with in the foregoing Articles of this Agreement shall be taxable only in that State.
 
-\2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and 14 [S.L.123.11 WITH THE REPUBLIC OF FINLAND
-
-the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
+\2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 **Article 22**
 
@@ -483,8 +453,6 @@ The provisions of Articles 6 to 21 shall not apply to persons entitled to any sp
 
 \1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected. This provision shall, notwithstanding the provisions of Article 1, also apply to persons who are not residents of one or both of the Contracting States.
 
-WITH THE REPUBLIC OF FINLAND [S.L.123.11 15
-
 \2. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
 
 \3. Except where the provisions of paragraph 1 of Article 9, paragraph 4 of Article 11, or paragraph 4 of Article 12 apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
@@ -507,9 +475,7 @@ WITH THE REPUBLIC OF FINLAND [S.L.123.11 15
 
 **Exchange of information**
 
-\1. The competent authorities of the Contracting States shall exchange such information as is necessary for carrying out the provisions of this Agreement or of the domestic laws of the Contracting States concerning taxes covered by the Agreement insofar as the taxation thereunder is not contrary to the Agreement. The 16 [S.L.123.11 WITH THE REPUBLIC OF FINLAND
-
-exchange of information is not restricted by Article 1. Any information received by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by the Agreement. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
+\1. The competent authorities of the Contracting States shall exchange such information as is necessary for carrying out the provisions of this Agreement or of the domestic laws of the Contracting States concerning taxes covered by the Agreement insofar as the taxation thereunder is not contrary to the Agreement. The exchange of information is not restricted by Article 1. Any information received by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by the Agreement. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
 
 \2. In no case shall the provisions of paragraph 1 be construed so as to impose on a Contracting State the obligation:
 
@@ -543,9 +509,7 @@ Nothing in this Agreement shall affect the fiscal privileges of members of diplo
 
 in respect of taxes on income derived during any calendar year or accounting period, as the case may be, beginning on or after 1 January immediately following the date on which the Agreement enters into force.
 
-\3. The Agreement between Malta and Finland for the avoidance of double taxation with respect to taxes on income and on capital, signed at Helsinki on 24 March 1975, (hereinafter referred to as ''the 1975 Agreement''), shall cease to have effect with respect to taxes to which this Agreement applies in accordance with the WITH THE REPUBLIC OF FINLAND [S.L.123.11 17
-
-provisions of paragraph 2. The 1975 Agreement shall terminate on the last date on which it has effect in accordance with the foregoing provision of this paragraph.
+\3. The Agreement between Malta and Finland for the avoidance of double taxation with respect to taxes on income and on capital, signed at Helsinki on 24 March 1975, (hereinafter referred to as ''the 1975 Agreement''), shall cease to have effect with respect to taxes to which this Agreement applies in accordance with the provisions of paragraph 2. The 1975 Agreement shall terminate on the last date on which it has effect in accordance with the foregoing provision of this paragraph.
 
 **Article 29**
 
@@ -572,8 +536,6 @@ Joseph Cassar Dieter Vitzthum
 For the Government of For the Government of
 
 Malta the Republic of Finland
-
-18 [S.L.123.11 WITH THE REPUBLIC OF FINLAND
 
 Mr Joseph Cassar
 
@@ -604,8 +566,6 @@ I avail myself of this opportunity to extend to you, Your Excellency, the assura
 Rome, 30 October 2000 Dieter Vitzthum
 
 Ambassador of Finland
-
-WITH THE REPUBLIC OF FINLAND [S.L.123.11 19
 
 Mr Dieter Vitzhum
 
@@ -640,5 +600,3 @@ I take this opportunity to renew to you, Your Excellency, the assurance of my hi
 Rome, 30 October 2000 Joseph Cassar
 
 Ambassador of Malta
-
-20 [S.L.123.11 WITH THE REPUBLIC OF FINLAND

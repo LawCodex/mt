@@ -1,6 +1,6 @@
 ---
 title: "Deduction for Wear and Tear of Plant and Machinery Rules"
-identifier: "S.L. 123.1"
+identifier: "S.L. 123.01"
 eli: "https://legislation.mt/eli/sl/123.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/123.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Deduction for Wear and Tear of Plant and Machinery Rules (S.L. 123.1)
-
-*1*
-
-OF PLANT AND MACHINERY [S.L.123.01
+# Deduction for Wear and Tear of Plant and Machinery Rules (S.L. 123.01)
 
 **SUBSIDIARY LEGISLATION 123.01**
 
@@ -67,11 +63,7 @@ Where the asset is used in the production of the income for part of the accounti
 
 Where a person acquires an asset from another person and - (a) that person is controlled and beneficially owned to the extent of more than fifty per cent by the other person; or
 
-(b) that person controls and beneficially owns more than [S.L.123.01 OF PLANT AND MACHINERY
-
-fifty per cent of the other person; or
-
-*2*
+(b) that person controls and beneficially owns more than fifty per cent of the other person; or
 
 (c) both such persons are controlled and beneficially owned to the extent of more than fifty per cent by another person or persons,
 
@@ -96,10 +88,6 @@ Where an asset is used both in the production of the income and for other purpos
 ## 12. Assets on which previous allowances were claimed.
 
 The written down value of plant and machinery in respect of which a deduction for wear and tear has been allowed prior to year of assessment 2002 shall, for the purpose of these rules, be deemed to be the cost of acquisition on which wear and tear allowances are to be allowed, in accordance with these rules, for that year of assessment and subsequent years of assessment in respect of such plant and machinery.
-
-*3*
-
-OF PLANT AND MACHINERY [S.L.123.01
 
 ## SCHEDULE
 

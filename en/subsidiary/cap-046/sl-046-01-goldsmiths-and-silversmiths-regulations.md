@@ -1,6 +1,6 @@
 ---
 title: "Goldsmiths and Silversmiths Regulations"
-identifier: "S.L. 46.1"
+identifier: "S.L. 46.01"
 eli: "https://legislation.mt/eli/sl/46.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/46.1/20210701/eng"
 retrieved: 2026-10-12
 ---
 
-# Goldsmiths and Silversmiths Regulations (S.L. 46.1)
+# Goldsmiths and Silversmiths Regulations (S.L. 46.01)
 
 **SUBSIDIARY LEGISLATION 46.01**
 

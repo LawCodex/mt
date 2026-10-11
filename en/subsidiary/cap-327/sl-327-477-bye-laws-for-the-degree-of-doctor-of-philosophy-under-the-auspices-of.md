@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy under the auspices of the Faculty for Social Wellbeing (S.L. 327.477)
 
-UNDER THE AUSPICES OF THE FACULTY
-
-*1*
-
-FOR SOCIAL WELLBEING [S.L.327.477
-
 **SUBSIDIARY LEGISLATION 327.477**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR OF**
@@ -76,12 +70,6 @@ The Dean of the Faculty or delegate (chairman)
 Principal supervisors shall be required to submit a written report to the Board, through the Faculty Doctoral Committee, every year for all students under their supervision.
 
 \*These regulations have been repealed by Legal Notice 163 of 2024.
-
-UNDER THE AUSPICES OF THE FACULTY
-
-*2*
-
-[S.L.327.477 FOR SOCIAL WELLBEING
 
 ## 7. Progress.
 

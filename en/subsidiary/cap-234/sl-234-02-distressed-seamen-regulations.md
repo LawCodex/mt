@@ -1,6 +1,6 @@
 ---
 title: "Distressed Seamen Regulations"
-identifier: "S.L. 234.2"
+identifier: "S.L. 234.02"
 eli: "https://legislation.mt/eli/sl/234.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/234.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Distressed Seamen Regulations (S.L. 234.2)
+# Distressed Seamen Regulations (S.L. 234.02)
 
 SUBSIDIARY LEGISLATION 234.02
 

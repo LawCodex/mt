@@ -1,6 +1,6 @@
 ---
 title: "Qualifying Companies (Export Services) Regulations"
-identifier: "S.L. 325.1"
+identifier: "S.L. 325.01"
 eli: "https://legislation.mt/eli/sl/325.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/325.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Qualifying Companies (Export Services) Regulations (S.L. 325.1)
+# Qualifying Companies (Export Services) Regulations (S.L. 325.01)
 
 **SUBSIDIARY LEGISLATION 325.01**
 

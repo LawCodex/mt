@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy under the auspices of the Euro-Mediterranean Centre for Educational Research (S.L. 327.383)
 
-AUSPICES OF THE EURO-MEDITERRANEAN CENTRE
-
-*1*
-
-FOR EDUCATIONAL RESEARCH [S.L.327.383
-
 **SUBSIDIARY LEGISLATION 327.383**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR OF**
@@ -73,11 +67,7 @@ The Director of the Centre or delegate (chairman)
 
 ## 6. Supervision.
 
-Principal Supervisors shall be required to submit a written report to the Board, through the Centre Doctoral Committee, every AUSPICES OF THE EURO-MEDITERRANEAN CENTRE [S.L.327.383 FOR EDUCATIONAL RESEARCH
-
-June for all students under their supervision.
-
-*2*
+Principal Supervisors shall be required to submit a written report to the Board, through the Centre Doctoral Committee, every June for all students under their supervision.
 
 ## 7. Students’ progress.
 

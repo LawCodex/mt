@@ -1,6 +1,6 @@
 ---
 title: "Public Tombolas Regulations"
-identifier: "S.L. 70.2"
+identifier: "S.L. 70.02"
 eli: "https://legislation.mt/eli/sl/70.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/70.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Public Tombolas Regulations (S.L. 70.2)
+# Public Tombolas Regulations (S.L. 70.02)
 
 **SUBSIDIARY LEGISLATION 70.02**
 

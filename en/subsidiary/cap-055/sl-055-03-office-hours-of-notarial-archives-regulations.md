@@ -1,6 +1,6 @@
 ---
 title: "Office Hours of Notarial Archives Regulations"
-identifier: "S.L. 55.3"
+identifier: "S.L. 55.03"
 eli: "https://legislation.mt/eli/sl/55.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/55.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Office Hours of Notarial Archives Regulations (S.L. 55.3)
+# Office Hours of Notarial Archives Regulations (S.L. 55.03)
 
 **SUBSIDIARY LEGISLATION 55.03**
 

@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Engineering and Architecture (Honours) - B.E. &amp; A. (Hons) - under the auspices of the Faculty of Architecture and Civil Engineering (S.L. 327.245)
 
-DEGREE OF BACHELOR OF ENGINEERING AND ARCHITECTURE
-
-(HONOURS) - B.E. & A. (HONS) - UNDER THE AUSPICES OF THE
-
-*1*
-
-FACULTY OF ARCHITECTURE AND CIVIL ENGINEERING [S.L.327.245
-
 **SUBSIDIARY LEGISLATION 327.245**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF ENGINEERING AND ARCHITECTURE (HONOURS) - B.E. & A. (HONS) - UNDER THE AUSPICES OF

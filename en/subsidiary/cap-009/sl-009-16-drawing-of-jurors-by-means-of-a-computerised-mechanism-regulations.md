@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Drawing of Jurors by means of a Computerised Mechanism Regulations (S.L. 9.16)
 
-DRAWING OF JURORS BY MEANS
-
-*1*
-
-OF A COMPUTERISED MECHANISM [S.L.9.16
-
 **SUBSIDIARY LEGISLATION 9.16**
 
 **DRAWING OF JURORS BY MEANS OF A**

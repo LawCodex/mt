@@ -1,6 +1,6 @@
 ---
 title: "Control of Livestock Regulations"
-identifier: "S.L. 117.9"
+identifier: "S.L. 117.09"
 eli: "https://legislation.mt/eli/sl/117.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/117.9/20231017/eng"
 retrieved: 2026-10-12
 ---
 
-# Control of Livestock Regulations (S.L. 117.9)
+# Control of Livestock Regulations (S.L. 117.09)
 
 **SUBSIDIARY LEGISLATION 117.09**
 

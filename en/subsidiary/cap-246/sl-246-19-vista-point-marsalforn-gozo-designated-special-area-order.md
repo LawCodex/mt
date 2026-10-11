@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Vista Point, Marsalforn, Gozo (Designated Special Area) Order (S.L. 246.19)
 
-*1*
-
-(DESIGNATED SPECIAL AREA) [S.L.246.19
-
 **SUBSIDIARY LEGISLATION 246.19**
 
 **VISTA POINT, MARSALFORN, GOZO**
@@ -40,9 +36,3 @@ Vista Point, Marsalforn, Gozo consisting of immovable property situated in the a
 ## 3. Addition to First Schedule to the Act. Cap. 246.
 
 Vista Point, Marsalforn, Gozo, shall be added to the List of Scheduled Zones in the First Schedule to the Immovable Property (Acquisition by Non-Residents) Act.
-
-*2*
-
-[S.L.246.19 (DESIGNATED SPECIAL AREA) (DESIGNATED SPECIAL AREA) [S.L.246.19
-
-*3*

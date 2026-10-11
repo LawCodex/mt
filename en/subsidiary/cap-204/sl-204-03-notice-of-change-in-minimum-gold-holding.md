@@ -1,6 +1,6 @@
 ---
 title: "Notice of Change in Minimum Gold Holding"
-identifier: "S.L. 204.3"
+identifier: "S.L. 204.03"
 eli: "https://legislation.mt/eli/sl/204.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/204.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Notice of Change in Minimum Gold Holding (S.L. 204.3)
+# Notice of Change in Minimum Gold Holding (S.L. 204.03)
 
 SUBSIDIARY LEGISLATION 204.03
 

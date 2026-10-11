@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in Chinese under the auspices of the Faculty of Arts and the Confucius Institute (S.L. 327.390)
 
-DIPLOMA IN CHINESE UNDER THE AUSPICES
-
-OF THE FACULTY OF ARTS AND
-
-*1*
-
-THE CONFUCIUS INSTITUTE [S.L.327.390
-
 **SUBSIDIARY LEGISLATION 327.390**
 
 **BYE-LAWS FOR THE DIPLOMA IN CHINESE**

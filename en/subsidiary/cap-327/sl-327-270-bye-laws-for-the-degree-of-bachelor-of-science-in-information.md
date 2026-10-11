@@ -17,13 +17,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Science in Information Technology (Honours) - B.Sc. IT (Hons) - under the auspices of the Faculty of Information and Communication Technology (S.L. 327.270)
 
-TECHNOLOGY (HONOURS) - B.SC. IT (HONS) - UNDER THE
-
-AUSPICES OF THE FACULTY OF INFORMATION AND
-
-*1*
-
-COMMUNICATION TECHNOLOGY [S.L.327.270 SUBSIDIARY LEGISLATION 327.270
+**SUBSIDIARY LEGISLATION 327.270**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY
 
@@ -75,12 +69,6 @@ These bye-laws shall be applicable for courses commencing from 1 December 2019 o
 
 \*These regulations have been repealed by Legal Notice 282 of 2022.
 
-TECHNOLOGY (HONOURS) - B.SC. IT (HONS) - UNDER THE AUSPICES OF THE FACULTY OF INFORMATION AND
-
-*2*
-
-[S.L.327.270 COMMUNICATION TECHNOLOGY
-
 (2) The areas of study offered in any particular year and the combinations that may or may not be chosen together shall be published by the Board at the time of the call for applications.
 
 ## 4. Special course requirements for admission.
@@ -115,15 +103,9 @@ or
 
 (i) a pass at Advanced Matriculation Level at Grade C or better in Pure Mathematics, or at a corresponding level of other examinations recognised by Senate for the purpose of the Admissions Regulations of the University; and (ii) either one of the following:
 
-(1)the Diploma of the City and Guilds of London TECHNOLOGY (HONOURS) - B.SC. IT (HONS) - UNDER THE
+(1)the Diploma of the City and Guilds of London Institute Course No. 7235 in Applied Information Technology; or
 
 \*This regulation shall be applicable for courses commencing in October 2023 or later.
-
-AUSPICES OF THE FACULTY OF INFORMATION AND
-
-*3*
-
-COMMUNICATION TECHNOLOGY [S.L.327.270 Institute Course No. 7235 in Applied Information Technology; or
 
 (2)the MCAST-BTEC Extended Diploma in IT; or
 
@@ -155,13 +137,7 @@ or
 
 (4)the MCAST-BTEC Higher National Diploma (HND) in Computing,
 
-provided that students who lack a grade in only one of the subjects of the special course requirements required at Advanced Matriculation Level indicated in paragraphs (a) and (b) of this bye- TECHNOLOGY (HONOURS) - B.SC. IT (HONS) - UNDER THE AUSPICES OF THE FACULTY OF INFORMATION AND
-
-*4*
-
-[S.L.327.270 COMMUNICATION TECHNOLOGY
-
-law shall be admitted under those conditions as the Board may impose to compensate for the missing element. If, by the end of the first year, such students do not successfully complete all the requirements to progress regularly to the second year of the Course, they shall be required to withdraw from the Course and shall neither be entitled to repeat the year nor to progress conditionally as normally permitted under the Principal Regulations.
+provided that students who lack a grade in only one of the subjects of the special course requirements required at Advanced Matriculation Level indicated in paragraphs (a) and (b) of this bye-law shall be admitted under those conditions as the Board may impose to compensate for the missing element. If, by the end of the first year, such students do not successfully complete all the requirements to progress regularly to the second year of the Course, they shall be required to withdraw from the Course and shall neither be entitled to repeat the year nor to progress conditionally as normally permitted under the Principal Regulations.
 
 (3) Applicants for the Computing and Business area of study shall:
 
@@ -193,13 +169,7 @@ or
 
 (3) any other qualification from a recognised institution considered by the Board to be equivalent to (1) or (2) above:
 
-TECHNOLOGY (HONOURS) - B.SC. IT (HONS) - UNDER THE
-
-AUSPICES OF THE FACULTY OF INFORMATION AND
-
-*5*
-
-COMMUNICATION TECHNOLOGY [S.L.327.270 Provided that students who lack a grade in only one of the subjects of the special course requirements required at Advanced Matriculation Level indicated in paragraph (a) of this bye-law shall be admitted under those conditions as the Board may impose to compensate for the missing element. If, by the end of the first year, such students do not successfully complete all the requirements to progress regularly to the second year of the course, they shall be required to withdraw from the course and shall neither be entitled to repeat the year nor to progress conditionally as normally permitted under the Principal Regulations.
+Provided that students who lack a grade in only one of the subjects of the special course requirements required at Advanced Matriculation Level indicated in paragraph (a) of this bye-law shall be admitted under those conditions as the Board may impose to compensate for the missing element. If, by the end of the first year, such students do not successfully complete all the requirements to progress regularly to the second year of the course, they shall be required to withdraw from the course and shall neither be entitled to repeat the year nor to progress conditionally as normally permitted under the Principal Regulations.
 
 (4) Applicants for the Software Development area of study shall:
 
@@ -229,13 +199,7 @@ or
 
 (2) the MCAST-BTEC Higher National Diploma (HND) in Computing;
 
-(3) any other qualification from a recognised institution considered by the Board to be TECHNOLOGY (HONOURS) - B.SC. IT (HONS) - UNDER THE AUSPICES OF THE FACULTY OF INFORMATION AND
-
-*6*
-
-[S.L.327.270 COMMUNICATION TECHNOLOGY
-
-equivalent to (1) or (2) above:
+(3) any other qualification from a recognised institution considered by the Board to be equivalent to (1) or (2) above:
 
 Provided that students who lack a grade in only one of the subjects of the special course requirements required at Advanced Matriculation Level indicated in paragraph (a) of this bye-law shall be admitted under those conditions as the Board may impose to compensate for the missing element. If, by the end of the first year, such students do not successfully complete all the requirements to progress regularly to the second year of the course, they shall be required to withdraw from the course and shall neither be entitled to repeat the year nor to progress conditionally as normally permitted under the Principal Regulations.
 
@@ -275,10 +239,4 @@ Second Year Average Mark 40%
 
 Third Year Average Mark 40%
 
-(2) The Final Weighted Average Mark for the classification of the Diploma and Higher Diploma shall be based on the results TECHNOLOGY (HONOURS) - B.SC. IT (HONS) - UNDER THE
-
-AUSPICES OF THE FACULTY OF INFORMATION AND
-
-*7*
-
-COMMUNICATION TECHNOLOGY [S.L.327.270 obtained in all the study-units, with all credits awarded being weighted equally.
+(2) The Final Weighted Average Mark for the classification of the Diploma and Higher Diploma shall be based on the results obtained in all the study-units, with all credits awarded being weighted equally.

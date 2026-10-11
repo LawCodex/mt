@@ -1,6 +1,6 @@
 ---
 title: "Publication of Names of Citizens of Malta and Persons Deprived of Maltese Citizenship Regulations"
-identifier: "S.L. 188.7"
+identifier: "S.L. 188.07"
 eli: "https://legislation.mt/eli/sl/188.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,9 @@ version: "https://legislation.mt/eli/sl/188.7/20260313/eng"
 retrieved: 2026-10-12
 ---
 
-# Publication of Names of Citizens of Malta and Persons Deprived of Maltese Citizenship Regulations (S.L. 188.7)
+# Publication of Names of Citizens of Malta and Persons Deprived of Maltese Citizenship Regulations (S.L. 188.07)
 
-PUBLICATION OF NAMES OF CITIZENS OF MALTA AND
-
-*1*
-
-PERSONS DEPRIVED OF MALTESE CITIZENSHIP [S.L. 188.07 SUBSIDIARY LEGISLATION 188.07
+**SUBSIDIARY LEGISLATION 188.07**
 
 PUBLICATION OF NAMES OF CITIZENS OF MALTA AND PERSONS DEPRIVED OF MALTESE
 

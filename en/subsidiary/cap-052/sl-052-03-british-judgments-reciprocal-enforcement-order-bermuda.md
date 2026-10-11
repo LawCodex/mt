@@ -1,6 +1,6 @@
 ---
 title: "British Judgments Reciprocal Enforcement Order - Bermuda"
-identifier: "S.L. 52.3"
+identifier: "S.L. 52.03"
 eli: "https://legislation.mt/eli/sl/52.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/52.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# British Judgments Reciprocal Enforcement Order - Bermuda (S.L. 52.3)
-
-BRITISH JUDGMENTS
-
-*1*
-
-RECIPROCAL ENFORCEMENT - BERMUDA [ S.L.52.03
+# British Judgments Reciprocal Enforcement Order - Bermuda (S.L. 52.03)
 
 **SUBSIDIARY LEGISLATION 52.03**
 

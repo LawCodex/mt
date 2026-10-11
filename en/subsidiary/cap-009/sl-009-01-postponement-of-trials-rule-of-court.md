@@ -1,6 +1,6 @@
 ---
 title: "Postponement of Trials Rule of Court"
-identifier: "S.L. 9.1"
+identifier: "S.L. 9.01"
 eli: "https://legislation.mt/eli/sl/9.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/9.1/20110211/eng"
 retrieved: 2026-10-12
 ---
 
-# Postponement of Trials Rule of Court (S.L. 9.1)
+# Postponement of Trials Rule of Court (S.L. 9.01)
 
 SUBSIDIARY LEGISLATION 9.01
 

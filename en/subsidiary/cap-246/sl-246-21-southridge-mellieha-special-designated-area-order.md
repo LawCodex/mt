@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Southridge, Mellieħa (Special Designated Area) Order (S.L. 246.21)
 
-*1*
-
-(SPECIAL DESIGNATED AREA) [S.L. 246.21 SUBSIDIARY LEGISLATION 246.21
+**SUBSIDIARY LEGISLATION 246.21**
 
 **SOUTHRIDGE, MELLIEĦA**
 
@@ -38,7 +36,3 @@ Southridge, Mellieħa consisting of immovable property situated in the area bord
 ## 3. Addition to the First Schedule to the Act. Cap. 246.
 
 Southridge, Mellieħa shall be added to the List of Scheduled Zones in the First Schedule to the Immovable Property (Acquisition by Non-Residents) Immovable Property (Acquisition by Non-Residents) Act.
-
-*2*
-
-[S.L. 246.21 (SPECIAL DESIGNATED AREA)

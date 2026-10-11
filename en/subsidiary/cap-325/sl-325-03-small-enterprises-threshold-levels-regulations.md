@@ -1,6 +1,6 @@
 ---
 title: "Small Enterprises (Threshold Levels) Regulations"
-identifier: "S.L. 325.3"
+identifier: "S.L. 325.03"
 eli: "https://legislation.mt/eli/sl/325.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/325.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Small Enterprises (Threshold Levels) Regulations (S.L. 325.3)
+# Small Enterprises (Threshold Levels) Regulations (S.L. 325.03)
 
 SUBSIDIARY LEGISLATION 325.03
 

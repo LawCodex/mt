@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts - M.A. - under the auspices of the Faculty of Media and Knowledge Sciences (S.L. 327.223)
 
-*1*
-
-OF THE FACULTY OF MEDIA AND KNOWLEDGE SCIENCES [S.L.327.223
-
 **SUBSIDIARY LEGISLATION 327.223**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -72,11 +68,7 @@ The Board shall offer the course in areas of study which fall under the competen
 
 (b) the degree of Bachelor in the same area or in a closely related area of study as that applied for, with an average mark of not less than 65% in that area of study, or similar qualifications deemed by the Board relevant to that chosen for the course; or
 
-(c) a degree from this or another university, which the [S.L.327.223 OF THE FACULTY OF MEDIA AND KNOWLEDGE SCIENCES
-
-Board considers as comparable to any of the degrees indicated in paragraphs (a) and (b).
-
-*2*
+(c) a degree from this or another university, which the Board considers as comparable to any of the degrees indicated in paragraphs (a) and (b).
 
 (2) The Board may also consider applicants in possession of degrees or qualifications other than those referred to in paragraph (1) of this bye-law if they also present a portfolio of work confirmed to have been carried out by them and which is related to the area of study applied for to the satisfaction of the Board.
 
@@ -118,10 +110,6 @@ Mainly research programmes of study shall comprise taught study-units to which 1
 
 Programmes of study shall be published by the Board after approval by Senate normally not less than eight months prior to the commencement of the course.
 
-*3*
-
-OF THE FACULTY OF MEDIA AND KNOWLEDGE SCIENCES [S.L.327.223
-
 ## 12. Assessment and progress.
 
 (1) The assessment of each taught study-unit shall be completed by the end of the semester in which the teaching of the study-unit is held.
@@ -154,11 +142,7 @@ OF THE FACULTY OF MEDIA AND KNOWLEDGE SCIENCES [S.L.327.223
 
 (3) For students following the programme by research, supervisors shall submit to the Board progress reports about the students under their supervision at the end of each semester of studies, whether the student is following the course on a full-time or a part-time basis.
 
-(4) The reports required in paragraphs (2) and (3) of this bye-law may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; [S.L.327.223 OF THE FACULTY OF MEDIA AND KNOWLEDGE SCIENCES
-
-or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
-
-*4*
+(4) The reports required in paragraphs (2) and (3) of this bye-law may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 

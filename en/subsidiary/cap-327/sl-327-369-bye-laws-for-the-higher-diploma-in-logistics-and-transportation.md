@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Higher Diploma in Logistics and Transportation Management under the auspices of the Faculty of Economics, Management and Accountancy (S.L. 327.369)
 
-MANAGEMENT UNDER THE AUSPICES OF THE FACULTY
-
-*1*
-
-OF ECONOMICS, MANAGEMENT AND ACCOUNTANCY [S.L.327.369
-
 **SUBSIDIARY LEGISLATION 327.369**
 
 **BYE-LAWS FOR THE HIGHER DIPLOMA IN**
@@ -75,11 +69,11 @@ These bye-laws shall be applicable from 23 June, 2011 onwards.
 
 The course shall extend over a period of three semesters of full-time study or the equivalent in part-time study.
 
-*2*
+## 5. Course programme.
 
-MANAGEMENT UNDER THE AUSPICES OF THE FACULTY [S.L.327.369 OF ECONOMICS, MANAGEMENT AND ACCOUNTANCY 5. (1) The course shall consist of a number of taught study-units to which 90 credits shall be assigned.
+*Substituted by: L.N. 281 of 2012.*
 
-*Course programme. Substituted by: L.N. 281 of 2012.*
+(1) The course shall consist of a number of taught study-units to which 90 credits shall be assigned.
 
 (2) Students who successfully complete a prescribed set of study-units totalling 30 credits and opt not to proceed with the course, or having proceeded do not successfully complete the course, shall be entitled to the Certificate.
 

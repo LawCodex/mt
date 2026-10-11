@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister of Finance for the Issue of an amount not exceeding ma €35,522,944.33 5.6% Malta Government Stock 2007 (Third Issue) Fungibility Issue (S.L. 161.66)
 
-ISSUE OF €35,522,944.33 5.6% MALTA
-
-*1*
-
-GOVERNMENT STOCK 2007 (THIRD ISSUE) [S.L.161.66
-
 **SUBSIDIARY LEGISLATION 161.66**
 
 DIRECTIVE BY THE MINISTER OF FINANCE FOR THE ISSUE OF AN AMOUNT NOT EXCEEDING

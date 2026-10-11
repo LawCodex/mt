@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Family Ministry under the auspices of the Faculty of Theology (S.L. 327.372)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF THEOLOGY [S.L.327.372
-
 **SUBSIDIARY LEGISLATION 327.372**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -65,11 +61,7 @@ These bye-laws shall be applicable for courses commencing in October 2017 or lat
 
 (4) Applicants may be registered as students in the course if they satisfy the Board, through an interview, that they have the necessary experience and aptitude to follow the course.
 
-(5) (a) The Board shall, after approval by Senate, determine the number of applicants that may be allowed to register depending on the availability of resources. The [S.L.327.372 UNDER THE AUSPICES OF THE FACULTY OF THEOLOGY Board shall, however, announce the number of available places at the time of the call for applications.
-
-(b) If the number of eligible applicants exceeds the number of available places, the Board shall select applicants according to the following criteria:
-
-*2*
+(5) (a) The Board shall, after approval by Senate, determine the number of applicants that may be allowed to register depending on the availability of resources. The Board shall, however, announce the number of available places at the time of the call for applications. (b) If the number of eligible applicants exceeds the number of available places, the Board shall select applicants according to the following criteria:
 
 (i) degree type and classification;
 
@@ -111,11 +103,7 @@ The programme of study shall be published after approval by Senate, normally not
 
 (1) Students shall be required to submit an individual dissertation of approximately 15,000 - 20,000 words in accordance with the guidelines issued by the Board.
 
-(2) Work on the dissertation shall be undertaken during the third semester of the course. Each student shall be assigned a supervisor who shall provide guidance and advice on a regular UNDER THE AUSPICES OF THE FACULTY OF THEOLOGY [S.L.327.372
-
-basis during the period of study.
-
-*3*
+(2) Work on the dissertation shall be undertaken during the third semester of the course. Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
 
 (3) A provisional title of the dissertation and a detailed research proposal shall be submitted to the Board for approval by the end of the second semester.
 

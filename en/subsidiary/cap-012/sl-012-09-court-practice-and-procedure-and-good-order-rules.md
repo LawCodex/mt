@@ -1,6 +1,6 @@
 ---
 title: "Court Practice and Procedure and Good Order Rules"
-identifier: "S.L. 12.9"
+identifier: "S.L. 12.09"
 eli: "https://legislation.mt/eli/sl/12.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/12.9/20251014/eng"
 retrieved: 2026-10-12
 ---
 
-# Court Practice and Procedure and Good Order Rules (S.L. 12.9)
+# Court Practice and Procedure and Good Order Rules (S.L. 12.09)
 
 **SUBSIDIARY LEGISLATION 12.09**
 

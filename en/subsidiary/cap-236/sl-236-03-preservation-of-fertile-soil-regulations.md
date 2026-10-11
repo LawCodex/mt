@@ -1,6 +1,6 @@
 ---
 title: "Preservation of Fertile Soil Regulations"
-identifier: "S.L. 236.3"
+identifier: "S.L. 236.03"
 eli: "https://legislation.mt/eli/sl/236.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/236.3/20201001/eng"
 retrieved: 2026-10-12
 ---
 
-# Preservation of Fertile Soil Regulations (S.L. 236.3)
+# Preservation of Fertile Soil Regulations (S.L. 236.03)
 
 **SUBSIDIARY LEGISLATION 236.03**
 

@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Merchant Shipping (Monitoring, Reporting and Verification of Carbon Dioxide Emissions from Maritime Transport) Regulations (S.L. 234.54)
 
-VERIFICATION OF CARBON DIOXIDE EMISSIONS FROM
-
-*1*
-
-MARITIME TRANSPORT) [S.L. 234.54
-
 **SUBSIDIARY LEGISLATION 234.54**
 
 MERCHANT SHIPPING (MONITORING, REPORTING
@@ -66,10 +60,6 @@ The title of these regulations is the Merchant Shipping (Monitoring, Reporting a
 
 (2) Unless otherwise defined in these regulations, or unless the context otherwise requires, words and expressions used in these regulations shall have the same meaning assigned to them in the EU Regulation.
 
-*2*
-
-VERIFICATION OF CARBON DIOXIDE EMISSIONS FROM [S.L. 234.54 MARITIME TRANSPORT)
-
 ## 3. Application.
 
 *Amended by: L.N. 73 of 2024.*
@@ -96,13 +86,7 @@ VERIFICATION OF CARBON DIOXIDE EMISSIONS FROM [S.L. 234.54 MARITIME TRANSPORT)
 
 (2a) From 1 January 2025, these regulations shall also apply to:
 
-(a) Maltese general cargo ships below five thousand (5000) gross tonnage but not below four hundred (400) gross tonnage in respect of the greenhouse gas emissions released during their voyages for transporting cargo for commercial purposes, and Maltese offshore ships of four hundred (400) gross tonnage and above in respect of the greenhouse gas emissions released during their voyages, from their last port of call to a port of call under the VERIFICATION OF CARBON DIOXIDE EMISSIONS FROM
-
-*3*
-
-MARITIME TRANSPORT) [S.L. 234.54
-
-jurisdiction of an EU Member State and from a port of call under the jurisdiction of an EU Member State to their next port of call, as well as within ports of call under the jurisdiction of an EU Member State; and
+(a) Maltese general cargo ships below five thousand (5000) gross tonnage but not below four hundred (400) gross tonnage in respect of the greenhouse gas emissions released during their voyages for transporting cargo for commercial purposes, and Maltese offshore ships of four hundred (400) gross tonnage and above in respect of the greenhouse gas emissions released during their voyages, from their last port of call to a port of call under the jurisdiction of an EU Member State and from a port of call under the jurisdiction of an EU Member State to their next port of call, as well as within ports of call under the jurisdiction of an EU Member State; and
 
 (b) other general cargo ships below five thousand (5000) gross tonnage but not below four hundred (400) gross tonnage in respect of the greenhouse gas emissions released during their voyages for transporting cargo for commercial purposes, and other offshore ships of four hundred (400) gross tonnage and above in respect of the greenhouse gas emissions released during their voyages, from their last port of call to a port of call in Malta and from a port of call in Malta to their next port of call, as well as within ports of call in Malta.
 
@@ -126,11 +110,7 @@ Failure by the company to comply with the provisions of these regulations shall 
 
 Provided that, in the case of a non-Maltese ship, such inspection shall be limited to verifying that there is on board in relation to such ship a valid document of compliance issued in terms of Article 17 of the EU Regulation.
 
-(2) In the case of a non-Maltese ship, if the Registrar VERIFICATION OF CARBON DIOXIDE EMISSIONS FROM [S.L. 234.54 MARITIME TRANSPORT)
-
-General takes such steps as specified in sub-regulation (1) hereof, the Registrar General shall forthwith notify the ship’s flag State competent Authority; consular or diplomatic representative of the flag State of the ship.
-
-*4*
+(2) In the case of a non-Maltese ship, if the Registrar General takes such steps as specified in sub-regulation (1) hereof, the Registrar General shall forthwith notify the ship’s flag State competent Authority; consular or diplomatic representative of the flag State of the ship.
 
 (3) Where sub-regulation (2) applies, the Registrar General shall also notify all relevant accredited verifiers responsible for the issue of the document of compliance.
 
@@ -159,12 +139,6 @@ In the case of ships that have failed to comply with the provisions of these reg
 the Court may award such compensation in respect of any actual loss suffered in consequence of the measure as it deems fit.
 
 (6) The burden of satisfying the Court as to the matters specified in sub-regulation (5) shall lie with the appellant, as the case may be.
-
-VERIFICATION OF CARBON DIOXIDE EMISSIONS FROM
-
-*5*
-
-MARITIME TRANSPORT) [S.L. 234.54
 
 (7) The Court shall also have regard, in coming to its decision, to any matters not specified in the expulsion order that appears to it to be relevant as to whether the ship was or was not liable.
 

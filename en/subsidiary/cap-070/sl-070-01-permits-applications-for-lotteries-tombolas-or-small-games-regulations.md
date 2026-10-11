@@ -1,6 +1,6 @@
 ---
 title: "Permits Applications for Lotteries, Tombolas, or Small Games Regulations"
-identifier: "S.L. 70.1"
+identifier: "S.L. 70.01"
 eli: "https://legislation.mt/eli/sl/70.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,9 @@ version: "https://legislation.mt/eli/sl/70.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Permits Applications for Lotteries, Tombolas, or Small Games Regulations (S.L. 70.1)
+# Permits Applications for Lotteries, Tombolas, or Small Games Regulations (S.L. 70.01)
 
-PERMITS APPLICATIONS FOR LOTTERIES,
-
-*1*
-
-TOMBOLAS, OR SMALL GAMES [S.L.70.01 SUBSIDIARY LEGISLATION 70.01
+SUBSIDIARY LEGISLATION 70.01
 
 PERMITS APPLICATIONS FOR LOTTERIES,
 

@@ -1,6 +1,6 @@
 ---
 title: "Medical Officers of Health and D.M.O. s Conditions of Appointment Regulations"
-identifier: "S.L. 94.1"
+identifier: "S.L. 94.01"
 eli: "https://legislation.mt/eli/sl/94.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/94.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Medical Officers of Health and D.M.O. s Conditions of Appointment Regulations (S.L. 94.1)
-
-MEDICAL OFFICERS OF HEALTH AND
-
-*1*
-
-D.M.O.’S CONDITIONS OF APPOINTMENT [ S.L.94.01
+# Medical Officers of Health and D.M.O. s Conditions of Appointment Regulations (S.L. 94.01)
 
 **SUBSIDIARY LEGISLATION 94.01**
 

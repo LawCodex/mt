@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Science (Honours) in Home Economics - B.Sc. (Hons) HE - under the auspices of the Faculty of Education (S.L. 327.559)
 
-HOME ECONOMICS - B.Sc. (HONS.) HE - UNDER THE
-
-*1*
-
-AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.559
-
 **SUBSIDIARY LEGISLATION 327.559**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF
@@ -74,11 +68,7 @@ At the end of Year 1, students shall be required to choose an area of specialisa
 
 (b) a certificate showing a pass in the European Computer Driving Licence (ECDL) Standard Certificate, or equivalent.
 
-(2) Applicants considered as "Adult Learners" (mature applicants) in terms of regulation 6(c ) of the Admissions Regulations must be in possession of those qualifications and, or experience that would satisfy the Faculty Admissions Committee that they have reached the academic standard required to follow the course with profit. The eligibility of such applicants shall be decided by the University Admissions Board on the recommendation of the Faculty Admissions Committee, following HOME ECONOMICS - B.Sc. (HONS.) HE - UNDER THE [S.L.327.559 AUSPICES OF THE FACULTY OF EDUCATION
-
-an interview conducted by an interviewing board appointed for the purpose.
-
-*2*
+(2) Applicants considered as "Adult Learners" (mature applicants) in terms of regulation 6(c ) of the Admissions Regulations must be in possession of those qualifications and, or experience that would satisfy the Faculty Admissions Committee that they have reached the academic standard required to follow the course with profit. The eligibility of such applicants shall be decided by the University Admissions Board on the recommendation of the Faculty Admissions Committee, following an interview conducted by an interviewing board appointed for the purpose.
 
 ## 5. Exemption.
 
@@ -110,11 +100,7 @@ The course shall extend over a period of three years of full-time study.
 
 *Amended by: L.N. 289 of 2019.*
 
-(1) The Board shall publish the programme of study before the commencement of each course. Subject to changes that the Board may, with the approval of Senate, be constrained to make, students are bound to follow the study-units and obtain the credits as indicated in the programme of study for the Degree, provided that the programme of study shall be drawn up in accordance with HOME ECONOMICS - B.Sc. (HONS.) HE - UNDER THE
-
-*3*
-
-AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.559 the relevant provisions of the Principal Regulations.
+(1) The Board shall publish the programme of study before the commencement of each course. Subject to changes that the Board may, with the approval of Senate, be constrained to make, students are bound to follow the study-units and obtain the credits as indicated in the programme of study for the Degree, provided that the programme of study shall be drawn up in accordance with the relevant provisions of the Principal Regulations.
 
 (2) In order for an area of specialisation (Health and Consumer Studies, or Fashion, Textiles and Interiors Studies) to be offered, a minimum of 3 students must choose to follow the area as from Year 2 onwards.
 

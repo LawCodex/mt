@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Prime Minister and Minister of Finance for the Issue of €23,293,733.99 5.1% Malta Government Stock 2014 (Third Issue) Fungibility Issue (S.L. 161.114)
 
-ISSUE OF €23,293,733.99 5.1%
-
-*1*
-
-MALTA GOVERNMENT STOCK 2014 (THIRD ISSUE) [S.L.161.114
-
 **SUBSIDIARY LEGISLATION 161.114**
 
 **DIRECTIVE BY THE PRIME MINISTER AND**

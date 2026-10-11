@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Mediterranean Studies - M.A. - under the auspices of the Faculty of Arts (S.L. 327.497)
 
-STUDIES - M.A. - UNDER THE AUSPICES OF
-
-*1*
-
-THE FACULTY OF ARTS [S.L.327.497
-
 **SUBSIDIARY LEGISLATION 327.497**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -79,12 +73,6 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 The programme of study shall comprise study-units to which a total of 90 ECTS credits are assigned, of which 60 ECTS credits are assigned to taught study-units and 30 ECTS credits assigned to a dissertation study-unit.
 
-STUDIES - M.A. - UNDER THE AUSPICES OF
-
-*2*
-
-[S.L.327.497 THE FACULTY OF ARTS
-
 ## 6. Postgraduate Diploma.
 
 *Amended by: L.N. 31 of 2018.*
@@ -123,11 +111,7 @@ The programme of study shall be published after approval by Senate, normally not
 
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 
-STUDIES - M.A. - UNDER THE AUSPICES OF
-
-*3*
-
-THE FACULTY OF ARTS [S.L.327.497 (ii) the Board may not terminate studies prematurely according to (b) until it has first given the student a chance to be heard.
+(ii) the Board may not terminate studies prematurely according to (b) until it has first given the student a chance to be heard.
 
 ## 11. Classification of the Awards.
 

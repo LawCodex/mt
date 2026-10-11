@@ -1,6 +1,6 @@
 ---
 title: "Central Bank of Malta Act(Appointment of Competent Authority on Interchange Fees for Card-Based Payment Transactions) Regulations"
-identifier: "S.L. 204.7"
+identifier: "S.L. 204.07"
 eli: "https://legislation.mt/eli/sl/204.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,15 +13,7 @@ version: "https://legislation.mt/eli/sl/204.7/20151016/eng"
 retrieved: 2026-10-12
 ---
 
-# Central Bank of Malta Act(Appointment of Competent Authority on Interchange Fees for Card-Based Payment Transactions) Regulations (S.L. 204.7)
-
-CENTRAL BANK OF MALTA ACT (APPOINTMENT OF
-
-COMPETENT AUTHORITY ON INTERCHANGE FEES
-
-*1*
-
-FOR CARD-BASED PAYMENT TRANSACTIONS) [S.L.204.07
+# Central Bank of Malta Act(Appointment of Competent Authority on Interchange Fees for Card-Based Payment Transactions) Regulations (S.L. 204.07)
 
 **SUBSIDIARY LEGISLATION 204.07**
 

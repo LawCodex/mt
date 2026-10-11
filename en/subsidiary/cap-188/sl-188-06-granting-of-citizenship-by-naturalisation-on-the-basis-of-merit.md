@@ -1,6 +1,6 @@
 ---
 title: "Granting of Citizenship by Naturalisation on the basis of Merit Regulations"
-identifier: "S.L. 188.6"
+identifier: "S.L. 188.06"
 eli: "https://legislation.mt/eli/sl/188.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,9 @@ version: "https://legislation.mt/eli/sl/188.6/20250729/eng"
 retrieved: 2026-10-12
 ---
 
-# Granting of Citizenship by Naturalisation on the basis of Merit Regulations (S.L. 188.6)
+# Granting of Citizenship by Naturalisation on the basis of Merit Regulations (S.L. 188.06)
 
-*1*
-
-THE BASIS OF MERIT [S.L. 188.06 SUBSIDIARY LEGISLATION 188.06
+**SUBSIDIARY LEGISLATION 188.06**
 
 *Substituted by: L.N. 159 of 2025.*
 
@@ -56,13 +54,9 @@ LEGAL NOTICE 437 of 2020, as amended by Legal Notice 159 of 2025.
 
 "authenticated translation" means a translation made by a recognised translator;
 
-"certified copy" means a photocopy of an original document certified to be a true copy of the original, by a duly warranted lawyer, notary public, commissioner for oaths, Maltese consular or diplomatic officer, in accordance with such THE BASIS OF MERIT
+"certified copy" means a photocopy of an original document certified to be a true copy of the original, by a duly warranted lawyer, notary public, commissioner for oaths, Maltese consular or diplomatic officer, in accordance with such guidelines as the Agency may issue from time to time;
 
 \*Vide regulation 25 of Legal Notice 159 of 2025. †Vide regulation 25 of Legal Notice 159 of 2025. ‡Vide regulation 25 of Legal Notice 159 of 2025.
-
-guidelines as the Agency may issue from time to time;
-
-*[S.L. 188.06 2*
 
 *  Cap. 586.*
 
@@ -82,9 +76,7 @@ guidelines as the Agency may issue from time to time;
 
 Provided that where such child does not have legal capacity the provisions of article 21(3) of the Act shall apply;
 
-*3*
-
-THE BASIS OF MERIT [S.L. 188.06 "designated competent body" means the locally registered entity in Malta as designated by the Agency from time to time that is capable of determining whether an individual is recognised in a particular field as a leading talent, or has demonstrated exceptional promise and is likely to become a leading talent or is of exceptional interest to the Republic of Malta or otherwise falls within the parameters of article 10(9) of the Act;
+"designated competent body" means the locally registered entity in Malta as designated by the Agency from time to time that is capable of determining whether an individual is recognised in a particular field as a leading talent, or has demonstrated exceptional promise and is likely to become a leading talent or is of exceptional interest to the Republic of Malta or otherwise falls within the parameters of article 10(9) of the Act;
 
 "due diligence data" means any personal data pertaining to the applicant, or the dependant or dependants if applicable, collected and processed by the Agency as part of the due diligence process, excluding the personal data collected by the Agency directly from the applicant or the dependant or dependants, if applicable;
 
@@ -105,10 +97,6 @@ THE BASIS OF MERIT [S.L. 188.06 "designated competent body" means the locally re
 "main applicant" means the person who submits an application in terms of these regulations wherein dependants are included;
 
 "Minister" shall h a v e the same meaning assigned to it in article 2 o f the Act;
-
-*4*
-
-[S.L. 188.06 THE BASIS OF MERIT
 
 "person" means a physical person and where applicable means a legal person;
 
@@ -144,13 +132,11 @@ Applications for citizenship by naturalisation on the basis of merit 4. The Agen
 
 *Persons who do not qualify to be naturalised on the basis of merit. Amended by: L.N. 159 of 2025.*
 
-(a) he or any of this dependants is or was indicted of an offence before an International Criminal Court or has been THE BASIS OF MERIT [S.L. 188.06 arraigned at any time before an International Criminal Court, whether such person has been found innocent or otherwise acquitted for any reason by such Court;
+(a) he or any of this dependants is or was indicted of an offence before an International Criminal Court or has been arraigned at any time before an International Criminal Court, whether such person has been found innocent or otherwise acquitted for any reason by such Court;
 
 \*Vide regulation 25 of Legal Notice 159 of 2025. †Vide regulation 25 of Legal Notice 159 of 2025. ‡Vide regulation 25 of Legal Notice 159 of 2025.
 
 (b) he or any of his dependants, are listed with the International Criminal Police Organization (Interpol) or Europol;
-
-*5*
 
 (c) he or any of his dependants are an actual or potential threat to national security, public policy or public health of Malta;
 
@@ -182,11 +168,7 @@ Applications for citizenship by naturalisation on the basis of merit 4. The Agen
 
 (vi) abduction;
 
-(f) he or any of his dependants have, at any time, been found guilty of, or at any time during the processing of the application, have been interrogated or are suspected of, or have criminal charges brought against them, for any criminal offence [S.L. 188.06 THE BASIS OF MERIT
-
-punishable with more than one (1) year imprisonment other than an involuntary offence;
-
-*6*
+(f) he or any of his dependants have, at any time, been found guilty of, or at any time during the processing of the application, have been interrogated or are suspected of, or have criminal charges brought against them, for any criminal offence punishable with more than one (1) year imprisonment other than an involuntary offence;
 
 (g) he or any of his dependants are or are likely to be involved in any activity which may cause disrepute to the Republic of Malta;
 
@@ -214,13 +196,11 @@ Provided that such applicant may still be considered as eligible to apply if the
 
 (6) The Agency shall ensure that all applications are complete and correct.
 
-(7) If an applicant or any of his dependants, makes a false statement or otherwise omits material information, his application may THE BASIS OF MERIT [S.L. 188.06 be suspended and/or considered inadmissible.
+(7) If an applicant or any of his dependants, makes a false statement or otherwise omits material information, his application may be suspended and/or considered inadmissible.
 
 \*Vide regulation 25 of Legal Notice 159 of 2025.
 
 (8) Where a document is required to be produced under these regulations in support of an application:
-
-*7*
 
 (a) such document must be an original document or a certified copy; and
 
@@ -254,15 +234,11 @@ Provided that such applicant may still be considered as eligible to apply if the
 
 (2) Every application shall be presented to the Minister through the Agency.
 
-(3) Only applicants in receipt of a letter of approval in principle and any dependants included therein in terms of these regulations are eligible to submit an application for a certificate of [S.L. 188.06 THE BASIS OF MERIT
+(3) Only applicants in receipt of a letter of approval in principle and any dependants included therein in terms of these regulations are eligible to submit an application for a certificate of citizenship by naturalisation on the basis of merit in terms of regulation 11B.
 
 \*Vide regulation 25 of Legal Notice 159 of 2025. †Vide regulation 25 of Legal Notice 159 of 2025. ‡Vide regulation 25 of Legal Notice 159 of 2025. §Vide regulation 25 of Legal Notice 159 of 2025.
 
 \*\*Vide regulation 25 of Legal Notice 159 of 2025.
-
-citizenship by naturalisation on the basis of merit in terms of regulation 11B.
-
-*8*
 
 *Proposal letter. Added by: L.N. 159 of 2025.*
 
@@ -286,9 +262,7 @@ Provided that with regard to controls concerning money laundering and terrorism 
 
 \*Vide regulation 25 of Legal Notice 159 of 2025.
 
-*9*
-
-THE BASIS OF MERIT [S.L. 188.06 (b) have all relevant information provided by the applicant verified by one (1) or more independent due diligence service providers, with due regard to anti-money laundering and financing of terrorism legislation and guidelines issued by the competent authorities;
+(b) have all relevant information provided by the applicant verified by one (1) or more independent due diligence service providers, with due regard to anti-money laundering and financing of terrorism legislation and guidelines issued by the competent authorities;
 
 (c) have the background of the applicant and his dependants, if any, verified by one (1) or more independent due diligence service providers;
 
@@ -310,13 +284,9 @@ THE BASIS OF MERIT [S.L. 188.06 (b) have all relevant information provided by th
 
 11B.\* (1) Pursuant to the receipt of the letter of approval in principle in accordance with these regulations, the applicant, together with his dependants, where applicable, may subsequently proceed to file an application for naturalisation on the basis of merit, which application shall be accompanied by:
 
-(a) proof of residence in Malta for a period of at least [S.L. 188.06 THE BASIS OF MERIT
+(a) proof of residence in Malta for a period of at least eight (8) months or more in the period preceding the date of application;
 
 \*Vide regulation 25 of Legal Notice 159 of 2025.
-
-eight (8) months or more in the period preceding the date of application;
-
-*10*
 
 (b) in the case of an applicant who has submitted a proposal letter, proof of title to adequate residential property in Malta, except in the case of an applicant who is a minor:
 
@@ -338,11 +308,9 @@ Provided that where the applicant who has submitted a proposal letter and is not
 
 (3) When the Agency is satisfied with the completeness and fulfilment of all controls in terms of regulation 11B(2), it shall request the Board to evaluate the application submitted by the applicant, and his dependants, where applicable, further to the proposal letter submitted by him. Such further evaluation shall be performed within a reasonable period. During this process, the Board may request additional documents or information from the applicant, through the Agency, as it deems necessary.
 
-(4) The Board, following the evaluation process, shall have the authority to recommend the application to the Agency for approval or rejection. The Agency shall subsequently submit the recommendation to THE BASIS OF MERIT [S.L. 188.06 the Minister for final approval or rejection. The Minister shall not be obliged to provide any reason in support of his decision, which decision shall be final.
+(4) The Board, following the evaluation process, shall have the authority to recommend the application to the Agency for approval or rejection. The Agency shall subsequently submit the recommendation to the Minister for final approval or rejection. The Minister shall not be obliged to provide any reason in support of his decision, which decision shall be final.
 
 (5) If the application is rejected by the Minister, the Agency shall notify the applicant in writing with the decision.
-
-*11*
 
 (6) If the application is approved by the Minister, the Agency shall issue a letter of approval in favour of the applicant and his dependants, where applicable, which letter of approval may also include certain continuing obligations, where applicable.
 
@@ -365,10 +333,6 @@ Provided that where the applicant who has submitted a proposal letter and is not
 (6) When any vacancy in the Evaluation Board occurs, the Minister shall, as soon as practicable, appoint another person to fill the vacancy.
 
 \*Vide regulation 25 of Legal Notice 159 of 2025.
-
-*12*
-
-[S.L. 188.06 THE BASIS OF MERIT
 
 (7) A member of the Evaluation Board may be removed from office by the Minister upon proof of inability to discharge the functions of his office, whether arising from infirmity of mind or body or any other cause, or for misbehaviour.
 
@@ -398,13 +362,11 @@ Provided that where the applicant who has submitted a proposal letter and is not
 
 Provided that the Minister may extend the said period of six (6) months in exceptional circumstances.
 
-(2) A certificate of naturalisation on the basis of merit in accordance with these regulations may be issued to the applicant and his THE BASIS OF MERIT [S.L. 188.06 dependants where applicable, once the oath of allegiance has been taken.
+(2) A certificate of naturalisation on the basis of merit in accordance with these regulations may be issued to the applicant and his dependants where applicable, once the oath of allegiance has been taken.
 
 \*Vide regulation 25 of Legal Notice 159 of 2025. †Vide regulation 25 of Legal Notice 159 of 2025.
 
 (3) The Agency may suspend or terminate the application process before the Minister issues a certificate of naturalisation, if the applicant fails to satisfy all conditions or if the Minister is no longer satisfied that the applicant is worthy of Maltese citizenship.
-
-*13*
 
 ## Part IV
 
@@ -442,15 +404,11 @@ Special provisions applicable to naturalisation for exceptional services by dire
 
 (2) Where a lawyer, notary public or commissioner for oaths certifies a document to be a true copy of the original, that document must be authenticated by:
 
-(a) an apostille in accordance with the provisions of the Hague Convention of 5th October 1961 Abolishing the Requirement of Legalisation for Foreign Public Documents, in the case of a jurisdiction that is a party to that Convention; or [S.L. 188.06 THE BASIS OF MERIT
+(a) an apostille in accordance with the provisions of the Hague Convention of 5th October 1961 Abolishing the Requirement of Legalisation for Foreign Public Documents, in the case of a jurisdiction that is a party to that Convention; or (b) a validation of the certificate of the lawyer, notary public or Commissioner for Oaths by the appropriate government department or other competent authority in the case of a jurisdiction that is not a party to that Convention and a validation of the certificate by a Maltese consular or diplomatic representation in the case of a jurisdiction that is not a party to that Convention.
 
 \*Vide regulation 25 of Legal Notice 159 of 2025. †Vide regulation 25 of Legal Notice 159 of 2025. ‡Vide regulation 25 of Legal Notice 159 of 2025. §Vide regulation 25 of Legal Notice 159 of 2025.
 
 \*\*Vide regulation 25 of Legal Notice 159 of 2025.
-
-(b) a validation of the certificate of the lawyer, notary public or Commissioner for Oaths by the appropriate government department or other competent authority in the case of a jurisdiction that is not a party to that Convention and a validation of the certificate by a Maltese consular or diplomatic representation in the case of a jurisdiction that is not a party to that Convention.
-
-*14*
 
 *Non-refundable fees and investment.*
 
@@ -482,15 +440,13 @@ Special provisions applicable to naturalisation for exceptional services by dire
 
 *Good faith and professional standards. Substituted by: L.N. 159 of 2025.*
 
-25.§ Persons shall act in good faith, uphold professional standards and maintain high levels of integrity in all matters related to the acquisition of citizenship by naturalisation, ensuring that all actions THE BASIS OF MERIT [S.L. 188.06 regarding such naturalisation are conducted responsibly, appropriately and in accordance with the requirements established by the Agency.
+25.§ Persons shall act in good faith, uphold professional standards and maintain high levels of integrity in all matters related to the acquisition of citizenship by naturalisation, ensuring that all actions regarding such naturalisation are conducted responsibly, appropriately and in accordance with the requirements established by the Agency.
 
 \*Vide regulation 25 of Legal Notice 159 of 2025. †Vide regulation 25 of Legal Notice 159 of 2025. ‡Vide regulation 25 of Legal Notice 159 of 2025.
 
 ### 26.  Data Protection.. Cap. 586.
 
 (1) Nothing in these regulations shall prejudice the applicability of the Regulation and the Data Protection Act and the fundamental rights and freedoms of the data subject.
-
-*15*
 
 (2) Where the Agency in its capacity of data controller processes personal data on the applicant or the beneficiary and, or dependants, as established under these regulations, it shall:
 
@@ -512,10 +468,6 @@ Provided further that the Agency’s Data Protection Officer designated pursuant
 
 §Vide regulation 25 of Legal Notice 159 of 2025.
 
-*16*
-
-[S.L. 188.06 THE BASIS OF MERIT
-
 (a) safeguard important objectives of general public interest of the Republic of Malta; or
 
 (b) protect national and public security and the obligations of the Agency connected with its functions pursuant to these regulations.
@@ -536,9 +488,7 @@ Provided that such reasons justifying the restrictions shall be documented and m
 
 (c) the Agency’s Data Protection Officer shall keep a register to record the restrictions applied in relation to the requests made by the applicants. The register shall include the details of the applicants, the right requested to be exercised that was restricted and the purpose for such restriction. Restriction of rights in terms of Article 34 of the Regulation, shall also be recorded in the register; and
 
-*17*
-
-THE BASIS OF MERIT [S.L. 188.06 (d) the applicants in their capacity as data subjects shall be informed of the application of restrictions to their rights by informing the data subject concerned in reply to the request to exercise any of the rights which are being restricted in terms of these regulations, unless this may be prejudicial to the purpose of the restriction:
+(d) the applicants in their capacity as data subjects shall be informed of the application of restrictions to their rights by informing the data subject concerned in reply to the request to exercise any of the rights which are being restricted in terms of these regulations, unless this may be prejudicial to the purpose of the restriction:
 
 Provided that the Agency justifies the prejudice claimed by the Agency to the Commissioner when and where requested.
 
@@ -552,13 +502,9 @@ Provided that the Agency justifies the prejudice claimed by the Agency to the Co
 
 (3) Notwithstanding the provisions of the other sub-regulations of this regulation or of any other law, the Agency shall have the power to furnish to the Commissioner for Revenue, the Financial Intelligence Analysis Unit, the Malta Financial Services Authority, the Malta Business Registry and the Commissioner of Police such information, being information obtained by the Agency for any of the purposes of these regulations.
 
-(4) Without prejudice to the foregoing provisions of this regulation, the Agency may, pursuant to a written request, disclose [S.L. 188.06 THE BASIS OF MERIT
+(4) Without prejudice to the foregoing provisions of this regulation, the Agency may, pursuant to a written request, disclose information to local or overseas enforcement or regulatory authorities or police agencies, or a network or grouping comprising such local or overseas enforcement or regulatory authorities or police agencies, or both, for the purpose of preventing, detecting, investigating or prosecuting the commission of acts or omissions that amount to or are likely to amount to a criminal offence under any applicable law or to an offence or breach of a regulatory nature, whether in Malta or overseas.
 
 \*Vide regulation 25 of Legal Notice 159 of 2025.
-
-information to local or overseas enforcement or regulatory authorities or police agencies, or a network or grouping comprising such local or overseas enforcement or regulatory authorities or police agencies, or both, for the purpose of preventing, detecting, investigating or prosecuting the commission of acts or omissions that amount to or are likely to amount to a criminal offence under any applicable law or to an offence or breach of a regulatory nature, whether in Malta or overseas.
-
-*18*
 
 ### 28. Due diligence to be kept secret.
 
@@ -594,9 +540,7 @@ So help me God.
 
 \*Vide regulation 25 of Legal Notice 159 of 2025. †Vide regulation 25 of Legal Notice 159 of 2025. ‡Vide regulation 25 of Legal Notice 159 of 2025.
 
-*19*
-
-THE BASIS OF MERIT [S.L. 188.06 .........................
+.........................
 
 **Chairperson/Member**
 

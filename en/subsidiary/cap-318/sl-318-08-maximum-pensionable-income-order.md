@@ -1,6 +1,6 @@
 ---
 title: "Maximum Pensionable Income Order"
-identifier: "S.L. 318.8"
+identifier: "S.L. 318.08"
 eli: "https://legislation.mt/eli/sl/318.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/318.8/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Maximum Pensionable Income Order (S.L. 318.8)
+# Maximum Pensionable Income Order (S.L. 318.08)
 
 **SUBSIDIARY LEGISLATION 318.08**
 

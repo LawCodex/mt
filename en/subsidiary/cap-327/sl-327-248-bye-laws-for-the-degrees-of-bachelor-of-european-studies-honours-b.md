@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the degrees of Bachelor of European Studies (Honours) - B.Eur.Studies (Hons) - and Bachelor of European Studies - B.Eur.Studies - under the auspices of the Institute for European Studies (S.L. 327.248)
 
-B.EUR.STUDIES (HONS) - AND BACHELOR OF EURO-
-
-PEAN STUDIES - B.EUR.STUDIES - UNDER THE AUS-
-
-*1*
-
-PICES OF THE INSTITUTE FOR EUROPEAN STUDIES [S.L.327.248
-
 **SUBSIDIARY LEGISLATION 327.248**
 
 **BYE-LAWS FOR THE DEGREES OF BACHELOR OF**
@@ -74,11 +66,7 @@ These bye-laws shall be applicable for courses commencing in October 2008 and la
 
 *Amended by: L.N. 308 of 2006. Substituted by: L.N. 273 of 2024.*
 
-To be registered as regular students in the Course, applicants shall, apart from satisfying the general requirements for admission as specified in the Admission Regulations, be in possession of those qualifications relevant to their second area of study whether taken as an Ordinary Main area or as a Subsidiary area as indicated in the bye-laws B.EUR.STUDIES (HONS) - AND BACHELOR OF EURO- PEAN STUDIES - B.EUR.STUDIES - UNDER THE AUS- [S.L.327.248 PICES OF THE INSTITUTE FOR EUROPEAN STUDIES
-
-for the degree in the subject offered under the auspices of the Faculty, Institute, Centre, School or other University body responsible for the relevant area of study chosen.
-
-*2*
+To be registered as regular students in the Course, applicants shall, apart from satisfying the general requirements for admission as specified in the Admission Regulations, be in possession of those qualifications relevant to their second area of study whether taken as an Ordinary Main area or as a Subsidiary area as indicated in the bye-laws for the degree in the subject offered under the auspices of the Faculty, Institute, Centre, School or other University body responsible for the relevant area of study chosen.
 
 ## 5. Course duration.
 
@@ -118,8 +106,4 @@ First Year Average Mark 20%
 
 Second Year Average Mark 40%
 
-B.EUR.STUDIES (HONS) - AND BACHELOR OF EURO- PEAN STUDIES - B.EUR.STUDIES - UNDER THE AUS- PICES OF THE INSTITUTE FOR EUROPEAN STUDIES
-
-*[S.L.327.248 3*
-
-**Third Year Average Mark 40%.**
+Third Year Average Mark 40%.

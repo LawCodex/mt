@@ -1,6 +1,6 @@
 ---
 title: "Foot and Mouth Disease (Prevention) Regulations"
-identifier: "S.L. 36.5"
+identifier: "S.L. 36.05"
 eli: "https://legislation.mt/eli/sl/36.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/36.5/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Foot and Mouth Disease (Prevention) Regulations (S.L. 36.5)
+# Foot and Mouth Disease (Prevention) Regulations (S.L. 36.05)
 
 **SUBSIDIARY LEGISLATION 36.05**
 

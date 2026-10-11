@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science in Family Medicine under the auspices of the Faculty of Medicine and Surgery (S.L. 327.368)
 
-MEDICINE UNDER THE AUSPICES OF THE FACULTY
-
-*1*
-
-OF MEDICINE AND SURGERY [S.L.327.368
-
 **SUBSIDIARY LEGISLATION 327.368**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -77,11 +71,7 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 (2) Students who obtain the 60 credits assigned to the taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the Postgraduate Diploma.
 
-(3) The programme of study shall be published after approval by Senate, normally not less than eight months prior to the MEDICINE UNDER THE AUSPICES OF THE FACULTY [S.L.327.368 OF MEDICINE AND SURGERY
-
-commencement of the course.
-
-*2*
+(3) The programme of study shall be published after approval by Senate, normally not less than eight months prior to the commencement of the course.
 
 ## 6. Assessment and progress.
 

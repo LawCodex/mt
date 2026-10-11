@@ -1,6 +1,6 @@
 ---
 title: "Exemption from Payment of Fees for Tuition on Ships Order"
-identifier: "S.L. 35.2"
+identifier: "S.L. 35.02"
 eli: "https://legislation.mt/eli/sl/35.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/35.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Exemption from Payment of Fees for Tuition on Ships Order (S.L. 35.2)
-
-EXEMPTION FROM PAYMENT OF FEES
-
-*1*
-
-FOR TUITION ON SHIPS [S.L.35.02
+# Exemption from Payment of Fees for Tuition on Ships Order (S.L. 35.02)
 
 SUBSIDIARY LEGISLATION 35.02
 

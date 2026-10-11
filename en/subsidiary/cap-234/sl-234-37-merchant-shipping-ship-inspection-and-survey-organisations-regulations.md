@@ -61,10 +61,6 @@ LEGAL NOTICE 220 of 2011, as amended by Legal Notice 133 of 2015.
 
 \*see regulation 1(2) of these Regulations, as originally promulgated.
 
-*2*
-
-[S.L.234.37 AND SURVEY ORGANISATIONS)
-
 ''rules and procedures'' means a recognised organisation’s requirements for the design, construction, equipment, maintenance and survey of ships.
 
 (2) Unless otherwise defined in the Act or in these regulations, or unless the context so requires, words and expressions used in these regulations shall have the same meaning assigned to them in Directive 2009/15/EC, in its up-to-date version.

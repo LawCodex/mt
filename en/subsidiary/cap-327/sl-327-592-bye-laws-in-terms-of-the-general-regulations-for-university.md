@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws in terms of the General Regulations for University Postgraduate Awards, for the Postgraduate Diploma in Maltese Sign Language Interpreting - P.G.Dip. under the auspices of the Institute of Linguistics and Language Technology (S.L. 327.592)
 
-*1*
-
-LANGUAGE INTERPRETING - P.G.DIP. [S.L. 327.592
-
 **SUBSIDIARY LEGISLATION 327.592**
 
 **BYE-LAWS IN TERMS OF THE GENERAL**
@@ -63,13 +59,9 @@ These bye-laws shall be applicable for courses commencing in February 2018 or la
 
 (a) be in possession of a Bachelor’s degree; and
 
-(b) pass an interview which shall be held partly in Maltese, English and Maltese Sign Language for the purpose of determining their aptitude and [S.L. 327.592 LANGUAGE INTERPRETING - P.G.DIP
+(b) pass an interview which shall be held partly in Maltese, English and Maltese Sign Language for the purpose of determining their aptitude and language proficiency.
 
 \*These bye-laws have been repealed by Legal Notice 185 of 2022.
-
-language proficiency.
-
-*2*
 
 (2) The Board shall recommend to Senate the number of applicants that may be allowed to register on the Course, depending on the availability of resources. The number of available places shall be announced at the time of the call for applications.
 
@@ -103,10 +95,8 @@ The Course shall extend over four semesters of part-time study which may extend 
 
 ## 7. Eligibility.
 
-Students shall be eligible for the award of the Postgraduate Diploma if they obtain the 60 ECTS credits as outlined in the programme of study for the Course with an overall average of at least LANGUAGE INTERPRETING - P.G.DIP. [S.L. 327.592 50%.
+Students shall be eligible for the award of the Postgraduate Diploma if they obtain the 60 ECTS credits as outlined in the programme of study for the Course with an overall average of at least 50%.
 
 ## 8. Classification of the Postgraduate Diploma.
 
 The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma shall be based on the results obtained in all the components of the programme of study, all credits being weighted equally.
-
-*3*

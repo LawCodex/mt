@@ -1,6 +1,6 @@
 ---
 title: "Prisons Regulations"
-identifier: "S.L. 260.3"
+identifier: "S.L. 260.03"
 eli: "https://legislation.mt/eli/sl/260.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/260.3/20260407/eng"
 retrieved: 2026-10-12
 ---
 
-# Prisons Regulations (S.L. 260.3)
+# Prisons Regulations (S.L. 260.03)
 
 **SUBSIDIARY LEGISLATION 260.03**
 

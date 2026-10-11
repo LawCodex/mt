@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Conditions of Entry and Stay of Third Country Nationals for the purpose of Employment as Seasonal Workers Regulations (S.L. 217.20)
 
-NATIONALS FOR THE PURPOSE OF EMPLOYMENT
-
-*1*
-
-AS SEASONAL WORKERS [S.L.217.20
-
 **SUBSIDIARY LEGISLATION 217.20**
 
 **CONDITIONS OF ENTRY AND STAY OF THIRD**
@@ -68,11 +62,7 @@ For the purpose of these regulations:
 
 "Long-stay visa" means an authorisation issued by the pertinent Maltese authorities as provided for in Article 18 of the Schengen Implementing Convention;
 
-"seasonal worker" means a third country national who retains his NATIONALS FOR THE PURPOSE OF EMPLOYMENT [S.L.217.20 AS SEASONAL WORKERS
-
-or her principal place of residence in a third country and stays legally and temporarily in Malta to carry out an activity dependent on the passing of seasons, under one or more fixed term work contracts concluded directly between that third country national and the employer established in Malta:
-
-*2*
+"seasonal worker" means a third country national who retains his or her principal place of residence in a third country and stays legally and temporarily in Malta to carry out an activity dependent on the passing of seasons, under one or more fixed term work contracts concluded directly between that third country national and the employer established in Malta:
 
 Provided such activity is one which shall be exclusively carried out in one of the following sectors: hospitality, agriculture and marine aquaculture;
 
@@ -100,11 +90,7 @@ Provided such activity is one which shall be exclusively carried out in one of t
 
 *S.L 452.82*
 
-NATIONALS FOR THE PURPOSE OF EMPLOYMENT
-
-*3*
-
-AS SEASONAL WORKERS [S.L.217.20 (c) are family members of Union citizens who have exercised their right to free movement within the Union, in conformity with Directive 2004/38/EC of the European Parliament and of the Council of 29 April 2004 on the right of citizens of the Union and their family members to move and reside freely within the territory of the Member States amending Regulation (EEC) No 1612/68 and repealing Directives 64/221/ EEC, 68/360/EEC, 72/194/EEC, 73/148/EEC, 75/34/ EEC, 75/35/EEC, 90/364/EEC, 90/365/EEC and 93/ 96/EEC and the Free Movement of European Union Nationals and their Family Members Order;
+(c) are family members of Union citizens who have exercised their right to free movement within the Union, in conformity with Directive 2004/38/EC of the European Parliament and of the Council of 29 April 2004 on the right of citizens of the Union and their family members to move and reside freely within the territory of the Member States amending Regulation (EEC) No 1612/68 and repealing Directives 64/221/ EEC, 68/360/EEC, 72/194/EEC, 73/148/EEC, 75/34/ EEC, 75/35/EEC, 90/364/EEC, 90/365/EEC and 93/ 96/EEC and the Free Movement of European Union Nationals and their Family Members Order;
 
 *S.L. 460.17*
 
@@ -138,10 +124,6 @@ AS SEASONAL WORKERS [S.L.217.20 (c) are family members of Union citizens who hav
 
 (c) evidence that the seasonal worker will have adequate accommodation or that adequate accommodation will be provided in accordance with regulation 18.
 
-*4*
-
-NATIONALS FOR THE PURPOSE OF EMPLOYMENT [S.L.217.20 AS SEASONAL WORKERS
-
 *Cap. 452. S.L. 452.95*
 
 (3) The conditions referred to in sub-regulation (1)(a) shall comply with the Employment and Industrial Relations Act, the Equal Treatment in Employment Regulations, collective agreements and, or practice.
@@ -174,15 +156,11 @@ Provided that the Executive Chairperson may require:
 
 ### 6. Volumes of admission.
 
-An application by a third country national for the purpose of seasonal work shall be considered inadmissible or rejected on the basis of labour market considerations by the authorities responsible for the issue of work permits in the case of stays for less than ninety days and by the Executive Chairperson, in consultation with the pertinent authorities responsible for employment matters, in the case of stays exceeding ninety days. NATIONALS FOR THE PURPOSE OF EMPLOYMENT
-
-*5*
-
-AS SEASONAL WORKERS [S.L.217.20 7. (1) The Executive Chairperson or the authorities responsible for the issue of work permits, as the case may be, shall reject an application for authorisation for the purpose of seasonal work where:
-
-*Grounds for rejection.*
+An application by a third country national for the purpose of seasonal work shall be considered inadmissible or rejected on the basis of labour market considerations by the authorities responsible for the issue of work permits in the case of stays for less than ninety days and by the Executive Chairperson, in consultation with the pertinent authorities responsible for employment matters, in the case of stays exceeding ninety days. 7. (1) The Executive Chairperson or the authorities responsible for the issue of work permits, as the case may be, shall reject an application for authorisation for the purpose of seasonal work where:
 
 (a) the provisions of regulations 4 or 5 are not complied with; or
+
+*Grounds for rejection.*
 
 (b) the documents presented for the purpose of regulations 4 or 5 were fraudulently acquired, or falsified, or tampered with.
 
@@ -207,10 +185,6 @@ AS SEASONAL WORKERS [S.L.217.20 7. (1) The Executive Chairperson or the authorit
 (5) The Executive Chairperson or the authorities responsible for the issue of work permits, as the case may be, may reject an application for authorisation for the purpose of seasonal work where:
 
 (a) the employer has failed to meet legal obligations regarding social security, taxation, labour rights, working conditions or terms of employment as provided for in applicable law and, or collective agreements; or
-
-*6*
-
-NATIONALS FOR THE PURPOSE OF EMPLOYMENT [S.L.217.20 AS SEASONAL WORKERS
 
 (b) within twelve months immediately preceding the date of the application, the employer has abolished a full-time position in order to create the vacancy that the employer is trying to fill by the use of these regulations; or
 
@@ -244,11 +218,7 @@ NATIONALS FOR THE PURPOSE OF EMPLOYMENT [S.L.217.20 AS SEASONAL WORKERS
 
 (c) the employer has not fulfilled its obligations under the contract of employment; or
 
-(d) within twelve months immediately preceding the date NATIONALS FOR THE PURPOSE OF EMPLOYMENT
-
-*7*
-
-AS SEASONAL WORKERS [S.L.217.20 of the application, the employer has abolished a full-time position in order to create the vacancy that the employer is trying to fill by the use of these regulations.
+(d) within twelve months immediately preceding the date of the application, the employer has abolished a full-time position in order to create the vacancy that the employer is trying to fill by the use of these regulations.
 
 (4) The Executive Chairperson or the authorities responsible for the issue of work permits, as the case may be, may withdraw the authorisation for the purpose of seasonal work if the third country national applies for international protection under the International Protection Act or for protection in accordance with national law, international obligations or national policies.
 
@@ -276,11 +246,7 @@ Procedure and Authorisations for the Purpose of Seasonal Work 10. (1) The Execut
 
 (a) a short stay visa and an employment licence indicating that they are issued for the purpose of seasonal work; or
 
-(b) in the case of a third country national exempted from a visa requirement as provided for in accordance with Annex II of Regulation EC No 539/2001, with an employment licence issued for the purpose of seasonal NATIONALS FOR THE PURPOSE OF EMPLOYMENT [S.L.217.20 AS SEASONAL WORKERS
-
-work.
-
-*8*
+(b) in the case of a third country national exempted from a visa requirement as provided for in accordance with Annex II of Regulation EC No 539/2001, with an employment licence issued for the purpose of seasonal work.
 
 (2) For stays exceeding ninety days, a third country national who complies with regulation 5 and does not fall within the grounds set out in regulation 7, shall be issued with a seasonal worker permit and a long stay visa:
 
@@ -310,11 +276,7 @@ Provided that no residence permit has been issued in accordance with national la
 
 (2) The Executive Chairperson or the authorities responsible for the issue of work permits, as the case may be, in consultation with the pertinent authorities responsible for labour matters, may decide to allow seasonal workers to extend their contract with the same employer and their stay more than once, provided that the maximum period referred to in regulation 13 is not exceeded.
 
-(3) Within the maximum period referred to in regulation 13 and provided that the provisions of regulation 4 or 5 are complied with and the grounds set out in regulation 7(1)(b), regulation 7(2) and, if applicable, regulation 7(5) are not met, the Executive Chairperson NATIONALS FOR THE PURPOSE OF EMPLOYMENT
-
-*9*
-
-AS SEASONAL WORKERS [S.L.217.20 or the authorities responsible for the issue of work permits, as the case may be, in consultation with the pertinent authorities responsible for labour matters, shall allow seasonal workers one extension of their stay to be employed with a different employer.
+(3) Within the maximum period referred to in regulation 13 and provided that the provisions of regulation 4 or 5 are complied with and the grounds set out in regulation 7(1)(b), regulation 7(2) and, if applicable, regulation 7(5) are not met, the Executive Chairperson or the authorities responsible for the issue of work permits, as the case may be, in consultation with the pertinent authorities responsible for labour matters, shall allow seasonal workers one extension of their stay to be employed with a different employer.
 
 (4) The Executive Chairperson or the authorities responsible for the issue of work permits, as the case may be, in consultation with the pertinent authorities responsible for labour matters, may decide to allow seasonal workers to be employed by a different employer and to extend their stay more than once, provided that the maximum period referred to in regulation 13 is not exceeded.
 
@@ -332,11 +294,7 @@ AS SEASONAL WORKERS [S.L.217.20 or the authorities responsible for the issue of 
 
 (9) The provisions of regulation 8(2), (3)(b), (3)(c) and (3)(d) shall not apply to a seasonal worker who applies to be employed by a different employer in accordance with sub-regulation (3) when those provisions apply to the previous employer.
 
-(10) Grounds for extension of a short-stay visa are regulated in NATIONALS FOR THE PURPOSE OF EMPLOYMENT [S.L.217.20 AS SEASONAL WORKERS
-
-the relevant provisions of the Visa Code.
-
-*10*
+(10) Grounds for extension of a short-stay visa are regulated in the relevant provisions of the Visa Code.
 
 (11) Without prejudice to regulation 7(1), any decision on an application for an extension or renewal shall take account of the specific circumstances of the case, including the interests of the seasonal worker, and shall respect the principle of proportionality.
 
@@ -360,11 +318,7 @@ the relevant provisions of the Visa Code.
 
 (1) The Executive Chairperson or the authorities responsible for issuing the work permit, as the case may be, shall adopt a decision on the application for authorisation for the purpose of seasonal work. They shall notify the decision to the applicant in writing as soon as possible but not later than ninety days from the date on which the complete application was submitted.
 
-(2) (a) In the case of an application for an extension to stay or for the renewal of the authorisation pursuant to regulation 14, they shall take all reasonable steps to ensure that the seasonal worker is not obliged to interrupt his or her employment relationship with the NATIONALS FOR THE PURPOSE OF EMPLOYMENT
-
-*11*
-
-AS SEASONAL WORKERS [S.L.217.20 same employer, or prevented from changing employer, due to ongoing administrative procedures:
+(2) (a) In the case of an application for an extension to stay or for the renewal of the authorisation pursuant to regulation 14, they shall take all reasonable steps to ensure that the seasonal worker is not obliged to interrupt his or her employment relationship with the same employer, or prevented from changing employer, due to ongoing administrative procedures:
 
 Provided that where the validity of the authorisation for the purpose of seasonal work expires during the procedure for extension or renewal, in accordance with these regulations, the seasonal worker shall be allowed to stay in Malta until a decision has been taken on the application, provided that the application was submitted within the period of validity of that authorisation and that the time period referred to in regulation 13 has not expired.
 
@@ -385,12 +339,6 @@ Provided that where the validity of the authorisation for the purpose of seasona
 (1) The Executive Chairperson or the authorities responsible for issuing the work permit, as the case may be, shall require evidence that the seasonal worker will benefit from accommodation that ensures an adequate standard of living and that any change of accommodation shall be reported accordingly.
 
 (2) Where accommodation is arranged by or through the employer:
-
-**NATIONALS FOR THE PURPOSE OF EMPLOYMENT**
-
-**AS SEASONAL WORKERS**
-
-*[S.L.217.20 12*
 
 (a) the seasonal worker may be required to pay a rent which shall not be excessive compared with his net remuneration and compared with the quality of the accommodation. The rent shall not be automatically deducted from the wage of the seasonal worker;
 
@@ -428,11 +376,7 @@ During the period of validity of the authorisation referred to in regulation 11,
 
 Provided that family benefits and unemployment benefits are excluded, without prejudice to the rights conferred by Regulation (EU) No 1231/2010;
 
-NATIONALS FOR THE PURPOSE OF EMPLOYMENT
-
-*13*
-
-AS SEASONAL WORKERS [S.L.217.20 (e) access to goods and services and the supply of goods and services made available to the public, except housing, without prejudice to the freedom of contract in accordance with Union and national law;
+(e) access to goods and services and the supply of goods and services made available to the public, except housing, without prejudice to the freedom of contract in accordance with Union and national law;
 
 (f) advice services on seasonal work afforded for the purposes of long term employment by Jobsplus;
 
@@ -462,11 +406,7 @@ Provided that seasonal workers moving to a third country, or their survivors who
 
 ### 22. Facilitation and complaints.
 
-(1) It shall be ensured by the pertinent authorities that there are effective mechanisms through which seasonal workers may lodge complaints against their employers directly or through third parties which have, in accordance with the criteria laid down NATIONALS FOR THE PURPOSE OF EMPLOYMENT [S.L.217.20 AS SEASONAL WORKERS
-
-in national law, a legitimate interest in ensuring compliance with these regulations.
-
-*14*
+(1) It shall be ensured by the pertinent authorities that there are effective mechanisms through which seasonal workers may lodge complaints against their employers directly or through third parties which have, in accordance with the criteria laid down in national law, a legitimate interest in ensuring compliance with these regulations.
 
 (2) It shall be ensured by the pertinent authorities that third parties which have, in accordance with the criteria laid down by their national law, a legitimate interest in ensuring compliance with these regulations, may engage either on behalf of or in support of a seasonal worker, with his or her approval, in any administrative or civil proceedings, excluding the procedures and decisions concerning short-stay visas.
 

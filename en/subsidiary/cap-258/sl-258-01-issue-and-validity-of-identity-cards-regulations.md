@@ -1,6 +1,6 @@
 ---
 title: "Issue and Validity of Identity Cards Regulations"
-identifier: "S.L. 258.1"
+identifier: "S.L. 258.01"
 eli: "https://legislation.mt/eli/sl/258.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/258.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Issue and Validity of Identity Cards Regulations (S.L. 258.1)
+# Issue and Validity of Identity Cards Regulations (S.L. 258.01)
 
 **SUBSIDIARY LEGISLATION 258.01**
 

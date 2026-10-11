@@ -1,6 +1,6 @@
 ---
 title: "Agricultural Leases Regulations"
-identifier: "S.L. 199.1"
+identifier: "S.L. 199.01"
 eli: "https://legislation.mt/eli/sl/199.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/199.1/20211026/eng"
 retrieved: 2026-10-12
 ---
 
-# Agricultural Leases Regulations (S.L. 199.1)
+# Agricultural Leases Regulations (S.L. 199.01)
 
 **SUBSIDIARY LEGISLATION 199.01**
 

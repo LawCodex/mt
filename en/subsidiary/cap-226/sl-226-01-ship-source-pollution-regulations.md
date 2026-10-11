@@ -1,6 +1,6 @@
 ---
 title: "Ship-Source Pollution Regulations"
-identifier: "S.L. 226.1"
+identifier: "S.L. 226.01"
 eli: "https://legislation.mt/eli/sl/226.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/226.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Ship-Source Pollution Regulations (S.L. 226.1)
+# Ship-Source Pollution Regulations (S.L. 226.01)
 
 **SUBSIDIARY LEGISLATION 226.01**
 

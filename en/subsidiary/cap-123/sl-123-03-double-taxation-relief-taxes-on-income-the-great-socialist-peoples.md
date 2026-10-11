@@ -1,6 +1,6 @@
 ---
 title: "Double Taxation Relief (Taxes on Income) (The Great Socialist People’s Libyan Arab Jamahiriya)"
-identifier: "S.L. 123.3"
+identifier: "S.L. 123.03"
 eli: "https://legislation.mt/eli/sl/123.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/123.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Double Taxation Relief (Taxes on Income) (The Great Socialist People’s Libyan Arab Jamahiriya) (S.L. 123.3)
-
-*1*
-
-(THE GREAT SOCIALIST LIBYAN ARAB JAMAHIRIYA) [S.L.123.03
+# Double Taxation Relief (Taxes on Income) (The Great Socialist People’s Libyan Arab Jamahiriya) (S.L. 123.03)
 
 **SUBSIDIARY LEGISLATION 123.03**
 
@@ -42,8 +38,6 @@ It is hereby declared:
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Convention has entered into force on the 20 May, 2010.
-
-2 [S.L.123.03 (THE GREAT SOCIALIST LIBYAN ARAB JAMAHIRIYA)
 
 ## SCHEDULE — CONVENTION BETWEEN — MALTA
 
@@ -101,9 +95,7 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 (a) The terms "a Contracting State" and "the other Contracting State" mean Libya or Malta as the context requires;
 
-(b) The term "Libya", means the Great Socialist People’s Libyan Arab Jamahiriya; used in a geographical sense, it means the territory of the Great Socialist People’s Libyan Arab Jamahiriya, including the territorial sea and any other area in the sea and in the air within which the Great Socialist People’s Libyan Arab Jamahiriya, in accordance (THE GREAT SOCIALIST LIBYAN ARAB JAMAHIRIYA) [S.L.123.03 3
-
-with international law, exercises sovereign rights or its jurisdiction;
+(b) The term "Libya", means the Great Socialist People’s Libyan Arab Jamahiriya; used in a geographical sense, it means the territory of the Great Socialist People’s Libyan Arab Jamahiriya, including the territorial sea and any other area in the sea and in the air within which the Great Socialist People’s Libyan Arab Jamahiriya, in accordance with international law, exercises sovereign rights or its jurisdiction;
 
 (c) The term "Malta" means the Republic of Malta and when used in a geographical sense means the island of Malta, the island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof as well as any area of the seabed, its subsoil and the super-adjacent water column adjacent to the territorial waters, where the Republic of Malta exercises sovereign rights, jurisdiction or control in accordance with international law and its national law including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
 
@@ -139,9 +131,7 @@ Without prejudice to any of the other provisions of this Convention, the tax dom
 
 **Resident**
 
-\1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of incorporation, place of management or any other criterion of a similar nature, and also includes that State and any political 4 [S.L.123.03 (THE GREAT SOCIALIST LIBYAN ARAB JAMAHIRIYA)
-
-subdivision or local authority thereof. This term, however, does not include any person who is liable to tax in that State in respect only of income from sources in that State or capital situated therein.
+\1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of incorporation, place of management or any other criterion of a similar nature, and also includes that State and any political subdivision or local authority thereof. This term, however, does not include any person who is liable to tax in that State in respect only of income from sources in that State or capital situated therein.
 
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
@@ -183,9 +173,7 @@ subdivision or local authority thereof. This term, however, does not include any
 
 (b) The maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of storage or display;
 
-(c) The maintenance of a stock of goods or merchandise belonging to the (THE GREAT SOCIALIST LIBYAN ARAB JAMAHIRIYA) [S.L.123.03 5
-
-enterprise solely for the purpose of processing by another enterprise;
+(c) The maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of processing by another enterprise;
 
 (d) The maintenance of a fixed place of business solely for the purpose of purchasing goods or merchandise or of collecting information, for the enterprise;
 
@@ -217,8 +205,6 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources; ships, boats and aircraft shall not be regarded as immovable property.
 
-6 [S.L.123.03 (THE GREAT SOCIALIST LIBYAN ARAB JAMAHIRIYA)
-
 \3. The provisions of paragraph 1 shall also apply to income derived from the direct use, letting or use in any other form of immovable property.
 
 \4. The provisions of paragraphs 1 and 3 shall also apply to the income from immovable property of an enterprise and to income from immovable property used for the performance of independent personal services.
@@ -243,9 +229,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 ## 6.
 
-For the purposes of the preceding paragraphs, the profits to be attributed to (THE GREAT SOCIALIST LIBYAN ARAB JAMAHIRIYA) [S.L.123.03 7
-
-the permanent establishment shall be determined by the same method year by year unless there is good and sufficient reason to the contrary.
+For the purposes of the preceding paragraphs, the profits to be attributed to the permanent establishment shall be determined by the same method year by year unless there is good and sufficient reason to the contrary.
 
 ## 7.
 
@@ -283,9 +267,7 @@ Where such rental or use is supplementary or incidental to the operation of ship
 
 and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly. It is to be understood that the procedures available in the respective laws of each Contracting State in this regard shall be applied.
 
-\2. Where a Contracting State includes in the profits of an enterprise of that State - and taxes accordingly - profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those 8 [S.L.123.03 (THE GREAT SOCIALIST LIBYAN ARAB JAMAHIRIYA)
-
-which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of the Convention and the competent authorities of the Contracting States shall, if necessary, consult each other.
+\2. Where a Contracting State includes in the profits of an enterprise of that State - and taxes accordingly - profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of the Convention and the competent authorities of the Contracting States shall, if necessary, consult each other.
 
 \3. The provisions of paragraph 2 shall not apply where judicial, administrative or other legal proceedings have resulted in a final ruling that by actions giving rise to an adjustment of profits under paragraph 1, one of the enterprises concerned is liable to penalty with respect to fraud, gross negligence or wilful default.
 
@@ -311,9 +293,7 @@ The competent authorities of the Contracting States shall by mutual agreement se
 
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other Contracting State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 8 or Article 15, as the case may be, shall apply.
 
-\5. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other Contracting State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other Contracting State or insofar as the holding in respect of which the dividends are paid is effectively connected with a (THE GREAT SOCIALIST LIBYAN ARAB JAMAHIRIYA) [S.L.123.03 9
-
-permanent establishment or a fixed base situated in that other Contracting State, nor subject the company’s undistributed profits to a tax on the company’s undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other Contracting State.
+\5. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other Contracting State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other Contracting State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other Contracting State, nor subject the company’s undistributed profits to a tax on the company’s undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other Contracting State.
 
 **Article 12**
 
@@ -341,8 +321,6 @@ Interest shall be deemed to arise in a Contracting State when the payer is a res
 
 \1. Royalties arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other State.
 
-10 [S.L.123.03 (THE GREAT SOCIALIST LIBYAN ARAB JAMAHIRIYA)
-
 \2. However, such royalties may also be taxed in the Contracting State in which they arise and according to the laws of that State, but if the beneficial owner of the royalties is a resident of the other Contracting State, the tax so charged shall not exceed 5 per cent of the gross amount of the royalties. The competent authorities of the Contracting States shall by mutual agreement settle the mode of application of this limitation.
 
 \3. The term "royalties" as used in this article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including cinematograph films, or films or tapes used for radio or television broadcasting, any patent, trade mark, design or model, plan, secret formula or process, or for the use of, or the right to use, industrial, commercial or scientific equipment or for information concerning industrial, commercial or scientific experience.
@@ -362,8 +340,6 @@ Interest shall be deemed to arise in a Contracting State when the payer is a res
 \2. Gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or of movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing independent personal services, including such gains from the alienation of such a permanent establishment (alone or with the whole enterprise) or of such fixed base, may be taxed in that other State.
 
 \3. Gains from the alienation of ships or aircraft operated in international traffic or movable property pertaining to the operation of such ships or aircraft
-
-(THE GREAT SOCIALIST LIBYAN ARAB JAMAHIRIYA) [S.L.123.03 11
 
 shall be taxable only in the Contracting State in which the place of effective management of the enterprise is situated.
 
@@ -393,9 +369,7 @@ shall be taxable only in the Contracting State in which the place of effective m
 
 **Dependent Personal Services**
 
-\1. Subject to the provisions of articles 17, 19 and 20, salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in 12 [S.L.123.03 (THE GREAT SOCIALIST LIBYAN ARAB JAMAHIRIYA)
-
-the other Contracting State. If the employment is so exercised, such remuneration as is derived there from may be taxed in that other State.
+\1. Subject to the provisions of articles 17, 19 and 20, salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived there from may be taxed in that other State.
 
 \2. Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in the other Contracting State shall be taxable only in the first-mentioned State if:
 
@@ -428,8 +402,6 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 \1. Subject to the provisions of paragraph 2 of article 20, pensions and other similar remuneration paid to a resident of a Contracting State in consideration of past employment shall be taxable only in that State.
 
 \2. Notwithstanding the provisions of paragraph 1, pensions paid and other payments made under a public scheme which is part of the social security system of a Contracting State or a political subdivision or a local authority thereof shall be taxable only in that State.
-
-(THE GREAT SOCIALIST LIBYAN ARAB JAMAHIRIYA) [S.L.123.03 13
 
 **Article 20**
 
@@ -465,8 +437,6 @@ A student or trainee who is or was immediately before visiting a Contracting Sta
 
 \2. The provisions of paragraph 1 of this article shall not apply to remuneration from research if such research is undertaken not in the public interest but primarily for the private benefit of a specific person or persons.
 
-14 [S.L.123.03 (THE GREAT SOCIALIST LIBYAN ARAB JAMAHIRIYA)
-
 **Article 23**
 
 **Other Income**
@@ -495,9 +465,7 @@ A student or trainee who is or was immediately before visiting a Contracting Sta
 
 **Non-Discrimination**
 
-\1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which (THE GREAT SOCIALIST LIBYAN ARAB JAMAHIRIYA) [S.L.123.03 15
-
-nationals of that other State in the same circumstances, in particular with respect to residence, is or may be subjected. This provision shall, notwithstanding the provisions of article 1, also apply to persons who are not residents of one or both of the Contracting States.
+\1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, is or may be subjected. This provision shall, notwithstanding the provisions of article 1, also apply to persons who are not residents of one or both of the Contracting States.
 
 \2. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
 
@@ -516,8 +484,6 @@ nationals of that other State in the same circumstances, in particular with resp
 \3. The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Convention. They may also consult together for the elimination of double taxation in cases not provided for in the Convention.
 
 \4. The competent authorities of the Contracting States may communicate with each other directly, including through a joint commission consisting of themselves or their representatives, for the purpose of reaching an agreement in the sense of the preceding paragraphs. The competent authorities, through consultations, shall develop appropriate bilateral procedures, conditions, methods and techniques for the implementation of the mutual agreement procedure provided for in this article.
-
-16 [S.L.123.03 (THE GREAT SOCIALIST LIBYAN ARAB JAMAHIRIYA)
 
 **Article 27**
 
@@ -549,9 +515,7 @@ This Convention shall enter into force 30 days after the date of receipt of the 
 
 **Termination**
 
-\1. This Convention shall remain in force until one of the Contracting States gives written notice of its intention to terminate the Convention to the other (THE GREAT SOCIALIST LIBYAN ARAB JAMAHIRIYA) [S.L.123.03 17
-
-Contracting State through diplomatic channels, on or before the thirtieth day of June in any calendar year after the expiration of a period of five years from the date of its entry into force. In such event this Convention shall cease to have effect in respect of income derived during the taxable years beginning on or after the first day of January of the year next following that in which the notice of termination has been given.
+\1. This Convention shall remain in force until one of the Contracting States gives written notice of its intention to terminate the Convention to the other Contracting State through diplomatic channels, on or before the thirtieth day of June in any calendar year after the expiration of a period of five years from the date of its entry into force. In such event this Convention shall cease to have effect in respect of income derived during the taxable years beginning on or after the first day of January of the year next following that in which the notice of termination has been given.
 
 \2. The convention between Malta and the Great Jamahiriya for the Avoidance of double taxation with respect to taxes on Income signed on the 5th of October 1972 and the protocol thereto signed on the 28th April 1995 shall be terminated on the date on which this Convention comes into force. In such a case the above mentioned convention signed on the 5th of October 1972 and the above mentioned Protocol thereto shall cease to have effect with respect to income derived during the taxable years beginning on or after the first day of January of the year next following that on which this Convention enters into force.
 
@@ -579,9 +543,7 @@ Malta and the Great Socialist People's Libyan Arab Jamahiriya have agreed, at th
 
 (a) a company which is a resident of a Contracting State and which is a Joint Business shall be entitled to require that the gains or profits derived by it and which are distributable, directly or indirectly, by way of a dividend to an Eligible Person who is a resident of the other Contracting State shall, notwithstanding that the dividend or part thereof has not been distributed, be taxed at a rate not exceeding fifteen per cent (15%);
 
-(b) when gains or profits of a company have been subject to tax at a rate not exceeding fifteen per cent (15%) in accordance with paragraph (a), no further tax shall be charged in that or in the other Contracting State on any dividend paid, directly or indirectly, out of the said gains or profits. 18 [S.L.123.03 (THE GREAT SOCIALIST LIBYAN ARAB JAMAHIRIYA)
-
-\3. In this Protocol -
+(b) when gains or profits of a company have been subject to tax at a rate not exceeding fifteen per cent (15%) in accordance with paragraph (a), no further tax shall be charged in that or in the other Contracting State on any dividend paid, directly or indirectly, out of the said gains or profits. 3. In this Protocol -
 
 (a) "Eligible Person" means:
 

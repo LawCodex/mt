@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy - Ph.D. - under the auspices of the Institute for Sustainable Energy (S.L. 327.162)
 
-*1*
-
-AUSPICES OF THE INSTITUTE FOR SUSTAINABLE ENERGY [S.L.327.162
-
 **SUBSIDIARY LEGISLATION 327.162**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR OF**
@@ -70,10 +66,6 @@ These bye-laws shall be applicable from September 2011 onwards.
 ## 5. Institute Doctoral Committee.
 
 The Board shall recommend to Senate the appointment of an Institute Doctoral Committee composed as follows:
-
-*2*
-
-[S.L.327.162 AUSPICES OF THE INSTITUTE FOR SUSTAINABLE ENERGY
 
 (a) the Chairman of the Institute or delegate (Chairman);
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Requisition of Plant Machinery and Equipment for Ceramic Products Regulations (S.L. 117.21)
 
-*1*
-
-AND EQUIPMENT FOR CERAMIC PRODUCTS [S.L.117.21
-
 **SUBSIDIARY LEGISLATION 117.21**
 
 **REQUISITION OF PLANT MACHINERY AND**
@@ -65,11 +61,7 @@ The Minister or any other person authorised by him may enter any premises with a
 
 *Amended by: L.N. 409 of 2007.*
 
-Any person who contravenes or fails to comply with any requisition order made by the Minister under regulation 3 or who performs any act or omits to perform any act knowing or having reasonable cause to believe that such act or omission is likely to [S.L.117.21 AND EQUIPMENT FOR CERAMIC PRODUCTS
-
-frustrate, hinder or obstruct the execution or the carrying out of any measure, direction or authorisation given under these regulations, connected with such requisition order shall, on conviction, be liable to imprisonment not exceeding six months or to a fine (multa) of not less than four hundred and sixty-five euros and eighty-seven cents (465.87) and not exceeding two thousand and three hundred and twenty-nine euros and thirty-seven cents (2,329.37) or to both such imprisonment and fine.
-
-*2*
+Any person who contravenes or fails to comply with any requisition order made by the Minister under regulation 3 or who performs any act or omits to perform any act knowing or having reasonable cause to believe that such act or omission is likely to frustrate, hinder or obstruct the execution or the carrying out of any measure, direction or authorisation given under these regulations, connected with such requisition order shall, on conviction, be liable to imprisonment not exceeding six months or to a fine (multa) of not less than four hundred and sixty-five euros and eighty-seven cents (465.87) and not exceeding two thousand and three hundred and twenty-nine euros and thirty-seven cents (2,329.37) or to both such imprisonment and fine.
 
 ## 7. Compensation.
 

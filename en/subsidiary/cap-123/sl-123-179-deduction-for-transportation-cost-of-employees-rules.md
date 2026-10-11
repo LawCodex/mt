@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Deduction for Transportation Cost of Employees Rules (S.L. 123.179)
 
-*1*
-
-COST OF EMPLOYEES [S.L. 123.179 SUBSIDIARY LEGISLATION 123.179
+**SUBSIDIARY LEGISLATION 123.179**
 
 **DEDUCTION FOR TRANSPORTATION**
 
@@ -56,10 +54,6 @@ In these rules, unless the context otherwise requires - "the Act" means the Inco
 (2) In respect of any year of assessment, the deduction referred to in sub article one may only be claimed on the lower of:
 
 (i) €25,000 of the employee transportation costs incurred by the undertaking in the year preceding the year of assessment; or
-
-*2*
-
-[S.L. 123.179 COST OF EMPLOYEES
 
 (ii) €300 per employee whose transportation costs have been incurred by the undertaking in the year preceding the year of assessment.
 

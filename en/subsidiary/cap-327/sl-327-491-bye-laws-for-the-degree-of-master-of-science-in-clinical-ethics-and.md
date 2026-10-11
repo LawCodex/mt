@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science in Clinical Ethics and Law - M.Sc. - under the auspices of the Faculty of Medicine and Surgery (S.L. 327.491)
 
-AND LAW - M.Sc. - UNDER THE AUSPICES OF THE
-
-*1*
-
-FACULTY OF MEDICINE AND SURGERY [S.L.327.491
-
 **SUBSIDIARY LEGISLATION 327.491**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -71,11 +65,7 @@ These bye-laws shall be applicable for courses commencing in October 2014 or lat
 
 (g) a qualification deemed by Senate, on the recommendation of the Board, to be equivalent to the qualifications listed in sub-paragraphs (a) to (f).
 
-(2) The Board shall recommend to Senate the number of applicants that may be allowed to register for the course, depending on the availability of resources. The Board shall announce the AND LAW - M.Sc. - UNDER THE AUSPICES OF THE [S.L.327.491 FACULTY OF MEDICINE AND SURGERY
-
-number of available places at the time of the call for applications.
-
-*2*
+(2) The Board shall recommend to Senate the number of applicants that may be allowed to register for the course, depending on the availability of resources. The Board shall announce the number of available places at the time of the call for applications.
 
 (3) When the number of places is so limited and the number of eligible applicants exceeds the number of places available, applicants shall be selected through an interview by a board, composed of at least three members appointed for the purpose. The board shall select applicants using the following criteria, the weighting of which shall be published at the time of the call for applications:
 
@@ -113,13 +103,9 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 (3) A provisional title of the dissertation and a detailed research proposal shall be submitted to the Board for approval by the beginning of the second semester.
 
-AND LAW - M.Sc. - UNDER THE AUSPICES OF THE
+## 8. Supervisor.
 
-*3*
-
-FACULTY OF MEDICINE AND SURGERY [S.L.327.491 8. (1) Students shall be required to have regular contact with their supervisor.
-
-*Supervisor.*
+(1) Students shall be required to have regular contact with their supervisor.
 
 (2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies, whether the student is following the course on a full-time or a part-time basis. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 

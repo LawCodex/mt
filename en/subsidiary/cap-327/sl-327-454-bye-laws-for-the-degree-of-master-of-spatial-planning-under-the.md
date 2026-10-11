@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Spatial Planning under the auspices of the Faculty for the Built Environment (S.L. 327.454)
 
-UNDER THE AUSPICES OF THE FACULTY
-
-*1*
-
-FOR THE BUILT ENVIRONMENT [S.L.327.454
-
 **SUBSIDIARY LEGISLATION 327.454**
 
 BYE-LAWS FOR THE DEGREE OF MASTER OF SPATIAL PLANNING UNDER THE AUSPICES OF THE FACULTY FOR THE BUILT ENVIRONMENT 19th July, 2013
@@ -56,13 +50,7 @@ The course shall be open to applicants in possession of:
 
 (b) a Bachelor’s degree from the University of Malta with at least Third Class Honours in the disciplines highlighted in paragraph (a) of this bye-law, if they are also in possession of other qualifications or at least 10 years of relevant work experience, obtained following the first cycle degree. The admission of applicants under this bye-law may be made conditional on the results of an assessment as the Board may deem appropriate; or
 
-(c) a qualification deemed by Senate, on the recommendation of the Board, to be comparable to the qualifications listed in paragraph (a) of this bye-law. UNDER THE AUSPICES OF THE FACULTY
-
-*2*
-
-[S.L.327.454 FOR THE BUILT ENVIRONMENT
-
-The admission of applicants under this bye-law may be made conditional on the results of an assessment as the Board may deem appropriate.
+(c) a qualification deemed by Senate, on the recommendation of the Board, to be comparable to the qualifications listed in paragraph (a) of this bye-law. The admission of applicants under this bye-law may be made conditional on the results of an assessment as the Board may deem appropriate.
 
 ## 4. Course duration.
 
@@ -102,11 +90,7 @@ The course shall extend over four semesters of full-time study or the equivalent
 
 (1) Students shall be required to have regular contact with their supervisor, not less than once a month.
 
-UNDER THE AUSPICES OF THE FACULTY
-
-*3*
-
-FOR THE BUILT ENVIRONMENT [S.L.327.454 (2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies, whether the student is following the course on a full-time or a part-time basis. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
+(2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies, whether the student is following the course on a full-time or a part-time basis. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 

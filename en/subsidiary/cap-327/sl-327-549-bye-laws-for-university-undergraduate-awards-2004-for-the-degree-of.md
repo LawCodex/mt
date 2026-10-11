@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for University Undergraduate Awards, 2004 for the degree of Bachelor of Science (Honours) in Technical Design and Technology - B.Sc. (Hons) TDT - under the auspices of the Faculty of Education (S.L. 327.549)
 
-CAL DESIGN AND TECHNOLOGY - B.Sc. (HONS) TDT - UNDER
-
-*1*
-
-THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.549
-
 **SUBSIDIARY LEGISLATION 327.549**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF
@@ -62,11 +56,7 @@ These bye-laws shall be applicable for courses commencing in October 2021 or lat
 
 (a) a pass at Advanced Level at grade C or better in any subject; or
 
-(b) (i) five passes in the Secondary Education Certificate Examination at grade 5 or better or at SEC level 3, including English Language and Maltese, together with the Advanced Technicians Diploma of the City and Guilds of London Institute, or the MCAST- BTEC Higher National Diploma in Electrical Engineering Level 5, or the MCAST-BTEC Higher National Diploma in Electronic Engineering Level 5, or the MCAST-BTEC Higher National Diploma in Mechanical Engineering Level 5, or a qualification considered equivalent by the University Admissions Board on the recommendation of the Board; or CAL DESIGN AND TECHNOLOGY - B.Sc. (HONS) TDT - UNDER [S.L.327.549 THE AUSPICES OF THE FACULTY OF EDUCATION
-
-(ii) five passes in the Secondary Education Certificate Examination at grade 5 or better or at SEC level 3, including English Language and Maltese, together with an MCAST Advanced Diploma Level 4 awarded in an area related to the following: Engineering and Transport, Creative Arts, Information and Communication Technology, Applied Sciences.
-
-*2*
+(b) (i) five passes in the Secondary Education Certificate Examination at grade 5 or better or at SEC level 3, including English Language and Maltese, together with the Advanced Technicians Diploma of the City and Guilds of London Institute, or the MCAST- BTEC Higher National Diploma in Electrical Engineering Level 5, or the MCAST-BTEC Higher National Diploma in Electronic Engineering Level 5, or the MCAST-BTEC Higher National Diploma in Mechanical Engineering Level 5, or a qualification considered equivalent by the University Admissions Board on the recommendation of the Board; or (ii) five passes in the Secondary Education Certificate Examination at grade 5 or better or at SEC level 3, including English Language and Maltese, together with an MCAST Advanced Diploma Level 4 awarded in an area related to the following: Engineering and Transport, Creative Arts, Information and Communication Technology, Applied Sciences.
 
 (2) Applicants in possession of the Diploma in Design Foundation Studies or the Certificate in Foundation Studies in Engineering and ICT or the Certificate in Engineering Sciences awarded by the University of Malta may also be considered.
 
@@ -93,12 +83,6 @@ Applicants with other qualifications considered to be sufficient may be exempted
 (3) When more than ten places are available, the Interviewing Board shall interview a number of applicants that is 25% more than the number of available places. Further groups of applicants as decided by the interviewing board shall only be interviewed if all the places have not been filled.
 
 (4) The interviewing board appointed by the Board for the purpose, shall be composed of at least 3 members from the Department of Technology and Entrepreneurship Education.
-
-CAL DESIGN AND TECHNOLOGY - B.Sc. (HONS) TDT - UNDER
-
-*3*
-
-THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.549
 
 ## 6. Consideration of eligible candidates.
 

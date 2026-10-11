@@ -1,6 +1,6 @@
 ---
 title: "Designation of Places as Prisons Order"
-identifier: "S.L. 260.2"
+identifier: "S.L. 260.02"
 eli: "https://legislation.mt/eli/sl/260.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/260.2/20260818/eng"
 retrieved: 2026-10-12
 ---
 
-# Designation of Places as Prisons Order (S.L. 260.2)
+# Designation of Places as Prisons Order (S.L. 260.02)
 
 **SUBSIDIARY LEGISLATION 260.02**
 

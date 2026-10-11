@@ -1,6 +1,6 @@
 ---
 title: "Regulations on the Suspension of Courses for the Renewal of Category \"A\", \"B\" and \"C\" Licences under the Control of Fireworks and other Explosives Regulations"
-identifier: "S.L. 33.8"
+identifier: "S.L. 33.08"
 eli: "https://legislation.mt/eli/sl/33.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,15 +14,7 @@ version: "https://legislation.mt/eli/sl/33.8/20210702/eng"
 retrieved: 2026-10-12
 ---
 
-# Regulations on the Suspension of Courses for the Renewal of Category "A", "B" and "C" Licences under the Control of Fireworks and other Explosives Regulations (S.L. 33.8)
-
-SUSPENSION OF COURSES FOR THE RENEWAL OF CATE-
-
-GORY "A", "B" AND "C" LICENCES UNDER THE THE CON-
-
-*1*
-
-TROL OF FIREWORKS AND OTHER EXPLOSIVES [S.L.33.08
+# Regulations on the Suspension of Courses for the Renewal of Category "A", "B" and "C" Licences under the Control of Fireworks and other Explosives Regulations (S.L. 33.08)
 
 **SUBSIDIARY LEGISLATION 33.08**
 

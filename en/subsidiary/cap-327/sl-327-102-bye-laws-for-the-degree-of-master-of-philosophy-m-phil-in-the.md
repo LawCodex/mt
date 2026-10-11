@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Philosophy - M.Phil. - in the Mediterranean Institute (S.L. 327.102)
 
-DEGREE OF MASTER OF PHILOSOPHY - M.PHIL. -
-
-*1*
-
-IN THE MEDITERRANEAN INSTITUTE [S.L.327.102
-
 SUBSIDIARY LEGISLATION 327.102
 
 BYE-LAWS FOR THE DEGREE OF MASTER OF

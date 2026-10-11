@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Medical Officers of the Hospital for Mental Diseases Regulations (S.L. 94.11)
 
-*1*
-
-FOR MENTAL DISEASES [ S.L.94.11
-
 **SUBSIDIARY LEGISLATION 94.11**
 
 **MEDICAL OFFICERS OF THE HOSPITAL FOR**
@@ -55,11 +51,7 @@ The Superintendent shall examine every newly admitted patient under his care and
 
 ### 7. Responsibility for entries.
 
-The Superintendent shall be responsible for every entry in the professional registers of the hospital and shall take care that all admissions, discharges and deaths be duly recorded, and that the [S.L.94.11 FOR MENTAL DISEASES
-
-prescription books, medical visits book, case sheets, diet books and all other records are regularly kept.
-
-*2*
+The Superintendent shall be responsible for every entry in the professional registers of the hospital and shall take care that all admissions, discharges and deaths be duly recorded, and that the prescription books, medical visits book, case sheets, diet books and all other records are regularly kept.
 
 ### 8. Violent or sudden death or absence without leave of patient.
 
@@ -103,10 +95,6 @@ The resident deputy physician Superintendent shall reside in the quarters provid
 
 The provisions of these Regulations relative to psychiatrists in so far as applicable shall apply to the resident deputy physician Superintendent.
 
-*3*
-
-FOR MENTAL DISEASES [ S.L.94.11
-
 **III. THE PSYCHIATRISTS**
 
 ### 18. Psychiatrists’ responsibility for care and treatment of the patient.
@@ -143,11 +131,7 @@ All official communications with the exception of those referring purely to the 
 
 ### 26. Research in hospital.
 
-Any research carried out in hospital must have the prior approval of the Chief Government Medical Officer. A record of any research undertaken in connection with a particular patient or patients shall be entered at the time on the patient’s clinical record. All drugs used for research purposes shall be kept in the hospital [S.L.94.11 FOR MENTAL DISEASES
-
-pharmacy under the care of the apothecary.
-
-*4*
+Any research carried out in hospital must have the prior approval of the Chief Government Medical Officer. A record of any research undertaken in connection with a particular patient or patients shall be entered at the time on the patient’s clinical record. All drugs used for research purposes shall be kept in the hospital pharmacy under the care of the apothecary.
 
 **IV. RESIDENT AND OTHER MEDICAL OFFICERS**
 
@@ -185,11 +169,7 @@ Medical officers shall not absent themselves from the hospital whilst on duty wi
 
 ### 34. Private follow-up sessions.
 
-Apart from the usual medical visits in the wards as prescribed by the Superintendent, medical officers shall hold FOR MENTAL DISEASES [ S.L.94.11
-
-private follow-up sessions with patients selected by the Superintendent and/or psychiatrists recording the result of these sessions on the relative case sheets.
-
-*5*
+Apart from the usual medical visits in the wards as prescribed by the Superintendent, medical officers shall hold private follow-up sessions with patients selected by the Superintendent and/or psychiatrists recording the result of these sessions on the relative case sheets.
 
 ### 35. Medical officer to be in charge of dispensary, etc.
 

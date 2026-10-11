@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Voluntary Occupational Pension Scheme Rules (S.L. 123.175)
 
-*1*
-
-PENSION SCHEME RULES [S.L. 123.175
-
 **SUBSIDIARY LEGISLATION 123.175**
 
 **VOLUNTARY OCCUPATIONAL PENSION**
@@ -67,13 +63,9 @@ For the purposes of these rules:
 
 *Cap. 514*
 
-(b) in the case of a long term contract of insurance, a company registered, licensed or authorized to carry on long term business under the Insurance Business Act and includes a European [S.L. 123.175 PENSION SCHEME RULES
+(b) in the case of a long term contract of insurance, a company registered, licensed or authorized to carry on long term business under the Insurance Business Act and includes a European Insurance Undertaking carrying on long term business of insurance in Malta in exercise of a European right;
 
 *Cap. 403*
-
-Insurance Undertaking carrying on long term business of insurance in Malta in exercise of a European right;
-
-*2*
 
 *Cap. 403*
 
@@ -109,11 +101,7 @@ Provided that for the avoidance of doubt, a qualifying employer shall also inclu
 
 "social security contributions" means a contribution payable under the Social Security Act or which was payable under the provisions of the National Insurance Act before the date of its repeal;
 
-"year" means the year immediately preceding a year of PENSION SCHEME RULES [S.L. 123.175
-
-assessment unless the context otherwise requires; and
-
-*3*
+"year" means the year immediately preceding a year of assessment unless the context otherwise requires; and
 
 *Cap. 403*
 
@@ -147,11 +135,7 @@ These rules shall apply only in respect of qualifying contributions made to a qu
 
 *S.L. 123.101*
 
-(4) For the purposes of the Tax Accounts (Income Tax) Rules, the amount of chargeable income which is deemed to have [S.L. 123.175 PENSION SCHEME RULES
-
-been relieved from tax in accordance with sub-rule (3) shall be allocated to the company’s Final Tax Account.
-
-*4*
+(4) For the purposes of the Tax Accounts (Income Tax) Rules, the amount of chargeable income which is deemed to have been relieved from tax in accordance with sub-rule (3) shall be allocated to the company’s Final Tax Account.
 
 (5) Any contributions or payments referred to in sub-rule (1) made by a qualifying employer for the benefit of a qualifying employee shall not be deemed to be a benefit provided by the qualifying employer to the qualifying employee by reason of employment or office for the purposes of the Fringe Benefits Rules.
 
@@ -181,11 +165,7 @@ A qualifying scheme shall be one which satisfies the following conditions:
 
 *Cap. 514.*
 
-(b) it provides for the commencement of payment benefits to a qualifying individual on a date that is PENSION SCHEME RULES [S.L. 123.175
-
-not earlier than the date on which the individual attains the age of sixty-one (61) and not later than the date when the individual attains the age of seventy (70), except in those cases where the scheme provides that the payment is made by reason of the permanent disability or death of the beneficiary; and
-
-*5*
+(b) it provides for the commencement of payment benefits to a qualifying individual on a date that is not earlier than the date on which the individual attains the age of sixty-one (61) and not later than the date when the individual attains the age of seventy (70), except in those cases where the scheme provides that the payment is made by reason of the permanent disability or death of the beneficiary; and
 
 (c) it satisfies such further conditions as the Commissioner may deem appropriate to impose. 8. (1) Except for payments referred to in sub-rule (3), all payments received from a qualifying scheme, including for the avoidance of doubt long term contracts of insurance mentioned in rule 7, shall constitute pension income for the purposes of article 4(1)(d) of the Act.
 
@@ -211,11 +191,9 @@ not earlier than the date on which the individual attains the age of sixty-one (
 
 (1) Each licence holder shall notify the Commissioner in writing prior to accepting qualifying contributions or payments from a qualifying employer.
 
-(2) Where the qualifying scheme is a long term contract of insurance, the notification referred to in sub-rule (1) shall include: [S.L. 123.175 PENSION SCHEME RULES
+(2) Where the qualifying scheme is a long term contract of insurance, the notification referred to in sub-rule (1) shall include:
 
 (a) a declaration by the licence holder that the long term contract of insurance satisfies the conditions referred to in rule 7; and
-
-*6*
 
 (b) an undertaking by the licence holder that he shall inform the Commissioner within fourteen days of any subsequent change which would result in the long term contract of insurance no longer satisfying any of the conditions referred to in rule 7.
 
@@ -229,17 +207,13 @@ not earlier than the date on which the individual attains the age of sixty-one (
 
 (1) The Commissioner may, after giving due notice, require any person who is or who has been a licence holder who administers or who administered a qualifying scheme, or a qualifying employer, or a qualifying employee to furnish him within such time (not being less than fourteen days) as may be provided by the notice, such information about any qualifying scheme (including copies of or extracts from any books or other records) or any payments or contributions thereto as the Commissioner may reasonably require for the purposes of these rules or to make available for inspection, at a place within Malta, all relevant documents which are in the possession or under the control of a licence holder, a qualifying employer, or a qualifying employee.
 
-(2) Every licence holder shall, by the end of January of the year following that in which the qualifying contributions to the qualifying scheme were made, submit to the Commissioner a statement in electronic format as approved by the Commissioner showing particulars concerning the qualifying employer and qualifying employee’s identity, and other information as may be required for income tax purposes, including but not limited to the amount contributed or paid by the qualifying employer and, or qualifying employee to the qualifying scheme and tax deducted and paid to the Commissioner in accordance with the provisions of rule 8. PENSION SCHEME RULES [S.L. 123.175
-
-*S.L. 372.14*
-
-(3) Without prejudice to the provisions of rule 8, every licence holder shall be subject to the provisions of the Final Settlement System (FSS) Rules in respect of payments made from a qualifying scheme to a qualifying employee which constitute pension income for the purposes of article 4(1)(d) of the Act.
-
-*7*
+(2) Every licence holder shall, by the end of January of the year following that in which the qualifying contributions to the qualifying scheme were made, submit to the Commissioner a statement in electronic format as approved by the Commissioner showing particulars concerning the qualifying employer and qualifying employee’s identity, and other information as may be required for income tax purposes, including but not limited to the amount contributed or paid by the qualifying employer and, or qualifying employee to the qualifying scheme and tax deducted and paid to the Commissioner in accordance with the provisions of rule 8. (3) Without prejudice to the provisions of rule 8, every licence holder shall be subject to the provisions of the Final Settlement System (FSS) Rules in respect of payments made from a qualifying scheme to a qualifying employee which constitute pension income for the purposes of article 4(1)(d) of the Act.
 
 ## 12. Social Security contributions. Cap. 318.
 
 Without prejudice to the provisions set out in the Social Security Act, for the purposes of determining the weekly rates of contributions payable under the provisions of that Act, no account shall be taken of any qualifying contributions paid under the provisions of these rules.
+
+*S.L. 372.14*
 
 ## 13. Tax avoidance.
 

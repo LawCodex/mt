@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Mistra Heights Project (Special Designated Area) Order (S.L. 246.22)
 
-*1*
-
-(SPECIAL DESIGNATED AREA) [S.L. 246.22 SUBSIDIARY LEGISLATION 246.22
+**SUBSIDIARY LEGISLATION 246.22**
 
 **MISTRA HEIGHTS PROJECT**
 
@@ -40,7 +38,3 @@ The Mistra Heights Project, consisting of immovable property situated in the are
 ## 3. Addition to the First Schedule to the Act. Cap. 246.
 
 The Mistra Heights Project shall be added to the List of Scheduled Zones in the First Schedule to the Immovable Property (Acquisition by Non-Residents) Act.
-
-*2*
-
-[S.L. 246.22 (SPECIAL DESIGNATED AREA)

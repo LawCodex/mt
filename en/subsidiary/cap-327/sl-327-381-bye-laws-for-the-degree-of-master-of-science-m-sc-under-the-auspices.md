@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science - M.Sc. - under the auspices of the Faculty of Medicine and Surgery (S.L. 327.381)
 
-UNDER THE AUSPICES OF THE FACULTY
-
-*1*
-
-OF MEDICINE AND SURGERY [S.L.327.381
-
 **SUBSIDIARY LEGISLATION 327.381**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -78,13 +72,7 @@ The course shall be offered in any area of study that falls within the academic 
 
 (e) the degree of Bachelor of Science (Honours) (Pharmaceutical Science) with a classification of Second Class Honours or better; or
 
-(f) the degree of Bachelor of Science (Honours) from the UNDER THE AUSPICES OF THE FACULTY
-
-*2*
-
-[S.L.327.381 OF MEDICINE AND SURGERY
-
-Faculty of Science, with at least Second Class (Honours); or
+(f) the degree of Bachelor of Science (Honours) from the Faculty of Science, with at least Second Class (Honours); or
 
 (g) at least a Second Class (Honours) degree in a discipline related to health science; or
 
@@ -126,11 +114,7 @@ The assessment of the taught study-unit/s shall be held by the end of the semest
 
 (1) Students shall be required to have regular contact with their supervisor.
 
-(2) Students shall seek approval from the Board of Studies UNDER THE AUSPICES OF THE FACULTY
-
-*3*
-
-OF MEDICINE AND SURGERY [S.L.327.381 through their supervisor for any substantial modification in the title or content of the dissertation.
+(2) Students shall seek approval from the Board of Studies through their supervisor for any substantial modification in the title or content of the dissertation.
 
 (3) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 

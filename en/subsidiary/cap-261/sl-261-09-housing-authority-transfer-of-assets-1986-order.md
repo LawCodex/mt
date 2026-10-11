@@ -1,6 +1,6 @@
 ---
 title: "Housing Authority (Transfer of Assets) (1986) Order"
-identifier: "S.L. 261.9"
+identifier: "S.L. 261.09"
 eli: "https://legislation.mt/eli/sl/261.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/261.9/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Housing Authority (Transfer of Assets) (1986) Order (S.L. 261.9)
+# Housing Authority (Transfer of Assets) (1986) Order (S.L. 261.09)
 
 **SUBSIDIARY LEGISLATION 261.09**
 

@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the degree of Bachelor of Fine Arts (Honours) – (BFA) (Hons) - in Digital Arts under the auspices of the Faculty of Media and Knowledge Sciences (S.L. 327.469)
 
-(HONS) - IN DIGITAL ARTS UNDER THE AUSPICES OF THE
-
-*1*
-
-FACULTY OF MEDIA AND KNOWLEDGE SCIENCES [S.L.327.469
-
 **SUBSIDIARY LEGISLATION 327.469**
 
 **BYE-LAWS FOR THE DEGREE OF BACHELOR OF FINE ARTS**
@@ -71,10 +65,6 @@ These bye-laws shall be applicable for courses commencing in October 2021 or lat
 (b) be in possession of the Diploma in Design Foundation Studies from the University of Malta; or
 
 (c) be in possession of a qualification comprising not less than 60 ECTS credits (or equivalent), classified at Level 5 on the Malta Qualifications Framework in an area deemed relevant by the Board, together with an Advanced Level pass at grade C or better in one of the following subjects English, Graphical Communication, History, Information Technology, Marketing, Philosophy, Sociology, or a subject (other than Art) deemed comparable by the Board, together with passes at SEC Level at Grade 5 or better in English Language, Mathematics and Maltese; or
-
-*2*
-
-(HONS) - IN DIGITAL ARTS UNDER THE AUSPICES OF THE [S.L.327.469 FACULTY OF MEDIA AND KNOWLEDGE SCIENCES
 
 (d) be in possession of a transcript showing passes in 120 ECTS credits in respect of the first two years of study in a three-year MCAST Bachelor’s degree course in an Art and Design related subject, together with passes at SEC Level at Grade 5 or better in English Language, Mathematics and Maltese.
 

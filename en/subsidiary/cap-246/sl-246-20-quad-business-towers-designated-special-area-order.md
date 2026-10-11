@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Quad Business Towers (Designated Special Area) Order (S.L. 246.20)
 
-*1*
-
-(DESIGNATED SPECIAL AREA) [S.L. 246.20 SUBSIDIARY LEGISLATION 246.20
+**SUBSIDIARY LEGISLATION 246.20**
 
 **THE QUAD BUSINESS TOWERS (DESIGNATED**
 
@@ -38,7 +36,3 @@ The Quad Business Towers, Mrieħel consisting of immovable property situated in 
 ## 3. Addition to the First Schedule to the Act. Cap. 246
 
 The Quad Business Towers, Mrieħel shall be added to the List of Scheduled Zones in the First Schedule to the Immovable Property (Acquisition by Non-Residents) Immovable Property (Acquisition by Non-Residents) Act.
-
-**[S.L. 246.20 (DESIGNATED SPECIAL AREA)**
-
-*2*

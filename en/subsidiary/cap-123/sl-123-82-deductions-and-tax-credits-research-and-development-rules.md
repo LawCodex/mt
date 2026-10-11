@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Deductions and Tax Credits (Research and Development) Rules (S.L. 123.82)
 
-*1*
-
-(RESEARCH AND DEVELOPMENT) [S.L.123.82
-
 **SUBSIDIARY LEGISLATION 123.82**
 
 DEDUCTIONS AND TAX CREDITS (RESEARCH AND DEVELOPMENT) RULES
@@ -69,10 +65,6 @@ Provided that with respect to qualifying expenditure incurred as from such date 
 
 "project period" means the period starting on the earliest date of the commencement and ending on the latest date of the termination of a project as determined under rule 8(1)(d);
 
-*2*
-
-[S.L.123.82 (RESEARCH AND DEVELOPMENT)
-
 "qualifying R&D expenditure" means expenditure that is treated as such in terms of rule 5(2) and (3);
 
 "research and development" means an activity falling within any of the following descriptions:
@@ -107,11 +99,7 @@ Provided that with respect to qualifying expenditure incurred as from such date 
 
 (c) cost of land and premises used solely and on a continual basis for research and development;
 
-(d) cost of external consulting and equivalent services (RESEARCH AND DEVELOPMENT) [S.L.123.82
-
-related directly to research and development, other than costs to which sub-rule (3) refers;
-
-*3*
+(d) cost of external consulting and equivalent services related directly to research and development, other than costs to which sub-rule (3) refers;
 
 (e) additional overheads incurred directly as a result of research and development;
 
@@ -138,10 +126,6 @@ related directly to research and development, other than costs to which sub-rule
 (a) grant to the Corporation and its officers access to any premises or works as the Corporation may consider necessary in order to ascertain any matter relevant to the approval of an application and the right to a deduction or tax credit under this Part;
 
 (b) authorise the Corporation to disclose to the Commissioner any information and to pass on to the Commissioner originals or copies of any documents and records that the Corporation may have obtained in connection with the application.
-
-*4*
-
-[S.L.123.82 (RESEARCH AND DEVELOPMENT)
 
 ### 6. Approval of project.
 
@@ -185,10 +169,6 @@ When the Corporation approves a project it shall determine the extent to which, 
 
 (a) the date of the completion of the project;
 
-*5*
-
-(RESEARCH AND DEVELOPMENT) [S.L.123.82
-
 (b) the amount of allowable R&D expenditure, indicating the applicable description under the definition of research and development given in rule 3 and the category of qualifying R&D expenditure listed in rule 5(2) and (3) to which each item belongs;
 
 (c) whether, where applicable, the conditions that may have been made applicable to the project in terms of rule 6(2) have been observed.
@@ -213,11 +193,7 @@ When the Corporation approves a project it shall determine the extent to which, 
 
 (2) The investment represented by allowable R&D expenditure that falls within the descriptions of rule 5(2)(b) and (c) shall be retained within the company for at least three years after the termination of the project period or for such shorter period as the Corporation may specify in the letter of approval in terms of rule 8(1)(e), and the assets to which such expenditure refers shall be, for the said period, used solely and on a continual basis for research and development.
 
-(3) If an investment or any part thereof represented by expenditure referred to in sub-rule (2) is not retained within the company for the period referred to in that sub-rule, or is not, during the said period, used solely and on a continual basis for research and development, the amount of expenditure corresponding to that [S.L.123.82 (RESEARCH AND DEVELOPMENT)
-
-investment or part thereof, as the case may be, that is not so retained shall, for the purpose only of determining the right to the tax credit as provided in rule 11(2), be deemed to have never constituted allowable R&D expenditure and the provisions of rule 12 shall apply.
-
-*6*
+(3) If an investment or any part thereof represented by expenditure referred to in sub-rule (2) is not retained within the company for the period referred to in that sub-rule, or is not, during the said period, used solely and on a continual basis for research and development, the amount of expenditure corresponding to that investment or part thereof, as the case may be, that is not so retained shall, for the purpose only of determining the right to the tax credit as provided in rule 11(2), be deemed to have never constituted allowable R&D expenditure and the provisions of rule 12 shall apply.
 
 ### 11. Calculation of deduction and tax credit.
 
@@ -243,11 +219,7 @@ Provided that no deduction shall be allowed under the provisions of this rule in
 
 (6) The correct calculation of the reduction mentioned in sub-rule (5), where applicable, shall be the sole responsibility of the applicant company.
 
-(7) When the tax credit referred to in sub-rule (2)(a) or the tax (RESEARCH AND DEVELOPMENT) [S.L.123.82
-
-credit referred to in sub-rule (2)(b), computed before taking into account the thresholds referred to in sub-rules (3), (4) and (5), exceeds the respective threshold, the said tax credit allowable in respect of each item of expenditure shall be reduced pro rata.
-
-*7*
+(7) When the tax credit referred to in sub-rule (2)(a) or the tax credit referred to in sub-rule (2)(b), computed before taking into account the thresholds referred to in sub-rules (3), (4) and (5), exceeds the respective threshold, the said tax credit allowable in respect of each item of expenditure shall be reduced pro rata.
 
 (8) The amount of the total tax credits allowable under this rule shall be subject to the applicable State aid intensity limitations, in particular those established in article 5a of Commission Regulation (EC) No 70/2001 on the application of Articles 87 and 88 of the EC Treaty to State Aid to small and medium-sized enterprises (OJ L 10/33, 13.1.2001), as subsequently amended.
 
@@ -281,11 +253,7 @@ In this Part, unless the context otherwise requires -
 
 "company" has the meaning assigned to it in the Act;
 
-"general qualification" means a masters degree or a doctoral degree that is largely transferable to other firms or fields of work in [S.L.123.82 (RESEARCH AND DEVELOPMENT)
-
-information technology, sciences or engineering awarded on the successful completion of a full-time course in a university or equivalent educational institution recognised by the Corporation;
-
-*8*
+"general qualification" means a masters degree or a doctoral degree that is largely transferable to other firms or fields of work in information technology, sciences or engineering awarded on the successful completion of a full-time course in a university or equivalent educational institution recognised by the Corporation;
 
 "maximum qualifying wages and tuition expenditure" means the amount determined in accordance with rule 17(1);
 
@@ -313,10 +281,6 @@ Provided that expenditure that forms part of allowable R&D expenditure under Par
 
 (b) fees paid to the university or institution in question for the admission of the respective employee to the course and the attendance of that employee for that course;
 
-*9*
-
-(RESEARCH AND DEVELOPMENT) [S.L.123.82
-
 (c) the cost of course materials directly related to the training programme, as may be approved by the Corporation.
 
 (3) An application under this rule shall be made on such form as may be acceptable to the Corporation and shall:
@@ -341,11 +305,7 @@ Provided that expenditure that forms part of allowable R&D expenditure under Par
 
 ### 17. Letter of approval by the Corporation.
 
-(1) When the Corporation is satisfied that the application is a bona fide application that complies with the provisions of rule 16, and when, after it has obtained all such information and made such ascertainment as it has considered necessary, it considers it appropriate so to do, it may determine that the course in question is a course leading to an R&D relevant qualification and determine the extent to which, in its opinion, the expenditure referred to in the application constitutes qualifying wages and tuition expenditure and is necessary and reasonable in the light of the purpose for which it is or was intended to be incurred, and the amount so determined shall constitute the maximum qualifying wages and [S.L.123.82 (RESEARCH AND DEVELOPMENT)
-
-tuition expenditure:
-
-*10*
+(1) When the Corporation is satisfied that the application is a bona fide application that complies with the provisions of rule 16, and when, after it has obtained all such information and made such ascertainment as it has considered necessary, it considers it appropriate so to do, it may determine that the course in question is a course leading to an R&D relevant qualification and determine the extent to which, in its opinion, the expenditure referred to in the application constitutes qualifying wages and tuition expenditure and is necessary and reasonable in the light of the purpose for which it is or was intended to be incurred, and the amount so determined shall constitute the maximum qualifying wages and tuition expenditure:
 
 Provided that the Corporation shall not make such a determination in respect of a course of studies that -
 
@@ -383,11 +343,7 @@ Provided that the Corporation shall not make such a determination in respect of 
 
 (2) The said certificate shall be accompanied by a statement issued by the relevant university or other institution showing the date on which the employee successfully completed the course in question.
 
-(3) The company shall, within the time limit set out in sub-rule (RESEARCH AND DEVELOPMENT) [S.L.123.82
-
-(1), deliver to the Commissioner a copy of the certificate referred to in the said sub-rule (1) and a copy of the statement referred to in sub-rule (2).
-
-*11*
+(3) The company shall, within the time limit set out in sub-rule (1), deliver to the Commissioner a copy of the certificate referred to in the said sub-rule (1) and a copy of the statement referred to in sub-rule (2).
 
 ### 19. Allowable wages and tuition expenditure.
 
@@ -417,11 +373,7 @@ Provided that the tax credit under this sub-rule shall not be due unless -
 
 (a) the threshold set out in Table G of the Schedule, if the expenditure is incurred by a small or medium-sized enterprise;
 
-(b) the threshold set out in Table H of the Schedule in any [S.L.123.82 (RESEARCH AND DEVELOPMENT)
-
-other case.
-
-*12*
+(b) the threshold set out in Table H of the Schedule in any other case.
 
 (4) Where the company in question has benefited from any State aid in respect of expenditure to which the tax credit refers, other than as provided for in this Part, the said threshold shall be reduced by the value of that aid.
 
@@ -457,10 +409,6 @@ Provided that as from such date as the minister responsible for finance may pres
 
 the terms "general qualification", "R&D relevant qualification" and "specific qualification" have the meaning assigned to them in rule 14.
 
-*13*
-
-(RESEARCH AND DEVELOPMENT) [S.L.123.82
-
 ### 23. Tax credit for social security contributions paid in respect of qualified personnel.
 
 (1) Subject to the other provisions of these rules, when a company engaged in a trade, business profession or vocation incurs expenditure consisting of the employer’s share of social security contributions that meets all the conditions of sub-rule (3), it shall be entitled to a tax credit equivalent to that expenditure.
@@ -487,11 +435,7 @@ Provided that -
 
 (i) whose employment with the said company represented a net increase in the number of full-time employees both in the company concerned and in the establishment of which that company forms part; and
 
-(ii) who either had no previous full-time employment in Malta or had not resigned [S.L.123.82 (RESEARCH AND DEVELOPMENT)
-
-voluntarily from his last full-time employment that he had prior to his employment with the said company; and
-
-*14*
+(ii) who either had no previous full-time employment in Malta or had not resigned voluntarily from his last full-time employment that he had prior to his employment with the said company; and
 
 (iii) who is first employed by the company claiming the tax credit on or after 1st January, 2005 and who remains in the full-time employment of that company for at least three consecutive years. (4) The letter of approval referred to in sub-rule (3)(b) may be issued by the Corporation upon a bona fide application that is made by not later than three months prior to the company’s tax return date for the year of assessment for which the relative tax credit is first claimed, and after the Corporation has obtained all such information and made such ascertainment as it has considered necessary. The Corporation shall deliver the certificate to the applicant and a copy thereof to the Commissioner.
 
@@ -512,10 +456,6 @@ Provided that -
 ### 24. Council Regulation No 2204/2202.
 
 This Part is prescribed and shall be applied in accordance with Commission Regulation (EC) No 2204/2202 on the application of Articles 87 and 88 of the EC Treaty to State Aid for employment (OJ L 337/3, 13.12.2002), as may be subsequently amended.
-
-*15*
-
-(RESEARCH AND DEVELOPMENT) [S.L.123.82
 
 ## Part V — Further Provisions
 
@@ -553,19 +493,11 @@ The following further conditions must also be fulfilled for eligibility to the b
 
 (a) no other benefits are being claimed or may subsequently be claimed by a person on the same activity or project under any other legislation granting fiscal incentive schemes;
 
-(b) all tax liabilities including amounts due in respect of FSS tax as well as social security contributions due up to the time of the application, except for any tax still in dispute, must have been settled or is being settled in [S.L.123.82 (RESEARCH AND DEVELOPMENT)
-
-accordance with a formal agreement drawn up with the Commissioner.
-
-*16*
+(b) all tax liabilities including amounts due in respect of FSS tax as well as social security contributions due up to the time of the application, except for any tax still in dispute, must have been settled or is being settled in accordance with a formal agreement drawn up with the Commissioner.
 
 ### 30. Reversal of tax credit.
 
 If a company avails itself of a tax credit under Part III or Four in respect of expenditure that is subsequently deemed to have never constituted allowable expenditure for the purpose of the said Parts in the circumstances mentioned therein, an amount equal to that credit shall be deemed to be tax due by the company, in addition to any other tax liability, for the year of assessment that immediately follows the year in which those circumstances subsist, and the provisions of the Act shall apply accordingly.
-
-*17*
-
-(RESEARCH AND DEVELOPMENT) [S.L.123.82
 
 ## SCHEDULE — TABLE A — Rule 11(2)(a)
 
@@ -601,11 +533,7 @@ Pre-competitive research 45%
 
 Item of expenditure Tax credit Personnel (rule 5(2)(a)) 35% Instruments and equipment (rule 5(2)(b)) 35% Land and premises (rule 5(2)(c)) 14% External consultants and equivalent services (rule 5(2)(d)) 35% External consultants and equivalent services engaged in an
 
-application for EU funds (rule 5(3)) 12.25% Additional overheads (rule 5(2)(e)) 10.5% Other operating expenses (rule 5(2)(f)) 10.5% [S.L.123.82 (RESEARCH AND DEVELOPMENT)
-
-**TABLE D**
-
-*18*
+application for EU funds (rule 5(3)) 12.25% Additional overheads (rule 5(2)(e)) 10.5% Other operating expenses (rule 5(2)(f)) 10.5% TABLE D
 
 **Rule 11(3)(b)**
 
@@ -654,10 +582,6 @@ Threshold of tax credit in respect of allowable wages and tuition expenditure in
 Type of R&D relevant academic qualification Value not to exceed the following percentage of the total expenditure General academic qualification 80%
 
 Specific academic qualification 45%
-
-*19*
-
-(RESEARCH AND DEVELOPMENT) [S.L.123.82
 
 TABLE H
 

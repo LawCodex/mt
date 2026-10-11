@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Tax Credit (Malta International Airport plc) (COVID-19 Damage Compensation) Rules (S.L. 123.206)
 
-*1*
-
-(COVID-19 DAMAGE COMPENSATION) [S.L. 123.206 SUBSIDIARY LEGISLATION 123.206
+**SUBSIDIARY LEGISLATION 123.206**
 
 **TAX CREDIT (MALTA INTERNATIONAL AIRPORT**
 
@@ -54,11 +52,7 @@ A tax credit shall be allowed to the company in accordance with these rules in a
 
 (ii) any damages for which the company was responsible or which was attributable to the failure on the part of the company to conduct its activities with due diligence and in compliance of applicable legislation or to its failure to take measures to mitigate it;
 
-(iii) any grant, compensation, relief or other form of aid paid to the company by or on behalf of the [S.L. 123.206 (COVID-19 DAMAGE COMPENSATION)
-
-Government or a government agency in consideration of the said damage to the extent that it is not already compensated in the calculation of the eligible costs for damage compensation; and
-
-*2*
+(iii) any grant, compensation, relief or other form of aid paid to the company by or on behalf of the Government or a government agency in consideration of the said damage to the extent that it is not already compensated in the calculation of the eligible costs for damage compensation; and
 
 (b) twelve million euro (€12,000,000).
 

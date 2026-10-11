@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Pharmacy (Honours) - B. Pharm. (Hons) - under the Auspices of the Faculty of Medicine and Surgery (S.L. 327.253)
 
-B. PHARM. (HONS) - UNDER THE AUSPICES OF THE
-
-*1*
-
-FACULTY OF MEDICINE AND SURGERY [S.L.327.253
-
 **SUBSIDIARY LEGISLATION 327.253**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF PHARMACY (HONOURS) - B. PHARM. (HONS) -
@@ -72,10 +66,6 @@ The course shall extend over a period of five years of full-time study.
 The programme of studies for the course shall be published in accordance with the provisions of the principal regulations, after approval by Senate, and shall include:
 
 (a) theoretical and practical training in the following subjects:
-
-*2*
-
-B. PHARM. (HONS) - UNDER THE AUSPICES OF THE [S.L.327.253 FACULTY OF MEDICINE AND SURGERY
 
 • Plant and animal biology;
 

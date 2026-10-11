@@ -1,6 +1,6 @@
 ---
 title: "Designation of Places as Hospital Order"
-identifier: "S.L. 262.4"
+identifier: "S.L. 262.04"
 eli: "https://legislation.mt/eli/sl/262.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/262.4/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Designation of Places as Hospital Order (S.L. 262.4)
+# Designation of Places as Hospital Order (S.L. 262.04)
 
 **SUBSIDIARY LEGISLATION 262.04**
 

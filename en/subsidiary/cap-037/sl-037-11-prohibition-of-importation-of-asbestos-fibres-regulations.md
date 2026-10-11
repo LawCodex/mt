@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Prohibition of Importation of Asbestos Fibres Regulations (S.L. 37.11)
 
-PROHIBITION OF IMPORTATION OF
-
-*1*
-
-ASBESTOS FIBRES [S.L.37.11
-
 SUBSIDIARY LEGISLATION 37.11
 
 PROHIBITION OF IMPORTATION OF

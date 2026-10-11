@@ -1,6 +1,6 @@
 ---
 title: "Manoel Island/Tigne Point Development (Designated Special Area) Order"
-identifier: "S.L. 246.7"
+identifier: "S.L. 246.07"
 eli: "https://legislation.mt/eli/sl/246.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/246.7/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Manoel Island/Tigne Point Development (Designated Special Area) Order (S.L. 246.7)
-
-*1*
-
-(DESIGNATED SPECIAL AREA) [S.L.246.07
+# Manoel Island/Tigne Point Development (Designated Special Area) Order (S.L. 246.07)
 
 **SUBSIDIARY LEGISLATION 246.07**
 
@@ -53,11 +49,7 @@ Provided that the interest or shares in any such entity may be held and register
 
 *Cap. 364.*
 
-(3) For the purposes of a permit as is referred to in subarticle (2), an application shall be made on behalf of the person to whom such transfer is intended to be made, giving such details or other documentation relative to such person as apply in respect of the [S.L.246.07 (DESIGNATED SPECIAL AREA)
-
-original shareholders as prescribed under this Order. Such permit shall only be granted upon the payment of the fee referred to in article 7.
-
-*2*
+(3) For the purposes of a permit as is referred to in subarticle (2), an application shall be made on behalf of the person to whom such transfer is intended to be made, giving such details or other documentation relative to such person as apply in respect of the original shareholders as prescribed under this Order. Such permit shall only be granted upon the payment of the fee referred to in article 7.
 
 ### 4. Immovable property to which Order applies.
 
@@ -84,8 +76,6 @@ original shareholders as prescribed under this Order. Such permit shall only be 
 *Amended by: L.N. 411 of 2007.*
 
 The fees payable under this order shall be €232.94 for each unit acquired by a non-resident referred to in article 3(1).
-
-(DESIGNATED SPECIAL AREA) [S.L.246.07 3
 
 ## SCHEDULE
 
@@ -125,11 +115,7 @@ B. Particulars of immovable property to be acquired by non-residents.
 
 \5. Purpose for which the immovable property is to be acquired:
 
-..................................................................................................................... 4 [S.L.246.07 (DESIGNATED SPECIAL AREA)
-
-### 6.
-
-Source of funds for acquisition of immovable property:
+..................................................................................................................... 6. Source of funds for acquisition of immovable property:
 
 ..................................................................................................................... 7. Any other particulars:
 
@@ -165,17 +151,13 @@ INDIVIDUAL TO ACQUIRE IMMOVABLE PROPERTY IN MALTA IN TERMS OF THE IMMOVABLE PROP
 
 A. Particulars of applicant:
 
-\1. Name and surname: ...................................................................................... 2. Place and Date of Birth: ................................................................................ 3. Parents’ names: ............................................................................................ 4. Profession or trade: ....................................................................................... 5. Citizenship: .................................................................................................. 6. Place of residence: ........................................................................................ 7. Ordinary place of residence if different from above: ...................................... .....................................................................................................................
-
-(DESIGNATED SPECIAL AREA) [S.L.246.07 5
-
-*B.*
-
-Particulars of immovable property to be acquired by non-resident:
+\1. Name and surname: ...................................................................................... 2. Place and Date of Birth: ................................................................................ 3. Parents’ names: ............................................................................................ 4. Profession or trade: ....................................................................................... 5. Citizenship: .................................................................................................. 6. Place of residence: ........................................................................................ 7. Ordinary place of residence if different from above: ...................................... ..................................................................................................................... Particulars of immovable property to be acquired by non-resident:
 
 *\1.*
 
 Detailed description of immovable property (i) type of property, the locality, boundaries (where necessary) and other particulars needed to identify it and (ii) size of the property giving overall area of land in square metres, details of buildings, and all other appurtenances, (iii) whether or not property is of historical importance or situated in a historical area:
+
+*B.*
 
 ..................................................................................................................... ..................................................................................................................... ..................................................................................................................... ..................................................................................................................... Price or other consideration being paid: ........................................................ If for development, details of cost of works and estimated period for completion of same: ..................................................................................... Under what title is the immovable property is to be acquired:
 
@@ -223,9 +205,7 @@ Details of any immovable property in Malta already owned or held under any title
 
 *\3.*
 
-..................................................................................................................... ..................................................................................................................... 6 [S.L.246.07 (DESIGNATED SPECIAL AREA)
-
-I hereby declare that the particulars are true and correct.
+..................................................................................................................... ..................................................................................................................... I hereby declare that the particulars are true and correct.
 
 ................................. .............................................
 

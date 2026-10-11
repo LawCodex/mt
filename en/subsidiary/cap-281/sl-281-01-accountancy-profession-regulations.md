@@ -1,6 +1,6 @@
 ---
 title: "Accountancy Profession Regulations"
-identifier: "S.L. 281.1"
+identifier: "S.L. 281.01"
 eli: "https://legislation.mt/eli/sl/281.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/281.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Accountancy Profession Regulations (S.L. 281.1)
+# Accountancy Profession Regulations (S.L. 281.01)
 
 **SUBSIDIARY LEGISLATION 281.01**
 

@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Postal Services Appeals Board (Rules of Procedure) Regulations (S.L. 254.12)
 
-POSTAL SERVICES APPEALS BOARD
-
-*1*
-
-(RULES OF PROCEDURE) [S.L.254.12
-
 SUBSIDIARY LEGISLATION 254.12
 
 POSTAL SERVICES APPEALS BOARD

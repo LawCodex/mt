@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws in terms of the General Regulations for University Postgraduate Awards, for the degree of Master of Science in Maritime Engineering - M.Sc. - offered under the auspices of the Faculty of Engineering (S.L. 327.572)
 
-AWARDS, FOR THE DEGREE OF MASTER OF SCIENCE
-
-IN MARITIME ENGINEERING - M.SC. - UNDER THE
-
-*1*
-
-AUSPICES OF THE FACULTY OF ENGINEERING [S.L. 327.572
-
 **SUBSIDIARY LEGISLATION 327.572**
 
 **BYE-LAWS IN TERMS OF THE GENERAL**
@@ -67,10 +59,6 @@ These bye-laws shall be applicable for courses commencing in October 2017 or lat
 
 (b) the degree of Bachelor of Science (Honours) from this University, or from any other higher education institution recognized by Senate, in an area of study deemed relevant by the Board and obtained with at least Second Class Honours; or
 
-AWARDS, FOR THE DEGREE OF MASTER OF SCIENCE IN MARITIME ENGINEERING - M.SC. - UNDER THE [S.L. 327.572 AUSPICES OF THE FACULTY OF ENGINEERING
-
-*2*
-
 (c) any other Honours degree in a relevant area which the Board deems comparable to the qualifications indicated in paragraphs (a) or (b) of this bye-law.
 
 (2) In exceptional cases the Admissions Board, on the recommendation of the Board, may admit into the Course applicants not in possession of a qualification listed in paragraph (1) of this bye-law, provided that it is satisfied that such applicants are in possession of other relevant academic or professional qualifications and experience that together are deemed to be comparable to the level of a first degree. The admission of applicants under this bye-law may be made conditional on the results of an interview conducted by an interviewing board appointed for the purpose.
@@ -98,14 +86,6 @@ The Course shall extend over three years (six semesters) of part-time study.
 (2) Students who in any academic year fail in the assessment of not more than 10 ECTS credits shall be given the opportunity to re-sit the failed assessments during the September supplementary examination session.
 
 (3) Students who fail in more than the number of credits permitted under paragraph (2) of this bye-law or students who after re-assessment fail to obtain credit for any study-unit shall be deemed to have failed the Course.
-
-AWARDS, FOR THE DEGREE OF MASTER OF SCIENCE
-
-IN MARITIME ENGINEERING - M.SC. - UNDER THE
-
-*3*
-
-AUSPICES OF THE FACULTY OF ENGINEERING [S.L. 327.572
 
 ## 7. Dissertation
 

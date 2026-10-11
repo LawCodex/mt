@@ -1,6 +1,6 @@
 ---
 title: "Offshore Safety (Oil and Gas) Regulations"
-identifier: "S.L. 156.2"
+identifier: "S.L. 156.02"
 eli: "https://legislation.mt/eli/sl/156.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/156.2/20221206/eng"
 retrieved: 2026-10-12
 ---
 
-# Offshore Safety (Oil and Gas) Regulations (S.L. 156.2)
+# Offshore Safety (Oil and Gas) Regulations (S.L. 156.02)
 
 **SUBSIDIARY LEGISLATION 156.02**
 

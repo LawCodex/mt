@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in European Integration Studies - M.A. - under the auspices of the Institute for European Studies (S.L. 327.509)
 
-INTEGRATION STUDIES - M.A. - UNDER THE AUSPICES
-
-*1*
-
-OF THE INSTITUTE FOR EUROPEAN STUDIES [S.L.327.509
-
 **SUBSIDIARY LEGISLATION 327.509**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -63,11 +57,7 @@ These bye-laws shall be applicable for courses commencing in February 2015 or la
 
 (4) The interviewing board appointed by the Board shall be composed of at least three members. It shall be chaired by the Director or his/her delegate.
 
-(5) When the number of places is limited and the number of eligible applicants exceeds the number of places available, INTEGRATION STUDIES - M.A. - UNDER THE AUSPICES [S.L.327.509 OF THE INSTITUTE FOR EUROPEAN STUDIES
-
-applicants shall be selected using the following criteria, the weighting of which shall be published at the time of the call for applications:
-
-*2*
+(5) When the number of places is limited and the number of eligible applicants exceeds the number of places available, applicants shall be selected using the following criteria, the weighting of which shall be published at the time of the call for applications:
 
 (a) degree type and class;
 
@@ -109,11 +99,7 @@ The programme of study shall be published by the Board after approval by Senate,
 
 (2) Work on the dissertation may be undertaken at any time during the course after approval of the research proposal. Each student shall be assigned a supervisor by the Board who shall provide guidance and advice on a regular basis during the period of study.
 
-INTEGRATION STUDIES - M.A. - UNDER THE AUSPICES
-
-*3*
-
-OF THE INSTITUTE FOR EUROPEAN STUDIES [S.L.327.509 (3) A provisional title for the dissertation and a detailed research proposal shall be submitted to the Board for approval concurrently with the application. The research proposal must be endorsed by a member of the academic staff of the Institute who has guided the student in its preparation.
+(3) A provisional title for the dissertation and a detailed research proposal shall be submitted to the Board for approval concurrently with the application. The research proposal must be endorsed by a member of the academic staff of the Institute who has guided the student in its preparation.
 
 ## 10. Panel of Supervision.
 

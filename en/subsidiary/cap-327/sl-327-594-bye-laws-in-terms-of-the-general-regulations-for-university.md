@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws in terms of the General Regulations for University Postgraduate Awards, 2008 for the degree of Master of Arts (Research on Islands and Small States) - M.A. - under the auspices of the Islands and Small States Institute (S.L. 327.594)
 
-*1*
-
-(RESEARCH ON ISLANDS AND SMALL STATES) - M.A [S.L. 327.594 SUBSIDIARY LEGISLATION 327.594
+**SUBSIDIARY LEGISLATION 327.594**
 
 **BYE-LAWS IN TERMS OF THE**
 
@@ -53,11 +51,7 @@ Subject to the availability of resources, the Course shall be offered in any are
 
 ## 4. Requirements for Admission.
 
-(1) The Course shall be open to applicants in possession of a first cycle degree obtained with at least Second Class (Honours) or Category II in an area of study which the Board of [S.L. 327.594 (RESEARCH ON ISLANDS AND SMALL STATES) - M.A
-
-Studies deems to be relevant to the proposed area of study for the dissertation:
-
-*2*
+(1) The Course shall be open to applicants in possession of a first cycle degree obtained with at least Second Class (Honours) or Category II in an area of study which the Board of Studies deems to be relevant to the proposed area of study for the dissertation:
 
 provided that applicants in possession of a degree with Third Class (Honours) shall satisfy the Board of Studies that they are in possession of other qualifications, including relevant experience obtained following the first cycle degree.
 
@@ -87,13 +81,11 @@ The Course shall extend over three semesters of full-time study or the equivalen
 
 (2) Work on the dissertation may be undertaken at any time during the Course after approval of the research proposal. Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
 
-(3) A provisional title for the dissertation and a provisional research proposal of approximately 300 words shall be submitted at (RESEARCH ON ISLANDS AND SMALL STATES) - M.A [S.L. 327.594 the time of application. The title for the dissertation and a detailed research proposal outlining the proposed project and the main questions to be addressed shall be submitted to the Board of Studies for approval by not later than the end of the first semester.
+(3) A provisional title for the dissertation and a provisional research proposal of approximately 300 words shall be submitted at the time of application. The title for the dissertation and a detailed research proposal outlining the proposed project and the main questions to be addressed shall be submitted to the Board of Studies for approval by not later than the end of the first semester.
 
 ## 9.
 
 (1) Students shall be required to report to their supervisors at least once every two months, and, in addition, as often as the supervisors deem necessary.
-
-*3*
 
 (2) At the end of each semester of study, supervisors shall be required to submit to the Board of Studies reports for the students under their supervision. Students shall seek approval from the Board of Studies for any substantial modification in the title or content of the dissertation.
 

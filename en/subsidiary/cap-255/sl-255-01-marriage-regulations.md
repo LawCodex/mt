@@ -1,6 +1,6 @@
 ---
 title: "Marriage Regulations"
-identifier: "S.L. 255.1"
+identifier: "S.L. 255.01"
 eli: "https://legislation.mt/eli/sl/255.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/255.1/20210208/eng"
 retrieved: 2026-10-12
 ---
 
-# Marriage Regulations (S.L. 255.1)
+# Marriage Regulations (S.L. 255.01)
 
 **SUBSIDIARY LEGISLATION 255.01**
 

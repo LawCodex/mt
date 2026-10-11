@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Cooperation with Other Jurisdictions on Tax Matters Regulations (S.L. 123.127)
 
-*1*
-
-ON TAX MATTERS [S.L.123.127
-
 **SUBSIDIARY LEGISLATION 123.127**
 
 COOPERATION WITH OTHER JURISDICTION ON
@@ -50,11 +46,7 @@ In these regulations, unless the context otherwise requires - "arrangement" incl
 
 (a) in the case of an entity, the beneficial owner shall consist of any natural person or persons who ultimately own or control that entity through direct or indirect ownership of twenty-five per centum (25%) plus one (1) or more of the shares or more than twenty-five per centum (25%) of the voting rights or an ownership interest of more than twenty-five per centum (25%) in that, including through bearer share holdings, or through control via other means, other than a company that is listed on a regulated market which is subject to disclosure requirements consistent with European Union law or equivalent international standards which ensure adequate transparency of ownership information:
 
-Provided that a shareholding of twenty-five per centum (25%) plus one (1) share or more, or the holding of an ownership interest or voting rights of more than twenty-five per centum (25%) [S.L.123.127 ON TAX MATTERS
-
-in the customer shall be an indication of direct ownership when held directly by a natural person, and of indirect ownership when held by one or more body corporates or body of persons or through a trust or a similar legal arrangement, or a combination thereof:
-
-*2*
+Provided that a shareholding of twenty-five per centum (25%) plus one (1) share or more, or the holding of an ownership interest or voting rights of more than twenty-five per centum (25%) in the customer shall be an indication of direct ownership when held directly by a natural person, and of indirect ownership when held by one or more body corporates or body of persons or through a trust or a similar legal arrangement, or a combination thereof:
 
 Provided further that if, after having exhausted all possible means and provided there are no grounds of suspicion, no beneficial owner in terms of this paragraph has been identified, the beneficial owner shall be the natural person or persons who hold the position of senior managing official or officials, and record of the actions taken and any difficulties encountered to determine who the beneficial owner is in terms of this paragraph shall be kept.
 
@@ -86,11 +78,7 @@ Provided further that if, after having exhausted all possible means and provided
 
 (d) is a property company or a property partnership; or (e) is required to be registered, to be licensed or otherwise authorised in order to conduct business in Malta;
 
-"EU Administrative Cooperation Directive" means Council Directive 2011/16/EU of 15 February 2011 on administrative cooperation in the field of taxation and repealing Directive 77/799/ EEC as amended by Council Directive 2014/107/EU, and Council Directives (EU) 2015/2376, 2016/881, 2018/822, 2020/876, 2021/514, ON TAX MATTERS [S.L.123.127
-
-2023/2226 and 2025/872;
-
-*3*
+"EU Administrative Cooperation Directive" means Council Directive 2011/16/EU of 15 February 2011 on administrative cooperation in the field of taxation and repealing Directive 77/799/ EEC as amended by Council Directive 2014/107/EU, and Council Directives (EU) 2015/2376, 2016/881, 2018/822, 2020/876, 2021/514, 2023/2226 and 2025/872;
 
 "express trust" means a trust created voluntarily and intentionally, either orally or in writing -
 
@@ -112,11 +100,7 @@ Provided further that if, after having exhausted all possible means and provided
 
 "public collective investment scheme" means any collective investment scheme provided the units, shares or other interests in the scheme can be readily purchased, sold or redeemed by the public. Units, shares or other interests in the scheme can be readily purchased, sold or redeemed "by the public" if the purchase, sale or redemption is not implicitly or explicitly restricted to a limited group of investors;
 
-"publicly traded company" means any company whose principal class of shares is listed on a stock exchange in Malta provided its listed shares can be readily purchased or sold by the public. Shares can be purchased or sold "by the public" if the purchase or sale of [S.L.123.127 ON TAX MATTERS
-
-shares is not implicitly or explicitly restricted to a limited group of investors. For the purpose of this definition "principal class of shares" means the class or classes of shares representing a majority of the voting power and value of the company;
-
-*4*
+"publicly traded company" means any company whose principal class of shares is listed on a stock exchange in Malta provided its listed shares can be readily purchased or sold by the public. Shares can be purchased or sold "by the public" if the purchase or sale of shares is not implicitly or explicitly restricted to a limited group of investors. For the purpose of this definition "principal class of shares" means the class or classes of shares representing a majority of the voting power and value of the company;
 
 "requesting authority" means the competent authority of a jurisdiction with which Malta has an arrangement that is in place;
 
@@ -156,11 +140,7 @@ These regulations shall apply in order to ensure the effective cooperation with 
 
 (3) For the purposes of these regulations -
 
-(a) where in any instance within an ownership chain, the ON TAX MATTERS [S.L.123.127
-
-legal owner acts on behalf of any other person as a trustee, fiduciary (including nominee) or under a similar arrangement, such a legal owner shall have the obligation to keep the information that identifies such other person;
-
-*5*
+(a) where in any instance within an ownership chain, the legal owner acts on behalf of any other person as a trustee, fiduciary (including nominee) or under a similar arrangement, such a legal owner shall have the obligation to keep the information that identifies such other person;
 
 *Cap. 386.*
 
@@ -192,10 +172,6 @@ Information that identifies a person includes -
 
 (ii) date of inception or incorporation; and
 
-*6*
-
-[S.L.123.127 ON TAX MATTERS
-
 (iii) registered address.
 
 (6) Information that identifies a person is to be kept in Malta. However, such records may be kept in a jurisdiction with which Malta has an arrangement, that would permit exchange of ownership information.
@@ -222,29 +198,21 @@ Information that identifies a person includes -
 
 *Cap. 386. Cap. 442.*
 
-(10) Accounting records are to be kept in Malta. However, such records may be kept in a jurisdiction with which Malta has an
+(10) Accounting records are to be kept in Malta. However, such records may be kept in a jurisdiction with which Malta has an arrangement that would permit exchange of information of such records.
 
-arrangement that would permit exchange of information of such  
-records.  
-Availability of  (11) Banks that are considered to be entities for the purposes of  
-banking  
-these regulations are to ensure that banking information is kept on  
-information.  
-Amended by:  all account-holders in relation to their banking activity in Malta.  
-L.N. 213 of 2021.  For the purposes of these regulations, "banking information"  
-includes:  
-(a) information that identifies the legal owners of the  
-accounts;  
-(b) information that identifies the beneficial owners of the  
-accounts; and  
-(c) all records pertaining to the accounts and to related  
-financial transactional information.
+*Availability of banking information. Amended by: L.N. 213 of 2021.*
 
-*7*
+(11) Banks that are considered to be entities for the purposes of these regulations are to ensure that banking information is kept on all account-holders in relation to their banking activity in Malta. For the purposes of these regulations, "banking information" includes:
 
-ON TAX MATTERS [S.L.123.127 (12) The information that is required to be kept in accordance with this regulation shall be kept in such a way that it may be submitted without difficulty to the Commissioner following a request made pursuant to the provisions of article 10A of the Income Tax Management Act. Where, following representations made by the requested person, the Commissioner is satisfied that for reasons that are beyond the control of such requested person, information cannot be submitted within the time limit specified in the original request made by the Commissioner to such requested person, the Commissioner shall consider allowing such other time limit as may be reasonable for the particular case. In such cases, the provisions of regulation 6(1) and (2) shall apply taking into consideration such other time limit that is determined by the Commissioner.
+(a) information that identifies the legal owners of the accounts;
+
+(b) information that identifies the beneficial owners of the accounts; and
+
+(c) all records pertaining to the accounts and to related financial transactional information.
 
 *Prompt transmission of information.*
+
+(12) The information that is required to be kept in accordance with this regulation shall be kept in such a way that it may be submitted without difficulty to the Commissioner following a request made pursuant to the provisions of article 10A of the Income Tax Management Act. Where, following representations made by the requested person, the Commissioner is satisfied that for reasons that are beyond the control of such requested person, information cannot be submitted within the time limit specified in the original request made by the Commissioner to such requested person, the Commissioner shall consider allowing such other time limit as may be reasonable for the particular case. In such cases, the provisions of regulation 6(1) and (2) shall apply taking into consideration such other time limit that is determined by the Commissioner.
 
 *Cap. 372.*
 
@@ -268,11 +236,7 @@ Provided that where the Commissioner is satisfied that the default in respect of
 
 *Amended by: L.N. 344 of 2017; L.N. 342 of 2019; L.N. 18 of 2025; L.N. 162 of 2026.*
 
-(1) The provisions of article 10A of the Income Tax Management Act shall be interpreted to give the widest possible powers in order to obtain and provide information to competent authorities of jurisdictions with which Malta has an arrangement. Thus, irrespective of any legal obligation that may be imposed on a person to maintain secrecy of information, the said provisions shall [S.L.123.127 ON TAX MATTERS
-
-be construed to mean, inter alia, that the Commissioner has the power to obtain and provide information referred to in regulation 4 that is held by or is in the possession or control of person in Malta, including any -
-
-*8*
+(1) The provisions of article 10A of the Income Tax Management Act shall be interpreted to give the widest possible powers in order to obtain and provide information to competent authorities of jurisdictions with which Malta has an arrangement. Thus, irrespective of any legal obligation that may be imposed on a person to maintain secrecy of information, the said provisions shall be construed to mean, inter alia, that the Commissioner has the power to obtain and provide information referred to in regulation 4 that is held by or is in the possession or control of person in Malta, including any -
 
 (a) bank and other financial institution;
 
@@ -300,9 +264,7 @@ Provided that no person may be requested to provide information which is the sub
 
 (5) For the purposes of these regulations "administrative enquiry" means those controls, checks and other actions used by the Commissioner in the performance of his duties when ensuring that the Income Tax Acts have been properly applied.
 
-*9*
-
-ON TAX MATTERS [S.L.123.127 (6) In order for the Commissioner to access information, notice shall be served on a person either personally or by being sent by registered post to the last known business or private address, or through electronic communication as prescribed through guidelines published on the website of the Commissioner for Revenue under the provisions of article 96(2) of the Income Tax Act.
+(6) In order for the Commissioner to access information, notice shall be served on a person either personally or by being sent by registered post to the last known business or private address, or through electronic communication as prescribed through guidelines published on the website of the Commissioner for Revenue under the provisions of article 96(2) of the Income Tax Act.
 
 *Cap. 123.*
 
@@ -336,11 +298,7 @@ Provided that the penalty under this paragraph shall not exceed in total ninetee
 
 (c) the information submitted by the requested party is found to be incorrect in such a way that it is misleading, deceitful or false,
 
-the requested party shall be guilty of an offence and shall on conviction be liable to a fine (multa) of not less than five thousand [S.L.123.127 ON TAX MATTERS
-
-euro (€5,000) and not more than thirty thousand euro (€30,000), or to imprisonment for a period of not exceeding two years, or to both such fine (multa) and imprisonment.
-
-*10*
+the requested party shall be guilty of an offence and shall on conviction be liable to a fine (multa) of not less than five thousand euro (€5,000) and not more than thirty thousand euro (€30,000), or to imprisonment for a period of not exceeding two years, or to both such fine (multa) and imprisonment.
 
 (4) Where any person from whom the Commissioner has requested information in accordance with these regulations or article 10A of the Income Tax Management Act, discloses to the person concerned or to a third party the fact that information has been requested by the Commissioner or that information has been or may be transmitted to the Commissioner, such person shall be guilty of an offence and shall be liable on conviction to a fine (multa) not exceeding one hundred and fifteen thousand euro (€115,000) or to imprisonment for a term not exceeding two (2) years or to both such fine and imprisonment.
 
@@ -370,11 +328,7 @@ The competent authority in Malta shall be the Minister responsible for finance o
 
 (1) The competent authority in Malta shall confirm receipt of a request for information not later than seven working days from the receipt of such a request.
 
-(2) The competent authority in Malta shall, within one week of receipt of a request for information, notify the requesting authority of any deficiencies in the request and of the need for any additional ON TAX MATTERS [S.L.123.127
-
-background information. In such a case, the time limits provided for in sub-regulation (3) shall start from the day after the competent authority in Malta receives such additional information.
-
-*11*
+(2) The competent authority in Malta shall, within one week of receipt of a request for information, notify the requesting authority of any deficiencies in the request and of the need for any additional background information. In such a case, the time limits provided for in sub-regulation (3) shall start from the day after the competent authority in Malta receives such additional information.
 
 (3) Unless otherwise agreed to between the two (2) relevant competent authorities, the competent authority in Malta shall provide the requesting authority with the requested information as soon as practicable, and not later than three (3) months from the date of receipt of the request:
 
@@ -400,11 +354,7 @@ Provided further that where the competent authority in Malta is unable to provid
 
 (b) it is not satisfied that the jurisdiction of the requesting authority has sufficiently adequate safeguards in place to ensure that the information obtained is treated as confidential and that such information may only be disclosed to persons or authorities as provided for in the relevant arrangement;
 
-(c) the provision of information would likely lead to the disclosure of a commercial, industrial or professional [S.L.123.127 ON TAX MATTERS
-
-secret or of a commercial process, or of information whose disclosure would be contrary to public policy.
-
-*12*
+(c) the provision of information would likely lead to the disclosure of a commercial, industrial or professional secret or of a commercial process, or of information whose disclosure would be contrary to public policy.
 
 ### 11. Implementation of Council Directive 2011/16/EU.
 
@@ -440,10 +390,6 @@ secret or of a commercial process, or of information whose disclosure would be c
 
 (a) "electronic means" means using electronic equipment for the processing, including digital compression, and storage of data, and employing wires, radio transmission, optical technologies or other electromagnetic means; and
 
-*13*
-
-ON TAX MATTERS [S.L.123.127
-
 (b) "CCN network" means the common platform based on the common communication network developed by the European Union for all transmissions by electronic means between competent authorities in the area of customs and taxation.
 
 (4) When the competent authority in an EU Member State forwards information to the competent authority in Malta and also requests feedback on such information, the competent authority in Malta shall, without prejudice to the rules on tax secrecy and data protection applicable in Malta, send feedback to the competent authority which provided the information as soon as possible and no later than three months after the outcome of the use of the requested information is known. Such feedback shall be given in line with the practical arrangements made by the EU Commission in accordance with the procedure referred to in Article 26(2) of the EU Administrative Cooperation Directive.
@@ -465,10 +411,6 @@ ON TAX MATTERS [S.L.123.127
 (4) (a) For the purposes of a request referred to in sub-regulation (1), the requested information is foreseeably relevant where, at the time that the request is made, the requesting authority considers that, in accordance with its national law, there is a reasonable possibility that the requested information shall be relevant to the tax affairs of one (1) or several taxpayers, whether identified by name or otherwise, and be justified for the purposes of the investigation.
 
 (b) With the aim to demonstrate the foreseeable relevance of the requested information, the requesting authority shall provide at least the following information to the competent authority in Malta:
-
-*14*
-
-[S.L.123.127 ON TAX MATTERS
 
 (i) the tax purpose for which the information is sought; and
 
@@ -506,11 +448,9 @@ ON TAX MATTERS [S.L.123.127
 
 *S.L. 123.74.*
 
-*15*
-
-ON TAX MATTERS [S.L.123.127 (2) Reporting Malta Financial Institutions shall perform the reporting and due diligence rules included in Annexes I and II. In accordance with such applicable reporting and due diligence rules, the competent authority in Malta shall, by automatic exchange, communicate to the competent authority of any other Member State, the following information regarding taxable periods as from 1 January 2016 concerning a Reportable Account of residents in such other Member State:
-
 *Automatic exchange of financial account information.*
+
+(2) Reporting Malta Financial Institutions shall perform the reporting and due diligence rules included in Annexes I and II. In accordance with such applicable reporting and due diligence rules, the competent authority in Malta shall, by automatic exchange, communicate to the competent authority of any other Member State, the following information regarding taxable periods as from 1 January 2016 concerning a Reportable Account of residents in such other Member State:
 
 (a) the name, address, TINs and date and place of birth, in the case of an individual, of each Reportable Person that is an Account Holder of the account and, in the case of any Entity that is an Account Holder and that, after application of due diligence rules consistent with the Annexes I and II, is identified as having one (1) or more Controlling Persons that are Reportable Persons, the name, address, and TINs of the Entity and the name, address, TINs and date and place of birth of each Reportable Person;
 
@@ -528,11 +468,7 @@ ON TAX MATTERS [S.L.123.127 (2) Reporting Malta Financial Institutions shall per
 
 (f) in the case of any Depository Account, the total gross amount of interest paid or credited to the account during the calendar year or other appropriate reporting period;
 
-(g) in the case of any account not described in paragraphs (e) or (f), the total gross amount paid or credited to the Account Holder with respect to the account during the calendar year or other appropriate reporting period ON TAX MATTERS
-
-with respect to which the Reporting Financial Institution is the obligor or debtor, including the aggregate amount of any redemption payments made to the Account Holder during the calendar year or other appropriate reporting period;
-
-*[S.L.123.127 16*
+(g) in the case of any account not described in paragraphs (e) or (f), the total gross amount paid or credited to the Account Holder with respect to the account during the calendar year or other appropriate reporting period with respect to which the Reporting Financial Institution is the obligor or debtor, including the aggregate amount of any redemption payments made to the Account Holder during the calendar year or other appropriate reporting period;
 
 (h) whether a valid self-certification has been provided for each Account Holder;
 
@@ -556,11 +492,7 @@ Provided further, the first paragraph of this sub-regulation shall prevail over 
 
 (b) The competent authority in Malta shall also communicate information to the competent authorities of all other EU Member States as well as to the European Commission, with the limitation of cases set out in the proviso to paragraph (e), on advance cross-border rulings and advance pricing arrangements issued, amended or renewed within a period beginning five years before 1 January 2017:
 
-Provided that if advance cross-border rulings and advance pricing arrangements are issued, amended or ON TAX MATTERS [S.L.123.127
-
-renewed between 1 January 2012 and 31 December 2013, such communication shall take place under the condition that they were still valid on 1 January 2014:
-
-*17*
+Provided that if advance cross-border rulings and advance pricing arrangements are issued, amended or renewed between 1 January 2012 and 31 December 2013, such communication shall take place under the condition that they were still valid on 1 January 2014:
 
 Provided further that if advance cross-border rulings and advance pricing arrangements are issued, amended or renewed between 1 January 2014 and 31 December 2016, such communication shall take place irrespective of whether they are still valid:
 
@@ -574,11 +506,7 @@ Provided that where the bilateral or multilateral advance pricing arrangements w
 
 Provided that where such an advance cross-border ruling was issued, amended or renewed after 1 January 2026 and where:
 
-(A) the amount of the transaction or series of transactions of the advance cross-border ruling exceeds one million and five hundred thousand ON TAX MATTERS
-
-euro (€1,500,000) or the equivalent amount in any other currency if such amount is referred to in the advance cross-border ruling; or
-
-*[S.L.123.127 18*
+(A) the amount of the transaction or series of transactions of the advance cross-border ruling exceeds one million and five hundred thousand euro (€1,500,000) or the equivalent amount in any other currency if such amount is referred to in the advance cross-border ruling; or
 
 (B) the advance cross-border ruling determines whether a person is resident for tax purposes in Malta or otherwise;
 
@@ -598,11 +526,7 @@ euro (€1,500,000) or the equivalent amount in any other currency if such amoun
 
 (v) the end date of the period of validity of the advance cross-border ruling or advance pricing arrangement, if specified;
 
-(vi) the type of the advance cross-border ruling or ON TAX MATTERS [S.L.123.127
-
-advance pricing arrangement;
-
-*19*
+(vi) the type of the advance cross-border ruling or advance pricing arrangement;
 
 (vii) the amount of the transaction or series of transactions of the advance cross-border ruling or advance pricing arrangement if such amount is referred to in the advance cross-border ruling or advance pricing arrangement;
 
@@ -626,11 +550,7 @@ Provided that information as defined under sub-paragraphs (i), (ii), (viii) and 
 
 (a) The Ultimate Parent Entity of an MNE Group that is resident for tax purposes in Malta, or any other Reporting Entity in accordance with Section II of Annex III, shall file with the Commissioner for Revenue a country-by-country report with respect to its Reporting Fiscal Year in accordance with Section II of Annex III.
 
-(b) The competent authority in Malta shall, by means of [S.L.123.127 ON TAX MATTERS
-
-automatic exchange, communicate the report received pursuant to paragraph (a) to any other EU Member State in which, on the basis of the information in the country-by-country report, one or more Constituent Entities of the MNE Group of the Reporting Entity are either resident for tax purposes, or are subject to tax with respect to the business carried out through a permanent establishment within the time limit laid down in sub-regulation (8)(d). Such information shall be exchanged by electronic means using the CCN network.
-
-*20*
+(b) The competent authority in Malta shall, by means of automatic exchange, communicate the report received pursuant to paragraph (a) to any other EU Member State in which, on the basis of the information in the country-by-country report, one or more Constituent Entities of the MNE Group of the Reporting Entity are either resident for tax purposes, or are subject to tax with respect to the business carried out through a permanent establishment within the time limit laid down in sub-regulation (8)(d). Such information shall be exchanged by electronic means using the CCN network.
 
 (c) The country-by-country report shall contain the following information with respect to the MNE Group:
 
@@ -658,10 +578,6 @@ automatic exchange, communicate the report received pursuant to paragraph (a) to
 
 whichever occurs first:
 
-*21*
-
-ON TAX MATTERS [S.L.123.127
-
 Provided that intermediaries referred to in paragraph (b) of the definition "intermediary" shall also be required to file information within thirty (30) days beginning on the day after they provided, directly or by means of other persons, aid, assistance or advice.
 
 (b) In the case of marketable arrangements, a periodic report shall be made by the intermediary every three (3) months, providing an update which contains new reportable information as referred to in sub-paragraphs (i), (iv), (vii) and (viii) of paragraph (o) that has become available since the last report was filed.
@@ -680,15 +596,11 @@ Provided that intermediaries referred to in paragraph (b) of the definition "int
 
 Provided that the proof may be in such form as the Commissioner may determine.
 
-(e) An intermediary whose profession is referred to in article 3 of the Professional Secrecy Act has the right to a waiver from filing information on a reportable cross-border arrangement where the reporting of such information would constitute an offence under article 257 of the Criminal Code. In such circumstances, the intermediary must notify, without delay and in any event no later than seven working days from the relevant date established by paragraph (a), any other intermediary or, if there is no such intermediary, the ON TAX MATTERS
+(e) An intermediary whose profession is referred to in article 3 of the Professional Secrecy Act has the right to a waiver from filing information on a reportable cross-border arrangement where the reporting of such information would constitute an offence under article 257 of the Criminal Code. In such circumstances, the intermediary must notify, without delay and in any event no later than seven working days from the relevant date established by paragraph (a), any other intermediary or, if there is no such intermediary, the relevant taxpayer of their reporting obligations under sub-regulation (6):
 
 *Cap. 377.*
 
 *Cap. 9*
-
-relevant taxpayer of their reporting obligations under sub-regulation (6):
-
-*[S.L.123.127 22*
 
 Provided that intermediaries may only be entitled to a waiver under this paragraph to the extent that they operate within the limits of the relevant national laws that define their professions:
 
@@ -705,10 +617,6 @@ Provided further that with effect from 1st January 2027, an intermediary shall o
 Where there is no intermediary or the intermediary notifies the relevant taxpayer or another intermediary of the application of a waiver under paragraph (e), the obligation to file information on a reportable cross-border arrangement shall lie with the other notified intermediary, or, if there is no such intermediary, with the relevant taxpayer.
 
 (g) The relevant taxpayer with whom the reporting obligation lies shall file the information with the Commissioner within thirty (30) days, beginning on:
-
-*23*
-
-ON TAX MATTERS [S.L.123.127
 
 (i) the day after the reportable cross-border arrangement is made available for implementation to that relevant taxpayer, or
 
@@ -738,11 +646,7 @@ Where there is more than one intermediary, the obligation to file information on
 
 Provided that the proof may be in such form as the Commissioner may determine.
 
-(k) (i)Where the reporting obligation lies with the relevant taxpayer and where there is more than one relevant ON TAX MATTERS
-
-taxpayer, the relevant taxpayer that is to file information in accordance with paragraph (f) shall be the one that features first in the list below:
-
-*[S.L.123.127 24*
+(k) (i)Where the reporting obligation lies with the relevant taxpayer and where there is more than one relevant taxpayer, the relevant taxpayer that is to file information in accordance with paragraph (f) shall be the one that features first in the list below:
 
 (A) the relevant taxpayer that agreed the reportable cross-border arrangement with the intermediary;
 
@@ -764,11 +668,7 @@ Provided that the proof may be in such form as the Commissioner may determine.
 
 (ii) details of the hallmarks set out in Annex IV that make the cross-border arrangement reportable;
 
-(iii) a summary of the content of the reportable cross-border arrangement, including a reference to the name by which it is commonly known, if any, and a description of the relevant arrangements and any ON TAX MATTERS [S.L.123.127
-
-other information which may assist the receiving competent authority in assessing a potential tax risk, without leading to the disclosure of a commercial, industrial or professional secret or of a commercial process, or of information the disclosure of which would be contrary to public policy;
-
-*25*
+(iii) a summary of the content of the reportable cross-border arrangement, including a reference to the name by which it is commonly known, if any, and a description of the relevant arrangements and any other information which may assist the receiving competent authority in assessing a potential tax risk, without leading to the disclosure of a commercial, industrial or professional secret or of a commercial process, or of information the disclosure of which would be contrary to public policy;
 
 (iv) the date on which the first step in implementing the reportable cross-border arrangement has been made or will be made;
 
@@ -794,11 +694,7 @@ Provided that the competent authority in Malta shall communicate the information
 
 (c) for the information laid down in sub-regulation (3):
 
-(i) within three months following the end of the half of the calendar year during which the advance cross-border rulings or advance pricing ON TAX MATTERS
-
-arrangements have been issued, amended or renewed, in respect of the information exchanged pursuant to sub-regulation (3)(a):
-
-*[S.L.123.127 26*
+(i) within three months following the end of the half of the calendar year during which the advance cross-border rulings or advance pricing arrangements have been issued, amended or renewed, in respect of the information exchanged pursuant to sub-regulation (3)(a):
 
 Provided that with effect from 1st January 2023, the communication of information shall take place without delay after the advance cross-border rulings or advance pricing arrangements have been issued, amended or renewed and at the latest three (3) months following the end of the half of the calendar year during which the advance cross-border rulings or advance pricing arrangements were issued, amended or renewed;
 
@@ -818,11 +714,7 @@ For the purposes of this regulation:
 
 "automatic exchange of information" means:
 
-(a) for the purposes of sub-regulations (1), (3), (4), (7), (12) and (13), the systematic communication of pre-defined information to another Member State, without a prior request, at pre-established regular intervals. For the purposes of sub-regulation (1), the reference to available information relates to information in the tax files of Malta, which is retrievable in accordance with the procedures for gathering and processing information in ON TAX MATTERS [S.L.123.127
-
-Malta;
-
-*27*
+(a) for the purposes of sub-regulations (1), (3), (4), (7), (12) and (13), the systematic communication of pre-defined information to another Member State, without a prior request, at pre-established regular intervals. For the purposes of sub-regulation (1), the reference to available information relates to information in the tax files of Malta, which is retrievable in accordance with the procedures for gathering and processing information in Malta;
 
 (b) for the purposes of sub-regulation (2), the systematic communication of pre-defined information on residents in other EU Member States to the relevant EU Member State of residence, without prior request, at pre-established regular intervals;
 
@@ -850,10 +742,6 @@ For the purpose of this definition:
 
 (A) not all of the parties to the transaction or series of transactions are resident for tax purposes in Malta;
 
-*28*
-
-[S.L.123.127 ON TAX MATTERS
-
 (B) any of the parties to the transaction or series of transactions is simultaneously resident for tax purposes in more than one jurisdiction;
 
 (C) one of the parties to the transaction or series of transactions carries on business in another jurisdiction through a permanent establishment and the transaction or series of transactions forms part or the whole of the business of the permanent establishment. A cross-border transaction or series of cross-border transactions shall also include arrangements made by a person in respect of business activities in another jurisdiction which that person carries on through a permanent establishment; or (D) such transactions or series of transactions have a cross border impact.
@@ -874,11 +762,7 @@ For the purpose of this definition:
 
 (ii) transfer prices are the prices at which an enterprise transfers physical goods and intangible property or provides services to associated enterprises, and "transfer pricing" is to be construed accordingly;
 
-(iii) "cross-border transaction" means a transaction ON TAX MATTERS [S.L.123.127
-
-or series of transactions involving associated enterprises which are not all resident for tax purposes in the territory of a single jurisdiction or a transaction or series of transactions which have a cross border impact, and "enterprise" means any form of conducting business.
-
-*29*
+(iii) "cross-border transaction" means a transaction or series of transactions involving associated enterprises which are not all resident for tax purposes in the territory of a single jurisdiction or a transaction or series of transactions which have a cross border impact, and "enterprise" means any form of conducting business.
 
 "arrangement" shall also include a series of arrangements. An arrangement may comprise more than one step or part;
 
@@ -903,10 +787,6 @@ or series of transactions involving associated enterprises which are not all res
 (a) that designs, markets, organises or makes available for implementation or manages the implementation of a reportable cross-border arrangement;
 
 (b) that, having regard to the relevant facts and circumstances and based on available information and the relevant expertise and understanding required to provide such services, knows or could be reasonably expected to know that they have undertaken to provide, directly or by means of other persons, aid, assistance or advice with respect to designing, marketing, organising, making available for implementation or managing the implementation of a reportable cross-border arrangement:
-
-*30*
-
-[S.L.123.127 ON TAX MATTERS
 
 Provided that any person shall have the right to provide evidence that such person did not know and could not reasonably be expected to know that that person was involved in a reportable cross-border arrangement. For this purpose, that person may refer to all relevant facts and circumstances as well as available information and their relevant expertise and understanding.
 
@@ -938,10 +818,6 @@ Provided that:
 
 (ii) if the same persons participate, as referred to in paragraphs (a) to (d), in the management, control, capital or profits of more than one person, all persons concerned shall be regarded as associated enterprises;
 
-*31*
-
-ON TAX MATTERS [S.L.123.127
-
 (iii) for the purposes of this definition, a person who acts together with another person in respect of the voting rights or capital ownership of an entity shall be treated as holding a participation in all of the voting rights or capital ownership of that entity that are held by the other person;
 
 (iv) in indirect participations, the fulfilment of requirements under paragraph (c) shall be determined by multiplying the rates of holding through the successive tiers. A person holding more than 50% of the voting rights shall be deemed to hold 100%;
@@ -970,10 +846,6 @@ Provided that the provisions of sub-regulation (1)(f) shall be deemed to have co
 
 (d the provisions of sub-regulation (4) and (7)(d) shall be on 5 June 2017;
 
-*32*
-
-[S.L.123.127 ON TAX MATTERS
-
 (e) the provisions of sub-regulations (7) and (8)(e) shall be on 1 July 2020;
 
 (f) the provisions of sub-regulations (8)(f) and (12) shall be deemed to have come into force on 1st January 2023;
@@ -1000,11 +872,7 @@ Provided that the provisions of sub-regulation (1)(f) shall be deemed to have co
 
 (iv) any TIN of the Reportable Seller, including each Member State of issuance or, in the absence of a TIN, the place of birth of the Reportable Seller who is an individual;
 
-(v) the business registration number of the ON TAX MATTERS [S.L.123.127
-
-Reportable Seller that is an Entity;
-
-*33*
+(v) the business registration number of the Reportable Seller that is an Entity;
 
 (vi) the VAT identification number of the Reportable Seller, where available;
 
@@ -1021,10 +889,6 @@ Reportable Seller that is an Entity;
 (xii) any fees, commissions or taxes withheld or charged by the Reporting Malta Platform Operator during each quarter of the Reportable Period;
 
 (xiii) the Identification Service identifier and the Member State of issuance, where the Reporting Platform Operator relies on direct confirmation of the identity and residence of the Seller through an Identification Service made available by a Member State or the Union to ascertain the identity and tax residence of the Seller; in such cases it is not necessary to communicate to the Member State of issuance of the Identification Service identifier the information referred to in sub-paragraphs (iii) to (vii):
-
-*34*
-
-[S.L.123.127 ON TAX MATTERS
 
 Provided that where the Reportable Seller provides immovable property rental services, the following additional information shall be communicated:
 
@@ -1044,11 +908,7 @@ Provided that a Reporting Malta Platform Operator within the meaning of sub-para
 
 Provided further that a Reporting Malta Platform Operator within the meaning of part A(7)(e) of Section 1 of Annex V shall use service providers to fulfil its registration and reporting obligations specified in these regulations, which obligations shall remain the responsibility of the Reporting Malta Platform Operator:
 
-Provided further that a Reporting Platform Operator within the meaning of sub-paragraph A(4)(b) of Section I of Annex V shall not be required to register with the Commissioner for the purpose of these regulations, if such Platform Operator is resident for tax purposes in a non-Union jurisdiction which has an Effective Qualifying Competent Authority Agreement, which already provides for the automatic exchange of equivalent information with Malta on ON TAX MATTERS [S.L.123.127
-
-Reportable Sellers resident in Malta.
-
-*35*
+Provided further that a Reporting Platform Operator within the meaning of sub-paragraph A(4)(b) of Section I of Annex V shall not be required to register with the Commissioner for the purpose of these regulations, if such Platform Operator is resident for tax purposes in a non-Union jurisdiction which has an Effective Qualifying Competent Authority Agreement, which already provides for the automatic exchange of equivalent information with Malta on Reportable Sellers resident in Malta.
 
 (f) The Reporting Platform Operator, having successfully registered with the Commissioner in Malta as its Member State of its single registration, shall notify the competent authority in Malta of any change in the information provided in accordance with sub-paragraph B(2) of Section III of Annex V.
 
@@ -1066,11 +926,7 @@ Reportable Sellers resident in Malta.
 
 (D) the Commissioner in Malta revoked the registration pursuant to this paragraph.
 
-(h) Where a Platform Operator is deemed to be an [S.L.123.127 ON TAX MATTERS
-
-Excluded Platform Operator, the competent authority in Malta shall notify the competent authorities of all other Member States accordingly, including any subsequent changes.
-
-*36*
+(h) Where a Platform Operator is deemed to be an Excluded Platform Operator, the competent authority in Malta shall notify the competent authorities of all other Member States accordingly, including any subsequent changes.
 
 *Cap. 372.*
 
@@ -1086,11 +942,7 @@ Excluded Platform Operator, the competent authority in Malta shall notify the co
 
 (i) the name, address, Member States of residence, TINs and, in the case of an individual, date and place of birth of each Reportable User and, in the case of any Entity that, after application of the due diligence procedures established in Section III of Annex VI is identified as having one (1) or more Controlling Persons that is a Reportable Person, the name, address, Member States of residence and TINs of the Entity and the name, address, Member States of residence, TINs and date and place of birth of each Controlling Person of the Entity that is a Reportable Person, as well as the roles by virtue of which each such Reportable Person is a Controlling Person of the Entity:
 
-Provided that where the Reporting Crypto-Asset Service Provider relies on direct confirmation of the identity and residence of the Reportable Person through an Identification Service made available by a Member State or the Union to ascertain the identity and tax residence of the Reportable Person, the information which shall be communicated to the Member State of issuance of the Identification Service identifier regarding the Reportable Person shall include the name, the Identification Service identifier and the Member State of issuance, as well as the roles by virtue of which each Reportable Person is a ON TAX MATTERS [S.L.123.127
-
-Controlling Person of the Entity;
-
-*37*
+Provided that where the Reporting Crypto-Asset Service Provider relies on direct confirmation of the identity and residence of the Reportable Person through an Identification Service made available by a Member State or the Union to ascertain the identity and tax residence of the Reportable Person, the information which shall be communicated to the Member State of issuance of the Identification Service identifier regarding the Reportable Person shall include the name, the Identification Service identifier and the Member State of issuance, as well as the roles by virtue of which each Reportable Person is a Controlling Person of the Entity;
 
 (ii) the name, address, TIN and, if available, the individual identification number referred to in paragraph (g) and the global legal entity identifier of the Reporting Crypto- Asset Service Provider;
 
@@ -1112,10 +964,6 @@ Controlling Person of the Entity;
 
 (H) the aggregate fair market value, the aggregate number of units and the number of Reportable Transactions, and subdivided by transfer type where it is known by the Reporting Crypto-Asset Service Provider, in respect of transfers by the Reportable User not covered by points (C), (E) and (F); and
 
-*38*
-
-[S.L.123.127 ON TAX MATTERS
-
 (I) the aggregate fair market value, as well as the aggregate number of units of Transfers effectuated by the Reporting Crypto-Asset Service Provider to distributed ledger addresses referred to in Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023 on markets in crypto-assets, and amending Regulations No (EU) 1093/2010 and No (EU) 1095/2010 and Directives 2013/36/EU and (EU) 2019/1937 not known to be associated with a virtual asset service provider or Financial Institution:
 
 Provided that for the purposes of points (B) and (C), the amount paid or received shall be communicated in the Fiat Currency in which it was paid or received. In case the amounts were paid or received in multiple Fiat Currencies, the amounts shall be communicated in a single Fiat Currency, converted at the time of each Reportable Transaction in a manner that is consistently applied by the Reporting Crypto-Asset Service Provider:
@@ -1132,11 +980,7 @@ Provided further that the information communicated shall specify the Fiat Curren
 
 (f) A Crypto-Asset Operator whose registration has been revoked in accordance with sub-paragraph F(7) of Section V of Annex VI shall only be permitted to register again if it provides to the Commissioner appropriate assurance as regards its commitment to comply with the reporting requirements within the Union, including any outstanding unfulfilled reporting requirements.
 
-(g) Paragraphs (e) and (f) shall not apply to Crypto-Asset Service Providers within the meaning of sub-paragraph ON TAX MATTERS [S.L.123.127
-
-B(1) of Section IV, of Annex VI.
-
-*39*
+(g) Paragraphs (e) and (f) shall not apply to Crypto-Asset Service Providers within the meaning of sub-paragraph B(1) of Section IV, of Annex VI.
 
 ### 14. Spontaneous exchange of information.
 
@@ -1160,15 +1004,13 @@ B(1) of Section IV, of Annex VI.
 
 (4) Where the competent authority in Malta receives information in accordance with the provisions of Article 9 of the EU Administrative Cooperation Directive, it shall confirm receipt of such information to the competent authority which provided the information immediately and in any event no later than seven working days from the date of such receipt. The said confirmation shall be made, where possible, through electronic means.
 
-(5) For the purposes of this regulation, "spontaneous exchange" means the non-systematic communication, at any moment and without prior request, of information to another EU Member State. [S.L.123.127 ON TAX MATTERS
+(5) For the purposes of this regulation, "spontaneous exchange" means the non-systematic communication, at any moment and without prior request, of information to another EU Member State.
 
 ### 15. Presence in administrative offices and participation in administrative enquiries.
 
 *Added by: L.N. 472 of 2012. Amended by: L.N. 18 of 2025. Cap. 372.*
 
 (1) With a view of exchanging the information referred to in regulation 12(1), the competent authority in Malta may request the competent authority of another Member State that officials authorised by the competent authority in Malta and in accordance with the procedural arrangements laid down by the competent authority of the requested Member State:
-
-*40*
 
 (a) be present in the offices where the administrative authorities of the requested Member State carry out their duties;
 
@@ -1190,10 +1032,6 @@ Provided further that where the requested information is contained in documentat
 
 (1) The competent authority in Malta may agree with the competent authorities of other EU Member States to conduct a simultaneous control (whether bilaterally or multilaterally) of one or more persons of common or complementary interest with a view to exchanging the information thus obtained. Where the competent authority in Malta is in agreement with the competent authorities of other EU Member States to enter into a simultaneous control, it shall, after consultation with the Commissioner, appoint a representative with responsibility for supervising and coordinating the control operation. Such representative may be appointed from any department that is considered suitable in relation to the particular simultaneous control.
 
-*41*
-
-ON TAX MATTERS [S.L.123.127
-
 (2) The competent authority in Malta shall identify independently the person or persons for whom it intends to propose a simultaneous control and where such person or persons have been identified it shall notify the competent authority of the other EU Member States concerned that it wishes to propose such a simultaneous control, giving reasons for its choice. The competent authority in Malta shall also specify the period of time during which those controls are to be conducted.
 
 (3) The competent authority in Malta shall, upon receipt of a notification for a simultaneous control from the competent authority of another European Member State, decide whether it intends to take part in simultaneous controls and it shall confirm its agreement or communicate its reasoned refusal to the authority that proposed a simultaneous control within sixty (60) days of receiving the proposal.
@@ -1212,11 +1050,7 @@ Provided further that while complying with the laws of the Member State where th
 
 (3) Without prejudice to the provisions of sub-regulation (2), when the activities of a joint audit take place in Malta, the Maltese tax administration shall take the necessary measures to:
 
-(a) permit that officials of other Member States who participate in the activities of the joint audit interview individuals and examine records together with the officials of the Maltese tax administration, subject to the procedural [S.L.123.127 ON TAX MATTERS
-
-arrangements laid down in Malta;
-
-*42*
+(a) permit that officials of other Member States who participate in the activities of the joint audit interview individuals and examine records together with the officials of the Maltese tax administration, subject to the procedural arrangements laid down in Malta;
 
 (b) ensure that evidence collected during the activities of the joint audit can be assessed, including on its admissibility, under the same legal conditions as in the case of an audit carried out in Malta where only the officials of Maltese tax administration take part, including in the course of any process of complaint, review or appeal; and
 
@@ -1236,11 +1070,7 @@ Provided further that the actions by the competent authority in Malta or any of 
 
 (1) At the request of the competent authority of another EU Member State, the competent authority in Malta shall, in accordance with the rules governing the notification of similar instruments in Malta, notify the addressee of any instruments and decisions which emanate from the administrative authorities of the requesting EU Member State and concern the application in its territory of legislation on taxes covered by the EU Administrative Cooperation Directive.
 
-(2) For a request for notification to be valid, such request shall indicate the subject of the instrument or decision to be notified and shall specify the name and address of the addressee, together with any other information which may facilitate identification of the ON TAX MATTERS [S.L.123.127
-
-said addressee.
-
-*43*
+(2) For a request for notification to be valid, such request shall indicate the subject of the instrument or decision to be notified and shall specify the name and address of the addressee, together with any other information which may facilitate identification of the said addressee.
 
 (3) The competent authority in Malta shall inform the requesting authority immediately of its response and, in particular, of the date of notification of the instrument or decision to the addressee.
 
@@ -1258,11 +1088,7 @@ said addressee.
 
 Provided that reports and documents produced by the EU Commission referred to in Article 23a of the EU Administrative Cooperation Directive may be used by EU Member States only for analytical purposes and shall not be published or made available to any other person or body without the express agreement of the EU Commission.
 
-(b) Such information may also be used for the assessment and enforcement of other taxes and duties covered by [S.L.123.127 ON TAX MATTERS
-
-Article 2 of Council Directive 2010/24/EU of 16 March 2010 concerning mutual assistance for the recovery of claims relating to taxes, duties and other measures, or for the assessment and enforcement of compulsory social security contributions.
-
-*44*
+(b) Such information may also be used for the assessment and enforcement of other taxes and duties covered by Article 2 of Council Directive 2010/24/EU of 16 March 2010 concerning mutual assistance for the recovery of claims relating to taxes, duties and other measures, or for the assessment and enforcement of compulsory social security contributions.
 
 (c) In addition, such information may be used in connection with judicial and administrative proceedings that may involve penalties, initiated as a result of infringements of tax legislation, without prejudice to the general rules and provisions governing the rights of defendants and witnesses in such proceedings.
 
@@ -1276,21 +1102,13 @@ Article 2 of Council Directive 2010/24/EU of 16 March 2010 concerning mutual ass
 
 (3) Where the competent authority of another EU Member State requests permission for such other use as referred to in the third paragraph of Article 16(1) of the EU Administrative Cooperation Directive, the competent authority in Malta shall only grant such permission if the information can be used for similar purposes in Malta.
 
-*45*
-
-ON TAX MATTERS [S.L.123.127
-
 (4) (a) When the competent authority in Malta considers that information which it has received from the competent authority of another EU Member State is likely to be useful for the purposes referred to in sub-regulation (1)(a) to the competent authority of a third Member State, it may transmit that information to the latter competent authority, provided that the transmission is in accordance with the rules and procedures established in these regulations. The competent authority in Malta shall inform the competent authority of the Member State from which the information originates about its intention to share that information with a third Member State. The Member State of origin of the information may oppose such a sharing of information within fifteen (15) calendar days of receipt of the communication from the competent authority in Malta that wants to share the information.
 
 (b) Where a competent authority of another EU Member State requests permission from the competent authority in Malta to transmit information which it has received from the competent authority in Malta to a third EU Member State because it considers that such information is likely to be useful for the administration and enforcement of legislation of such third EU Member State concerning the taxes referred to in Article 2 the EU Administrative Cooperation Directive, the competent authority in Malta shall give its permission or otherwise, depending on the case, not later than ten working days of receipt of such request. (5) Information obtained by the competent authority in Malta pursuant to the provisions of Article 16(2) of EU Administrative Cooperation Directive, and which has been transmitted pursuant to the provisions of Article 16(3) of that same Directive, may only be used in Malta if permission has been granted by the competent authority of the EU Member State from which the information originated.
 
-(6) Notwithstanding sub-regulation (1) to (4), information received from other EU Member States pursuant to Article 8aa of the EU Administrative Cooperation Directive shall be used for the purposes of assessing high-level transfer pricing risks and other base erosion and profit shifting related risks, including assessing the risk of non-compliance by members of the MNE group with applicable transfer pricing rules, and where appropriate for economic and statistical analysis. Transfer pricing adjustments made by the Commissioner shall not be based on the information exchanged pursuant to Article 8aa of the EU Administrative Cooperation Directive. Notwithstanding the provisions of this sub-regulation, there is no prohibition on using the information communicated between EU Member States pursuant to Art. 8aa of the EU Administrative Cooperation Directive as a basis for making further enquiries into the MNE Group’s transfer pricing arrangements or into other tax matters in the course of an enquiry in terms of article 13 of the Income Tax Management Act, including a tax audit and, as a result, appropriate adjustments to the [S.L.123.127 ON TAX MATTERS
+(6) Notwithstanding sub-regulation (1) to (4), information received from other EU Member States pursuant to Article 8aa of the EU Administrative Cooperation Directive shall be used for the purposes of assessing high-level transfer pricing risks and other base erosion and profit shifting related risks, including assessing the risk of non-compliance by members of the MNE group with applicable transfer pricing rules, and where appropriate for economic and statistical analysis. Transfer pricing adjustments made by the Commissioner shall not be based on the information exchanged pursuant to Article 8aa of the EU Administrative Cooperation Directive. Notwithstanding the provisions of this sub-regulation, there is no prohibition on using the information communicated between EU Member States pursuant to Art. 8aa of the EU Administrative Cooperation Directive as a basis for making further enquiries into the MNE Group’s transfer pricing arrangements or into other tax matters in the course of an enquiry in terms of article 13 of the Income Tax Management Act, including a tax audit and, as a result, appropriate adjustments to the taxable income of a Constituent Entity may be made.
 
 *Cap. 372.*
-
-taxable income of a Constituent Entity may be made.
-
-*46*
 
 (7) Information, reports, statements and any other documents, or certified true copies or extracts thereof, obtained by the competent authorities of another EU Member State and communicated to the competent authority in Malta in accordance with the provisions of the EU Administrative Cooperation Directive may be invoked as evidence by the competent bodies in Malta on the same basis as similar information, reports, statements and any other documents provided by an authority of Malta.
 
@@ -1316,11 +1134,11 @@ Malta shall enter into an arrangement with other EU Member States that provides 
 
 (b) the third country concerned has given an undertaking to provide the cooperation required to gather evidence of the irregular or illegal nature of transactions which appear to contravene or constitute an abuse of tax legislation.
 
-*47*
+### 21. Data protection.
 
-ON TAX MATTERS [S.L.123.127 21. (1) (a) Every exchange of information in accordance with these regulations shall be made in conformity with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) and the Data Protection Act, including the regulations made thereunder.
+*Added by: L.N. 472 of 2012. Amended by: L.N. 384 of 2015. Substituted by: L.N. 342 of 2019. L.N. 18 of 2025. Amended by: L.N. 162 of 2026. Cap. 586.*
 
-*Data protection. Added by: L.N. 472 of 2012. Amended by: L.N. 384 of 2015. Substituted by: L.N. 342 of 2019. L.N. 18 of 2025. Amended by: L.N. 162 of 2026. Cap. 586.*
+(1) (a) Every exchange of information in accordance with these regulations shall be made in conformity with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) and the Data Protection Act, including the regulations made thereunder.
 
 (b) The Commissioner may restrict the rights and obligations established in Article 13, Article 14(1) and Article 15 of Regulation (EU) 2016/679, where such restriction respects the essence of the fundamental rights and freedoms and is a necessary and proportionate measure in a democratic society to safeguard the objective established in Article 23(1)(e) of Regulation (EU) 2016/679. Before applying a restriction, the Commissioner shall conduct a necessity and proportionality assessment and be able to demonstrate that the application of the restriction is necessary and proportionate.
 
@@ -1336,11 +1154,7 @@ Provided that where the reason for the restriction no longer applies, the Commis
 
 (f) The data protection officer shall be consulted, properly and in a timely manner, with respect to such restriction as referred to in paragraph (a), both prior to and throughout the duration of such restriction.
 
-(2) Regulation (EU) 2018/1725 of the European Parliament and of the Council of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC shall apply to any processing of personal data under the EU Administrative [S.L.123.127 ON TAX MATTERS
-
-Cooperation Directive by the Union institutions, bodies, offices and agencies. However, for the purposes of the correct application of the EU Administrative Cooperation Directive, the scope of the obligations and rights provided for in Article 15, Article 16(1), and Articles 17 to 21 of Regulation (EU) 2018/1725 shall be restricted to the extent required in order to safeguard the interests referred to in point (c) of Article 25(1) of the said Regulation.
-
-*48*
+(2) Regulation (EU) 2018/1725 of the European Parliament and of the Council of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC shall apply to any processing of personal data under the EU Administrative Cooperation Directive by the Union institutions, bodies, offices and agencies. However, for the purposes of the correct application of the EU Administrative Cooperation Directive, the scope of the obligations and rights provided for in Article 15, Article 16(1), and Articles 17 to 21 of Regulation (EU) 2018/1725 shall be restricted to the extent required in order to safeguard the interests referred to in point (c) of Article 25(1) of the said Regulation.
 
 (3) The Reporting Malta Financial Institutions, the intermediaries, the Reporting Malta Platform Operators, Reporting Crypto-Asset Providers and the competent authority in Malta shall be considered to be data controllers when, acting alone or jointly, they determine the purposes and means of the processing of personal data within the meaning of the regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) and the Data Protection Act.
 
@@ -1358,11 +1172,7 @@ Provided that information received through the automatic exchange of information
 
 (6) In the case that a data breach occurs in Malta:
 
-(a) the competent authority in Malta shall report the ON TAX MATTERS [S.L.123.127
-
-data breach and any subsequent remedial action to the Commission without delay; and
-
-*49*
+(a) the competent authority in Malta shall report the data breach and any subsequent remedial action to the Commission without delay; and
 
 (b) the competent authority in Malta shall investigate, contain and remedy the data breach and shall, by giving notice in writing to the Commission, request the suspension of the CCN access for the purposes of these regulations, if the data breach cannot be contained immediately and appropriately.
 
@@ -1384,10 +1194,6 @@ Provided that the competent authority in Malta may, to the extent known and in l
 
 (2) Spontaneous information and its acknowledgement pursuant to regulation 14, requests for administrative notifications pursuant to regulation 17, feedback information pursuant to regulation 11(4) and (5), and communications pursuant to regulation 18(2) and (4) and regulation 20(1) shall be sent using the standard forms adopted by the Commission in accordance with the procedure referred to in Article 26(2) of the EU Administrative Cooperation Directive.
 
-*50*
-
-[S.L.123.127 ON TAX MATTERS
-
 (3) The automatic exchange of information pursuant to the provisions of regulation 13(1) and (13) shall be carried out using a standard computerised format aimed at facilitating such automatic exchange, adopted by the Commission in accordance with the procedure referred to in Article 26(2) of the EU Administrative Cooperation Directive.
 
 (4) A standard form, including the linguistic arrangements, shall be adopted by the EU Commission in accordance with the procedure referred to in Article 26(2) of the EU Administrative Cooperation Directive before 1 January 2017. The automatic exchange of information on advance cross-border rulings and advance pricing arrangements pursuant to regulation 13(3) shall be carried out using this standard form. This standard form shall not exceed the components for exchange of the information listed in regulation 13(3)(e) and other relating fields linked to these components necessary to achieve the objectives of regulation 13(3).
@@ -1398,11 +1204,7 @@ Provided that the competent authority in Malta may, to the extent known and in l
 
 (7) A standard form, including the linguistic arrangements, shall be adopted by the EU Commission in accordance with the procedure referred to in Article 26(2) of the EU Administrative Cooperation Directive before 30 June 2025. The automatic exchange of information on reportable Crypto-Assets in accordance with regulation 13(13) shall be carried out using this standard form. This standard form shall not exceed the components for exchange of the information listed in regulation 13(13)(c) and other relating fields linked to these components which are necessary to achieve the objectives of regulation 13(13).
 
-(8) A reporting entity is allowed to obtain confirmation by electronic means of the validity of the information on the TIN of any taxpayer subject to the exchange of information under regulation 13(1) to (13). The confirmation of the information on the TIN may be requested only for the purposes of validation of the correctness of data referred to in regulation 13(1), (2), (3)(e), (4)(c), (7)(o), (12)(c) and (13)(c). A reporting entity may confirm validity of TIN information through a tool which shall be provided by the EU Commission, ON TAX MATTERS [S.L.123.127
-
-allowing an electronic and automated verification of the correctness of the TIN provided by a reporting entity or a taxpayer for the purposes of the automatic exchange of information.
-
-*51*
+(8) A reporting entity is allowed to obtain confirmation by electronic means of the validity of the information on the TIN of any taxpayer subject to the exchange of information under regulation 13(1) to (13). The confirmation of the information on the TIN may be requested only for the purposes of validation of the correctness of data referred to in regulation 13(1), (2), (3)(e), (4)(c), (7)(o), (12)(c) and (13)(c). A reporting entity may confirm validity of TIN information through a tool which shall be provided by the EU Commission, allowing an electronic and automated verification of the correctness of the TIN provided by a reporting entity or a taxpayer for the purposes of the automatic exchange of information.
 
 ### 23. Implementation and interpretation of FATCA Agreement and FATCA Regulations.
 
@@ -1452,10 +1254,6 @@ A Reporting Malta Financial Institution shall maintain the information specified
 
 (a) the due diligence procedures in respect of Pre-existing Individual Accounts shall be regulated in accordance with the provisions of section II of Annex I of the FATCA Agreement;
 
-*52*
-
-[S.L.123.127 ON TAX MATTERS
-
 (b) the due diligence procedures in respect of New Individual Accounts shall be regulated in accordance with the provisions of section III of Annex I of the FATCA Agreement;
 
 (c) the due diligence procedures in respect of Pre-existing Entity Accounts shall be regulated in accordance with the provisions of section IV of Annex I of the FATCA Agreement;
@@ -1486,9 +1284,7 @@ Subject to the provisions of article 19 of the Income Tax Management Act, a Repo
 
 Provided that such reporting shall take into account the timing and exclusions specified in Article 3 of the FATCA Agreement.
 
-*53*
-
-ON TAX MATTERS [S.L.123.127 (2) The information shall be reported to the Commissioner in the manner and within such time period as set out in guidelines published on the website of the Commissioner for Revenue under the provisions of article 96(2) of the Income Tax Act.
+(2) The information shall be reported to the Commissioner in the manner and within such time period as set out in guidelines published on the website of the Commissioner for Revenue under the provisions of article 96(2) of the Income Tax Act.
 
 *Cap. 123.*
 
@@ -1526,11 +1322,7 @@ If a Reporting Malta Financial Institution enters into any transactions or schem
 
 (aa) two hundred euro (€200); and
 
-(bb) fifty euro (€50) for every day during [S.L.123.127 ON TAX MATTERS
-
-which the default existed: provided that this penalty shall not exceed in total five thousand euro (€5,000);
-
-*54*
+(bb) fifty euro (€50) for every day during which the default existed: provided that this penalty shall not exceed in total five thousand euro (€5,000);
 
 (ii) in the case of significant non-compliance, fifty thousand euro (€50,000). Furthermore, where the United States commences to treat a Reporting Malta Financial Institution as a Non-participating Financial Institution and its details are published by the IRS, the Commissioner shall publish details identifying such an institution on the website of the Commissioner for Revenue and inform any relevant regulator in Malta of such;
 
@@ -1553,10 +1345,6 @@ Provided that a director, manager or other principal officer of such Reporting M
 (1) The Entities referred to in Annex II to the FATCA Agreement are to be treated as exempt beneficial owners or deemed compliant Foreign Financial Institutions, as the case may be.
 
 (2) The accounts referred to in Annex II to the FATCA Agreement are to be excluded from the definition of Financial Accounts.
-
-*55*
-
-ON TAX MATTERS [S.L.123.127
 
 (3) Annex II of the FATCA Agreement may be modified by an arrangement entered into between the competent authorities of Malta and the United States:
 
@@ -1585,10 +1373,6 @@ Provided that in such cases, reference to the specific legal provision would con
 (4) Where the Commissioner is satisfied that the default in respect of which the penalties have been imposed under sub-regulation (1) was not due to any fault or neglect on the part of the relevant person, he shall remit the whole of the said penalties and, in any other case, may remit such part or all of the said penalties as he may think fit. In every case the Commissioner shall inform the said person accordingly.
 
 (5) The payment by any person of any penalties imposed under these regulations shall in no way exonerate that person from its obligations under these regulations.
-
-*56*
-
-[S.L.123.127 ON TAX MATTERS
 
 (6) Where such penalty remains unpaid within the time specified in the notice referred to in sub-regulation (1), the provisions of article 47 of the Income Tax Management Act relating to the collection and recovery of tax shall apply to the collection and recovery of such penalty.
 
@@ -1630,11 +1414,7 @@ For the purposes of the EU Administrative Cooperation Directive, a Reporting Mal
 
 (d) the due diligence procedures in respect of New Entity Accounts shall be regulated in accordance with the provisions of Section VI of Annex I to these regulations:
 
-Provided that in carrying out this obligation, a Reporting Malta Financial Institution shall obtain satisfactory self-certification documentation or documentary evidence to establish the residence for tax purposes of the Account Holder. The term "documentary evidence" shall have the same meaning as that contained under E.6. of Section VIII of Annex I to these ON TAX MATTERS [S.L.123.127
-
-regulations:
-
-*57*
+Provided that in carrying out this obligation, a Reporting Malta Financial Institution shall obtain satisfactory self-certification documentation or documentary evidence to establish the residence for tax purposes of the Account Holder. The term "documentary evidence" shall have the same meaning as that contained under E.6. of Section VIII of Annex I to these regulations:
 
 Provided further that the self-certification may be in such form as the Commissioner may determine.
 
@@ -1674,11 +1454,7 @@ If a Reporting Malta Financial Institution or any other person enters into any t
 
 (a) where a Reporting Malta Financial Institution relies on an invalid self-certification, and such Reporting Malta Financial Institution knows or has reason to know that this is invalid, to a penalty of five thousand euro (€5,000). An account holder who provides a false self-certification, including signing or otherwise positively affirming a false self-certification, shall also be liable to a penalty of five thousand euro (€5,000);
 
-(b) where a Reporting Malta Financial Institution fails to retain the documentation and information it collected in the course of meeting its reporting and due diligence [S.L.123.127 ON TAX MATTERS
-
-obligations for a minimum period of five years starting from the end of the year in which the information relates, to a penalty of two thousand five hundred euro (€2,500);
-
-*58*
+(b) where a Reporting Malta Financial Institution fails to retain the documentation and information it collected in the course of meeting its reporting and due diligence obligations for a minimum period of five years starting from the end of the year in which the information relates, to a penalty of two thousand five hundred euro (€2,500);
 
 (c) where a Reporting Malta Financial Institution fails to apply the due diligence procedures specified in Section II through to Section VII of Annex I, including obtaining a self-certification for New Accounts, to a penalty of five thousand euro (€5,000);
 
@@ -1705,10 +1481,6 @@ obligations for a minimum period of five years starting from the end of the year
 (ii) one hundred euro (€100) for every day during which the default existed: provided that this penalty shall not exceed in total thirty thousand euro (€30,000).
 
 (2) In addition, and without prejudice to any penalties incurred in terms of sub-regulation (1), where a Reporting Malta Financial Institution is found to have submitted information that is misleading, deceitful or false, every senior managing official of such Reporting Malta Financial Institution shall be guilty of an offence and shall on conviction be liable to a fine (multa) of not less than ten thousand euro (€10,000) and not more than thirty thousand euro (€30,000), or to imprisonment for a period of not exceeding two years, or both such fine (multa) and imprisonment:
-
-*59*
-
-ON TAX MATTERS [S.L.123.127
 
 Provided that a director, manager or other principal officer of such Reporting Malta Financial Institution shall not be guilty of such an offence in virtue of this sub-regulation if he proves that he was unaware and could not with reasonable diligence be aware of such act or omission and that he did everything within his power to prevent that act or omission.
 
@@ -1742,11 +1514,7 @@ Provided that this information is to be collected and maintained in accordance w
 
 *Added by: L.N. 400 of 2016. Cap. 372.*
 
-The Commissioner may use any information-gathering power under the Income Tax Acts, including those under the provisions of article 10A and article 20 of the Income Tax Management Act, to obtain any information specified in Section III of Annex III to these regulations, notwithstanding that the said information may not be required for the purposes of the Income Tax Acts. The provisions of this regulation shall be interpreted widely [S.L.123.127 ON TAX MATTERS
-
-in the same manner as the interpretation found in regulation 5.
-
-*60*
+The Commissioner may use any information-gathering power under the Income Tax Acts, including those under the provisions of article 10A and article 20 of the Income Tax Management Act, to obtain any information specified in Section III of Annex III to these regulations, notwithstanding that the said information may not be required for the purposes of the Income Tax Acts. The provisions of this regulation shall be interpreted widely in the same manner as the interpretation found in regulation 5.
 
 ### 48. Imposition of penalties.
 
@@ -1779,10 +1547,6 @@ in the same manner as the interpretation found in regulation 5.
 (ii) one hundred euro (€100) for every day during which the default existed: provided that this penalty shall not exceed in total thirty thousand euro (€30,000).
 
 (4) Where a Maltese Constituent Entity that is neither the Ultimate Parent Entity nor the Surrogate Parent Entity nor the Constituent Entity referred to in point 1 of Section II of Annex III, fails to notify the Commissioner of the identity and tax residence of the Reporting Entity obliged to file a country-by-country report with respect to a Reporting Fiscal year by not later than the last day for filing of a tax return of that Constituent Entity for the preceding fiscal year, it shall be liable to a penalty of:
-
-*61*
-
-ON TAX MATTERS [S.L.123.127
 
 (a) two hundred euro (€200); and
 
@@ -1818,10 +1582,6 @@ Provided that this penalty shall not exceed in total five thousand euro (€5,00
 
 (b) where such intermediary or relevant taxpayer fails to report any of the information required to be reported in terms of regulation 13(7) within the time stipulated therein, to a penalty of:
 
-*62*
-
-[S.L.123.127 ON TAX MATTERS
-
 (i) two hundred euro (€200); and
 
 (ii) one hundred euro (€100) for every day during which the default existed: provided that this penalty shall not exceed in total twenty thousand euro (€20,000).
@@ -1854,11 +1614,7 @@ For the purposes of regulations 4A, 5, 6 and 35, where the notice is not made be
 
 (b) where a Reporting Malta Platform Operator fails to retain the documentation and information it collected in the course of meeting its due diligence and reporting obligations for a minimum period of five (5) years starting from the end of the year in which the information relates, to an administrative penalty of two thousand five hundred euro (€2,500);
 
-(c) where a Reporting Malta Platform Operator fails to apply the due diligence procedures specified in Section II of ON TAX MATTERS [S.L.123.127
-
-Annex V, to an administrative penalty of five thousand euro (€5,000);
-
-*63*
+(c) where a Reporting Malta Platform Operator fails to apply the due diligence procedures specified in Section II of Annex V, to an administrative penalty of five thousand euro (€5,000);
 
 (d) where a Reporting Malta Platform Operator fails to report the information required to be reported in accordance with Section III of Annex V within the time stipulated in the said Section III, to an administrative penalty of:
 
@@ -1884,11 +1640,7 @@ Provided that a senior managing official of the said Reporting Malta Platform Op
 
 *Added by: L.N. 162 of 2026.*
 
-The effectiveness of administrative cooperation in accordance with these regulations and in accordance with the EU Administrative Cooperation Directive, including in combating tax evasion and tax avoidance, shall be monitored and assessed by the competent authority of Malta in relation to itself and it shall [S.L.123.127 ON TAX MATTERS
-
-communicate the results of its assessment to the EU Commission once a year.
-
-*64*
+The effectiveness of administrative cooperation in accordance with these regulations and in accordance with the EU Administrative Cooperation Directive, including in combating tax evasion and tax avoidance, shall be monitored and assessed by the competent authority of Malta in relation to itself and it shall communicate the results of its assessment to the EU Commission once a year.
 
 ### 54. Administrative penalties for failure to comply.
 
@@ -1914,11 +1666,7 @@ communicate the results of its assessment to the EU Commission once a year.
 
 \- fifty euro (€50) for every day during which the default subsists, which administrative penalty and daily penalty shall not exceed in total five thousand euro (€5,000);
 
-(ii) in the case of significant non-compliance, an administrative penalty of up to a ON TAX MATTERS [S.L.123.127
-
-maximum of fifty thousand euro (€50,000);
-
-*65*
+(ii) in the case of significant non-compliance, an administrative penalty of up to a maximum of fifty thousand euro (€50,000);
 
 (e) where a Reporting Malta Crypto-Asset Service Provider fails to apply the due diligence procedures specified in Section III of Annex VI, to an administrative penalty of five thousand euro (€5,000). (2) Without prejudice to any administrative penalties incurred in accordance with sub-regulation (1), when a Reporting Malta Crypto-Asset Service Provider is found to have submitted information that is misleading or false, every senior managing official of such Reporting Malta Crypto-Asset Service Provider shall be liable to an administrative penalty of not less than ten thousand euro (€10,000) and not more than thirty thousand euro (€30,000):
 
@@ -1932,11 +1680,7 @@ Provided that a senior managing official of the said Reporting Malta Crypto-Asse
 
 (2) For taxable periods starting on or after 1 January 2030, the TIN of residents issued by the Member State of residence shall be reported, where possible, with respect to the information referred to in regulation 13(1)(a), (b) and (d).
 
-(3) For taxable periods starting on or after 1 January 2028, the TIN of individuals and entities issued by the Member State of residence shall be reported, where possible, with respect to the information referred to in regulation 13(3)(e)(i) and (xi), as well as of reported individuals and entities with respect to the information referred to in regulation 13(4)(c)(ii) and 13(7)(o). The competent authority in Malta shall include such information in its communication of the information referred to in regulation 13(4)(c)(ii) and 13(7)(o). [S.L.123.127 ON TAX MATTERS
-
-ANNEX I Added by:
-
-*66*
+(3) For taxable periods starting on or after 1 January 2028, the TIN of individuals and entities issued by the Member State of residence shall be reported, where possible, with respect to the information referred to in regulation 13(3)(e)(i) and (xi), as well as of reported individuals and entities with respect to the information referred to in regulation 13(4)(c)(ii) and 13(7)(o). The competent authority in Malta shall include such information in its communication of the information referred to in regulation 13(4)(c)(ii) and 13(7)(o). ANNEX I Added by:
 
 L.N. 384 of 2015. REPORTING AND DUE DILIGENCE RULES FOR Amended by:
 
@@ -1968,9 +1712,7 @@ A. Subject to paragraphs C to F, each Reporting Malta Financial Institution shal
 
 \5. in the case of any Custodial Account:
 
-(a) the total gross amount of interest, the total gross amount of dividends and the total gross amount of other income generated with respect to the assets held in the account, in each case paid or credited to the account or ON TAX MATTERS [S.L.123.127 67
-
-with respect to the account during the calendar year or other appropriate reporting period; and
+(a) the total gross amount of interest, the total gross amount of dividends and the total gross amount of other income generated with respect to the assets held in the account, in each case paid or credited to the account or with respect to the account during the calendar year or other appropriate reporting period; and
 
 (b) the total gross proceeds from the sale or redemption of Financial Assets paid or credited to the account during the calendar year or other appropriate reporting period with respect to which the Reporting Malta Financial Institution acted as a custodian, broker, nominee, or otherwise as an agent for the Account Holder;
 
@@ -1991,8 +1733,6 @@ D. Notwithstanding sub-paragraph A(1), the TIN is not required to be reported if
 (2) it is available in the electronically searchable data maintained by the Reporting Malta Financial Institution.
 
 F. Notwithstanding point (b) of sub-paragraph A(5) and unless the Reporting Malta Financial Institution elects otherwise with respect to any clearly identified group of accounts, the gross proceeds from the sale or redemption of Financial Assets are not required to be reported in so far as such gross proceeds from the sale or redemption of such Financial Assets are reported by the Reporting Malta Financial Institution in accordance with regulation 13(13).
-
-68 [S.L.123.127 ON TAX MATTERS
 
 ## SECTION II — GENERAL DUE DILIGENCE REQUIREMENTS
 
@@ -2022,9 +1762,7 @@ B. Lower Value Accounts. The following procedures apply with respect to Lower Va
 
 (c) one or more telephone numbers in a Member State and no telephone number in the Member State of the Reporting Malta Financial Institution;
 
-(d) standing instructions (other than with respect to a Depository Account) ON TAX MATTERS [S.L.123.127 69
-
-to transfer funds to an account maintained in a Member State;
+(d) standing instructions (other than with respect to a Depository Account) to transfer funds to an account maintained in a Member State;
 
 (e) currently effective power of attorney or signatory authority granted to a person with an address in a Member State; or
 
@@ -2047,8 +1785,6 @@ to transfer funds to an account maintained in a Member State;
 (b) the Account Holder information contains a currently effective power of attorney or signatory authority granted to a person with an address in that Member State, and the Reporting Malta Financial Institution obtains, or has previously reviewed and maintains, a record of:
 
 (i) a self-certification from the Account Holder of the Member State(s) or other jurisdiction(s) of residence of such Account Holder that does not include that Member State; or
-
-70 [S.L.123.127 ON TAX MATTERS
 
 (ii) Documentary Evidence establishing the Account Holder's non-reportable status.
 
@@ -2082,9 +1818,7 @@ C. Enhanced Review Procedures for High Value Accounts. The following enhanced re
 
 (f) whether there is any power of attorney or signatory authority for the account.
 
-\4. Relationship Manager Inquiry for Actual Knowledge. In addition to the electronic and paper record searches described in sub-paragraphs C(1) and (2), the ON TAX MATTERS [S.L.123.127 71
-
-Reporting Malta Financial Institution must treat as a Reportable Account any High Value Account assigned to a relationship manager (including any Financial Accounts aggregated with that High Value Account) if the relationship manager has actual knowledge that the Account Holder is a Reportable Person.
+\4. Relationship Manager Inquiry for Actual Knowledge. In addition to the electronic and paper record searches described in sub-paragraphs C(1) and (2), the Reporting Malta Financial Institution must treat as a Reportable Account any High Value Account assigned to a relationship manager (including any Financial Accounts aggregated with that High Value Account) if the relationship manager has actual knowledge that the Account Holder is a Reportable Person.
 
 \5. Effect of Finding Indicia.
 
@@ -2098,9 +1832,7 @@ Reporting Malta Financial Institution must treat as a Reportable Account any Hig
 
 \7. Once a Reporting Malta Financial Institution applies the enhanced review procedures described in paragraph C to a High Value Account, the Reporting Malta Financial Institution is not required to reapply such procedures, other than the relationship manager inquiry described in sub-paragraph C(4), to the same High Value Account in any subsequent year unless the account is undocumented where the Reporting Malta Financial Institution should reapply them annually until such account ceases to be undocumented.
 
-\8. If there is a change of circumstances with respect to a High Value Account that results in one or more indicia described in sub-paragraph B(2) being associated with the account, then the Reporting Malta Financial Institution must treat the account as a Reportable Account with respect to each Member State for which an 72 [S.L.123.127 ON TAX MATTERS
-
-indicium is identified unless it elects to apply subparagraph B(6) and one of the exceptions in that sub-paragraph applies with respect to that account.
+\8. If there is a change of circumstances with respect to a High Value Account that results in one or more indicia described in sub-paragraph B(2) being associated with the account, then the Reporting Malta Financial Institution must treat the account as a Reportable Account with respect to each Member State for which an indicium is identified unless it elects to apply subparagraph B(6) and one of the exceptions in that sub-paragraph applies with respect to that account.
 
 \9. A Reporting Malta Financial Institution must implement procedures to ensure that a relationship manager identifies any change in circumstances of an account. For example, if a relationship manager is notified that the Account Holder has a new mailing address in a Member State, the Reporting Malta Financial Institution is required to treat the new address as a change in circumstances and, if it elects to apply sub-paragraph B(6), is required to obtain the appropriate documentation from the Account Holder.
 
@@ -2122,9 +1854,7 @@ C. If there is a change of circumstances with respect to a New Individual Accoun
 
 The following procedures apply for purposes of identifying Reportable Accounts among Pre-existing Entity Accounts.
 
-A. Entity Accounts Not Required to Be Reviewed, Identified or Reported. Unless the Reporting Malta Financial Institution elects otherwise, either with respect to all Pre-existing Entity Accounts or, separately, with respect to any clearly identified group of such accounts, a Pre-existing Entity Account with an aggregate account balance or value that does not exceed, as of 31 December 2015, an amount denominated in Euro that corresponds to USD 250 000, is not required to be ON TAX MATTERS [S.L.123.127 73
-
-reviewed, identified, or reported as a Reportable Account until the aggregate account balance or value exceeds that amount as of the last day of any subsequent calendar year.
+A. Entity Accounts Not Required to Be Reviewed, Identified or Reported. Unless the Reporting Malta Financial Institution elects otherwise, either with respect to all Pre-existing Entity Accounts or, separately, with respect to any clearly identified group of such accounts, a Pre-existing Entity Account with an aggregate account balance or value that does not exceed, as of 31 December 2015, an amount denominated in Euro that corresponds to USD 250 000, is not required to be reviewed, identified, or reported as a Reportable Account until the aggregate account balance or value exceeds that amount as of the last day of any subsequent calendar year.
 
 B. Entity Accounts Subject to Review. A Pre-existing Entity Account that has an aggregate account balance or value that exceeds, as of 31 December 2015, an amount denominated in Euro that corresponds to USD 250 000, and a Pre-existing Entity Account that does not exceed, as of 31 December 2015, that amount but the aggregate account balance or value of which exceeds such amount as of the last day of any subsequent calendar year, must be reviewed in accordance with the procedures set forth in paragraph D.
 
@@ -2138,9 +1868,7 @@ D. Review Procedures for Identifying Entity Accounts With Respect to Which Repor
 
 (b) If the information indicates that the Account Holder is resident in a Member State, the Reporting Malta Financial Institution must treat the account as a Reportable Account unless it obtains a self-certification from the Account Holder, or reasonably determines based on information in its possession or that is publicly available, that the Account Holder is not a Reportable Person. 2. Determine Whether the Entity is a Passive NFE with One or More Controlling Persons who are Reportable Persons. With respect to an Account Holder of a Pre-existing Entity Account (including an Entity that is a Reportable Person), the Reporting Malta Financial Institution must determine whether the Account Holder is a Passive NFE with one or more Controlling Persons who are Reportable Persons. If any of the Controlling Persons of a Passive NFE is a Reportable Person, then the account must be treated as a Reportable Account. In making these determinations the Reporting Malta Financial Institution must follow the guidance in sub-paragraphs D(2)(a) through (c) in the order most appropriate under the circumstances.
 
-(a) Determining whether the Account Holder is a Passive NFE. For purposes of determining whether the Account Holder is a Passive NFE, the Reporting Malta Financial Institution must obtain a self-certification from the Account Holder to establish its status, unless it has information in its possession or that is publicly available, based on which it can reasonably determine that the 74 [S.L.123.127 ON TAX MATTERS
-
-Account Holder is an Active NFE or a Financial Institution other than an Investment Entity described in sub-paragraph A(6)(b) of Section VIII that is not a Participating Jurisdiction Financial Institution.
+(a) Determining whether the Account Holder is a Passive NFE. For purposes of determining whether the Account Holder is a Passive NFE, the Reporting Malta Financial Institution must obtain a self-certification from the Account Holder to establish its status, unless it has information in its possession or that is publicly available, based on which it can reasonably determine that the Account Holder is an Active NFE or a Financial Institution other than an Investment Entity described in sub-paragraph A(6)(b) of Section VIII that is not a Participating Jurisdiction Financial Institution.
 
 (b) Determining the Controlling Persons of an Account Holder. For the purposes of determining the Controlling Persons of an Account Holder, a Reporting Malta Financial Institution may rely on information collected and maintained pursuant to AML/KYC Procedures.
 
@@ -2162,8 +1890,6 @@ The following procedures apply for purposes of identifying Reportable Accounts a
 
 Review Procedures for Identifying Entity Accounts With Respect to Which Reporting Is Required. For New Entity Accounts, a Reporting Malta Financial Institution must apply the following review procedures to determine whether the account is held by one or more Reportable Persons, or by Passive NFEs with one or more Controlling Persons who are Reportable Persons:
 
-ON TAX MATTERS [S.L.123.127 75
-
 \1. Determine Whether the Entity Is a Reportable Person.
 
 (a) Obtain a self-certification, which may be part of the account opening documentation, that allows the Reporting Malta Financial Institution to determine the Account Holder’s residence(s) for tax purposes and confirm the reasonableness of such self-certification based on the information obtained by the Reporting Malta Financial Institution in connection with the opening of the account, including any documentation collected pursuant to AML/KYC Procedures. If the Entity certifies that it has no residence for tax purposes, the Reporting Malta Financial Institution may rely on the address of the principal office of the Entity to determine the residence of the Account Holder. (b) If the self-certification indicates that the Account Holder is resident in a Member State, the Reporting Malta Financial Institution must treat the account as a Reportable Account, unless it reasonably determines based on information in its possession or that is publicly available that the Account Holder is not a Reportable Person with respect to such Member State.
@@ -2176,9 +1902,7 @@ ON TAX MATTERS [S.L.123.127 75
 
 For the purposes of determining the Controlling Persons of an Account Holder, a Reporting Malta Financial Institution may rely on information collected and maintained pursuant to AML/KYC Procedures, provided that such procedures are consistent with the procedures established in the Prevention of Money Laundering and Funding of Terrorism Regulations and any binding procedures and guidance issued by virtue of regulation 17 of the said regulations. If the Reporting Malta Financial Institution is not legally required to apply AML/KYC Procedures that are consistent with those outlined in the Prevention of Money Laundering and Funding of Terrorism Regulations, it shall apply substantially similar procedures for the purpose of determining the Controlling Persons.
 
-(c) Determining whether a Controlling Person of a Passive NFE is a 76 [S.L.123.127 ON TAX MATTERS
-
-Reportable Person. For purposes of determining whether a controlling person of a Passive NFE is a Reportable Person, a Reporting Malta Financial Institution may rely on a self-certification from the Account Holder or such Controlling Person.
+(c) Determining whether a Controlling Person of a Passive NFE is a Reportable Person. For purposes of determining whether a controlling person of a Passive NFE is a Reportable Person, a Reporting Malta Financial Institution may rely on a self-certification from the Account Holder or such Controlling Person.
 
 ## SECTION VII — SPECIAL DUE DILIGENCE RULES
 
@@ -2197,8 +1921,6 @@ A Reporting Malta Financial Institution may treat a Financial Account that is a 
 (iii) the aggregate amount payable to any employee/certificate holder or beneficiary does not exceed an amount denominated in Euro that corresponds to USD 1 000 000.
 
 The term "Group Cash Value Insurance Contract" means a Cash Value Insurance Contract that (i) provides coverage on individuals who are affiliated through an employer, trade association, labour union, or other association or group; and (ii) charges a premium for each member of the group (or member of a class within the group) that is determined without regard to the individual health characteristics other than age, gender, and smoking habits of the member (or class of members) of the group.
-
-ON TAX MATTERS [S.L.123.127 77
 
 The term "Group Annuity Contract" means an Annuity Contract under which the obligees are individuals who are affiliated through an employer, trade association, labour union, or other association or group.
 
@@ -2223,8 +1945,6 @@ The following terms have the meanings set forth below:
 A. Reporting Malta Financial Institution
 
 \1. The term "Reporting Malta Financial Institution" means any Malta Financial Institution that is not a Non-Reporting Malta Financial Institution.
-
-78 [S.L.123.127 ON TAX MATTERS
 
 \2. The term "Malta Financial Institution" means:
 
@@ -2260,9 +1980,7 @@ A. Reporting Malta Financial Institution
 
 (iii) otherwise investing, administering, or managing Financial Assets, money, or Reportable Crypto-Assets on behalf of other persons; or
 
-(b) the gross income of which is primarily attributable to investing, reinvesting, or trading in Financial Assets or Reportable Crypto-Assets, if the Entity is managed by another Entity that is a Depository ON TAX MATTERS [S.L.123.127 79
-
-Institution, a Custodial Institution, a Specified Insurance Company, or an Investment Entity as described in sub-paragraph A(6)(a).
+(b) the gross income of which is primarily attributable to investing, reinvesting, or trading in Financial Assets or Reportable Crypto-Assets, if the Entity is managed by another Entity that is a Depository Institution, a Custodial Institution, a Specified Insurance Company, or an Investment Entity as described in sub-paragraph A(6)(a).
 
 An Entity is treated as primarily conducting as a business one (1) or more of the activities described in sub-paragraph A(6)(a), or an Entity’s gross income is primarily attributable to investing, reinvesting, or trading in Financial Assets or Reportable Crypto-Assets for the purposes of sub-paragraph A(6)(b), if the Entity’s gross income attributable to the relevant activities equals or exceeds fifty percent (50%) of the Entity’s gross income during the shorter of:
 
@@ -2282,9 +2000,7 @@ This sub-paragraph shall be interpreted in a manner consistent with similar lang
 
 (b) issued on the receipt of funds for the purpose of making payment transactions;
 
-(c) represented by a claim on the issuer denominated in the same Fiat 80 [S.L.123.127 ON TAX MATTERS
-
-Currency;
+(c) represented by a claim on the issuer denominated in the same Fiat Currency;
 
 (d) accepted in payment by a natural or legal person other than the issuer; and
 
@@ -2310,9 +2026,7 @@ The term "Electronic Money" does not include a product created for the sole purp
 
 (i) with respect to a payment that is derived from an obligation held in connection with a commercial financial activity of a type engaged by a Specified Insurance Company, Custodial Institution, or Depository Institution; or
 
-(ii) with respect to the activity of maintaining Central Bank Digital ON TAX MATTERS [S.L.123.127 81
-
-Currencies for Account Holders which are not Financial Institutions, Governmental Entities, International Organisations or Central Banks;
+(ii) with respect to the activity of maintaining Central Bank Digital Currencies for Account Holders which are not Financial Institutions, Governmental Entities, International Organisations or Central Banks;
 
 (b) a Broad Participation Retirement Fund; a Narrow Participation Retirement Fund; a Pension Fund of a Governmental Entity, International Organisation or Central Bank; or a Qualified Credit Card Issuer;
 
@@ -2334,9 +2048,7 @@ Currencies for Account Holders which are not Financial Institutions, Governmenta
 
 (iii) the Entity’s assets vest in one or more Governmental Entities upon dissolution.
 
-(c) Income does not inure to the benefit of private persons if such persons are the intended beneficiaries of a governmental programme, and the programme activities are performed for the general public with respect to the common welfare or relate to the administration of some phase of 82 [S.L.123.127 ON TAX MATTERS
-
-government. Notwithstanding the foregoing, however, income is considered to inure to the benefit of private persons if the income is derived from the use of a Governmental Entity to conduct a commercial business, such as a commercial banking business, that provides financial services to private persons.
+(c) Income does not inure to the benefit of private persons if such persons are the intended beneficiaries of a governmental programme, and the programme activities are performed for the general public with respect to the common welfare or relate to the administration of some phase of government. Notwithstanding the foregoing, however, income is considered to inure to the benefit of private persons if the income is derived from the use of a Governmental Entity to conduct a commercial business, such as a commercial banking business, that provides financial services to private persons.
 
 \3. The term "International Organisation" means any international organisation or wholly owned agency or instrumentality thereof. This category includes any intergovernmental organisation (including a supranational organisation) (i) that is comprised primarily of governments; (ii) that has in effect a headquarters or substantially similar agreement with the Member State; and (iii) the income of which does not inure to the benefit of private persons.
 
@@ -2358,9 +2070,7 @@ government. Notwithstanding the foregoing, however, income is considered to inur
 
 (iv) contributions (other than certain permitted make-up contributions) by employees to the fund are limited by reference to earned income of the employee or may not exceed, annually, an amount denominated in Euro that corresponds to USD 50 000, applying the rules set forth in paragraph C of Section VII for account aggregation and currency translation.
 
-\6. The term "Narrow Participation Retirement Fund" means a fund established to provide retirement, disability, or death benefits to beneficiaries who are current or former employees (or persons designated by such employees) of one or more ON TAX MATTERS [S.L.123.127 83
-
-employers in consideration for services rendered, provided that:
+\6. The term "Narrow Participation Retirement Fund" means a fund established to provide retirement, disability, or death benefits to beneficiaries who are current or former employees (or persons designated by such employees) of one or more employers in consideration for services rendered, provided that:
 
 (a) the fund has fewer than 50 participants;
 
@@ -2385,8 +2095,6 @@ An Investment Entity that is regulated as a collective investment vehicle does n
 (a) the collective investment vehicle has not issued, and does not issue, any physical shares in bearer form after 31 December 2015;
 
 (b) the collective investment vehicle retires all such shares upon surrender;
-
-84 [S.L.123.127 ON TAX MATTERS
 
 (c) the collective investment vehicle performs the due diligence procedures set forth in Sections II through VII and reports any information required to be reported with respect to any such shares when such shares are presented for redemption or other payment; and
 
@@ -2414,9 +2122,7 @@ The term "Financial Account" does not include any account that is an Excluded Ac
 
 \3. The term "Custodial Account" means an account (other than an Insurance Contract or Annuity Contract) which holds one or more Financial Assets for the benefit of another person.
 
-\4. The term "Equity Interest" means, in the case of a partnership that is a Financial Institution, either a capital or profits interest in the partnership. In the case of a trust that is a Financial Institution, an Equity Interest is considered to be held by any person treated as a settlor or beneficiary of all or a portion of the trust, or any other natural person exercising ultimate effective control over the trust. A ON TAX MATTERS [S.L.123.127 85
-
-Reportable Person will be treated as being a beneficiary of a trust if such Reportable Person has the right to receive directly or indirectly (for example, through a nominee) a mandatory distribution or may receive, directly or indirectly, a discretionary distribution from the trust.
+\4. The term "Equity Interest" means, in the case of a partnership that is a Financial Institution, either a capital or profits interest in the partnership. In the case of a trust that is a Financial Institution, an Equity Interest is considered to be held by any person treated as a settlor or beneficiary of all or a portion of the trust, or any other natural person exercising ultimate effective control over the trust. A Reportable Person will be treated as being a beneficiary of a trust if such Reportable Person has the right to receive directly or indirectly (for example, through a nominee) a mandatory distribution or may receive, directly or indirectly, a discretionary distribution from the trust.
 
 \5. The term "Insurance Contract" means a contract (other than an Annuity Contract) under which the issuer agrees to pay an amount upon the occurrence of a specified contingency involving mortality, morbidity, accident, liability, or property risk.
 
@@ -2441,8 +2147,6 @@ Reportable Person will be treated as being a beneficiary of a trust if such Repo
 (a) a Financial Account maintained by a Reporting Financial Institution as of 31 December 2015 or, if the account is treated as a Financial Account solely by virtue of the amendments to Directive (EU) 2023/2226 of 17 October 2023 amending Directive 2011/16/EU made by Council Directive (EU) 2023/2226 as of 31 December 2025;
 
 (b) any Financial Account of an Account Holder, regardless of the date such Financial Account was opened, if:
-
-86 [S.L.123.127 ON TAX MATTERS
 
 (i) the Account Holder also holds a Financial Account that is a Pre-existing Account under sub-paragraph C(9)(a) with the Reporting Malta Financial Institution, or with a Related Entity within Malta;
 
@@ -2472,9 +2176,7 @@ Reportable Person will be treated as being a beneficiary of a trust if such Repo
 
 (i) the account is subject to regulation as a personal retirement account or is part of a registered or regulated retirement or pension plan for the provision of retirement or pension benefits, including disability or death benefits;
 
-(ii) the account is tax-favoured, that is, contributions to the account ON TAX MATTERS [S.L.123.127 87
-
-that would otherwise be subject to tax are deductible or excluded from the gross income of the Account Holder or taxed at a reduced rate, or taxation of investment income from the account is deferred or taxed at a reduced rate;
+(ii) the account is tax-favoured, that is, contributions to the account that would otherwise be subject to tax are deductible or excluded from the gross income of the Account Holder or taxed at a reduced rate, or taxation of investment income from the account is deferred or taxed at a reduced rate;
 
 (iii) information reporting is required to the tax authorities with respect to the account;
 
@@ -2500,11 +2202,7 @@ A Financial Account that otherwise satisfies the requirement of sub-paragraph C(
 
 A Financial Account that otherwise satisfies the requirement of sub-paragraph C(17)(b)(iv) shall not fail to satisfy such requirement solely because such Financial Account may receive assets or funds transferred from one (1) or more Financial Accounts that meet the requirements of sub-paragraph C(17)(a) or (b) or from one (1) or more retirement or pension funds that satisfy the requirements of any of sub-paragraphs B(5) to (7);
 
-(c) a life insurance contract with a coverage period that ends before the [S.L.123.127 ON TAX MATTERS
-
-insured individual attains age ninety (90), provided that the contract satisfies the following requirements:
-
-*88*
+(c) a life insurance contract with a coverage period that ends before the insured individual attains age ninety (90), provided that the contract satisfies the following requirements:
 
 (i) periodic premiums, which do not decrease over time, are payable at least annually during the period the contract is in force or until the insured attains age ninety (90), whichever period is shorter;
 
@@ -2536,9 +2234,7 @@ the assets of the account, including the income earned thereon, shall be paid or
 
 (v) a foundation or capital increase of a company provided that the account satisfies the following requirements:
 
-\- the account is used exclusively to deposit capital that is to be used for the purposes of the foundation or capital increase of a ON TAX MATTERS [S.L.123.127 89
-
-company, as prescribed by law;
+\- the account is used exclusively to deposit capital that is to be used for the purposes of the foundation or capital increase of a company, as prescribed by law;
 
 \- any amounts held in the account shall be blocked until the Reporting Financial Institution obtains an independent confirmation regarding the foundation or capital increase;
 
@@ -2571,8 +2267,6 @@ The term "Reportable Account" means a Financial Account that is maintained by a 
 *\2.*
 
 The term "Reportable Person" means a Member State Person other than:
-
-90 [S.L.123.127 ON TAX MATTERS
 
 (a) an Entity the stock of which is regularly traded on one (1) or more established securities markets;
 
@@ -2608,9 +2302,7 @@ The term "Controlling Persons" must be interpreted in a manner consistent with t
 
 (a) less than 50% of the NFE’s gross income for the preceding calendar year or other appropriate reporting period is passive income and less than 50% of the assets held by the NFE during the preceding calendar year or other appropriate reporting period are assets that produce or are held for the production of passive income;
 
-(b) the stock of the NFE is regularly traded on an established securities ON TAX MATTERS [S.L.123.127 91
-
-market or the NFE is a Related Entity of an Entity the stock of which is regularly traded on an established securities market;
+(b) the stock of the NFE is regularly traded on an established securities market or the NFE is a Related Entity of an Entity the stock of which is regularly traded on an established securities market;
 
 (c) the NFE is a Governmental Entity, an International Organisation, a Central Bank, or an Entity wholly owned by one or more of the foregoing;
 
@@ -2632,9 +2324,7 @@ market or the NFE is a Related Entity of an Entity the stock of which is regular
 
 (iv) the applicable laws of the NFE’s Member State or other jurisdiction of residence or the NFE’s formation documents do not permit any income or assets of the NFE to be distributed to, or applied for the benefit of, a private person or non-charitable Entity other than pursuant to the conduct of the NFE's charitable activities, or as payment of reasonable compensation for services rendered, or as payment representing the fair market value of property which the NFE has purchased; and
 
-(v) the applicable laws of the NFE’s Member State or other 92 [S.L.123.127 ON TAX MATTERS
-
-jurisdiction of residence or the NFE’s formation documents require that, upon the NFE’s liquidation or dissolution, all of its assets be distributed to a Governmental Entity or other non-profit organisation, or escheat to the government of the NFE’s Member State or other jurisdiction of residence or any political subdivision thereof.
+(v) the applicable laws of the NFE’s Member State or other jurisdiction of residence or the NFE’s formation documents require that, upon the NFE’s liquidation or dissolution, all of its assets be distributed to a Governmental Entity or other non-profit organisation, or escheat to the government of the NFE’s Member State or other jurisdiction of residence or any political subdivision thereof.
 
 E. Miscellaneous
 
@@ -2654,9 +2344,7 @@ E. Miscellaneous
 
 (b) with respect to an individual, any valid identification issued by an authorised government body (for example, a government or agency thereof, or a municipality), that includes the individual's name and is typically used for identification purposes;
 
-(c) with respect to an Entity, any official documentation issued by an authorised government body (for example, a government or agency thereof, or a municipality) that includes the name of the Entity and either the address of its principal office in the Member State or other jurisdiction in which it claims to be a resident or the Member State or ON TAX MATTERS [S.L.123.127 93
-
-other jurisdiction in which the Entity was incorporated or organised;
+(c) with respect to an Entity, any official documentation issued by an authorised government body (for example, a government or agency thereof, or a municipality) that includes the name of the Entity and either the address of its principal office in the Member State or other jurisdiction in which it claims to be a resident or the Member State or other jurisdiction in which the Entity was incorporated or organised;
 
 (d) any audited financial statement, third-party credit report, bankruptcy filing, or securities regulator’s report.
 
@@ -2684,9 +2372,7 @@ L.N. 162 of 2026.
 
 TRANSITIONAL MEASURES
 
-Notwithstanding sub-paragraphs A(1)(b) and (6a) of Section I, with respect to 94 [S.L.123.127 ON TAX MATTERS
-
-each Reportable Account that is maintained by a Reporting Malta Financial Institution as of 31 December 2025 and for reporting periods ending by the second calendar year following such date, information with respect to the roles by virtue of which each Reportable Person is a Controlling Person or Equity Interest holder of the Entity is only required to be reported if such information is available in the electronically searchable data maintained by the Reporting Malta Financial Institution.
+Notwithstanding sub-paragraphs A(1)(b) and (6a) of Section I, with respect to each Reportable Account that is maintained by a Reporting Malta Financial Institution as of 31 December 2025 and for reporting periods ending by the second calendar year following such date, information with respect to the roles by virtue of which each Reportable Person is a Controlling Person or Equity Interest holder of the Entity is only required to be reported if such information is available in the electronically searchable data maintained by the Reporting Malta Financial Institution.
 
 ANNEX II Added by:
 
@@ -2710,9 +2396,7 @@ With respect to New Entity Accounts, for the purposes of determining whether a C
 
 \3. Residence of a Financial Institution
 
-A Financial Institution is "resident" in a Member State if it is subject to the jurisdiction of such Member State (i.e., the Member State is able to enforce reporting by the Financial Institution). In general, where a Financial Institution is resident for tax purposes in a Member State, it is subject to the jurisdiction of such Member State and it is, thus, a Member State Financial Institution. In the case of a trust that is a ON TAX MATTERS [S.L.123.127 95
-
-Financial Institution (irrespective of whether it is resident for tax purposes in a Member State), the trust is considered to be subject to the jurisdiction of a Member State if one or more of its trustees are resident in such Member State except if the trust reports all the information required to be reported pursuant to the EU Administrative Cooperation Directive with respect to Reportable Accounts maintained by the trust to another Member State because it is resident for tax purposes in such other Member State. However, where a Financial Institution (other than a trust) does not have a residence for tax purposes (e.g., because it is treated as fiscally transparent, or it is located in a jurisdiction that does not have an income tax), it is considered to be subject to the jurisdiction of a Member State and it is, thus, a Member State Financial Institution if:
+A Financial Institution is "resident" in a Member State if it is subject to the jurisdiction of such Member State (i.e., the Member State is able to enforce reporting by the Financial Institution). In general, where a Financial Institution is resident for tax purposes in a Member State, it is subject to the jurisdiction of such Member State and it is, thus, a Member State Financial Institution. In the case of a trust that is a Financial Institution (irrespective of whether it is resident for tax purposes in a Member State), the trust is considered to be subject to the jurisdiction of a Member State if one or more of its trustees are resident in such Member State except if the trust reports all the information required to be reported pursuant to the EU Administrative Cooperation Directive with respect to Reportable Accounts maintained by the trust to another Member State because it is resident for tax purposes in such other Member State. However, where a Financial Institution (other than a trust) does not have a residence for tax purposes (e.g., because it is treated as fiscally transparent, or it is located in a jurisdiction that does not have an income tax), it is considered to be subject to the jurisdiction of a Member State and it is, thus, a Member State Financial Institution if:
 
 (a) it is incorporated under the laws of the Member State;
 
@@ -2740,9 +2424,7 @@ An Entity such as a partnership, limited liability partnership or similar legal 
 
 \6. Address of Entity’s principal office
 
-One of the requirements described in sub-paragraph E(6)(c) of Section VIII of Annex I is that, with respect to an Entity, the official documentation includes either 96 [S.L.123.127 ON TAX MATTERS
-
-the address of the Entity’s principal office in the Member State or other jurisdiction in which it claims to be a resident or the Member State or other jurisdiction in which the Entity was incorporated or organised. The address of the Entity's principal office is generally the place in which its place of effective management is situated. The address of a Financial Institution with which the Entity maintains an account, a post office box, or an address used solely for mailing purposes is not the address of the Entity’s principal office unless such address is the only address used by the Entity and appears as the Entity’s registered address in the Entity’s organisational documents. Further, an address that is provided subject to instructions to hold all mail to that address is not the address of the Entity’s principal office.
+One of the requirements described in sub-paragraph E(6)(c) of Section VIII of Annex I is that, with respect to an Entity, the official documentation includes either the address of the Entity’s principal office in the Member State or other jurisdiction in which it claims to be a resident or the Member State or other jurisdiction in which the Entity was incorporated or organised. The address of the Entity's principal office is generally the place in which its place of effective management is situated. The address of a Financial Institution with which the Entity maintains an account, a post office box, or an address used solely for mailing purposes is not the address of the Entity’s principal office unless such address is the only address used by the Entity and appears as the Entity’s registered address in the Entity’s organisational documents. Further, an address that is provided subject to instructions to hold all mail to that address is not the address of the Entity’s principal office.
 
 ANNEX III Added by:
 
@@ -2768,9 +2450,7 @@ L.N. 18 of 2025.
 
 (b) any such business unit that is excluded from the MNE Group's Consolidated Financial Statements solely on size or materiality grounds;
 
-(c) any permanent establishment of any separate business unit of the MNE Group included in (a) or (b) provided the business unit prepares a separate financial statement for such permanent establishment for ON TAX MATTERS [S.L.123.127 97
-
-financial reporting, regulatory, tax reporting, or internal management control purposes.
+(c) any permanent establishment of any separate business unit of the MNE Group included in (a) or (b) provided the business unit prepares a separate financial statement for such permanent establishment for financial reporting, regulatory, tax reporting, or internal management control purposes.
 
 \6. The term "Reporting Entity" means the Constituent Entity that is required to file a country-by-country report conforming to the requirements in regulation 13(4)(c) in its jurisdiction of tax residence on behalf of the MNE Group. The Reporting Entity may be the Ultimate Parent Entity, the Surrogate Parent Entity, or any entity described in point 1 of Section II.
 
@@ -2794,8 +2474,6 @@ financial reporting, regulatory, tax reporting, or internal management control p
 
 \14. The term "Systemic Failure" with respect to a jurisdiction means either that a jurisdiction has a Qualifying Competent Authority Agreement in effect with Malta but has suspended automatic exchange (for reasons other than those that are in accordance with the terms of that Agreement), or that a jurisdiction otherwise persistently failed to automatically provide to Malta country-by-country reports in its possession of MNE Groups that have Constituent Entities in Malta.
 
-98 [S.L.123.127 ON TAX MATTERS
-
 ## SECTION II — GENERAL REPORTING REQUIREMENTS
 
 \1. A Constituent Entity resident in Malta which is not the Ultimate Parent Entity of an MNE Group shall file a country-by-country report with respect to the Reporting Fiscal Year of an MNE Group of which it is a Constituent Entity, if the following criteria are satisfied:
@@ -2812,9 +2490,7 @@ financial reporting, regulatory, tax reporting, or internal management control p
 
 A Constituent Entity resident in Malta as defined in paragraph 1 shall request its Ultimate Parent Entity to provide it with all information required to enable it to meet its obligations to file a country-by-country report, in accordance with regulation 13(4)(c). If despite that, that Constituent Entity has not obtained or acquired all the required information to report for the MNE Group, this Constituent Entity shall file a country-by-country report containing all information in its possession, obtained or acquired, and notify the Commissioner that the Ultimate Parent Entity has refused to make the necessary information available. This shall be without prejudice to the right of the Commissioner to apply penalties provided for in national legislation and the competent authority of Malta shall inform all EU Member States of this refusal. Where there are more than one Constituent Entities of the same MNE Group that are resident for tax purposes in the Union and one or more of the conditions set out in point (b) apply, the MNE Group may designate one of such Constituent Entities to file the country-by-country report conforming to the requirements of regulation 13(4)(c) with respect to any Reporting Fiscal Year within the deadline specified in regulation 13(6) and to notify the Commissioner that the filing is intended to satisfy the filing requirement of all the Constituent Entities of such MNE Group that are resident for tax purposes in the Union. The competent authority of Malta shall, pursuant to regulation 13(4)(b), communicate the country-by-country report received to any other EU Member State in which, on the basis of the information in the country-by-country report, one or more Constituent Entities of the MNE Group of the Reporting Entity are either resident for tax purposes, or are subject to tax with respect to the business carried out through a permanent establishment.
 
-Where a Constituent Entity cannot obtain or acquire all the information required ON TAX MATTERS [S.L.123.127 99
-
-to file a country-by-country report, in line with regulation 13(4)(c), then such Constituent Entity shall not be eligible to be designated to be the reporting entity for the MNE Group in accordance with the fourth paragraph of this point. This rule shall be without prejudice to the obligation of the Constituent Entity to notify the Commissioner that the Ultimate Parent Entity has refused to make the necessary information available.
+Where a Constituent Entity cannot obtain or acquire all the information required to file a country-by-country report, in line with regulation 13(4)(c), then such Constituent Entity shall not be eligible to be designated to be the reporting entity for the MNE Group in accordance with the fourth paragraph of this point. This rule shall be without prejudice to the obligation of the Constituent Entity to notify the Commissioner that the Ultimate Parent Entity has refused to make the necessary information available.
 
 \2. By derogation from point 1, when one or more of the conditions set out in point (b) of the first paragraph of point 1 apply, an entity described in point 1 shall not be required to file a country-by-country report with respect to any Reporting Fiscal Year if the MNE Group of which it is a Constituent Entity has made available a country-by-country report in accordance with regulation 13(4)(c) with respect to such Fiscal Year through a Surrogate Parent Entity that files that country-by-country report with the tax authority of its jurisdiction of tax residence on or before the date specified in regulation 13(6) and that, in case the Surrogate Parent Entity is tax resident in a jurisdiction outside the Union, satisfies the following conditions:
 
@@ -2837,10 +2513,6 @@ to file a country-by-country report, in line with regulation 13(4)(c), then such
 ## SECTION III — Country-by-country Report — A. Template for the country-by-country report
 
 **Table 1: Overview of allocation of income, taxes and business**
-
-*100*
-
-[S.L.123.127 ON TAX MATTERS
 
 activities by tax jurisdiction
 
@@ -2920,8 +2592,6 @@ Name of the MNE group:
 
 Fiscal year concerned:
 
-ON TAX MATTERS [S.L.123.127 101
-
 Please include any further brief information or explanation you consider necessary or that would facilitate the understanding of the compulsory information provided in the country-by-country report
 
 B. General instructions for filling in the country-by-country report
@@ -2947,8 +2617,6 @@ The template shall cover the fiscal year of the Reporting MNE. For Constituent E
 The Reporting MNE shall consistently use the same sources of data from year to year in completing the template. The Reporting MNE may choose to use data from its consolidation reporting packages, from separate entity statutory financial statements, regulatory financial statements, or internal management accounts. It is not necessary to reconcile the revenue, profit and tax reporting in the template to the consolidated financial statements. If statutory financial statements are used as the basis for reporting, all amounts shall be translated to the stated functional currency of the Reporting MNE at the average exchange rate for the year stated in the Additional Information section of the template. Adjustments need not be made, however, for differences in accounting principles applied from tax jurisdiction to tax jurisdiction.
 
 The Reporting MNE shall provide a brief description of the sources of data used in preparing the template in the Additional Information section of the template. If a change is made in the source of data used from year to year, the Reporting MNE shall explain the reasons for the change and its consequences in the Additional Information section of the template.
-
-102 [S.L.123.127 ON TAX MATTERS
 
 C. Specific instructions for filling in the Country-by-Country Report
 
@@ -2980,9 +2648,7 @@ In the sixth column of the template, the Reporting MNE shall report the total am
 
 1.5. Income Tax Accrued (Current Year)
 
-In the seventh column of the template, the Reporting MNE shall report the sum of the accrued current tax expense recorded on taxable profits or losses of the year of ON TAX MATTERS [S.L.123.127 103
-
-reporting of all the Constituent Entities resident for tax purposes in the relevant tax jurisdiction. The current tax expense shall reflect only operations in the current year and shall not include deferred taxes or provisions for uncertain tax liabilities.
+In the seventh column of the template, the Reporting MNE shall report the sum of the accrued current tax expense recorded on taxable profits or losses of the year of reporting of all the Constituent Entities resident for tax purposes in the relevant tax jurisdiction. The current tax expense shall reflect only operations in the current year and shall not include deferred taxes or provisions for uncertain tax liabilities.
 
 1.6. Stated Capital
 
@@ -3008,9 +2674,7 @@ The Reporting MNE shall list, on a tax jurisdiction-by-tax jurisdiction basis an
 
 2.2. Tax Jurisdiction of Organisation or Incorporation if Different from Tax Jurisdiction of Residence
 
-The Reporting MNE shall report the name of the tax jurisdiction under whose laws 104 [S.L.123.127 ON TAX MATTERS
-
-the Constituent Entity of the MNE is organised or incorporated if it is different from the tax jurisdiction of residence.
+The Reporting MNE shall report the name of the tax jurisdiction under whose laws the Constituent Entity of the MNE is organised or incorporated if it is different from the tax jurisdiction of residence.
 
 2.3. Main Business Activity(ies)
 
@@ -3045,8 +2709,6 @@ A. Generic hallmarks linked to the main benefit test
 (b) whether or not a tax advantage is actually derived from the arrangement. This would include an obligation on the intermediary to partially or fully refund the fees where the intended tax advantage derived from the arrangement was not partially or fully achieved.
 
 \3. An arrangement that has substantially standardised documentation and, or structure and is available to more than one relevant taxpayer without a need to be substantially customised for implementation.
-
-ON TAX MATTERS [S.L.123.127 105
 
 B. Specific hallmarks linked to the main benefit test
 
@@ -3084,8 +2746,6 @@ D. Specific hallmarks concerning automatic exchange of information and beneficia
 
 (a) the use of an account, product or investment that is not, or purports not to be, a Financial Account, but has features that are substantially similar to those of a Financial Account;
 
-106 [S.L.123.127 ON TAX MATTERS
-
 (b) the transfer of Financial Accounts or assets to, or the use of jurisdictions that are not bound by the automatic exchange of Financial Account information with the State of residence of the relevant taxpayer;
 
 (c) the re-classification of income and capital into products or payments that are not subject to the automatic exchange of Financial Account information;
@@ -3115,8 +2775,6 @@ E. Specific hallmarks concerning transfer pricing
 (b) at the time the transaction was entered into, the projections of future cash flows or income expected to be derived from the transferred intangible, or the assumptions used in valuing the intangible are highly uncertain, making it difficult to predict the level of ultimate success of the intangible at the time of the transfer.
 
 \3. An arrangement involving an intra-group cross-border transfer of functions and, or risks and, or assets, if the projected annual earnings before interest and taxes (EBIT), during the three-year period after the transfer, of the transferor or transferors, are less than 50% of the projected annual EBIT of such transferor or transferors if the transfer had not been made.
-
-ON TAX MATTERS [S.L.123.127 107
 
 Added by: ANNEX V
 
@@ -3158,8 +2816,6 @@ The term "Platform" does not include software that without any further intervent
 
 \4. "Reporting Platform Operator" means any Platform Operator, other than an Excluded Platform Operator, which is in any of the following situations:
 
-108 [S.L.123.127 ON TAX MATTERS
-
 (a) is resident for tax purposes in a Member State or, where such Platform Operator does not have a residence for tax purposes in a Member State, it fulfils any of the following conditions:
 
 (i) it is incorporated under the laws of a Member State;
@@ -3186,9 +2842,7 @@ The term "Platform" does not include software that without any further intervent
 
 (c) has a permanent establishment in Malta and is not tax resident in Malta or in any other Member State and does not fulfil any of the conditions set out in point 4(a) in any other Member State and is not a Qualified Non-Union Platform Operator;
 
-(d) has a permanent establishment in Malta and is not tax resident in ON TAX MATTERS [S.L.123.127 109
-
-Malta or in any other Member State and fulfils any of the conditions set out in item 4(a) in any other Member State and is not a Qualified Non-Union Platform Operator, and has elected in accordance with part A(2) of Section III to fulfil its reporting obligations in Malta; or
+(d) has a permanent establishment in Malta and is not tax resident in Malta or in any other Member State and fulfils any of the conditions set out in item 4(a) in any other Member State and is not a Qualified Non-Union Platform Operator, and has elected in accordance with part A(2) of Section III to fulfil its reporting obligations in Malta; or
 
 (e) it is not a resident for tax purposes, is not incorporated or managed in a Member State, does not have a permanent establishment in a Member State, but facilitates the carrying out of a Relevant Activity by Reportable Sellers or a Relevant Activity involving the rental of immovable property located in a Member State and is not a Qualified Non-Union Platform Operator and has elected in accordance with the published guidelines referred to in regulation 13(12)(e) to fulfil its reporting obligations in Malta.
 
@@ -3211,8 +2865,6 @@ Provided that the term "Relevant Activity" does not include an activity carried 
 \11. "Consideration" means compensation in any form, net of any fees, commissions or taxes withheld or charged by the Reporting Platform Operator, that is paid or credited to a Seller in connection with the Relevant Activity, the amount of which is known or reasonably knowable by the Platform Operator.
 
 \12. "Personal Service" means a service involving time-based or task-based work performed by one (1) or more individuals, acting either independently or on behalf of an Entity, and which is carried out at the request of a user, either online or physically offline after having been facilitated by means of a Platform.
-
-110 [S.L.123.127 ON TAX MATTERS
 
 B. Reportable Sellers
 
@@ -3238,9 +2890,7 @@ C. Other definitions
 
 \2. "Governmental Entity" means the Government of Malta or other jurisdiction, any political subdivision of Malta or other jurisdiction which includes a state, province, county, or municipality, or any wholly owned agency or instrumentality of Malta or other jurisdiction or of any one or more of the foregoing each, a "Governmental Entity".
 
-\3. "TIN" means a Taxpayer Identification Number, issued by a Member State, ON TAX MATTERS [S.L.123.127 111
-
-or functional equivalent in the absence of a Taxpayer Identification Number.
+\3. "TIN" means a Taxpayer Identification Number, issued by a Member State, or functional equivalent in the absence of a Taxpayer Identification Number.
 
 \4. "VAT identification number" means the unique number that identifies a taxable person or a non-taxable legal entity that is registered for value added tax purposes.
 
@@ -3273,8 +2923,6 @@ B. Collection of Seller Information
 (a) the name and surname;
 
 (b) the Primary Address;
-
-112 [S.L.123.127 ON TAX MATTERS
 
 (c) any TIN issued to such Seller, including each Member State of issuance, and in the absence of a TIN, the place of birth of such Seller;
 
@@ -3310,8 +2958,6 @@ C. Verification of Seller Information
 
 \2. Notwithstanding the provisions of part C(1), for the completion of the due diligence procedures pursuant to part F(2), the Reporting Malta Platform Operator may determine whether the information collected pursuant to part A, part B(1), part B(2)(a) to (e) and part E is reliable, using information and documents available to the Reporting Malta Platform Operator in its electronically searchable records.
 
-ON TAX MATTERS [S.L.123.127 113
-
 \3. In the application of part F(3)(b) and notwithstanding parts C(1) and C(2), in instances where the Reporting Malta Platform Operator has reason to believe that any of the information items described in parts B or E may be inaccurate by virtue of information provided by the competent authority of a Member State in a request concerning a specific Seller, the Reporting Malta Platform Operator is obliged to request the Seller to correct information items that were found to be incorrect and to provide supporting documents, data or information, which are reliable and of independent source, such as:
 
 (a) valid government-issued identification document;
@@ -3334,9 +2980,7 @@ F. Timing and validity of due diligence procedures
 
 \2. Notwithstanding the provisions of part F(1), for Sellers that were already registered on the Platform as of 1st January 2023 or as of the date on which an Entity becomes a Reporting Malta Platform Operator, the due diligence procedures set out in parts A to E are required to be completed by 31st December of the second Reportable Period for the Reporting Malta Platform Operator.
 
-\3. Notwithstanding the provisions of part F(1), a Reporting Malta Platform 114 [S.L.123.127 ON TAX MATTERS
-
-Operator may rely on the due diligence procedures conducted in respect of previous Reportable Periods, provided that:
+\3. Notwithstanding the provisions of part F(1), a Reporting Malta Platform Operator may rely on the due diligence procedures conducted in respect of previous Reportable Periods, provided that:
 
 (a) the Seller information required in parts B(1) and B(2) has been either collected and verified or confirmed within the last thirty-six (36) months; and
 
@@ -3360,9 +3004,7 @@ Where a Seller does not provide the information required in parts A to E, after 
 
 \1. A Reporting Malta Platform Operator shall report to the Commissioner the information set out in part B with respect to the Reportable Period not later than 31 January of the year following the calendar year in which the Seller is identified as a Reportable Seller. Where there is more than one (1) Reporting Platform Operator, a Reporting Malta Platform Operator shall be exempt from reporting the information if it has proof, in conformity with Maltese law, that the same information has been reported by another Reporting Platform Operator:
 
-Provided that the proof may be in such form as the Commissioner may ON TAX MATTERS [S.L.123.127 115
-
-determine.
+Provided that the proof may be in such form as the Commissioner may determine.
 
 \2. If a Reporting Platform Operator within the meaning of part A(4)(a) of Section I fulfils any of the conditions listed therein in more than one (1) Member State, it shall elect one (1) of those Member States in which it shall fulfil the reporting requirements set out in this Section. This election shall be made in such form and manner as the Commissioner may require by means of guidelines published on the website of the Commissioner under the provisions of article 96(2) of the Income Tax Act. The Reporting Platform Operator shall notify all the competent authorities of those Member States of its election. The said Reporting Platform Operator shall report the information listed in part B with respect to the Reportable Period to the competent authority of the Member State of election, as this is determined in accordance with regulation 13(12)(e), not later than 31st January of the year following the calendar year in which the Seller is identified as a Reportable Seller. Where there is more than one (1) Reporting Platform Operator, any of those Reporting Platform Operators shall be exempt from reporting the information if it has proof, in conformity with the national law of the Member State of registration, that the same information has been reported by another Reporting Platform Operator in another Member State.
 
@@ -3380,9 +3022,7 @@ B. Information to be Reported
 
 Each Reporting Malta Platform Operator shall report the following information:
 
-\1. The name, the registered office address, the TIN and, where relevant, the individual identification number of the Reporting Malta Platform Operator allocated 116 [S.L.123.127 ON TAX MATTERS
-
-pursuant to regulation 13(12)(e), as well as the business name of the Platform in respect of which the Reporting Malta Platform Operator is reporting.
+\1. The name, the registered office address, the TIN and, where relevant, the individual identification number of the Reporting Malta Platform Operator allocated pursuant to regulation 13(12)(e), as well as the business name of the Platform in respect of which the Reporting Malta Platform Operator is reporting.
 
 \2. With respect to a Reporting Platform Operator having registered with the Commissioner in Malta as its Member State of its single registration, shall communicate to the Commissioner in Malta the following information:
 
@@ -3412,8 +3052,6 @@ pursuant to regulation 13(12)(e), as well as the business name of the Platform i
 
 (f) any fees, commissions or taxes withheld or charged by the Reporting Malta Platform Operator during each quarter of the Reportable Period.
 
-ON TAX MATTERS [S.L.123.127 117
-
 \4. With respect to each Reportable Seller that carried out Relevant Activity involving immovable property rental:
 
 (a) the information items required to be collected pursuant to part B of Section II;
@@ -3433,8 +3071,6 @@ ON TAX MATTERS [S.L.123.127 117
 (h) where available, the number of days each Property Listing was rented during the Reportable Period and the type of each Property Listing.
 
 \5. Notwithstanding the provisions of sub-paragraph B(2)(a), and sub-paragraph B(3)(a), the Reporting Malta Platform Operator shall not be required to report the information items required to be collected in accordance with paragraph B of Section II, when it reports to a competent authority that uses an Identification Service and relies on direct confirmation of the identity and residence of the Seller through an Identification Service made available by a Member State or the Union to ascertain the identity and all tax residencies of the Seller. In case the Reporting Malta Platform Operator relied on an Identification Service to ascertain the identity and all tax residencies of a Reportable Seller, the name, Identification Service identifiers and the Member States of issuance shall be reported.
-
-118 [S.L.123.127 ON TAX MATTERS
 
 Added by: ANNEX VI
 
@@ -3466,8 +3102,6 @@ A. A Reporting Malta Crypto-Asset Service Provider as defined in sub-paragraph B
 
 B. A Reporting Malta Crypto-Asset Service Provider shall be subject to the reporting and due diligence requirements established in Sections II and III, respectively, in Malta with respect to Reportable Transactions effectuated through a Branch based in Malta.
 
-ON TAX MATTERS [S.L.123.127 119
-
 C. A Reporting Malta Crypto-Asset Service Provider that is an Entity is not required to complete the reporting and due diligence requirements established in Sections II and III, respectively, in Malta if it falls within scope of sub-paragraph A(2)(b), (c) or (d), if those requirements are completed by such Reporting Malta Crypto-Asset Service Provider in any other Member State or in a Qualified Non-Union Jurisdiction by virtue of it being resident for tax purposes in such Member State or Qualified Non-Union Jurisdiction.
 
 D. A Reporting Malta Crypto-Asset Service Provider that is an Entity is not required to complete the reporting and due diligence requirements established in Sections II and III, respectively, in Malta if it falls within the scope of sub-paragraph A(2)(c) or (d), if those requirements are completed by such Reporting Malta Crypto- Asset Service Provider in any other Member State or in a Qualified Non-Union Jurisdiction by virtue of it being an Entity that:
@@ -3482,9 +3116,7 @@ F. A Reporting Crypto-Asset Service Provider that is an individual is not requir
 
 G. A Reporting Crypto-Asset Service Provider is not required to complete the reporting and due diligence requirements established in Sections II and III, respectively, in Malta if it falls within the scope of sub-paragraph A(2)(a), (b), (c) or (d), if it has filed a notification with the Commissioner for Tax and Customs in such form as the Commissioner may determine, confirming that those requirements are completed by such Reporting Crypto-Asset Service Provider under the rules of any other Member State or Qualified Non-Union Jurisdiction pursuant to criteria that are substantially similar to sub-paragraph A(2)(a), (b), (c) or (d), respectively.
 
-H. A Reporting Crypto-Asset Service Provider is not required to complete the reporting and due diligence requirements established in Sections II and III, respectively, in Malta with respect to Reportable Transactions it effectuates through a Branch in any other Member State or Qualified Non-Union Jurisdiction, if those requirements are completed by such Branch in such other Member State or Qualified Non-Union 120 [S.L.123.127 ON TAX MATTERS
-
-Jurisdiction.
+H. A Reporting Crypto-Asset Service Provider is not required to complete the reporting and due diligence requirements established in Sections II and III, respectively, in Malta with respect to Reportable Transactions it effectuates through a Branch in any other Member State or Qualified Non-Union Jurisdiction, if those requirements are completed by such Branch in such other Member State or Qualified Non-Union Jurisdiction.
 
 ## SECTION II — REPORTING REQUIREMENTS
 
@@ -3505,8 +3137,6 @@ Notwithstanding sub-paragraph B(1), first sub-paragraph, where the Reporting Mal
 (b) the aggregate gross amount paid, the aggregate number of units and the number of Reportable Transactions in respect of acquisitions against Fiat Currency;
 
 (c) the aggregate gross amount received, the aggregate number of units and the number of Reportable Transactions in respect of disposals against Fiat Currency;
-
-ON TAX MATTERS [S.L.123.127 121
 
 (d) the aggregate fair market value, the aggregate number of units and the number of Reportable Transactions in respect of acquisitions against other Reportable Crypto-Assets;
 
@@ -3530,9 +3160,7 @@ C. Notwithstanding sub-paragraph B(1), the place of birth is not required to be 
 
 D. The information listed in paragraph B shall be reported annually in the calendar year following the year to which the information relates. The first information shall be reported for the relevant calendar year or other appropriate reporting period as from 1 January 2026.
 
-E. Notwithstanding paragraphs A and D of this Section, a Reporting Malta Crypto-Asset Service Provider within the meaning of Section I, sub-paragraph A(2), point (a), (b), (c) or (d), shall not be required to provide the information listed in paragraph B of this Section with respect to a Reportable 122 [S.L.123.127 ON TAX MATTERS
-
-User or Controlling Person for which the Reporting Malta Crypto-Asset Service Provider completes the reporting of such information in a non-Union jurisdiction that is covered by an Effective Qualifying Competent Authority Agreement with the Member State of residence of such Reportable User or such Controlling Person.
+E. Notwithstanding paragraphs A and D of this Section, a Reporting Malta Crypto-Asset Service Provider within the meaning of Section I, sub-paragraph A(2), point (a), (b), (c) or (d), shall not be required to provide the information listed in paragraph B of this Section with respect to a Reportable User or Controlling Person for which the Reporting Malta Crypto-Asset Service Provider completes the reporting of such information in a non-Union jurisdiction that is covered by an Effective Qualifying Competent Authority Agreement with the Member State of residence of such Reportable User or such Controlling Person.
 
 ## SECTION III — DUE DILIGENCE PROCEDURES
 
@@ -3552,9 +3180,7 @@ The following procedures apply for the purpose of determining whether the Entity
 
 \1. Determining whether the Entity Crypto-Asset User is a Reportable Person.
 
-(a) When establishing the relationship with the Entity Crypto-Asset User, or with respect to Pre-existing Entity Crypto-Assets Users by 1 January 2027, the Reporting Malta Crypto-Asset Service Provider shall obtain a self-certification that allows the Reporting Malta Crypto-Asset Service Provider to determine the Entity Crypto-Asset User’s residences for tax purposes and confirm the reasonableness of such self-certification based on the information obtained by the Reporting Malta Crypto-Asset Service Provider, including any documentation collected in accordance ON TAX MATTERS [S.L.123.127 123
-
-with Customer Due Diligence Procedures. If the Entity Crypto-Asset User certifies that it has no residence for tax purposes, the Reporting Malta Crypto-Asset Service Provider may rely on the place of effective management or the address of the principal office to determine the residence of the Entity Crypto-Asset User.
+(a) When establishing the relationship with the Entity Crypto-Asset User, or with respect to Pre-existing Entity Crypto-Assets Users by 1 January 2027, the Reporting Malta Crypto-Asset Service Provider shall obtain a self-certification that allows the Reporting Malta Crypto-Asset Service Provider to determine the Entity Crypto-Asset User’s residences for tax purposes and confirm the reasonableness of such self-certification based on the information obtained by the Reporting Malta Crypto-Asset Service Provider, including any documentation collected in accordance with Customer Due Diligence Procedures. If the Entity Crypto-Asset User certifies that it has no residence for tax purposes, the Reporting Malta Crypto-Asset Service Provider may rely on the place of effective management or the address of the principal office to determine the residence of the Entity Crypto-Asset User.
 
 (b) If the self-certification indicates that the Entity Crypto-Asset User is resident in a Member State, the Reporting Malta Crypto-Asset Service Provider shall treat the Entity Crypto-Asset User as a Reportable User, unless it reasonably determines based on the self-certification or on information in its possession or that is publicly available, that the Entity Crypto-Asset User is an Excluded Person.
 
@@ -3568,9 +3194,7 @@ with Customer Due Diligence Procedures. If the Entity Crypto-Asset User certifie
 
 C. Requirements for validity of self-certifications
 
-\1. A self-certification provided by an Individual Crypto-Asset User or Controlling Person is valid only if it is signed or otherwise positively affirmed by the 124 [S.L.123.127 ON TAX MATTERS
-
-Individual Crypto-Asset User or Controlling Person, it is dated at the latest at the date of receipt and it contains the following information with respect to the Individual Crypto-Asset User or Controlling Person:
+\1. A self-certification provided by an Individual Crypto-Asset User or Controlling Person is valid only if it is signed or otherwise positively affirmed by the Individual Crypto-Asset User or Controlling Person, it is dated at the latest at the date of receipt and it contains the following information with respect to the Individual Crypto-Asset User or Controlling Person:
 
 (a) first and last name;
 
@@ -3602,7 +3226,7 @@ D. General due diligence requirements
 
 \2. A Reporting Malta Crypto-Asset Service Provider may rely on a third party to fulfil the due diligence obligations set out in this Section, but such obligations remain the responsibility of the Reporting Malta Crypto-Asset Service Provider.
 
-## SECTION IV — DEFINED TERMS — ON TAX MATTERS [S.L.123.127 125
+## SECTION IV — DEFINED TERMS
 
 The following terms have the meaning established below:
 
@@ -3636,10 +3260,6 @@ B. Reporting Crypto-Asset Service Provider
 
 \2. "Crypto-Asset Operator" means a provider of Crypto-Asset Services other than a Crypto-Asset Service Provider.
 
-*126*
-
-[S.L.123.127 ON TAX MATTERS
-
 \3. "Reporting Crypto-Asset Service Provider" means any Crypto- Asset Service Provider and any Crypto-Asset Operator that conducts one (1) or more Crypto-Asset Services effectuating Exchange Transactions for, or on behalf of a Reportable User.
 
 \4. "Crypto-Asset Service" means crypto-asset service as defined in Article 3(1), point (16), of Regulation (EU) 2023/1114, including staking and lending.
@@ -3668,9 +3288,7 @@ D. Reportable User
 
 \1. "Reportable User" means a Crypto-Asset User that is a Reportable Person resident in a Member State.
 
-\2. "Crypto-Asset User" means an individual or Entity that is a customer of a Reporting Crypto-Asset Service Provider for the purpose of carrying out Reportable Transactions. An individual or Entity, other than a ON TAX MATTERS [S.L.123.127 127
-
-Financial Institution or a Reporting Crypto-Asset Service Provider, acting as a Crypto-Asset User for the benefit or account of another individual or Entity as agent, custodian, nominee, signatory, investment advisor, or intermediary, is not treated as a Crypto-Asset User, and such other individual or Entity is treated as the Crypto-Asset User. Where a Reporting Crypto-Asset Service Provider provides a service effectuating Reportable Retail Payment Transactions for, or on behalf of a merchant, the Reporting Crypto-Asset Service Provider shall also treat the customer that is the counterparty to the merchant for such Reportable Retail Payment Transactions as the Crypto-Asset User with respect to such Reportable Retail Payment Transaction, provided that the Reporting Crypto- Asset Service Provider is required to verify the identity of such customer by virtue of the Reportable Retail Payment Transaction in accordance with domestic anti-money laundering rules.
+\2. "Crypto-Asset User" means an individual or Entity that is a customer of a Reporting Crypto-Asset Service Provider for the purpose of carrying out Reportable Transactions. An individual or Entity, other than a Financial Institution or a Reporting Crypto-Asset Service Provider, acting as a Crypto-Asset User for the benefit or account of another individual or Entity as agent, custodian, nominee, signatory, investment advisor, or intermediary, is not treated as a Crypto-Asset User, and such other individual or Entity is treated as the Crypto-Asset User. Where a Reporting Crypto-Asset Service Provider provides a service effectuating Reportable Retail Payment Transactions for, or on behalf of a merchant, the Reporting Crypto-Asset Service Provider shall also treat the customer that is the counterparty to the merchant for such Reportable Retail Payment Transactions as the Crypto-Asset User with respect to such Reportable Retail Payment Transaction, provided that the Reporting Crypto- Asset Service Provider is required to verify the identity of such customer by virtue of the Reportable Retail Payment Transaction in accordance with domestic anti-money laundering rules.
 
 \3. "Individual Crypto-Asset User" means a Crypto-Asset User that is an individual.
 
@@ -3685,10 +3303,6 @@ Financial Institution or a Reporting Crypto-Asset Service Provider, acting as a 
 \8. "Member State Person" with regard to Malta means an Entity or individual that is resident in any other Member State under the tax laws of such Member State, or an estate of a deceased person who was a resident of any Member State. For that purpose, an Entity such as a partnership, limited liability partnership or similar legal arrangement that has no residence for tax purposes shall be treated as resident in the jurisdiction in which its place of effective management is situated.
 
 \9. "Controlling Persons" means the natural persons who exercise control over an Entity. In the case of a trust, such term means the settlors, the trustees, the protectors, if any, the beneficiaries or classes of beneficiaries, and any other natural persons exercising ultimate effective control over the trust, and in the case of a legal arrangement other than a trust, such term means persons in equivalent or similar positions. The term "Controlling Persons" must be interpreted in a manner consistent with the definition of "Beneficial Owner" contained in regulation 2 as well as that contained in regulation 2 of the Prevention of Money Laundering and Funding of Terrorism Regulations, and the level of control shall also be determined in line with such definitions, as far as Reporting Crypto-Asset Service Providers are concerned.
-
-*128*
-
-[S.L.123.127 ON TAX MATTERS
 
 \10. "Active Entity" means any Entity that meets any of the following criteria:
 
@@ -3707,8 +3321,6 @@ Financial Institution or a Reporting Crypto-Asset Service Provider, acting as a 
 (i) it is established and operated in its jurisdiction of residence exclusively for religious, charitable, scientific, artistic, cultural, athletic, or educational purposes; or it is established and operated in its jurisdiction of residence, and it is a professional organisation, business league, chamber of commerce, labour organisation, agricultural or horticultural organisation, civic league or an organisation operated exclusively for the promotion of social welfare;
 
 (ii) it is exempt from income tax in its jurisdiction of residence;
-
-ON TAX MATTERS [S.L.123.127 129
 
 (iii) it has no shareholders or members who have a proprietary or beneficial interest in its income or assets;
 
@@ -3738,10 +3350,6 @@ E. Excluded Person
 
 (i) the three (3) year period that ends on 31st December, or the final day of a non-calendar year accounting period, prior to the year in which the determination is being made; or
 
-*130*
-
-[S.L.123.127 ON TAX MATTERS
-
 (ii) the period during which the Entity has been in existence.
 
 \4. "Depository Institution" means any Entity that:
@@ -3770,9 +3378,7 @@ An Entity is treated as primarily conducting as a business one (1) or more of th
 
 For the purposes of sub-paragraph E(5), point (a)(iii), the term "otherwise investing, administering, or managing Financial Assets, money, or Reportable Crypto-Assets on behalf of other persons" does not include the provision of services effectuating Exchange Transactions for or on behalf of customers. The term "Investment Entity" does not include an Entity that is an Active Entity because it meets any of the criteria in sub-paragraph D(10), points (b) to (e).
 
-This sub-paragraph shall be interpreted in a manner consistent with the ON TAX MATTERS [S.L.123.127 131
-
-similar language stipulated in the definition of "financial institution" in Article 3, point (2), of Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing.
+This sub-paragraph shall be interpreted in a manner consistent with the similar language stipulated in the definition of "financial institution" in Article 3, point (2), of Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing.
 
 \6. "Specified Insurance Company" means any Entity that is an insurance company, or the holding company of an insurance company, that issues, or is obligated to make payments with respect to, a Cash Value Insurance Contract or an Annuity Contract.
 
@@ -3791,8 +3397,6 @@ similar language stipulated in the definition of "financial institution" in Arti
 (c) Income does not inure to the benefit of private persons if such persons are the intended beneficiaries of a governmental programme, and the programme activities are performed for the general public with respect to the common welfare or relate to the administration of some phase of government. Notwithstanding the foregoing however, income is considered to inure to the benefit of private persons if the income is derived from the use of a governmental entity to conduct a commercial business, such as a commercial banking business, that provides financial services to private persons.
 
 \8. "International Organisation" means any international organisation or wholly owned agency or instrumentality thereof. This category includes any intergovernmental organisation, including a supranational organisation:
-
-132 [S.L.123.127 ON TAX MATTERS
 
 (a) that is comprised primarily of governments;
 
@@ -3816,8 +3420,6 @@ similar language stipulated in the definition of "financial institution" in Arti
 
 (ii) the amount the policyholder can borrow under or with regard to the contract. Notwithstanding the foregoing, the term "Cash Value" does not include an amount payable under an Insurance Contract:
 
-ON TAX MATTERS [S.L.123.127 133
-
 (a) solely by reason of the death of an individual insured under a life insurance contract;
 
 (b) as a personal injury or sickness benefit or other benefit providing indemnification of an economic loss incurred upon the occurrence of the event insured against;
@@ -3840,9 +3442,7 @@ F. Miscellaneous
 
 \5. "Effective Qualifying Competent Authority Agreement" means an agreement between the competent authorities of a Member State and a non-Union jurisdiction that requires the automatic exchange of information corresponding to that specified in Section II, paragraph B, of this Annex, as determined by an implementing act in accordance with Article 8ad(11) of the EU Administrative Cooperation Directive.
 
-\6. "Qualified Non-Union Jurisdiction" means a non-Union jurisdiction that has in effect an Effective Qualifying Competent Authority Agreement with the competent authorities of all Member States which are identified as reportable 134 [S.L.123.127 ON TAX MATTERS
-
-jurisdictions in a list published by the non-Union jurisdiction.
+\6. "Qualified Non-Union Jurisdiction" means a non-Union jurisdiction that has in effect an Effective Qualifying Competent Authority Agreement with the competent authorities of all Member States which are identified as reportable jurisdictions in a list published by the non-Union jurisdiction.
 
 \7. "TIN" means Taxpayer Identification Number, or functional equivalent in the absence of a Taxpayer Identification Number. The TIN is any number or code that a competent authority uses to identify a taxpayer.
 
@@ -3864,9 +3464,7 @@ B. Rules requiring Reporting Malta Crypto-Asset Service Providers to keep record
 
 C. Administrative procedures to verify compliance of Reporting Malta Crypto-Asset Service Providers with the reporting requirements and due diligence procedures
 
-Administrative procedures shall be set to verify the compliance of Reporting ON TAX MATTERS [S.L.123.127 135
-
-Malta Crypto-Asset Service Providers with the reporting requirements and due diligence procedures stipulated in Sections II and III, respectively.
+Administrative procedures shall be set to verify the compliance of Reporting Malta Crypto-Asset Service Providers with the reporting requirements and due diligence procedures stipulated in Sections II and III, respectively.
 
 D. Administrative procedures to follow up with Reporting Malta Crypto- Asset Service Providers where incomplete or inaccurate information is reported
 
@@ -3892,9 +3490,7 @@ Notwithstanding sub-paragraph F(1), first sub-paragraph, a Crypto-Asset Operator
 
 (d) any TIN issued to the Crypto-Asset Operator;
 
-(e) Member States in which Reportable Users are residents within the 136 [S.L.123.127 ON TAX MATTERS
-
-meaning of Section III, paragraphs A and B;
+(e) Member States in which Reportable Users are residents within the meaning of Section III, paragraphs A and B;
 
 (f) any Qualified Non-Union Jurisdiction as referred to in Section I, paragraphs C, D, E, F or H.
 

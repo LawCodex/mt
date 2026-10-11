@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science in Materials Engineering under the auspices of the Faculty of Engineering - Repealed by Legal Notice 3 of 2020 (S.L. 327.385)
 
-DEGREE OF MASTER OF SCIENCE IN MATERIALS
-
-ENGINEERING UNDER THE AUSPICES
-
-*1*
-
-OF THE FACULTY OF ENGINEERING [S.L.327.385
-
 **SUBSIDIARY LEGISLATION 327.385**
 
 BYE-LAWS FOR THE DEGREE OF MASTER OF

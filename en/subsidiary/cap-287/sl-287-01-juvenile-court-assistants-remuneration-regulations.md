@@ -1,6 +1,6 @@
 ---
 title: "Juvenile Court (Assistants' Remuneration) Regulations"
-identifier: "S.L. 287.1"
+identifier: "S.L. 287.01"
 eli: "https://legislation.mt/eli/sl/287.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/287.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Juvenile Court (Assistants' Remuneration) Regulations (S.L. 287.1)
+# Juvenile Court (Assistants' Remuneration) Regulations (S.L. 287.01)
 
 **SUBSIDIARY LEGISLATION 287.01**
 

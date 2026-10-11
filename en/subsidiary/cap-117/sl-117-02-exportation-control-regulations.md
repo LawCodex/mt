@@ -1,6 +1,6 @@
 ---
 title: "Exportation Control Regulations"
-identifier: "S.L. 117.2"
+identifier: "S.L. 117.02"
 eli: "https://legislation.mt/eli/sl/117.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/117.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Exportation Control Regulations (S.L. 117.2)
+# Exportation Control Regulations (S.L. 117.02)
 
 **SUBSIDIARY LEGISLATION 117.02**
 
@@ -125,38 +125,21 @@ No bank shall pay or arrange for the payment of any money for goods exported unl
 
 No person shall take or cause to be taken to any quay or other place any goods without a permit from the Comptroller of Customs, and all goods intended for exportation or as ships’ stores shall be shipped only from such place as shall be stated in the said permit.
 
-## 18.
+## 18. Non-applicability of these regulations.
 
-The provisions of these regulations shall not apply in so far as they are inconsistent with any international agreement,
+*Substituted by: L.N. 80 of 1967.*
 
-arrangement or understanding to which the Government of Malta is  Substituted by:  
-a party.  L.N. 80 of 1967.  
-\19. Any person who contravenes or fails to comply with any of  Offences and  
-penalties.  
-these regulations shall be guilty of an offence against these  
-Amended by:  
-regulations and shall, on conviction before the Court of Magistrates  L.N. 114 of 1974;  
-(Malta) or the Court of Magistrates (Gozo) sitting as a Courts of  L.N. 409 of 2007.  
-Criminal Judicature, be liable to punishment as follows:  
-(a) when the value of the goods which have been exported  
-or in respect of the exportation of which an attempt or  
-a preparatory act has been made does not exceed forty-  
-six euros and fifty-nine cents (46.59), to a fine (multa)  
-of not less than twenty-three euros and twenty-nine  
-cents (23.29) but not exceeding one hundred and  
-sixteen euros and forty-seven cents (116.47);  
-(b) when the value of the goods which have been exported  
-or in respect of the exportation of which an attempt or  
-some preparatory act has been made, exceeds forty-six  
-euros and fifty-nine cents (46.59) but does not exceed  
-one thousand and one hundred and sixty-four euros  
-and sixty-nine cents (1,164.69), to a fine (multa) of not  
-less than two hundred and thirty-two euros and ninety-  
-four cents (232.94) but not exceeding one thousand  
-and one hundred and sixty-four euros and sixty-nine  
-cents (1,164.69) or to imprisonment for a term not
+The provisions of these regulations shall not apply in so far as they are inconsistent with any international agreement, arrangement or understanding to which the Government of Malta is a party.
 
-exceeding three months or to both such fine and such imprisonment;
+## 19. Offences and penalties.
+
+*Amended by: L.N. 114 of 1974; L.N. 409 of 2007.*
+
+Any person who contravenes or fails to comply with any of these regulations shall be guilty of an offence against these regulations and shall, on conviction before the Court of Magistrates (Malta) or the Court of Magistrates (Gozo) sitting as a Courts of Criminal Judicature, be liable to punishment as follows:
+
+(a) when the value of the goods which have been exported or in respect of the exportation of which an attempt or a preparatory act has been made does not exceed forty-six euros and fifty-nine cents (46.59), to a fine (multa) of not less than twenty-three euros and twenty-nine cents (23.29) but not exceeding one hundred and sixteen euros and forty-seven cents (116.47);
+
+(b) when the value of the goods which have been exported or in respect of the exportation of which an attempt or some preparatory act has been made, exceeds forty-six euros and fifty-nine cents (46.59) but does not exceed one thousand and one hundred and sixty-four euros and sixty-nine cents (1,164.69), to a fine (multa) of not less than two hundred and thirty-two euros and ninety-four cents (232.94) but not exceeding one thousand and one hundred and sixty-four euros and sixty-nine cents (1,164.69) or to imprisonment for a term not exceeding three months or to both such fine and such imprisonment;
 
 (c) when the value of the goods which have been exported or in respect of the exportation of which an attempt or some preparatory act has been made exceeds one thousand and one hundred and sixty-four euros and sixty-nine cents (1,164.69), to a fine (multa) of not less than four hundred and sixty-five euros and eighty-seven cents (465.87) but not exceeding two thousand and three hundred and twenty-nine euros and thirty-seven cents (2,329.37) and to imprisonment for a term not exceeding six months;
 

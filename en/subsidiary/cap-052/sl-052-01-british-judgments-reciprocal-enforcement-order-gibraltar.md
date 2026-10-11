@@ -1,6 +1,6 @@
 ---
 title: "British Judgments Reciprocal Enforcement Order - Gibraltar"
-identifier: "S.L. 52.1"
+identifier: "S.L. 52.01"
 eli: "https://legislation.mt/eli/sl/52.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/52.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# British Judgments Reciprocal Enforcement Order - Gibraltar (S.L. 52.1)
-
-BRITISH JUDGMENTS
-
-*1*
-
-RECIPROCAL ENFORCEMENT - GIBRALTAR [ S.L.52.01
+# British Judgments Reciprocal Enforcement Order - Gibraltar (S.L. 52.01)
 
 **SUBSIDIARY LEGISLATION 52.01**
 

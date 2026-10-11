@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Postgraduate Diploma in Education (Inclusion and Individual Educational Needs in Primary Schools) Course Regulations (S.L. 327.284)
 
-POSTGRADUATE DIPLOMA IN EDUCATION
-
-(INCLUSION AND INDIVIDUAL EDUCATIONAL NEEDS
-
-*1*
-
-IN PRIMARY SCHOOLS) COURSE [S.L.327.284
-
 **SUBSIDIARY LEGISLATION 327.284**
 
 **POSTGRADUATE DIPLOMA IN EDUCATION**

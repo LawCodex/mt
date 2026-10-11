@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master in Environmental Management and Planning under the auspices of the Institute of Earth Systems (S.L. 327.283)
 
-MANAGEMENT AND PLANNING UNDER THE AUSPICES
-
-*1*
-
-OF THE INSTITUTE OF EARTH SYSTEMS [S.L.327.283
-
 **SUBSIDIARY LEGISLATION 327.283**
 
 BYE-LAWS FOR THE DEGREE OF MASTER OF IN ENVIRONMENTAL MANAGEMENT AND
@@ -73,13 +67,9 @@ These bye-laws shall be applicable for courses commencing in February 2009 or la
 
 ## 4. Duration of course.
 
-The course shall extend over four semesters of full-time MANAGEMENT AND PLANNING UNDER THE AUSPICES [S.L.327.283 OF THE INSTITUTE OF EARTH SYSTEMS
+The course shall extend over four semesters of full-time study or the equivalent in part-time study.
 
 \*These bye-laws have been repealed by Legal Notice 185 of 2022.
-
-study or the equivalent in part-time study.
-
-*2*
 
 ## 5. Programme of study.
 
@@ -119,11 +109,7 @@ The programme of study shall be published after approval by Senate, normally not
 
 (2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies, whether the student is following the course on a full-time or a part-time basis. Such reports may include a recommendation to either -
 
-(a) extend the period of study in order to enable the MANAGEMENT AND PLANNING UNDER THE AUSPICES
-
-*3*
-
-OF THE INSTITUTE OF EARTH SYSTEMS [S.L.327.283 student to complete the dissertation; or
+(a) extend the period of study in order to enable the student to complete the dissertation; or
 
 (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 

@@ -1,6 +1,6 @@
 ---
 title: "Vesting Day regarding United Kingdom Lands Notice"
-identifier: "S.L. 193.1"
+identifier: "S.L. 193.01"
 eli: "https://legislation.mt/eli/sl/193.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/193.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Vesting Day regarding United Kingdom Lands Notice (S.L. 193.1)
+# Vesting Day regarding United Kingdom Lands Notice (S.L. 193.01)
 
 **SUBSIDIARY LEGISLATION 193.01**
 

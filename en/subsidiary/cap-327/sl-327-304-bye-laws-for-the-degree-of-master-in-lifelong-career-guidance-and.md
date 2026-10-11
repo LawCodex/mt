@@ -15,11 +15,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the degree of Master in Lifelong Career Guidance and Development under the auspices of the Centre for Labour Studies and the Faculty of Education (S.L. 327.304)
 
-DEVELOPMENT UNDER THE AUSPICES OF THE CENTRE FOR
-
-*1*
-
-LABOUR STUDIES AND FACULTY OF EDUCATION [S.L.327.304 SUBSIDIARY LEGISLATION 327.304
+**SUBSIDIARY LEGISLATION 327.304**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER IN**
 
@@ -69,10 +65,6 @@ These bye-laws shall be applicable for courses commencing in October 2017 or lat
 
 (3) All applicants shall be required to demonstrate that they have the necessary aptitude and disposition to follow the course with profit.
 
-*2*
-
-DEVELOPMENT UNDER THE AUSPICES OF THE CENTRE FOR [S.L.327.304 LABOUR STUDIES AND FACULTY OF EDUCATION
-
 (4) Professional aptitude and disposition shall be measured by means of a personal interview conducted by a board appointed for the purpose.
 
 (5) The Board of Studies shall recommend to Senate the number of applicants that may be allowed to register on the course, depending on the availability of resources. The number of available places shall be announced at the time of the call for applications.
@@ -116,12 +108,6 @@ The programme of study shall be published after approval by Senate, normally not
 ## 9. Assessment and progress.
 
 (1) The assessment of each taught study-unit shall be completed by the end of the semester in which the teaching of the study-unit is held.
-
-DEVELOPMENT UNDER THE AUSPICES OF THE CENTRE FOR
-
-*3*
-
-LABOUR STUDIES AND FACULTY OF EDUCATION [S.L.327.304
 
 (2) Students who in any academic year fail in the assessment of not more than 20 ECTS credits for taught study-units if following the full-time Course, or not more than 10 ECTS credits if following the part-time course, shall be given the opportunity to re-sit the failed assessments during the September supplementary examination session.
 

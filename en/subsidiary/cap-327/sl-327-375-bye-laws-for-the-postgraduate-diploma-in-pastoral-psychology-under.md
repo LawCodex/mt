@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Postgraduate Diploma in Pastoral Psychology under the auspices of the Faculty of Theology (S.L. 327.375)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF THEOLOGY [S.L.327.375
-
 **SUBSIDIARY LEGISLATION 327.375**
 
 BYE-LAWS FOR THE POSTGRADUATE DIPLOMA IN PASTORAL PSYCHOLOGY UNDER THE
@@ -70,11 +66,9 @@ The course shall extend over two semesters of full-time study or the equivalent 
 
 The programme of study shall comprise study-units to which a total of 60 credits shall be assigned.
 
-*2*
+## 6. Publication of programme of study.
 
-[S.L.327.375 UNDER THE AUSPICES OF THE FACULTY OF THEOLOGY 6. The programme of study shall be published after approval by Senate, normally not less than eight months prior to the commencement of the course.
-
-*Publication of programme of study.*
+The programme of study shall be published after approval by Senate, normally not less than eight months prior to the commencement of the course.
 
 ## 7. Assessment and progress.
 

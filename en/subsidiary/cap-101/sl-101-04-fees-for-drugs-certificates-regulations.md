@@ -1,6 +1,6 @@
 ---
 title: "Fees for Drugs Certificates Regulations"
-identifier: "S.L. 101.4"
+identifier: "S.L. 101.04"
 eli: "https://legislation.mt/eli/sl/101.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/101.4/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Fees for Drugs Certificates Regulations (S.L. 101.4)
+# Fees for Drugs Certificates Regulations (S.L. 101.04)
 
 **SUBSIDIARY LEGISLATION 101.04**
 

@@ -1,6 +1,6 @@
 ---
 title: "Forms for the Valuation of Developed Land Order"
-identifier: "S.L. 110.1"
+identifier: "S.L. 110.01"
 eli: "https://legislation.mt/eli/sl/110.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/110.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Forms for the Valuation of Developed Land Order (S.L. 110.1)
+# Forms for the Valuation of Developed Land Order (S.L. 110.01)
 
 **SUBSIDIARY LEGISLATION 110.01**
 

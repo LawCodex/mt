@@ -1,6 +1,6 @@
 ---
 title: "Adoption Regulations"
-identifier: "S.L. 16.4"
+identifier: "S.L. 16.04"
 eli: "https://legislation.mt/eli/sl/16.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/16.4/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Adoption Regulations (S.L. 16.4)
+# Adoption Regulations (S.L. 16.04)
 
 SUBSIDIARY LEGISLATION 16.04
 

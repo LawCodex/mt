@@ -15,13 +15,7 @@ retrieved: 2026-10-12
 
 # Fees for Certificates under the Convention on International Trade in Endangered Species of Wild Fauna and Flora Regulations (S.L. 35.20)
 
-FEES FOR CERTIFICATES UNDER THE CONVENTION ON
-
-INTERNATIONAL TRADE IN ENDANGERED SPECIES OF
-
-*1*
-
-WILD FAUNA AND FLORA [S.L.35.20 SUBSIDIARY LEGISLATION 35.20
+**SUBSIDIARY LEGISLATION 35.20**
 
 **FEES FOR CERTIFICATES UNDER THE**
 

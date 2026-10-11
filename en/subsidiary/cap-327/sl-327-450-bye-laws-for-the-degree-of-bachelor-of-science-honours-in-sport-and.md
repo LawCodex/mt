@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Science (Honours) in Sport and Physical Activity - B. Sc. (Hons.) SPA - under the auspices of the Institute for Physical Education and Sport (S.L. 327.450)
 
-PHYSICAL ACTIVITY - B.Sc.. (HONS.)SPA - UNDER THE AUSPICES
-
-*1*
-
-OF THE INSTITUTE FOR PHYSICAL EDUCATION AND SPORT [S.L.327.450
-
 **SUBSIDIARY LEGISLATION 327.450**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF SCIENCE (HONOURS) IN SPORT AND PHYSICAL ACTIVITY - B. Sc. (HONS.) SPA - UNDER THE
@@ -70,11 +64,7 @@ These bye-laws shall be applicable for courses commencing in October 2020 or lat
 
 (2) Applicants admitted under regulation 2(2)(a)(iii) of the Admission Regulations must be in possession of those qualifications and/or experience that would satisfy the Board that they have reached the academic standard required to follow the course with profit. The eligibility of such applicants shall be decided by the Board, following an interview conducted by an interviewing board appointed for the purpose. The interviewing board appointed by the Board shall be composed of at least three persons.
 
-(3) Applicants admitted in terms of paragraph (2) of this bye- PHYSICAL ACTIVITY - B.Sc.. (HONS.)SPA - UNDER THE AUSPICES [S.L.327.450 OF THE INSTITUTE FOR PHYSICAL EDUCATION AND SPORT
-
-law shall be in possession of a pass in an English language proficiency test as approved by the University before being admitted to the course, provided that applicants in possession of a Secondary Education Certificate pass at Grade 3 or higher in English or a pass at the same standard in a comparable qualification, shall be exempted from sitting for the proficiency test.
-
-*2*
+(3) Applicants admitted in terms of paragraph (2) of this bye-law shall be in possession of a pass in an English language proficiency test as approved by the University before being admitted to the course, provided that applicants in possession of a Secondary Education Certificate pass at Grade 3 or higher in English or a pass at the same standard in a comparable qualification, shall be exempted from sitting for the proficiency test.
 
 (4) Applicants in possession of the Diploma in Sport and Leisure Studies may also be admitted to the course. Subject to the provisions of the Principal Regulations, such applicants may be allowed by the Board to transfer the credits obtained in the Diploma to the course. The number of credits so transferred shall not exceed 90 credits ECTs.
 
@@ -100,13 +90,7 @@ law shall be in possession of a pass in an English language proficiency test as 
 
 (4) The interviewing board appointed by the Board for the purpose, shall be composed of at least 3 members.
 
-(5) For the purpose of selection, applicants whose qualifications were obtained by 31 August preceding the commencement of the Course shall be considered first. If vacant places are still available, applicants who obtain all necessary qualifications after the 31 August and before the 30 September PHYSICAL ACTIVITY - B.Sc.. (HONS.)SPA - UNDER THE AUSPICES
-
-*3*
-
-OF THE INSTITUTE FOR PHYSICAL EDUCATION AND SPORT [S.L.327.450
-
-shall be considered to take up the remaining places.
+(5) For the purpose of selection, applicants whose qualifications were obtained by 31 August preceding the commencement of the Course shall be considered first. If vacant places are still available, applicants who obtain all necessary qualifications after the 31 August and before the 30 September shall be considered to take up the remaining places.
 
 ## 5. Course Duration.
 
@@ -160,11 +144,7 @@ The Course may be offered on a flexible part-time basis with the following speci
 
 (b) In order to progress regularly from one Course year to the next, the 60 ECTS credits of each Course year must be completed in not more than three academic years;
 
-(c) Students who are absent for the assessment of a study- PHYSICAL ACTIVITY - B.Sc.. (HONS.)SPA - UNDER THE AUSPICES [S.L.327.450 OF THE INSTITUTE FOR PHYSICAL EDUCATION AND SPORT
-
-unit, or fail in the assessment of a study-unit, shall, if eligible, be required to take the assessment of any number of such incomplete study-units at the September assessment session or at the next available opportunity;
-
-*4*
+(c) Students who are absent for the assessment of a study-unit, or fail in the assessment of a study-unit, shall, if eligible, be required to take the assessment of any number of such incomplete study-units at the September assessment session or at the next available opportunity;
 
 (d) If necessary, students may be allowed to refer the assessment of study-units to the next academic year, provided that not more than 12 ECTS credits may be referred from one Course year to the next;
 
@@ -178,10 +158,4 @@ unit, or fail in the assessment of a study-unit, shall, if eligible, be required
 
 (i) Students registered on the flexible part-time programme must obtain the approval of the Course Coordinator before they are registered on the study-units they wish to follow in any academic year;
 
-(j) Subject to approval by the Board, students registered on the Course may be allowed to change the mode of attendance from full-time to flexible part-time or vice versa at the beginning of the second year of the regular programme of study. Changes in mode of attendance in any subsequent year of the Course may be considered by the Board, if the Course programme permits; and (k) Notwithstanding the provisions in the General Regulations for University Undergraduate Awards, 2019 owing to the nature of the Course when offered on a flexible part-time basis that allows for a longer duration than normal, students registered on such a flexible part-time Course programme shall not be PHYSICAL ACTIVITY - B.Sc.. (HONS.)SPA - UNDER THE AUSPICES
-
-*5*
-
-OF THE INSTITUTE FOR PHYSICAL EDUCATION AND SPORT [S.L.327.450
-
-entitled to ever repeat a Course year in its entirety, nor to an extension year after each Course year.
+(j) Subject to approval by the Board, students registered on the Course may be allowed to change the mode of attendance from full-time to flexible part-time or vice versa at the beginning of the second year of the regular programme of study. Changes in mode of attendance in any subsequent year of the Course may be considered by the Board, if the Course programme permits; and (k) Notwithstanding the provisions in the General Regulations for University Undergraduate Awards, 2019 owing to the nature of the Course when offered on a flexible part-time basis that allows for a longer duration than normal, students registered on such a flexible part-time Course programme shall not be entitled to ever repeat a Course year in its entirety, nor to an extension year after each Course year.

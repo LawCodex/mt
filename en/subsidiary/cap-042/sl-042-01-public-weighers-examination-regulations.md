@@ -1,6 +1,6 @@
 ---
 title: "Public Weighers Examination Regulations"
-identifier: "S.L. 42.1"
+identifier: "S.L. 42.01"
 eli: "https://legislation.mt/eli/sl/42.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/42.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Public Weighers Examination Regulations (S.L. 42.1)
+# Public Weighers Examination Regulations (S.L. 42.01)
 
 **SUBSIDIARY LEGISLATION 42.01**
 

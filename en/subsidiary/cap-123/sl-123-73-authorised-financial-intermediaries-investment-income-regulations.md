@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Authorised Financial Intermediaries (Investment Income) Regulations (S.L. 123.73)
 
-AUTHORISED FINANCIAL INTERMEDIARIES
-
-*1*
-
-(INVESTMENT INCOME) [S.L.123.73
-
 **SUBSIDIARY LEGISLATION 123.73**
 
 **AUTHORISED FINANCIAL INTERMEDIARIES**

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Kingdom of Bahrain Order (S.L. 123.132)
 
-*1*
-
-WITH THE KINGDOM OF BAHRAIN [S.L.123.132
-
 SUBSIDIARY LEGISLATION 123.132
 
 DOUBLE TAXATION RELIEF ON TAXES ON
@@ -44,8 +40,6 @@ It is hereby declared:
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Convention has entered into force on the 28 February 2012.
-
-2 [S.L.123.132 WITH THE KINGDOM OF BAHRAIN
 
 ## SCHEDULE
 
@@ -111,9 +105,7 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 \1. For the purposes of this Convention, unless the context otherwise requires:
 
-(a) the term "Bahrain" means the territory of the Kingdom of Bahrain as well as the maritime areas, seabed and subsoil over which Bahrain exercises, in accordance with international law, sovereign rights and WITH THE KINGDOM OF BAHRAIN [S.L.123.132 3
-
-jurisdiction;
+(a) the term "Bahrain" means the territory of the Kingdom of Bahrain as well as the maritime areas, seabed and subsoil over which Bahrain exercises, in accordance with international law, sovereign rights and jurisdiction;
 
 (b) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
 
@@ -148,8 +140,6 @@ jurisdiction;
 **RESIDENT**
 
 \1. For the purposes of this Convention, the term "resident of a Contracting State" means:
-
-4 [S.L.123.132 WITH THE KINGDOM OF BAHRAIN
 
 (a) in the case of Bahrain,
 
@@ -193,8 +183,6 @@ This term, however, does not include any person who is liable to tax in that Sta
 
 (f) a mine, an oil or gas well, a quarry or any other place of extraction of natural resources including an offshore drilling site;
 
-WITH THE KINGDOM OF BAHRAIN [S.L.123.132 5
-
 (g) a refinery;
 
 (h) a sales outlet; and
@@ -235,8 +223,6 @@ An enterprise shall not be deemed to have a permanent establishment in a Contrac
 
 The fact that a company which is a resident of a Contracting State controls or is controlled by a company which is a resident of the other ontracting State, or which carries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself constitute either company a permanent establishment of the other.
 
-6 [S.L.123.132 WITH THE KINGDOM OF BAHRAIN
-
 **Article 6**
 
 **INCOME FROM IMMOVABLE PROPERTY**
@@ -263,9 +249,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \5. No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
 
-\6. For the purposes of the preceding paragraphs, the profits to be attributed to the permanent establishment shall be determined by the same method year by year WITH THE KINGDOM OF BAHRAIN [S.L.123.132 7
-
-unless there is good and sufficient reason to the contrary.
+\6. For the purposes of the preceding paragraphs, the profits to be attributed to the permanent establishment shall be determined by the same method year by year unless there is good and sufficient reason to the contrary.
 
 \7. Where profits include items of income which are dealt with separately in other Articles of this Convention, then the provisions of those Articles shall not be affected by the provisions of this Article.
 
@@ -299,9 +283,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \1. Dividends paid by a company which is a resident of a Contracting State to a resident of the other Contracting State shall be taxable only in that other State provided that such resident is the beneficial owner of the dividends. This paragraph shall not affect the taxation of the company in respect of the profits out of which the dividends are paid.
 
-\2. The term "dividends" as used in this Article means income from shares, 8 [S.L.123.132 WITH THE KINGDOM OF BAHRAIN
-
-"jouissance" shares or "jouissance" rights, mining shares, founders’ shares or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
+\2. The term "dividends" as used in this Article means income from shares, "jouissance" shares or "jouissance" rights, mining shares, founders’ shares or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
 
 \3. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
@@ -324,8 +306,6 @@ and in either case conditions are made or imposed between the two enterprises in
 **ROYALTIES**
 
 \1. Royalties arising in a Contracting State and beneficially owned by a resident of the other Contracting State shall be taxable only in that other State.
-
-WITH THE KINGDOM OF BAHRAIN [S.L.123.132 9
 
 \2. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including cinematograph films, any patent, trade mark, design or model, plan, secret formula or process, or for information concerning industrial, commercial or scientific experience.
 
@@ -353,9 +333,7 @@ WITH THE KINGDOM OF BAHRAIN [S.L.123.132 9
 
 \1. Subject to the provisions of Articles 15, 17 and 18, salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
 
-\2. Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in the other 10 [S.L.123.132 WITH THE KINGDOM OF BAHRAIN
-
-Contracting State shall be taxable only in the first-mentioned State if:
+\2. Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in the other Contracting State shall be taxable only in the first-mentioned State if:
 
 (a) the recipient is present in the other State for a period or periods not exceeding in the aggregate 183 days in any twelve-month period commencing or ending in the fiscal year concerned, and
 
@@ -395,9 +373,7 @@ Subject to the provisions of paragraph 2 of Article 18, pensions and other simil
 
 (i) is a national of that State; or
 
-(ii) did not become a resident of that State solely for the purpose of WITH THE KINGDOM OF BAHRAIN [S.L.123.132 11
-
-rendering the services.
+(ii) did not become a resident of that State solely for the purpose of rendering the services.
 
 \2. (a) Notwithstanding the provisions of paragraph 1, pensions and other similar remuneation paid by, or out of funds created by, a Contracting State or a political subdivision or a local authority thereof to an individual in respect of services rendered to that State or subdivision or authority shall be taxable only in that State.
 
@@ -429,9 +405,7 @@ Subject to the provisions of the laws of Bahrain regarding the allowance of a cr
 
 \2. In the case of Malta, double taxation shall be eliminated as follows:
 
-Subject to the provisions of the law of Malta regarding the allowance of a credit against Malta tax in respect of foreign tax, where, in accordance with the provisions of this Convention, there is included in a Malta assessment income from sources within Bahrain, the Bahrain tax on such income shall be allowed as a credit against the relative Malta tax 12 [S.L.123.132 WITH THE KINGDOM OF BAHRAIN
-
-payable thereon.
+Subject to the provisions of the law of Malta regarding the allowance of a credit against Malta tax in respect of foreign tax, where, in accordance with the provisions of this Convention, there is included in a Malta assessment income from sources within Bahrain, the Bahrain tax on such income shall be allowed as a credit against the relative Malta tax payable thereon.
 
 **Article 22**
 
@@ -455,9 +429,7 @@ payable thereon.
 
 \2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation, which is not in accordance with the Convention. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
 
-\3. The competent authorities of the Contracting States shall endeavour to WITH THE KINGDOM OF BAHRAIN [S.L.123.132 13
-
-resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Convention. They may also consult together for the elimination of double taxation in cases not provided for in the Convention.
+\3. The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Convention. They may also consult together for the elimination of double taxation in cases not provided for in the Convention.
 
 \4. The competent authorities of the Contracting States may communicate with each other directly, including through a joint commission consisting of themselves or their representatives, for the purpose of reaching an agreement in the sense of the preceding paragraphs.
 
@@ -480,8 +452,6 @@ resolve by mutual agreement any difficulties or doubts arising as to the interpr
 \4. If information is requested by a Contracting State in accordance with this Article, the other Contracting State shall use its information gathering measures to obtain the requested information, even though that other State may not need such information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall such limitations be construed to permit a Contracting State to decline to supply information solely because it has no domestic interest in such information.
 
 \5. In no case shall the provisions of paragraph 3 be construed to permit a Contracting State to decline to supply information solely because the information is held by a bank, other financial institution, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person.
-
-14 [S.L.123.132 WITH THE KINGDOM OF BAHRAIN
 
 **Article 25**
 
@@ -521,9 +491,7 @@ in respect of taxes on income derived during any calendar year or accounting per
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto by their respective Governments, have signed this Convention.
 
-DONE at Manama this 12 day of April 2010 in duplicate in the Arabic and English languages, both texts being equally authentic, but in the case of divergence of WITH THE KINGDOM OF BAHRAIN [S.L.123.132 15
-
-interpretation the English text shall prevail.
+DONE at Manama this 12 day of April 2010 in duplicate in the Arabic and English languages, both texts being equally authentic, but in the case of divergence of interpretation the English text shall prevail.
 
 **TONIO FENECH H.E. AHMED BIN MOHAMMED AL KHALIFA**
 

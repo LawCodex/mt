@@ -1,6 +1,6 @@
 ---
 title: "Hospital Management Committee Standing Orders"
-identifier: "S.L. 94.7"
+identifier: "S.L. 94.07"
 eli: "https://legislation.mt/eli/sl/94.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/94.7/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Hospital Management Committee Standing Orders (S.L. 94.7)
+# Hospital Management Committee Standing Orders (S.L. 94.07)
 
 **SUBSIDIARY LEGISLATION 94.07**
 

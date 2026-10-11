@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Education under the auspices of the Faculty of Education (S.L. 327.100)
 
-*1*
-
-THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.100
-
 **SUBSIDIARY LEGISLATION 327.100**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -72,9 +68,7 @@ The course shall be offered in any area of study that falls within the academic 
 
 (c) a degree in Education or a Teacher’s Certificate together with at least two years’ teaching experience and other suitable qualifications obtained following the degree or after the Teacher’s Certificate; or
 
-*2*
-
-[S.L.327.100 THE AUSPICES OF THE FACULTY OF EDUCATION (d) any first cycle degree with either a recognised teaching qualification or a Diploma in Education together with two years’ experience in an education setting; or
+(d) any first cycle degree with either a recognised teaching qualification or a Diploma in Education together with two years’ experience in an education setting; or
 
 (e) a permanent teaching warrant together with a minimum of three years’ teaching experience.”
 
@@ -120,11 +114,7 @@ The programme of study for any area of study offered in the course may be either
 
 (b) taught study-units to which 10 credits are assigned and a dissertation study-unit to which 80 credits are assigned.
 
-(2) Only one of the above two types can be offered in a THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.100
-
-particular study area in any one intake.
-
-*3*
+(2) Only one of the above two types can be offered in a particular study area in any one intake.
 
 (3) Students who are accepted to follow the Teaching of Ethics in Schools area of study in the Course and who are in possession of the Postgraduate Certificate in the Teaching of Ethics in Schools shall follow the programme of study as specified in sub-paragraph (a) of paragraph (1) of this bye-law but shall be exempted from the taught study-units to which 30 credits are assigned.
 
@@ -155,10 +145,6 @@ particular study area in any one intake.
 (2) Work on the dissertation shall be undertaken during the third semester of the course. Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
 
 (3) A provisional title for the dissertation and a detailed research proposal shall be submitted to the Board for approval by the beginning of the second semester.
-
-*4*
-
-[S.L.327.100 THE AUSPICES OF THE FACULTY OF EDUCATION
 
 ## 14. Dissertations in programmes of study by research. Re-numbered and substituted by: L.N. 292 of 2013.
 
@@ -191,10 +177,6 @@ particular study area in any one intake.
 In all cases students shall be required to have regular contact with their supervisor, who shall submit to the Board progress reports for the students under their supervision at the end of each semester of studies, whether the student is following the course full-time or part-time. Such reports may include recommendations to either:
 
 (a) extend the period of study in order to enable the student to complete the dissertation; or
-
-*5*
-
-THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.100
 
 (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances. provided that:
 

@@ -1,6 +1,6 @@
 ---
 title: "Tobacco Smoking (Court Registries) Regulations"
-identifier: "S.L. 315.3"
+identifier: "S.L. 315.03"
 eli: "https://legislation.mt/eli/sl/315.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/315.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Tobacco Smoking (Court Registries) Regulations (S.L. 315.3)
+# Tobacco Smoking (Court Registries) Regulations (S.L. 315.03)
 
 **SUBSIDIARY LEGISLATION 315.03**
 

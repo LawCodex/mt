@@ -1,6 +1,6 @@
 ---
 title: "Territorial Waters Regulations"
-identifier: "S.L. 226.2"
+identifier: "S.L. 226.02"
 eli: "https://legislation.mt/eli/sl/226.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/226.2/20150827/eng"
 retrieved: 2026-10-12
 ---
 
-# Territorial Waters Regulations (S.L. 226.2)
+# Territorial Waters Regulations (S.L. 226.02)
 
 **SUBSIDIARY LEGISLATION 226.02**
 

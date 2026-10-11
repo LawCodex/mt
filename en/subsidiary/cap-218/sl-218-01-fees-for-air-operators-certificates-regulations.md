@@ -1,6 +1,6 @@
 ---
 title: "Fees for Air Operators Certificates Regulations"
-identifier: "S.L. 218.1"
+identifier: "S.L. 218.01"
 eli: "https://legislation.mt/eli/sl/218.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/218.1/20240101/eng"
 retrieved: 2026-10-12
 ---
 
-# Fees for Air Operators Certificates Regulations (S.L. 218.1)
+# Fees for Air Operators Certificates Regulations (S.L. 218.01)
 
 **SUBSIDIARY LEGISLATION 218.01**
 

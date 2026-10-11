@@ -1,6 +1,6 @@
 ---
 title: "Control of Re-exports of Supplies and Services Regulations"
-identifier: "S.L. 117.6"
+identifier: "S.L. 117.06"
 eli: "https://legislation.mt/eli/sl/117.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/117.6/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Control of Re-exports of Supplies and Services Regulations (S.L. 117.6)
+# Control of Re-exports of Supplies and Services Regulations (S.L. 117.06)
 
 **SUBSIDIARY LEGISLATION 117.06**
 

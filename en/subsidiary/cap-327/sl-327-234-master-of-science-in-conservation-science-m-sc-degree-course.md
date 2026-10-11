@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Master of Science in Conservation Science - M. Sc. - Degree Course Regulations (S.L. 327.234)
 
-MASTER OF SCIENCE IN CONSERVATION SCIENCE
-
-*[S.L.327.234 1*
-
-\- M. SC. - DEGREE COURSE
-
 **SUBSIDIARY LEGISLATION 327.234**
 
 MASTER OF SCIENCE IN CONSERVATION SCIENCE - M. SC. - DEGREE COURSE

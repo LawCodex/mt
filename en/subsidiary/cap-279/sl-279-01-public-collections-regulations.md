@@ -1,6 +1,6 @@
 ---
 title: "Public Collections Regulations"
-identifier: "S.L. 279.1"
+identifier: "S.L. 279.01"
 eli: "https://legislation.mt/eli/sl/279.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/279.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Public Collections Regulations (S.L. 279.1)
+# Public Collections Regulations (S.L. 279.01)
 
 **SUBSIDIARY LEGISLATION 279.01**
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science - M.Sc. - under the auspices of the Faculty of Dental Surgery (S.L. 327.305)
 
-*1*
-
-AUSPICES OF THE FACULTY OF DENTAL SURGERY [S.L.327.305
-
 **SUBSIDIARY LEGISLATION 327.305**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -71,9 +67,7 @@ The course shall be offered in any area of study that falls within the academic 
 
 (2) The admission of applicants under sub-paragraphs (c) to (e) of paragraph (1) of this bye-law may be made conditional on the results of an interview conducted for the purpose.
 
-*2*
-
-[S.L.327.305 AUSPICES OF THE FACULTY OF DENTAL SURGERY (3) The Board shall recommend to Senate the number of applicants that may be allowed to register for each area of study offered in the course, depending on the availability of resources. The number of available places shall be announced at the time of the call for applications.
+(3) The Board shall recommend to Senate the number of applicants that may be allowed to register for each area of study offered in the course, depending on the availability of resources. The number of available places shall be announced at the time of the call for applications.
 
 (4) When the number of places is so limited and the number of eligible applicants exceeds the number of places available, applicants will be selected using the following criteria, the weighting of which shall be published at the time of the call for applications:
 
@@ -113,11 +107,7 @@ The assessment of the taught study-units shall be held by the end of the semeste
 
 ## 9. Panel of Supervision.
 
-(1) The Board shall appoint a Panel of Supervision for each student, normally composed of three members as follows: the Head of Department as Chairman, or his or her delegate, and two other members, one of whom being the research supervisor, AUSPICES OF THE FACULTY OF DENTAL SURGERY [S.L.327.305
-
-provided that when the Head of Department is the supervisor, he or she shall not chair the Panel.
-
-*3*
+(1) The Board shall appoint a Panel of Supervision for each student, normally composed of three members as follows: the Head of Department as Chairman, or his or her delegate, and two other members, one of whom being the research supervisor, provided that when the Head of Department is the supervisor, he or she shall not chair the Panel.
 
 (2) The Panel of Supervision shall follow, as it deems fit, the progress of students throughout the course, provided that it meets at least twice a year to review such progress.
 

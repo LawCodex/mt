@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Advocacy - M.Adv. - and for the Degree of Master of Notarial Studies - M.Not.St. - under the auspices of the Faculty of Laws (S.L. 327.508)
 
-DEGREE OF MASTER OF NOTARIAL STUDIES - M.Not. St.
-
-*1*
-
-\- UNDER THE AUSPICES OF THE FACULTY OF LAWS [S.L.327.508
-
 **SUBSIDIARY LEGISLATION 327.508**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -86,13 +80,11 @@ Students shall not engage in full-time or substantial part-time employment once 
 
 *Renumbered: L.N. 422 of 2018.*
 
-The programmes of study of the course shall comprise study-units to which a total of 90 ECTS credits are assigned, of which 60 ECTS credits are assigned to taught study-units and 30 DEGREE OF MASTER OF NOTARIAL STUDIES - M.Not. St. [S.L.327.508 - UNDER THE AUSPICES OF THE FACULTY OF LAWS ECTS credits are assigned to professional practice.
+The programmes of study of the course shall comprise study-units to which a total of 90 ECTS credits are assigned, of which 60 ECTS credits are assigned to taught study-units and 30 ECTS credits are assigned to professional practice.
 
 ## 7. Postgraduate Diploma in Advocacy or in Notarial Studies.
 
 Students who obtain the 60 ECTS credits assigned to the taught study-units with an average mark of at least 50% and do not proceed with the Course, or having proceeded do not successfully complete the professional practice, shall be eligible for the award of the Postgraduate Diploma in Advocacy or in Notarial Studies, as the case may be.
-
-*2*
 
 ## 8. Publication of programmes of study.
 
@@ -134,10 +126,8 @@ Supervisors shall submit to the Board reports for students under their supervisi
 
 Students who fail in the re-assessment of any professional practice component and do not obtain an overall pass in the whole study-unit, shall be deemed to have failed the Course.
 
-DEGREE OF MASTER OF NOTARIAL STUDIES - M.Not. St.
+## 13. Classification of the Awards.
 
-*3*
+*Renumbered: L.N. 422 of 2018.*
 
-\- UNDER THE AUSPICES OF THE FACULTY OF LAWS [S.L.327.508 13. The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma and of the Degree shall be based on the results obtained in all the components of the programme of study, all credits being weighted equally.
-
-*Classification of the Awards. Renumbered: L.N. 422 of 2018.*
+The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma and of the Degree shall be based on the results obtained in all the components of the programme of study, all credits being weighted equally.

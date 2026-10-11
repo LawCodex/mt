@@ -1,6 +1,6 @@
 ---
 title: "Shops for the Sale of Wine, Beer or Spirituous Liquors (Licences, Good Order and Public Decorum) Regulations"
-identifier: "S.L. 10.9"
+identifier: "S.L. 10.09"
 eli: "https://legislation.mt/eli/sl/10.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,9 +14,7 @@ version: "https://legislation.mt/eli/sl/10.9/20250829/eng"
 retrieved: 2026-10-12
 ---
 
-# Shops for the Sale of Wine, Beer or Spirituous Liquors (Licences, Good Order and Public Decorum) Regulations (S.L. 10.9)
-
-LIQUORS (LICENCES, GOOD ORDER AND PUBLIC DECORUM)
+# Shops for the Sale of Wine, Beer or Spirituous Liquors (Licences, Good Order and Public Decorum) Regulations (S.L. 10.09)
 
 **SUBSIDIARY LEGISLATION 10.09**
 
@@ -66,8 +64,6 @@ A licence for the sale of wine, beer or spirituous liquors may, with the approva
 
 (c) no objection is raised by neighbours whose premises are within eighteen metres of the proposed shop.
 
-LIQUORS (LICENCES, GOOD ORDER AND PUBLIC DECORUM)
-
 ## 5. Renewal of licences.
 
 *Amended by: L.N. 92 of 1969; XIV.1969.19.*
@@ -106,11 +102,9 @@ The Commissioner of Police may, if he considers that a licensee is ill-conductin
 
 (2) No application for a total or partial transfer of a licence shall be granted by the Commissioner of Police, unless he is satisfied that no objection is raised to the proposed transferee or partners by neighbours whose premises are within eighteen metres of the shop, on grounds which are deemed reasonable by the Commissioner of Police.
 
-(3) Where a licence is applied for by more than one person, it may be issued in the name of only one of them who, for the purposes of the law, shall be considered to be the licensed person. LIQUORS (LICENCES, GOOD ORDER AND PUBLIC DECORUM)
+(3) Where a licence is applied for by more than one person, it may be issued in the name of only one of them who, for the purposes of the law, shall be considered to be the licensed person. (4) No application for a personal transfer of a licence shall be considered, pending criminal investigation against the licensee.
 
 \*Repealed by Act XL of 1972 (Chapter 231).
-
-(4) No application for a personal transfer of a licence shall be considered, pending criminal investigation against the licensee.
 
 ## 8. Temporary licences.
 
@@ -154,9 +148,7 @@ No person holding a licence under these Regulations shall permit any person, not
 
 *Added by: G.N. 191 of 1939.*
 
-No person holding a licence under these Regulations shall knowingly permit any person belonging to the Armed Forces of Malta to enter or remain on the licensed premises if the holder of LIQUORS (LICENCES, GOOD ORDER AND PUBLIC DECORUM)
-
-the licence has been served with an order to this effect by the Commissioner of Police.
+No person holding a licence under these Regulations shall knowingly permit any person belonging to the Armed Forces of Malta to enter or remain on the licensed premises if the holder of the licence has been served with an order to this effect by the Commissioner of Police.
 
 ## 16. Barmaids.
 
@@ -203,8 +195,6 @@ No person holding a licence shall employ in his shop any person as his substitut
 ## 23. Annoyance to neighbours.
 
 No person holding a licence shall permit, either by day or by night, any singing, or noise in the shop, which may cause annoyance to neighbours or otherwise disturb them, and he shall remove from the shop any person who is in a state of drunkenness, or who by words, gestures, or in any other manner may have shown an intention to cause a breach of the public peace.
-
-LIQUORS (LICENCES, GOOD ORDER AND PUBLIC DECORUM)
 
 ## 24. Amusement machines and gaming devices.
 

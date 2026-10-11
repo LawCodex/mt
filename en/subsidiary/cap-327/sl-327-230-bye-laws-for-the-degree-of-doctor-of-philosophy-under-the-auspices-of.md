@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy under the auspices of the International Institute for Baroque Studies (S.L. 327.230)
 
-UNDER THE AUSPICES OF THE
-
-*1*
-
-INTERNATIONAL INSTITUTE FOR BAROQUE STUDIES [S.L.327.230
-
 **SUBSIDIARY LEGISLATION 327.230**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR**
@@ -71,12 +65,6 @@ These bye-laws shall be applicable from October 2010 onwards.
 
 Applicants may submit their application form, together with a comprehensive research proposal outlining the proposed project, including research sources and materials, at any time of the year.
 
-UNDER THE AUSPICES OF THE
-
-*2*
-
-[S.L.327.230 INTERNATIONAL INSTITUTE FOR BAROQUE STUDIES
-
 ## 5. Institute Doctoral Committee.
 
 The Board shall recommend to Senate the appointment of an Institute Doctoral Committee composed as follows:
@@ -119,10 +107,4 @@ Students shall be required to defend their thesis orally. They are expected to p
 
 (1) Students shall be required to submit a soft-bound copy of their thesis for each member of the Board of Examiners, according to the format indicated in the published guidelines, together with a copy in digital format. The officer in charge of the Institute shall issue a dated receipt.
 
-(2) On successful completion of their studies, students shall be required to submit to the Institute three hard bound copies of the thesis and one copy in digital format within six weeks from the UNDER THE AUSPICES OF THE
-
-*3*
-
-INTERNATIONAL INSTITUTE FOR BAROQUE STUDIES [S.L.327.230
-
-publication of their result. One copy of the thesis shall be kept in the Library of the Institute and another at the University Library. Students who do not comply with this bye-law shall not be awarded the Degree.
+(2) On successful completion of their studies, students shall be required to submit to the Institute three hard bound copies of the thesis and one copy in digital format within six weeks from the publication of their result. One copy of the thesis shall be kept in the Library of the Institute and another at the University Library. Students who do not comply with this bye-law shall not be awarded the Degree.

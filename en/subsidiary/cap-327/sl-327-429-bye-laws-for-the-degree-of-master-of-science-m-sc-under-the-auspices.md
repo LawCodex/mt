@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science - M.Sc. - under the auspices of the Institute of Earth Systems (S.L. 327.429)
 
-*1*
-
-AUSPICES OF THE INSTITUTE OF EARTH SYSTEMS [S.L.327.429
-
 **SUBSIDIARY LEGISLATION 327.429**
 
 BYE-LAWS FOR THE DEGREE OF MASTER OF SCIENCE - M. Sc. - UNDER THE AUSPICES OF THE INSTITUTE OF EARTH SYSTEMS
@@ -63,11 +59,9 @@ The course shall be offered in any area of study related to earth systems in whi
 
 (2) The Board may, at its discretion, recommend the admission of applicants in possession of a first cycle degree obtained with Third Class (Honours), in an area of study which the Board considers as relevant, and obtained within the ten years previous to registration for the Course. Such applicants shall become eligible to join the Master’s course on successful completion of the Preparatory Programme with an average mark of at least 55%.
 
-(3) Applicants whose first degree was obtained more than ten years previous to registration for the course may also be admitted, provided that they produce sufficient proof of their competence to [S.L.327.429 AUSPICES OF THE INSTITUTE OF EARTH SYSTEMS follow the course. The Board may, at its discretion, require such applicants to follow a supplementary or preparatory programme as specified in bye-law 5.
+(3) Applicants whose first degree was obtained more than ten years previous to registration for the course may also be admitted, provided that they produce sufficient proof of their competence to follow the course. The Board may, at its discretion, require such applicants to follow a supplementary or preparatory programme as specified in bye-law 5.
 
 (4) All applicants may be asked to demonstrate competence in those skills required by the nature of the proposed research via an extended interview and/or the submission of appropriate documentation. In cases where significant deficiencies are identified, the Board may, at its discretion, require applicants to follow a supplementary and/or preparatory programme as specified in bye-law 5.
-
-*2*
 
 ## 5. Supplementary and preparatory programmes.
 
@@ -107,11 +101,9 @@ A provisional title for the dissertation and a detailed research proposal shall 
 
 Work on the dissertation may be undertaken at any time during the Course after approval of the proposal.
 
-*3*
+## 13. Supervisor.
 
-AUSPICES OF THE INSTITUTE OF EARTH SYSTEMS [S.L.327.429 13. (1) Each student shall be assigned a principal supervisor, and where appropriate, a co-supervisor, who shall provide guidance and advice on a regular basis during the period of study.
-
-*Supervisor.*
+(1) Each student shall be assigned a principal supervisor, and where appropriate, a co-supervisor, who shall provide guidance and advice on a regular basis during the period of study.
 
 (2) Students shall be required to have regular contact with their supervisor, and are required to report to their supervisors at least once every two months, and in addition, as often as the principal supervisor and/or co-supervisor deems necessary.
 
@@ -139,11 +131,7 @@ Students shall be required to present the work performed during the course of th
 
 ## 16. Approval of the dissertation. Re-numbered by: L.N. 121 of 2014.
 
-Following approval of the dissertation by the Board of Examiners, students shall be required to present three hard bound copies of the dissertation to the Institute, one of which shall be retained in the University Library, and another one at the Library of the Institute, as well as one copy in digital format as an electronic [S.L.327.429 AUSPICES OF THE INSTITUTE OF EARTH SYSTEMS
-
-file.
-
-*4*
+Following approval of the dissertation by the Board of Examiners, students shall be required to present three hard bound copies of the dissertation to the Institute, one of which shall be retained in the University Library, and another one at the Library of the Institute, as well as one copy in digital format as an electronic file.
 
 ## 17. Classification of the Degree. Re-numbered by: L.N. 121 of 2014.
 

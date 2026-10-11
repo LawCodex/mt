@@ -1,6 +1,6 @@
 ---
 title: "Simplification of Exchange of Information between National Law Enforcement Authorities and other Authorities of the Member States of the European Union having similar powers Regulations"
-identifier: "S.L. 164.6"
+identifier: "S.L. 164.06"
 eli: "https://legislation.mt/eli/sl/164.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,17 +14,7 @@ version: "https://legislation.mt/eli/sl/164.6/20250408/eng"
 retrieved: 2026-10-12
 ---
 
-# Simplification of Exchange of Information between National Law Enforcement Authorities and other Authorities of the Member States of the European Union having similar powers Regulations (S.L. 164.6)
-
-BETWEEN NATIONAL LAW ENFORCEMENT
-
-AUTHORITIES AND OTHER AUTHORITIES OF THE
-
-MEMBER STATES OF THE EUROPEAN UNION HAVING
-
-*1*
-
-SIMILAR POWERS [S.L. 164.06
+# Simplification of Exchange of Information between National Law Enforcement Authorities and other Authorities of the Member States of the European Union having similar powers Regulations (S.L. 164.06)
 
 **SUBSIDIARY LEGISLATION 164.06**
 
@@ -54,17 +44,7 @@ LEGAL NOTICE 70 of 2025.
 
 (b) requests for information submitted to the Single Points of Contact of other Member States, in particular on the content of such requests, the provision of information pursuant to such requests, the working languages of the Single Points of Contact of other Member States, mandatory time limits for providing requested information and the reasons for the refusal of such requests;
 
-(c) the provision by competent law enforcement authorities, on their own initiative, of relevant information to the Single Points of Contact of other Member States or to the competent law enforcement authorities of other Member States, in particular the situations and the manner in which such BETWEEN NATIONAL LAW ENFORCEMENT
-
-**AUTHORITIES AND OTHER AUTHORITIES OF THE**
-
-**MEMBER STATES OF THE EUROPEAN UNION HAVING**
-
-**SIMILAR POWERS**
-
-*[S.L. 164.06 2*
-
-information is to be provided;
+(c) the provision by competent law enforcement authorities, on their own initiative, of relevant information to the Single Points of Contact of other Member States or to the competent law enforcement authorities of other Member States, in particular the situations and the manner in which such information is to be provided;
 
 (d) the default channel of communication to be used for all exchanges of information under these regulations and the information to be provided to the Single Points of Contact of other Member States in relation to the exchange of information directly between the competent law enforcement authorities. 2. In these regulations, unless the context otherwise requires:
 
@@ -78,17 +58,7 @@ information is to be provided;
 
 "Europol Regulation" means Regulation (EU) 2016/794 of the European Parliament and of the Council of 11 May 2016 on the European Union Agency for Law Enforcement Cooperation (Europol) and replacing and repealing Council Decisions 2009/371/JHA, 2009/934/JHA, 2009/935/JHA, 2009/936/JHA and 2009/968/JHA;
 
-"indirectly accessible information" means information that the International Relations Unit, or a Single Point of BETWEEN NATIONAL LAW ENFORCEMENT
-
-AUTHORITIES AND OTHER AUTHORITIES OF THE
-
-MEMBER STATES OF THE EUROPEAN UNION HAVING
-
-*3*
-
-SIMILAR POWERS [S.L. 164.06
-
-Contact of another Member State or a competent law enforcement authority of the Member State from whom information is requested may obtain from other public authorities or from private parties established in such Member State, where permitted by and in accordance with national law, without coercive measures;
+"indirectly accessible information" means information that the International Relations Unit, or a Single Point of Contact of another Member State or a competent law enforcement authority of the Member State from whom information is requested may obtain from other public authorities or from private parties established in such Member State, where permitted by and in accordance with national law, without coercive measures;
 
 "information" means any content concerning one (1) or more natural or legal persons, facts or circumstances relevant to competent law enforcement authorities for the purpose of carrying out their tasks under national law of preventing, detecting or investigating criminal offences, including criminal intelligence;
 
@@ -110,13 +80,7 @@ Contact of another Member State or a competent law enforcement authority of the 
 
 ## 3. Applicability.
 
-(1) These regulations shall not apply to exchanges of BETWEEN NATIONAL LAW ENFORCEMENT
-
-AUTHORITIES AND OTHER AUTHORITIES OF THE MEMBER STATES OF THE EUROPEAN UNION HAVING [S.L. 164.06 SIMILAR POWERS
-
-*4*
-
-information between the competent law enforcement authorities for the purpose of preventing, detecting or investigating criminal offences that are specifically regulated by other Union legal acts and national legislation.
+(1) These regulations shall not apply to exchanges of information between the competent law enforcement authorities for the purpose of preventing, detecting or investigating criminal offences that are specifically regulated by other Union legal acts and national legislation.
 
 (2) These regulations shall not be construed as limiting the adoption of bilateral or multilateral arrangements on cooperation and further facilitation of exchange of information with other Member States or third countries for the purpose of preventing, detecting or investigating criminal offences.
 
@@ -139,16 +103,6 @@ It shall be ensured that all exchanges of information in accordance with these r
 (a) provided to the Single Points of Contact of other Member States or the competent law enforcement authorities of other Member States in accordance with the principle of availability;
 
 (b) subject to equivalent conditions when requesting similar information from, and providing similar information to, the Single Points of Contact of other Member States and the competent law enforcement authorities of other Member States in accordance with the principle of equivalent access;
-
-BETWEEN NATIONAL LAW ENFORCEMENT
-
-AUTHORITIES AND OTHER AUTHORITIES OF THE
-
-MEMBER STATES OF THE EUROPEAN UNION HAVING
-
-*5*
-
-SIMILAR POWERS [S.L. 164.06
 
 * Cap. 377.*
 
@@ -174,13 +128,7 @@ SIMILAR POWERS [S.L. 164.06
 
 (e) refusing to provide information in accordance with regulation 9 and, where necessary, requesting clarification or specifications in accordance with regulation 9(6);
 
-(f) sending requests for information to the Single BETWEEN NATIONAL LAW ENFORCEMENT
-
-AUTHORITIES AND OTHER AUTHORITIES OF THE MEMBER STATES OF THE EUROPEAN UNION HAVING [S.L. 164.06 SIMILAR POWERS
-
-*6*
-
-Points of Contact of other Member States in accordance with regulation 7 and, where necessary, providing clarification or specifications in accordance with regulation 9(6).
+(f) sending requests for information to the Single Points of Contact of other Member States in accordance with regulation 7 and, where necessary, providing clarification or specifications in accordance with regulation 9(6).
 
 (3) The International Relations Unit shall have access to all information available to the competent law enforcement authorities as necessary to carry out its tasks under these regulations.
 
@@ -206,16 +154,6 @@ Provided that the designated law enforcement authorities listed in the Schedule 
 
 Staff pertaining to the International Relations Unit shall be provided with adequate and regular training and shall be qualified to carry out the following:
 
-BETWEEN NATIONAL LAW ENFORCEMENT
-
-AUTHORITIES AND OTHER AUTHORITIES OF THE
-
-MEMBER STATES OF THE EUROPEAN UNION HAVING
-
-*7*
-
-SIMILAR POWERS [S.L. 164.06
-
 (a) the use of data processing tools used within the International Relations Unit, in particular Europol’s Secure Information Exchange Network Application (SIENA) and the single electronic case management system;
 
 (b) the application of legislation relevant for the activities of the International Relations Unit under these regulations, in particular on data protection matters, on cross-border cooperation between law enforcement authorities, including these regulations and the Europol Regulation, and on the handling of confidential information;
@@ -240,12 +178,6 @@ SIMILAR POWERS [S.L. 164.06
 
 (a) the requested information is necessary for and proportionate to achieving the purpose referred to in regulation 1; and
 
-BETWEEN NATIONAL LAW ENFORCEMENT
-
-AUTHORITIES AND OTHER AUTHORITIES OF THE MEMBER STATES OF THE EUROPEAN UNION HAVING [S.L. 164.06 SIMILAR POWERS
-
-*8*
-
 (b) the requested information is available to such other Member State.
 
 (5) Any request for information submitted to the Single Point of Contact of another Member State shall specify whether it is urgent and, if so, it shall give reasons for the urgency. Such requests for information shall be considered urgent where, having regard to all relevant facts and circumstances of the case at hand, there are objective reasons to believe that the requested information is one or more of the following:
@@ -267,16 +199,6 @@ AUTHORITIES AND OTHER AUTHORITIES OF THE MEMBER STATES OF THE EUROPEAN UNION HAV
 (c) the objective reasons for which it is believed that the requested information is available to the International Relations Unit;
 
 (d) an explanation of the connection between the purpose for which the information is requested and any natural or legal person or entity to which the information relates, where applicable;
-
-BETWEEN NATIONAL LAW ENFORCEMENT
-
-AUTHORITIES AND OTHER AUTHORITIES OF THE
-
-MEMBER STATES OF THE EUROPEAN UNION HAVING
-
-*9*
-
-SIMILAR POWERS [S.L. 164.06
 
 (e) the reasons for which the request is considered urgent, where applicable, in accordance with sub-regulation (5);
 
@@ -302,13 +224,7 @@ Provided that the time limits established in this sub-regulation shall commence 
 
 *Cap. 586.  S.L. 586.08.*
 
-(2) Without prejudice to any other provision under the Data Protection Act or the Data Protection (Processing of Personal Data by Competent Authorities for the Purposes of the Prevention, Investigation, Detection or Prosecution of Criminal offences or the Execution of Criminal Penalties) Regulations, the International Relations Unit shall exchange information already available to it with other competent law enforcement authorities of other Member States BETWEEN NATIONAL LAW ENFORCEMENT
-
-AUTHORITIES AND OTHER AUTHORITIES OF THE MEMBER STATES OF THE EUROPEAN UNION HAVING [S.L. 164.06 SIMILAR POWERS
-
-*10*
-
-as if these were established in Malta.
+(2) Without prejudice to any other provision under the Data Protection Act or the Data Protection (Processing of Personal Data by Competent Authorities for the Purposes of the Prevention, Investigation, Detection or Prosecution of Criminal offences or the Execution of Criminal Penalties) Regulations, the International Relations Unit shall exchange information already available to it with other competent law enforcement authorities of other Member States as if these were established in Malta.
 
 (3) Where the information may, in accordance with any relevant provision of Maltese law, be accessed by the International Relations Unit only pursuant to an authorisation of a judicial authority, the International Relations Unit shall refrain from communicating the information to the competent law enforcement authorities of other Member States, unless judicial authorities authorise the communication of such information. Such authorisation shall always be sought whenever the requesting authority requests access to information connected to any inquiry relating to the in genere, or any inquest or repertus or whenever the information is required for use as evidence:
 
@@ -324,17 +240,7 @@ Provided that authorisation shall be sought by the Attorney General whenever a c
 
 (6) The International Relations Unit shall send a copy of the requested information to the Single Point of Contact of the requesting Member State at the same time as providing the requested information to the designated law enforcement authority of such other Member State.
 
-(7) The International Relations Unit may not send, at the BETWEEN NATIONAL LAW ENFORCEMENT
-
-AUTHORITIES AND OTHER AUTHORITIES OF THE
-
-MEMBER STATES OF THE EUROPEAN UNION HAVING
-
-*11*
-
-SIMILAR POWERS [S.L. 164.06
-
-same time as providing information to the designated law enforcement authorities of another Member State, a copy of that information to the Single Point of Contact of such other Member State where it would jeopardise one or more of the following:
+(7) The International Relations Unit may not send, at the same time as providing information to the designated law enforcement authorities of another Member State, a copy of that information to the Single Point of Contact of such other Member State where it would jeopardise one or more of the following:
 
 (a) an ongoing highly sensitive investigation for which the processing of information requires an appropriate level of confidentiality;
 
@@ -362,13 +268,7 @@ same time as providing information to the designated law enforcement authorities
 
 (i) be contrary to or would harm the essential interests of the national security of Malta;
 
-(ii) jeopardise the success of an ongoing investigation of a criminal offence or the safety of an BETWEEN NATIONAL LAW ENFORCEMENT
-
-AUTHORITIES AND OTHER AUTHORITIES OF THE MEMBER STATES OF THE EUROPEAN UNION HAVING [S.L. 164.06 SIMILAR POWERS
-
-*12*
-
-individual;
+(ii) jeopardise the success of an ongoing investigation of a criminal offence or the safety of an individual;
 
 (iii) unduly harm the protected important interests of a legal person;
 
@@ -390,17 +290,7 @@ individual;
 
 (6) The International Relations Unit shall immediately request, from the Single Point of Contact or, where applicable, the designated law enforcement authority of the requesting Member State, clarification or specifications needed to process a request for information that otherwise would have to be refused:
 
-Provided that the time limits established in regulation 8(1) shall be suspended from the moment that the Single Point of Contact or, where applicable, the designated law enforcement BETWEEN NATIONAL LAW ENFORCEMENT
-
-AUTHORITIES AND OTHER AUTHORITIES OF THE
-
-MEMBER STATES OF THE EUROPEAN UNION HAVING
-
-*13*
-
-SIMILAR POWERS [S.L. 164.06
-
-authority of the requesting Member State, receive the request for clarification or specifications until the moment the requested clarifications or specifications are provided.
+Provided that the time limits established in regulation 8(1) shall be suspended from the moment that the Single Point of Contact or, where applicable, the designated law enforcement authority of the requesting Member State, receive the request for clarification or specifications until the moment the requested clarifications or specifications are provided.
 
 (7) Refusals of requests for information, reasons for such refusals and requests for clarification or specifications and clarification or specifications as referred to in sub-regulation (6), as well as any other communications relating to the requests for information submitted to the Single Point of Contact of another Member State, shall be transmitted in the language in which that request was submitted in accordance with regulation 7(7).
 
@@ -417,12 +307,6 @@ authority of the requesting Member State, receive the request for clarification 
 (5) When providing information on its own initiative, the International Relations Unit shall copy in the Single Point of Contact of the other Member State when exchanging information with the competent law enforcement authorities of the other Member State.
 
 (6) When providing information on their own initiative, the competent law enforcement authorities shall ensure, where appropriate, that both the International Relations Unit and the Single Point of Contact of the other Member State are copied in when information is exchanged.
-
-BETWEEN NATIONAL LAW ENFORCEMENT
-
-AUTHORITIES AND OTHER AUTHORITIES OF THE MEMBER STATES OF THE EUROPEAN UNION HAVING [S.L. 164.06 SIMILAR POWERS
-
-*14*
 
 (7) The competent law enforcement authorities shall send, at the same time as providing information to the Single Point of Contact or the competent law enforcement authorities of another Member State, a copy of such information to the International Relations Unit or the Single Point of Contact of the other Member State, or the competent law enforcement authorities of the other Member State, as the case may be, including in cases of:
 
@@ -448,16 +332,6 @@ AUTHORITIES AND OTHER AUTHORITIES OF THE MEMBER STATES OF THE EUROPEAN UNION HAV
 
 (c) the safety of an individual.
 
-BETWEEN NATIONAL LAW ENFORCEMENT
-
-AUTHORITIES AND OTHER AUTHORITIES OF THE
-
-MEMBER STATES OF THE EUROPEAN UNION HAVING
-
-*15*
-
-SIMILAR POWERS [S.L. 164.06
-
 ## 12. Judicial authorisation.
 
 (1) Judicial authorisation is not required to provide information to the Single Point of Contact or to the competent law enforcement authorities of another Member State in exchanges of information under regulations 7 to 11.
@@ -482,13 +356,7 @@ When providing personal data following a request for information, the Internatio
 
 (1) The International Relations Unit or designated law enforcement authorities listed in the Schedule shall assess, on a case-by-case basis and subject to Article 7(7) of the Europol Regulation, whether it is necessary to send a copy of the request for information or of the information provided to Europol, in so far as the information to which the communication relates concerns offences falling within the scope of the objectives of Europol established in Article 3 of the Regulation.
 
-(2) Prior to sending a copy of a received request for BETWEEN NATIONAL LAW ENFORCEMENT
-
-AUTHORITIES AND OTHER AUTHORITIES OF THE MEMBER STATES OF THE EUROPEAN UNION HAVING [S.L. 164.06 SIMILAR POWERS
-
-*16*
-
-information or a copy of received information to Europol, the International Relations Unit or designated law enforcement authorities listed in the Schedule shall ensure that consent was duly obtained from the Single Point of Contact or competent law enforcement authorities of the other Member State or third country.
+(2) Prior to sending a copy of a received request for information or a copy of received information to Europol, the International Relations Unit or designated law enforcement authorities listed in the Schedule shall ensure that consent was duly obtained from the Single Point of Contact or competent law enforcement authorities of the other Member State or third country.
 
 (3) When a copy of a request for information or a copy of the information is sent to Europol, the purposes of the processing of the information and any possible restrictions to such processing pursuant to Article 19 of the Europol Regulation, shall be duly communicated to Europol.
 
@@ -510,16 +378,6 @@ information or a copy of received information to Europol, the International Rela
 
 (1) The International Relations Unit shall deploy and operate a single electronic case management system as a repository that allows it to carry out its tasks under these regulations. The single electronic case management system shall have, at a minimum, the following functions and capabilities:
 
-BETWEEN NATIONAL LAW ENFORCEMENT
-
-AUTHORITIES AND OTHER AUTHORITIES OF THE
-
-MEMBER STATES OF THE EUROPEAN UNION HAVING
-
-*17*
-
-SIMILAR POWERS [S.L. 164.06
-
 (a) recording the incoming and outgoing requests for information as referred to in regulations 8 and 11 and any other communications relating to such requests with Single Points of Contact and, where applicable, the competent law enforcement authorities of other Member States, including information about refusals of requests for information and requests for and the provision of clarification or specifications as referred to in the provisions of regulation 9(5) and (6) respectively;
 
 (b) recording the communications between the International Relations Unit and the competent law enforcement authorities, pursuant to regulation 5(2)(b);
@@ -536,13 +394,7 @@ SIMILAR POWERS [S.L. 164.06
 
 *     S.L. 586.08.*
 
-(h) logging access and other processing operations in relation to the information contained in the single electronic case management system, for accountability and cybersecurity purposes, in accordance with regulation 25 of the Data Protection (Processing of Personal Data by Competent BETWEEN NATIONAL LAW ENFORCEMENT
-
-AUTHORITIES AND OTHER AUTHORITIES OF THE MEMBER STATES OF THE EUROPEAN UNION HAVING [S.L. 164.06 SIMILAR POWERS
-
-*18*
-
-Authorities for the Purposes of the Prevention, Investigation, Detection or Prosecution of Criminal Offences or the Execution of Criminal Penalties) Regulations.
+(h) logging access and other processing operations in relation to the information contained in the single electronic case management system, for accountability and cybersecurity purposes, in accordance with regulation 25 of the Data Protection (Processing of Personal Data by Competent Authorities for the Purposes of the Prevention, Investigation, Detection or Prosecution of Criminal Offences or the Execution of Criminal Penalties) Regulations.
 
 (2) All cybersecurity risks relating to the single electronic case management system, in particular as regards its architecture, governance and control, are managed and addressed in a prudent and effective manner and that adequate safeguards against unauthorised access and abuse are provided for.
 
@@ -564,25 +416,17 @@ Authorities for the Purposes of the Prevention, Investigation, Detection or Pros
 
 (a) the number of requests for information submitted by the International Relations Unit and, where relevant, by competent law enforcement authorities;
 
-(b) the number of requests for information that the International Relations Unit and the competent law enforcement authorities received and the number of requests for BETWEEN NATIONAL LAW ENFORCEMENT
-
-AUTHORITIES AND OTHER AUTHORITIES OF THE
-
-MEMBER STATES OF THE EUROPEAN UNION HAVING
-
-*19*
-
-SIMILAR POWERS [S.L. 164.06
-
-information to which they replied, broken down by urgent and non-urgent requests and by requesting Member State;
+(b) the number of requests for information that the International Relations Unit and the competent law enforcement authorities received and the number of requests for information to which they replied, broken down by urgent and non-urgent requests and by requesting Member State;
 
 (c) the number of requests for information refused pursuant to regulation 9, broken down by requesting Member State and by ground for refusal;
 
 (d) the number of cases in which there was a deviation from the time limits established in regulation 8(1) because it was necessary to obtain a judicial authorisation in accordance with regulation 8(2), broken down by the Member States that submitted the requests for information concerned.
 
-## SCHEDULE
+SCHEDULE
 
-Designated Law Enforcement Authorities pursuant to regulation 7(2):
+*7(2):*
+
+Designated Law Enforcement Authorities pursuant to regulation
 
 (a) Malta Police Force;
 

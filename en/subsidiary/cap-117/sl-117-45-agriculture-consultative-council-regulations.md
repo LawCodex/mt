@@ -17,9 +17,7 @@ retrieved: 2026-10-12
 
 # Agriculture Consultative Council Regulations (S.L. 117.45)
 
-*1*
-
-REGULATIONS [S.L. 117.45 SUBSIDIARY LEGISLATION 117.45
+**SUBSIDIARY LEGISLATION 117.45**
 
 **AGRICULTURE CONSULTATIVE COUNCIL**
 
@@ -55,13 +53,9 @@ In these regulations, unless the context otherwise requires:
 
 *Establishment of the Council.*
 
-(a) agriculture, horticulture, floriculture and REGULATIONS
+(a) agriculture, horticulture, floriculture and viticulture;
 
 \*These Regulations have been transposed to Cap 639, see S.L. 639.02. - See Act XXXIII of 2023.
-
-viticulture;
-
-*[S.L. 117.45 2*
 
 (b) breeding and rearing of livestock;
 
@@ -101,9 +95,7 @@ viticulture;
 
 (ix) one (1) representative of the fruit and vegetable sector; and
 
-*3*
-
-REGULATIONS [S.L. 117.45 (x) one (1) representative of the intensive cultivation sector:
+(x) one (1) representative of the intensive cultivation sector:
 
 Provided that at least two (2) of the members appointed in accordance with this sub-paragraph shall be young farmers:
 
@@ -129,10 +121,6 @@ Provided that, where the Chairperson’s absence is permanent or is such so that
 
 (c) where, for any other reason, the member ceases to hold office, or if being a chosen member due to his representative state, the member stops holding that representative state; or
 
-*4*
-
-[S.L. 117.45 REGULATIONS
-
 (d) due to the unjustified absence to three (3) consecutive meetings without giving notice in writing of the reasons for such absence to the Chairperson before, or as soon as reasonably possible after the meeting. Unjustified absences for three (3) consecutive meetings shall be communicated to the Minister by the Chairperson.
 
 (6) The Minister may, after consultation with the Chairperson, as the case may be, remove any member from office on grounds of misconduct, proved infirmity of mind or of body, or inability to perform the functions of a member of the Council.
@@ -155,11 +143,9 @@ Provided that a temporary member shall cease to hold such office when a person h
 
 (d) to propose sustainable and feasible projects to implement the objectives of governmental policies in the agricultural and livestock breeding sectors and recommend measures to facilitate and further the achievement of any targets set;
 
-(e) upon the request by the Government, to draw up, examine and make recommendations on legislative proposals REGULATIONS [S.L. 117.45 relating to the objectives of the Council;
+(e) upon the request by the Government, to draw up, examine and make recommendations on legislative proposals relating to the objectives of the Council;
 
 (f) upon the request of the Minister, to make recommendations and submit opinions on any other matter arising in relation to the functions of the Ministry responsible for agriculture;
-
-*5*
 
 (g) to make recommendations to the Government regarding policies relating to the agricultural sector and rural development; and
 
@@ -184,10 +170,6 @@ Provided that a quorum shall not be present in the absence of the Chairperson or
 (3) The Council may, when it deems it necessary, inform the Minister of the issues raised by the appointed committees.
 
 (4) The chairperson of each committee shall be the sectorial leading representative most relevant or the most closely related to the matter or issue to be discussed by the committee. Where the matter or issue to be discussed affects more than one (1) agricultural sector, the Council shall determine which sectorial leading representative is to chair the particular committee.
-
-*6*
-
-[S.L. 117.45 REGULATIONS
 
 (5) The chairperson of each committee shall convene the first meeting by not later than one (1) calendar month following the date of appointment of the committee in accordance with sub-regulation (1).
 
@@ -223,10 +205,8 @@ Provided that the committees may act notwithstanding any vacancy amongst its mem
 
 ## 10. Annual report.
 
-By not later than six (6) weeks after the end of each calendar year or following instructions issued by the Minister, the REGULATIONS [S.L. 117.45 Council shall deliver to the Minister an annual report detailing all the activities undertaken by the Council and any ad hoc committees appointed in accordance with regulation 7 during the said calendar year. Such report shall include, inter alia, a general report on the proceedings of and developments made by the Council and any ad hoc committees during the period to which it relates in respect of matters falling within the scope of the Council.
+By not later than six (6) weeks after the end of each calendar year or following instructions issued by the Minister, the Council shall deliver to the Minister an annual report detailing all the activities undertaken by the Council and any ad hoc committees appointed in accordance with regulation 7 during the said calendar year. Such report shall include, inter alia, a general report on the proceedings of and developments made by the Council and any ad hoc committees during the period to which it relates in respect of matters falling within the scope of the Council.
 
 ## 11. Relations between the Minister and the Council.
 
 The Minister may, from time to time, issue directives in writing to the Council as he may deem appropriate, being directives consistent with the provisions of these regulations and any other regulations made under the Act so as to give effect to the provisions of these regulations and, or for the better carrying out of any of the provisions of these regulations. The Council shall, as soon as practicable, give effect to all such directives and conduct its affairs accordingly.
-
-*7*

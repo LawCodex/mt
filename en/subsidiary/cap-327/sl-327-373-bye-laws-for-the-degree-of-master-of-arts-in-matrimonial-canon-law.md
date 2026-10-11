@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Matrimonial Canon Law and Jurisprudence under the auspices of the Faculty of Theology (S.L. 327.373)
 
-LAW AND JURISPRUDENCE UNDER THE AUSPICES OF
-
-*1*
-
-THE FACULTY OF THEOLOGY [S.L.327.373
-
 **SUBSIDIARY LEGISLATION 327.373**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER**
@@ -65,11 +59,9 @@ These bye-laws shall be applicable for courses commencing in October 2017 or lat
 
 (b) a qualification deemed by Senate, on the recommendation of the Board, to be equivalent to the qualifications listed in paragraph (a) of this bye-law. (2) Applicants in possession of a degree classified with Third Class Honours or Category III in a discipline related to Theology, Laws, Social Work or Psychology and any other area as deemed relevant by the Board may also be admitted, provided that they have obtained other qualifications, including relevant experience, following their first cycle degree.
 
-(3) (a) The Board shall, after approval by Senate, determine the number of applicants that may be allowed to register depending on the availability of resources. The Board shall, however, announce the number of available places at the time of the call for applications. LAW AND JURISPRUDENCE UNDER THE AUSPICES OF [S.L.327.373 THE FACULTY OF THEOLOGY
+(3) (a) The Board shall, after approval by Senate, determine the number of applicants that may be allowed to register depending on the availability of resources. The Board shall, however, announce the number of available places at the time of the call for applications.
 
 (b) If the number of eligible applicants exceeds the number of available places, the Board shall select applicants according to the following criteria:
-
-*2*
 
 (i) degree type and classification;
 
@@ -115,13 +107,9 @@ The programme of study shall be published after approval by Senate, normally not
 
 (3) A provisional title for the dissertation and a detailed research proposal shall be submitted to the Board for approval by the end of the second semester.
 
-LAW AND JURISPRUDENCE UNDER THE AUSPICES OF
+## 10. Supervisor.
 
-*3*
-
-THE FACULTY OF THEOLOGY [S.L.327.373 10. (1) Students shall be required to have regular contact with their supervisor.
-
-*Supervisor.*
+(1) Students shall be required to have regular contact with their supervisor.
 
 (2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies, whether the student is following the course on a full-time or a part-time basis. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Pender Place and Mercury House Site, St Jullians (Designated Special Area) Order (S.L. 246.14)
 
-*1*
-
-ST. JULIANS (DESIGNATED SPECIAL AREA) [S.L.246.14
-
 **SUBSIDIARY LEGISLATION 246.14**
 
 **PENDER PLACE AND MERCURY HOUSE SITE,**
@@ -44,7 +40,3 @@ Pender Place and Mercury House site, St. Julian’s consisting of immovable prop
 ## 3. Addition to First Schedule of the Act. Cap. 246.
 
 Pender Place and Mercury House Zone, St. Julian’s shall be added to the List of Scheduled Zones in the First Schedule to the Immovable Property (Acquisition by Non-Residents) Act.
-
-*2*
-
-[S.L.246.14 ST. JULIANS (DESIGNATED SPECIAL AREA)

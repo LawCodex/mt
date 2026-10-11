@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Master of Science - M.Sc. - in Agricultural Sciences Degree Course Regulations (S.L. 327.63)
 
-*1*
-
-AGRICULTURAL SCIENCES DEGREE COURSE [S.L.327.63
-
 **SUBSIDIARY LEGISLATION 327.63**
 
 **MASTER OF SCIENCE - M.SC. - IN**
@@ -63,10 +59,6 @@ To be eligible for the award of the Degree, a candidate must have:
 
 (1) In order to be admitted to the course a candidate shall be in possession of the degree of Bachelor of Science in Chemistry and Biology (normally at least Category IIB) from the University of Malta or a degree in Chemistry and Biology from another University recognised by Senate to be equivalent to the degree of Bachelor of Science degree in Chemistry and Biology (Category IIB) of the University of Malta, or a degree in Biology or Chemistry or Biochemistry of the University of Malta or another University recognised by Senate to be equivalent to the Bachelor of Science degree (Category IIB) of the University of Malta. If the degree is in either Chemistry or Biology, the candidate may be required to complete a course in Biology or Chemistry as the case may require.
 
-*2*
-
-[S.L.327.63 AGRICULTURAL SCIENCES DEGREE COURSE
-
 (2) A candidate in possession of a degree from another University as indicated in subregulation (1) shall, in addition to satisfying the requirements of that subregulation, demonstrate proficiency in both written and oral English.
 
 ## 5. Duration.
@@ -106,10 +98,6 @@ To be eligible for the award of the Degree, a candidate must have:
 (1) Within three months of first registration a candidate shall submit to the Director of the Institute a title and an outline proposal of a dissertation and the name of a member of the Institute’s academic staff who has accepted to act as a supervisor, for approval of the Board.
 
 (2) Every dissertation presented for the Degree shall be work of an original nature or an original appraisal of existing published data and shall represent knowledge in an agricultural area, preferably relating to local conditions.
-
-*3*
-
-AGRICULTURAL SCIENCES DEGREE COURSE [S.L.327.63
 
 (3) The dissertation shall be of such length as directed by the Board but shall not normally be less than 30,000 words or more than 35,000 words.
 

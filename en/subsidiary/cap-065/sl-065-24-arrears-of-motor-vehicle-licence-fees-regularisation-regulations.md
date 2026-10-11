@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Arrears of Motor Vehicle Licence Fees (Regularisation) Regulations (S.L. 65.24)
 
-*1*
-
-FEES (REGULARISATION) [S.L.65.24
-
 **SUBSIDIARY LEGISLATION 65.24**
 
 **ARREARS OF MOTOR VEHICLE LICENCE**
@@ -76,10 +72,6 @@ During the period from when these regulations come into force until the 31st Oct
 
 Provided that where a person to whom regulation 3 applies is residing in a home for the elderly or is being kept in a hospital for mental care, a medical certificate from a professional or professionals to certify the physical and mental ability of such person shall be presented to the Authority so that the vehicle is scrapped and the processing fee is waived:
 
-*2*
-
-[S.L.65.24 FEES (REGULARISATION)
-
 Provided further that the processing fee shall also be waived where the vehicle is registered in the name of a company which has been struck off the registry or is in the process of dissolution and, in general, in all those circumstances in which there is a legitimate reason for the processing fee to be so waived:
 
 Provided further that any vehicle owner for which the road licence has not been paid for eight (8) years or more shall be deemed to be temporarily de-registered with the Authority, and in order for such a vehicle to be either officially scrapped, garaged or licensed, all annual circulation licences fees, administration fees, contraventions and CVA fees due shall be paid to the AutAmends regulation 8 of the principal regulations. Provided further that where a person having arrears of motor vehicle licences which are prior to eight years from the date from when such person regularises his position, the processing fee to be paid shall be twenty euro (€20); and
@@ -104,13 +96,9 @@ Provided further that any vehicle owner for which the road licence has not been 
 
 *S.L. 368.02*
 
-(b) be exempt from the payment of any outstanding administrative fines which are due in terms of article 21(5) of the Motor Vehicles Registration and FEES (REGULARISATION) [S.L.65.24
+(b) be exempt from the payment of any outstanding administrative fines which are due in terms of article 21(5) of the Motor Vehicles Registration and Licensing Act and regulation 14(2) of the Registration and Licensing of Motor Vehicles Regulations.
 
 *Cap. 368. S.L. 368.02*
-
-Licensing Act and regulation 14(2) of the Registration and Licensing of Motor Vehicles Regulations.
-
-*3*
 
 ## 7. Vehicles which are to be scrapped.
 
@@ -147,10 +135,6 @@ Provided that if the vehicle has been transferred on another person without such
 Provided that when such a person fulfils the requirements of this regulation and makes a request in writing to the Authority to renew the licence of that vehicle, that licence shall only come into force six (6) months from the date in which the Authority had received the request for renewal.
 
 (2) The form mentioned in sub-regulation (1) shall be accompanied by a sworn statement confirming that the vehicle was not used on the road.
-
-*4*
-
-[S.L.65.24 FEES (REGULARISATION)
 
 ## 9. Outstanding fines and fees to be paid.
 

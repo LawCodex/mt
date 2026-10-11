@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Reduction of Additional Tax (Default in Furnishing Return) Rules (S.L. 123.69)
 
-*1*
-
-(DEFAULT IN FURNISHING RETURN) [S.L.123.69
-
 **SUBSIDIARY LEGISLATION 123.69\***
 
 **REDUCTION OF ADDITIONAL TAX**
@@ -58,12 +54,8 @@ The Commissioner may remit such part or all of the additional tax otherwise due 
 
 (c) if forfeiture is so due, under the provisions of paragraph (b), any additional reduction made under the provisions of this rule shall be deemed to have been a suspension of liability to the said additional tax, and not the cancellation of the relevant additional tax;
 
-(d) the Commissioner shall communicate in writing to the person concerned any condition imposed under paragraph (b), the consequences of infringement of [S.L.123.69 (DEFAULT IN FURNISHING RETURN)
+(d) the Commissioner shall communicate in writing to the person concerned any condition imposed under paragraph (b), the consequences of infringement of any such condition and, if such is the case, the fact that forfeiture has been incurred.
 
 \*These rules have been revoked by Legal Notice 98 of 2009; however they are to continue to apply as if they have not been repealed with respect to additional tax chargeable under article 56(12)(c) for any year of assessment preceding the year of assessment 2009 - see rule 3 of Legal Notice 98 of 2009.
-
-any such condition and, if such is the case, the fact that forfeiture has been incurred.
-
-*2*
 
 Appeals. 4. The use of the Commissioner’s discretion for the purposes of these rules shall not be questioned in any appeal.

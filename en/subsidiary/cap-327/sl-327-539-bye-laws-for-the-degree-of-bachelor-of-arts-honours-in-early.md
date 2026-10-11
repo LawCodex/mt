@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Arts (Honours) in Early Childhood Education and Care - B.A. (Hons) ECEC - under the auspices of the Faculty of Education (S.L. 327.539)
 
-CHILDHOOD EDUCATION AND CARE - B.A.(Hons) ECEC -
-
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.539
-
 **SUBSIDIARY LEGISLATION 327.539**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF
@@ -72,9 +66,7 @@ LEGAL NOTICE 151 of 2016, as amended by Legal Notices 244 of 2017 106 of 2018, 2
 
 (i) the Advanced Diploma in Children’s Care, Learning and Development (MCAST) or any other comparable and equivalent recognised qualification; and
 
-*2*
-
-CHILDHOOD EDUCATION AND CARE - B.A.(Hons) ECEC - [S.L.327.539 UNDER THE AUSPICES OF THE FACULTY OF EDUCATION (ii) a pass at Advanced Matriculation Level at grade C or better in any one of the following subjects:
+(ii) a pass at Advanced Matriculation Level at grade C or better in any one of the following subjects:
 
 Art, Biology, Chemistry, Computing, English, French, Geography, German, History, Home Economics and Human Ecology, Information Technology, Italian, Maltese, Mathematics (Applied or Pure), Music, Philosophy, Physics, Religious Knowledge, Sociology and Spanish; and
 
@@ -100,13 +92,7 @@ Applicants with other qualifications considered to be sufficient may be exempted
 
 *Substituted by: L.N. 209 of 2020.*
 
-(1)The Board shall recommend to Senate the number of students that may be allowed to register for the Course, depending on the availability of human resources and the number of suitable classes available for the field placement component. The Board shall announce the number of available places at the time of the call CHILDHOOD EDUCATION AND CARE - B.A.(Hons) ECEC -
-
-*3*
-
-UNDER THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.539
-
-for applications, provided that 10% of such available places shall be reserved for eligible applicants considered in terms of paragraph (4) of bye-law 3. If some or all of the reserved places are not filled, these places shall be made available to applicants who satisfy the general and special course requirements.
+(1)The Board shall recommend to Senate the number of students that may be allowed to register for the Course, depending on the availability of human resources and the number of suitable classes available for the field placement component. The Board shall announce the number of available places at the time of the call for applications, provided that 10% of such available places shall be reserved for eligible applicants considered in terms of paragraph (4) of bye-law 3. If some or all of the reserved places are not filled, these places shall be made available to applicants who satisfy the general and special course requirements.
 
 (2) When the number of applicants that may be admitted to the Course is limited in terms of paragraph (1) of this bye-law, and the number of eligible applicants exceeds the number of places available, applicants shall be selected on the basis of their academic qualifications which shall be weighted in accordance with selection criteria which will be published at the time of the call for application, provided that applicants considered in terms of paragraph (4) of bye-law 3 shall be selected according to the following criteria:
 
@@ -138,11 +124,9 @@ The Course shall extend over a period of three years of full-time study or the e
 
 (2) In addition to the programme of study specified in paragraph (1) of this bye-law, students shall be further required to:
 
-(i) register for the study-units included in the Communication and Academic Skills Programme CHILDHOOD EDUCATION AND CARE - B.A.(Hons) ECEC - [S.L.327.539 UNDER THE AUSPICES OF THE FACULTY OF EDUCATION (CASP); and
+(i) register for the study-units included in the Communication and Academic Skills Programme (CASP); and
 
 (ii) sit for a Maltese Aptitude Test - 'Test ta' Ħiliet fil-Malti' -at the beginning of the Course; provided that applicants in possession of a pass in Maltese at Intermediate or Advanced Matriculation Level at Grade C or higher, or qualifications deemed to be equivalent by the Board, shall be exempt from this requirement. Students who fail the Maltese Aptitude Test shall be required to follow and successfully complete a proficiency course in Maltese. 9. (1) Students who successfully complete a prescribed set of study-units totalling 120 ECTS credits, including two field placements, and do not successfully complete the Course, shall be entitled to the Higher Diploma.
-
-*4*
 
 *Total of ECTS credits. Amended by: L.N. 244 of 2017; L.N. 106 of 2018; L.N. 161 of 2021.*
 
@@ -169,12 +153,6 @@ The Course shall extend over a period of three years of full-time study or the e
 (4) Students shall be required to abide by the Field Placement Code of Ethics and Code of Conduct published by the Board. Any breach of these Codes shall be referred to the Board of Examiners of the field placement and may result in a recommendation to Senate for expulsion from the Course.
 
 (5) (a) Students who, for health reasons, fail to attend for up to three days should present a medical certificate within 24 hours to the coordinator of the field placement. The medical certificate, drawn up by a medical doctor, should clearly state the ailment which is preventing the student from attending school and should include the name, the signature and the medical registration number of the medical doctor.
-
-CHILDHOOD EDUCATION AND CARE - B.A.(Hons) ECEC -
-
-*5*
-
-UNDER THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.539
 
 (b) Where students are away from the early childhood setting for up to three days for health reasons or for any other reason which the Board considers valid, as well as in special circumstances for which prior approval would have been given by the field placement Board of Examiners, they shall be requested to make up for any missed teaching duties in accordance with instructions issued by the coordinator of the field placement and the Head of Department of Early Childhood and Primary Education.
 

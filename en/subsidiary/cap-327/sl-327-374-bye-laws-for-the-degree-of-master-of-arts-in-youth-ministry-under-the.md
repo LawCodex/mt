@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Youth Ministry under the auspices of the Faculty of Theology (S.L. 327.374)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF THEOLOGY [S.L.327.374
-
 **SUBSIDIARY LEGISLATION 327.374**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -69,9 +65,7 @@ These bye-laws shall be applicable for courses commencing in October 2017 or lat
 
 (2) Applicants in possession of a degree classified with Third Class Honours or Category III, together with a minimum of two years' experience in youth work practice in a youth work oriented agency, may also be admitted, provided that they have obtained other qualifications, including relevant experience, following their first cycle degree.
 
-*2*
-
-[S.L.327.374 UNDER THE AUSPICES OF THE FACULTY OF THEOLOGY (3) In exceptional cases the Admissions Board, on the recommendation of the Board, may admit into the course applicants not in possession of a Bachelor’s degree, provided that it is satisfied that such applicants are in possession of other academic or professional qualifications and a minimum of two years’ experience in youth work practice in a youth work oriented agency that together are deemed to be comparable to the level of a first degree.
+(3) In exceptional cases the Admissions Board, on the recommendation of the Board, may admit into the course applicants not in possession of a Bachelor’s degree, provided that it is satisfied that such applicants are in possession of other academic or professional qualifications and a minimum of two years’ experience in youth work practice in a youth work oriented agency that together are deemed to be comparable to the level of a first degree.
 
 (4) Applicants may be registered as students in the course if they satisfy the Board, through an interview, that they have the necessary experience and aptitude to follow the course.
 
@@ -108,10 +102,6 @@ The course shall extend over three semesters of full-time study or the equivalen
 (1) Students who obtain the 30 credits at level 5 assigned to the taught study-units in the first semester with an average mark of at least 50% and do not proceed with the course shall be eligible for the award of the Postgraduate Certificate.
 
 (2) Students who obtain the 60 credits assigned to the taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the Postgraduate Diploma.
-
-*3*
-
-UNDER THE AUSPICES OF THE FACULTY OF THEOLOGY [S.L.327.374
 
 ## 7. Publication of programme of study.
 

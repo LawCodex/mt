@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws in terms of the General Regulations for University Postgraduate Awards for the degree of Master of Arts in Marketing Communication - M.A. - under the auspices of the Faculty of Media and Knowledge Sciences. (S.L. 327.463)
 
-*1*
-
-\- M.A. [S.L.327.463
-
 **SUBSIDIARY LEGISLATION 327.463**
 
 **BYE-LAWS IN TERMS OF THE GENERAL**
@@ -73,13 +69,9 @@ The course shall extend over a period of three semesters of full-time study.
 
 ## 5. Programme of study.
 
-(1) The programme of study shall comprise study-units to which a total of 90 credits are assigned, of which 60 credits are [S.L.327.463 - M.A.
+(1) The programme of study shall comprise study-units to which a total of 90 credits are assigned, of which 60 credits are assigned to taught study-units and 30 credits are assigned to the dissertation study-unit.
 
 \*These regulations have been repealed by Legal Notice 173 of 2022.
-
-assigned to taught study-units and 30 credits are assigned to the dissertation study-unit.
-
-*2*
 
 (2) The programme of study shall be published by the Board after approval by Senate, normally not later than eight months prior to the commencement of the course.
 
@@ -113,11 +105,7 @@ assigned to taught study-units and 30 credits are assigned to the dissertation s
 
 (1) Each dissertation shall be examined by a Board of Examiners composed of at least two examiners and the principal supervisor.
 
-(2) The Board of Examiners for the dissertation may require - M.A. [S.L.327.463
-
-students to defend the dissertation orally before them. The external examiner need not be present for the oral defence, but not less than three members of the Board of Examiners shall conduct the oral examination.
-
-*3*
+(2) The Board of Examiners for the dissertation may require students to defend the dissertation orally before them. The external examiner need not be present for the oral defence, but not less than three members of the Board of Examiners shall conduct the oral examination.
 
 (3) Students whose dissertation is found unsatisfactory may either fail or be required by the Board of Examiners to rewrite the document in whole or in part and to re-submit it for examination. Students may re-submit the dissertation not later than four months from the notification of the decision of the Board of Examiners.
 

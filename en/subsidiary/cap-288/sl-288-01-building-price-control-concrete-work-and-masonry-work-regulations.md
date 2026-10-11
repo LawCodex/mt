@@ -1,6 +1,6 @@
 ---
 title: "Building (Price Control) (Concrete Work and Masonry Work) Regulations"
-identifier: "S.L. 288.1"
+identifier: "S.L. 288.01"
 eli: "https://legislation.mt/eli/sl/288.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/288.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Building (Price Control) (Concrete Work and Masonry Work) Regulations (S.L. 288.1)
-
-*1*
-
-(CONCRETE WORK AND MASONRY WORK) [S.L.288.01
+# Building (Price Control) (Concrete Work and Masonry Work) Regulations (S.L. 288.01)
 
 **SUBSIDIARY LEGISLATION 288.01**
 
@@ -33,9 +29,7 @@ The title of these regulations is the Building (Price Control) (Concrete Work an
 
 ## 2. Establishment of price for certain works.
 
-The prices for works specified in the first column of the Schedule shall be those established in the second column thereof. 2 [S.L.288.01 (CONCRETE WORK AND MASONRY WORK)
-
-Substituted by: SCHEDULE
+The prices for works specified in the first column of the Schedule shall be those established in the second column thereof. Substituted by: SCHEDULE
 
 L.N. 423 of 2007.
 

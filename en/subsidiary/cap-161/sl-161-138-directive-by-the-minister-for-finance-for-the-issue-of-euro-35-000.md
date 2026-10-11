@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister for Finance for the issue of Euro 35,000,000 Malta Government Stock (S.L. 161.138)
 
-ISSUE OF EURO €35,000,000
-
-*1*
-
-MALTA GOVERNMENT STOCK [S.L.161.138
-
 **SUBSIDIARY LEGISLATION 161.138**
 
 DIRECTIVE BY THE MINISTER FOR FINANCE FOR THE ISSUE OF €35,000,000 MALTA

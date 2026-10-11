@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Court Practice and Procedure and Good Order (Criminal Code) Rules of Court (S.L. 9.11)
 
-*1*
-
-AND GOOD ORDER (CRIMINAL CODE) [S.L.9.11
-
 **SUBSIDIARY LEGISLATION 9.11**
 
 **COURT PRACTICE AND PROCEDURE AND**
@@ -55,11 +51,7 @@ Part II - Maintenance of Good Order in the Courts of Justice 3. (1) No person sh
 
 (d) keep any ringing mechanism of any mobile or cellular phone or any other similar device switched on within any hall where the court sits, during a sitting of the court or tribunal; or
 
-(e) bring, within the precincts of the Courts of Justice, any child under the age of thirteen years, except where such child has been summoned as a witness before a court or other tribunal sitting within the said precincts, or where such court or tribunal is of the opinion that the presence of the child is required in connection with [S.L.9.11 AND GOOD ORDER (CRIMINAL CODE)
-
-any proceedings before it, or as may otherwise be provided by the Director General (Courts) with the consent of the Chief Justice; or
-
-*2*
+(e) bring, within the precincts of the Courts of Justice, any child under the age of thirteen years, except where such child has been summoned as a witness before a court or other tribunal sitting within the said precincts, or where such court or tribunal is of the opinion that the presence of the child is required in connection with any proceedings before it, or as may otherwise be provided by the Director General (Courts) with the consent of the Chief Justice; or
 
 (f) enter within the precincts of the Courts of Justice without complying with the security procedures in force as established by the Director General (Courts); or
 
@@ -87,11 +79,7 @@ Part III - Court Practice and Procedure concerning Hearings
 
 (1) The hearing of a charge, bill of indictment or other procedure shall, as far as possible, be by appointment for a given time as determined by the court.
 
-(2) Where several charges, bills of indictment or other procedures are to be heard during the course of any sitting, the court shall stagger the hearing of the said charges, bills of indictment or other procedure at reasonable intervals to ensure that AND GOOD ORDER (CRIMINAL CODE) [S.L.9.11
-
-the parties, and witnesses if any, do not all turn up at the same time.
-
-*3*
+(2) Where several charges, bills of indictment or other procedures are to be heard during the course of any sitting, the court shall stagger the hearing of the said charges, bills of indictment or other procedure at reasonable intervals to ensure that the parties, and witnesses if any, do not all turn up at the same time.
 
 ## Part IV - References to the Court of Justice — of the European Communities
 
@@ -129,10 +117,6 @@ Part V - Wearing Apparel for Advocates, Legal Procurators,
 
 (1) Advocates appearing before any of the superior courts of criminal jurisdiction at the hearing of any charge, bill of indictment or other procedure shall wear a dark blue, charcoal grey or black suit or pin-striped trousers and black jacket, a white shirt with a black, grey or white tie or bow-tie and black gown. Lady advocates appearing before the said courts shall wear black or blue or charcoal grey suits, or a white blouse and a black skirt or trousers under a black gown. A Judge may for good reason dispense an advocate from wearing a gown.
 
-*4*
-
-[S.L.9.11 AND GOOD ORDER (CRIMINAL CODE)
-
 (2) Any advocate not complying entirely with these requirements shall not have the right of audience.
 
 (3) Advocates and lady advocates appearing before any of the inferior courts of criminal jurisdiction shall comply with the provisions of sub-rule (1) but shall be dispensed from the need to wear a gown.
@@ -155,8 +139,4 @@ Part V - Wearing Apparel for Advocates, Legal Procurators,
 
 (2) Without prejudice to the provisions of article 547(2) of the Criminal Code, except where a Magistrate is away from the Islands on a visit, or to attend a seminar, conference or other similar meeting, as approved by the Chief Justice or by the Judicial Studies Committee, he shall apply to the Senior Magistrate for leave of absence, including where necessary leave to be away from Malta, at least three days before such leave is required. The Senior Magistrate shall, before granting such leave, ensure that adequate arrangements have been made for urgent matters, which may arise in the court to which that Magistrate is assigned, to be dealt with by another Magistrate.
 
-(3) The provisions of the foregoing sub-rules, shall, mutatis AND GOOD ORDER (CRIMINAL CODE) [S.L.9.11
-
-mutandis, apply to the Senior Administrative Judge and the Senior Magistrate, sohowever that in their case they shall apply to the Chief Justice.
-
-*5*
+(3) The provisions of the foregoing sub-rules, shall, mutatis mutandis, apply to the Senior Administrative Judge and the Senior Magistrate, sohowever that in their case they shall apply to the Chief Justice.

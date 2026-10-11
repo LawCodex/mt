@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Social Security (U.N. Convention relating to the Status of Refugees) Order (S.L. 318.16)
 
-SOCIAL SECURITY (U.N. CONVENTION
-
-*1*
-
-RELATING TO THE STATUS OF REFUGEES) [S.L.318.16
-
 **SUBSIDIARY LEGISLATION 318.16**
 
 **SOCIAL SECURITY (U.N. CONVENTION**

@@ -1,6 +1,6 @@
 ---
 title: "Deprivation of Maltese Citizenship (Committee of Inquiry) Rules"
-identifier: "S.L. 188.2"
+identifier: "S.L. 188.02"
 eli: "https://legislation.mt/eli/sl/188.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/188.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Deprivation of Maltese Citizenship (Committee of Inquiry) Rules (S.L. 188.2)
-
-*1*
-
-(COMMITTEE OF INQUIRY) [S.L.188.02
+# Deprivation of Maltese Citizenship (Committee of Inquiry) Rules (S.L. 188.02)
 
 **SUBSIDIARY LEGISLATION 188.02**
 
@@ -59,11 +55,7 @@ The title of these Rules is Deprivation of Maltese Citizenship (Committee of Inq
 
 ## 4. Oath of office.
 
-(1) The Chairman and the members of the Committee shall, before entering upon those duties, take and subscribe an oath [S.L.188.02 (COMMITTEE OF INQUIRY)
-
-in the Form B set out in the Schedule.
-
-*2*
+(1) The Chairman and the members of the Committee shall, before entering upon those duties, take and subscribe an oath in the Form B set out in the Schedule.
 
 (2) Such oath shall be taken before, and shall be deposited with, the Attorney General.
 
@@ -107,17 +99,9 @@ The Committee shall hold its sittings in one of the halls of the Courts of Justi
 
 (1) Save as otherwise provided in these Rules, the decisions of the Committee shall be taken by a majority vote.
 
-(2) The decisions of the Committee shall be in writing and shall be signed by the Chairman and by the Secretary, and the (COMMITTEE OF INQUIRY) [S.L.188.02
-
-original shall be kept by the Secretary of the Committee together
-
-*3*
+(2) The decisions of the Committee shall be in writing and shall be signed by the Chairman and by the Secretary, and the original shall be kept by the Secretary of the Committee together
 
 with the complete record of the proceedings of each inquiry.
-
-*4*
-
-[S.L.188.02 (COMMITTEE OF INQUIRY)
 
 ## SCHEDULE
 
@@ -153,9 +137,7 @@ Wherefore the aggrieved person prays that the aforesaid Notice be revoked.
 
 Filed by ........................................ on the .......................................
 
-......................................... Signature of the Secretary of the Committee of Inquiry (COMMITTEE OF INQUIRY) [S.L.188.02 5
-
-**Form B**
+......................................... Signature of the Secretary of the Committee of Inquiry Form B
 
 (Rule 4)
 
@@ -183,9 +165,7 @@ To ...................................................... (name of person summon
 
 Given under my hand this ..................... day of ................................
 
-.................................... (Signature of Chairman) 6 [S.L.188.02 (COMMITTEE OF INQUIRY)
-
-**Form D**
+.................................... (Signature of Chairman) Form D
 
 (Rule 9)
 

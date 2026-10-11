@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in Agriculture - Dip. Agric. - under the auspices of the Institute of Earth Systems (S.L. 327.243)
 
-*1*
-
-AUSPICES OF THE INSTITUTE OF EARTH SYSTEMS [S.L.327.243
-
 **SUBSIDIARY LEGISLATION 327.243**
 
 BYE-LAWS FOR THE DIPLOMA IN AGRICULTURE - DIP. AGRIC. UNDER THE AUSPICES OF THE
@@ -75,11 +71,11 @@ To be admitted as provisional students in the preparatory course specifically re
 
 \*These bye-laws have been repealed by Legal Notice 211 of 2024.
 
-*2*
+## 5. Preparatory course programme.
 
-[S.L.327.243 AUSPICES OF THE INSTITUTE OF EARTH SYSTEMS 5. (1) The preparatory course extends over a period of one year of full-time studies and shall consist of study units to which 60 credits are assigned.
+*Substituted by: L.N. 124 of 2006.*
 
-*Preparatory course programme. Substituted by: L.N. 124 of 2006.*
+(1) The preparatory course extends over a period of one year of full-time studies and shall consist of study units to which 60 credits are assigned.
 
 (2) The Board shall publish the programme of study for the preparatory course, drawn up in accordance with the relevant provisions of the Principal Regulations, and approved by Senate, at the commencement of each course. Subject to changes that the Board may, with the approval of Senate, be constrained to make, students are bound to follow the study-units and obtain the credits as indicated in the programme of study.
 

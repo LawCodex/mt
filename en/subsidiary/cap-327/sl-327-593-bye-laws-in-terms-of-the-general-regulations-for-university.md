@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws in terms of the General Regulations for University Undergraduate Awards, 2004 for the Degree of Bachelor in Performing Arts (Honours) - B. Perf. Arts (Hons) - under the auspices of the School of Performing Arts (S.L. 327.593)
 
-*1*
-
-B. PERF. ARTS (HONS) [S.L. 327.593 SUBSIDIARY LEGISLATION 327.593
+**SUBSIDIARY LEGISLATION 327.593**
 
 **BYE-LAWS IN TERMS OF THE GENERAL**
 
@@ -54,10 +52,6 @@ These bye-laws shall be applicable for courses commencing in October 2018 or lat
 (1) To be registered as regular students in the Course, applicants must satisfy the general entry requirements for admission as specified in the Admissions Regulations of the University.
 
 (2) Applicants considered as “Adult Learners” (mature applicants) in terms of paragraph (c) of regulation 6 of the Admissions Regulations must be in possession of those qualifications and/or experience that would satisfy the Board that they have reached the academic standard required to follow the Course with profit. Such applicants shall be required to submit with their application a letter written in English giving their motivation for applying for this Course together with a copy of their Curriculum Vitae (C.V.).
-
-*2*
-
-[S.L. 327.593 B. PERF. ARTS (HONS)
 
 (3) The eligibility of applicants referred to in paragraph (2) of this bye-law shall be decided by the Board, following an interview conducted by a board appointed for the purpose.
 

@@ -16,11 +16,7 @@ retrieved: 2026-10-12
 
 # Relief from Income Tax and from Duty on Documents and Transfers on Certain Property Transfers, Rules (S.L. 123.203)
 
-FROM DUTY ON DOCUMENTS AND TRANSFERS ON
-
-*1*
-
-CERTAIN PROPERTY TRANSFERS [S.L. 123.203 SUBSIDIARY LEGISLATION 123.203
+**SUBSIDIARY LEGISLATION 123.203**
 
 RELIEF FROM INCOME TAX AND FROM DUTY ON DOCUMENTS AND TRANSFERS ON CERTAIN
 
@@ -70,10 +66,6 @@ In these rules, unless the context otherwise requires:
 
 Provided that no relief from income tax and from duty on documents and transfers shall be allowed in terms of this rule where the transfer is made to a person who requires a permit by the Minister for the purposes of the Immovable Property (Acquisition by Non- Residents) Act or who would have required such permit had the property acquired not been situated in a special designated area:
 
-*2*
-
-FROM DUTY ON DOCUMENTS AND TRANSFERS ON [S.L. 123.203 CERTAIN PROPERTY TRANSFERS
-
 Provided further that in the case of a transfer made on, or after 1st January 2025:
 
 (a) no relief from income tax and from duty on documents and transfers shall be allowed in accordance with this rule if the property that is transferred consists of immovable property intended for the storage of goods or materials;
@@ -98,11 +90,7 @@ Provided further that in the case of a transfer made on, or after 1st January 20
 
 (b) the property transferred is vacant on the date of the transfer and has been vacant for a period of at least seven (7) continuous years immediately preceding that date;
 
-FROM DUTY ON DOCUMENTS AND TRANSFERS ON
-
-*3*
-
-CERTAIN PROPERTY TRANSFERS [S.L. 123.203 (ba) the parties to the deed of the transfer or any of them produce a Planning Authority site plan of the property with an indication of the boundaries of the site as plotted by the Planning Authority and an indication inserted by an architect of the distance of the property from the nearest street corner;
+(ba) the parties to the deed of the transfer or any of them produce a Planning Authority site plan of the property with an indication of the boundaries of the site as plotted by the Planning Authority and an indication inserted by an architect of the distance of the property from the nearest street corner;
 
 *              Cap. 123. Cap. 364.*
 
@@ -123,10 +111,6 @@ CERTAIN PROPERTY TRANSFERS [S.L. 123.203 (ba) the parties to the deed of the tra
 (a) the property transferred is situated, at the time of the transfer, within an urban conservation area;
 
 (aa) the parties to the deed of the transfer or any of them produce a Planning Authority site plan of the property with an indication of the boundaries of the site as plotted by the Planning Authority and an indication inserted by an architect of the distance of the property from the nearest street corner;
-
-*4*
-
-FROM DUTY ON DOCUMENTS AND TRANSFERS ON [S.L. 123.203 CERTAIN PROPERTY TRANSFERS
 
 *      Cap. 552.    Cap. 123. Cap. 364.*
 
@@ -154,11 +138,7 @@ FROM DUTY ON DOCUMENTS AND TRANSFERS ON [S.L. 123.203 CERTAIN PROPERTY TRANSFERS
 
 (2) If the condition mentioned in sub-rule (1) is in any way breached, the relief from income tax and from duty on documents and transfers granted by these rules on the said transfer shall be forfeited and the total of the amount of such income tax and duty that was so relieved shall become payable to the Commissioner forthwith.
 
-(3) The person who acquired the property at the time that the FROM DUTY ON DOCUMENTS AND TRANSFERS ON
-
-*5*
-
-CERTAIN PROPERTY TRANSFERS [S.L. 123.203 relief from income tax and from duty on documents and transfers was allowed shall be liable for the payment of the amount mentioned in sub-rule (2).
+(3) The person who acquired the property at the time that the relief from income tax and from duty on documents and transfers was allowed shall be liable for the payment of the amount mentioned in sub-rule (2).
 
 ## 7. Exemption from duty on documents and transfers.
 
@@ -185,10 +165,6 @@ This rule applies to any transfer that satisfies all the following conditions:
 (c) evidence of the approval referred to in paragraph (b) is produced to the Commissioner by not later than three (3) months from the date on which it is issued, together with such information and further evidence as the Commissioner may require:
 
 Provided that duty on documents and transfers on a transfer to which this rule applies shall be payable at the time of the transfer without reference to these rules and the relief from the said duty allowable under these rules on that transfer shall be given effect to, subject to the other provisions of these rules, by means of a refund of the amount so relieved once the conditions in this rule have been satisfied.
-
-*6*
-
-FROM DUTY ON DOCUMENTS AND TRANSFERS ON [S.L. 123.203 CERTAIN PROPERTY TRANSFERS
 
 ## 9. Approval of the development.
 
@@ -218,11 +194,7 @@ FROM DUTY ON DOCUMENTS AND TRANSFERS ON [S.L. 123.203 CERTAIN PROPERTY TRANSFERS
 
 (c) divided into more transferable units than the number of transferable units that comprised the property at the time that the approval of the competent authority was granted.
 
-(2) If the condition mentioned in sub-rule (1) is in any way breached, or if there is a breach of any condition imposed by the competent authority for the approval of the development, the relief from duty on documents and transfers on the said transfer shall be forfeited and the amount that was refunded in accordance with rule 8 FROM DUTY ON DOCUMENTS AND TRANSFERS ON
-
-*7*
-
-CERTAIN PROPERTY TRANSFERS [S.L. 123.203 shall be paid back to the Commissioner forthwith.
+(2) If the condition mentioned in sub-rule (1) is in any way breached, or if there is a breach of any condition imposed by the competent authority for the approval of the development, the relief from duty on documents and transfers on the said transfer shall be forfeited and the amount that was refunded in accordance with rule 8 shall be paid back to the Commissioner forthwith.
 
 (3) The person who is the owner of the property at the time that the approval of the development is granted shall be liable for the payment of the amount mentioned in sub-rule (2).
 
@@ -246,11 +218,7 @@ Provided that the notary publishing any such subsequent deed of transfer shall n
 
 *Added by:| L.N. 11 of 2022. Cap. 123. Cap. 364.*
 
-Notwithstanding the other provisions of these rules, when a transfer of property to which rule 4, 5 or 8 applies is made to a company, and that company then transfers the property to another company by means of a transfer that is relieved from income tax and from duty on documents and transfers in terms of articles 5(9) and 5A(4)(f) of the Income Tax Act and article 32(6) of the Duty on FROM DUTY ON DOCUMENTS AND TRANSFERS ON [S.L. 123.203 CERTAIN PROPERTY TRANSFERS
-
-Documents and Transfers Act, the condition mentioned in sub-rule (1) of rule 6 or the conditions mentioned in sub-rule (1) and (2) of rule 11, as the case may be, shall continue to apply as if the latter transfer has not taken place, and in the event of a breach in any way of any applicable condition, the two companies shall be jointly and severally liable for the payment of the amount mentioned in sub-rule (2) of rule 6 or in sub-rule (2) of rule 11, as the case may be.
-
-*8*
+Notwithstanding the other provisions of these rules, when a transfer of property to which rule 4, 5 or 8 applies is made to a company, and that company then transfers the property to another company by means of a transfer that is relieved from income tax and from duty on documents and transfers in terms of articles 5(9) and 5A(4)(f) of the Income Tax Act and article 32(6) of the Duty on Documents and Transfers Act, the condition mentioned in sub-rule (1) of rule 6 or the conditions mentioned in sub-rule (1) and (2) of rule 11, as the case may be, shall continue to apply as if the latter transfer has not taken place, and in the event of a breach in any way of any applicable condition, the two companies shall be jointly and severally liable for the payment of the amount mentioned in sub-rule (2) of rule 6 or in sub-rule (2) of rule 11, as the case may be.
 
 ## 15.  Planning Authority to inform the Commissioner when a permit is issued.
 

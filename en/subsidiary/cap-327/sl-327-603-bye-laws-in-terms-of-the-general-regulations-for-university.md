@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws in terms of the General Regulations for University Undergraduate Awards, 2004 for the degree of Bachelor of Laws (Honours) - LL.B. (Hons) - under the auspices of the Faculty of Laws (S.L. 327.603)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF LAWS [S.L. 327.603
-
 **SUBSIDIARY LEGISLATION 327.603**
 
 **BYE-LAWS IN TERMS OF THEGENERAL**
@@ -63,11 +59,7 @@ These bye-laws shall be applicable for courses commencing in October 2018 or lat
 
 (1) To be registered as regular students in the Course, applicants shall, apart from satisfying the general requirements for admission as specified in the Admissions Regulations, be in possession of the special course requirements listed hereunder:
 
-(a) two passes at Grade C or better at Advanced Matriculation Level or equivalent in English and Maltese, and three passes at Intermediate Matriculation Level or equivalent, one of which at grade C or better, in subjects chosen as follows: one subject from Group 2, one subject from Group 3, [S.L. 327.603 UNDER THE AUSPICES OF THE FACULTY OF LAWS
-
-and another subject (except English and Maltese); or
-
-*2*
+(a) two passes at Grade C or better at Advanced Matriculation Level or equivalent in English and Maltese, and three passes at Intermediate Matriculation Level or equivalent, one of which at grade C or better, in subjects chosen as follows: one subject from Group 2, one subject from Group 3, and another subject (except English and Maltese); or
 
 (b) for entry in October 2020 or later, a degree at MQF level 6 in any area of study awarded by the University of Malta or any other higher education institution recognized by Senate, and a pass at Grade C or better at Advanced Matriculation level or equivalent in Maltese,
 
@@ -89,11 +81,7 @@ The Course shall extend over a period of four years of full-time study.
 
 (4) Students who obtain 180 ECTS credits assigned to taught study-units and do not proceed with the Course, or having proceeded do not successfully complete the Course, shall be eligible for the award of the Degree.
 
-(5) Students shall be eligible for the award of the Honours UNDER THE AUSPICES OF THE FACULTY OF LAWS [S.L. 327.603
-
-Degree if they obtain the 240 ECTS credits as outlined in the programme of study for the Course.
-
-*3*
+(5) Students shall be eligible for the award of the Honours Degree if they obtain the 240 ECTS credits as outlined in the programme of study for the Course.
 
 ## 6. Assessment and Progress
 

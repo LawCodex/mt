@@ -1,6 +1,6 @@
 ---
 title: "Petroleum (Production) Regulations"
-identifier: "S.L. 156.1"
+identifier: "S.L. 156.01"
 eli: "https://legislation.mt/eli/sl/156.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/156.1/20230901/eng"
 retrieved: 2026-10-12
 ---
 
-# Petroleum (Production) Regulations (S.L. 156.1)
+# Petroleum (Production) Regulations (S.L. 156.01)
 
 **SUBSIDIARY LEGISLATION 156.01**
 

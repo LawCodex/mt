@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Facilitating the Use of Financial and other Information for the Prevention, Detection, Investigation or Prosecution of certain Criminal Offences Regulations (S.L. 9.29)
 
-INFORMATION FOR THE PREVENTION, DETECTION,
-
-INVESTIGATION OR PROSECUTION OF CERTAIN
-
-*1*
-
-CRIMINAL OFFENCES [S.L. 9.29
-
 **SUBSIDIARY LEGISLATION 9.29**
 
 **FACILITATING THE USE OF FINANCIAL AND**
@@ -62,13 +54,7 @@ In these regulations, unless the context otherwise requires:
 
 *Cap. 373.*
 
-"law enforcement information" means any type of information or data, including but not limited to information on investigations, freezing or seizure of assets or other investigative or provisional measures, information on convictions and on confiscation and criminal INFORMATION FOR THE PREVENTION, DETECTION, INVESTIGATION OR PROSECUTION OF CERTAIN
-
-*2*
-
-[S.L. 9.29 CRIMINAL OFFENCES
-
-records, which is already held by:
+"law enforcement information" means any type of information or data, including but not limited to information on investigations, freezing or seizure of assets or other investigative or provisional measures, information on convictions and on confiscation and criminal records, which is already held by:
 
 (a) any designated authority in the context of preventing, detecting, investigating or prosecuting criminal offences; and
 
@@ -96,15 +82,7 @@ The designated authorities may process the financial information and financial a
 
 (1) The designated authorities may exchange financial information or financial analysis obtained from the Unit, upon request and on a case by case basis, with a designated authority in another Member State, where the financial information or financial analysis is necessary for the prevention, detection and combating of money laundering, associate predicate offences and terrorist financing.
 
-(2) The designated authorities may impose conditions and restrictions on the use of exchanged information as they may determine in order to ensure that the financial information or financial analysis exchanged is used only for the purpose for which it was INFORMATION FOR THE PREVENTION, DETECTION,
-
-INVESTIGATION OR PROSECUTION OF CERTAIN
-
-*3*
-
-CRIMINAL OFFENCES [S.L. 9.29
-
-sought or provided.
+(2) The designated authorities may impose conditions and restrictions on the use of exchanged information as they may determine in order to ensure that the financial information or financial analysis exchanged is used only for the purpose for which it was sought or provided.
 
 (3) Any dissemination of financial information or financial analysis obtained by the designated authorities from the FIU of another Member State to any other authority, agency or department or any use of the information for purposes other than those originally approved is subject to the obtaining of prior consent of the FIU providing the information.
 
@@ -134,15 +112,7 @@ Provided that these records shall be made available to the Unit upon its request
 
 (a) number of requests issued by each designated authority, the follow-up given to the requests, the number of cases investigated, the number of persons prosecuted and the number of persons convicted for serious criminal offences, where such information is available;
 
-(b) data measuring the time it takes for an authority to respond to a request after the receipt of the request issued by a designated authority and the time a designated authority takes INFORMATION FOR THE PREVENTION, DETECTION,
-
-**INVESTIGATION OR PROSECUTION OF CERTAIN**
-
-**CRIMINAL OFFENCES**
-
-*[S.L. 9.29 4*
-
-to respond to requests;
+(b) data measuring the time it takes for an authority to respond to a request after the receipt of the request issued by a designated authority and the time a designated authority takes to respond to requests;
 
 (c) data measuring the cost of human or IT resources dedicated to domestic and cross-border requests falling under these regulations, if available.
 

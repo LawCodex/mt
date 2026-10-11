@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Arts (Honours) in Public Administration - B.A. (Hons) Pub.Admin. - under the auspices of the Institute of Public Administration and Management (S.L. 327.266)
 
-TRATION - B.A. (Hons) Pub.Admin. - UNDER THE AUSPICES OF THE
-
-*1*
-
-INSTITUTE OF PUBLIC ADMINISTRATION AND MANAGEMENT [S.L.327.266
-
 **SUBSIDIARY LEGISLATION 327.266**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF ARTS (HONOURS) IN PUBLIC ADMINISTRATION - B.A. (Hons) Pub.Admin - UNDER THE AUSPICES OF THE INSTITUTE OF PUBLIC ADMINISTRATION
@@ -61,11 +55,7 @@ These bye-laws shall be applicable for courses commencing in October 2015 or lat
 
 (2) Notwithstanding the provisions of paragraph (1) of this bye-law, the Board may recommend to Senate the number of students that may be admitted to the Course, depending on the resources available. If any such recommendation is made and approved, the number of available places shall be announced at the time of the call for applications.
 
-(3) If there are more eligible applicants than the number of TRATION - B.A. (Hons) Pub.Admin. - UNDER THE AUSPICES OF THE [S.L.327.266 INSTITUTE OF PUBLIC ADMINISTRATION AND MANAGEMENT
-
-places available, applicants shall be selected after they have undertaken a written test, conducted by the Board of Studies, which shall make its recommendations taking the following criteria and weightings into consideration:
-
-*2*
+(3) If there are more eligible applicants than the number of places available, applicants shall be selected after they have undertaken a written test, conducted by the Board of Studies, which shall make its recommendations taking the following criteria and weightings into consideration:
 
 (a) academic qualifications - 30%;
 

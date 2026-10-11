@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Light Passenger Transport Services and Vehicle Hire Services Regulations (S.L. 65.33)
 
-*1*
-
-VEHICLE HIRE SERVICES [S.L. 65.33 SUBSIDIARY LEGISLATION 65.33
+**SUBSIDIARY LEGISLATION 65.33**
 
 **LIGHT PASSENGER TRANSPORT SERVICES AND**
 
@@ -76,11 +74,7 @@ In these regulations, unless the context otherwise requires:
 
 "Act" means the Authority for Transport in Malta Act;
 
-"API" means the application programming interface that works as a bridge between applications, made available by holders of an authorisation to act as an intermediary booking [S.L. 65.33 VEHICLE HIRE SERVICES
-
-platform services or the other relevant service providers, and the electronic systems that the Authority may from time to time operate to perform the necessary monitoring and surveillance functions in accordance with the provisions of these regulations;
-
-*2*
+"API" means the application programming interface that works as a bridge between applications, made available by holders of an authorisation to act as an intermediary booking platform services or the other relevant service providers, and the electronic systems that the Authority may from time to time operate to perform the necessary monitoring and surveillance functions in accordance with the provisions of these regulations;
 
 * Cap. 499.*
 
@@ -110,9 +104,7 @@ platform services or the other relevant service providers, and the electronic sy
 
 "designated person" means a natural person, designated to the Authority by an operator or an applicant for an operator’s licence, as the person who continuously and effectively manages the passenger transport and, or vehicle rental services;
 
-*3*
-
-VEHICLE HIRE SERVICES [S.L. 65.33 "driver’s permit" means a permit issued by the Authority to drivers in terms of Part IV;
+"driver’s permit" means a permit issued by the Authority to drivers in terms of Part IV;
 
 "driver’s tag" means a tag issued by the Authority to a driver in terms of Part IV;
 
@@ -136,11 +128,7 @@ VEHICLE HIRE SERVICES [S.L. 65.33 "driver’s permit" means a permit issued by t
 
 "hire" shall include short lease and long-term lease covered by a lease agreement;
 
-"hire or reward" means payment made for the carriage of passengers other than on own account, that is to say against payment or compensation by the person being transported or by the hirer, whether such payment or compensation is made directly or indirectly;"hirer" means a person who is granted the right to drive a hired motor vehicle for the duration for which a VEHICLE HIRE SERVICES
-
-motor vehicle is rented or taken out on lease;
-
-*[S.L. 65.33 4*
+"hire or reward" means payment made for the carriage of passengers other than on own account, that is to say against payment or compensation by the person being transported or by the hirer, whether such payment or compensation is made directly or indirectly;"hirer" means a person who is granted the right to drive a hired motor vehicle for the duration for which a motor vehicle is rented or taken out on lease;
 
 "intermediary booking service platform" means a platform whereby light passenger transport services may be booked by customers from operators of light passenger transport services through an intermediary holding an authorisation for such purpose from the Authority;
 
@@ -158,11 +146,9 @@ motor vehicle is rented or taken out on lease;
 
 "LPTV2 operator licence" means an operator licence that is given to operators that register on their licence five (5) or more light vehicles;
 
-"M1 vehicle" means a motor vehicle used for the carriage VEHICLE HIRE SERVICES [S.L. 65.33 of passengers and comprising no more than eight (8) seats in addition to the driver’s seat;
+"M1 vehicle" means a motor vehicle used for the carriage of passengers and comprising no more than eight (8) seats in addition to the driver’s seat;
 
 "M2 vehicle" means a motor vehicle used for the carriage of passengers, comprising more than eight seats in addition to the driver’s seat, and having a maximum mass not exceeding five tonnes;
-
-*5*
 
 "M3 vehicle" means a motor vehicle used for the carriage of passengers, comprising more than eight (5) seats in addition to the driver’s seat, and having a maximum mass exceeding 5 tonnes;
 
@@ -179,10 +165,6 @@ motor vehicle is rented or taken out on lease;
 "N1 vehicle" means a motor vehicle used for the carriage of goods and having a maximum mass not exceeding 3.5 tonnes;
 
 "N2 vehicle" means a motor vehicle used for the carriage of goods and having a maximum mass exceeding 3.5 tonnes but not exceeding 12 tonnes;
-
-**VEHICLE HIRE SERVICES**
-
-*[S.L. 65.33 6*
 
 "N3 vehicle" means a motor vehicle used for the carriage of goods and having a maximum mass exceeding 12 tonnes;
 
@@ -218,9 +200,7 @@ motor vehicle is rented or taken out on lease;
 
 "special purpose vehicles" shall have the same meaning as assigned to it in Annex II of Directive 2007/46/EC;
 
-*7*
-
-VEHICLE HIRE SERVICES [S.L. 65.33 "stand for hire" means, in the case of a light passenger transport vehicle, to wait in a stationary position in order to entice and accept requests for hire;
+"stand for hire" means, in the case of a light passenger transport vehicle, to wait in a stationary position in order to entice and accept requests for hire;
 
 "surveillance camera" means a camera which captures images and projects those images into an electric signal to be further processed;
 
@@ -258,11 +238,7 @@ the Authority shall promote an open market policy and will not restrict the issu
 
 * Cap. 65. Cap. 499.*
 
-(2) If anything contained in these regulations is inconsistent or in conflict with any regulations issued under the Traffic Regulation Ordinance or the Authority for Transport in Malta Act or any [S.L. 65.33 VEHICLE HIRE SERVICES
-
-subsidiary legislation made thereunder, the present regulations shall prevail, and to the extent of these inconsistencies or conflicts, such other regulations shall be deemed to be null and void.
-
-*8*
+(2) If anything contained in these regulations is inconsistent or in conflict with any regulations issued under the Traffic Regulation Ordinance or the Authority for Transport in Malta Act or any subsidiary legislation made thereunder, the present regulations shall prevail, and to the extent of these inconsistencies or conflicts, such other regulations shall be deemed to be null and void.
 
 ### 4. Scope.
 
@@ -288,11 +264,9 @@ subsidiary legislation made thereunder, the present regulations shall prevail, a
 
 (b) in the case of the LPTV2 operator’s licence, the applicants may be natural persons or undertakings that are considering operating a fleet of not less than five (5) light vehicles, and such applicants shall submit an application that complies with the requirements of regulation 7A and in the case of an application for renewal, they shall satisfy the requirements of sub-regulation (4):
 
-Provided that the applicable licence of an operator shall be issued in the name of a natural person authorised to represent the undertaking insofar as such applicant is an VEHICLE HIRE SERVICES [S.L. 65.33 undertaking and may, together with the payment established in the First Schedule, be transferred with the consent and written authorisation of the Authority, to any other person who satisfies the criteria established by law for the issuance of the applicable licence and who holds a valid authorisation from the relevant undertaking:
+Provided that the applicable licence of an operator shall be issued in the name of a natural person authorised to represent the undertaking insofar as such applicant is an undertaking and may, together with the payment established in the First Schedule, be transferred with the consent and written authorisation of the Authority, to any other person who satisfies the criteria established by law for the issuance of the applicable licence and who holds a valid authorisation from the relevant undertaking:
 
 Provided further that in any case, a natural person or the natural person authorised in whose name the operator’s licence is issued on behalf of the undertaking, as well as the beneficial owner of an undertaking, shall not have any involvement or participating interest in more than one (1) undertaking licensed in accordance with these regulations as an operator of a vehicle passenger transport service, and therefore shall not submit more than one (1) new application for any licence issued under these regulations, or more than one (1) application for renewal in any one (1) year under these regulations;
-
-*9*
 
 (c) in the case of the SOV operator’s licence, the applicants may be either natural persons or undertakings that are considering operating a fleet of motor vehicles for special occasions, and such applicants shall submit an application that complies with the requirements of regulation 7B and in the case of an application for renewal, they shall satisfy the requirements of sub-regulation (4):
 
@@ -300,11 +274,7 @@ Provided that the applicable licence of an operator shall be issued in the name 
 
 Provided further that in any case, a natural person or the natural person authorised in whose name the operator’s licence is issued on behalf of the undertaking, as well as the beneficial owner of an undertaking shall not have any involvement or participating interest in more than one (1) undertaking licensed in accordance with these regulations as an operator of a vehicle passenger transport service, and therefore shall not submit more than one (1) new application for whichever licence issued under these regulations, or more than one (1) relevant application for renewal in any one (1) year under these regulations.
 
-(4) Once issued, an operator’s licence shall remain valid unless it is revoked, suspended or surrendered, provided that the [S.L. 65.33 VEHICLE HIRE SERVICES
-
-operator submits to the Authority, within one (1) month preceding the first year from the issue of the said licence, and every subsequent year, an application for renewal which shall include:
-
-*10*
+(4) Once issued, an operator’s licence shall remain valid unless it is revoked, suspended or surrendered, provided that the operator submits to the Authority, within one (1) month preceding the first year from the issue of the said licence, and every subsequent year, an application for renewal which shall include:
 
 *   Cap. 77.*
 
@@ -326,11 +296,9 @@ operator submits to the Authority, within one (1) month preceding the first year
 
 Provided that when such operator declares that the title under which he makes exclusive use of the described facility in terms of sub-paragraph (i) is not a title of absolute ownership, such operator shall also provide a declaration signed by the owner and, or any co-owner, wherein said person declares that he is authorising such operator to enjoy the exclusive use of the described facility for a period that covers not less than twelve (12) months from the issuance of the licence:
 
-Provided further that the holder of an LPTV1 VEHICLE HIRE SERVICES [S.L. 65.33 operator licence shall be subject for renewal within one (1) month preceding the expiry of two years (2) from the date of issuance of the said licence, and every two (2) years subsequently, provided that the operator remains covered by a lease term or any other valid title in accordance with the first proviso in relation to the garage.
+Provided further that the holder of an LPTV1 operator licence shall be subject for renewal within one (1) month preceding the expiry of two years (2) from the date of issuance of the said licence, and every two (2) years subsequently, provided that the operator remains covered by a lease term or any other valid title in accordance with the first proviso in relation to the garage.
 
 (d) in the case of an application for renewal of an LPTV2 and SOV operator licence, the operator applying for such a renewal shall provide a form signed by him within which he shall provide:
-
-*11*
 
 (i) a declaration that he has at his disposal the exclusive use of the garaging facility indicated on his license and specify under which title he is making exclusive use of the described facility;
 
@@ -346,11 +314,7 @@ Provided further that the holder of an LPTV1 VEHICLE HIRE SERVICES [S.L. 65.33 o
 
 (vii) a report signed by a warranted architect that confirms the validity of the details submitted in terms of sub-paragraphs (i) to (vi) of this paragraph in relation to each garaging facility described in the operator’s license:
 
-Provided that when such operator declares that the title under which he makes exclusive use of the described facility in terms of sub-paragraph (i) is not a title of absolute ownership, such operator shall also provide a declaration signed by the owner and, or any co-owner, wherein said person declares that he is authorising such operator to enjoy the exclusive use of the described facility for a period that covers not less than twelve (12) months from the issuance of the [S.L. 65.33 VEHICLE HIRE SERVICES
-
-license.
-
-*12*
+Provided that when such operator declares that the title under which he makes exclusive use of the described facility in terms of sub-paragraph (i) is not a title of absolute ownership, such operator shall also provide a declaration signed by the owner and, or any co-owner, wherein said person declares that he is authorising such operator to enjoy the exclusive use of the described facility for a period that covers not less than twelve (12) months from the issuance of the license.
 
 (e) a declaration signed by the operator by virtue of which he confirms that he still satisfies the requirement of good conduct and repute and that from the date of issuance of the last certificate referred to in regulation 7(1)(a), he has not been found guilty of any criminal offence in violation of the provisions of regulation 9;
 
@@ -376,9 +340,7 @@ license.
 
 (4) Where a designated person ceases to continuously and effectively manage the light vehicles passenger transport services operation, the operator shall, within twenty-one (21) days from that occurrence, notify the Authority in writing and the Authority shall allow a period not exceeding three (3) months within which the operator shall appoint another designated person who shall comply with the provisions of sub-regulation (1).
 
-*13*
-
-VEHICLE HIRE SERVICES [S.L. 65.33 (5) Where a person, other than the designated person, who is required to fulfil the requirement stipulated in sub-regulation (1), ceases to occupy his post, the operator shall, within twenty-one (21) days from such occurrence, notify the Authority in writing. Any new appointments to such posts shall be likewise notified to the Authority and shall be subject to its approval, which approval shall not be granted unless the persons so appointed fulfil the requirements of these regulations.
+(5) Where a person, other than the designated person, who is required to fulfil the requirement stipulated in sub-regulation (1), ceases to occupy his post, the operator shall, within twenty-one (21) days from such occurrence, notify the Authority in writing. Any new appointments to such posts shall be likewise notified to the Authority and shall be subject to its approval, which approval shall not be granted unless the persons so appointed fulfil the requirements of these regulations.
 
 (6) Any person holds any of the operator’s licences issued by the Authority as well as the designated person shall be obliged to inform the Authority in writing of any conviction against him, the designated person or any person referred to in paragraphs (a), (b) or (c) of sub-regulation (3), as the case may be, of any offence contemplated in paragraph (a) of sub-regulation (1) of regulation 9 within twenty-one (21) days from that conviction or, when an appeal is entered, within twenty (20) days from when such appeal is decided.
 
@@ -396,11 +358,7 @@ Provided that where the applicant and, or the persons mentioned in regulation 6(
 
 Provided further that where the country of origin or the country from where such persons derive does not issue such document, the said document may be replaced by a declaration on oath or by a solemn declaration made by the person concerned in front of a competent judicial or administrative authority or, where appropriate, a notary in that person’s country of origin or the country from where such person derives. Such authority or notary shall issue a certificate attesting the authenticity of the declaration on oath or solemn declaration;
 
-(b) particulars of the number and class or description of all light passenger transport vehicles available for use in the relevant light passenger transport services business or proposed [S.L. 65.33 VEHICLE HIRE SERVICES
-
-business. The said vehicles shall be registered with the Authority;
-
-*14*
+(b) particulars of the number and class or description of all light passenger transport vehicles available for use in the relevant light passenger transport services business or proposed business. The said vehicles shall be registered with the Authority;
 
 (c) a declaration giving the details of its operating centre;
 
@@ -426,9 +384,7 @@ Provided that when an applicant declares that the title under which he makes exc
 
 (4) An application for the grant of an LPTV1 operator licence shall be accompanied by the payment of the fee stipulated in the First Schedule:
 
-*15*
-
-VEHICLE HIRE SERVICES [S.L. 65.33 Provided that where the applicant for an LPTV1 operator licence shall have more than one (1) garage, the application fee shall nevertheless be as stipulated in the First Schedule for all garages.
+Provided that where the applicant for an LPTV1 operator licence shall have more than one (1) garage, the application fee shall nevertheless be as stipulated in the First Schedule for all garages.
 
 (5) In the event that an operator, in addition to an LPTV1 operator licence for a light passenger transport service issued in terms of Part II , also holds an operator’s licence for vehicle hire services in terms of Part V, he shall be liable to the payment of the relative fee for both operator’s licences.
 
@@ -448,11 +404,7 @@ Provided that if the applicant and, or the persons referred to in regulation 6(2
 
 (c) a declaration that the applicant has at their disposal for exclusive use, a garage indicated in their licence, which is of sufficient size to accommodate all vehicles registered under the licence, ensuring that each vehicle may enter and exit the garage without requiring another vehicle to be moved. The applicant shall also commit to the Authority that during the validity period of the licence, all vehicles registered thereunder shall, when not in use for provision of services and except as provided in regulation 17, be parked in the garage indicated by the applicant:
 
-Provided that if the applicant declares that their title to [S.L. 65.33 VEHICLE HIRE SERVICES
-
-the garage described in this sub-paragraph is not one of absolute ownership, the applicant shall also provide a declaration signed by the owner and, or any co-owner stating that they authorise the applicant to enjoy the exclusive use of the garage for a period of at least twelve (12) months from the date of issuance of the licence;
-
-*16*
+Provided that if the applicant declares that their title to the garage described in this sub-paragraph is not one of absolute ownership, the applicant shall also provide a declaration signed by the owner and, or any co-owner stating that they authorise the applicant to enjoy the exclusive use of the garage for a period of at least twelve (12) months from the date of issuance of the licence;
 
 (d) a report signed by a warranted perit regarding each garage listed in the operator’s licence which shall:
 
@@ -474,11 +426,9 @@ Provided that the Authority reserves the right to send its own architect to veri
 
 (e) tax compliance certificate issued by the Commissioner confirming that the applicant has complied with applicable income tax obligations in accordance with the Income Tax Act, value added tax obligations in accordance with the Value Added Tax Act, and obligations under the Final Settlement System (FSS) rules issued in accordance with the Final Settlement (FSS) Rules, in the financial year immediately preceding the date of application or renewal, as may be applicable:
 
-Provided that the Authority may accept a settlement agreement duly approved by the Commissioner in VEHICLE HIRE SERVICES [S.L. 65.33 such cases where the tax compliance certificates cannot be produced by the applicant; and
+Provided that the Authority may accept a settlement agreement duly approved by the Commissioner in such cases where the tax compliance certificates cannot be produced by the applicant; and
 
 (f) a declaration signed by a warranted accountant and, or auditor demonstrating the good financial standing of the applicant.
-
-*17*
 
 (2) The documents prescribed in sub-regulation (1)(a) shall not be accepted if submitted more than three (3) months after the date of issue.
 
@@ -502,10 +452,6 @@ Provided that when the applicant for an LPTV2 operator licence has more than one
 
 Provided that if the applicant and, or the persons mentioned in regulation 6(2) and, or (3) are not normally resident in Malta, it shall be sufficient for them to provide an apostilled extract from their judicial record or an equivalent apostilled document issued by the competent judicial or administrative authority of their country of origin or the country they are coming from;
 
-**VEHICLE HIRE SERVICES**
-
-*[S.L. 65.33 18*
-
 (b) details of the number and class or description of each motor vehicle for special occasions that is intended to be used in the business of passenger transport for special occasions. Such vehicles shall be registered with the Authority;
 
 (c) a declaration that the applicant has at his exclusive disposal a garage indicated on his licence, which is of sufficient size to accommodate the parking of all vehicles registered under his licence, in a manner that each vehicle may access and exit the garage without the need to move any other vehicle. The applicant shall also undertake to the Authority that, for the duration of the validity period of his licence, all vehicles registered under his licence shall, when not in use for the provision services, and except as provided in regulation 17, be parked in the applicant’s listed garage:
@@ -526,9 +472,7 @@ Provided that if the applicant declares that he does not hold absolute ownership
 
 (vi) provide the relevant permit approving the use of the garage for parking the vehicles as a public service garage, along with details of any such permit:
 
-*19*
-
-VEHICLE HIRE SERVICES [S.L. 65.33 Provided that if the applicant declares that he does not hold absolute ownership of the garage described in sub-paragraphs (i) and (ii), the applicant shall also provide a declaration signed by the owner and, or any co-owner, stating that the applicant is authorised to enjoy the exclusive use of the garage for a period of not less than twelve (12) months from the date of the issuance of the licence:
+Provided that if the applicant declares that he does not hold absolute ownership of the garage described in sub-paragraphs (i) and (ii), the applicant shall also provide a declaration signed by the owner and, or any co-owner, stating that the applicant is authorised to enjoy the exclusive use of the garage for a period of not less than twelve (12) months from the date of the issuance of the licence:
 
 Provided further that an applicant for an SOV operator licence who applies to register, and or renew four (4) special occasion vehicles or less under his license shall not be required to submit the documentation described in sub-paragraph (vi):
 
@@ -544,11 +488,7 @@ Provided further that the Authority reserves the right to send its perit to veri
 
 Provided that when the applicant has more than one (1) garage, the application fee shall nevertheless be as stipulated in the First Schedule for all garages.
 
-(5) The issuance of an SOV operator licence by the [S.L. 65.33 VEHICLE HIRE SERVICES
-
-Authority automatically excludes such operator from registering his motor vehicle for special occasions under, or in any way making available his services on, any intermediary booking platform authorised to offer globalised services online for the provision of light passenger transport services.
-
-*20*
+(5) The issuance of an SOV operator licence by the Authority automatically excludes such operator from registering his motor vehicle for special occasions under, or in any way making available his services on, any intermediary booking platform authorised to offer globalised services online for the provision of light passenger transport services.
 
 ### 8. Decision on the granting of a licence. 
 
@@ -586,13 +526,11 @@ Authority automatically excludes such operator from registering his motor vehicl
 
 * Cap. 101.*
 
-(iv) articles 4, 5, 6(a), 7, 8(b), 8(c), 8(e), 11, 13(2), VEHICLE HIRE SERVICES [S.L. 65.33 14(3), 15, 15A, 16, 17, 18, 22(1)(b), (c), (d), (e), (f), 22(1C), 22(1D)(a), 22(1E) and 22(3BA)(5) of the Dangerous Drugs Ordinance;
+(iv) articles 4, 5, 6(a), 7, 8(b), 8(c), 8(e), 11, 13(2), 14(3), 15, 15A, 16, 17, 18, 22(1)(b), (c), (d), (e), (f), 22(1C), 22(1D)(a), 22(1E) and 22(3BA)(5) of the Dangerous Drugs Ordinance;
 
 *Cap. 220.*
 
 (v) articles 37, 38, 44, 50 and 61 of the Malta Armed Forces Act;
-
-*21*
 
 (b) for such period during which he is serving a sentence of imprisonment of at least one (1) month;
 
@@ -614,11 +552,7 @@ Provided that where the applicant was less than eighteen (18) years of age at th
 
 (b) a sentence for the commission of an offence for which the offender has been pardoned by the President of Malta in terms of article 93(1) of the Constitution of Malta:
 
-Provided that this paragraph shall only apply from the date on which the President of Malta has granted such [S.L. 65.33 VEHICLE HIRE SERVICES
-
-pardon; or
-
-*22*
+Provided that this paragraph shall only apply from the date on which the President of Malta has granted such pardon; or
 
 (c) a sentence which is, at the moment of application, under appeal; or
 
@@ -640,11 +574,9 @@ Provided further that when an operator reduces the number of vehicles on their l
 
 ### 12. Checks on compliance.
 
-(1) The Authority shall have the power to carry out random checks, whenever it deems necessary, in order to verify that an operator is carrying out his operations in accordance with the provisions of these regulations. For this purpose, the Authority may require the operator or any official or employee of the same to attend before it, or before a person appointed by it, at such time and place as it may specify, to answer questions and provide information and documentation with respect to the light passenger transport services of VEHICLE HIRE SERVICES [S.L. 65.33 the operator. The Authority may take and keep copies of any documents furnished or provided under this regulation. A statement made and documentation provided in pursuance of this regulation may be used as evidence against the operator as well as against any person to whom they may relate. Such persons shall comply forthwith, and in no case later than twenty-four (24) hours, with any request or order made by the Authority in terms of this regulation.
+(1) The Authority shall have the power to carry out random checks, whenever it deems necessary, in order to verify that an operator is carrying out his operations in accordance with the provisions of these regulations. For this purpose, the Authority may require the operator or any official or employee of the same to attend before it, or before a person appointed by it, at such time and place as it may specify, to answer questions and provide information and documentation with respect to the light passenger transport services of the operator. The Authority may take and keep copies of any documents furnished or provided under this regulation. A statement made and documentation provided in pursuance of this regulation may be used as evidence against the operator as well as against any person to whom they may relate. Such persons shall comply forthwith, and in no case later than twenty-four (24) hours, with any request or order made by the Authority in terms of this regulation.
 
 (2) An operator’s licence may be suspended or withdrawn on any of the following grounds:
-
-*23*
 
 (a) where the holder has supplied incorrect information to the Authority in relation to the issuance of a licence or any other matter connected thereto; or
 
@@ -662,11 +594,7 @@ Provided that the provisions of this regulation shall not apply in cases where t
 
 (5) An operator’s licence shall be revoked where the holder no longer satisfies the conditions laid down in regulation 6(1):
 
-Provided that where the operator is not considered to be of good repute and conduct solely because any of the persons listed in regulations 6(3) and, or 6(4) do not comply with the provisions of [S.L. 65.33 VEHICLE HIRE SERVICES
-
-regulation 6(1), the operator’s licence shall be suspended until the operator substitutes such person with another person who fulfils the requirements of these regulations:
-
-*24*
+Provided that where the operator is not considered to be of good repute and conduct solely because any of the persons listed in regulations 6(3) and, or 6(4) do not comply with the provisions of regulation 6(1), the operator’s licence shall be suspended until the operator substitutes such person with another person who fulfils the requirements of these regulations:
 
 Provided further that, where the operator fails to fulfil the above mentioned requirement within a period of three (3) months from the date of the sentence or sentences in terms of which the person is not considered to be compliant with the requirements of regulation 6(1), the licence shall be withdrawn ipso jure.
 
@@ -682,11 +610,9 @@ Provided further that a decision of the Authority to revoke an operator’s lice
 
 (1) Any authorised inspecting officer of the Authority, upon the direction and under the authorisation of the Authority, may enter the operating centre of the operator for the purpose of obtaining information or documents which indicate whether the operator is complying with his obligations in terms of these regulations.
 
-(2) No authorised inspecting officer of the Authority may enter an operating centre after seven o’clock in the evening and before seven o’clock in the morning, unless there is reason to believe that delay could cause the loss of necessary information and the search is VEHICLE HIRE SERVICES [S.L. 65.33 expressly authorised by the Authority to take place between the said times.
+(2) No authorised inspecting officer of the Authority may enter an operating centre after seven o’clock in the evening and before seven o’clock in the morning, unless there is reason to believe that delay could cause the loss of necessary information and the search is expressly authorised by the Authority to take place between the said times.
 
 (3) For the purposes of any action taken under this regulation, the Authority may request the assistance of the Commissioner of Police, who may for such purpose exercise such powers as are vested in him for the prevention of offences and the enforcement of law and order.
-
-*25*
 
 (4) The Authority may take any documents found in the operating centre or copies thereof. Any documentation obtained by the Authority in pursuance of this regulation may be used in evidence against the operator as well as against any person to whom they may relate.
 
@@ -712,11 +638,7 @@ LIGHT PASSENGER TRANSPORT SERVICES: OPERATORS’ OBLIGATIONS AND REQUIREMENTS
 
 (1) The fees levied for the provision of light passenger transport services are to be publicised on the operator’s website and all other marketing media by virtue of which an operator chooses to advertise such services.
 
-(2) Furthermore, when such services are booked by means of telephone, email or online, the prospective hirer shall have the right to request the precise amount of the fee which the operator shall levy for the requested service and the operator shall not have the right to charge a fee which is higher than the declared fee unless the hirer increases [S.L. 65.33 VEHICLE HIRE SERVICES
-
-the length of the booked trip.
-
-*26*
+(2) Furthermore, when such services are booked by means of telephone, email or online, the prospective hirer shall have the right to request the precise amount of the fee which the operator shall levy for the requested service and the operator shall not have the right to charge a fee which is higher than the declared fee unless the hirer increases the length of the booked trip.
 
 ### 17. Garaging and parking.
 
@@ -746,9 +668,7 @@ Provided further that the motor vehicle for special occasions that is left unatt
 
 (d) at a straight line distance of not less than fifteen (15) metres from any bus stop:
 
-*27*
-
-VEHICLE HIRE SERVICES [S.L. 65.33 Provided that this sub-regulation shall not apply to that time during which the driver of the vehicle is boarding passengers onto the vehicle or alighting passengers from the vehicle:
+Provided that this sub-regulation shall not apply to that time during which the driver of the vehicle is boarding passengers onto the vehicle or alighting passengers from the vehicle:
 
 Provided further that the time requirement stipulated in this sub-regulation shall not be applicable as long as the driver is and remains in the vehicle. However, the requirement of distance shall continue to apply:
 
@@ -764,11 +684,7 @@ Provided further that with regard only to operators of an SOV operator licence, 
 
 (6) Any application in accordance with sub-regulations (4) and (5) shall be accompanied by all the information and documentation required in accordance with the provisions of regulation 7, 7A or 7B, as the case may be, together with the payment of the necessary fees.
 
-(7) Any breach of this regulation shall be subject to the [S.L. 65.33 VEHICLE HIRE SERVICES
-
-administrative penalties established in the Fourth Schedule and the contraventions established in the Fifth Schedule.
-
-*28*
+(7) Any breach of this regulation shall be subject to the administrative penalties established in the Fourth Schedule and the contraventions established in the Fifth Schedule.
 
 ### 18. Logging.
 
@@ -816,11 +732,9 @@ A driver shall always act and behave in a manner which is respectful towards pas
 
 It is forbidden to replenish the fuel supply of any light passenger transport vehicle when passengers are on board.
 
-*29*
+### 27. Smoking.
 
-VEHICLE HIRE SERVICES [S.L. 65.33 27. (1) No passenger and, or driver may smoke while a light passenger transport vehicle is being used on hire.
-
-*Smoking.*
+(1) No passenger and, or driver may smoke while a light passenger transport vehicle is being used on hire.
 
 (2) Every light passenger transport vehicle shall have affixed, in a place which is clearly visible to the passengers, a notice stipulating that smoking is not allowed within the said vehicle.
 
@@ -854,11 +768,7 @@ No driver shall drive any light passenger transport vehicle while wearing, or us
 
 (1) Every light passenger transport vehicle shall be kept clean at all times by the operator.
 
-(2) Every operator shall ensure that light passenger transport vehicles registered under his operator’s licence, including the equipment fitted thereon, are maintained in good order and in a good [S.L. 65.33 VEHICLE HIRE SERVICES
-
-state of repair at all times.
-
-*30*
+(2) Every operator shall ensure that light passenger transport vehicles registered under his operator’s licence, including the equipment fitted thereon, are maintained in good order and in a good state of repair at all times.
 
 ### 34. Inflammable liquids.
 
@@ -888,11 +798,9 @@ An operator shall ensure that every light passenger transport vehicle registered
 
 (1) Any person offering services for the transport of wheelchair-bound persons with the use of light passenger transport vehicles shall be duly registered and authorised for such purpose by the Authority.
 
-(2) The Authority shall only register and license as VEHICLE HIRE SERVICES [S.L. 65.33 wheelchair accessible light passenger transport vehicles such vehicles which allow easy and unaided access to persons who make use of wheelchairs.
+(2) The Authority shall only register and license as wheelchair accessible light passenger transport vehicles such vehicles which allow easy and unaided access to persons who make use of wheelchairs.
 
 (3) No motor vehicle other than those duly licensed as a wheelchair accessible light passenger transport vehicle shall carry the sign prescribed in the Second Schedule or any similar sign which may mislead the public to believe that the particular motor vehicle is a wheelchair accessible light passenger transport vehicle.
-
-*31*
 
 (4) Every LPTV2 licenced operator that has over fifty (50) light passenger transport vehicles registered under the respective operations licence shall have at minimum one (1) light passenger transport vehicle that is wheelchair accessible in their fleet for each fifty (50) light vehicles for the carriage of passengers registered in his fleet.
 
@@ -910,11 +818,7 @@ Provided that one continuous paid driving period shall not exceed twelve (12) co
 
 (3) Every driver has the obligation to take a rest period when the period of driving with continuous pay is longer than six (6) hours. The rest period of the driver shall be for a period of not less than thirty (30) minutes for every six (6) consecutive hours of driving for hire or reward and the driver shall spend that period outside of the vehicle, provided that the vehicle can be parked legally and safely.
 
-(4) Without prejudice to the provisions under sub-regulations (2) and (3), every driver must observe, in addition to the daily rest period mentioned in sub-regulation (2), a minimum, [S.L. 65.33 VEHICLE HIRE SERVICES
-
-uninterrupted period every week of twenty-four (24) hours every seven (7) days.
-
-*32*
+(4) Without prejudice to the provisions under sub-regulations (2) and (3), every driver must observe, in addition to the daily rest period mentioned in sub-regulation (2), a minimum, uninterrupted period every week of twenty-four (24) hours every seven (7) days.
 
 (5) The Authority shall have the right to request the holder of an authorisation to act as an intermediary booking platform to suspend or interrupt a driver’s access to the relevant mobile application, if the Authority finds that such a driver is not complying with any of the minimum rest obligations imposed in accordance with these regulations.
 
@@ -946,11 +850,9 @@ No person shall act as a driver of light passenger transport vehicles unless he 
 
 (4) A driver shall be obliged to satisfy the conditions of this regulation at all times during the validity of the permit.
 
-(5) Any driver holding a driver’s permit issued by the Authority shall be obliged to inform the Authority in writing of any conviction against him of any offence referred to in regulation 9(1)(a) VEHICLE HIRE SERVICES [S.L. 65.33 within twenty-one (21) days from such conviction or, when an appeal is entered, within twenty (20) days from when such appeal is decided.
+(5) Any driver holding a driver’s permit issued by the Authority shall be obliged to inform the Authority in writing of any conviction against him of any offence referred to in regulation 9(1)(a) within twenty-one (21) days from such conviction or, when an appeal is entered, within twenty (20) days from when such appeal is decided.
 
 (6) Any driver who contravenes sub-regulation (3) shall be guilty of an offence.
-
-*33*
 
 ### 40. Skills to act as driver.
 
@@ -982,11 +884,7 @@ An application for the grant of a driver’s permit shall be submitted to the Au
 
 (a) a certificate issued by the Police detailing any criminal offences and, or contraventions mentioned in regulation 9 for which the applicant may have been sentenced together with the punishment thereof:
 
-Provided that where the applicant is not normally resident in Malta, an extract from a judicial VEHICLE HIRE SERVICES
-
-record or, failing that, an equivalent document issued by a competent judicial or administrative authority of the country of origin or the country from which such persons derive shall suffice:
-
-*[S.L. 65.33 34*
+Provided that where the applicant is not normally resident in Malta, an extract from a judicial record or, failing that, an equivalent document issued by a competent judicial or administrative authority of the country of origin or the country from which such persons derive shall suffice:
 
 Provided further that where the country of origin or the country from where such persons derive does not issue such document, the said document may be replaced by a declaration on oath or by a solemn declaration made by the person concerned in front of a competent judicial or administrative authority or, where appropriate, a notary in that person’s country of origin or the country from where such person derives. Such authority or notary shall issue a certificate attesting the authenticity of the declaration on oath or solemn declaration;
 
@@ -1004,11 +902,9 @@ Provided further that where the country of origin or the country from where such
 
 (g) a declaration regarding the employment conditions in which the driver indicates whether he works full-time or part-time, the normal working hours excluding over-time, and the conditions for over-time, stipulated in the employment contract:
 
-*35*
-
-VEHICLE HIRE SERVICES [S.L. 65.33 Provided that in the case that a driver is a citizen of a third country, and indicates in the declaration mentioned in this paragraph that he works on a part-time basis, he shall also provide to the Authority an attested true copy of his applicable employment licence issued in accordance with the provisions of regulation 5 of the Immigration Regulations by the Jobsplus Corporation established by virtue of article 5 of the Employment and Training Services Act.
-
 *  S.L. 217.04.     Cap. 594.*
+
+Provided that in the case that a driver is a citizen of a third country, and indicates in the declaration mentioned in this paragraph that he works on a part-time basis, he shall also provide to the Authority an attested true copy of his applicable employment licence issued in accordance with the provisions of regulation 5 of the Immigration Regulations by the Jobsplus Corporation established by virtue of article 5 of the Employment and Training Services Act.
 
 ### 43. Processing of application for a driver’s permit.
 
@@ -1034,11 +930,7 @@ Provided that within three months preceding the date of expiry of the said drive
 
 (a) a police conduct certificate;
 
-(b) a signed declaration by virtue of which he confirms [S.L. 65.33 VEHICLE HIRE SERVICES
-
-that he still satisfies the condition of good conduct and repute and that since the issuance of the last certificate referred to in regulation 42(a) he has not been found guilty of any criminal offence in violation of the provisions of regulation 9 and 41; and
-
-*36*
+(b) a signed declaration by virtue of which he confirms that he still satisfies the condition of good conduct and repute and that since the issuance of the last certificate referred to in regulation 42(a) he has not been found guilty of any criminal offence in violation of the provisions of regulation 9 and 41; and
 
 (c) a valid driving licence issued by the Authority or by the competent authority of any other Member State of the European Union.
 
@@ -1058,9 +950,7 @@ Provided that the holder of the driver’s tag shall be bound to make payment to
 
 (2) A driver’s permit may be suspended or revoked on the following grounds:
 
-*37*
-
-VEHICLE HIRE SERVICES [S.L. 65.33 (a) where the holder has supplied incorrect information to the Authority; or
+(a) where the holder has supplied incorrect information to the Authority; or
 
 (b) where the holder has breached any of the conditions of the driver’s permit; or
 
@@ -1078,11 +968,7 @@ Provided further that the suspension of the licence shall have immediate effect 
 
 Provided further that when a driver’s permit is suspended for any reason other than because he no longer satisfies the requisite of good conduct and repute as established in these regulations, the person in question shall have the right to apply for the suspension to be removed following the lapse of fifteen (15) days from the date when the reason for the suspension has ceased to exist:
 
-Provided further that, a decision of the Authority to [S.L. 65.33 VEHICLE HIRE SERVICES
-
-revoke a driver’s permit shall not become operative until the expiration of the period within which an appeal may be made under this regulation and, if an appeal is made within such period, the decision shall become operative on the date of the decision of the Tribunal dismissing the appeal or the date on which the appeal is abandoned but until such time the driver permit shall remain suspended.
-
-*38*
+Provided further that, a decision of the Authority to revoke a driver’s permit shall not become operative until the expiration of the period within which an appeal may be made under this regulation and, if an appeal is made within such period, the decision shall become operative on the date of the decision of the Tribunal dismissing the appeal or the date on which the appeal is abandoned but until such time the driver permit shall remain suspended.
 
 *   Cap. 65.*
 
@@ -1108,9 +994,7 @@ Provided that no such authorisation shall be given unless the applicant intends 
 
 (4) An operator may have a number of garages and, or off-street parking areas in which to keep the vehicles used for the purposes of the vehicle hire services, and all garages and, or off-street parking areas are to be registered on the operator’s licence which will be issued by the Authority in favour of the operator;
 
-*39*
-
-VEHICLE HIRE SERVICES [S.L. 65.33 (5) An operator’s licence shall be issued in the name of a natural person authorised to represent the undertaking and may be transferred at a fee stipulated in Part V of the First Schedule, with the approval and written authorisation of the Authority, to any other party that satisfies the criteria established by law for the issuance of such a licence.
+(5) An operator’s licence shall be issued in the name of a natural person authorised to represent the undertaking and may be transferred at a fee stipulated in Part V of the First Schedule, with the approval and written authorisation of the Authority, to any other party that satisfies the criteria established by law for the issuance of such a licence.
 
 (6) Once issued, an operator’s licence shall remain valid unless and until it is revoked, suspended or surrendered, provided that the operator submits, within one (1) month preceding the first anniversary from the issue of the said licence, and every year thereafter, and the applicable fee stipulated in the First Schedule.
 
@@ -1132,11 +1016,7 @@ VEHICLE HIRE SERVICES [S.L. 65.33 (5) An operator’s licence shall be issued in
 
 (3) An application for the grant of a vehicle hire services operator’s licence shall be accompanied by the fee stipulated in the First Schedule.
 
-(4) Where an operator already established in Malta applies for any additional authorisation, or where an operator established in [S.L. 65.33 VEHICLE HIRE SERVICES
-
-another Member State applies for authorisation from the Authority, the operator shall not be required to undergo requirements and controls which are equivalent or essentially comparable as regards their purpose to which the applicant is already subject in Malta or another Member State.
-
-*40*
+(4) Where an operator already established in Malta applies for any additional authorisation, or where an operator established in another Member State applies for authorisation from the Authority, the operator shall not be required to undergo requirements and controls which are equivalent or essentially comparable as regards their purpose to which the applicant is already subject in Malta or another Member State.
 
 (5) Where an applicant is not already established in Malta or in another Member State and proposes to act as an operator in more than one place in Malta in the same application process (Dual Application) or following the first application (Subsequent Application), the applicant shall:
 
@@ -1156,11 +1036,9 @@ Provided that the term "applicant" shall not include those applicants which have
 
 (3) The decision of the Authority shall be sent by registered post to the applicant at the address specified in the application.
 
-(4) Where the Authority intends to refuse an application, it shall give the applicant concerned notice in writing setting out the reasons for its intention to do so. Every notice of refusal shall state that the applicant has a right to make representations in writing, within ten VEHICLE HIRE SERVICES [S.L. 65.33 (10) days, to the Authority giving reasons why the application should not be refused, and the Authority shall consider any representations so made before arriving at a final decision. The Authority shall notify in writing its final decision to the applicant concerned.
+(4) Where the Authority intends to refuse an application, it shall give the applicant concerned notice in writing setting out the reasons for its intention to do so. Every notice of refusal shall state that the applicant has a right to make representations in writing, within ten (10) days, to the Authority giving reasons why the application should not be refused, and the Authority shall consider any representations so made before arriving at a final decision. The Authority shall notify in writing its final decision to the applicant concerned.
 
 (5) When an application is refused by the Authority, the applicant may appeal to the Tribunal against such decision within a period of twenty (20) days from its notification.
-
-*41*
 
 ### 49. Applicability of provisions.
 
@@ -1194,10 +1072,6 @@ An operator shall ensure that all vehicles registered under his licence and used
 
 All vehicles registered under the operator’s vehicle hire services licence are to be kept clean, well maintained and in good working order at all times.
 
-*42*
-
-[S.L. 65.33 VEHICLE HIRE SERVICES
-
 ### 55. Replacement vehicle.
 
 Where a vehicle is rented or leased to a hirer, the operator shall be obliged to provide the hirer with a replacement vehicle from the same category or higher in the event of a break-down, traffic accident or theft so that the hirer may continue to make use of a hired vehicle for the entire duration of the contracted term.
@@ -1220,11 +1094,9 @@ Where a vehicle is rented or leased to a hirer, the operator shall be obliged to
 
 (b) the name of the operator or operators, if applicable, in whose operations the driver is engaged.
 
-(5) Part IV of the Register shall be divided into Section 1 and Section 2. In Section 1 thereof there shall be listed the vehicles registered under the licences of light passenger transport services operators. In Section 2 thereof there shall be listed the vehicles registered under the licences of vehicle hire services operators. Wheelchair accessible vehicles are to be specifically referred to in Part VEHICLE HIRE SERVICES [S.L. 65.33 IV of the Register.
+(5) Part IV of the Register shall be divided into Section 1 and Section 2. In Section 1 thereof there shall be listed the vehicles registered under the licences of light passenger transport services operators. In Section 2 thereof there shall be listed the vehicles registered under the licences of vehicle hire services operators. Wheelchair accessible vehicles are to be specifically referred to in Part IV of the Register.
 
 (6) In Part V of the Register there shall be registered the name, address and any other relevant details of any person or undertaking which shall be authorised by the Authority to act as an intermediary booking service platform, including the corresponding details of light passenger transport operators making use of such platform.
-
-*43*
 
 (7) In Part VI of the Register, the name, address, and other relevant details of each individual or business licensed by the Authority to provide passenger transport services by means of motor vehicles for special occasions must be registered.
 
@@ -1243,10 +1115,6 @@ Where a vehicle is rented or leased to a hirer, the operator shall be obliged to
 *              Cap. 452.*
 
 (5) Without prejudice to the provisions of Part X, if the Authority has a reasonable suspicion that an operator is employing a driver in their fleet who is not employed or engaged in accordance with the law, the Authority shall have the right to suspend the operator’s license and order any holder of an authorisation to act as intermediary booking service platform to simultaneously suspend their registration on such platform, until the Authority concludes its investigation with the assistance of the Director General responsible for Employment and Industrial Relations, as the competent officer granted the powers to regulate issues concerning employment and industrial relations issues in Malta in accordance with the provisions of the Employment and Industrial Relations Act.
-
-*44*
-
-[S.L. 65.33 VEHICLE HIRE SERVICES
 
 ## PART VIII — LICENSED VEHICLES
 
@@ -1268,11 +1136,11 @@ Provided further that a vehicle certified as a vintage vehicle that is not regis
 
 (5) A motor vehicle for special occasions registered under Part VI of the Register shall only be used in the operations of the specific operator under whose licence it is registered.
 
-*45*
+### 59. Specifications of vehicles to be registered under Section 1 of Part IV of the Register. 
 
-VEHICLE HIRE SERVICES [S.L. 65.33 59. (1) No vehicle may be registered under Section 1 of Part IV of the Register unless it satisfies the following conditions:
+*Amended by: L.N. 336 of 2022; L.N. 111 of 2023; L.N. 171 of 2026.*
 
-*Specifications of vehicles to be registered under Section 1 of Part IV of the Register.  Amended by: L.N. 336 of 2022; L.N. 111 of 2023; L.N. 171 of 2026.*
+(1) No vehicle may be registered under Section 1 of Part IV of the Register unless it satisfies the following conditions:
 
 * S.L. 368. 02.*
 
@@ -1300,11 +1168,7 @@ VEHICLE HIRE SERVICES [S.L. 65.33 59. (1) No vehicle may be registered under Sec
 
 * S.L. 65. 11.*
 
-Provided that in the case of those vehicles that are not certified vintage vehicles and are more than twenty-two (22) years old, from the date of the first registration, the Authority shall have the right to register them under the operator’s SOV licence as motor vehicles for special occasions, provided that they meet all the criteria that the Authority may establish from time to time to determine whether a motor vehicle is prestigious enough to be included in the [S.L. 65.33 VEHICLE HIRE SERVICES
-
-category of special occasion vehicles:
-
-*46*
+Provided that in the case of those vehicles that are not certified vintage vehicles and are more than twenty-two (22) years old, from the date of the first registration, the Authority shall have the right to register them under the operator’s SOV licence as motor vehicles for special occasions, provided that they meet all the criteria that the Authority may establish from time to time to determine whether a motor vehicle is prestigious enough to be included in the category of special occasion vehicles:
 
 Provided further that such motor vehicles for special occasion that are more than twenty-two (22) years old, from the date of the first registration but are not certified vintage vehicles and have been licensed by the Authority in accordance with the previous proviso shall only be used for the purposes permitted by the licence for motor vehicles for special occasions.
 
@@ -1320,9 +1184,11 @@ Provided that, with regard to such motor vehicles that are on the date of coming
 
 Provided further that the owners of light passenger transport vehicles which are already in use and licensed and which are twenty-two (22) years or older at the time of coming into force of these regulations shall be allowed to replace such vehicles with other vehicles which are not new but which are not older than two (2) years to be reckoned from the date of first registration, and this by not later than forty eight (48) months from the date of coming into force of these regulations.
 
-*47 60. Specifications of vehicles to be registered under conditions: Section 2 of Part IV of the Register.  Amended by: L.N. 336 of 2022; L.N. 182 of 2025.*
+*\60.*
 
-VEHICLE HIRE SERVICES [S.L. 65.33 (1) No motor vehicle for hire may be registered under Section 2 of Part IV of the Register unless it satisfies the following
+*Specifications of vehicles to be registered under conditions: Section 2 of Part IV of the Register.  Amended by: L.N. 336 of 2022; L.N. 182 of 2025.*
+
+(1) No motor vehicle for hire may be registered under Section 2 of Part IV of the Register unless it satisfies the following
 
 * S. L. 368. 02.*
 
@@ -1344,11 +1210,7 @@ Provided that, with regard to motor vehicles for hire which are already in use a
 
 Provided further that the owners of motor vehicles for hire which are already in use and licensed for the carriage of passengers and which are fifteen (15) years or older at the time of coming into force of these regulations shall be allowed to replace such vehicles with other vehicles which are not new but which are not older than two (2) years to be reckoned from the date of first registration, and this by not later than forty eight (48) months from the date of coming into force of these regulations:
 
-Provided further that the owners of motor vehicles for hire which are already in use and licensed [S.L. 65.33 VEHICLE HIRE SERVICES
-
-for the carriage of passengers and which are fifteen (15) years or older from the date of registration at the time of coming into force of these regulations shall be permitted to continue using such vehicles for the provision of vehicle hire services up to the 31st December, 2025;
-
-*48*
+Provided further that the owners of motor vehicles for hire which are already in use and licensed for the carriage of passengers and which are fifteen (15) years or older from the date of registration at the time of coming into force of these regulations shall be permitted to continue using such vehicles for the provision of vehicle hire services up to the 31st December, 2025;
 
 (iii) N1 motor vehicles for hire registered for the first time on the operator’s authorisation shall not be more than four (4) years of age to be reckoned from the date of first registration and their licence shall not be renewed beyond fifteen (15) years of age to be reckoned from the date of first registration of the vehicle;
 
@@ -1362,11 +1224,9 @@ Provided that, with regard to motor vehicles referred to in sub-paragraphs (iii)
 
 (2) All vehicles registered under Section 2 of Part IV of the Register shall bear a registration mark which shall include two letters followed by the letter ‘K’ and three numbers, or a letter followed by the letters ‘QZ’ and three numbers:
 
-Provided that owners of vehicles bearing a registration mark which includes two letters followed by the letter ‘K’ shall be allowed to change the registration marks thereof to one which includes a letter followed by the letters ‘QZ’ on condition that such vehicles satisfy the requirements stipulated in sub-regulation (1), with the exception of the requirement stipulated in paragraph (b)(ii) thereof. VEHICLE HIRE SERVICES [S.L. 65.33 61. (1) All motor vehicles registered on the operator’s licence for light passenger transport services and vehicle hire services shall:
+Provided that owners of vehicles bearing a registration mark which includes two letters followed by the letter ‘K’ shall be allowed to change the registration marks thereof to one which includes a letter followed by the letters ‘QZ’ on condition that such vehicles satisfy the requirements stipulated in sub-regulation (1), with the exception of the requirement stipulated in paragraph (b)(ii) thereof. 61. (1) All motor vehicles registered on the operator’s licence for light passenger transport services and vehicle hire services shall:
 
 (a) be duly covered by a third party liability insurance policy;
-
-*49*
 
 *Requirements applicable to all vehicles Amended by: L.N. 246 of 2023.*
 
@@ -1394,10 +1254,6 @@ Provided that owners of vehicles bearing a registration mark which includes two 
 
 (3) Without prejudice to the above provisions, nothing shall be permitted to obstruct or otherwise interfere with the view of the driver or substantially hinder the view of passengers.
 
-*50*
-
-[S.L. 65.33 VEHICLE HIRE SERVICES
-
 (4) The Authority may, in its complete discretion, order the removal of any advertisement.
 
 ## PART IX — BOOKING PLATFORMS
@@ -1424,11 +1280,9 @@ Any intermediary transport service provider which offers globalised internet-bas
 
 (4) An application for the grant of an authorisation in terms of sub-regulation (1) shall be accompanied by payment of the fee prescribed in the First Schedule.
 
-(5) The authorisation shall be issued in the name of the undertaking having filed the application and renewed every two (2) years, subject to the payment of the annual authorisation fee prescribed VEHICLE HIRE SERVICES [S.L. 65.33 in the First Schedule, unless and until it is revoked, suspended or surrendered:
+(5) The authorisation shall be issued in the name of the undertaking having filed the application and renewed every two (2) years, subject to the payment of the annual authorisation fee prescribed in the First Schedule, unless and until it is revoked, suspended or surrendered:
 
 "Provided that notwithstanding the renewal period prescribed in terms of sub-regulation (5), the payment of the authorisation fee prescribed in the First Schedule shall be construed for all intents and purposes as an annual fee independent from the renewal of the authorisation grant itself.
-
-*51*
 
 (6) The authorisation may be subject to any such conditions which the Authority, in its absolute discretion, may deem to be fit and proper to impose and the undertaking shall be obliged to abide by such conditions:
 
@@ -1449,10 +1303,6 @@ Provided further that where an intermediary service provider provides a booking 
 (2) The decision of the Authority shall be sent by registered post to the applicant at the address specified in the application.
 
 (3) Where the Authority intends to refuse an application, it shall give the applicant concerned notice in writing setting out the reasons for its intention to do so. Every notice of refusal shall state that the applicant has a right to make representations in writing, within ten (10) days, to the Authority giving reasons why the application should not be refused, and the Authority shall consider any representations so made before arriving at a final decision. The Authority shall notify in writing its final decision to the applicant concerned.
-
-*52*
-
-[S.L. 65.33 VEHICLE HIRE SERVICES
 
 (4) When an application is refused by the Authority, the applicant may appeal to the Tribunal against such decision within a period of twenty (20) days from its notification.
 
@@ -1480,13 +1330,11 @@ Provided further that where an intermediary service provider provides a booking 
 
 (i) the details listed in paragraphs (a) to (f) relating to each vehicle and driver registered under the operator’s licence, as applicable;
 
-(ii) the details of the Permission to Employ (PE) number and the employment history document VEHICLE HIRE SERVICES [S.L. 65.33 issued by Jobsplus for each driver employed by the operator;
+(ii) the details of the Permission to Employ (PE) number and the employment history document issued by Jobsplus for each driver employed by the operator;
 
 *      Cap. 77.*
 
 (iii) an electronic copy of the conduct certificate issued by the Director, Department of Justice within the Ministry responsible for justice in terms of article 4 of the Conduct Certificate Ordinance containing a declaration that the employee or the operator, as applicable, is a person of good conduct or a declaration containing an indication of the convictions of the said person by any court in Malta or abroad and they are recordable in terms of the Conduct Certificate Ordinance for each employee employed with said operator and the relative conduct certificate pertaining to the operator himself;
-
-*53*
 
 *     S.L. 217.17.    S.L. 217.04.    Cap. 594.*
 
@@ -1506,10 +1354,6 @@ Provided further that where an intermediary service provider provides a booking 
 
 (e) the first part of the registration certificate of the official vehicle’s logbook.
 
-*54*
-
-[S.L. 65.33 VEHICLE HIRE SERVICES
-
 (4) A holder of an authorisation to provide an intermediary platform service for booking shall keep the details collected in the due diligence process up-to-date by requesting operators to confirm their validity from time to time, but such confirmation shall be carried out at least once per calendar year. These details shall be made accessible for periodic audit by the Authority, which shall have the right to inspect and review such details upon written request made at least seven (7) days prior to the date of access.
 
 *    S.L. 499.59.*
@@ -1526,11 +1370,9 @@ Provided that the intermediary platform service provider shall have the right to
 
 *        S.L. 595.07.   Cap. 594.*
 
-Provided further that the platform service provider acknowledges and accepts that the data gathered by the Authority from the platform service provider may be securely transmitted to other public entities within the Government of Malta’s wider administrative structure, including the Commissioner, the Identity Malta Agency established by the Identity Malta Agency (Establishment) Order authorised by the Director for Citizenship and Expatriate Affairs to handle matters relating to residence permits and employment licenses, the Department For Industrial and Employment Relations, and the Jobsplus Corporation established by article 5 of the Employment and VEHICLE HIRE SERVICES [S.L. 65.33 Training Services Act.
+Provided further that the platform service provider acknowledges and accepts that the data gathered by the Authority from the platform service provider may be securely transmitted to other public entities within the Government of Malta’s wider administrative structure, including the Commissioner, the Identity Malta Agency established by the Identity Malta Agency (Establishment) Order authorised by the Director for Citizenship and Expatriate Affairs to handle matters relating to residence permits and employment licenses, the Department For Industrial and Employment Relations, and the Jobsplus Corporation established by article 5 of the Employment and Training Services Act.
 
 (7) Whenever the Authority issues a formal notification that a fleet of light vehicles for passenger transport or part thereof has been suspended, confiscated, or removed from the roads or from its corresponding Register for any reason, the holder of an authorisation to provide an intermediary platform service for booking shall within twenty-four (24) hours from the formal notification of the Authority update its systems so that the vehicles concerned are no longer available and do not receive bookings through the intermediary platform.
-
-*55*
 
 (8) The holder of an authorisation to provide an intermediary booking platform service for booking shall take all the necessary measures, including but not limited to, the inclusion of features within its relevant online software applications, to preclude a driver of a light passenger transport vehicle from working in a manner which is in breach of the minimum rest obligations in accordance with regulation 37A. The holder of an authorisation to provide an intermediary booking platform service for booking shall be obliged to act immediately once its own database is notified that a driver of a light passenger transport vehicle has failed to adhere to the minimum rest obligations in accordance with regulation 37A and shall suspend bookings in relation to such driver and by extension, such vehicle until the default is remedied.
 
@@ -1540,11 +1382,9 @@ Provided further that the platform service provider acknowledges and accepts tha
 
 (b) periodically throughout the calendar day to confirm the identity of the driver through routine face recognition verification requests whenever the driver exceeds the period of not less than three (3) hours of continuous driving on the intermediary booking platform application.
 
-(10) The holder of an authorisation to provide an intermediary booking platform service shall adhere to a strict one to one (1:1) correlation ratio between active vehicles registered in accordance with sub-regulation (4). The holder shall ensure that no fleet may on-board additional light passenger transport vehicles unless such vehicle has a corresponding driver in full compliance with these regulations and shall continuously monitor its databases to restrict and suspend any additional vehicles whenever a breach of this sub-regulation occurs: [S.L. 65.33 VEHICLE HIRE SERVICES
+(10) The holder of an authorisation to provide an intermediary booking platform service shall adhere to a strict one to one (1:1) correlation ratio between active vehicles registered in accordance with sub-regulation (4). The holder shall ensure that no fleet may on-board additional light passenger transport vehicles unless such vehicle has a corresponding driver in full compliance with these regulations and shall continuously monitor its databases to restrict and suspend any additional vehicles whenever a breach of this sub-regulation occurs:
 
 Provided that where the holder of an authorisation to provide an intermediary booking platform service fails to maintain the required driver-to-vehicle ratio, an administrative penalty of one thousand two hundred euro (€1,200) for each additional vehicle in excess of the permissible ratio shall be due to the Authority for every month during which such default persists.
-
-*56*
 
 (11) The holder of an authorisation to provide an intermediary booking platform service shall provide, limitedly to those self-employed drivers who are registered with the Authority in terms of an LPTV1 operator’s license, the relevant information with respect to the destination and pricing of any prospective trip in full transparency, to the drivers registered on its intermediary booking platform who are actively seeking to service a trip, prior to the respective driver’s acceptance of the proposed trip.
 
@@ -1570,9 +1410,7 @@ Provided further that for the purposes of this sub-regulation the alleged offend
 
 shall be guilty of an offence and shall, on conviction, be liable to a fine (multa) not exceeding ten thousand euro (€10,000), or to imprisonment for a period of not more than six (6) months, or to both such fine and imprisonment. Furthermore, the court may order the immediate revocation of any authorisation, licence or permit held in terms of these regulations by the person found guilty of such an offence.
 
-*57*
-
-VEHICLE HIRE SERVICES [S.L. 65.33 (2) Any person who commits a breach of:
+(2) Any person who commits a breach of:
 
 (a) regulation 5(4)(f);
 
@@ -1596,10 +1434,6 @@ Provided further that for the purposes of this sub-regulation, the alleged offen
 
 Provided that in the case where the holder of an authorisation to act as an intermediary booking service platform breaches any of the provisions of regulation 66A, resulting in a fleet of light passenger transport vehicles, or part thereof, remaining visible on the platform and, or accepting bookings on the same platform, contrary to any order or decision of the Authority, the competent court shall impose a fine in accordance with sub-regulation (4) separately with regard to each vehicle that remains visible or receives bookings on the intermediary platform.
 
-*58*
-
-[S.L. 65.33 VEHICLE HIRE SERVICES
-
 (5) A person who, for the purpose of obtaining, whether for himself or another, the grant or renewal of any licence, authorisation or permit in terms of these regulations, makes a declaration required by these regulations which he knows to be false, or submits false documentation, shall be guilty of a crime and shall, on conviction, be liable to imprisonment for a period of not more than six (6) months or to a fine (multa) not exceeding twelve thousand euro (€12,000), or to both such fine and imprisonment. Furthermore, the Court shall order the immediate revocation of the licence in relation to which the false declaration was made or the false documentation was submitted as well as any other licence, authorisation and/or permit held in terms of these regulations by the person found guilty of such crime.
 
 (6) With regard to the offences and penalties stipulated in this regulation, the court shall order the Authority to impose on such person one penalty point for every ten euro (€10) or part thereof imposed on such person by way of a fine where such person is a holder of an operator’s licence, or a driver’s permit or an authorisation to act as an intermediary booking service platform, as the case may be.
@@ -1614,11 +1448,9 @@ Provided that in the case where the holder of an authorisation to act as an inte
 
 (9) Whosoever shall hinder or obstruct any authorised inspecting officer in the exercise of his powers or duties, or unduly or in any manner whatsoever interfere in the exercise thereof, or refuse to comply with any orders or directives which such authorised inspecting officer may give in the execution of his powers or duties, shall, on conviction, be liable, and without prejudice to any other law, to a fine (multa) of not less than one hundred and twenty euro (€120) and not exceeding two hundred and fifty euro (€250) for a first conviction, and to a fine (multa) of not less than two hundred and fifty euro (€250) and not exceeding one thousand and two hundred euro (€1,200) for each subsequent conviction.
 
-*59*
-
-VEHICLE HIRE SERVICES [S.L. 65.33 (10) Whosoever shall be found to be in breach of the garaging or off-street parking requirements applicable to light passengers transport vehicles in accordance with regulation 17 shall be subject to the contraventions established in the Fifth Schedule that shall be enforced and managed by the Local Enforcement System Agency as established by the Local Enforcement System (Establishment as an Agency) Order or any contractor duly authorised by the said Agency and the said Agency shall have the power to remove, store or dispose of any vehicle or affix wheel clamps to any motor vehicle in accordance with the applicable provisions of the Clamping and Removal of Motor Vehicles and Encumbering Objects Regulations.
-
 *        S.L. 595. 14.     S.L. 65.13.*
+
+(10) Whosoever shall be found to be in breach of the garaging or off-street parking requirements applicable to light passengers transport vehicles in accordance with regulation 17 shall be subject to the contraventions established in the Fifth Schedule that shall be enforced and managed by the Local Enforcement System Agency as established by the Local Enforcement System (Establishment as an Agency) Order or any contractor duly authorised by the said Agency and the said Agency shall have the power to remove, store or dispose of any vehicle or affix wheel clamps to any motor vehicle in accordance with the applicable provisions of the Clamping and Removal of Motor Vehicles and Encumbering Objects Regulations.
 
 *     Cap. 65.*
 
@@ -1636,10 +1468,6 @@ VEHICLE HIRE SERVICES [S.L. 65.33 (10) Whosoever shall be found to be in breach 
 
 (1) The Authority shall impose the administrative penalties prescribed in the Fourth Schedule and the corresponding penalty points calculated in terms of sub-regulation (4) on any holder of an operator’s licence (being an operator’s licence for light passenger transport services or an operator’s licence for vehicle hire services) who contravenes the provisions of the regulations listed in the Fourth Schedule.
 
-*60*
-
-[S.L. 65.33 VEHICLE HIRE SERVICES
-
 (2) The Authority shall impose the administrative penalties prescribed in the Fourth Schedule and the corresponding penalty points calculated in terms of sub-regulation (4) on any driver who contravenes the provisions of the regulations included in the Fourth Schedule.
 
 (3) Where the holder of an operator’s licence or driver’s permit contravenes the same provision of these regulations on five (5) different occasions within a period of twelve (12) consecutive months, the Authority shall impose upon that operator or driver, in addition to the administrative penalties prescribed in the Fourth Schedule and the corresponding penalty points calculated in terms of sub-regulation (4), an additional twenty (20) penalty points.
@@ -1654,13 +1482,11 @@ Provided that, notwithstanding the provisions of sub-regulation (3), where a per
 
 (7) Where a breach of these regulations is committed by an operator who is a natural person, the Authority shall hold the designated person liable in solidum with the operator for the payment of any administrative penalty, unless the designated person proves that the offence was committed without his knowledge and that he exercised all due diligence to prevent the commission of such breach.
 
-(8) Where a breach of these regulations is committed by a VEHICLE HIRE SERVICES [S.L. 65.33 partnership, company or other legal person, the Authority shall hold every person who at the time of the commission of the breach was a designated person, director, partner or other similar officer, or was purporting to act in any such capacity, or was a person having a power of representation or having an authority to take decisions on behalf of or having authority to exercise control within that partnership, company or other legal person, liable in solidum with the operator for the payment of any administrative penalty imposed on the operator unless such person proves that the breach was committed without his knowledge and that he exercised all due diligence to prevent the commission of such breach.
+(8) Where a breach of these regulations is committed by a partnership, company or other legal person, the Authority shall hold every person who at the time of the commission of the breach was a designated person, director, partner or other similar officer, or was purporting to act in any such capacity, or was a person having a power of representation or having an authority to take decisions on behalf of or having authority to exercise control within that partnership, company or other legal person, liable in solidum with the operator for the payment of any administrative penalty imposed on the operator unless such person proves that the breach was committed without his knowledge and that he exercised all due diligence to prevent the commission of such breach.
 
 ### 69. Right of appeal from imposition of penalty points and administrative penalties.
 
 (1) A person aggrieved by the decision of the Authority to impose administrative penalties and the corresponding penalty points may, within twenty (20) days from the date when such decision is communicated to him, lodge an appeal therefrom with the Tribunal.
-
-*61*
 
 (2) The Tribunal may confirm, revoke or alter the administrative penalty and the corresponding penalty points imposed by the Authority. The administrative penalty, if any, as confirmed or modified by the Tribunal, and, or by the Court of Appeal, where an appeal on a point of law is lodged in terms of the Act, shall be recoverable by the Authority as a civil debt and the decision of the Tribunal or the Court of Appeal, as the case may be, shall constitute an executive title for all intents and purposes of the Code of Organization and Civil Procedure.
 
@@ -1677,10 +1503,6 @@ In the event that the Authority imposes an administrative penalty in terms of re
 *Amended by: L.N. 171 of 2026.*
 
 (1) The Authority shall suspend for a period of one (1) year an operator’s licence for light passenger transport vehicles if, at any time, he accumulates five hundred (500) penalty points in terms of these regulations:
-
-*62*
-
-[S.L. 65.33 VEHICLE HIRE SERVICES
 
 Provided that where an operator has more than five (5) light passenger transport vehicles registered on his operator’s licence, the said operator’s licence shall only be withdrawn if its holder accumulates a total amount of five hundred (500) penalty points plus an additional twenty (20) penalty points per vehicle registered under such operator’s licences:
 
@@ -1706,11 +1528,7 @@ Where criminal proceedings have been instituted against an operator or a driver,
 
 Any person whose licence and, or permit has been withdrawn in terms of these regulations and, or any other regulations issued in terms of the Traffic Regulation Ordinance and the Act may not apply for a new licence and, or permit before the lapse of a period of two (2) years from such withdrawal, and the Authority shall not consider any application made in contravention of this regulation.
 
-*63*
-
-VEHICLE HIRE SERVICES [S.L. 65.33 PART XI
-
-**GENERAL AND TRANSITORY PROVISIONS**
+## PART XI — GENERAL AND TRANSITORY PROVISIONS
 
 ### 75. Period for conversion of public service garage licence.  S.L. 65. 11.
 
@@ -1742,11 +1560,7 @@ Provided that the fees for each of these licences shall be applicable and payabl
 
 Operators who upon the coming into force of these regulations, are in possession of a valid operating licence or have a pending application for the issuance of an operator licence shall have six (6) months from the coming into force of these regulations within which to comply with the said regulations. Any renewal of a licence shall be authorised only if the operator complies with these regulations within the period specified herein:
 
-Provided that for the purpose of regulation 37, operators who are in possession of a valid operator’s licence or have a pending application for the issuance of an operator’s licence shall have twenty-four (24) months from the coming into force of these regulations to [S.L. 65.33 VEHICLE HIRE SERVICES
-
-comply. Any renewal of a licence shall be authorised only if the operator complies with this regulation, within the period specified herein:
-
-*64*
+Provided that for the purpose of regulation 37, operators who are in possession of a valid operator’s licence or have a pending application for the issuance of an operator’s licence shall have twenty-four (24) months from the coming into force of these regulations to comply. Any renewal of a licence shall be authorised only if the operator complies with this regulation, within the period specified herein:
 
 Provided further that for the purposes of the Seventh Schedule, holders of an authorisation to offer an intermediary booking platform service shall only be required to commence monitoring the number of trips for the purpose of calculating the renewal authorisation fee as from 1st January 2026, with the first payment of the authorisation fee calculated in accordance with the Seventh Schedule due on the 1st January 2027.
 
@@ -1793,10 +1607,6 @@ Fee for the renewal of an Operator’s Licence for €200
 Light Passenger Transport Services LPTV2 (under
 
 Part II)
-
-*65*
-
-VEHICLE HIRE SERVICES [S.L. 65.33
 
 Right for the renewal of an Operator’s Licence for €200
 
@@ -1852,10 +1662,6 @@ Annual authorisation fee (under Section IX) In accord-ance with the Seventh Sche
 
 (Regulation 37(3))
 
-**VEHICLE HIRE SERVICES**
-
-*[S.L. 65.33 66*
-
 Wheelchair accessible sign
 
 THIRD SCHEDULE
@@ -1874,13 +1680,11 @@ a. Knowledge of the characteristics of the transmission (gear) systems enabling 
 
 b. Knowledge of the technical characteristics and operation of the safety controls in order to control the vehicle (compliance with safety and security procedures), minimise wear and tear and prevent vehicle malfunction; and
 
-c. Ability to optimise fuel consumption and ECO VEHICLE HIRE SERVICES [S.L. 65.33 driving skills.
+c. Ability to optimise fuel consumption and ECO driving skills.
 
 ### 2.
 
 Safety of driver, passengers and other road users including:
-
-*67*
 
 a. Ability to ensure passenger comfort and safety including particular behaviour with elderly and passengers with special needs;
 
@@ -1916,11 +1720,7 @@ Routes and destinations
 
 a. Thorough knowledge of routes, including the ability to provide shortest route and alternate routes; and
 
-b. Basic knowledge of prime tourist and commercial [S.L. 65.33 VEHICLE HIRE SERVICES
-
-locations across Malta and Gozo
-
-*68*
+b. Basic knowledge of prime tourist and commercial locations across Malta and Gozo
 
 ### 4.
 
@@ -1964,19 +1764,15 @@ ADMINISTRATIVE PENALTIES
 
 *Column 1*
 
-Column 2 Column 3 Column 4 Column 5 Column 6 VEHICLE HIRE SERVICES [S.L. 65.33
-
-*Administrative Penalties for Service Providers of an Intermediate Platform for Booking (€)*
-
-Regulation Administrativ Administrati Administra- Administra-tive e Penalties for ve Penalties tive Penalties Penalties for the Light for Light for Vehicle Special Occasion Passenger Passenger Hire Services Passenger Transport Transport Licence Transport Licence Drivers Operator (€) Services Operator (€) (€) Operators (€) regulation 6(6) 100 100 regulation 10 200 200 regulation 11 200 200 regulation 15 500 500
-
-*69*
-
-*100*
+Column 2 Column 3 Column 4 Column 5 Column 6 Regulation Administrativ Administrati Administra- Administra-tive e Penalties for ve Penalties tive Penalties Penalties for the Light for Light for Vehicle Special Occasion Passenger Passenger Hire Services Passenger Transport Transport Licence Transport Licence Drivers Operator (€) Services Operator (€) (€) Operators (€) regulation 6(6) 100 100 regulation 10 200 200 regulation 11 200 200 regulation 15 500 500
 
 *500*
 
 regulation 16 200
+
+*Administrative Penalties for Service Providers of an Intermediate Platform for Booking (€)*
+
+*100*
 
 Failure to exhibit 500
 
@@ -2032,10 +1828,6 @@ regulation 57 500
 
 regulation 63 500 500
 
-*70*
-
-[S.L. 65.33 VEHICLE HIRE SERVICES
-
 ## FIFTH SCHEDULE
 
 *Added by: L.N. 171 of 2026.*
@@ -2064,21 +1856,15 @@ Number (number 11 or more €500
 
 plate)) of the
 
-defaulting vehicle. VEHICLE HIRE SERVICES [S.L. 65.33 SIXTH SCHEDULE
+defaulting vehicle.
+
+## SIXTH SCHEDULE
 
 *Added by: L.N. 171 of 2026.*
 
 (regulation 17)
 
-*71*
-
-*72*
-
-[S.L. 65.33 VEHICLE HIRE SERVICES
-
-*73*
-
-VEHICLE HIRE SERVICES [S.L. 65.33 SEVENTH SCHEDULE
+## SEVENTH SCHEDULE
 
 *Added by: L.N. 171 of 2026.*
 
@@ -2105,7 +1891,3 @@ Tier Trip Range Annual Authorisation Fee 1 0-50,000 €5,000
 9 9,000,001-15,000,000 €280,000
 
 10 Over 15,000,000 €320,000.".
-
-*74*
-
-[S.L. 65.33 VEHICLE HIRE SERVICES

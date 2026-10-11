@@ -1,6 +1,6 @@
 ---
 title: "Onions for Export Regulations"
-identifier: "S.L. 85.3"
+identifier: "S.L. 85.03"
 eli: "https://legislation.mt/eli/sl/85.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/85.3/20231017/eng"
 retrieved: 2026-10-12
 ---
 
-# Onions for Export Regulations (S.L. 85.3)
+# Onions for Export Regulations (S.L. 85.03)
 
 **SUBSIDIARY LEGISLATION 85.03**
 

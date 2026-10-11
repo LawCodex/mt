@@ -1,6 +1,6 @@
 ---
 title: "Personal Injuries of Civilians Scheme"
-identifier: "S.L. 111.1"
+identifier: "S.L. 111.01"
 eli: "https://legislation.mt/eli/sl/111.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/111.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Personal Injuries of Civilians Scheme (S.L. 111.1)
+# Personal Injuries of Civilians Scheme (S.L. 111.01)
 
 **SUBSIDIARY LEGISLATION 111.01**
 

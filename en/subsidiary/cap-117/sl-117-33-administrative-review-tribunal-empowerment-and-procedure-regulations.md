@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Administrative Review Tribunal (Empowerment and Procedure) Regulations (S.L. 117.33)
 
-*1*
-
-(EMPOWERMENT AND PROCEDURE) [S.L.117.33
-
 **SUBSIDIARY LEGISLATION 117.33**
 
 **ADMINISTRATIVE REVIEW TRIBUNAL**
@@ -61,6 +57,4 @@ The title of these regulations is the Administrative Review Tribunal (Empowermen
 
 *Cap. 490.*
 
-(4) An appeal shall be lodged from a decision of the Director of Trade within twenty days from the notification of that decision to the appellant, provided that appeals lodged before the Administrative Review Tribunal from a decision of the said [S.L.117.33 (EMPOWERMENT AND PROCEDURE) Director before the entry into force of these regulations shall continue to be valid even if they have not been lodged within the said twenty days period.
-
-*2*
+(4) An appeal shall be lodged from a decision of the Director of Trade within twenty days from the notification of that decision to the appellant, provided that appeals lodged before the Administrative Review Tribunal from a decision of the said Director before the entry into force of these regulations shall continue to be valid even if they have not been lodged within the said twenty days period.

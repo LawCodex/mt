@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science in Banking and Finance – M.Sc. - under the auspices of the Faculty of Economics, Management and Accountancy (S.L. 327.449)
 
-*1*
-
-FINANCE [S.L.327.449
-
 **SUBSIDIARY LEGISLATION 327.449**
 
 *Substituted by: L.N. 241 of 2023.*
@@ -68,10 +64,6 @@ These bye-laws shall be applicable for courses commencing in October 2019 or lat
 
 (b) the degree of Bachelor of Commerce with Banking and Finance as one of the two main areas of study, obtained with at least Category II; or
 
-*2*
-
-[S.L.327.449 FINANCE
-
 (c) a degree with at least Second Class Honours or Category II, in any other area deemed relevant by the Board of Studies; or
 
 (d) a qualification deemed by Senate, on the recommendation of the Board, to be comparable to the qualifications listed in paragraphs (a), (b) and (c) of this bye-law;
@@ -102,11 +94,7 @@ The Course shall be open to applicants in possession of:
 
 (a) the degree of Bachelor of Commerce from this University, in the same or in related areas of study as one of the areas of study applied for, obtained with at least Category II and with a minimum average mark of 65% in one of the two proposed areas of study in the Degree; or
 
-(b) the degree of Bachelor of Commerce (Honours) from this University, in the same or in related areas of study as one of the areas of study applied for, obtained with at least Second Class Honours. The Board may also consider applicants in possession of the degree obtained with Third Class Honours, provided that applicants have obtained other qualifications, FINANCE [S.L.327.449
-
-including relevant work experience, following their first cycle degree; or
-
-*3*
+(b) the degree of Bachelor of Commerce (Honours) from this University, in the same or in related areas of study as one of the areas of study applied for, obtained with at least Second Class Honours. The Board may also consider applicants in possession of the degree obtained with Third Class Honours, provided that applicants have obtained other qualifications, including relevant work experience, following their first cycle degree; or
 
 (c) the degree of Bachelor of Science (Honours) in Business and IT from this University, obtained with at least Second Class Honours; or
 
@@ -136,11 +124,7 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 (1) The assessment of each taught study-unit shall be completed by the end of the semester in which the teaching of the study-unit is held.
 
-(2) Students who in any academic year fail in the assessment of not more than 20 ECTS credits for taught study-units, if following [S.L.327.449 FINANCE
-
-the full-time course, or not more than 10 ECTS credits if following the part-time course, shall be given the opportunity to re-sit the failed assessments during the September supplementary examination session.
-
-*4*
+(2) Students who in any academic year fail in the assessment of not more than 20 ECTS credits for taught study-units, if following the full-time course, or not more than 10 ECTS credits if following the part-time course, shall be given the opportunity to re-sit the failed assessments during the September supplementary examination session.
 
 (3) Students who fail in more than the number of credits permitted under paragraph (2) of this bye-law, or students who fail in more than one taught study-unit after having sat for all the assessments and permitted re-assessments of all the taught study-units included in the programme, shall be required to withdraw from the Course.
 

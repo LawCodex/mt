@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Prevention and Settlement of Conflicts of Exercise of Jurisdiction in Criminal Proceedings Regulations (S.L. 9.20)
 
-OF EXERCISE OF JURISDICTION IN
-
-*1*
-
-CRIMINAL PROCEEDINGS [S.L.9.20
-
 **SUBSIDIARY LEGISLATION 9.20**
 
 PREVENTION AND SETTLEMENT OF CONFLICTS OF EXERCISE OF JURISDICTION IN CRIMINAL
@@ -43,36 +37,21 @@ LEGAL NOTICE 137 of 2014.
 
 For the purposes of these regulations unless the context otherwise requires -
 
-"competent authority" means the means a judicial authority or another authority, which is competent, under the law of its Member State, to carry out the acts envisaged by Article 2(1) of the
+"competent authority" means the means a judicial authority or another authority, which is competent, under the law of its Member State, to carry out the acts envisaged by Article 2(1) of the Arrangement;
 
-Arrangement;  
-"contacted authority" means the competent authority of another  
-Member State which the competent authority contacts to confirm  
-the existence of parallel proceedings;  
-"contacting authority" means the competent authority of another  
-Member State which contacts the competent authority to confirm  
-the existence of parallel proceedings;  
-"Eurojust" shall have the same meaning assigned to it by Council  
-Decision 2002/187/JHA on setting up Eurojust, as amended by  
-Council Decision 2003/659/JHA, and Council Decision 2009/426/  
-JHA of 16 December 2008 on the strengthening of Eurojust,  
-hereinafter referred to as "the Eurojust Decision";  
-"Member State" means any one of the Member States of the  
-European Union;  
-"parallel proceedings" means criminal proceedings both at a pre-  
-trial and trial phase conducted by two or more Member States  
-relating to the same facts and involving the same person;  
-"the European Judicial Network" means the European Judicial  
-Network duly established by Council Decision 2008/976/JHA of 16  
-December 2008 on the European Judicial Network;  
-"the European Union" means the European Union as referred to  
-in the Treaty;
+"contacted authority" means the competent authority of another Member State which the competent authority contacts to confirm the existence of parallel proceedings;
 
-OF EXERCISE OF JURISDICTION IN
+"contacting authority" means the competent authority of another Member State which contacts the competent authority to confirm the existence of parallel proceedings;
 
-*2*
+"Eurojust" shall have the same meaning assigned to it by Council Decision 2002/187/JHA on setting up Eurojust, as amended by Council Decision 2003/659/JHA, and Council Decision 2009/426/ JHA of 16 December 2008 on the strengthening of Eurojust, hereinafter referred to as "the Eurojust Decision";
 
-[S.L.9.20 CRIMINAL PROCEEDINGS
+"Member State" means any one of the Member States of the European Union;
+
+"parallel proceedings" means criminal proceedings both at a pre-trial and trial phase conducted by two or more Member States relating to the same facts and involving the same person;
+
+"the European Judicial Network" means the European Judicial Network duly established by Council Decision 2008/976/JHA of 16 December 2008 on the European Judicial Network;
+
+"the European Union" means the European Union as referred to in the Treaty;
 
 *Cap. 460.*
 
@@ -104,11 +83,7 @@ Provided further that no contact need take place when the relevant competent aut
 
 (1) The Attorney General shall reply to a request submitted in accordance with regulation 4 within a reasonable deadline duly indicated by the contacting authority, or in the absence of such deadline, the Attorney General shall, without undue delay, inform the contacting authority whether parallel proceedings are taking place in Malta:
 
-Provided that if it is confirmed that the suspected or OF EXERCISE OF JURISDICTION IN
-
-*3*
-
-CRIMINAL PROCEEDINGS [S.L.9.20 accused person is being held in provisional detention or custody, the contacted authority shall treat this request with urgency.
+Provided that if it is confirmed that the suspected or accused person is being held in provisional detention or custody, the contacted authority shall treat this request with urgency.
 
 (2) In the case where the Attorney General cannot provide such reply within the deadline set by the contacting authority, the contacting authority shall be promptly informed of the reasons thereof and furthermore an indication shall be given of another deadline within which such requested information shall be provided.
 
@@ -142,13 +117,7 @@ When the Attorney General submits a request in accordance with regulation 5, the
 
 (b) the stage of the proceedings, or, where a final decision has been reached, the nature of that final decision.
 
-(3) The Attorney General may provide such other relevant information relating to the criminal proceedings that are OF EXERCISE OF JURISDICTION IN
-
-*4*
-
-[S.L.9.20 CRIMINAL PROCEEDINGS
-
-commenced or whether they have been conducted in Malta and particularly those related facts which are the subject of the proceedings in Malta.
+(3) The Attorney General may provide such other relevant information relating to the criminal proceedings that are commenced or whether they have been conducted in Malta and particularly those related facts which are the subject of the proceedings in Malta.
 
 ## 9. Direct consultations.
 

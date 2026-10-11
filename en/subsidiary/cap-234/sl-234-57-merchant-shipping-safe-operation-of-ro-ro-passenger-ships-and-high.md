@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Merchant Shipping (Safe Operation of Ro-Ro Passenger Ships and High-Speed Passenger Craft in Regular Service) Regulations (S.L. 234.57)
 
-PASSENGER SHIPS AND HIGH-SPEED PASSENGER
-
-*1*
-
-CRAFT IN REGULAR SERVICE) [S.L. 234.57
-
 **SUBSIDIARY LEGISLATION 234.57**
 
 **MERCHANT SHIPPING (SAFE OPERATION OF RO-**
@@ -55,11 +49,7 @@ In these regulations, unless the context otherwise requires:
 
 "competent authority" means the Registrar-General of Shipping and Seamen appointed in terms of article 363 of the Act and includes any person acting under his authority;
 
-"HSSC" means the International Maritime Organisation PASSENGER SHIPS AND HIGH-SPEED PASSENGER [S.L. 234.57 CRAFT IN REGULAR SERVICE)
-
-Survey Guidelines under the Harmonized System of Survey and Certification, in its up-to-date version;
-
-*2*
+"HSSC" means the International Maritime Organisation Survey Guidelines under the Harmonized System of Survey and Certification, in its up-to-date version;
 
 "inspector" means an appropriate inspector in terms of Article 154 of the Act;
 
@@ -87,13 +77,7 @@ Provided that these regulations shall not apply to ro-ro passenger ships and hig
 
 ## 5. Exceptions to pre-commencement inspections.
 
-(1) In the case of pre-commencement inspections, the competent authority may decide not to apply certain requirements or procedures in Annexes I and II of Directive (EU) 2017/2110 relevant to any annual flag State survey or inspection carried out within the PASSENGER SHIPS AND HIGH-SPEED PASSENGER
-
-*3*
-
-CRAFT IN REGULAR SERVICE) [S.L. 234.57
-
-previous six months, provided that relevant procedures and guidelines for surveys specified in HSSC or procedures designed to achieve the same goal have been followed.
+(1) In the case of pre-commencement inspections, the competent authority may decide not to apply certain requirements or procedures in Annexes I and II of Directive (EU) 2017/2110 relevant to any annual flag State survey or inspection carried out within the previous six months, provided that relevant procedures and guidelines for surveys specified in HSSC or procedures designed to achieve the same goal have been followed.
 
 (2) When a ro-ro passenger ship or high-speed passenger craft is to be engaged on a regular service, the competent authority may take into account inspections and surveys previously carried out in respect of that ro-ro passenger ship or high-speed passenger craft for operation on another regular service covered by these regulations. Provided that the competent authority is satisfied with those previous inspections and surveys and that they are relevant to the new operational conditions, the inspections provided for in regulation 4(1) do not need to be applied before the ro-ro passenger ship or high-speed passenger craft starts operating on the new regular service.
 
@@ -110,10 +94,6 @@ previous six months, provided that relevant procedures and guidelines for survey
 (a) an inspection in accordance with Annex II of Directive (EU) 2017/2110, provided that a pre-commencement inspection in accordance with regulation 4 shall be considered as such inspection; and
 
 (b) an inspection during a regular service, taking place not before four months but not later than eight months after the inspection referred to in paragraph (a) of this sub-regulation and covering the items listed in Annex III of Directive (EU) 2017/2110 and what, in the professional judgment of the inspector, constitutes a sufficient number of the items listed in Annexes I and II of Directive 2017/2110 to ensure that the ro-ro passenger ship or high-speed passenger craft continues to fulfill all the necessary requirements for safe operation.
-
-*4*
-
-PASSENGER SHIPS AND HIGH-SPEED PASSENGER [S.L. 234.57 CRAFT IN REGULAR SERVICE)
 
 (2) The inspection referred to in sub-regulation (1)(a) may, be carried out at the same time as, or in conjunction with, the annual flag State survey provided that the relevant procedures and guidelines for surveys as specified in HSSC or procedures designed to achieve the same goal are followed.
 
@@ -133,13 +113,7 @@ On completion of any inspection carried out in accordance with these regulations
 
 (3) The prohibition of departure order shall not be lifted until the deficiency has been rectified and the hazard has been removed to the satisfaction of the competent authority or until the competent authority has established that the ship or craft can, subject to any necessary conditions, proceed to sea or resume operation without risk to the safety and health of passengers or crew, or risk to the ro-ro passenger ship or high-speed passenger craft or other ships.
 
-(4) If a deficiency referred to in sub-regulation (2) cannot be readily rectified in the port in which the deficiency has been confirmed or revealed, the competent authority may agree to allow the ship or PASSENGER SHIPS AND HIGH-SPEED PASSENGER
-
-*5*
-
-CRAFT IN REGULAR SERVICE) [S.L. 234.57
-
-craft to proceed to an appropriate repair yard where the deficiency can be readily rectified.
+(4) If a deficiency referred to in sub-regulation (2) cannot be readily rectified in the port in which the deficiency has been confirmed or revealed, the competent authority may agree to allow the ship or craft to proceed to an appropriate repair yard where the deficiency can be readily rectified.
 
 (5) In exceptional circumstances, where the overall condition of a ro-ro passenger ship or high-speed passenger craft is obviously substandard, the competent authority may suspend the inspection of that ship or craft until the company takes the steps necessary to ensure that the ro-ro passenger ship or high-speed passenger craft is no longer clearly hazardous to safety or health or no longer poses an immediate danger to the life of its crew and passengers or to ensure that it complies with the relevant requirements of applicable international conventions.
 
@@ -164,9 +138,5 @@ craft to proceed to an appropriate repair yard where the deficiency can be readi
 ## 11. Offences and penalties.
 
 (1) It shall be the duty of the company to ensure that the ro-ro passenger ship or high-speed passenger craft is in compliance with the provisions of these regulations and such person, if in fault, shall be liable to the penalties provided for in the Act, and if no such penalty is provided, such person shall for each offence be liable to a fine (multa) not exceeding five thousand units.
-
-*6*
-
-PASSENGER SHIPS AND HIGH-SPEED PASSENGER [S.L. 234.57 CRAFT IN REGULAR SERVICE)
 
 (2) If a ro-ro passenger ship or high-speed passenger craft proceeds or attempts to proceed to sea or on any voyage or excursion in contravention of these regulations, the company shall, without prejudice to any other penalty or remedy under the Act, be liable to a fine (multa) not exceeding five thousand units.

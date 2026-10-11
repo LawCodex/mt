@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Deduction of Expenses in respect of Immovable Property Rules (S.L. 123.26)
 
-DEDUCTION OF EXPENSES IN RESPECT
-
-*1*
-
-OF IMMOVABLE PROPERTY [S.L.123.26
-
 **SUBSIDIARY LEGISLATION 123.26**
 
 **DEDUCTION OF EXPENSES IN RESPECT OF**

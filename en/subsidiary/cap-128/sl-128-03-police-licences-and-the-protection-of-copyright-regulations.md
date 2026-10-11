@@ -1,6 +1,6 @@
 ---
 title: "Police Licences and the Protection of Copyright Regulations"
-identifier: "S.L. 128.3"
+identifier: "S.L. 128.03"
 eli: "https://legislation.mt/eli/sl/128.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/128.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Police Licences and the Protection of Copyright Regulations (S.L. 128.3)
+# Police Licences and the Protection of Copyright Regulations (S.L. 128.03)
 
 **SUBSIDIARY LEGISLATION 128.03**
 

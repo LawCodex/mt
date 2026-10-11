@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master in Counselling - M.Couns. - under the auspices of the Faculty for Social Wellbeing (S.L. 327.330)
 
-*1*
-
-THE AUSPICES OF THE FACULTY FOR SOCIAL WELLBEING [S.L.327.330
-
 **SUBSIDIARY LEGISLATION 327.330**
 
 BYE-LAWS FOR THE DEGREE OF MASTER IN COUNSELLING - M. Couns. - UNDER THE
@@ -68,11 +64,7 @@ These bye-laws shall apply to for courses commencing in October 2020 or later.
 
 (2) Applicants in possession of a Bachelor’s degree classified at Third Class Honours or Category III may be admitted to the Course if they are in possession of other qualifications deemed relevant by the Board and a minimum of one year’s experience working directly in a formal human or psycho-social setting. The admission of such applicants may be made subject to those conditions that the Board may impose to address any lacunae in the applicants’ academic preparation.
 
-(3) All applicants shall be required to demonstrate that they [S.L.327.330 THE AUSPICES OF THE FACULTY FOR SOCIAL WELLBEING
-
-have the necessary aptitude and disposition to follow the course with profit.
-
-*2*
+(3) All applicants shall be required to demonstrate that they have the necessary aptitude and disposition to follow the course with profit.
 
 (4) (a) Professional aptitude and disposition shall be measured by means of exercises involving an extended personal interview and personality test.
 
@@ -114,11 +106,7 @@ The course shall extend over four semesters of full-time studies or the equivale
 
 (1) The assessment of each taught study-unit shall be completed by the end of the semester in which the teaching of the study-unit is held.
 
-(2) Students who in any academic year fail in the assessment THE AUSPICES OF THE FACULTY FOR SOCIAL WELLBEING [S.L.327.330
-
-of not more than four taught study-units in the case of the full-time course shall be given the opportunity to re-sit the failed assessments during the September supplementary examination session.
-
-*3*
+(2) Students who in any academic year fail in the assessment of not more than four taught study-units in the case of the full-time course shall be given the opportunity to re-sit the failed assessments during the September supplementary examination session.
 
 (3) Students who fail in more than the number of study-units permitted under paragraph (2), or students who after re-assessment fail to obtain credit for any study-unit, shall be deemed to have failed the course.
 
@@ -152,11 +140,7 @@ of not more than four taught study-units in the case of the full-time course sha
 
 ## 9. Classification of the Awards.
 
-The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma and of the Degree shall be based on the results obtained in all the components of the [S.L.327.330 THE AUSPICES OF THE FACULTY FOR SOCIAL WELLBEING
-
-programme of study, all credits being weighted equally.
-
-*4*
+The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma and of the Degree shall be based on the results obtained in all the components of the programme of study, all credits being weighted equally.
 
 ## 10. Special provisions for part-time courses.
 

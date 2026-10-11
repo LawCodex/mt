@@ -1,6 +1,6 @@
 ---
 title: "Directive by the Minister of Finance for the Issue of Lm1,000,000 4.5% Local Development Registered Stock 1996/98"
-identifier: "S.L. 161.5"
+identifier: "S.L. 161.05"
 eli: "https://legislation.mt/eli/sl/161.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/161.5/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Directive by the Minister of Finance for the Issue of Lm1,000,000 4.5% Local Development Registered Stock 1996/98 (S.L. 161.5)
-
-ISSUE OF LM1,000,000 4.5%
-
-*1*
-
-LOCAL DEVELOPMENT REGISTERED STOCK 1996/98 [S.L.161.05
+# Directive by the Minister of Finance for the Issue of Lm1,000,000 4.5% Local Development Registered Stock 1996/98 (S.L. 161.05)
 
 **SUBSIDIARY LEGISLATION 161.05**
 

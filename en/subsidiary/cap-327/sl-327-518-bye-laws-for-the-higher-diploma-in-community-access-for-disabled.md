@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Higher Diploma in Community Access for Disabled People - H.Dip. C.A.D.P. - under the auspices of the Faculty for Social Wellbeing (S.L. 327.518)
 
-DISABLED PEOPLE - H.Dip.. C.A.D.P. - UNDER THE
-
-*1*
-
-AUSPICES OF THE FACULTY FOR SOCIAL WELLBEING [S.L.327.518
-
 **518SUBSIDIARY LEGISLATION 327.518**
 
 **BYE-LAWS FOR THE HIGHER DIPLOMA IN**
@@ -65,9 +59,7 @@ These bye-laws shall be applicable for courses commencing in October 2021 or lat
 
 (3) The University Admissions Board, on the advice of the Board, may allow applicants in possession of additional qualifications and relevant experience evaluated according to the University’s Recognition of Prior Learning (RPL) Policy to be admitted to Year 2 of the Course under those conditions as the Board may impose.
 
-*2*
-
-DISABLED PEOPLE - H.Dip.. C.A.D.P. - UNDER THE [S.L.327.518 AUSPICES OF THE FACULTY FOR SOCIAL WELLBEING (4) The Board shall recommend to Senate the number of applicants that may be allowed to register for the course, depending on the availability of resources. The Board shall announce the number of available places at the time of the call for applications.
+(4) The Board shall recommend to Senate the number of applicants that may be allowed to register for the course, depending on the availability of resources. The Board shall announce the number of available places at the time of the call for applications.
 
 (5) When the number of places is limited and the number of eligible applicants exceeds the number of places available, applicants will be selected, using the following criteria, with the weighting of each being published at the time of the call for applications:
 

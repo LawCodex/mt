@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-laws for the Postgraduate Certificate in English Language Teaching - P.G.Cert. ELT - under the auspices of the Centre for English Language Proficiency and the Faculty of Education (S.L. 327.564)
 
-P.G.Cert. ELT - UNDER THE AUSPICES OF THE CENTRE FOR ENGLISH
-
-*1*
-
-LANGUAGE PROFICIENCY AND THE FACULTY OF EDUCATION [S.L.327.564
-
 **SUBSIDIARY LEGISLATION 327.564**
 
 **BYE-LAWS FOR THE POSTGRADUATE**
@@ -65,11 +59,7 @@ The course shall extend over one semester of full-time study.
 
 ## 6. Assessment and progress.
 
-(1) Students who fail in the assessment of not more than 10 ECTS credits for taught study-units shall be given the opportunity P.G.Cert. ELT - UNDER THE AUSPICES OF THE CENTRE FOR ENGLISH [S.L.327.564 LANGUAGE PROFICIENCY AND THE FACULTY OF EDUCATION
-
-to re-sit the failed assessments during the September supplementary examination session.
-
-*2*
+(1) Students who fail in the assessment of not more than 10 ECTS credits for taught study-units shall be given the opportunity to re-sit the failed assessments during the September supplementary examination session.
 
 (2) Students who fail in more than the number of credits permitted under paragraph (1) of this bye-law, or students who after re-assessment fail to obtain the credits for any study-unit, shall be deemed to have failed the course.
 

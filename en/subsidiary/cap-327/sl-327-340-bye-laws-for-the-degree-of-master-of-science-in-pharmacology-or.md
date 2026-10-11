@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science in Pharmacology or Clinical Pharmacology under the auspices of the Faculty of Medicine and Surgery (S.L. 327.340)
 
-OR CLINICAL PHARMACOLOGY UNDER THE AUSPICES
-
-*1*
-
-OF THE FACULTY OF MEDICINE AND SURGERY [S.L.327.340
-
 **SUBSIDIARY LEGISLATION 327.340**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -66,10 +60,6 @@ These bye-laws shall be applicable from 24th January 2014 onwards.
 (c) the research proposal; and
 
 (d) their performance during an interview.
-
-*2*
-
-OR CLINICAL PHARMACOLOGY UNDER THE AUSPICES [S.L.327.340 OF THE FACULTY OF MEDICINE AND SURGERY
 
 ## 4. Requirements for admission.
 
@@ -117,11 +107,7 @@ The programme of study shall be published after approval by Senate, normally not
 
 (1) Students shall be required to have regular contact with their supervisor.
 
-(2) Supervisors shall submit to the Board progress reports for OR CLINICAL PHARMACOLOGY UNDER THE AUSPICES
-
-*3*
-
-OF THE FACULTY OF MEDICINE AND SURGERY [S.L.327.340 each student under their supervision at the end of each semester of studies, whether the student is following the course on a full-time or a part-time basis. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
+(2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies, whether the student is following the course on a full-time or a part-time basis. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 

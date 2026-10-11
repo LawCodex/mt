@@ -1,6 +1,6 @@
 ---
 title: "Property held under the Criminal Code Notice"
-identifier: "S.L. 9.7"
+identifier: "S.L. 9.07"
 eli: "https://legislation.mt/eli/sl/9.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/9.7/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Property held under the Criminal Code Notice (S.L. 9.7)
+# Property held under the Criminal Code Notice (S.L. 9.07)
 
 **SUBSIDIARY LEGISLATION 9.07**
 

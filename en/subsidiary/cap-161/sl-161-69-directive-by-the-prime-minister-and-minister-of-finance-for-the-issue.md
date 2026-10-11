@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Prime Minister and Minister of Finance for the Issue of €4,003,727 7% Malta Government Stock 2014 (IV) (S.L. 161.69)
 
-*1*
-
-GOVERNMENT STOCK 2014 (IV) [S.L.161.69
-
 **SUBSIDIARY LEGISLATION 161.69**
 
 **DIRECTIVE BY THE PRIME MINISTER AND**
@@ -53,15 +49,13 @@ Payment of interest will be made by warrant, which is sent by post at the stockh
 
 ## 4. Trading on the Malta Stock Exchange. Cap. 345.
 
-An application for the Stock to be put on the official list for trading on the Malta Stock Exchange will be made in terms of the Financial Markets Act. Such Stock may be freely sold to the public with the prior authorization of the Maltese Episcopal Conference. [S.L.161.69 GOVERNMENT STOCK 2014 (IV)
+An application for the Stock to be put on the official list for trading on the Malta Stock Exchange will be made in terms of the Financial Markets Act. Such Stock may be freely sold to the public with the prior authorization of the Maltese Episcopal Conference.
 
 \* This Directive has been revoked by Act XLV of 2016, but it is still partially applicable since the six-year period prescribed by law to claim funds referring to stocks that have already matured, has not yet expired.
 
 ## 5. Redemption of Stock.
 
 The Stock and interest thereon will be a charge on the general revenue and assets of the Government of Malta.
-
-*2*
 
 ## 6. Charge on Government revenue and assets.
 

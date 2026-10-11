@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science - M.Sc. - under the auspices of the Faculty for the Built Environment (S.L. 327.378)
 
-*1*
-
-AUSPICES OF THE FACULTY FOR THE BUILT ENVIRONMENT [S.L.327.378
-
 **SUBSIDIARY LEGISLATION 327.378**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -66,10 +62,6 @@ provided that they are first admitted into a Preparatory Programme and they shal
 
 (3) Applicants may be asked to demonstrate competence in those skills required by the nature of the proposed research via an extended interview and the submission of appropriate documentation, provided that where deficiencies are identified applicants shall be required to take specific study-units intended to compensate for the deficit.
 
-*2*
-
-[S.L.327.378 AUSPICES OF THE FACULTY FOR THE BUILT ENVIRONMENT
-
 (4) Applicants whose first degree was obtained more than 10 years previous to their application for the Course may also be admitted, provided that they provide sufficient proof of their competence to follow the Course with profit. The Board may, at its discretion, require such applicants to follow a preparatory programme as specified in bye-law 5.
 
 ## 5. Preparatory programme.
@@ -114,11 +106,7 @@ Head of Department as Chairman, or his or her delegate, and two other members, o
 
 (3) Students shall be required to report to their supervisor at least once every two months, and in addition as often as the supervisor deems necessary.
 
-(4) At the end of each semester of studies supervisors shall be required to submit to the Panel of Supervision reports for the students under their supervision. Students shall seek approval from the Panel for any substantial modification in the title or content of AUSPICES OF THE FACULTY FOR THE BUILT ENVIRONMENT [S.L.327.378
-
-the dissertation. The dissertation may not normally be submitted for examination without the approval of the supervisor.
-
-*3*
+(4) At the end of each semester of studies supervisors shall be required to submit to the Panel of Supervision reports for the students under their supervision. Students shall seek approval from the Panel for any substantial modification in the title or content of the dissertation. The dissertation may not normally be submitted for examination without the approval of the supervisor.
 
 (5) The Panel of Supervision shall periodically inform the Board, in writing, on the general performance of each student. Such advice may include recommendations to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 

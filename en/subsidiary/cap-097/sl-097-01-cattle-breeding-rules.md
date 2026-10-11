@@ -1,6 +1,6 @@
 ---
 title: "Cattle Breeding Rules"
-identifier: "S.L. 97.1"
+identifier: "S.L. 97.01"
 eli: "https://legislation.mt/eli/sl/97.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/97.1/20231017/eng"
 retrieved: 2026-10-12
 ---
 
-# Cattle Breeding Rules (S.L. 97.1)
+# Cattle Breeding Rules (S.L. 97.01)
 
 **SUBSIDIARY LEGISLATION 97.01**
 

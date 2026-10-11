@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Statute for the Centre for English Language Proficiency (S.L. 327.447)
 
-*1*
-
-CIES AND ENGLISH COMMUNICATION SKILLS [S.L.327.447
-
 **SUBSIDIARY LEGISLATION 327.447**
 
 *Substituted by: L.N. 29 of 2026.*
@@ -68,11 +64,7 @@ The aims of the Centre shall be:
 
 (f) to research English Language Proficiency in Malta at various levels and in its diverse aspects and contexts;
 
-(g) to liaise, as and where appropriate, with non- University bodies on matters that may have a bearing on English Language Proficiency within broader [S.L.327.447 CIES AND ENGLISH COMMUNICATION SKILLS
-
-educational, professional and national contexts;
-
-*2*
+(g) to liaise, as and where appropriate, with non- University bodies on matters that may have a bearing on English Language Proficiency within broader educational, professional and national contexts;
 
 (h) to issue publications and reports on English Language Proficiency in Malta; and
 
@@ -120,10 +112,6 @@ The function of the Board shall be:
 
 (v) propose Regulations and Bye-Laws to the Senate;
 
-*3*
-
-CIES AND ENGLISH COMMUNICATION SKILLS [S.L.327.447
-
 (vi) require staff members of the Centre to produce reports on academic matters, including the curricula of courses of study, qualifications for admission to courses, examinations and certificates of attendance or qualification;
 
 (vii) recommend to the Council the creation or abolition of academic and non-academic posts in the Centre; and
@@ -156,11 +144,7 @@ The duties of the Vice-Chairman/Director shall include:
 
 (e) delivering and implementing the strategic plan of the Centre;
 
-(f) administering the Centre in full consultation with the members; monitoring and approving requests for leave of absence of members of the Centre; maintaining records of all leave taken by members and passing on these records to the Director of Human Resources CIES AND ENGLISH COMMUNICATION SKILLS
-
-Management and Development upon request;
-
-*[S.L.327.447 4*
+(f) administering the Centre in full consultation with the members; monitoring and approving requests for leave of absence of members of the Centre; maintaining records of all leave taken by members and passing on these records to the Director of Human Resources Management and Development upon request;
 
 (g) promoting students’ academic and personal welfare, providing first-line support to students with any difficulties they may encounter during their studies related to the activities of the Centre;
 
@@ -182,11 +166,7 @@ Management and Development upon request;
 
 (n) compiling and submitting to the Secretary of the University by the end of September of each academic year, an annual report approved by the Board, outlining the activities of the Centre for the outgoing year, which should include, amongst others, information that may be requested by the Secretary: a comprehensive list of recent publications of all members of the Centre; a synopsis of all projects involving members of the Centre which are wholly or partially externally funded; a list of all conferences/ seminars/meetings attended abroad by members of the Centre during term time; and an outline of the Centre’s collaboration with third parties including local industry, Government or civil society at large;
 
-(o) compiling and submitting to the Director of Finance of the University, by not later than end of May of each academic year, budgetary estimates approved by the Board for the following year including a manpower plan for the Centre, to cover the projected teaching, research and administration workload of the Centre, and based on the projected workload for each Resident Academic member of the Centre and Visiting Teaching CIES AND ENGLISH COMMUNICATION SKILLS [S.L.327.447
-
-Staff;
-
-*5*
+(o) compiling and submitting to the Director of Finance of the University, by not later than end of May of each academic year, budgetary estimates approved by the Board for the following year including a manpower plan for the Centre, to cover the projected teaching, research and administration workload of the Centre, and based on the projected workload for each Resident Academic member of the Centre and Visiting Teaching Staff;
 
 (p) monitoring the performance of the non-academic staff attached to the Centre;
 

@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Civil Courts (Establishment of Sections) Order (S.L. 12.19)
 
-*1*
-
-(ESTABLISHMENT OF SECTIONS) [S.L.12.19
-
 **SUBSIDIARY LEGISLATION 12.19**
 
 CIVIL COURTS (ESTABLISHMENT OF SECTIONS) ORDER
@@ -76,10 +72,6 @@ To the Civil Court (Voluntary Jurisdiction Section) shall be assigned applicatio
 
 (b) Part II of Book Second of the Code of Organization and Civil Procedure.
 
-*2*
-
-[S.L.12.19 (ESTABLISHMENT OF SECTIONS)
-
 ## 5A. Assignment of cases to the Civil Court (Commercial Section). Cap. 13. Cap. 386. Cap. 378. Cap. 379. Cap. 510. Cap. 632.
 
 *Added by: I.2018.21. Substituted by: XVI.2019.72. Amended by: XVII.2023.62: XXIII.2022.14.*
@@ -109,7 +101,3 @@ Where any dispute arises as to whether a case should be assigned to one section 
 ## 9. Court of Magistrates (Gozo) in its Superior Jurisdiction. Cap 12.
 
 Without prejudice to the provisions of article 54 of the Code of Organization and Civil Procedure there shall be in the Court of Magistrates (Gozo), in its Superior Jurisdiction, two Sections to be styled respectively ''The Family Section'' and ''The General Jurisdiction Section''. To the Family Section shall be assigned cases falling within the competence of that Court in its Superior Jurisdiction and which are regulated by the provisions referred to in article 4(a) to (e) of this Order, and to the General Jurisdiction Sections shall be assigned cases falling within the competence of the said Court in its Superior Jurisdiction which are not assigned to the Family Section or to which the said article 54 of the said Code does not apply. Articles 7 and 9 of this Order shall mutatis mutandis apply with respect to cases falling within the competence of the said Court in its Superior Jurisdiction with regard to the assignment of cases to the various Sections.
-
-*3*
-
-(ESTABLISHMENT OF SECTIONS) [S.L.12.19

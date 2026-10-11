@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Certificate in Clinical Nursing Practice - under the auspices of the Faculty of Health Sciences (S.L. 327.395)
 
-*1*
-
-THE AUSPICES OF THE FACULTY OF HEALTH SCIENCES [S.L.327.395
-
 **SUBSIDIARY LEGISLATION 327.395**
 
 **BYE-LAWS FOR THE CERTIFICATE IN**
@@ -70,10 +66,6 @@ The Board shall, after approval by Senate, determine the number of applicants th
 ## 6. Selection of applicants.
 
 If the number of eligible applicants exceeds the number of available places, the Board shall select applicants according to the following criteria:
-
-*2*
-
-[S.L.327.395 THE AUSPICES OF THE FACULTY OF HEALTH SCIENCES
 
 (i) relevant work experience in gainful employment (30% weighting):
 

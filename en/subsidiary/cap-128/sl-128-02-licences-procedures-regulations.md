@@ -1,6 +1,6 @@
 ---
 title: "Licences Procedures Regulations"
-identifier: "S.L. 128.2"
+identifier: "S.L. 128.02"
 eli: "https://legislation.mt/eli/sl/128.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/128.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Licences Procedures Regulations (S.L. 128.2)
+# Licences Procedures Regulations (S.L. 128.02)
 
 **SUBSIDIARY LEGISLATION 128.02**
 

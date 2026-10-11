@@ -1,6 +1,6 @@
 ---
 title: "Procedure regarding Applications for Aids to Hotels Rules"
-identifier: "S.L. 159.2"
+identifier: "S.L. 159.02"
 eli: "https://legislation.mt/eli/sl/159.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/159.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Procedure regarding Applications for Aids to Hotels Rules (S.L. 159.2)
-
-PROCEDURE REGARDING APPLICATIONS
-
-*1*
-
-FOR AIDS TO HOTELS [S.L.159.02
+# Procedure regarding Applications for Aids to Hotels Rules (S.L. 159.02)
 
 SUBSIDIARY LEGISLATION 159.02
 

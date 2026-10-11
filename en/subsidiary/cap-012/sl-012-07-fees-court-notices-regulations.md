@@ -1,6 +1,6 @@
 ---
 title: "Fees (Court Notices) Regulations"
-identifier: "S.L. 12.7"
+identifier: "S.L. 12.07"
 eli: "https://legislation.mt/eli/sl/12.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/12.7/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Fees (Court Notices) Regulations (S.L. 12.7)
+# Fees (Court Notices) Regulations (S.L. 12.07)
 
 SUBSIDIARY LEGISLATION 12.07
 

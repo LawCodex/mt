@@ -1,6 +1,6 @@
 ---
 title: "Standard Percentage of Employment of Persons with Disability Order"
-identifier: "S.L. 210.2"
+identifier: "S.L. 210.02"
 eli: "https://legislation.mt/eli/sl/210.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/210.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Standard Percentage of Employment of Persons with Disability Order (S.L. 210.2)
-
-STANDARD PERCENTAGE OF EMPLOYMENT
-
-*1*
-
-OF PERSONS WITH DISABILITY [S.L.210.02
+# Standard Percentage of Employment of Persons with Disability Order (S.L. 210.02)
 
 **SUBSIDIARY LEGISLATION 210.02**
 

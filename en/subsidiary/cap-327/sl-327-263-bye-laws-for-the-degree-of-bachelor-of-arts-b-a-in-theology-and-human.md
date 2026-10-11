@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Arts - B.A. - in Theology and Human Studies under the auspices of the Faculty of Theology (S.L. 327.263)
 
-AND HUMAN STUDIES UNDER THE AUSPICES
-
-*1*
-
-OF THE FACULTY OF THEOLOGY [S.L.327.263
-
 **SUBSIDIARY LEGISLATION 327.263**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF
@@ -74,12 +68,6 @@ The course shall extend over a period of three years of full-time study.
 *Substituted by: L.N. 353 of 2020.*
 
 The programme of study shall comprise study-units to which 180 ECTS credits shall be assigned, of which not less than 94 ECTS credits shall be assigned to study-units in Theology, Philosophy, and related areas, and not less than 80 ECTS credits shall be assigned to study-units in a second Main area of study.
-
-AND HUMAN STUDIES UNDER THE AUSPICES
-
-*2*
-
-[S.L.327.263 OF THE FACULTY OF THEOLOGY
 
 ## 7. Publication of programme of study.
 

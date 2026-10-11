@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Selection of Applicants for Admission to the Preparatory Course for the Diploma in Health Science under the auspices of the Institute of Health Care (S.L. 327.256)
 
-RATORY COURSE FOR THE DIPLOMA IN HEALTH SCIENCE
-
-*1*
-
-UNDER THE AUSPICES OF THE INSTITUTE OF HEALTH CARE [S.L.327.256
-
 **SUBSIDIARY LEGISLATION 327.256**
 
 BYE-LAWS FOR THE SELECTION OF APPLICANTS FOR ADMISSION TO THE PREPARATORY COURSE FOR THE DIPLOMA IN HEALTH SCIENCE
@@ -72,10 +66,6 @@ Points Grade at Grade at Grade at Grade at Grade from Advanced Intermediate SEC 
 4 4 B B
 
 \*These bye-laws have been repealed by Legal Notice 185 of 2022.
-
-*2*
-
-RATORY COURSE FOR THE DIPLOMA IN HEALTH SCIENCE [S.L.327.256 UNDER THE AUSPICES OF THE INSTITUTE OF HEALTH CARE
 
 3 5 C C
 

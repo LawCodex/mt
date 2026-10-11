@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor in Dance Studies (Honours) under the auspices of the School of Performing Arts (S.L. 327.387)
 
-(HONOURS) UNDER THE AUSPICES OF
-
-*1*
-
-THE SCHOOL OF PERFORMING ARTS [S.L.327.387
-
 **SUBSIDIARY LEGISLATION 327.387**
 
 **BYE-LAWS FOR THE DEGREE OF BACHELOR**
@@ -74,13 +68,7 @@ The course shall extend over a period of three years of full-time study or five 
 
 ## 5. Programme of study.
 
-The Board shall publish the programme of study before the commencement of each course. Subject to changes that the Board (HONOURS) UNDER THE AUSPICES OF
-
-*2*
-
-[S.L.327.387 THE SCHOOL OF PERFORMING ARTS
-
-may, with the approval of Senate, be constrained to make, students are bound to follow the study-units and obtain the credits as indicated in the programme of study they are following for the Degree, provided that programmes of study are drawn up in accordance with the relevant provisions of the Principal Regulations.
+The Board shall publish the programme of study before the commencement of each course. Subject to changes that the Board may, with the approval of Senate, be constrained to make, students are bound to follow the study-units and obtain the credits as indicated in the programme of study they are following for the Degree, provided that programmes of study are drawn up in accordance with the relevant provisions of the Principal Regulations.
 
 ## 6. Registration.
 

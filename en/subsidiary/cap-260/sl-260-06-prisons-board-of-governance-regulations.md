@@ -1,6 +1,6 @@
 ---
 title: "Prisons (Board of Governance) Regulations"
-identifier: "S.L. 260.6"
+identifier: "S.L. 260.06"
 eli: "https://legislation.mt/eli/sl/260.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/260.6/20180611/eng"
 retrieved: 2026-10-12
 ---
 
-# Prisons (Board of Governance) Regulations (S.L. 260.6)
+# Prisons (Board of Governance) Regulations (S.L. 260.06)
 
 **SUBSIDIARY LEGISLATION 260.06**
 

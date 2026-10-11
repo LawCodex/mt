@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Simplifying Terms and Conditions of Transfers of Defence-Related Products Regulations (S.L. 117.32)
 
-*1*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
-
 **SUBSIDIARY LEGISLATION 117.32**
 
 **SIMPLIFYING TERMS AND CONDITIONS**
@@ -58,10 +54,6 @@ The objective of these regulations is to implement the requirements of:
 
 \*see regulation 1(2) of these Regulations, as originally promulgated, and Legal Notice 241 of 2012.
 
-*2*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
-
 (h) Commission Directive (EU) 2019/514 of 14 March 2019 amending Directive 2009/43/EC of the European Parliament and of the Council as regards the list of defence-related products;
 
 (i) Commission Delegated Directive (EU) 2021/1047 of 5 March 2021 amending Directive 2009/43/EC of the European Parliament and of the Council as regards the updating of the list of defence-related products in line with the updated Common Military List of the European Union of 17 February 2020.
@@ -98,11 +90,7 @@ In these regulations, unless the context otherwise requires:
 
 "transfer licence" means an authorisation by a national authority of a Member State for suppliers to transfer defence-related products to a recipient in another Member State which can be one of the following:
 
-(a) a "general transfer licence", which is an authorisation published by a national authority of a Member State granting suppliers, established in its territory, permission to transfer defence-related products TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
-
-specified therein to a category or categories of recipients in another Member State whilst fulfilling any terms and conditions contained therein;
-
-*3*
+(a) a "general transfer licence", which is an authorisation published by a national authority of a Member State granting suppliers, established in its territory, permission to transfer defence-related products specified therein to a category or categories of recipients in another Member State whilst fulfilling any terms and conditions contained therein;
 
 (b) a "global transfer licence", which is an authorisation granted by a national authority to an individual supplier, at its request, authorising transfers of defence-related products to recipients in one or more states;
 
@@ -134,11 +122,7 @@ The Committee shall determine all the terms and conditions of transfer licences,
 
 (b) when to request end-use assurances, including end-user certificates:
 
-Provided that the Committee shall request suppliers of defence-related products to inform recipients of the terms and conditions of the transfer licence including limitations relating to the end use or export of the [S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
-
-defence-related product:
-
-*4*
+Provided that the Committee shall request suppliers of defence-related products to inform recipients of the terms and conditions of the transfer licence including limitations relating to the end use or export of the defence-related product:
 
 Provided further that in the case of transfer licences for components, the Committee shall determine the terms and conditions of such transfer licence on the basis of an assessment of the sensitivity of the transfer according, inter alia, to the following criteria:
 
@@ -172,10 +156,6 @@ Provided that a general transfer licence shall be published by the Committee whe
 
 (iii) the transfer is made for the purposes of demonstration, evaluation or exhibition;
 
-*5*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
-
 (iv) the transfer is made for the purposes of maintenance and repair, if the recipient is the originating supplier of the defence-related products.
 
 (3) The Committee may publish general transfer licences of defence-related products for transfers to other Member States which are necessary for the execution of an inter-governmental cooperation programme, in which Malta participates with other Member States, concerning the development, production and use of one or more defence-related products.
@@ -206,11 +186,7 @@ TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
 
 ## 13. Transfers of defence-related products from other Member States.
 
-(1) The transfer of defence-related products from other Member States shall be subject to prior authorization secured through a general transfer licence, a global transfer licence or an individual transfer licence from the Member State from whose [S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
-
-territory the supplier wishes to transfer the defence-related products.
-
-*6*
+(1) The transfer of defence-related products from other Member States shall be subject to prior authorization secured through a general transfer licence, a global transfer licence or an individual transfer licence from the Member State from whose territory the supplier wishes to transfer the defence-related products.
 
 (2) No further authorisation shall be required for passage through or entry in Malta, without prejudice to the application of provisions necessary on grounds of public security or public policy such as, inter alia, the safety of transport, the safety of storage, the risk of diversion and the prevention of crime.
 
@@ -250,11 +226,7 @@ Transfers of defence-related products may be exempted from the obligation of pri
 
 ## 16. Certification of recipients.
 
-(1) The Committee shall certify recipients established in Malta who are eligible to receive defence-related products under general transfer licences published by other Member States in TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
-
-accordance with Article 5(2)(b) of the Directive.
-
-*7*
+(1) The Committee shall certify recipients established in Malta who are eligible to receive defence-related products under general transfer licences published by other Member States in accordance with Article 5(2)(b) of the Directive.
 
 (2) Certification shall be granted only to recipient undertakings which actually manufacture defence-related products or partly completed defence-related products, consisting of components and, or systems and sub-systems purchased from third parties, with a view to being placed on the market under their own name or trademark.
 
@@ -278,11 +250,7 @@ Provided that reliability shall be assessed according to the following criteria:
 
 (d) a written commitment of the undertaking, signed by the senior executive referred to in paragraph (c), that the undertaking will take all necessary steps to observe and enforce all specific conditions related to the end-use and export of any specific component or product received;
 
-(e) a written commitment of the undertaking, signed by the senior executive referred to in paragraph (c), to provide to the Committee with due diligence documents, detailed information in response to requests and inquiries concerning the end-users or end-use of all products exported, transferred or received under a transfer licence from another Member [S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
-
-State; and
-
-*8*
+(e) a written commitment of the undertaking, signed by the senior executive referred to in paragraph (c), to provide to the Committee with due diligence documents, detailed information in response to requests and inquiries concerning the end-users or end-use of all products exported, transferred or received under a transfer licence from another Member State; and
 
 (f) a description, countersigned by the senior executive referred to paragraph (c), of the internal compliance programme or transfer and export management system implemented in the undertaking, which description shall provide details of the organisational, human and technical resources allocated to the management of transfers and exports, the chain of responsibility within the undertaking, internal audit procedures, awareness-raising and staff training, physical and technical security arrangements, record-keeping and traceability of transfers and exports.
 
@@ -322,11 +290,9 @@ If the Committee finds that the holder of a certificate who is established in Ma
 
 The Committee shall publish and update on a regular basis the list of certified recipients and inform the Commission, the European Parliament and the other Member States.
 
-*9*
+## 22. Export limitations.
 
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32 22. Recipients of defence-related products, when applying for an export licence, shall declare to the Committee, in cases where such products received under a transfer licence from another Member State have export limitations attached to them, that they have complied with the terms of those limitations, including, as the case may be, by having obtained the required consent from the originating Member State.
-
-*Export limitations.*
+Recipients of defence-related products, when applying for an export licence, shall declare to the Committee, in cases where such products received under a transfer licence from another Member State have export limitations attached to them, that they have complied with the terms of those limitations, including, as the case may be, by having obtained the required consent from the originating Member State.
 
 ## 23. Customs procedures.
 
@@ -357,10 +323,6 @@ Provided that the Committee may lift the measure when it considers that it is no
 (a) a Chairman appointed by the Minister responsible for trade with the concurrence of the Minister responsible for defence;
 
 (b) an officer serving in the Office of the Attorney General nominated by the Minister responsible for Justice;
-
-*10*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
 
 (c) an officer serving in the Police Department nominated by the Minister responsible for home affairs;
 
@@ -394,11 +356,7 @@ Provided further that the number of the other public officers so appointed shall
 
 (e) to determine exemptions from the obligation of having prior authorization through transfer licence;
 
-(f) to oblige suppliers of defence-related products to TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
-
-inform recipients of the terms and conditions of the transfer licence;
-
-*11*
+(f) to oblige suppliers of defence-related products to inform recipients of the terms and conditions of the transfer licence;
 
 (g) to withdraw, suspend or limit the use of transfer licences as may be necessary;
 
@@ -429,10 +387,6 @@ Any person guilty of an offence under these regulations shall be liable, on conv
 Provided that when the fine is so calculated, it may not exceed five times the profit made by the offender;
 
 (c) forfeiture of any goods or things to which the offence relates.
-
-*12*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
 
 SCHEDULE Substituted by:
 
@@ -480,10 +434,6 @@ c. Weapons using non-centre fire cased ammunition and which are not of the fully
 
 d. "Deactivated firearms".
 
-*13*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
-
 **Technical Note**
 
 A "deactivated firearm’" is a firearm that has been made incapable of firing any projectile by processes defined by the national authority of the EU Member State or the Wassenaar Arrangement Participating State. These processes irreversibly modify the essential elements of the firearm. According to national laws and regulations, deactivation of the firearm may be attested by a certificate delivered by a competent authority and may be marked on the firearm by a stamp on an essential part.
@@ -515,10 +465,6 @@ b. Semi-automatic or pump-action type weapons;
 Note ML1.b.2. does not apply to weapons specially designed to discharge an inert projectile by compressed air or CO2.
 
 Note ML1.b. does not apply to the following: a. Smooth-bore weapons manufactured earlier than 1938;
-
-*14*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
 
 b. Reproductions of smooth-bore weapons, the originals of which were manufactured earlier than 1890;
 
@@ -562,10 +508,6 @@ ML2 Smooth-bore weapons with a calibre of 20 mm or more, other weapons or armame
 
 a. Guns, howitzers, cannon, mortars, anti-tank weapons, projectile launchers, military flame throwers, rifles, recoilless rifles and smooth-bore weapons;
 
-*15*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
-
 Note 1 ML2.a. includes injectors, metering devices, storage tanks and other specially designed components for use with liquid propelling charges for any of the equipment specified by ML2.a.
 
 Note 2 ML2.a. does not apply to weapons as follows:
@@ -605,10 +547,6 @@ b. Projectors, specially designed or modified for military use, as follows:
 Note ML2.b. does not apply to signal pistols. c. Accessories specially designed for the weapons specified in ML2.a., as follows:
 
 \1. Weapons sights and weapon sight mounts, specially designed for military use;
-
-*16*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
 
 \2. Signature reduction devices;
 
@@ -650,10 +588,6 @@ b. Bird scaring; or
 
 c. Lighting of gas flares at oil wells. ML4 Bombs, torpedoes, rockets, missiles, other explosive devices and charges and related equipment and accessories, as follows, and specially designed components therefor:
 
-*17*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
-
 N.B. 1: For guidance and navigation equipment, see ML11.
 
 N.B. 2: For Aircraft Missile Protection Systems (AMPS), see ML4.c.
@@ -690,10 +624,6 @@ Note 2 ML4.b. does not apply to hand-held devices, limited by design solely to t
 
 c. Aircraft Missile Protection Systems (AMPS).
 
-*18*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
-
 Note ML4.c. does not apply to AMPS having all of the following:
 
 a. Any of the following missile warning sensors:
@@ -708,35 +638,21 @@ d. Installed on "civil aircraft" and having all of the following:
 
 \1. The AMPS is only operable in a specific "civil aircraft" in which the specific AMPS is installed and for which any of the following has been issued:
 
-a. A civil Type Certificate issued by civil aviation authorities of one or more EU Member States or Wassenaar
+a. A civil Type Certificate issued by civil aviation authorities of one or more EU Member States or Wassenaar Arrangement Participating States;
 
-Arrangement Participating States;  
-or  
-b.  An  equivalent  
-document recognised by the  
-International  Civil  Aviation  
-Organisation (ICAO);  
-\2.  The  AMPS  employs  
-protection to prevent unauthorised access  
-to "software"; and  
-\3.  The AMPS incorporates an  
-active mechanism that forces the system  
-not to function when it is removed from  
-the "civil aircraft" in which it was  
-installed.  
-ML5  Fire control, surveillance and warning  
-equipment, and related systems, test and alignment  
-and countermeasure equipment, as follows,  
-specially designed for military use, and specially  
-designed components and accessories therefor:  
-a.  Weapon sights, bombing computers, gun  
-laying equipment and weapon control systems;  
-b.  Other fire control, surveillance and  
-warning equipment, and related systems, as follows:
+**or**
 
-*19*
+b. An equivalent document recognised by the International Civil Aviation Organisation (ICAO);
 
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
+\2. The AMPS employs protection to prevent unauthorised access to "software"; and
+
+\3. The AMPS incorporates an active mechanism that forces the system not to function when it is removed from the "civil aircraft" in which it was installed.
+
+ML5 Fire control, surveillance and warning equipment, and related systems, test and alignment and countermeasure equipment, as follows, specially designed for military use, and specially designed components and accessories therefor:
+
+a. Weapon sights, bombing computers, gun laying equipment and weapon control systems;
+
+b. Other fire control, surveillance and warning equipment, and related systems, as follows:
 
 \1. Target acquisition, designation, range-finding, surveillance or tracking systems;
 
@@ -778,10 +694,6 @@ c. Special reinforcements or mountings for weapons;
 
 d. Black-out lighting.
 
-*20*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
-
 b. Other ground vehicles and components, as follows:
 
 \1. Vehicles having all of the following:
@@ -808,13 +720,7 @@ Note 2 ML6. does not apply to vehicles that meet all of the following:
 
 a. Were manufactured before 1946; b. Do not have items specified in the Eu Common Military List and manufactured after 1945, except for reproductions of original components or accessories for the vehicle; and c. Do not incorporate weapons specified in ML1., ML2. or ML4. unless they are inoperable and incapable of discharging a projectile.
 
-ML7 Chemical agents, "biological agents", "riot control agents", radioactive materials, related equipment, components and materials, as follows:
-
-*21*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
-
-a. "Biological agents" or radioactive materials selected or modified to increase their effectiveness in producing casualties in humans or animals, degrading equipment or damaging crops or the environment;
+ML7 Chemical agents, "biological agents", "riot control agents", radioactive materials, related equipment, components and materials, as follows: a. "Biological agents" or radioactive materials selected or modified to increase their effectiveness in producing casualties in humans or animals, degrading equipment or damaging crops or the environment;
 
 b. Chemical warfare (CW) agents, including:
 
@@ -843,10 +749,6 @@ a. Sulphur mustards, such as:
 Chloroethylchloromethylsulphide (CAS 2625-76-5);
 
 \2. Bis(2-chloroethyl) sulphide (CAS 505-60-2);
-
-*22*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
 
 \3. Bis(2-
 
@@ -886,10 +788,6 @@ chlorovinyldichloroarsine (CAS 541-25-3);
 
 a. Butyl 2-chloro-4-fluorophenoxyacetate (LNF);
 
-*23*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
-
 b. 2,4,5-
 
 trichlorophenoxyacetic acid (CAS 93-76- 5) mixed with 2,4-dichlorophenoxyacetic acid (CAS 94-75-7) (Agent Orange (CAS 39277-47-9));
@@ -928,10 +826,6 @@ dihydrophenarsazine, (Phenarsazine chloride), (Adamsite), (DM) (CAS 578-94-9);
 
 Note 1 ML7.d. does not apply to "riot control agents" individually packaged for personal self-defence purposes.
 
-*24*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
-
 Note 2 ML7.d. does not apply to active constituent chemicals, and combinations thereof, identified and packaged for food production or medical purposes.
 
 e. Equipment specially designed or modified for military use, designed or modified for the dissemination of any of the following, and specially designed components therefor:
@@ -961,10 +855,6 @@ g. Equipment specially designed or modified for military use designed or modifie
 Note ML7.g. does not apply to personal radiation monitoring dosimeters.
 
 N.B. See also entry 1A004 on the EU Dual-Use List.
-
-*25*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
 
 h. "Biopolymers" specially designed or processed for the detection or identification of CW agents specified by ML7.b., and the cultures of specific cells used to produce them;
 
@@ -1002,10 +892,6 @@ b. Viruses;
 
 c. Cultures of cells.
 
-*26*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
-
 Note 1 ML7.b. and ML7.d. do not apply to the following:
 
 a. Cyanogen chloride (CAS 506-77- 4);
@@ -1037,10 +923,6 @@ N.B. 2: For charges and devices, see ML4 and entry 1A008 in the EU Dual-Use List
 Note Any substance listed in the ML8 sub-items is subject to this list, even when utilised in an application other than that indicated. (e.g. TAGN is predominantly used as an explosive but can also be used either as a fuel or an oxidiser).
 
 Technical Notes
-
-*27*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
 
 \1. For the purposes of ML8., excluding ML8.c.11. or ML8.c.12., "mixture" refers to a composition of two or more substances with at least one substance being listed in the ML8 sub-items.
 
@@ -1076,11 +958,9 @@ a. DAAOF (DAAF, DAAFox, or diaminoazoxyfurazan);
 
 b. DAAzF
 
-(diaminoazofurazan) (CAS 78644-90-3); [S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
+(diaminoazofurazan) (CAS 78644-90-3);
 
 \13. HMX and derivatives (see also ML8.g.5. for its "precursors"), as follows:
-
-*28*
 
 a. HMX
 
@@ -1121,10 +1001,6 @@ e. PTIA (1-picryl-2,4,5-trinitroimidazole);
 \21. RDX and derivatives, as follows: a. RDX
 
 (cyclotrimethylenetrinitramine, cyclonite, T4, hexahydro-1,3,5-trinitro-1,3,5-triazine, 1,3,5-trinitro-1,3,5-triaza-cyclohexane, hexogen or hexogene) (CAS 121-82-4);
-
-*29*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
 
 b. Keto-RDX (K-6 or 2,4,6-trinitro-2,4,6-triazacyclohexanone) (CAS 115029-35-1);
 
@@ -1181,10 +1057,6 @@ b. ADHTDN (4-amino-3,5-dihydrazino-1,2,4-triazole dinitramide) (CAS 1614-08-0);
 c. ADNT (1-amino-3,5-dinitro-1,2,4-triazole);
 
 d. BDNTA ([bis-dinitrotriazole]amine);
-
-*30*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
 
 e. DBT (3,3′-dinitro-5,5-bi- 1,2,4-triazole) (CAS 30003-46-4);
 
@@ -1252,11 +1124,7 @@ EDNA (Ethylenedinitramine) (CAS 505-71-5);
 
 TKX-50 (Dihydroxylammonium 5,5'-bistetrazole-1,1'-diolate);
 
-Note ML8.a. includes "explosive co-crystals". TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
-
-Technical Note
-
-*31*
+Note ML8.a. includes "explosive co-crystals". Technical Note
 
 For the purposes of ML8.a. Note, an "explosive co-crystal" is a solid material consisting of an ordered three dimensional arrangement of two or more explosive molecules, where at least one is specified in ML8.a.
 
@@ -1292,10 +1160,6 @@ Note 2 "Aircraft" fuels specified by ML8.c.1. are finished products, not their c
 
 a. Carboranes;
 
-*32*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
-
 b. Borane homologues, as follows:
 
 \1. Decaborane (14) (CAS 17702-41-9);
@@ -1330,10 +1194,6 @@ b. "Mixtures" containing any of the following:
 
 **or**
 
-*33*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
-
 \2. Boron (CAS 7440- 42-8) or boron carbide (CAS 12069-32-8) fuels of 85 % purity or higher and particle sizes of less than 60 μm;
 
 Note 1 ML8.c.5. applies to "explosives" and fuels, whether or not the metals or alloys are encapsulated in aluminium, magnesium, zirconium, or beryllium.
@@ -1355,10 +1215,6 @@ Note 3 ML8.c.5.b.2. does not apply to boron and boron carbide enriched with boro
 a. Mixed fuels, that incorporate both solid and liquid fuels (e.g. boron slurry), having a mass-based energy density of 40 MJ/kg or greater; b. Other high energy density fuels and fuel additives (e.g. cubane, ionic solutions, JP-7, JP-10), having a volume-based energy density of 37,5 GJ per cubic metre or greater, measured at 293 K (20 °C) and one atmosphere (101,325 kPa) pressure;
 
 Note ML8.c.10.b. does not apply to fossil refined fuels or biofuels, or fuels for engines certified for use in civil aviation.
-
-*34*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
 
 \11. "Pyrotechnic" and pyrophoric materials, as follows:
 
@@ -1403,10 +1259,6 @@ c. Nitrogen;
 Note 1 ML8.d.3. does not apply to chlorine trifluoride (CAS 7790-91-2).
 
 Note 2 ML8.d.3 does not apply to nitrogen trifluoride (CAS 7783-54-2) in its gaseous state.
-
-*35*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
 
 Note 3 ML8.d.3. does not apply to iodine pentafluoride (CAS 7783-66-6).
 
@@ -1454,10 +1306,6 @@ e. Difluoroamino groups;
 
 \7. FAMAO (3-difluoroaminomethyl- 3-azidomethyl oxetane) and its polymers;
 
-*36*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
-
 \8. FEFO (bis-(2-fluoro-2,2-dinitroethyl) formal) (CAS 17003-79-1);
 
 \9. FPF-1 (poly-2,2,3,3,4,4-hexafluoropentane-1,5-diol formal) (CAS 376- 90-9);
@@ -1491,10 +1339,6 @@ f. "Additives" as follows:
 Technical Note
 
 For the purposes of ML8.f., "additives" are substances used in explosive formulations to improve their properties.
-
-*37*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
 
 \1. Basic copper salicylate (CAS 62320-94-9);
 
@@ -1538,11 +1382,9 @@ o. Acetyl ferrocene (CAS 1271-55-2)/1,1'-diacetyl ferrocene (CAS 1273-94-5);
 
 \9. Lead salicylate (CAS 15748-73- 9);
 
-\10. Lead stannate (CAS 12036-31-6); [S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
+\10. Lead stannate (CAS 12036-31-6);
 
 \11. MAPO (tris-1-(2-methyl)aziridinyl phosphine oxide) (CAS 57- 39-6); BOBBA 8 (bis(2-methyl aziridinyl) 2-(2-hydroxypropanoxy) propylamino phosphine oxide); and other MAPO derivatives;
-
-*38*
 
 \12. Methyl BAPO (bis(2-methyl aziridinyl) methylamino phosphine oxide) (CAS 85068-72-0);
 
@@ -1577,10 +1419,6 @@ methylaziridine)(HX-752) (CAS 7652-64-4); b. 2,4,6-tris(2-ethyl-1-aziridinyl)- 1
 c. 1,1'-trimethyladipoyl-bis(2-
 
 ethylaziridine) (HX-877)(CAS 71463-62-2).
-
-*39*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
 
 \18. Propyleneimine (2-methylaziridine) (CAS 75-55-8);
 
@@ -1621,10 +1459,6 @@ N.B. In ML8.g. the references are to specified ‘Energetic Materials’ manufac
 \8. 1,2,4-trihydroxybutane (1,2,4-butanetriol) (CAS 3068-00-6) (see also ML8.e.5.);
 
 \9. DADN (1,5-diacetyl– 3,7-dinitro- 1, 3, 5, 7-tetraaza-cyclooctane) (see also ML8.a.13.).
-
-*40*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
 
 h. "Reactive material" powders and shapes, as follows:
 
@@ -1678,10 +1512,6 @@ g. Tetranitronaphthalene;
 
 h. Trinitroanisol;
 
-*41*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
-
 i. Trinitronaphthalene;
 
 j. Trinitroxylene;
@@ -1720,10 +1550,6 @@ aa. 2-Nitrodiphenylamine (2- NDPA)(CAS 119-75-5);
 
 bb. 4-Nitrodiphenylamine (4- NDPA)(CAS 836-30-6);
 
-*42*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
-
 cc. 2,2-dinitropropanol (CAS 918-52- 5);
 
 dd. Nitroguanidine (CAS 556-88-7) (see 1C011.d. on the EU Dual-Use List).
@@ -1758,10 +1584,6 @@ Technical Note
 
 For the purposes of ML9.a.2.a.,"mountings" refers to weapon mounts or structural strengthening for the purpose of installing weapons.
 
-*43*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
-
 b. Fire control systems specified in ML5;
 
 c. Having all of the following:
@@ -1793,10 +1615,6 @@ For the purposes of ML9.a.2., ‘CBRN protection’ is a self-contained interior
 b. Engines and propulsion systems, as follows, specially designed for military use and components therefor specially designed for military use:
 
 \1. Diesel engines specially designed for submarines;
-
-*44*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
 
 \2. Electric motors specially designed for submarines and having all of the following: a. Power output of more than 0,75 MW (1 000 hp);
 
@@ -1832,10 +1650,6 @@ e. Not used since 2003;
 
 f. Hull penetrators and connectors, specially designed for military use, that enable interaction with equipment external to a vessel, and components therefor specially designed for military use;
 
-*45*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
-
 Note 1 ML9.f. includes connectors for vessels which are of the single-conductor, multi-conductor, coaxial or waveguide type, and hull penetrators for vessels, both of which are capable of remaining impervious to leakage from without and of retaining required characteristics at marine depths exceeding 100 m; and fibre-optic connectors and optical hull penetrators, specially designed for ‘laser’ beam transmission, regardless of depth.
 
 Note 2 ML9.f. does not apply to ordinary propulsive shaft and hydrodynamic control-rod hull penetrators.
@@ -1861,10 +1675,6 @@ N.B. For guidance and navigation equipment, see ML11.
 a. Manned "aircraft" and "lighter-than-air vehicles", and specially designed components therefor; b. Not used since 2011;
 
 c. Unmanned "aircraft" and "lighter-than-air vehicles", and related equipment, as follows, and specially designed components therefor:
-
-*46*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
 
 \1. "UAVs", Remotely Piloted Air Vehicles (RPVs), autonomous programmable vehicles and unmanned ‘lighter-than-air vehicles’;
 
@@ -1906,10 +1716,6 @@ h. Parachutes, paragliders and related equipment, as follows, and specially desi
 
 \2. Paragliders;
 
-*47*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
-
 \3. Equipment specially designed for high altitude parachutists (e.g. suits, special helmets, breathing systems, navigation equipment);
 
 i. Controlled opening equipment or automatic piloting systems, designed for parachuted loads.
@@ -1938,10 +1744,6 @@ b. Reciprocating engines or specially designed components therefor, except those
 
 Note 3 For the purposes of ML10.a., ML10.d. and ML10.j., specially designed components and related equipment for non- military ‘aircraft’, aero-engines or "sub-orbital craft" modified for military use applies only to those military components and to military related equipment required for the modification to military use.
 
-*48*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
-
 Note 4 For the purposes of ML10.a. and ML10.j., military use includes: combat, military reconnaissance, assault, military training, logistics support, and transporting and airdropping troops or military equipment.
 
 Note 5 ML10.a. does not apply to "aircraft" or "lighter-than-air-vehicles" that meet all of the following:
@@ -1964,10 +1766,6 @@ b. Frequency agile tubes;
 
 c. Electronic systems or equipment, designed either for surveillance and monitoring of the electro-magnetic spectrum for military intelligence or security purposes or for counteracting such surveillance and monitoring;
 
-*49*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
-
 d. Underwater countermeasures, including acoustic and magnetic jamming and decoy, equipment designed to introduce extraneous or erroneous signals into sonar receivers;
 
 e. Data processing security equipment, data security equipment and transmission and signalling line security equipment, using cryptographic functionality; f. Identification, authentification and keyloader equipment and key management, manufacturing and distribution equipment;
@@ -1985,10 +1783,6 @@ j. "Automated Command and Control Systems".
 For the purposes of ML11.a. Note j., "Automated Command and Control Systems" are electronic systems, through which information essential to the effective operation of the grouping, major formation, tactical formation, unit, ship, subunit or weapons under command is entered, processed and transmitted. This is achieved by the use of computer and other specialised hardware designed to support the functions of a military command and control organisation. The main functions of an automated command and control system are: the efficient automated collection, accumulation, storage and processing of information; the display of the situation and the circumstances affecting the preparation and conduct of combat operations; operational and tactical calculations for the allocation of resources among force groupings or elements of the operational order of battle or battle deployment according to the mission or stage of the operation; the preparation of data for appreciation of the situation and decision-making at any point during operation or battle; computer simulation of operations.
 
 N.B. For "software" associated with military "Software" Defined Radio (SDR), see ML21.
-
-*50*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
 
 b. Jamming equipment designed or modified to hinder the reception, operation or effectiveness of positioning, navigation or timing services provided by ‘satellite navigation systems’, and specially designed components therefor;
 
@@ -2015,10 +1809,6 @@ Note 2 ML12 applies to weapon systems using any of the following methods of prop
 a. Electromagnetic;
 
 b. Electrothermal;
-
-*51*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
 
 c. Plasma;
 
@@ -2056,10 +1846,6 @@ Note For the purposes of ML13.d.1., military standards or specifications include
 
 \2. Hard body armour plates providing ballistic protection equal to or greater than level III (NIJ 0101.06, July 2008) or "equivalent standards".
 
-*52*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
-
 Note 1 ML13.b. includes materials specially designed to form explosive reactive armour or to construct military shelters.
 
 Note 2 ML13.c. does not apply to helmets that meet all of the following:
@@ -2083,10 +1869,6 @@ Note 1 ML14 includes image generating and interactive environment systems for si
 Note 2 ML14 does not apply to equipment specially designed for training in the use of hunting or sporting weapons.
 
 Note 3 "Specialised equipment for military training" includes military types of attack trainers, operational flight trainers, radar target trainers, radar target generators, gunnery training devices, anti-submarine warfare trainers, flight simulators (including human-rated centrifuges for pilot/astronaut training), radar trainers, instrument flight trainers, navigation trainers, missile launch trainers, target equipment, drone "aircraft", armament trainers, pilotless "aircraft" trainers, mobile training units and training equipment for ground military operations.
-
-*53*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
 
 ML15 Imaging or countermeasure equipment, as follows, specially designed for military use, and specially designed components and accessories therefor:
 
@@ -2116,11 +1898,7 @@ a. Diving and underwater swimming apparatus, specially designed or modified for 
 
 \2. Underwater swimming apparatus specially designed for use with the diving apparatus specified in ML17.a.1.;
 
-N.B. See also 8A002.q. on the EU Dual-Use List. [S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
-
-b. Construction equipment specially designed for military use;
-
-*54*
+N.B. See also 8A002.q. on the EU Dual-Use List. b. Construction equipment specially designed for military use;
 
 c. Fittings, coatings and treatments, for signature suppression, specially designed for military use;
 
@@ -2152,10 +1930,6 @@ j. Mobile repair shops specially designed or "modified" to service military equi
 
 k. Field generators specially designed or "modified" for military use;
 
-*55*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
-
 l. ISO intermodal containers or demountable vehicle bodies (i.e. swap bodies), specially designed or "modified" for military use;
 
 m. Ferries, not specified elsewhere in the EU Common Military List, bridges and pontoons, specially designed for military use;
@@ -2184,11 +1958,7 @@ ML19 Directed Energy Weapon (DEW) systems, related or countermeasure equipment a
 
 a. "Laser" ‘weapon systems’ not specified by ML19.f.;
 
-b. Particle beam ‘weapon systems’; [S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
-
-c. High power Radio-Frequency (RF) ‘weapon systems’;
-
-*56*
+b. Particle beam ‘weapon systems’; c. High power Radio-Frequency (RF) ‘weapon systems’;
 
 d. Equipment specially designed for the detection or identification of, or defence against, systems specified by ML19.a. to ML19.c.;
 
@@ -2218,10 +1988,6 @@ g. Current injectors for negative hydrogen ion beams;
 
 h. "Space-qualified" accelerator components;
 
-*57*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
-
 i. Negative ion beam funnelling equipment;
 
 j. Equipment for controlling and slewing a high energy ion beam;
@@ -2250,10 +2016,6 @@ a. "Software" specially designed or modified for any of the following:
 
 \3. "Development", "production", operation or maintenance of "software" specified in the EU Common Military List.
 
-*58*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
-
 b. Specific "software", other than that specified by ML21.a., as follows:
 
 \1. "Software" specially designed for military use and specially designed for modelling, simulating or evaluating military weapon systems;
@@ -2279,10 +2041,6 @@ ML22 "Technology" as follows:
 a. "Technology", other than specified in ML22.b., which is "required" for the "development", "production", operation, installation, maintenance (checking), repair, overhaul or refurbishing of items specified by the EU Common Military List;
 
 b. "Technology" as follows:
-
-*59*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
 
 \1. "Technology" "required" for the design of, the assembly of components into, and the operation, maintenance and repair of complete production installations for items specified by the EU Common Military List, even if the components of such production installations are not specified;
 
@@ -2310,10 +2068,6 @@ c. "Technology" for magnetic induction for continuous propulsion of civil transp
 
 .
 
-*60*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
-
 **DEFINITIONS OF TERMS USED IN THIS LIST**
 
 The following are definitions of the terms used in this List, in alphabetical order.
@@ -2340,10 +2094,6 @@ ML7 "Biological agents"
 
 Pathogens or toxins, selected or modified (such as altering purity, shelf life, virulence, dissemination characteristics, or resistance to UV radiation) to produce casualties in humans or animals, degrade equipment or damage crops or the environment.
 
-*61*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
-
 ML4, 10 "Civil aircraft"
 
 Those "aircraft" listed by designation in published airworthiness certification lists by civil aviation authorities of one or more EU Member States or Wassenaar Arrangement Participating States to fly commercial civil internal and external routes or for legitimate civil, private or business use.
@@ -2367,10 +2117,6 @@ d. Provide output of data.
 Technical Note
 
 Modifications of a stored sequence of instructions include replacement of fixed storage devices, but not a physical change in wiring or interconnections.
-
-*62*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
 
 ML17 "End-effectors"
 
@@ -2403,10 +2149,6 @@ f. Aromatic polyamide pulp.
 ML15 "First generation image intensifier tubes"
 
 Electrostatically focused tubes, employing input and output fibre optic or glass face plates, multi-alkali photocathodes (S-20 or S-25), but not microchannel plate amplifiers.
-
-*63*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
 
 ML17 "Fuel cell"
 
@@ -2446,10 +2188,6 @@ ML8 "Precursors"
 
 Speciality chemicals used in the manufacture of explosives.
 
-*64*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
-
 ML 21,22 "Production"
 
 Means all production stages, such as: product engineering, manufacture, integration, assembly (mounting), inspection, testing, quality assurance. ML8 "Propellants"
@@ -2476,10 +2214,6 @@ a. Is multifunctional;
 
 b. Is capable of positioning or orienting material, parts, tools or special devices through variable movements in three-dimensional space;
 
-*65*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
-
 c. Incorporates three or more closed or open loop servo-devices which may include stepping motors; and
 
 d. Has "user-accessible programmability" by means of the teach/ playback method or by means of an electronic computer which may be a programmable logic controller, i.e. without mechanical intervention.
@@ -2499,10 +2233,6 @@ Note The above definition does not include the following devices:
 \3. Mechanically controlled variable sequence manipulation mechanisms which are automated moving devices, operating according to mechanically fixed programmed motions. The programme is mechanically limited by fixed, but adjustable, stops, such as pins or cams. The sequence of motions and the selection of paths or angles are variable within the fixed programme pattern. Variations or modifications of the programme pattern (e.g. changes of pins or exchanges of cams) in one or more motion axes are accomplished only through mechanical operations;
 
 \4. Non-servo-controlled variable sequence manipulation mechanisms which are automated moving devices, operating according to mechanically fixed programmed motions. The programme is variable but the sequence proceeds only by the binary signal from mechanically fixed electrical binary devices or adjustable stops;
-
-*66*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
 
 \5. Stacker cranes defined as Cartesian coordinate manipulator systems manufactured as an integral part of a vertical array of storage bins and designed to access the contents of those bins for storage or retrieval.
 
@@ -2536,10 +2266,6 @@ Technical Note 4
 
 A "spacecraft" other than a "satellite" or "space vehicle", designed not to return to Earth.
 
-*67*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
-
 ML4, 11, 21 "Software"
 
 A collection of one or more ‘programs’ or ‘microprograms’ fixed in any tangible medium of expression.
@@ -2570,10 +2296,6 @@ b. Only perform non-orbital trajectories; and
 
 c. Land back on Earth with the people or cargo intact.
 
-*68*
-
-[S.L.117.32 TRANSFERS OF DEFENCE-RELATED PRODUCTS
-
 ML20 "Superconductive"
 
 Refers to materials, (i.e. metals, alloys or compounds) which can lose all electrical resistance (i.e. which can attain infinite electrical conductivity and carry very large electrical currents without Joule heating).
@@ -2597,10 +2319,6 @@ Technical Notes
 \2. "Technical assistance" may take forms such as instruction, skills, training, working knowledge, consulting services. "Technical assistance" may involve transfer of "technical data".
 
 \3. "Use": operation, installation (installing on-site installation), maintenance (checking), repair, overhaul and refurbishing.
-
-*69*
-
-TRANSFERS OF DEFENCE-RELATED PRODUCTS [S.L.117.32
 
 ML10 "Unmanned aerial vehicle" ("UAV")
 

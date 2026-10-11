@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in Lace Studies under the auspices of the Institute for Islands and Small States (S.L. 327.287)
 
-*1*
-
-THE INSTITUTE FOR ISLANDS AND SMALL STATES [S.L.327.287
-
 **SUBSIDIARY LEGISLATION 327.287**
 
 BYE-LAWS FOR THE DIPLOMA IN LACE STUDIES UNDER THE AUSPICES OF THE INSTITUTE FOR
@@ -68,10 +64,6 @@ The course shall extend over a period of two years of part-time study.
 (b) a study-unit comprising an individual practical project, to which 12 credits shall be assigned.
 
 (2) Students who obtain the 24 credits assigned to the study-units and the 6 credits assigned to a practical project and opt not to proceed to the second year of the Diploma programme shall be entitled to the Certificate in Lace Studies.
-
-*2*
-
-[S.L.327.287 THE INSTITUTE FOR ISLANDS AND SMALL STATES
 
 ## 7. Classification of the Award.
 

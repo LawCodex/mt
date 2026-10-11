@@ -1,6 +1,6 @@
 ---
 title: "Schengen Information System (SIS) Regulations"
-identifier: "S.L. 164.4"
+identifier: "S.L. 164.04"
 eli: "https://legislation.mt/eli/sl/164.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/164.4/20230804/eng"
 retrieved: 2026-10-12
 ---
 
-# Schengen Information System (SIS) Regulations (S.L. 164.4)
+# Schengen Information System (SIS) Regulations (S.L. 164.04)
 
 SUBSIDIARY LEGISLATION 164.04
 

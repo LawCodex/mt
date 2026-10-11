@@ -1,6 +1,6 @@
 ---
 title: "Certain Articles declared to be Essential Commodities Order"
-identifier: "S.L. 98.2"
+identifier: "S.L. 98.02"
 eli: "https://legislation.mt/eli/sl/98.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/98.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Certain Articles declared to be Essential Commodities Order (S.L. 98.2)
-
-CERTAIN ARTICLES DECLARED TO BE
-
-*1*
-
-ESSENTIAL COMMODITIES [ S.L.98.02
+# Certain Articles declared to be Essential Commodities Order (S.L. 98.02)
 
 **SUBSIDIARY LEGISLATION 98.02**
 

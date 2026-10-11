@@ -1,6 +1,6 @@
 ---
 title: "Motor Vehicles Insurance (Third Party Risks) (Insurance Exempt Vehicles) Regulations"
-identifier: "S.L. 104.8"
+identifier: "S.L. 104.08"
 eli: "https://legislation.mt/eli/sl/104.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/104.8/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Motor Vehicles Insurance (Third Party Risks) (Insurance Exempt Vehicles) Regulations (S.L. 104.8)
-
-*1*
-
-(INSURANCE EXEMPT VEHICLES) [S.L.104.08
+# Motor Vehicles Insurance (Third Party Risks) (Insurance Exempt Vehicles) Regulations (S.L. 104.08)
 
 **SUBSIDIARY LEGISLATION 104.08**
 
@@ -62,10 +58,6 @@ The vehicles listed in the Schedule shall be exempt from the requirements of an 
 (1) Pursuant to the proviso of article 3(4)(b) of the Ordinance, compensation for injuries or damages sustained by the use of vehicles mentioned in the Schedule shall be awarded by the Protection and Compensation Fund established by article 9C of the Ordinance.
 
 (2) In the event that the Protection and Compensation Fund effects payment for injuries or damages sustained by the use of vehicles referred to in article 3(4) of the Ordinance, the Fund shall be subrogated in the rights of the person receiving such payment, and, without prejudice to the generality of this provision, shall have a claim against the Guarantee Fund provided for in Article 1(4) of Directive 84/5/EEC in the designated State where the vehicle is normally based.
-
-*2*
-
-[S.L.104.08 (INSURANCE EXEMPT VEHICLES)
 
 (3) In the event that an injured party files a claim directly to the Protection and Compensation Fund in relation to injuries or damages sustained by the use of vehicles referred to in the Schedule, payment shall only be effected by the Protection and Compensation Fund if the requirements set out in regulation 25 of the Protection and Compensation Fund Regulations are satisfied.
 

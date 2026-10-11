@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Degrees of Bachelor of Communications (Honours) - B.Comms (Hons) - and Bachelor of Communications - B. Comms - under the auspices of the Faculty of Media and Knowledge Sciences (S.L. 327.239)
 
-*1*
-
-OURS) - B. COMMS (HONS) [S.L.327.239 SUBSIDIARY LEGISLATION 327.239
+**SUBSIDIARY LEGISLATION 327.239**
 
 **BYE-LAWS FOR THE DEGREE OF BACHELOR OF**
 
@@ -73,10 +71,6 @@ To be registered as regular students in the Course, applicants shall, apart from
 *Renumbered by: L.N. 10 of 2026.*
 
 The Course shall extend over a period of three years of full-time study.
-
-*2*
-
-[S.L.327.239 OURS) - B. COMMS (HONS)
 
 ## 6. Programme of Study.
 

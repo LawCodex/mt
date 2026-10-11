@@ -61,10 +61,6 @@ These regulations shall apply to any international carriage where:
 
 \*see regulation 1(2) as originally promulgated.
 
-*2*
-
-[S.L.234.52 (CARRIAGE OF PASSENGERS BY SEA)
-
 (a) the ship is registered in Malta, or
 
 (b) the contract of carriage has been made in Malta, or (c) the place of departure or destination is in Malta.

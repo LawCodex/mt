@@ -1,6 +1,6 @@
 ---
 title: "Continuation of Tenancies (Means Testing in respect of Tenancies originating under the Housing (Decontrol) Ordinance, Regulations"
-identifier: "S.L. 158.2"
+identifier: "S.L. 158.02"
 eli: "https://legislation.mt/eli/sl/158.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/158.2/20180813/eng"
 retrieved: 2026-10-12
 ---
 
-# Continuation of Tenancies (Means Testing in respect of Tenancies originating under the Housing (Decontrol) Ordinance, Regulations (S.L. 158.2)
+# Continuation of Tenancies (Means Testing in respect of Tenancies originating under the Housing (Decontrol) Ordinance, Regulations (S.L. 158.02)
 
 **SUBSIDIARY LEGISLATION 158.02**
 

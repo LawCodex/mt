@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister for Finance for the issue of Euro 734,400 7% Malta Government Stock 2026 (I) (S.L. 161.141)
 
-*1*
-
-7% MALTA GOVERNMENT STOCK 2026 (I) [S.L.161.141
-
 **SUBSIDIARY LEGISLATION 161.141**
 
 DIRECTIVE BY THE MINISTER FOR FINANCE FOR THE ISSUE OF EURO 734,400 7% MALTA
@@ -47,11 +43,7 @@ The Stock which is negotiable and free of duty on documents shall be issued at t
 
 (2) Payment of interest will be made by warrant, which is sent by post at the stockholder’s risk to the stockholder himself or to any branch of any local bank, person or body of persons to whom the stockholder has by a request in writing authorized the Accountant General to issue such warrant. No warrant shall be paid until the relative receipt has been duly signed and such receipt shall be a full discharge to the Accountant General and the Government for such payment.
 
-(3) In cases where Stock is registered in the names of two or more persons as joint stockholders, the Accountant General may make payment in the manner above-mentioned to the person whose name first appears in the register. A receipt for the payment of interest given by one or two or more joint stockholders shall, unless notice in writing to the contrary has been received by the [S.L.161.141 7% MALTA GOVERNMENT STOCK 2026 (I)
-
-Accountant General from any other joint stockholder, be a full discharge to the Accountant General and the Government for the payment of such interest.
-
-*2*
+(3) In cases where Stock is registered in the names of two or more persons as joint stockholders, the Accountant General may make payment in the manner above-mentioned to the person whose name first appears in the register. A receipt for the payment of interest given by one or two or more joint stockholders shall, unless notice in writing to the contrary has been received by the Accountant General from any other joint stockholder, be a full discharge to the Accountant General and the Government for the payment of such interest.
 
 ## 5. Trading on the Malta Stock Exchange. Cap. 345.
 

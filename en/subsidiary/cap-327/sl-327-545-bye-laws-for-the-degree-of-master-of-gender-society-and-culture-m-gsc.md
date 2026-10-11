@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Gender, Society and Culture - M. GSC - under the auspices of the Faculty for Social Wellbeing (S.L. 327.545)
 
-CULTURE - M. GSC - UNDER THE AUSPICES
-
-*1*
-
-OF THE FACULTY FOR SOCIAL WELLBEING [S.L.327.545
-
 **SUBSIDIARY LEGISLATION 327.545**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -74,13 +68,7 @@ These bye-laws shall be applicable for courses commencing in October 2016 or lat
 
 (2) Applicants in possession of a Bachelor degree obtained with Third Class Honours or Category III may also be accepted, provided that such applicants are in possession of other qualifications or relevant experience, obtained following the first cycle degree.
 
-(3) The Faculty Admissions Committee may, after thorough examination of documents submitted in support of the qualifications presented, and following an interview, recommend the admission of CULTURE - M. GSC - UNDER THE AUSPICES
-
-*2*
-
-[S.L.327.545 OF THE FACULTY FOR SOCIAL WELLBEING
-
-applicants applying for admission in terms of the University’s Policy for the Recognition and Accreditation of Prior Learning (RPL) who are in possession of other academic or professional qualifications and documented experience if these are deemed to be comparable to the qualifications referred to in paragraph (1) of this bye-law. The admission of such applicants may be made subject to those conditions that may be imposed to address any lacunae in the applicants’ academic preparation.
+(3) The Faculty Admissions Committee may, after thorough examination of documents submitted in support of the qualifications presented, and following an interview, recommend the admission of applicants applying for admission in terms of the University’s Policy for the Recognition and Accreditation of Prior Learning (RPL) who are in possession of other academic or professional qualifications and documented experience if these are deemed to be comparable to the qualifications referred to in paragraph (1) of this bye-law. The admission of such applicants may be made subject to those conditions that may be imposed to address any lacunae in the applicants’ academic preparation.
 
 (3) All applicants shall be required to demonstrate that they have the necessary aptitude and disposition to follow the course with profit which shall be measured by means of a personal interview conducted by an interviewing board appointed for the purpose.
 
@@ -122,13 +110,9 @@ The programme of study shall comprise study-units to which a total of 90 ECTS cr
 
 Students who obtain at least 30 ECTS credits assigned to taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the course, shall be eligible for the award of the Postgraduate Certificate.
 
-CULTURE - M. GSC - UNDER THE AUSPICES
+## 8. Postgraduate Diploma. Re-numbered by: L.N. 381 of 2016; L.N. 218 of 2023.
 
-*3*
-
-OF THE FACULTY FOR SOCIAL WELLBEING [S.L.327.545 8. Students who obtain the 60 ECTS credits assigned to the taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the Postgraduate Diploma.
-
-*Postgraduate Diploma. Re-numbered by: L.N. 381 of 2016; L.N. 218 of 2023.*
+Students who obtain the 60 ECTS credits assigned to the taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the Postgraduate Diploma.
 
 ## 9. Publication of programme of study. Re-numbered by: L.N. 381 of 2016; L.N. 218 of 2023.
 
@@ -159,12 +143,6 @@ The programme of study shall be published after approval by Senate, normally not
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 
 (ii) the Board may not terminate studies prematurely according to (b) until it has first given the student a chance to be heard.
-
-CULTURE - M. GSC - UNDER THE AUSPICES
-
-*4*
-
-[S.L.327.545 OF THE FACULTY FOR SOCIAL WELLBEING
 
 ## 13. Classification of the Awards. Re-numbered by: L.N. 381 of 2016; L.N. 218 of 2023.
 

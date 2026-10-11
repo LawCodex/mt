@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with Canada Order (S.L. 123.17)
 
-*1*
-
-WITH CANADA [S.L.123.17
-
 SUBSIDIARY LEGISLATION 123.17
 
 DOUBLE TAXATION RELIEF ON TAXES ON
@@ -42,8 +38,6 @@ It is hereby declared -
 the income taxes imposed by the Government of Canada (hereinafter referred to as "Canadian tax");
 
 (b) that it is expedient that those arrangements should have effect.
-
-2 [S.L.123.17 WITH CANADA
 
 ## SCHEDULE — AGREEMENT — BETWEEN
 
@@ -85,8 +79,6 @@ the income tax, including prepayments of tax whether made by deduction at source
 
 (4) The Agreement shall apply also to any identical or substantially similar taxes and to taxes on capital which are imposed after the date of signature of the Agreement in addition to, or in place of, the existing taxes. The Contracting States shall notify each other of significant changes which have been made in their respective taxation laws.
 
-WITH CANADA [S.L.123.17 3
-
 **II. Definitions**
 
 **ARTICLE 3**
@@ -122,8 +114,6 @@ WITH CANADA [S.L.123.17 3
 (ii) in the case of Malta, any citizen of Malta as provided for in Chapter III of the Constitution of Malta and in the Maltese Citizenship Act, and any legal person, partnership and association deriving its status as such from the law in force in Malta.
 
 (2) As regards the application of the Agreement by a Contracting State any term not defined therein shall, unless the context otherwise requires, have the meaning which it has under the law of that State concerning the taxes to which the Agreement applies.
-
-4 [S.L.123.17 WITH CANADA
 
 **ARTICLE 4**
 
@@ -163,9 +153,7 @@ WITH CANADA [S.L.123.17 3
 
 (f) a mine, an oil or gas well, a quarry or any other place of extraction of natural resources.
 
-(3) A building site or construction or installation project, or an installation or drilling rig or ship used for the exploration or development of natural resources, or WITH CANADA [S.L.123.17 5
-
-supervisory activities connected therewith, constitutes a permanent establishment but only if such site, project or activity continues for a period or periods aggregating more than 183 days in any twelve month period, including the period of any supervisory activity connected therewith.
+(3) A building site or construction or installation project, or an installation or drilling rig or ship used for the exploration or development of natural resources, or supervisory activities connected therewith, constitutes a permanent establishment but only if such site, project or activity continues for a period or periods aggregating more than 183 days in any twelve month period, including the period of any supervisory activity connected therewith.
 
 (4) Notwithstanding the preceding provisions of this Article, the term "permanent establishment" shall be deemed not to include:
 
@@ -195,9 +183,7 @@ supervisory activities connected therewith, constitutes a permanent establishmen
 
 (1) Income derived by a resident of a Contracting State from immovable property situated in the other Contracting State may be taxed in that other State.
 
-(2) For the purposes of this Agreement, the term "immovable property" shall 6 [S.L.123.17 WITH CANADA
-
-have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, rights to which the provisions of general law respecting immovable property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources; ships, boats and aircraft shall not be regarded as immovable property.
+(2) For the purposes of this Agreement, the term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, rights to which the provisions of general law respecting immovable property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources; ships, boats and aircraft shall not be regarded as immovable property.
 
 (3) The provisions of paragraph (1) shall apply to income derived from the direct use, letting, or use in any other form of immovable property and to profits or income from the alienation of such property.
 
@@ -219,9 +205,7 @@ have the meaning which it has under the law of the Contracting State in which th
 
 (6) For the purpose of the preceding paragraphs, the profits to be attributed to the permanent establishment shall be determined by the same method year by year unless there is good and sufficient reason to the contrary.
 
-(7) The provisions of this Article shall not affect the provisions of the law of a Contracting State regarding the taxation of profits from the business of insurance WITH CANADA [S.L.123.17 7
-
-carried on in that State.
+(7) The provisions of this Article shall not affect the provisions of the law of a Contracting State regarding the taxation of profits from the business of insurance carried on in that State.
 
 (8) Where profits include items of income which are dealt with separately in other Articles of this Agreement, then the provisions of those Articles shall not be affected by the provisions of this Article.
 
@@ -251,9 +235,7 @@ carried on in that State.
 
 and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not accrued, may be included in the profits of that enterprise and taxed accordingly.
 
-(2) Where a Contracting State includes in the profits of an enterprise of that State - and taxes accordingly- profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of tax charged therein on those profits. In 8 [S.L.123.17 WITH CANADA
-
-determining such adjustment, due regard shall be had to the other provisions of this Agreement.
+(2) Where a Contracting State includes in the profits of an enterprise of that State - and taxes accordingly- profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Agreement.
 
 (3) A Contracting State shall not change the profits of an enterprise in the circumstances referred to in paragraph (1) after the expiry of the time limits provided in its national laws and, in any case, after five years from the end of the year in which the profits which would be subject to such change would have accrued to an enterprise of that State.
 
@@ -279,9 +261,7 @@ determining such adjustment, due regard shall be had to the other provisions of 
 
 (4) The provisions of paragraph (2) shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
-(5) Where a company which is resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends WITH CANADA [S.L.123.17 9
-
-are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company’s undistributed profits to a tax on undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
+(5) Where a company which is resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company’s undistributed profits to a tax on undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
 
 (6) Nothing in this Agreement shall be construed as preventing a Contracting State from imposing on the earnings of a company attributable to a permanent establishment in that State, tax in addition to the tax which would be chargeable on the earnings of a company which is a national of that State, provided that any such additional tax so imposed shall not exceed 15 per cent of the amount of such earnings which have not been subjected to such additional tax in previous taxation years. For the purpose of this provision, the term "earnings" means the profits attributable to a permanent establishment in a Contracting State in a year and previous years after deducting therefrom all taxes, other than the additional tax referred to herein, imposed on such profits by that State.
 
@@ -305,9 +285,7 @@ are paid is effectively connected with a permanent establishment or a fixed base
 
 (5) The provisions of paragraph (2) shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
-(6) Interest shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the interest, whether he is a resident of a 10 [S.L.123.17 WITH CANADA
-
-Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment or fixed base, then such interest shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
+(6) Interest shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment or fixed base, then such interest shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
 (7) Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Agreement.
 
@@ -325,9 +303,7 @@ Contracting State or not, has in a Contracting State a permanent establishment o
 
 (5) The provisions of paragraph (2) and (3) shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
-(6) Royalties shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the obligation to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then WITH CANADA [S.L.123.17 11
-
-such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
+(6) Royalties shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the obligation to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
 (7) Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Agreement.
 
@@ -350,8 +326,6 @@ may be taxed in that State. For the purposes of this paragraph, the term "immova
 (5) Gains from the alienation of any property, other than that referred to in paragraphs (1), (2), (3) and (4) shall be taxable only in the Contracting State of which the alienator is a resident.
 
 (6) The provisions of paragraph (5) shall not affect the right of either of the Contracting States to levy, according to its law, a tax on gains from the alienation of any property derived by an individual who is a resident of the other Contracting State and has been a resident of the first-mentioned State at any time during the six years immediately preceding the alienation of the property.
-
-12 [S.L.123.17 WITH CANADA
 
 **ARTICLE 14**
 
@@ -385,9 +359,7 @@ may be taxed in that State. For the purposes of this paragraph, the term "immova
 
 **Directors’ Fees**
 
-Directors’ fees and other similar payments derived by a resident of a Contracting WITH CANADA [S.L.123.17 13
-
-State in his capacity as a member of the board of directors or a similar organ of a company which is a resident of the other Contracting State, may be taxed in that other State.
+Directors’ fees and other similar payments derived by a resident of a Contracting State in his capacity as a member of the board of directors or a similar organ of a company which is a resident of the other Contracting State, may be taxed in that other State.
 
 **ARTICLE 17**
 
@@ -419,8 +391,6 @@ State in his capacity as a member of the board of directors or a similar organ o
 
 (b) alimony and other similar payments arising in a Contracting State and paid to a resident of the other Contracting State who is subject to tax therein in respect thereof, shall be taxable only in that other State.
 
-14 [S.L.123.17 WITH CANADA
-
 **ARTICLE 19**
 
 **Government Service**
@@ -450,8 +420,6 @@ Payments which a student, apprentice or business trainee who is, or was immediat
 (1) Subject to the provisions of paragraph (2), items of income of a resident of a Contracting State, wherever arising, not dealt with in the foregoing Articles of this Agreement shall be taxable only in that State.
 
 (2) However, if such income is derived by a resident of a Contracting State from sources in the other Contracting State, such income may also be taxed in the State in which it arises, and according to the law of that State. However, in the case of income from an estate or trust, the tax so charged shall, provided that the income is taxable in the Contracting State in which the recipient resides, not exceed 15 per cent of the gross amount of the income.
-
-WITH CANADA [S.L.123.17 15
 
 **IV. Taxation of Capital**
 
@@ -483,8 +451,6 @@ WITH CANADA [S.L.123.17 15
 
 (a) the provisions of article 5 of the Aids to Industries Ordinance, so far as they were in force on, and have not been modified since, the date of signature of this Agreement, or have been modified only in minor respect so as not to affect their general character;
 
-16 [S.L.123.17 WITH CANADA
-
 (b) any other special provisions of the law of Malta designed to promote investments necessary for the economic development of Malta which may subsequently be made, granting an exemption or reduction of tax which is agreed by the competent authorities of the Contracting States to be of a substantially similar character, if it has not been modified thereafter or has been modified only in minor respects so as not to affect its general character,
 
 provided that any deduction from Canadian tax granted in accordance with the provisions of this paragraph shall not exceed 15 per cent of the gross amount of the dividends, interest or royalties.
@@ -511,8 +477,6 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 (5) In this Article, the term "taxation" means taxes which are the subject of this Agreement.
 
-WITH CANADA [S.L.123.17 17
-
 **ARTICLE 25**
 
 **Mutual Agreement Procedure**
@@ -538,8 +502,6 @@ WITH CANADA [S.L.123.17 17
 (1) The competent authorities of the Contracting States shall exchange such information as is necessary for carrying out the provisions of this Agreement or of the domestic laws of the Contracting States concerning taxes covered by the Agreement insofar as the taxation thereunder is not contrary to the Agreement. Any information received by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) involved in the assessment or collection of, the enforcement in respect of, or the determination of appeals in relation to, the taxes covered by the Agreement. Such persons or authorities shall use the information only for such purposes.
 
 (2) In no case shall the provisions of paragraph (1) be construed so as to impose on a Contracting State the obligation -
-
-18 [S.L.123.17 WITH CANADA
 
 (a) to carry out administrative measures at variance with the laws or the administrative practice of that or of the other Contracting State;
 
@@ -571,9 +533,7 @@ WITH CANADA [S.L.123.17 17
 
 (3) Where the Agreement provides that income arising in a Contracting State shall be relieved from tax in that State, either in full or in part, and, under the law in force in the other Contracting State, such income is subject to tax by reference to the amount thereof which is remitted to or received in that other State and not by reference to the full amount thereof, then the relief to be allowed in the first-mentioned State shall apply only to so much of income as is remitted to or received in the other State.
 
-(4) This Agreement shall not apply to any company, trust or partnership that is a WITH CANADA [S.L.123.17 19
-
-resident of a Contracting State and is beneficially owned or controlled directly or indirectly by one or more persons who are not residents of that State, if the amount of the tax imposed on the income or capital of the company, trust or partnership by that State is substantially lower than the amount that would be imposed by that State if all of the shares of the capital stock of the company or all of the interests in the trust or partnership, as the case may be, were beneficially owned by one or more residents of that State.
+(4) This Agreement shall not apply to any company, trust or partnership that is a resident of a Contracting State and is beneficially owned or controlled directly or indirectly by one or more persons who are not residents of that State, if the amount of the tax imposed on the income or capital of the company, trust or partnership by that State is substantially lower than the amount that would be imposed by that State if all of the shares of the capital stock of the company or all of the interests in the trust or partnership, as the case may be, were beneficially owned by one or more residents of that State.
 
 **VII. Final Provisions**
 
@@ -606,8 +566,6 @@ This Agreement shall continue in effect indefinitely but either Contracting Stat
 (ii) in respect of other Canadian tax for taxation years beginning on or after the first day of January in the calendar year immediately following that in which the notice is given;
 
 (b) in Malta, in respect of taxes which are levied for the year of assessment beginning on the first day of January in the second year following that in which the notice is given.
-
-20 [S.L.123.17 WITH CANADA
 
 IN WITNESS WHEREOF the undersigned, duly authorised to that effect, have signed this Agreement.
 

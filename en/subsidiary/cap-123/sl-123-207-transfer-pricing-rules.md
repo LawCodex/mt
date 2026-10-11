@@ -54,55 +54,29 @@ which agreement determines in advance of cross-border arrangements between assoc
 
 "arrangement" means:
 
-(a) any transaction, agreement or dealing of any kind, where, at the relevant time, the parties to such an arrangement are associated enterprises. An
+(a) any transaction, agreement or dealing of any kind, where, at the relevant time, the parties to such an arrangement are associated enterprises. An arrangement shall also include a series of transactions, agreements and dealings of any kind; or
 
-arrangement shall also include a series of transactions,  
-agreements and dealings of any kind; or  
-(b)  any notional dealing between a body of  
-persons and its permanent establishment;  
-"associated enterprises" means bodies of persons where:  
-(a)  one (1) of the bodies of persons controls  
-the other body of persons whether as a result of the fact  
-that it holds, directly or indirectly, a participation of more  
-than seventy-five per cent (75%) in the voting rights, or  
-the ordinary capital, of the other body of persons or by  
-virtue of any powers conferred by the articles of  
-association or other document regulating the other body  
-of persons; or  
-(b)  the same person or persons controls two (2)  
-or more bodies of persons whether as a result of the fact  
-that it holds, directly or indirectly, a participation of more  
-than seventy-five per cent (75%) in the voting rights, or  
-the ordinary capital, of the two (2) or more bodies of  
-persons or by virtue of any powers conferred by the  
-articles of association or other document regulating the  
-two (2) or more bodies of persons:  
-  Provided that, for the purposes of paragraphs (a)  
-  
-and (b) of this definition, where such bodies of persons are  
-  
-  constituent entities of a MNE group as defined in item 3 of  
-  
-Section I of Annex III of the Cooperation with Other  
-S.L. 123.127  
-Jurisdictions on Tax Matters Regulations the percentage interest  
-in the voting rights or the ordinary capital referred to therein  
-shall be fifty per cent (50%);  
-"company" has the meaning as is assigned to it in article  
-2(1) of the Act:  
-Provided that the term "company" shall not  
-include any micro, small or medium-sized enterprise;  
-"competent authority" means the Minister or his  
-authorised representative. An authorised representative shall be  
-the competent official that is identified as such and whose name  
-and designation are published on the website of the  
-Commissioner;  
-"cross-border arrangement" means an arrangement  
-between associated enterprises where any one (1) of the  
-following conditions is satisfied:  
-(a)  at least one (1) party to the arrangement is
+(b) any notional dealing between a body of persons and its permanent establishment;
 
-not resident in Malta and at least one (1) party to the arrangement is a company resident in Malta and the arrangement is relevant in ascertaining the total income of that company;
+"associated enterprises" means bodies of persons where:
+
+(a) one (1) of the bodies of persons controls the other body of persons whether as a result of the fact that it holds, directly or indirectly, a participation of more than seventy-five per cent (75%) in the voting rights, or the ordinary capital, of the other body of persons or by virtue of any powers conferred by the articles of association or other document regulating the other body of persons; or
+
+(b) the same person or persons controls two (2) or more bodies of persons whether as a result of the fact that it holds, directly or indirectly, a participation of more than seventy-five per cent (75%) in the voting rights, or the ordinary capital, of the two (2) or more bodies of persons or by virtue of any powers conferred by the articles of association or other document regulating the two (2) or more bodies of persons:
+
+*     S.L. 123.127*
+
+Provided that, for the purposes of paragraphs (a) and (b) of this definition, where such bodies of persons are constituent entities of a MNE group as defined in item 3 of Section I of Annex III of the Cooperation with Other Jurisdictions on Tax Matters Regulations the percentage interest in the voting rights or the ordinary capital referred to therein shall be fifty per cent (50%);
+
+"company" has the meaning as is assigned to it in article 2(1) of the Act:
+
+Provided that the term "company" shall not include any micro, small or medium-sized enterprise;
+
+"competent authority" means the Minister or his authorised representative. An authorised representative shall be the competent official that is identified as such and whose name and designation are published on the website of the Commissioner;
+
+"cross-border arrangement" means an arrangement between associated enterprises where any one (1) of the following conditions is satisfied:
+
+(a) at least one (1) party to the arrangement is not resident in Malta and at least one (1) party to the arrangement is a company resident in Malta and the arrangement is relevant in ascertaining the total income of that company;
 
 (b) at least one (1) party to the arrangement maintains a permanent establishment situated outside Malta to which the arrangement is effectively connected and at least one (1) party to the arrangement is a company resident in Malta and the arrangement is relevant in ascertaining the total income of that company;
 

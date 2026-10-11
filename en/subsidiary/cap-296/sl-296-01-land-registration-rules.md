@@ -1,6 +1,6 @@
 ---
 title: "Land Registration Rules"
-identifier: "S.L. 296.1"
+identifier: "S.L. 296.01"
 eli: "https://legislation.mt/eli/sl/296.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/296.1/20240712/eng"
 retrieved: 2026-10-12
 ---
 
-# Land Registration Rules (S.L. 296.1)
+# Land Registration Rules (S.L. 296.01)
 
 **SUBSIDIARY LEGISLATION 296.01**
 

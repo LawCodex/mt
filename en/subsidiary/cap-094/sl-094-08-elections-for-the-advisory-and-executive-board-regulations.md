@@ -1,6 +1,6 @@
 ---
 title: "Elections for the Advisory and Executive Board Regulations"
-identifier: "S.L. 94.8"
+identifier: "S.L. 94.08"
 eli: "https://legislation.mt/eli/sl/94.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/94.8/20251017/eng"
 retrieved: 2026-10-12
 ---
 
-# Elections for the Advisory and Executive Board Regulations (S.L. 94.8)
+# Elections for the Advisory and Executive Board Regulations (S.L. 94.08)
 
 **SUBSIDIARY LEGISLATION 94.08**
 

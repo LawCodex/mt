@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Republic of Poland Order (S.L. 123.33)
 
-*1*
-
-WITH THE REPUBLIC OF POLAND [S.L.123.33
-
 SUBSIDIARY LEGISLATION 123.33
 
 DOUBLE TAXATION RELIEF ON TAXES ON
@@ -46,8 +42,6 @@ It is hereby declared:
 (ii) the corporate income tax;
 
 (b) that it is expedient that those arrangements should have effect.
-
-2 [S.L.123.33 WITH THE REPUBLIC OF POLAND
 
 ## SCHEDULE — AGREEMENT — BETWEEN THE GOVERNMENT OF MALTA
 
@@ -97,8 +91,6 @@ the income tax,
 
 \*as amended by Protocol reproduced in Legal Notice 14 of 2012.
 
-WITH THE REPUBLIC OF POLAND [S.L.123.33 3
-
 **ARTICLE 3\***
 
 **General Definitions**
@@ -130,8 +122,6 @@ WITH THE REPUBLIC OF POLAND [S.L.123.33 3
 (2) As regards the application of this Agreement at any time by a Contracting State, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the laws of that State for the purposes of the taxes to which Agreement applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State.
 
 \*as amended by Protocol reproduced in Legal Notice 14 of 2012.
-
-4 [S.L.123.33 WITH THE REPUBLIC OF POLAND
 
 **ARTICLE 4**
 
@@ -175,8 +165,6 @@ WITH THE REPUBLIC OF POLAND [S.L.123.33 3
 
 \*as amended by Protocol reproduced in Legal Notice 14 of 2012.
 
-WITH THE REPUBLIC OF POLAND [S.L.123.33 5
-
 (3) Notwithstanding the preceding provisions of this Article, the term "permanent establishment" shall be deemed not to include:
 
 (a) the use of facilities solely for the purpose of storage, display or delivery of goods or merchandise belonging to the enterprise;
@@ -203,11 +191,9 @@ WITH THE REPUBLIC OF POLAND [S.L.123.33 5
 
 **Income from Immovable Property**
 
-(1) Income derived by a resident of a Contracting State from immovable property (including income from agriculture or forestry) situated in the other 6 [S.L.123.33 WITH THE REPUBLIC OF POLAND
+(1) Income derived by a resident of a Contracting State from immovable property (including income from agriculture or forestry) situated in the other Contracting State may be taxed in that other State.
 
 \*as amended by Protocol reproduced in Legal Notice 14 of 2012.
-
-Contracting State may be taxed in that other State.
 
 (2) The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, buildings, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources; ships, boats and aircraft shall not be regarded as immovable property.
 
@@ -233,11 +219,9 @@ Contracting State may be taxed in that other State.
 
 (7) The provisions of this Article shall not affect the provisions of the law of a Contracting State regarding the taxation of profits from the business of insurance.
 
-(8) Where profits include items of income which are dealt with separately in WITH THE REPUBLIC OF POLAND [S.L.123.33 7
+(8) Where profits include items of income which are dealt with separately in other Articles of this Agreement, then the provisions of those Articles shall not be affected by the provisions of this Article.
 
 \*as amended by Protocol reproduced in Legal Notice 14 of 2012.
-
-other Articles of this Agreement, then the provisions of those Articles shall not be affected by the provisions of this Article.
 
 **ARTICLE 8\***
 
@@ -265,11 +249,9 @@ and in either case conditions are made or imposed between the two enterprises in
 
 (2) (Deleted by Protocol reproduced in Legal Notice 14 of 2012).
 
-(3) Where a Contracting State includes in the profits of an enterprise of that State, and taxes accordingly, profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to that enterprise of the first mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In 8 [S.L.123.33 WITH THE REPUBLIC OF POLAND
+(3) Where a Contracting State includes in the profits of an enterprise of that State, and taxes accordingly, profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to that enterprise of the first mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Agreement and the competent authorities of the Contracting States shall if necessary consult each other.
 
 \*as amended by Protocol reproduced in Legal Notice 14 of 2012. †as amended by Protocol reproduced in Legal Notice 14 of 2012.
-
-determining such adjustment, due regard shall be had to the other provisions of this Agreement and the competent authorities of the Contracting States shall if necessary consult each other.
 
 **ARTICLE 10\***
 
@@ -291,11 +273,9 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 (4) The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment. In such a case the provisions of Article 7 shall apply.
 
-(5) Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment situated in that other State, nor subject the company’s undistributed profits to a tax on the WITH THE REPUBLIC OF POLAND [S.L.123.33 9
+(5) Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment situated in that other State, nor subject the company’s undistributed profits to a tax on the company’s undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
 
 \*as amended by Protocol reproduced in Legal Notice 14 of 2012.
-
-company’s undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
 
 (6) The benefits of this Article shall not apply if it was the main purpose or one of the main purposes of any person concerned with the creation or assignment of the shares or other rights in respect of which the dividend is paid to take advantage of this Article by means of that creation or assignment.
 
@@ -317,11 +297,9 @@ company’s undistributed profits, even if the dividends paid or the undistribut
 
 (7) Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest paid, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Agreement.
 
-(8) The benefits of this Article shall not apply if it was the main purpose or one of 10 [S.L.123.33 WITH THE REPUBLIC OF POLAND
+(8) The benefits of this Article shall not apply if it was the main purpose or one of the main purposes of any person concerned with the creation or assignment of the debt-claim in respect of which the interest is paid to take advantage of this Article by means of that creation or assignment.
 
 \*as amended by Protocol reproduced in Legal Notice 14 of 2012.
-
-the main purposes of any person concerned with the creation or assignment of the debt-claim in respect of which the interest is paid to take advantage of this Article by means of that creation or assignment.
 
 **ARTICLE 12\***
 
@@ -347,11 +325,9 @@ Royalties and payments for technical services
 
 (iv) is made for services related to immovable property located in the Contracting State of which the person making the payment is a resident, if such services resulted in a construction, maintenance project, or a landscaping project or a similar tangible project; or (v) is accrued under the laws of a Contracting State to the initial value of the machinery or industrial equipment of the person making the payment or to the maintenance of such machinery or industrial equipment.
 
-(4) The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties or payments for technical services, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties or payments for technical services arise through a permanent establishment situated therein WITH THE REPUBLIC OF POLAND [S.L.123.33 11
+(4) The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties or payments for technical services, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties or payments for technical services arise through a permanent establishment situated therein and the right or property in respect of which the royalties or payments for technical services are paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
 \*as amended by Protocol reproduced in Legal Notice 14 of 2012.
-
-and the right or property in respect of which the royalties or payments for technical services are paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
 (5) Royalties or payments for technical services shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, or a local authority or a resident of that State. Where, however, the person paying the royalties or payments for technical services, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment in connection with which the liability to pay the royalties or payments for technical services was incurred, and such royalties or payments for technical services are borne by such permanent establishment, then such royalties or payments for technical services shall be deemed to arise in the State in which the permanent establishment is situated.
 
@@ -372,8 +348,6 @@ and the right or property in respect of which the royalties or payments for tech
 (5) Gains from the alienation of any property other than that referred to in paragraphs 1, 2, 3 and 4 shall be taxable only in the Contracting State of which the alienator is a resident.
 
 \*as substituted by Protocol reproduced in Legal Notice 14 of 2012.
-
-12 [S.L.123.33 WITH THE REPUBLIC OF POLAND
 
 **ARTICLE 14\***
 
@@ -409,11 +383,9 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 (1) Notwithstanding the provisions of Articles 14 and 15, income derived by a resident of a Contracting State as an entertainer, such as a theatre, motion picture, radio or television artiste or a musician or as a sportsman from his personal activities as such exercised in the other Contracting State, may be taxed in that other Contracting State.
 
-(2) Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman WITH THE REPUBLIC OF POLAND [S.L.123.33 13
+(2) Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman himself but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the entertainer or sportsman are exercised.
 
 \*as amended by Protocol reproduced in Legal Notice 14 of 2012. †as amended by Protocol reproduced in Legal Notice 14 of 2012.
-
-himself but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the entertainer or sportsman are exercised.
 
 (3) Notwithstanding the provisions of paragraphs (1) and (2) of this Article, income mentioned in this Article shall be exempt from tax in the Contracting State in which the activity of the entertainer or sportsman is exercised provided that this activity is supported in a considerable part out of public funds of that State or of the other State or the activity is exercised under a cultural agreement or arrangement between the Contracting States.
 
@@ -447,9 +419,7 @@ himself but to another person, that income may, notwithstanding the provisions o
 
 **Professors and Teachers**
 
-(1) Where a professor or teacher who is a resident of a Contracting State visits the other Contracting State for a period not exceeding two years for the purpose of teaching or carrying out advanced study or research at a university, college, school or other educational institution in that other State, any remuneration the person 14 [S.L.123.33 WITH THE REPUBLIC OF POLAND
-
-receives for such teaching, advance study or research shall be exempt from tax in that other State to the extent to which that remuneration is, or upon the application of this Article will be, subject to tax in the first-mentioned State.
+(1) Where a professor or teacher who is a resident of a Contracting State visits the other Contracting State for a period not exceeding two years for the purpose of teaching or carrying out advanced study or research at a university, college, school or other educational institution in that other State, any remuneration the person receives for such teaching, advance study or research shall be exempt from tax in that other State to the extent to which that remuneration is, or upon the application of this Article will be, subject to tax in the first-mentioned State.
 
 (2) This Article shall not apply to remuneration which a professor or teacher receives for conducting research if the research is undertaken primarily for the private benefit of a specific person or persons.
 
@@ -481,8 +451,6 @@ Such deduction shall not, however, exceed that part of the income tax, as comput
 
 \*as substituted by Protocol reproduced in Legal Notice 14 of 2012. †as amended by Protocol reproduced in Legal Notice 14 of 2012. ‡as amended by Protocol reproduced in Legal Notice 14 of 2012.
 
-WITH THE REPUBLIC OF POLAND [S.L.123.33 15
-
 (2) In the case of Malta, double taxation shall be eliminated as follows:
 
 Subject to the provisions of the law of Malta regarding the allowance of a credit against Malta tax in respect of foreign tax, where, in accordance with the provisions of this Agreement, there is included in a Malta assessment income from sources within Poland, the Polish tax on such income shall be allowed as a credit against the relative Malta tax payable thereon.
@@ -511,9 +479,7 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 **Mutual Agreement Procedure**
 
-(1) Where a person considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Agreement, he may, irrespective of the remedies provided by the domestic law of those States, present his case to the competent authority of the Contracting State of which he is a resident or, if his case comes under paragraph (1) of Article 24, 16 [S.L.123.33 WITH THE REPUBLIC OF POLAND
-
-to that of the Contracting State of which he is a national. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Agreement.
+(1) Where a person considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Agreement, he may, irrespective of the remedies provided by the domestic law of those States, present his case to the competent authority of the Contracting State of which he is a resident or, if his case comes under paragraph (1) of Article 24, to that of the Contracting State of which he is a national. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Agreement.
 
 (2) The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Agreement. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
 
@@ -535,11 +501,9 @@ For the purposes of sub-paragraph (b), the competent authorities of the Contract
 
 **Exchange of Information**
 
-(1) The competent authorities of the Contracting States shall exchange such information as is foreseeably relevant for carrying out the provisions of this Agreement or to the administration or enforcement of the domestic laws concerning taxes of every kind and description imposed on behalf of the Contracting States, or WITH THE REPUBLIC OF POLAND [S.L.123.33 17
+(1) The competent authorities of the Contracting States shall exchange such information as is foreseeably relevant for carrying out the provisions of this Agreement or to the administration or enforcement of the domestic laws concerning taxes of every kind and description imposed on behalf of the Contracting States, or of their political subdivisions or local authorities, insofar as the taxation thereunder is not contrary to the Agreement. The exchange of information is not restricted by Articles 1 and 2.
 
 \*as substituted by Protocol reproduced in Legal Notice 14 of 2012.
-
-of their political subdivisions or local authorities, insofar as the taxation thereunder is not contrary to the Agreement. The exchange of information is not restricted by Articles 1 and 2.
 
 (2) Any information received under paragraph 1 by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to the taxes referred to in paragraph 1, or the oversight of the above. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions. Notwithstanding the foregoing, information received by a Contracting State may be used for other purposes when such information may be used for such other purposes under the laws of both States and the competent authority of the supplying State authorizes such use.
 
@@ -560,8 +524,6 @@ of their political subdivisions or local authorities, insofar as the taxation th
 **Prevention of Treaty Abuse**
 
 Notwithstanding any provisions of this Agreement, a benefit under this Agreement shall not be granted in respect of an item of income if it is reasonable to conclude, having regard to all relevant facts and circumstances, that obtaining that benefit was one of the principal purposes of any arrangement or transaction that resulted directly or indirectly in that benefit, unless it is established that granting that benefit in these circumstances would be in accordance with the object and purposes of the relevant provisions of this Agreement.
-
-18 [S.L.123.33 WITH THE REPUBLIC OF POLAND
 
 **ARTICLE 27**
 
@@ -604,8 +566,6 @@ in respect of taxes for any year of assessment beginning on or after 1 January i
 (ii) in respect of other taxes on income, to such taxes chargeable for any taxable year beginning on or after 1st January in the calendar year next following the year in which the notice be given.
 
 IN WITNESS whereof the undersigned, being duly authorised thereto, have signed this Agreement.
-
-WITH THE REPUBLIC OF POLAND [S.L.123.33 19
 
 DONE at Valletta this 7th day of January, 1994, in duplicate in the English and Polish languages, both texts being equally authentic.
 

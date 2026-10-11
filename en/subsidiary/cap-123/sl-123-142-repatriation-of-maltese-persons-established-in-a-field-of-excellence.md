@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Repatriation of Maltese Persons established in a Field of Excellence Rules (S.L. 123.142)
 
-*1*
-
-ESTABLISHED IN A FIELD OF EXCELLENCE [S.L.123.142
-
 **SUBSIDIARY LEGISLATION 123.142**
 
 **REPATRIATION OF PERSONS ESTABLISHED**
@@ -65,10 +61,6 @@ In these rules, unless the context otherwise requires:
 
 \*see regulation 1(2) of these Regulations as originally promulgated.
 
-*2*
-
-[S.L.123.142 ESTABLISHED IN A FIELD OF EXCELLENCE
-
 (2) A qualifying contract of employment shall be considered to be such if such contract of employment is approved in writing by the Corporation.
 
 ## 4. Beneficiary.
@@ -91,11 +83,7 @@ Provided that the rate of 15% shall apply without possibility to claim any relie
 
 *Cap. 372.*
 
-Provided that where an individual exercises the option available under article 56(25) of the Act, the income that is charged to tax at the rate of 15% shall be deemed to constitute the first part of the individual’s total income for the year of assessment in question and the tax on the remaining income shall be calculated at the rate or rates that would have been applicable to that remaining income had ESTABLISHED IN A FIELD OF EXCELLENCE [S.L.123.142
-
-the option not been exercised.
-
-*3*
+Provided that where an individual exercises the option available under article 56(25) of the Act, the income that is charged to tax at the rate of 15% shall be deemed to constitute the first part of the individual’s total income for the year of assessment in question and the tax on the remaining income shall be calculated at the rate or rates that would have been applicable to that remaining income had the option not been exercised.
 
 (2) The option available under article 56(25) of the Act may not be exercised in respect of any year of assessment preceding the year of assessment 2013.
 
@@ -118,10 +106,6 @@ Where any person, in order to obtain benefits under these rules, makes use of ar
 The option available under article 56(25) of the Act shall be exercised by means of a declaration signed by the beneficiary and endorsed by the Corporation made on such form or in such manner as the Commissioner may require and attached to or included in the tax return for the relative year of assessment. It shall not be deemed to have been validly exercised unless the income to which it applies has been fully and correctly declared in the said tax return and unless the said declaration and tax return are filed by not later than the relative tax return date:
 
 Provided that when the said declaration or the relative tax return is filed later than the tax return date, the Commissioner may treat the option as having been validly exercised if he is satisfied that the delay was due to a reasonable excuse.
-
-*4*
-
-[S.L.123.142 ESTABLISHED IN A FIELD OF EXCELLENCE
 
 ## 9. Determinations and attestations.
 

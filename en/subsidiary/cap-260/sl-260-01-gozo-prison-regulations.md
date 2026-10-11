@@ -1,6 +1,6 @@
 ---
 title: "Gozo Prison Regulations"
-identifier: "S.L. 260.1"
+identifier: "S.L. 260.01"
 eli: "https://legislation.mt/eli/sl/260.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/260.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Gozo Prison Regulations (S.L. 260.1)
+# Gozo Prison Regulations (S.L. 260.01)
 
 **SUBSIDIARY LEGISLATION 260.01**
 

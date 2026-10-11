@@ -1,6 +1,6 @@
 ---
 title: "Extension of Application of Maintenance Orders (Tasmania and its Dependencies) Order"
-identifier: "S.L. 48.5"
+identifier: "S.L. 48.05"
 eli: "https://legislation.mt/eli/sl/48.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/48.5/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Extension of Application of Maintenance Orders (Tasmania and its Dependencies) Order (S.L. 48.5)
-
-EXTENSION OF APPLICATION
-
-*1*
-
-(TASMANIA AND ITS DEPENDENCIES) [ S.L.48.05
+# Extension of Application of Maintenance Orders (Tasmania and its Dependencies) Order (S.L. 48.05)
 
 **SUBSIDIARY LEGISLATION 48.05**
 

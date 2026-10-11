@@ -1,6 +1,6 @@
 ---
 title: "Widows' and Orphans' Pensions (Cross-Border Payments) Regulations"
-identifier: "S.L. 58.1"
+identifier: "S.L. 58.01"
 eli: "https://legislation.mt/eli/sl/58.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/58.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Widows' and Orphans' Pensions (Cross-Border Payments) Regulations (S.L. 58.1)
-
-WIDOWS’ AND ORPHANS’ PENSIONS
-
-*1*
-
-(CROSS-BORDER PAYMENTS) [S.L.58.01
+# Widows' and Orphans' Pensions (Cross-Border Payments) Regulations (S.L. 58.01)
 
 **SUBSIDIARY LEGISLATION 58.01**
 

@@ -15,13 +15,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor in Conservation and Restoration Studies (Honours) - B.Cons.(Hons) - under the auspices of the Institute of Conservation and Management of Cultural Heritage (S.L. 327.303)
 
-STUDIES (HONOURS) - B.CONS. (HONS) - UNDER THE AUSPICES OF
-
-THE INSTITUTE OF CONSERVATION AND MANAGEMENT
-
-*1*
-
-OF CULTURAL HERITAGE [S.L.327.303 SUBSIDIARY LEGISLATION 327.303
+**SUBSIDIARY LEGISLATION 327.303**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR IN
 
@@ -73,12 +67,6 @@ Applicants shall be required to choose one area of study. 5. The Board of Studie
 
 *Recommendations by Board of Studies.*
 
-STUDIES (HONOURS) - B.CONS. (HONS) - UNDER THE AUSPICES OF THE INSTITUTE OF CONSERVATION AND MANAGEMENT
-
-*2*
-
-[S.L.327.303 OF CULTURAL HERITAGE
-
 ## 6. Entrance examination.
 
 If there are more eligible applicants than the number of places available, applicants shall be selected on their performance in the entrance examination.
@@ -115,13 +103,7 @@ The course shall consist of study-units to which a total of 240 credits are assi
 
 ## 13. Programme of study.
 
-The Board of Studies shall publish the programme of study, drawn up in accordance with the relevant provisions of the Principal Regulations, and approved by Senate. Subject to changes that the Board of Studies may, with the approval of Senate, be constrained to make, students are bound to follow the study-units and obtain the credits as indicated in the programme of study they STUDIES (HONOURS) - B.CONS. (HONS) - UNDER THE AUSPICES OF
-
-THE INSTITUTE OF CONSERVATION AND MANAGEMENT
-
-*3*
-
-OF CULTURAL HERITAGE [S.L.327.303 are following for the Degree.
+The Board of Studies shall publish the programme of study, drawn up in accordance with the relevant provisions of the Principal Regulations, and approved by Senate. Subject to changes that the Board of Studies may, with the approval of Senate, be constrained to make, students are bound to follow the study-units and obtain the credits as indicated in the programme of study they are following for the Degree.
 
 ## 14. Dissertation.
 

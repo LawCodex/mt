@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Enrolled Voluntary Organisations (Exemption) Rules (S.L. 123.190)
 
-*1*
-
-(TAX EXEMPTION) [S.L.123.190 SUBSIDIARY LEGISLATION 123.190
+**SUBSIDIARY LEGISLATION 123.190**
 
 **ENROLLED VOLUNTARY ORGANISATIONS**
 
@@ -63,11 +61,7 @@ Subject to the other provisions of these rules, a voluntary organisation shall b
 
 (2) When an organisation is enrolled in the register in any year, but it is not so enrolled for the whole of that year, it shall only be treated as having satisfied the condition mentioned in paragraph (b) of rule 3 if its turnover for that year did not exceed such portion of the amount of fifty thousand euro (50,000) as corresponds pro rata to the number of months during that year in which its name was on the register.
 
-(3) Without prejudice to the generality of the provisions of [S.L.123.190 (TAX EXEMPTION)
-
-paragraph (c) of rule 3, an organisation shall not be treated as being compliant with the provisions of the relevant Act if any sanction has been imposed against it in term of the provisions of article 19 or article 22 of the relevant Act or if any proceedings have been commenced for the imposition of any such sanction.
-
-*2*
+(3) Without prejudice to the generality of the provisions of paragraph (c) of rule 3, an organisation shall not be treated as being compliant with the provisions of the relevant Act if any sanction has been imposed against it in term of the provisions of article 19 or article 22 of the relevant Act or if any proceedings have been commenced for the imposition of any such sanction.
 
 ## 5. Applicability of tax exemption.
 

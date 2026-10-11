@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Republic of Bulgaria Order (S.L. 123.19)
 
-*1*
-
-WITH THE REPUBLIC OF BULGARIA [S.L.123.19
-
 **SUBSIDIARY LEGISLATION 123.19**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -48,8 +44,6 @@ It is hereby declared:
 (iii) tax on profits;
 
 (b) that it is expedient that those arrangements should have effect.
-
-2 [S.L.123.19 WITH THE REPUBLIC OF BULGARIA
 
 ## SCHEDULE — AGREEMENT — BETWEEN THE REPUBLIC OF MALTA
 
@@ -99,8 +93,6 @@ the income tax (hereinafter referred to as "Malta tax");
 
 (iii) tax on profits.
 
-WITH THE REPUBLIC OF BULGARIA [S.L.123.19 3
-
 (2) The Agreement shall apply to all identical or substantially similar taxes which are imposed after the signing of the Agreement in addition to or in the place of the existing taxes. The competent authorities of the Contracting States shall notify each other of any significant changes which have been made in their respective taxation laws. Should there be a dispute as to whether there has been a significant change in the taxation laws requiring incorporation in the Agreement then the competent authorities shall discuss further in order to arrive at an agreement.
 
 **ARTICLE 3**
@@ -135,9 +127,7 @@ the Minister responsible for finance or his authorised representative. (b) in th
 
 the Minister of Finance or his authorised representative.
 
-(7) Upon the application of this Agreement any term not otherwise defined unless the context otherwise requires, shall have the meaning which it has under the 4 [S.L.123.19 WITH THE REPUBLIC OF BULGARIA
-
-national tax legislation of the Contracting State where the taxation is performed.
+(7) Upon the application of this Agreement any term not otherwise defined unless the context otherwise requires, shall have the meaning which it has under the national tax legislation of the Contracting State where the taxation is performed.
 
 **ARTICLE 4**
 
@@ -173,9 +163,7 @@ national tax legislation of the Contracting State where the taxation is performe
 
 (d) a mine, an oil or gas well, a quarry or any other place of extraction of natural resources;
 
-(e) a construction or installation project or supervisory activities in connection therewith, where such project or activity continues for more WITH THE REPUBLIC OF BULGARIA [S.L.123.19 5
-
-than 18 months;
+(e) a construction or installation project or supervisory activities in connection therewith, where such project or activity continues for more than 18 months;
 
 (f) the furnishing of services, including consultancy services, by an enterprise through employees or other personnel, where activities of this nature continue (for the same or a connected project) within the country for a period or periods aggregating more than six months within any twelve month period.
 
@@ -203,9 +191,7 @@ than 18 months;
 
 (5) Notwithstanding the provisions of paragraphs (1) and (2), where a person -other than an agent of an independent status to whom paragraph (6) applies - is acting on behalf of an enterprise and has, and habitually exercises, in a Contracting State an authority to conclude contracts in the name of the enterprise, that enterprise shall be deemed to have a place of business in that State in respect of any activities which that person undertakes for the enterprise, unless the activities of such persons are limited to those mentioned in paragraph (4) which, if exercised through a fixed place of business, would not make this fixed place of business a place of business under the provisions of that paragraph.
 
-(6) An enterprise that is a resident of one of the Contracting States shall not be deemed to have a place of business in the other Contracting State merely because it carries on business in that other State through a broker, general commission agent or 6 [S.L.123.19 WITH THE REPUBLIC OF BULGARIA
-
-any other agent of independent status, provided that such persons are acting in the ordinary course of their business.
+(6) An enterprise that is a resident of one of the Contracting States shall not be deemed to have a place of business in the other Contracting State merely because it carries on business in that other State through a broker, general commission agent or any other agent of independent status, provided that such persons are acting in the ordinary course of their business.
 
 **ARTICLE 6**
 
@@ -232,8 +218,6 @@ any other agent of independent status, provided that such persons are acting in 
 (4) Notwithstanding the preceding provisions of this Article, remuneration derived in respect of an employment exercised aboard a ship, aircraft or road vehicle operated in international transport may be taxed in the Contracting State in which the owner of the enterprise is a resident.
 
 (5) The provisions of the above mentioned paragraphs do not refer to the remuneration of students and trainees which are subject to Article 13 of the Agreement.
-
-WITH THE REPUBLIC OF BULGARIA [S.L.123.19 7
 
 **ARTICLE 8**
 
@@ -266,8 +250,6 @@ Pensions and other similar remunerations which a resident of a Contracting State
 (1) Interest arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in the other State.
 
 (2) Paragraph (1) shall not apply when a resident of a Contracting State carries on business in the other Contracting State, in which the interest arises, through a place of business situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such place of business. In such a case the provisions of Article 4 shall apply.
-
-8 [S.L.123.19 WITH THE REPUBLIC OF BULGARIA
 
 **ARTICLE 11**
 
@@ -311,9 +293,7 @@ Pensions and other similar remunerations which a resident of a Contracting State
 
 (2) The term "liberal profession" includes particularly independent scientific, literary, artistic, educational or teaching activity as well as independent activity of physicians, dentists, lawyers, engineers, architects and certified public accountants.
 
-(3) Notwithstanding the provisions of Article 7 and paragraph (1) of this Article, fees derived by a resident of a Contracting State as an entertainer (such as WITH THE REPUBLIC OF BULGARIA [S.L.123.19 9
-
-theatre, motion picture, radio or television artist), or as a musician, or as an athlete from his personal activities as such exercised in the other Contracting State, may be taxed in that other Contracting State.
+(3) Notwithstanding the provisions of Article 7 and paragraph (1) of this Article, fees derived by a resident of a Contracting State as an entertainer (such as theatre, motion picture, radio or television artist), or as a musician, or as an athlete from his personal activities as such exercised in the other Contracting State, may be taxed in that other Contracting State.
 
 **ARTICLE 13**
 
@@ -349,8 +329,6 @@ theatre, motion picture, radio or television artist), or as a musician, or as an
 
 Items of income of a resident of a Contracting State, wherever arising, which are not dealt with in the foregoing Articles, shall be taxable only in that State.
 
-10 [S.L.123.19 WITH THE REPUBLIC OF BULGARIA
-
 **ARTICLE 17**
 
 **Elimination of Double Taxation**
@@ -375,9 +353,7 @@ II. In the case of Malta, double taxation shall be eliminated as follows:
 
 **Non-discrimination**
 
-(1) Nationals of a Contracting State or juridical persons under Article 1 of the Agreement shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the WITH THE REPUBLIC OF BULGARIA [S.L.123.19 11
-
-same circumstances are or may be subjected. This provision shall, notwithstanding the provisions of Article l, also apply to persons who are not residents of one or both of the Contracting States.
+(1) Nationals of a Contracting State or juridical persons under Article 1 of the Agreement shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances are or may be subjected. This provision shall, notwithstanding the provisions of Article l, also apply to persons who are not residents of one or both of the Contracting States.
 
 (2) A place of business situated in one Contracting State and belonging to a resident of the other Contracting State shall not be subjected in the first-mentioned State to any taxation which is other or more burdensome than the taxation to which are subjected places of business situated in the first-mentioned State and organised by persons who are residents of either State. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil, status or family responsibilities or any other personal circumstances which it grants to its own residents.
 
@@ -407,9 +383,7 @@ This Agreement shall not affect the fiscal privileges of members of diplomatic a
 
 **Mutual Agreement Procedure**
 
-(1) Where a resident of a Contracting State considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the present Agreement, he may, irrespective of the remedies provided by the domestic law of those States, present his case to the competent authority of the Contracting State of which he is a resident. If the competent authority is itself unable to arrive at a satisfactory solution, it will endeavour to 12 [S.L.123.19 WITH THE REPUBLIC OF BULGARIA
-
-resolve the case by an agreement with the other Contracting State, with a view to the avoidance of taxation not in accordance with this Agreement. Any agreement shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
+(1) Where a resident of a Contracting State considers that the actions of one or both of the Contracting States result or will result for him in taxation not in accordance with the present Agreement, he may, irrespective of the remedies provided by the domestic law of those States, present his case to the competent authority of the Contracting State of which he is a resident. If the competent authority is itself unable to arrive at a satisfactory solution, it will endeavour to resolve the case by an agreement with the other Contracting State, with a view to the avoidance of taxation not in accordance with this Agreement. Any agreement shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
 
 (2) The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Agreement. They may also consult together for the elimination of double taxation in cases not provided for in the Agreement.
 

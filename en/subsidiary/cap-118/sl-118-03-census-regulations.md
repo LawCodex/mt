@@ -1,6 +1,6 @@
 ---
 title: "Census Regulations"
-identifier: "S.L. 118.3"
+identifier: "S.L. 118.03"
 eli: "https://legislation.mt/eli/sl/118.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/118.3/20211109/eng"
 retrieved: 2026-10-12
 ---
 
-# Census Regulations (S.L. 118.3)
+# Census Regulations (S.L. 118.03)
 
 **SUBSIDIARY LEGISLATION 118.03**
 

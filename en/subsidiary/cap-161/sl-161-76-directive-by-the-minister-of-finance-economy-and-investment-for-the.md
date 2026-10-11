@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister of Finance, Economy and Investment for the issue of €326,700 7% Malta Government Stock 2018 (S.L. 161.76)
 
-AND INVESTMENT FOR THE ISSUE OF €326,700 7%
-
-*1*
-
-MALTA GOVERNMENT STOCK 2018 [S.L.161.76
-
 **SUBSIDIARY LEGISLATION 161.76**
 
 DIRECTIVE BY THE MINISTER OF FINANCE,
@@ -54,10 +48,6 @@ In cases where Stock is registered in the names of two or more persons as joint 
 ## 4. Trading on the Malta Stock Exchange. Cap. 345.
 
 An application for the Stock to be put on the official list for trading on the Malta Stock Exchange will be made in terms of the Financial Markets Act. Such Stock may be freely sold to the public with the prior authorization of the Maltese Episcopal Conference. Such Stock as may however be traded between Ecclesiastical Entities outside the Malta Stock Exchange, does not require such authorization, and shall be exempt from duty on documents.
-
-*2*
-
-AND INVESTMENT FOR THE ISSUE OF €326,700 7% [S.L.161.76 MALTA GOVERNMENT STOCK 2018
 
 ## 5. Charge on Government revenue and assets.
 

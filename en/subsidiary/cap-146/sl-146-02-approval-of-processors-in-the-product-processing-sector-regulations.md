@@ -1,6 +1,6 @@
 ---
 title: "Approval of Processors in the Product Processing Sector Regulations"
-identifier: "S.L. 146.2"
+identifier: "S.L. 146.02"
 eli: "https://legislation.mt/eli/sl/146.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/146.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Approval of Processors in the Product Processing Sector Regulations (S.L. 146.2)
-
-*1*
-
-IN THE PRODUCT PROCESSING SECTOR [S.L.146.02
+# Approval of Processors in the Product Processing Sector Regulations (S.L. 146.02)
 
 **SUBSIDIARY LEGISLATION 146.02**
 
@@ -65,10 +61,6 @@ In these regulations, unless the context otherwise requires - ''agricultural par
 
 ''Minister'' means the Minister responsible for agriculture;
 
-*2*
-
-[S.L.146.02 IN THE PRODUCT PROCESSING SECTOR
-
 ''parcel identification system'' means the reference data and agricultural parcel provided for in the land parcel identification system and adopted by the payment agency within the IACS System;
 
 ''Permanent Secretary'' means the Permanent Secretary within the Ministry responsible for agriculture;
@@ -99,11 +91,7 @@ In these regulations, unless the context otherwise requires - ''agricultural par
 
 (b) detailed plans indicating the number of establishments showing the layout of each establishment and the processing plant or plants therein;
 
-(c) a declaration by the applicant as to the labour capacity, of each establishment to be utilised by the applicant for processing, both within and outside of normal IN THE PRODUCT PROCESSING SECTOR [S.L.146.02
-
-working hours;
-
-*3*
+(c) a declaration by the applicant as to the labour capacity, of each establishment to be utilised by the applicant for processing, both within and outside of normal working hours;
 
 (d) a declaration by the applicant as to the production capacity of each and every production line within the establishment, both within and outside normal working hours;
 
@@ -124,10 +112,6 @@ working hours;
 (5) In order to ensure that any requirements relative to the approval application have been met, the competent authority may at its discretion carry out on-the-spot checks on the establishment or on any processing plant of the applicant and furthermore request clarification and verification of any document or request additional documentation.
 
 (6) Once the competent authority is satisfied that all its the requirements in relation to the approval application have been met, it shall grant its approval to the applicant and inform the Permanent Secretary that the applicant is to be registered as a processor in the Register of Processors.
-
-*4*
-
-[S.L.146.02 IN THE PRODUCT PROCESSING SECTOR
 
 (7) If the competent authority is not satisfied that all its requirements in relation to the approval application have been met, it shall have the right to refuse the granting of approval to the applicant. Nevertheless the applicant shall have until the date communicated in subregulation (4) to satisfy all requirements and to re-submit the approval application to the competent authority.
 
@@ -158,10 +142,6 @@ Provided that in the case of any modification carried out to the processing plan
 (a) the entry of processors in the Register of Processors provided for in regulation 3;
 
 (b) the deletion of processors from the Register of Processors;
-
-*5*
-
-IN THE PRODUCT PROCESSING SECTOR [S.L.146.02
 
 (c) any sanction against processors as provided for by any regulation issued by the European Union.
 
@@ -203,11 +183,7 @@ IN THE PRODUCT PROCESSING SECTOR [S.L.146.02
 
 (c) a commitment to supply, where the producer also acts as a processor.
 
-(2) In order to participate in the aid scheme the processor must [S.L.146.02 IN THE PRODUCT PROCESSING SECTOR
-
-submit the contract to the competent authority for its approval.
-
-*6*
+(2) In order to participate in the aid scheme the processor must submit the contract to the competent authority for its approval.
 
 (3) When the competent authority approves a contract, giving due consideration to the conditions imposed in relation to contracts in this regulation, the competent authority shall assign to it an identification number to be inserted on the IACS System.
 
@@ -241,11 +217,7 @@ submit the contract to the competent authority for its approval.
 
 (e) the price to be paid by the processor to the producer for the raw materials which may vary depending on variety and, or quality and, or the delivery period;
 
-(f) the compensation payable if either the processor or the producer fails to fulfil their contractual obligations, in particular as regards payment deadlines and the IN THE PRODUCT PROCESSING SECTOR [S.L.146.02
-
-obligation to deliver and accept the quantities covered by the contract:
-
-*7*
+(f) the compensation payable if either the processor or the producer fails to fulfil their contractual obligations, in particular as regards payment deadlines and the obligation to deliver and accept the quantities covered by the contract:
 
 Provided that in the case of tomatoes, peaches and pears, the contract shall also indicate the delivery stage to which the price referred to in paragraph (e) applies and the terms of payment. Nevertheless any payment deadline shall not exceed two months from the end of the delivery period as outlined in regulation 6(2):
 
@@ -277,11 +249,7 @@ Provided that such requirements shall be communicated to the stakeholders by no 
 
 (3) The amendments referred to in subregulation (1) may allow for an increase in the quantity originally stipulated in the contract of no more than thirty percent (30%).
 
-(4) The price of the additional quantity laid down in the [S.L.146.02 IN THE PRODUCT PROCESSING SECTOR
-
-amendment may differ from the price referred to regulation 7(6)(e).
-
-*8*
+(4) The price of the additional quantity laid down in the amendment may differ from the price referred to regulation 7(6)(e).
 
 ## 10. Commitment to supply contracts.
 
@@ -308,10 +276,6 @@ amendment may differ from the price referred to regulation 7(6)(e).
 (4) In exceptional and duly justified cases, contracts and amendments thereto that reach the Director after the time limit laid down in subregulation (3), insofar as such late arrival does not hinder checks:
 
 Provided that in the case of amendments to contracts for tomatoes, the Director may authorise, for duly justified reasons, a time limit shorter than the five days laid down in subregulation (3), insofar as this does not hinder effective checks on the production aid scheme.
-
-*9*
-
-IN THE PRODUCT PROCESSING SECTOR [S.L.146.02
 
 ## 12. Obligations of producers signing contracts.
 
@@ -351,11 +315,7 @@ Provided further that in such cases, no aid granted under the aid scheme shall b
 
 (2) Every processor who has entered into a contract with a producer in respect of tomatoes, peaches or pears, shall by not later than the 1st of February of each year furnish the competent authority with the following information:
 
-(a) the quantity of the raw materials, according to type, [S.L.146.02 IN THE PRODUCT PROCESSING SECTOR
-
-processed into the finished products, broken down according to:
-
-*10*
+(a) the quantity of the raw materials, according to type, processed into the finished products, broken down according to:
 
 (i) the quantities of each type of raw material received by the processor under the contract;
 
@@ -377,11 +337,7 @@ Provided that the quantity of processed tomato products held by the processor in
 
 Provided further that in respect of paragraph (b), the quantities of tomato juice and tomato concentrate added shall also be furnished to the competent authority.
 
-(4) The notifications given under subregulations (2) and (3) IN THE PRODUCT PROCESSING SECTOR [S.L.146.02
-
-shall state separately the quantities of finished products as referred to in the First Schedule, points 1, 2, 9, 11, 12, 13, 14 and 15 used to manufacture the products referred to in points 3 and 16 of the said Schedule.
-
-*11*
+(4) The notifications given under subregulations (2) and (3) shall state separately the quantities of finished products as referred to in the First Schedule, points 1, 2, 9, 11, 12, 13, 14 and 15 used to manufacture the products referred to in points 3 and 16 of the said Schedule.
 
 (5) The notification referred to in subregulation (2)(b) shall state separately the quantities of finished products obtained as referred to in the First Schedule, points 3 and 16, broken down according to the products used as referred to in points 1, 2, 9, 11, 12, 13, 14 and 15 of the said Schedule.
 
@@ -417,11 +373,7 @@ shall state separately the quantities of finished products as referred to in the
 
 (f) at the end of the delivery period provided for in regulation 6(2), each processor shall furnish to the competent authority, the entire list of delivery certificates per producer specifying the gross weight and net weight for each consignment and date of various related deliveries:
 
-Provided that with regard to paragraph (e), the price to be paid by the processor on the one hand, and the unit amount of production aid to be issued under the aid scheme on the other, shall [S.L.146.02 IN THE PRODUCT PROCESSING SECTOR
-
-apply to the net weight delivered once the reduction rate has been applied with the exclusion of the following defects from the calculated net weight:
-
-*12*
+Provided that with regard to paragraph (e), the price to be paid by the processor on the one hand, and the unit amount of production aid to be issued under the aid scheme on the other, shall apply to the net weight delivered once the reduction rate has been applied with the exclusion of the following defects from the calculated net weight:
 
 (a) in the case of tomatoes, peaches and pears:
 
@@ -449,11 +401,7 @@ apply to the net weight delivered once the reduction rate has been applied with 
 
 (5) Both processors and producers shall keep a copy of delivery certificates.
 
-(6) The producer shall also forward a copy or written telecommunication or electronic mail communication containing the information referred to in the subregulation (1), no later than the fifth working day following the week of delivery, to the IN THE PRODUCT PROCESSING SECTOR [S.L.146.02
-
-competent authority, in order to facilitate checks.
-
-*13*
+(6) The producer shall also forward a copy or written telecommunication or electronic mail communication containing the information referred to in the subregulation (1), no later than the fifth working day following the week of delivery, to the competent authority, in order to facilitate checks.
 
 ## 16. Processing in Member State.
 
@@ -481,11 +429,7 @@ competent authority, in order to facilitate checks.
 
 (d) the quantities and price of each finished product purchased by the processor each day, giving the name and address of the seller. This information may be recorded by reference to supporting documents, provided the latter contain the abovementioned particulars;
 
-(e) the quantities and price of each finished product leaving the processor’s premises each day, giving the name and address of the consignee. Such information may be recorded by reference to supporting documents, provided the latter contain the [S.L.146.02 IN THE PRODUCT PROCESSING SECTOR
-
-abovementioned particulars;
-
-*14*
+(e) the quantities and price of each finished product leaving the processor’s premises each day, giving the name and address of the consignee. Such information may be recorded by reference to supporting documents, provided the latter contain the abovementioned particulars;
 
 (f) in the case of prunes and dried figs, the information required in paragraph (c) shall specify separately the quantity of the finished product on which aid is payable;
 
@@ -507,9 +451,7 @@ abovementioned particulars;
 
 (1) All the sanctions established by the European Commission regarding the marketing year provided for in regulation 6 shall be applied in their entirety against the processors.
 
-(2) Whosoever, through serious negligence or false declaration, shall breach any of the provisions of these regulations, regarding any market transactions of the products, shall be punished by a fine payable to the competent authority equal to twice the unit amount of the sum obtained through the aid scheme. In the case of processors, they shall be furthermore be excluded from the Register of Processors referred to in regulation 5 for a period of five years. IN THE PRODUCT PROCESSING SECTOR [S.L.146.02 15
-
-FIRST SCHEDULE Amended by:
+(2) Whosoever, through serious negligence or false declaration, shall breach any of the provisions of these regulations, regarding any market transactions of the products, shall be punished by a fine payable to the competent authority equal to twice the unit amount of the sum obtained through the aid scheme. In the case of processors, they shall be furthermore be excluded from the Register of Processors referred to in regulation 5 for a period of five years. FIRST SCHEDULE Amended by:
 
 L.N. 404 of 2004.
 
@@ -545,9 +487,7 @@ L.N. 404 of 2004.
 
 \2. pears in syrup and, or in natural fruit juice: pears of the Williams or Rocha varieties, whole or in pieces, without peel, having undergone a heat treatment, packed in hermetically sealed containers with a covering liquid of sugar syrup or natural fruit juice and falling within CN codes ex 2008 40 51, ex 2008 40 59, 2008 40 71, ex 2008 40 79, ex 2008 40 91 and ex 2008 40 99 of Annex I of EC Regulation 2201/1996;
 
-\3. mixed fruit: mixtures of fruit, whole or in pieces, without peel, having 16 [S.L.146.02 IN THE PRODUCT PROCESSING SECTOR
-
-undergone a heat treatment, with a covering liquid of sugar syrup or natural fruit juice, packed in hermetically sealed containers in which the drained net weight of peaches and Williams and Rocha pears accounts for at least 60% of the total net drained weight, falling within CN codes ex 2008 92 and ex 2008 99 of Annex I of EC Regulation 2201/1996, and made directly from fresh peaches and, or Williams and Rocha pears delivered during the periods indicated in regulation 3(2)(b) and (c);
+\3. mixed fruit: mixtures of fruit, whole or in pieces, without peel, having undergone a heat treatment, with a covering liquid of sugar syrup or natural fruit juice, packed in hermetically sealed containers in which the drained net weight of peaches and Williams and Rocha pears accounts for at least 60% of the total net drained weight, falling within CN codes ex 2008 92 and ex 2008 99 of Annex I of EC Regulation 2201/1996, and made directly from fresh peaches and, or Williams and Rocha pears delivered during the periods indicated in regulation 3(2)(b) and (c);
 
 \4. prunes: prunes obtained from dried ''d’Ente'' plums which have been suitably treated or processed and are packed in appropriate containers, falling within CN code ex 0813 20 00 of Annex I of EC Regulation 2201/1996 and ready to be offered for human consumption;
 
@@ -565,9 +505,7 @@ undergone a heat treatment, with a covering liquid of sugar syrup or natural fru
 
 \11. tomato juice: juice obtained directly from fresh tomatoes and strained free from skins, pips and other coarse parts, having a dry-matter content, where applicable after concentration, of less than 12%, packed in hermetically sealed containers and falling within CN codes ex 2002 90 11, ex 2002 90 19, 2009 50 10 and 2009 50 90 of Annex I of EC Regulation 2201/1996. Juice with a dry-matter content of at least 7% may however contain skin and pips constituting up to 4% by weight of the product. Where these products are to be used to make the products indicated at point 15, they shall be packed in appropriate containers;
 
-\12. tomato concentrate: the product obtained by concentrating tomato juice, packed in appropriate containers, having a dry-matter content of 12% or more and falling within CN codes ex 2002 90 31, ex 2002 90 39, ex 2002 90 91 and ex 2002 90 99 of Annex I of EC Regulation 2201/1996. Concentrate having a dry-matter content IN THE PRODUCT PROCESSING SECTOR [S.L.146.02 17
-
-of not more than 18% or of between 18 and 24% may contain not more than 4% or 7%, respectively, skin and pips by weight of product.
+\12. tomato concentrate: the product obtained by concentrating tomato juice, packed in appropriate containers, having a dry-matter content of 12% or more and falling within CN codes ex 2002 90 31, ex 2002 90 39, ex 2002 90 91 and ex 2002 90 99 of Annex I of EC Regulation 2201/1996. Concentrate having a dry-matter content of not more than 18% or of between 18 and 24% may contain not more than 4% or 7%, respectively, skin and pips by weight of product.
 
 \13. kunserva: the product obtained by concentrating tomato juice, obtained directly from fresh tomatoes, containing added sugar and salt, having a dry matter content of 28% to 36%, packed in hermetically sealed containers, labelled "kunserva", and falling within CN code ex 2002 90.
 
@@ -580,8 +518,6 @@ of not more than 18% or of between 18 and 24% may contain not more than 4% or 7%
 \17. sugar syrup: a liquid in which water is combined with sugars and which has a total sugar content determined after homogenisation of not less than 10º Brix when used to cover fruits in syrup;
 
 \18. natural fruit juice: a covering liquid with a minimum of 9,5º Brix, consisting solely of fermentable but unfermented juice extracted mechanically from fruit, or of juice obtained from concentrated fruit juice by the restoration of the proportion of water extracted during concentration, as defined in European Union Council Directive 2001/112/EC(14), without added sugar.
-
-18 [S.L.146.02 IN THE PRODUCT PROCESSING SECTOR
 
 Substituted by: SECOND SCHEDULE
 
@@ -639,8 +575,6 @@ Product Quantity (Kg) (for
 
 (3)
 
-IN THE PRODUCT PROCESSING SECTOR [S.L.146.02 19
-
 Cases of price differentials
 
 Method of
@@ -677,7 +611,7 @@ On receiving the tomatoes at the Processors’ premises, a delivery certificate 
 
 The payments for the delivered Raw Materials will be effected in favour of the Producer by bank or postal transfer, in accordance with Reg. (EC) No. 1535/2003. ? Within two months starting from the end of the month in which each lot of goods is delivered
 
-? ..................................................................................................................... 20 [S.L.146.02 IN THE PRODUCT PROCESSING SECTOR
+? .....................................................................................................................
 
 **Guarantees**
 
@@ -708,8 +642,6 @@ THE PROCESSOR THE PRODUCER
 (Legal Representative) (Or Legal Representative)
 
 ................................... ........................................
-
-IN THE PRODUCT PROCESSING SECTOR [S.L.146.02 21
 
 ## THIRD SCHEDULE — Reg. (EC) No. 2201/96 - Reg. (EC) No. 2699/2000 - Reg. (EC) No. 1535/2003 — CONTRACT TO SUPPLY FOR THE TRANSFER OF ................ FOR INDUSTRY
 
@@ -761,8 +693,6 @@ Product Quantity (Kg) (for
 
 Tomato
 
-22 [S.L.146.02 IN THE PRODUCT PROCESSING SECTOR
-
 Cases of price differentials
 
 Method of
@@ -794,8 +724,6 @@ The data of columns (1), (2) and (3) are indicative for monitoring purposes.
 (or Legal Representative)
 
 ................................... ........................................
-
-IN THE PRODUCT PROCESSING SECTOR [S.L.146.02 23
 
 FOURTH SCHEDULE Substituted by:
 
@@ -865,9 +793,7 @@ Total amount for payment € / 1000 Kg
 
 Signature of Producer Signature of Processor’s Representative .................................. .....................................
 
-(\*) The product complies with the minimum quality requirements laid down under Reg. EC No 217/2002 24 [S.L.146.02 IN THE PRODUCT PROCESSING SECTOR
-
-Substituted by: FIFTH SCHEDULE
+(\*) The product complies with the minimum quality requirements laid down under Reg. EC No 217/2002 Substituted by: FIFTH SCHEDULE
 
 L.N. 409 of 2007.
 

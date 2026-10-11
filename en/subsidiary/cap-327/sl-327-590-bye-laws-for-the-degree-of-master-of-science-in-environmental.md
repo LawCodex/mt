@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the degree of Master of Science in Environmental Monitoring and Assessment – M.Sc. – under the auspices of the Institute of Earth Systems (S.L. 327.590)
 
-*1*
-
-EARTH SYSTEMS - M.SC [S.L.327.590 SUBSIDIARY LEGISLATION 327.590
+**SUBSIDIARY LEGISLATION 327.590**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
 
@@ -74,11 +72,7 @@ The Course shall be offered in any area of study that falls within the academic 
 
 (ii) a first cycle degree in Science obtained with Second Class Honours or better in an area that is deemed relevant by the Board.
 
-(2) Applicants with a first cycle degree in Science with Earth [S.L.327.590 EARTH SYSTEMS - M.SC
-
-Systems as a main area of study obtained with Third Class Honours may be admitted if they show evidence of significant experience in work relevant to the area of study of the Course, obtained after their first cycle degree. The admission of applicants under this bye-law may be made conditional on the results of an interview.
-
-*2*
+(2) Applicants with a first cycle degree in Science with Earth Systems as a main area of study obtained with Third Class Honours may be admitted if they show evidence of significant experience in work relevant to the area of study of the Course, obtained after their first cycle degree. The admission of applicants under this bye-law may be made conditional on the results of an interview.
 
 (3) Repealed by Legal Notice 8 of 2025.
 
@@ -130,9 +124,9 @@ Students who obtain the 60 ECTS credits assigned to the taught study-units with 
 
 The programme of study shall be published after approval by Senate, normally not less than eight months prior to the commencement of the Course.
 
-*3*
+## 14.
 
-EARTH SYSTEMS - M.SC [S.L.327.590 14. (1) The assessment of each taught study-unit shall be Assessment and completed by the end of the semester in which the teaching of the Progress. study-unit is held.
+(1) The assessment of each taught study-unit shall be Assessment and completed by the end of the semester in which the teaching of the Progress. study-unit is held.
 
 *Amended by: L.N. 243 of 2023. Renumbered by: L.N. 101 of 2024.*
 

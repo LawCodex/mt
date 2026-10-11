@@ -1,6 +1,6 @@
 ---
 title: "Double Taxation Relief on Taxes on Income with the Kingdom of Belgium Order"
-identifier: "S.L. 123.5"
+identifier: "S.L. 123.05"
 eli: "https://legislation.mt/eli/sl/123.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/123.5/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Double Taxation Relief on Taxes on Income with the Kingdom of Belgium Order (S.L. 123.5)
-
-*1*
-
-WITH THE KINGDOM OF BELGIUM [S.L.123.05
+# Double Taxation Relief on Taxes on Income with the Kingdom of Belgium Order (S.L. 123.05)
 
 **SUBSIDIARY LEGISLATION 123.05**
 
@@ -54,8 +50,6 @@ including the prepayments, the surcharges on these taxes and prepayments, and th
 (b) that it is expedient that those arrangements should have effect.
 
 \*Came into force by Legal Notice 60 of 2020.
-
-2 [S.L.123.05 WITH THE KINGDOM OF BELGIUM
 
 Amended by: SCHEDULE
 
@@ -115,8 +109,6 @@ the income tax, including prepayments of tax whether made by deduction at source
 
 (hereinafter referred to as "Malta tax").
 
-WITH THE KINGDOM OF BELGIUM [S.L.123.05 3
-
 (4) This Agreement shall also apply to any identical or substantially similar taxes which are imposed after the date of signature of this Agreement in addition to, or in place of, the existing taxes. The competent authorities of the Contracting States shall notify to each other any changes which have been made in their respective taxation laws.
 
 (5) Where the Agreement provides that income arising in a Contracting State shall be relieved from tax in that State, either in full or in part, and, under the law in force in the other Contracting State, such income is subject to tax by reference to the amount thereof which is remitted to or received in that other State and not by reference to the full amount thereof, then the relief to be allowed in the first mentioned State shall apply only to so much of the income as is remitted to or received in the other State.
@@ -145,9 +137,7 @@ WITH THE KINGDOM OF BELGIUM [S.L.123.05 3
 
 (i) in respect of Belgium any individual possessing the nationality of Belgium and any legal person, partnership and association deriving its status as such from the law in force in Belgium;
 
-(ii) in respect of Malta, any citizen of Malta as provided for in Chapter III of the Constitution of Malta and in the Maltese Citizenship Act, and any 4 [S.L.123.05 WITH THE KINGDOM OF BELGIUM
-
-legal person, partnership and association deriving its status as such from the law in force in Malta;
+(ii) in respect of Malta, any citizen of Malta as provided for in Chapter III of the Constitution of Malta and in the Maltese Citizenship Act, and any legal person, partnership and association deriving its status as such from the law in force in Malta;
 
 (h) the term "international traffic" means any transport by a ship or aircraft operated by an enterprise which has its place of effective management in a Contracting State, except when the ship or aircraft is operated solely between places in the other Contracting State;
 
@@ -176,8 +166,6 @@ legal person, partnership and association deriving its status as such from the l
 (d) If he is a national of both Contracting States or of neither of them, the competent authorities of the Contracting States shall settle the question by mutual agreement.
 
 (3) Where by reason of the provisions of paragraph (1) a person other than an individual is a resident of both Contracting States, then it shall be deemed to be a resident of the Contracting State in which its place of effective management is situated.
-
-WITH THE KINGDOM OF BELGIUM [S.L.123.05 5
 
 **ARTICLE 5**
 
@@ -219,8 +207,6 @@ WITH THE KINGDOM OF BELGIUM [S.L.123.05 5
 
 (6) The fact that a company which is a resident of a Contracting State controls or is controlled by a company, which is a resident of the other Contracting State, or which carries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself make either company a permanent establishment of the other.
 
-6 [S.L.123.05 WITH THE KINGDOM OF BELGIUM
-
 **III. Taxation of Income**
 
 **ARTICLE 6**
@@ -247,9 +233,7 @@ WITH THE KINGDOM OF BELGIUM [S.L.123.05 5
 
 (4) In so far as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph (2) shall preclude that Contracting State from determining the profits to be taxed by an apportionment as may be customary. The method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles laid down in this Article.
 
-(5) No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise. For the purposes of the preceding paragraphs, the profits to be attributed WITH THE KINGDOM OF BELGIUM [S.L.123.05 7
-
-to the permanent establishment, shall be determined by the same method year by year unless there is good and sufficient reason to the contrary.
+(5) No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise. For the purposes of the preceding paragraphs, the profits to be attributed to the permanent establishment, shall be determined by the same method year by year unless there is good and sufficient reason to the contrary.
 
 (7) Where profits include items of income which are dealt with separately in other Articles of this Agreement, then the provisions of these Articles shall not be affected by the provisions of this Article.
 
@@ -285,8 +269,6 @@ and in either case conditions are made or imposed between the two enterprises in
 
 (a) where dividends are paid by a company resident of Belgium to a resident of Malta who is the beneficial owner thereof, the tax so charged shall not exceed 15 per cent of the gross amount of the dividends; this provision shall not affect the taxation of the Belgian company in respect of the profits out of which the dividends are paid;
 
-8 [S.L.123.05 WITH THE KINGDOM OF BELGIUM
-
 (b) where dividends are paid by a company resident of Malta to a resident of Belgium who is the beneficial owner thereof -
 
 (i) Malta tax shall not exceed that chargeable on the company paying the dividends in respect of the profits so distributed;
@@ -309,9 +291,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 (3) Notwithstanding the provisions of paragraph (2) -
 
-(a) interest arising in Belgium and paid to the State of Malta, the Central WITH THE KINGDOM OF BELGIUM [S.L.123.05 9
-
-Bank of Malta or any other institution the capital of which is wholly owned by the State of Malta shall be exempt from Belgian tax;
+(a) interest arising in Belgium and paid to the State of Malta, the Central Bank of Malta or any other institution the capital of which is wholly owned by the State of Malta shall be exempt from Belgian tax;
 
 (b) interest arising in Malta and paid to the Kingdom of Belgium, the National Bank of Belgium or any other institution the capital of which is wholly owned by the Kingdom of Belgium shall be exempt from Malta tax;
 
@@ -329,9 +309,7 @@ Bank of Malta or any other institution the capital of which is wholly owned by t
 
 **Royalties**
 
-(1) Royalties arising in a Contracting State and paid to a resident of the other Contracting State shall be taxable only in that other State if such resident is the beneficial owner of the royalties and the royalties consist of payments of any kind received as a consideration for the use of, or the right to use, any copyright of 10 [S.L.123.05 WITH THE KINGDOM OF BELGIUM
-
-literary, artistic or scientific work, including cinematographic films or tapes for television or broadcasting.
+(1) Royalties arising in a Contracting State and paid to a resident of the other Contracting State shall be taxable only in that other State if such resident is the beneficial owner of the royalties and the royalties consist of payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work, including cinematographic films or tapes for television or broadcasting.
 
 (2) Royalties arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other Contracting State if the royalties consist of payments of any kind received as a consideration for the use of, or the right to use, any patent, trade mark, design, model, plan, secret formula or process, industrial, commercial or scientific equipment, or information concerning industrial, commercial or scientific experience. However, such royalties may also be taxed in the Contracting State in which they arise, and according to the law of that State, but if the recipient is the beneficial owner of the royalties, the tax so charged shall not exceed 10 per cent of the gross amount of such royalties.
 
@@ -347,9 +325,7 @@ literary, artistic or scientific work, including cinematographic films or tapes 
 
 (1) Gains from the alienation of immovable property, as defined in paragraph (2) of Article 6, may be taxed in the Contracting State in which such property is situated.
 
-(2) Gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or of movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing professional services, including such gains from the alienation of such a permanent establishment (alone or together with the whole enterprise) or of such a fixed base, may be taxed in the other State. However, gains from the alienation of moveable property of the kind referred to in paragraph (3) of Article 22 shall be taxable only in the Contracting State in which such movable WITH THE KINGDOM OF BELGIUM [S.L.123.05 11
-
-property is taxable according to the said Article.
+(2) Gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or of movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing professional services, including such gains from the alienation of such a permanent establishment (alone or together with the whole enterprise) or of such a fixed base, may be taxed in the other State. However, gains from the alienation of moveable property of the kind referred to in paragraph (3) of Article 22 shall be taxable only in the Contracting State in which such movable property is taxable according to the said Article.
 
 (3) Gains from the alienation of any property other than those mentioned in paragraphs (1) and (2) shall be taxable only in the Contracting State of which the alienator is a resident.
 
@@ -381,9 +357,7 @@ property is taxable according to the said Article.
 
 (1) Directors’ fees and other similar payments derived by a resident of a contracting State in his capacity as a member of the board of directors or a similar organ of a company which is a resident of the other Contracting State may be taxed in that other State.
 
-This provision shall also apply to payment derived in respect of the discharge of functions which, under the law of the Contracting State of which the 12 [S.L.123.05 WITH THE KINGDOM OF BELGIUM
-
-company is a resident, are regarded as functions of a similar nature as those performed by a person referred to in the said provision.
+This provision shall also apply to payment derived in respect of the discharge of functions which, under the law of the Contracting State of which the company is a resident, are regarded as functions of a similar nature as those performed by a person referred to in the said provision.
 
 (2) Remuneration derived by a person referred to in paragraph (1) from the company in respect of the discharge of day-to-day functions of a managerial or technical nature and remuneration received by a resident of a Contracting State in respect of his personal activity as a partner of a company, other than a company with share capital, which is a resident of the other Contracting State, may be taxed in accordance with the provisions of Article 15, as if the remuneration were remuneration of an employee in respect of an employment and as if references to the employer were references to the company.
 
@@ -415,9 +389,7 @@ company is a resident, are regarded as functions of a similar nature as those pe
 
 (ii) did not become a resident of that State solely for the purpose of performing the services.
 
-(2) (a) Any pension paid by, or out of funds created by a Contracting State or a political subdivision or a local authority thereof to any individual in respect of services rendered to that State or subdivision or local authority thereof shall be WITH THE KINGDOM OF BELGIUM [S.L.123.05 13
-
-taxable only in that State.
+(2) (a) Any pension paid by, or out of funds created by a Contracting State or a political subdivision or a local authority thereof to any individual in respect of services rendered to that State or subdivision or local authority thereof shall be taxable only in that State.
 
 (b) However, such pension shall be taxable only in the other Contracting State if the recipient is a national of and a resident of that State.
 
@@ -449,8 +421,6 @@ taxable only in that State.
 
 (1) Items of income of a resident of a Contracting State, wherever arising, not dealt with in the foregoing Articles of this Agreement shall be taxable only in that State.
 
-14 [S.L.123.05 WITH THE KINGDOM OF BELGIUM
-
 (2) The provisions of paragraph (1) shall not apply if the recipient of the income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other State professional services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such a case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 **IV. Taxation of Capital**
@@ -475,9 +445,7 @@ taxable only in that State.
 
 (b) (i) Subject to the provisions of the Belgian law regarding the allowance as a credit against Belgian tax of taxes paid abroad, when a resident of Belgium derives items of his aggregate income for Belgian tax purposes which are dividends taxable in accordance with paragraph (2)(b) of Article 10, not exempt from Belgian tax in accordance with subparagraph (c) hereof, or interest taxable in accordance with paragraphs (2) or (7) of Article 11, or royalties taxable in accordance with paragraphs (2) or (5) of Article 12, the Malta tax levied on that income shall be allowed as a credit against Belgian tax relating to such income.
 
-(ii) Belgium shall also allow the credit provided for in (i) of this WITH THE KINGDOM OF BELGIUM [S.L.123.05 15
-
-subparagraph in respect of tax chargeable on dividends or interest derived from direct investment which are taxable in Malta by virtue of the Agreement and the general law of Malta where such tax is temporarily remitted or reduced under special provisions designed to promote the economic development of Malta.
+(ii) Belgium shall also allow the credit provided for in (i) of this subparagraph in respect of tax chargeable on dividends or interest derived from direct investment which are taxable in Malta by virtue of the Agreement and the general law of Malta where such tax is temporarily remitted or reduced under special provisions designed to promote the economic development of Malta.
 
 Such credit shall apply for the first five years for which the Supplementary Agreement is effective; however the competent authorities of the Contracting States may consult each other to determine whether this period of time shall be extended or not.
 
@@ -501,9 +469,7 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 (2) The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities.
 
-This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and 16 [S.L.123.05 WITH THE KINGDOM OF BELGIUM
-
-reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
+This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
 
 (3) Except where the provisions of Article 9, or paragraph (7) of Article 11, or paragraph (5) of Article 12 apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State. Similarly, any debts of an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable capital of such enterprise, be deductible as if they had been contracted to a resident of the first-mentioned State.
 
@@ -527,8 +493,6 @@ reductions for taxation purposes on account of civil status or family responsibi
 
 (3) The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the application of the Agreement.
 
-WITH THE KINGDOM OF BELGIUM [S.L.123.05 17
-
 (4) The competent authorities of the Contracting States shall agree on administrative measures necessary to carry out the provisions of the Agreement, particularly on the proofs to be furnished by residents of either Contracting State in order to benefit in the other Contracting State from the exemptions and reductions provided for in the Agreement.
 
 (5) The competent authorities of the Contracting States shall communicate directly with each other for the application of the Agreement.
@@ -551,9 +515,7 @@ WITH THE KINGDOM OF BELGIUM [S.L.123.05 17
 
 (4) If information is requested by a Contracting State in accordance with the provisions of this Article, the other Contracting State shall use its information gathering measures to obtain the requested information, even though that other State may not need such information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 of this Article but in no case shall such limitations be construed to permit a Contracting State to decline to supply information solely because it has no domestic interest in such information.
 
-(5) In no case shall the provisions of paragraph 3 of this Article be construed to permit a Contracting State to decline to supply information solely because the information is held by a bank, other financial institution, trust, foundation, nominee or 18 [S.L.123.05 WITH THE KINGDOM OF BELGIUM
-
-person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person. In order to obtain such information the tax administration of the requested Contracting State shall have the power to ask for the disclosure of information and to conduct investigations and hearings notwithstanding any contrary provisions in its domestic tax laws.ARTICLE 27
+(5) In no case shall the provisions of paragraph 3 of this Article be construed to permit a Contracting State to decline to supply information solely because the information is held by a bank, other financial institution, trust, foundation, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person. In order to obtain such information the tax administration of the requested Contracting State shall have the power to ask for the disclosure of information and to conduct investigations and hearings notwithstanding any contrary provisions in its domestic tax laws.ARTICLE 27
 
 **Diplomatic and Consular Officials**
 
@@ -585,9 +547,7 @@ person acting in an agency or a fiduciary capacity or because it relates to owne
 
 This Agreement shall remain in force indefinitely but either of the Contracting States may, on or before the thirteenth day of June in any calendar year from the third year following that in which the instruments of ratification have been exchanged, give to the other Contracting State, through diplomatic channels, written notice of termination and, in such event, the Agreement shall cease to have effect - (a) in Belgium:
 
-(i) in respect of taxes due at source on income credited or payable after the 31st day of December of the calendar year in which the WITH THE KINGDOM OF BELGIUM [S.L.123.05 19
-
-notice of termination is given;
+(i) in respect of taxes due at source on income credited or payable after the 31st day of December of the calendar year in which the notice of termination is given;
 
 (ii) in respect of taxes other than taxes due at source, on income of any accounting period ending after the 30th day of December of the calendar year in which the notice of termination is given;
 

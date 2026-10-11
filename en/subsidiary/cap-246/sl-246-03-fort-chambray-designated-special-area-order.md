@@ -1,6 +1,6 @@
 ---
 title: "Fort Chambray (Designated Special Area) Order"
-identifier: "S.L. 246.3"
+identifier: "S.L. 246.03"
 eli: "https://legislation.mt/eli/sl/246.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/246.3/20240830/eng"
 retrieved: 2026-10-12
 ---
 
-# Fort Chambray (Designated Special Area) Order (S.L. 246.3)
+# Fort Chambray (Designated Special Area) Order (S.L. 246.03)
 
 **SUBSIDIARY LEGISLATION 246.03**
 

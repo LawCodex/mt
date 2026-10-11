@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Engineering (Honours) - B.Eng. (Hons) - under the auspices of the Faculty of Engineering (S.L. 327.267)
 
-\- B.ENG. (HONS) - UNDER THE AUSPICES
-
-*1*
-
-OF THE FACULTY OF ENGINEERING [S.L.327.267
-
 **SUBSIDIARY LEGISLATION 327.267**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF ENGINEERING (HONOURS) - B.ENG. (HONS) -
@@ -70,13 +64,7 @@ either (a) satisfy the general requirements for admission as specified in the Ad
 
 or (b) as from October 2020 onwards, be in possession of the Certificate in Engineering Sciences from the University.
 
-(2) The Board may also consider applicants in possession of a qualification at MQF Level 5 in an engineering domain, together with passes in the Secondary Education Certificate Examination at Grade 5 or better in English Language, Maltese, Mathematics and Physics, to join the Course. Such applicants shall be required to present with the MQF Level 5 qualification they submit for entry, a detailed transcript showing their performance during their studies. - B.ENG. (HONS) - UNDER THE AUSPICES
-
-*2*
-
-[S.L.327.267 OF THE FACULTY OF ENGINEERING
-
-They shall further be required to attend for an interview to assess whether they have the necessary aptitude to follow the Course with profit.
+(2) The Board may also consider applicants in possession of a qualification at MQF Level 5 in an engineering domain, together with passes in the Secondary Education Certificate Examination at Grade 5 or better in English Language, Maltese, Mathematics and Physics, to join the Course. Such applicants shall be required to present with the MQF Level 5 qualification they submit for entry, a detailed transcript showing their performance during their studies. They shall further be required to attend for an interview to assess whether they have the necessary aptitude to follow the Course with profit.
 
 (3) The interviewing board, which shall be appointed for the purpose by the Board, shall be composed of at least three members.
 

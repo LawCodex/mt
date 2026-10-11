@@ -1,6 +1,6 @@
 ---
 title: "Prescriptions made for the purposes of the Official Secrets Act Order"
-identifier: "S.L. 50.1"
+identifier: "S.L. 50.01"
 eli: "https://legislation.mt/eli/sl/50.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/50.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Prescriptions made for the purposes of the Official Secrets Act Order (S.L. 50.1)
-
-*1*
-
-OF THE OFFICIAL SECRETS ACT [ S.L.50.01
+# Prescriptions made for the purposes of the Official Secrets Act Order (S.L. 50.01)
 
 **SUBSIDIARY LEGISLATION 50.01**
 
@@ -46,10 +42,6 @@ The offices which are set out in the first column of the Second Schedule to this
 ## 4. Further prescribed bodies.
 
 The bodies which are set out in the first column of the Third Schedule to this Order are hereby prescribed for the purposes of article 12(5) and/or article 13(9) of the Act as set out in the second column of that Schedule, so as to enable them, in the case of article 12(5), to give official authorisation for, or to impose official restrictions on, disclosures or, in the case of article 13(9), to give official directions for the return or disposal of documents).
-
-*2*
-
-[S.L.50.01 OF THE OFFICIAL SECRETS ACT
 
 FIRST SCHEDULE
 

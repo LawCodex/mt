@@ -1,6 +1,6 @@
 ---
 title: "Police Licences Regulation"
-identifier: "S.L. 128.1"
+identifier: "S.L. 128.01"
 eli: "https://legislation.mt/eli/sl/128.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/128.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Police Licences Regulation (S.L. 128.1)
+# Police Licences Regulation (S.L. 128.01)
 
 **SUBSIDIARY LEGISLATION 128.01**
 

@@ -1,6 +1,6 @@
 ---
 title: "Extradition (Great Socialist People’s Arab Jamahiriya) Order"
-identifier: "S.L. 276.9"
+identifier: "S.L. 276.09"
 eli: "https://legislation.mt/eli/sl/276.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/276.9/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Extradition (Great Socialist People’s Arab Jamahiriya) Order (S.L. 276.9)
-
-*1*
-
-PEOPLE’S ARAB JAMAHIRIJA) [ S.L.276.09
+# Extradition (Great Socialist People’s Arab Jamahiriya) Order (S.L. 276.09)
 
 **SUBSIDIARY LEGISLATION 276.09**
 
@@ -65,11 +61,7 @@ For the purposes of this Order, article 10 of the relevant Act shall be amended 
 
 (b) immediately after paragraph (c) of sub-article (1) thereof, there shall be added the following new paragraph:
 
-"(d) that there are serious reasons to believe that if returned, he may be subjected to a judicial [ S.L.276.09 PEOPLE’S ARAB JAMAHIRIJA)
-
-process which substantively and procedurally does not conform with the fundamental principles of justice or which fails to guarantee the right of adequate defence."; and
-
-*2*
+"(d) that there are serious reasons to believe that if returned, he may be subjected to a judicial process which substantively and procedurally does not conform with the fundamental principles of justice or which fails to guarantee the right of adequate defence."; and
 
 (c) immediately after paragraph (b) of sub-article (3) thereof, there shall be inserted the following:
 

@@ -15,15 +15,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master in Youth and Community Studies under the auspices of the Faculty of Education (S.L. 327.294)
 
-POSTGRADUATE AWARDS, 2008 FOR THE DEGREE OF
-
-MASTER IN YOUTH AND COMMUNITY STUDIES –
-
-M. YCS -UNDER THE AUSPICES OF THE FACULTY FOR
-
-*1*
-
-SOCIAL WELLBEING [S.L.327.294 SUBSIDIARY LEGISLATION 327.294
+**SUBSIDIARY LEGISLATION 327.294**
 
 GENERAL REGULATIONS FOR UNIVERSITY POSTGRADUATE AWARDS, 2008 FOR THE DEGREE OF MASTER IN YOUTH AND COMMUNITY STUDIES – M. YCS -UNDER THE AUSPICES OF
 
@@ -69,13 +61,7 @@ These bye-laws shall apply from 15 June, 2018 onwards.
 
 (c) an honours degree from this or another university in an area of study that is deemed relevant by the Board, together with a minimum of two years’ experience in a youth or community setting.
 
-(2) Applicants applying for admission in terms of paragraph (1)(c) will need to satisfy the interviewing board appointed by the Board and which is composed of at least three members, through an interview, that they have the necessary academic background, POSTGRADUATE AWARDS, 2008 FOR THE DEGREE OF MASTER IN YOUTH AND COMMUNITY STUDIES –
-
-*2*
-
-M. YCS -UNDER THE AUSPICES OF THE FACULTY FOR [S.L.327.294 SOCIAL WELLBEING
-
-professional aptitude and disposition to follow the course with profit.
+(2) Applicants applying for admission in terms of paragraph (1)(c) will need to satisfy the interviewing board appointed by the Board and which is composed of at least three members, through an interview, that they have the necessary academic background, professional aptitude and disposition to follow the course with profit.
 
 ## 4. Course duration.
 
@@ -127,15 +113,7 @@ Students shall be allowed to proceed to the dissertation study-unit subject to o
 
 (2) Work on the dissertation shall be undertaken during the third semester of the course. Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
 
-POSTGRADUATE AWARDS, 2008 FOR THE DEGREE OF
-
-MASTER IN YOUTH AND COMMUNITY STUDIES –
-
-M. YCS -UNDER THE AUSPICES OF THE FACULTY FOR
-
-*3*
-
-SOCIAL WELLBEING [S.L.327.294 (3) A provisional title for the dissertation and a detailed research proposal shall be submitted to the Board for approval by the beginning of the second semester.
+(3) A provisional title for the dissertation and a detailed research proposal shall be submitted to the Board for approval by the beginning of the second semester.
 
 ## 12. Supervisor.
 

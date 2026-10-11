@@ -1,6 +1,6 @@
 ---
 title: "Postal Services (General) Regulations"
-identifier: "S.L. 254.1"
+identifier: "S.L. 254.01"
 eli: "https://legislation.mt/eli/sl/254.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/254.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Postal Services (General) Regulations (S.L. 254.1)
+# Postal Services (General) Regulations (S.L. 254.01)
 
 **SUBSIDIARY LEGISLATION 254.01**
 
@@ -143,31 +143,19 @@ Without prejudice to article 66 of the Act, there shall not be posted, or tender
 
 (h) containing any narcotic or psychotropic substance or any other drug or medicine unless its transmission by post is authorized by or under law; or
 
-(i) containing radioactive materials except where a postal
+(i) containing radioactive materials except where a postal arrangement exists for the transmission of such materials.
 
-arrangement exists for the transmission of such  
-materials.  
-Packing and  6. (1) Every postal article shall be made up and secured in  
-posting.  
-such manner as is calculated to prevent damage to any other postal  
-article, to any receptacle in which the same is conveyed, or injury  
-to an officer of the postal operator or to any other person who may  
-deal with such postal article.  
-(2) When an outgoing postal article is posted or tendered or  
-made over in order to be transmitted by post, the sender shall fill up  
-such certificates and documents and affix such labels relating to the  
-contents of the postal article as may be required by the law of the  
-country to which it is addressed, or otherwise as the postal operator  
-transmitting such postal article may direct.  
-(3) The address on a postal article shall not in any way be  
-obscured or made difficult to read.  
-Irregular outgoing  7.  Save as otherwise provided under the Act, any postal  
-or incoming postal  
-article which, once posted, is found not to comply with the law of  
-articles.  
-the country in which the postal article was posted or to which it is
+### 6. Packing and posting.
 
-addressed or with the law of any country through which it may pass, or which is not accompanied by any document required by any such law as aforesaid, may be disposed of in such manner as the postal operator may deem appropriate in accordance with the applicable law:
+(1) Every postal article shall be made up and secured in such manner as is calculated to prevent damage to any other postal article, to any receptacle in which the same is conveyed, or injury to an officer of the postal operator or to any other person who may deal with such postal article.
+
+(2) When an outgoing postal article is posted or tendered or made over in order to be transmitted by post, the sender shall fill up such certificates and documents and affix such labels relating to the contents of the postal article as may be required by the law of the country to which it is addressed, or otherwise as the postal operator transmitting such postal article may direct.
+
+(3) The address on a postal article shall not in any way be obscured or made difficult to read.
+
+### 7. Irregular outgoing or incoming postal articles.
+
+Save as otherwise provided under the Act, any postal article which, once posted, is found not to comply with the law of the country in which the postal article was posted or to which it is addressed or with the law of any country through which it may pass, or which is not accompanied by any document required by any such law as aforesaid, may be disposed of in such manner as the postal operator may deem appropriate in accordance with the applicable law:
 
 Provided that the postal operator shall keep a register recording any postal articles that may be disposed of under this regulation and shall, when requested by the Authority, send a list to the Authority of any postal articles so disposed.
 

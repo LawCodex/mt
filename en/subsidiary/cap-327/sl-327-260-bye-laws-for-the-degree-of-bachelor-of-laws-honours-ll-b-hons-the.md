@@ -15,16 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Laws (Honours) - LL.B. (Hons), the Degree of Bachelor of Laws - LL.B. and the Diploma of Legal Procurator - Dip. L.P. - under the auspices of the Faculty of Laws - Repealed by Legal Notice 3 of 2020 (S.L. 327.260)
 
-DEGREE OF BACHELOR OF LAWS (HONOURS) - LL.B. (HONS),
-
-THE DEGREE OF BACHELOR OF LAWS - LL.B. - AND THE
-
-DIPLOMA OF LEGAL PROCURATOR - DIP. L.P. -
-
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF LAWS [S.L.327.260 SUBSIDIARY LEGISLATION 327.260
-
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF LAWS (HONOURS) - LL.B. (HONS), THE DEGREE OF BACHELOR OF LAWS - LL.B. - AND THE DIPLOMA OF LEGAL PROCURATOR - DIP. L.P. -
 
 **UNDER THE AUSPICES OF THE**

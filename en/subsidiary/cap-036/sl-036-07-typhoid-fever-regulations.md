@@ -1,6 +1,6 @@
 ---
 title: "Typhoid Fever Regulations"
-identifier: "S.L. 36.7"
+identifier: "S.L. 36.07"
 eli: "https://legislation.mt/eli/sl/36.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/36.7/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Typhoid Fever Regulations (S.L. 36.7)
+# Typhoid Fever Regulations (S.L. 36.07)
 
 **SUBSIDIARY LEGISLATION 36.07**
 

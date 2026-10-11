@@ -1,6 +1,6 @@
 ---
 title: "Cumin Seed Export Regulations"
-identifier: "S.L. 85.2"
+identifier: "S.L. 85.02"
 eli: "https://legislation.mt/eli/sl/85.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/85.2/20231017/eng"
 retrieved: 2026-10-12
 ---
 
-# Cumin Seed Export Regulations (S.L. 85.2)
+# Cumin Seed Export Regulations (S.L. 85.02)
 
 **SUBSIDIARY LEGISLATION 85.02**
 

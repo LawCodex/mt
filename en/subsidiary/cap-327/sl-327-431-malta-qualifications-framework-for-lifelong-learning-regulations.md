@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Malta Qualifications Framework for Lifelong Learning Regulations (S.L. 327.431)
 
-MALTA QUALIFICATIONS FRAMEWORK
-
-*1*
-
-FOR LIFELONG LEARNING [S.L.327.431
-
 **SUBSIDIARY LEGISLATION 327.431**
 
 **MALTA QUALIFICATIONS FRAMEWORK**

@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Statute for the Centre for the Study and Practice of Conflict Resolution (S.L. 327.591)
 
-*1*
-
-PRACTICE OF CONFLICT RESOLUTION [S.L. 327.591 SUBSIDIARY LEGISLATION 327.591
+**SUBSIDIARY LEGISLATION 327.591**
 
 STATUTE FOR THE CENTRE FOR THE STUDY AND
 
@@ -65,10 +63,6 @@ The aims of the Centre shall be:
 
 (f) to provide continuous education both at the undergraduate and postgraduate levels within the scope of the Centre subject to the Statutes, Regulations and Bye-Laws of the University;
 
-*2*
-
-[S.L. 327.591 PRACTICE OF CONFLICT RESOLUTION
-
 (g) to collaborate with European and international institutions with the aim to enhance the profile of the Centre within the regional, European and international research area, in areas related to conflict analysis and conflict resolution and any of the disciplines referred to in sub-paragraph (a) of this article; and
 
 (h) to disseminate acquired knowledge through online media, publications, seminars, conferences and teaching programmes.
@@ -105,9 +99,7 @@ The functions of the Board shall be:
 
 (ii) with the written concurrence of the Rector, enter into agreements with third parties for funding of the Centre or of particular activities;
 
-*3*
-
-PRACTICE OF CONFLICT RESOLUTION [S.L. 327.591 (iii) publish an annual report;
+(iii) publish an annual report;
 
 (iv) enrol the Centre in associations or institutions sharing similar aims and interests;
 
@@ -141,11 +133,7 @@ The duties of the Director/Vice-Chairperson of the Centre shall include:
 
 (ii) monitoring the running of examinations and ensuring that all assessment and examination results are submitted to the Registrar by the stipulated deadlines;
 
-(iii) promoting students’ academic and personal welfare, providing first-line support to students PRACTICE OF CONFLICT RESOLUTION
-
-with any difficulties they may encounter during their studies related to the activities of the Centre;
-
-*[S.L. 327.591 4*
+(iii) promoting students’ academic and personal welfare, providing first-line support to students with any difficulties they may encounter during their studies related to the activities of the Centre;
 
 (c) delivering and implementing the strategic plan of the Centre under the guidance of the Board;
 
@@ -175,11 +163,9 @@ with any difficulties they may encounter during their studies related to the act
 
 The Director moreover:
 
-(a) is to report directly to the Chairperson of the Board PRACTICE OF CONFLICT RESOLUTION [S.L. 327.591 governing the Centre and shall collaborate with all senior administrative officers of the University;
+(a) is to report directly to the Chairperson of the Board governing the Centre and shall collaborate with all senior administrative officers of the University;
 
 (b) shall normally be a Resident Academic engaged with the University on a full-time basis for the duration of his tenure as Director of the Centre;
-
-*5*
 
 (c) shall not be engaged in any other activity outside the University which may be in conflict with, or distract him from, his duties at the University;
 
@@ -190,7 +176,3 @@ The Director moreover:
 (f) is to abide with the statutes, regulations, bye-laws and policies of the University of Malta, which are in force now or will become effective during his/her tenure. 11. The Director of Finance of the University shall be the Treasurer of the Centre.
 
 *The Treasurer.*
-
-*6*
-
-[S.L. 327.591 PRACTICE OF CONFLICT RESOLUTION

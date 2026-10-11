@@ -15,18 +15,6 @@ retrieved: 2026-10-12
 
 # Residence Status of United Kingdom nationals and their family members in accordance with the Agreement on the Withdrawal of the United Kingdom and Northern Ireland from the European Union and the European Atomic Energy Community Regulations (S.L. 217.25)
 
-AND THEIR FAMILY MEMBERS IN MALTA IN
-
-ACCORDANCE WITH THE AGREEMENT ON THE
-
-WITHDRAWAL OF THE UNITED KINGDOM AND
-
-NORTHERN IRELAND FROM THE EUROPEAN UNION
-
-*1*
-
-AND THE EUROPEAN ATOMIC ENERGY COMMUNITY [S.L. 217.25
-
 **SUBSIDIARY LEGISLATION 217.25**
 
 **RESIDENCE STATUS OF UNITED KINGDOM**
@@ -67,18 +55,6 @@ In these Regulations, unless the context otherwise requires:
 
 "family members" means those persons defined in Article 10 of Part Two of the Agreement;
 
-**AND THEIR FAMILY MEMBERS IN MALTA IN**
-
-**ACCORDANCE WITH THE AGREEMENT ON THE**
-
-**WITHDRAWAL OF THE UNITED KINGDOM AND**
-
-**NORTHERN IRELAND FROM THE EUROPEAN UNION**
-
-**AND THE EUROPEAN ATOMIC ENERGY COMMUNITY**
-
-*[S.L. 217.25 2*
-
 *S.L. 595.07.*
 
 "Identity Malta Agency" means the entity established by the Identity Malta Agency (Establishment) Order in accordance to regulation 3;
@@ -103,19 +79,7 @@ In these Regulations, unless the context otherwise requires:
 
 (vii) the declarations made in the context of intergovernmental conferences which adopted the Treaties;
 
-"United Kingdom national" means a national of the United Kingdom, as defined in the New Declaration by the Government of the United Kingdom of Great Britain and Northern Ireland of 31 December 1982 on the definition of the AND THEIR FAMILY MEMBERS IN MALTA IN
-
-ACCORDANCE WITH THE AGREEMENT ON THE
-
-WITHDRAWAL OF THE UNITED KINGDOM AND
-
-NORTHERN IRELAND FROM THE EUROPEAN UNION
-
-*3*
-
-AND THE EUROPEAN ATOMIC ENERGY COMMUNITY [S.L. 217.25
-
-term "nationals" together with Declaration No. 63 annexed to the Final Act of the intergovernmental conference which adopted the Treaty of Lisbon;
+"United Kingdom national" means a national of the United Kingdom, as defined in the New Declaration by the Government of the United Kingdom of Great Britain and Northern Ireland of 31 December 1982 on the definition of the term "nationals" together with Declaration No. 63 annexed to the Final Act of the intergovernmental conference which adopted the Treaty of Lisbon;
 
 "withdrawal date" means 31 January 2020.
 
@@ -143,17 +107,7 @@ Provided that a UK national and family members accompanying him, who intend to s
 
 (iv) the person has declared, by means of documentation, any past criminal convictions which appear in his criminal record in accordance with the law of the State of conviction at the time the application has been submitted;
 
-(v) the Chief Executive Officer has ascertained AND THEIR FAMILY MEMBERS IN MALTA IN
-
-ACCORDANCE WITH THE AGREEMENT ON THE
-
-WITHDRAWAL OF THE UNITED KINGDOM AND
-
-*4*
-
-NORTHERN IRELAND FROM THE EUROPEAN UNION [S.L. 217.25 AND THE EUROPEAN ATOMIC ENERGY COMMUNITY
-
-that all checks have been conducted on the applicant and the grant of the status is not contrary to public policy or public security and that there has not been any abuse of rights or fraud in relation to the application for such document.
+(v) the Chief Executive Officer has ascertained that all checks have been conducted on the applicant and the grant of the status is not contrary to public policy or public security and that there has not been any abuse of rights or fraud in relation to the application for such document.
 
 (2) The residence document referred to in sub-regulation 1 shall be renewed on expiry by means of an application, unless the beneficiary ceases to meet the conditions set out in these regulations and the Agreement.
 

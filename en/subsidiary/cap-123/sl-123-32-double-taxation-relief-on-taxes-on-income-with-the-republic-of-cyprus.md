@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Republic of Cyprus Order (S.L. 123.32)
 
-*1*
-
-WITH THE REPUBLIC OF CYPRUS [S.L.123.32
-
 SUBSIDIARY LEGISLATION 123.32
 
 DOUBLE TAXATION RELIEF ON TAXES ON
@@ -52,8 +48,6 @@ It is hereby declared:
 (v) the immovable property tax;
 
 (b) that it is expedient that those arrangements should have effect.
-
-2 [S.L.123.32 WITH THE REPUBLIC OF CYPRUS
 
 ## SCHEDULE — AGREEMENT BETWEEN THE GOVERNMENT OF MALTA — AND THE GOVERNMENT OF THE REPUBLIC OF CYPRUS
 
@@ -103,9 +97,7 @@ the income tax,
 
 (hereinafter referred to as `Malta tax’).
 
-(4) This Agreement shall apply also to any identical or substantially similar taxes which are imposed after the date of signature of this Agreement in addition to, or in place of, the existing taxes. The competent authorities of the Contracting States WITH THE REPUBLIC OF CYPRUS [S.L.123.32 3
-
-shall notify to each other any significant changes which have been made in their respective taxation laws.
+(4) This Agreement shall apply also to any identical or substantially similar taxes which are imposed after the date of signature of this Agreement in addition to, or in place of, the existing taxes. The competent authorities of the Contracting States shall notify to each other any significant changes which have been made in their respective taxation laws.
 
 (5) Notwithstanding the other provisions of this Article this Agreement shall not apply to tax paid or payable in Malta at the rate provided for in sub-article (13) of article 56 of the Income Tax Act concerning the chargeable income of any person engaged in the production of petroleum produced in Malta.
 
@@ -136,8 +128,6 @@ shall notify to each other any significant changes which have been made in their
 (h) the term "international traffic" means any transport by a ship, aircraft or road vehicle operated by an enterprise which has its place of effective management in a Contracting State, except when the ship, aircraft or road vehicle is operated solely between places in the other Contracting State;
 
 (i) the term "competent authority" means:
-
-4 [S.L.123.32 WITH THE REPUBLIC OF CYPRUS
 
 (i) in the case of Cyprus, the Minister of Finance or his authorised representative;
 
@@ -175,8 +165,6 @@ shall notify to each other any significant changes which have been made in their
 
 (b) a branch;
 
-WITH THE REPUBLIC OF CYPRUS [S.L.123.32 5
-
 (c) an office;
 
 (d) a factory;
@@ -211,9 +199,7 @@ WITH THE REPUBLIC OF CYPRUS [S.L.123.32 5
 
 (5) Notwithstanding the provisions of paragraphs (1) and (2) where a person -other than an agent of an independent status to whom paragraph (6) applies - is acting on behalf of an enterprise and has, and habitually exercises, in a Contracting State an authority to conclude contracts in the name of the enterprise, that enterprise shall be deemed to have a permanent establishment in that State in respect of any activities which that person undertakes for the enterprise, unless the activities of such person are limited to those mentioned in paragraph (3) which, if exercised through a fixed place of business, would not make this fixed place of business a permanent establishment under the provisions of that paragraph.
 
-(6) An enterprise of a Contracting State shall not be deemed to have a permanent establishment in the other Contracting State merely because it carries on business in that other State through a broker, general commission agent or any other 6 [S.L.123.32 WITH THE REPUBLIC OF CYPRUS
-
-agent of an independent status, where such persons are acting in the ordinary course of their business. However, when the activities of such an agent are devoted wholly or almost wholly on behalf of the enterprise, he shall not be considered an agent of an independent status if the transactions between the agent and the enterprise were not made under arm’s length conditions.
+(6) An enterprise of a Contracting State shall not be deemed to have a permanent establishment in the other Contracting State merely because it carries on business in that other State through a broker, general commission agent or any other agent of an independent status, where such persons are acting in the ordinary course of their business. However, when the activities of such an agent are devoted wholly or almost wholly on behalf of the enterprise, he shall not be considered an agent of an independent status if the transactions between the agent and the enterprise were not made under arm’s length conditions.
 
 (7) The fact that a company which is a resident of a Contracting State controls or is controlled by a company which is a resident of the other Contracting State, or which carries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself constitute either company a permanent establishment of the other.
 
@@ -237,8 +223,6 @@ agent of an independent status, where such persons are acting in the ordinary co
 
 (2) Subject to the provisions of paragraph (3), where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment or with other associated enterprises with which it deals.
 
-WITH THE REPUBLIC OF CYPRUS [S.L.123.32 7
-
 (3) In the determination of the profits of a permanent establishment, there shall be allowed as deductions expenses which are incurred for the purposes of the business of the permanent establishment including executive and general administrative expenses so incurred, whether in the State in which the permanent establishment is situated or elsewhere. However, no such deduction shall be allowed in respect of amounts, if any, paid (otherwise than towards reimbursement of actual expenses) by the permanent establishment to the head office of the enterprise or any of its other offices, by way of royalties, fees or other similar payments in return for the use of patents or other rights, or by way of commission, for specific services performed or for management, or, except in the case of a banking enterprise, by way of interest on moneys lent to the permanent establishment. Likewise, no account shall be taken, in the determination of the profits of a permanent establishment for amounts charged (otherwise than towards reimbursement of actual expenses), by the permanent establishment to the head office of the enterprise or any of its other offices, by way of royalties, fees or other similar payments in return for the use of patents or other rights, or by way of commission for specific services performed or for management, or, except in the case of a banking enterprise by way of interest on moneys lent to the head office of the enterprise or any of its other offices.
 
 (4) Nothing in this Article shall affect the application of any law of a Contracting State relating to the determination of the tax liability of a person, including the determination of such liability by the exercise of discretion or the making of an estimate by the competent authority of that State in cases in which, from the information available to the competent authority of that State, it is not possible or not practicable to ascertain the profits to be attributed to a permanent establishment, provided that that law shall be applied, so far as the information available to the competent authority permits, consistently with the principles of this Article.
@@ -260,8 +244,6 @@ WITH THE REPUBLIC OF CYPRUS [S.L.123.32 7
 (2) If the place of effective management of a shipping enterprise is aboard a ship or boat, then it shall be deemed to be situated in the Contracting State in which the home harbour of the ship or boat is situated, or, if there is no such home harbour, in the Contracting State of which the operator of the ship or boat is a resident.
 
 (3) The provisions of paragraph (1) shall also apply to profits from the participation in a pool, a joint business or an international operating agency.
-
-8 [S.L.123.32 WITH THE REPUBLIC OF CYPRUS
 
 **ARTICLE 9**
 
@@ -291,8 +273,6 @@ and in either case conditions are made or imposed between the two enterprises in
 
 (b) where the dividends are paid by a company which is a resident of Malta to a resident of Cyprus who is the beneficial owner thereof Malta tax on the gross amount of the dividends shall not exceed that chargeable on the profits out of which the dividends are paid.
 
-WITH THE REPUBLIC OF CYPRUS [S.L.123.32 9
-
 This paragraph shall not affect the taxation of the company in respect of the profits out of which the dividends are paid.
 
 (3) The term "dividends" as used in this Article means income from shares, "jouissance" shares or "jouissance" rights, mining shares, founders’ shares or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of that State of which the company making the distribution is a resident.
@@ -313,9 +293,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 (4) The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor’s profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
-(5) The provisions of paragraphs (1) and (2) shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in 10 [S.L.123.32 WITH THE REPUBLIC OF CYPRUS
-
-the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
+(5) The provisions of paragraphs (1) and (2) shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 (6) Interest shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or fixed base in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment or fixed base, then such interest shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
@@ -343,8 +321,6 @@ the other Contracting State in which the interest arises, through a permanent es
 
 (i) motion picture films;
 
-WITH THE REPUBLIC OF CYPRUS [S.L.123.32 11
-
 (ii) films or video tapes for use in connection with television; or
 
 (iii) tapes for use in connection with radio broadcasting; or
@@ -368,8 +344,6 @@ WITH THE REPUBLIC OF CYPRUS [S.L.123.32 11
 (3) Income or gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or of movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing independent personal services, including such income or gains from the alienation of such a permanent establishment (alone or together with the whole enterprise) or of such fixed base, may be taxed in the other State.
 
 (4) Income or gains from the alienation of ships, aircraft and road vehicles operated in international traffic or movable property pertaining to the operation of such means of transportation shall be taxable only in the Contracting State in which the place of effective management of the enterprise is situated.
-
-12 [S.L.123.32 WITH THE REPUBLIC OF CYPRUS
 
 (5) Income or gains from the alienation of any property other than that referred to in paragraphs (1), (2), (3) and (4), shall be taxable only in the Contracting State of which the alienator is a resident.
 
@@ -400,8 +374,6 @@ WITH THE REPUBLIC OF CYPRUS [S.L.123.32 11
 (c) the remuneration is not borne by a permanent establishment or a fixed base which the employer has in the other State.
 
 (3) Notwithstanding the preceding provisions of this Article, remuneration derived in respect of an employment exercised aboard a ship, aircraft or road vehicle operated in international traffic may be taxed in the Contracting State in which the place of effective management of the enterprise is situated.
-
-WITH THE REPUBLIC OF CYPRUS [S.L.123.32 13
 
 **ARTICLE 16**
 
@@ -437,9 +409,7 @@ Directors’ fees and similar payments derived by a resident of one of the Contr
 
 (i) is a national of that State; or
 
-(ii) did not become a resident of that State solely for the purposes of 14 [S.L.123.32 WITH THE REPUBLIC OF CYPRUS
-
-rendering the services.
+(ii) did not become a resident of that State solely for the purposes of rendering the services.
 
 (2) (a) Any pension paid by, or out of funds created by a Contracting State or a political subdivision or a local authority thereof to an individual in respect of services rendered to that State or subdivision or authority shall be taxable only in that State.
 
@@ -475,9 +445,7 @@ shall be exempt from tax in that other State on:
 
 (b) the amount of such grant, allowance or award; and
 
-(c) any remuneration not exceeding six thousand U.S. dollars (US$ 6,000) WITH THE REPUBLIC OF CYPRUS [S.L.123.32 15
-
-in respect of services in that other State provided the services are performed in connection with his study, research or training or are necessary for the purpose of his maintenance.
+(c) any remuneration not exceeding six thousand U.S. dollars (US$ 6,000) in respect of services in that other State provided the services are performed in connection with his study, research or training or are necessary for the purpose of his maintenance.
 
 **ARTICLE 22**
 
@@ -505,8 +473,6 @@ in respect of services in that other State provided the services are performed i
 
 (1) In the case of Cyprus double taxation shall be eliminated as follows:
 
-16 [S.L.123.32 WITH THE REPUBLIC OF CYPRUS
-
 Subject to the provisions of the law of Cyprus regarding the allowance as a credit against Cyprus tax of tax payable in a territory outside Cyprus, Malta tax payable under the laws of Malta, whether directly or by deductions in respect of profits, income or gains from sources within Malta shall be allowed as a credit against any Cyprus tax payable in respect of that profit, income or gains. Such deduction shall not, however, exceed that part of the tax, as computed before the deduction is given, which is appropriate to such income derived in Malta.
 
 (2) In the case of Malta, double taxation shall be eliminated as follows:
@@ -529,9 +495,7 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 (2) The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities.
 
-(3) Except where the provisions of paragraph (1) of Article 9, paragraph (7) of WITH THE REPUBLIC OF CYPRUS [S.L.123.32 17
-
-Article 11, or paragraph (6) of Article 12 apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State. Similarly, any debts of an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable capital of such enterprise, be deductible under the same conditions as if they had been contracted to a resident of the first-mentioned State.
+(3) Except where the provisions of paragraph (1) of Article 9, paragraph (7) of Article 11, or paragraph (6) of Article 12 apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State. Similarly, any debts of an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable capital of such enterprise, be deductible under the same conditions as if they had been contracted to a resident of the first-mentioned State.
 
 (4) Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of that first-mentioned State are or may be subjected.
 
@@ -549,7 +513,7 @@ Article 11, or paragraph (6) of Article 12 apply, interest, royalties and other 
 
 (3) The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Agreement. They may also consult together for the elimination of double taxation in cases not provided for in the Agreement.
 
-(4) The competent authorities of the Contracting States may communicate with each other directly for the purpose of reaching an agreement in the sense of the preceding paragraphs. When it seems advisable in order to reach agreement to have an oral exchange of opinions, such exchange may take place through a Commission consisting of representatives of the competent authorities of the Contracting States. 18 [S.L.123.32 WITH THE REPUBLIC OF CYPRUS
+(4) The competent authorities of the Contracting States may communicate with each other directly for the purpose of reaching an agreement in the sense of the preceding paragraphs. When it seems advisable in order to reach agreement to have an oral exchange of opinions, such exchange may take place through a Commission consisting of representatives of the competent authorities of the Contracting States.
 
 **ARTICLE 27**
 
@@ -582,8 +546,6 @@ Nothing in this Agreement shall affect the fiscal privileges of diplomatic agent
 (a) in Cyprus:
 
 in respect of taxes which are levied on any income or capital which has accrued on or after the first day of January,
-
-WITH THE REPUBLIC OF CYPRUS [S.L.123.32 19
 
 (b) in Malta:
 

@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Science - B.SC. - and Bachelor of Science (Honours) - B.SC. (Hons) - under the Auspices of the Faculty of Science (S.L. 327.252)
 
-BACHELOR OF SCIENCE (HONOURS) - B. SC. (HONS) -
-
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF SCIENCE [S.L.327.252
-
 **SUBSIDIARY LEGISLATION 327.252**
 
 BYE-LAWS FOR THE DEGREES OF BACHELOR OF SCIENCE - B. SC. - AND BACHELOR OF SCIENCE (HONOURS) - B. SC. (HONS) - UNDER THE
@@ -60,11 +54,11 @@ LEGAL NOTICE 213 of 2008, as amended by Legal Notices 23 of 2012, 193 and 408 of
 
 These bye-laws shall be applicable for courses commencing in October 2019 onwards.
 
-*2*
+## 3. Special course requirements for admission.
 
-BACHELOR OF SCIENCE (HONOURS) - B. SC. (HONS) - [S.L.327.252 UNDER THE AUSPICES OF THE FACULTY OF SCIENCE 3. To be registered as regular students in the Course, applicants shall, apart from satisfying the general requirements for admission as specified in the Admission Regulations, be in possession of the special course requirements as follows:
+*Substituted by: L.N. 408 of 2013. Amended by: L.N. 323 of 2014. Substituted by: L.N. 292 of 2016. Amended by: L.N. 50 of 2017. Substituted by: L.N. 218 of 2017. Amended by: L.N. 304 of 2022; L.N. 116 of 2025.*
 
-*Special course requirements for admission. Substituted by: L.N. 408 of 2013. Amended by: L.N. 323 of 2014. Substituted by: L.N. 292 of 2016. Amended by: L.N. 50 of 2017. Substituted by: L.N. 218 of 2017. Amended by: L.N. 304 of 2022; L.N. 116 of 2025.*
+To be registered as regular students in the Course, applicants shall, apart from satisfying the general requirements for admission as specified in the Admission Regulations, be in possession of the special course requirements as follows:
 
 (a) Banking and Finance: a pass in Pure Mathematics (Intermediate);
 
@@ -96,11 +90,7 @@ either a pass in Pure Mathematics (Advanced, grade C or better);
 
 or a pass in Applied Mathematics (Advanced, grade C or better);
 
-BACHELOR OF SCIENCE (HONOURS) - B. SC. (HONS) -
-
-*3*
-
-UNDER THE AUSPICES OF THE FACULTY OF SCIENCE [S.L.327.252 or passes in Computing or Information Technology (Advanced, grade C or better) and Pure Mathematics (Advanced, grade D or better);
+or passes in Computing or Information Technology (Advanced, grade C or better) and Pure Mathematics (Advanced, grade D or better);
 
 or passes in Computing or Information Technology (Advanced, grade C or better) and Applied Mathematics (Advanced, grade D or better).
 
@@ -132,15 +122,13 @@ or passes in Computing or Information Technology (Advanced, grade C or better) a
 
 ## 6. Publication of areas of study.
 
-The areas of study offered in any particular year and the BACHELOR OF SCIENCE (HONOURS) - B. SC. (HONS) - [S.L.327.252 UNDER THE AUSPICES OF THE FACULTY OF SCIENCE permissible combinations of areas of study shall be published by the Board before the commencement of each course, provided that in any year, combinations of areas of study shall be offered depending on the availability of resources and the number of applicants who choose them.
+The areas of study offered in any particular year and the permissible combinations of areas of study shall be published by the Board before the commencement of each course, provided that in any year, combinations of areas of study shall be offered depending on the availability of resources and the number of applicants who choose them.
 
 \* Applicable from October 2018. † Applicable from October 2018.
 
 ## 7. Publication of programmes.
 
 The Board shall publish the programme of study for each area of study, as approved by Senate, before the commencement of each course. Subject to changes that the Board may, with the approval of Senate, be constrained to make, students are bound to follow the study-units and obtain the credits as indicated in the course programme and in the programmes of study of the areas of study they are following for the Degree, provided that course programmes and programmes of study shall be drawn up in accordance with the relevant provisions of the principal regulations.
-
-*4*
 
 ## 8. Course programme for the Degree in one main area of study.
 
@@ -170,13 +158,9 @@ The course shall consist of two parts, namely, Part One comprising the first thr
 
 (1) Part One shall consist of study-units to which 180 credits are assigned divided as follows:
 
-First Year: 60 credits of which not less than 26 credits BACHELOR OF SCIENCE (HONOURS) - B. SC. (HONS) -
+First Year: 60 credits of which not less than 26 credits in each of the two areas of study;
 
 \* Applicable from October 2018.
-
-*5*
-
-UNDER THE AUSPICES OF THE FACULTY OF SCIENCE [S.L.327.252 in each of the two areas of study;
 
 Second Year: 30 credits in each of the two areas of study;
 
@@ -222,13 +206,11 @@ The provisions of the foregoing bye-laws shall apply mutatis mutandis to courses
 
 *Added by: L.N. 173 of 2023.*
 
-The Course may be offered on a flexible part-time basis BACHELOR OF SCIENCE (HONOURS) - B. SC. (HONS) - [S.L.327.252 UNDER THE AUSPICES OF THE FACULTY OF SCIENCE with the following special provisions in terms of the provisions outlined in the Principal Regulations, applicable with the necessary changes needed (mutatis mutandis) owing to the part-time nature of the Course:
+The Course may be offered on a flexible part-time basis with the following special provisions in terms of the provisions outlined in the Principal Regulations, applicable with the necessary changes needed (mutatis mutandis) owing to the part-time nature of the Course:
 
 \* Applicable from October 2018.
 
 (a) During each academic year, students shall be allowed to register for a number of study-units as agreed with the Course Coordinator, to which not less than 12 ECTS credits are assigned, provided that registration for the study-units included in the programme of study for each Course year (60 ECTS credits) is spread over not more than 3 academic years;
-
-*6*
 
 (b) In order to progress regularly from one Course year to the next, the 60 ECTS credits of each Course year must be completed in not more than 3 academic years;
 
@@ -246,10 +228,6 @@ The Course may be offered on a flexible part-time basis BACHELOR OF SCIENCE (HON
 
 (i) Students registered on the flexible part-time programme must obtain the approval of the Course Coordinator before they are registered on the study-units they wish to follow in any academic year;
 
-(j) Subject to approval by the Board, students registered on the Course may be allowed to change the mode of attendance from full- BACHELOR OF SCIENCE (HONOURS) - B. SC. (HONS) -
-
-*7*
-
-UNDER THE AUSPICES OF THE FACULTY OF SCIENCE [S.L.327.252 time to flexible part-time or vice versa at the beginning of the second year of the regular programme of study. Changes in the mode of attendance in any subsequent year of the Course may be considered by the Board, if the course programme permits; and
+(j) Subject to approval by the Board, students registered on the Course may be allowed to change the mode of attendance from full-time to flexible part-time or vice versa at the beginning of the second year of the regular programme of study. Changes in the mode of attendance in any subsequent year of the Course may be considered by the Board, if the course programme permits; and
 
 (k) Notwithstanding the provisions in the Principal Regulations, owing to the nature of the course when offered on a flexible part-time basis that allows for a longer duration than normal, students registered on such a flexible part-time Course programme shall not be entitled to ever repeat a Course year in its entirety, nor to an extension year after each Course year.

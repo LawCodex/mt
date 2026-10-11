@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Senior Employees of Family Offices, Back Offices and Treasury Management Operations Tax Rules (S.L. 123.218)
 
-OFFICES AND TREASURY MANAGEMENT OPERATIONS
-
-*1*
-
-TAX [S.L. 123.218
-
 **SUBSIDIARY LEGISLATION 123.218**
 
 SENIOR EMPLOYEES OF FAMILY OFFICES, BACK
@@ -60,13 +54,9 @@ In these rules, unless the context otherwise requires:
 
 "licence holder" means a person who holds a licence issued by the Malta Financial Services Authority;
 
-"Multi Family Office" means a licence holder that OFFICES AND TREASURY MANAGEMENT OPERATIONS [S.L. 123.218 TAX
+"Multi Family Office" means a licence holder that exclusively manages the wealth of more than one (1) high-net-worth family;
 
 \* These rules shall apply with effect from the year of assessment 2026. Vide Article 1(2) of Legal Notice 250 of 2025.
-
-exclusively manages the wealth of more than one (1) high-net-worth family;
-
-*2*
 
 * S.L. 370.34.*
 
@@ -90,12 +80,6 @@ exclusively manages the wealth of more than one (1) high-net-worth family;
 
 (1) Income from a qualifying contract of employment that qualifies for the purposes of these rules when it is received by a beneficiary and consists in income subject to tax in accordance with article 4(1)(b) of the Act, excluding the annual value of any fringe benefits, of a minimum of sixty-five thousand euro (€65,000) and consists of emoluments from an eligible office:
 
-OFFICES AND TREASURY MANAGEMENT OPERATIONS
-
-*3*
-
-TAX [S.L. 123.218
-
 Provided that the said minimum of sixty-five thousand euro (€65,000) shall be adjusted by an increase of ten thousand euro (€10,000) every five (5) years with effect from the year subsequent to the year in which these rules come into force..
 
 (2) A qualifying contract of employment shall be considered to be such if the employment activity contemplated in the contract of employment is an eligible office.
@@ -118,11 +102,7 @@ Provided that the beneficiary shall not have had income referred to in article 4
 
 (e) he is not an individual who has benefited under article 6 of the Act;
 
-(f) he fully discloses for tax purposes and declares emoluments received in respect of income from a qualifying contract of employment and all income received from a person who is related to his employer in respect of activities which are substantively derived from the employment covered by the OFFICES AND TREASURY MANAGEMENT OPERATIONS [S.L. 123.218 TAX
-
-qualifying contract of employment as are chargeable to tax in Malta;
-
-*4*
+(f) he fully discloses for tax purposes and declares emoluments received in respect of income from a qualifying contract of employment and all income received from a person who is related to his employer in respect of activities which are substantively derived from the employment covered by the qualifying contract of employment as are chargeable to tax in Malta;
 
 (g) he proves to the satisfaction of the competent authority that he performs activities of an eligible office;
 
@@ -148,13 +128,7 @@ Provided that such an application may be made between 1st January 2025 and 31st 
 
 Provided further that no such application shall be accepted by the competent authority after 31st December 2035.
 
-(2) Such application shall be submitted to the competent authority which shall process the application and issue a formal OFFICES AND TREASURY MANAGEMENT OPERATIONS
-
-*5*
-
-TAX [S.L. 123.218
-
-determination of eligibility under these rules and article 56(21) of the Act or a refusal of the application, as the case may be, within a period of ninety (90) days from receipt of the said application in such manner as the Commissioner shall determine.
+(2) Such application shall be submitted to the competent authority which shall process the application and issue a formal determination of eligibility under these rules and article 56(21) of the Act or a refusal of the application, as the case may be, within a period of ninety (90) days from receipt of the said application in such manner as the Commissioner shall determine.
 
 (3) For the purpose of processing an application under these rules, the competent authority may require the applicant to produce, within the time indicated by it in such request, such further information and documents as they may consider necessary, including certifications and declarations of the employer of such individual. Where such a request is made, the period of ninety (90) days referred to in sub-rule (2) shall commence from date of receipt of the information requested.
 
@@ -173,10 +147,6 @@ Provided that such available option may not be exercised in respect of any year 
 (2) The said option shall be exercised by means of a declaration signed by the beneficiary and endorsed by the competent authority made on such form publicly available on the apposite website or in such manner as the Commissioner may require. Such declaration shall specify the years of assessment in relation to which the exercise of the option relates.
 
 (3) The said option shall not be deemed to have been validly exercised unless the income to which it applies has been fully and correctly declared in the tax return and unless the said declaration and tax return are filed by not later than the relative tax return date.
-
-*6*
-
-OFFICES AND TREASURY MANAGEMENT OPERATIONS [S.L. 123.218 TAX
 
 ### 7. Time-frame during which benefits apply.
 
@@ -200,13 +170,7 @@ Provided further that the rate of fifteen percent (15%) shall apply without the 
 
 ### 9. Maximum amount of emoluments that may benefit under these rules
 
-When an individual exercises the option available under article 56(21) of the Act in respect of a year of assessment, the rate of fifteen percent (15%) shall apply on an amount of emoluments payable not exceeding seven million euro (€7,000,000). Any emoluments payable in excess of the said amount of seven million euro (€7,000,000) shall constitute remaining income for the purposes of paragraph (a) of the proviso to article 56(21) of the Act and consequently, the tax on such remaining income shall be calculated at the rate or rates that would have been applicable to that remaining OFFICES AND TREASURY MANAGEMENT OPERATIONS
-
-*7*
-
-TAX [S.L. 123.218
-
-income had the option not been exercised.
+When an individual exercises the option available under article 56(21) of the Act in respect of a year of assessment, the rate of fifteen percent (15%) shall apply on an amount of emoluments payable not exceeding seven million euro (€7,000,000). Any emoluments payable in excess of the said amount of seven million euro (€7,000,000) shall constitute remaining income for the purposes of paragraph (a) of the proviso to article 56(21) of the Act and consequently, the tax on such remaining income shall be calculated at the rate or rates that would have been applicable to that remaining income had the option not been exercised.
 
 ### 10. Power to request information.
 
@@ -230,13 +194,7 @@ income had the option not been exercised.
 
 ## Part I
 
-The following are the eligible offices with companies or other OFFICES AND TREASURY MANAGEMENT OPERATIONS
-
-**TAX**
-
-*[S.L. 123.218 8*
-
-undertakings referred to in Part II:
+The following are the eligible offices with companies or other undertakings referred to in Part II:
 
 ### 1.
 
@@ -286,13 +244,7 @@ Eligible offices shall be held with the following companies or other undertaking
 
 *       S.L. 370.02.*
 
-(iii) registered trustees which invest, on behalf of a family trust, inter alia in a Notified PIF which is managed by a fund manager which is exempt from the requirement for an investment services licence in terms of regulation 3(1)(f) or regulation 3(1)(t) of the Investment OFFICES AND TREASURY MANAGEMENT OPERATIONS
-
-*9*
-
-TAX [S.L. 123.218
-
-Services Act (Exemption) Regulations, to the extent that the Notified PIF they manage is a family office vehicle which invests the private wealth of investors without raising external capital;
+(iii) registered trustees which invest, on behalf of a family trust, inter alia in a Notified PIF which is managed by a fund manager which is exempt from the requirement for an investment services licence in terms of regulation 3(1)(f) or regulation 3(1)(t) of the Investment Services Act (Exemption) Regulations, to the extent that the Notified PIF they manage is a family office vehicle which invests the private wealth of investors without raising external capital;
 
 (iv) licence holders which invest the private wealth of investors without raising external capital. For the purposes of this paragraph, "licence holder" shall also include Notified PIFs;
 

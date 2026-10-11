@@ -1,6 +1,6 @@
 ---
 title: "Appointments and Conditions of Service of the Individual Reserve Force Regulations"
-identifier: "S.L. 220.8"
+identifier: "S.L. 220.08"
 eli: "https://legislation.mt/eli/sl/220.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/220.8/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Appointments and Conditions of Service of the Individual Reserve Force Regulations (S.L. 220.8)
-
-*1*
-
-OF THE INDIVIDUAL RESERVE FORCE [S.L.220.08
+# Appointments and Conditions of Service of the Individual Reserve Force Regulations (S.L. 220.08)
 
 **SUBSIDIARY LEGISLATION 220.08**
 
@@ -68,10 +64,6 @@ Provided that members of the Individual Reserve Force may also become members of
 ### 4. Validity of oaths and declarations.
 
 The Oath of Allegiance taken by officers and the solemn declaration taken by soldiers, on commission or enlistment respectively, in the Regular Force, will remain valid and binding for duration of service in the Individual Reserve Force.
-
-*2*
-
-[S.L.220.08 OF THE INDIVIDUAL RESERVE FORCE
 
 ### 5. Appointments, promotions and retirements. S.L. 220.03
 

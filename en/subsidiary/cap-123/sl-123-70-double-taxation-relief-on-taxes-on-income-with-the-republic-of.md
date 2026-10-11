@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Republic of Slovenia Order (S.L. 123.70)
 
-*1*
-
-WITH THE REPUBLIC OF SLOVENIA [S.L.123.70
-
 **SUBSIDIARY LEGISLATION 123.70**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -48,8 +44,6 @@ It is hereby declared:-
 (c) that the Convention has entered into force on the 12th June, 2003.
 
 \*https://cfr.gov.mt/en/inlandrevenue/itu/Documents/Malta%20-%20Slove-nia%20DTA%20(synthesised%20text).pdf
-
-2 [S.L.123.70 WITH THE REPUBLIC OF SLOVENIA
 
 ## SCHEDULE — CONVENTION BETWEEN MALTA AND THE REPUBLIC OF SLOVENIA — FOR THE AVOIDANCE OF DOUBLE TAXATION
 
@@ -107,8 +101,6 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 (a) the term ''Slovenia'' means the Republic of Slovenia and, when used in a geographical sense, the territory of Slovenia, including the sea area, sea bed and sub-soil adjacent to the territorial sea, over which Slovenia may exercise its sovereign rights and jurisdiction in accordance with its domestic legislation and international law;
 
-WITH THE REPUBLIC OF SLOVENIA [S.L.123.70 3
-
 (b) the term ''Malta'' means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
 
 (c) the terms ''a Contracting State'' and ''the other Contracting State'' mean Slovenia or Malta, as the context requires;
@@ -143,9 +135,7 @@ WITH THE REPUBLIC OF SLOVENIA [S.L.123.70 3
 
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
-(a) he shall be deemed to be a resident only of the State in which he has a 4 [S.L.123.70 WITH THE REPUBLIC OF SLOVENIA
-
-permanent home available to him[ if he has a permanent home available to him in both States, he shall be deemed to be a resident only of the State with which his personal and economic relations are closer (centre of vital interests);
+(a) he shall be deemed to be a resident only of the State in which he has a permanent home available to him[ if he has a permanent home available to him in both States, he shall be deemed to be a resident only of the State with which his personal and economic relations are closer (centre of vital interests);
 
 (b) if the State in which he has his centre of vital interests cannot be determined, or if he has not a permanent home available to him in either State, he shall be deemed to be a resident only of the State in which he has an habitual abode;
 
@@ -189,8 +179,6 @@ Notwithstanding the preceding provisions of this Article, the term ''permanent e
 
 (b) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of storage, display or delivery;
 
-WITH THE REPUBLIC OF SLOVENIA [S.L.123.70 5
-
 (c) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of processing by another enterprise;
 
 (d) the maintenance of a fixed place of business solely for the purpose of purchasing goods or merchandise, or of collecting information, for the enterprise;
@@ -222,8 +210,6 @@ The fact that a company which is a resident of a Contracting State controls or i
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
 \4. The provisions of paragraphs 1 and 3 shall also apply to the income from immovable property of an enterprise and to income from immovable property used for the performance of independent personal services.
-
-6 [S.L.123.70 WITH THE REPUBLIC OF SLOVENIA
 
 **Article 7**
 
@@ -259,9 +245,7 @@ Where profits include items of income which are dealt with separately in other A
 
 \1. Where -
 
-(a) an enterprise of a Contracting State participates directly or indirectly in the management, control or capital of an enterprise of the other WITH THE REPUBLIC OF SLOVENIA [S.L.123.70 7
-
-Contracting State, or
+(a) an enterprise of a Contracting State participates directly or indirectly in the management, control or capital of an enterprise of the other Contracting State, or
 
 (b) the same persons participate directly or indirectly in the management, control or capital of an enterprise of a Contracting State and an enterprise of the other Contracting State,
 
@@ -289,9 +273,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \3. The term ''dividends'' as used in this Article means income from shares, mining shares, founders’ shares or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
 
-\4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, 8 [S.L.123.70 WITH THE REPUBLIC OF SLOVENIA
-
-through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
+\4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \5. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company’s undistributed profits to a tax on the company’s undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
 
@@ -309,9 +291,7 @@ through a permanent establishment situated therein, or performs in that other St
 
 \5. Interest shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment or fixed base, then such interest shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
-\6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain WITH THE REPUBLIC OF SLOVENIA [S.L.123.70 9
-
-taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
+\6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
 **Article 12**
 
@@ -337,9 +317,7 @@ taxable according to the laws of each Contracting State, due regard being had to
 
 \2. Gains from the alienation of shares or comparable interests in a company the assets of which consist directly or indirectly principally of immovable property situated in a Contracting State may be taxed in that State.
 
-\3. Gains from the alienation of movable property forming part of the business 10 [S.L.123.70 WITH THE REPUBLIC OF SLOVENIA
-
-property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or of movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing independent personal services, including such gains from the alienation of such a permanent establishment (alone or with the whole enterprise) or of such fixed base, may be taxed in that other State.
+\3. Gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or of movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing independent personal services, including such gains from the alienation of such a permanent establishment (alone or with the whole enterprise) or of such fixed base, may be taxed in that other State.
 
 \4. Gains derived by an enterprise of a Contracting State from the alienation of ships or aircraft operated in international traffic, or from movable property pertaining to the operation of such ships or aircraft, shall be taxable only in that State.
 
@@ -367,9 +345,7 @@ property of a permanent establishment which an enterprise of a Contracting State
 
 (b) the remuneration is paid by, or on behalf of, an employer who is not a resident of the other State, and
 
-(c) the remuneration is not borne by a permanent establishment or a fixed WITH THE REPUBLIC OF SLOVENIA [S.L.123.70 11
-
-base which the employer has in the other State.
+(c) the remuneration is not borne by a permanent establishment or a fixed base which the employer has in the other State.
 
 \3. Notwithstanding the preceding provisions of this Article, remuneration derived in respect of an employment exercised aboard a ship or aircraft operated in international traffic by an enterprise of a Contracting State may be taxed in that State.
 
@@ -407,8 +383,6 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 (i) is a national of that State, or
 
-12 [S.L.123.70 WITH THE REPUBLIC OF SLOVENIA
-
 (ii) did not become a resident of that State solely for the purpose of performing the services.
 
 (2) (a) Any pension paid by, or out of funds created by, a Contracting State or a political subdivision or a local authority thereof to an individual in respect of services rendered to that State or subdivision or authority shall be taxable only in that State.
@@ -437,9 +411,7 @@ Payments which a student or business apprentice who is or was immediately before
 
 \1. Items of income of a resident of a Contracting State, wherever arising, not dealt with in the foregoing Articles of this Convention shall be taxable only in that State.
 
-\2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case, the provisions of WITH THE REPUBLIC OF SLOVENIA [S.L.123.70 13
-
-Article 7 or Article 14, as the case may be, shall apply.
+\2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 **Article 23**
 
@@ -467,8 +439,6 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 (4) Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
 
-14 [S.L.123.70 WITH THE REPUBLIC OF SLOVENIA
-
 \5. The provisions of this Article shall apply to taxes covered by this Convention.
 
 **Article 25**
@@ -495,9 +465,7 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 (b) to supply information which is not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;
 
-(c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or WITH THE REPUBLIC OF SLOVENIA [S.L.123.70 15
-
-information, the disclosure of which would be contrary to public policy (ordre public).
+(c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public policy (ordre public).
 
 **Article 27**
 
@@ -541,8 +509,6 @@ in respect of income derived in any fiscal year beginning on or after the first 
 
 in respect of taxes on income derived during any calendar year or accounting period, as the case may be, beginning on or after the first day of January immediately following the date on which the notice is given.
 
-16 [S.L.123.70 WITH THE REPUBLIC OF SLOVENIA
-
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto by their respective Governments, have signed this Convention.
 
 DONE at Valletta this 8th day of October, 2002 in duplicate in the English and Slovenian languages, both texts being equally authentic. In the case of divergence between the two texts, the English text shall prevail.
@@ -574,8 +540,6 @@ It is understood that in the case of Malta the persons who are entitled to a spe
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto by their respective Governments have signed this Protocol.
 
 DONE at Valletta this 8th day of October, 2002 in duplicate in the English and Sovenian languages, both texts being equally authentic. In the case of divergence between the two texts, the English text shall prevail.
-
-WITH THE REPUBLIC OF SLOVENIA [S.L.123.70 17
 
 For Malta For the Republic of Slovenia
 

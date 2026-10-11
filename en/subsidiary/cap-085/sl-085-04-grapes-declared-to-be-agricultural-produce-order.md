@@ -1,6 +1,6 @@
 ---
 title: "Grapes declared to be Agricultural Produce Order"
-identifier: "S.L. 85.4"
+identifier: "S.L. 85.04"
 eli: "https://legislation.mt/eli/sl/85.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/85.4/20231017/eng"
 retrieved: 2026-10-12
 ---
 
-# Grapes declared to be Agricultural Produce Order (S.L. 85.4)
+# Grapes declared to be Agricultural Produce Order (S.L. 85.04)
 
 **SUBSIDIARY LEGISLATION 85.04**
 

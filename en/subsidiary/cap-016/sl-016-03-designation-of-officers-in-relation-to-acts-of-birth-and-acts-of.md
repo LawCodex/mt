@@ -1,6 +1,6 @@
 ---
 title: "Designation of Officers in relation to Acts of Birth and Acts of Death Order"
-identifier: "S.L. 16.3"
+identifier: "S.L. 16.03"
 eli: "https://legislation.mt/eli/sl/16.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/16.3/20210208/eng"
 retrieved: 2026-10-12
 ---
 
-# Designation of Officers in relation to Acts of Birth and Acts of Death Order (S.L. 16.3)
-
-DESIGNATION OF OFFICERS IN RELATION
-
-*1*
-
-TO ACTS OF BIRTH AND ACTS OF DEATH [S.L.16.03
+# Designation of Officers in relation to Acts of Birth and Acts of Death Order (S.L. 16.03)
 
 SUBSIDIARY LEGISLATION 16.03
 

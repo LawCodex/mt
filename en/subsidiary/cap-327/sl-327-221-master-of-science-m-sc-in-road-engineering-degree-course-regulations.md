@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Master of Science - M.Sc. - in Road Engineering Degree Course Regulations (S.L. 327.221)
 
-MASTER OF SCIENCE - M.SC. -
-
-*1*
-
-IN ROAD ENGINEERING DEGREE COURSE [S.L.327.221
-
 **SUBSIDIARY LEGISLATION 327.221**
 
 **MASTER OF SCIENCE - M.SC. - IN ROAD**

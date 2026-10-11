@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Mechanically Driven Boats (Passengers and Cargo) Regulations (S.L. 10.23)
 
-MECHANICALLY DRIVEN BOATS
-
-*1*
-
-(PASSENGERS AND CARGO) [S.L.10.23
-
 **SUBSIDIARY LEGISLATION 10.23**
 
 **MECHANICALLY DRIVEN BOATS**

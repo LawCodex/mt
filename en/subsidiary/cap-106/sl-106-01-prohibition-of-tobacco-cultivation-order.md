@@ -1,6 +1,6 @@
 ---
 title: "Prohibition of Tobacco Cultivation Order"
-identifier: "S.L. 106.1"
+identifier: "S.L. 106.01"
 eli: "https://legislation.mt/eli/sl/106.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/106.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Prohibition of Tobacco Cultivation Order (S.L. 106.1)
+# Prohibition of Tobacco Cultivation Order (S.L. 106.01)
 
 SUBSIDIARY LEGISLATION 106.01
 

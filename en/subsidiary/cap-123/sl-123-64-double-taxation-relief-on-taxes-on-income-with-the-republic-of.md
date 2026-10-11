@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Republic of Tunisia Order (S.L. 123.64)
 
-*1*
-
-WITH THE REPUBLIC OF TUNISIA [S.L.123.64
-
 SUBSIDIARY LEGISLATION 123.64
 
 DOUBLE TAXATION RELIEF ON TAXES ON
@@ -48,8 +44,6 @@ It is hereby declared -
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Convention has entered into force on the 31st December, 2001.
-
-2 [S.L.123.64 WITH THE REPUBLIC OF TUNISIA
 
 ## SCHEDULE — CONVENTION BETWEEN MALTA — AND THE REPUBLIC OF TUNISIA
 
@@ -105,8 +99,6 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 Notwithstanding the other provisions of this Article this Convention shall not apply to tax paid or payable in Malta in accordance with the provisions of subarticle (13) of article 56 of the Income Tax Act (Cap. 123), concerning the chargeable income of any person engaged in the production of petroleum produced in Malta, or any substantially similar provision which is imposed after the date of signature of this Convention.
 
-WITH THE REPUBLIC OF TUNISIA [S.L.123.64 3
-
 ## CHAPTER II — DEFINITIONS — Article 3
 
 **GENERAL DEFINITIONS**
@@ -147,9 +139,7 @@ WITH THE REPUBLIC OF TUNISIA [S.L.123.64 3
 
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
-(a) he shall be deemed to be a resident solely of the Contracting State in 4 [S.L.123.64 WITH THE REPUBLIC OF TUNISIA
-
-which he has a permanent home available to him; if he has a permanent home available to him in both States, he shall be deemed to be a resident solely of the Contracting State with which his personal and economic relations are closer (centre of vital interests);
+(a) he shall be deemed to be a resident solely of the Contracting State in which he has a permanent home available to him; if he has a permanent home available to him in both States, he shall be deemed to be a resident solely of the Contracting State with which his personal and economic relations are closer (centre of vital interests);
 
 (b) if the State in which he has his centre of vital interests cannot be determined, or if he has not a permanent home available to him in either State, he shall be deemed to be a resident of the State in which he has an habitual abode;
 
@@ -191,9 +181,7 @@ which he has a permanent home available to him; if he has a permanent home avail
 
 (d) the maintenance of a fixed place of business solely for the purpose of publicity;
 
-(e) the maintenance of a fixed place of business solely for the purpose of exercising any other activities which have a preparatory or auxiliary WITH THE REPUBLIC OF TUNISIA [S.L.123.64 5
-
-character for the enterprise;
+(e) the maintenance of a fixed place of business solely for the purpose of exercising any other activities which have a preparatory or auxiliary character for the enterprise;
 
 (f) the maintenance of a fixed place of business solely for any combination of activities mentioned in sub-paragraphs (a) to (e), provided that the overall activity of the fixed place of business resulting from this combination is of a preparatory or auxiliary character.
 
@@ -229,9 +217,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \1. Income derived by a resident of a Contracting State from immovable property situated in the other Contracting State may be taxed in that other State.
 
-\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The 6 [S.L.123.64 WITH THE REPUBLIC OF TUNISIA
-
-term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work or to explore for, mineral deposits, sources and other natural resources. Ships, boats and aircraft shall not be regarded as immovable property.
+\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work or to explore for, mineral deposits, sources and other natural resources. Ships, boats and aircraft shall not be regarded as immovable property.
 
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
@@ -256,8 +242,6 @@ term shall in any case include property accessory to immovable property, livesto
 ### 7.
 
 Where profits include items of income which are dealt with separately in other Articles of this Convention, then the provisions of those Articles shall not be affected by the provisions of this Article.
-
-WITH THE REPUBLIC OF TUNISIA [S.L.123.64 7
 
 **Article 8**
 
@@ -293,9 +277,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \2. However, such dividends may also be taxed in the Contracting State of which the company paying the dividends is a resident and according to the laws of that State, but if the recipient is the beneficial owner of the dividends, the tax so charged shall not exceed 10 per cent of the gross amount of the dividends.
 
-\3. Notwithstanding the provisions of paragraph 2, where under the law of 8 [S.L.123.64 WITH THE REPUBLIC OF TUNISIA
-
-Malta a shareholder in receipt of a dividend is entitles to set off against his tax an amount corresponding to the tax paid or payable by the company in respect of the profits distributed to him by way of such dividend, then Malta tax on the dividends may exceed the rate set out in paragraph 2 hereof but shall not exceed that chargeable on the profits out of which dividends are paid and, in any case, shall not exceed 35 per cent of the gross amount of the dividends. The provisions of this paragraph shall be applicable only as long as Malta does not introduce corporation tax or a similar tax.
+\3. Notwithstanding the provisions of paragraph 2, where under the law of Malta a shareholder in receipt of a dividend is entitles to set off against his tax an amount corresponding to the tax paid or payable by the company in respect of the profits distributed to him by way of such dividend, then Malta tax on the dividends may exceed the rate set out in paragraph 2 hereof but shall not exceed that chargeable on the profits out of which dividends are paid and, in any case, shall not exceed 35 per cent of the gross amount of the dividends. The provisions of this paragraph shall be applicable only as long as Malta does not introduce corporation tax or a similar tax.
 
 \4. The term "dividends" as used in this Article means income from shares, jouissance shares or jouissance rights, mining shares, founders shares or other rights, not being debt-claims, participating in profits, as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
 
@@ -315,9 +297,7 @@ Malta a shareholder in receipt of a dividend is entitles to set off against his 
 
 \4. The term "interest" as used in this Article means income, from debt-claims of every kind, whether or not secured by mortgage, and whether or not carrying a right to participate in the debtor’s profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
-\5. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner WITH THE REPUBLIC OF TUNISIA [S.L.123.64 9
-
-of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
+\5. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \6. Interest shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment or fixed base, then such interest shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
@@ -337,9 +317,7 @@ Where, by reason of a special relationship between the payer and the beneficial 
 
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
-\5. Royalties shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a 10 [S.L.123.64 WITH THE REPUBLIC OF TUNISIA
-
-Contracting State or not, has in a Contracting State a permanent establishment or fixed base in connection with which the obligation to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
+\5. Royalties shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or fixed base in connection with which the obligation to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
 \6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the law of each Contracting State, due regard being had to the other provisions of this Convention.
 
@@ -365,9 +343,7 @@ Contracting State or not, has in a Contracting State a permanent establishment o
 
 (a) if he has a fixed base regularly available to him in the other Contracting State for the purpose of performing his activities; in that case, only so much of the income as is attributable to that fixed base may be taxed in that other Contracting State; or
 
-(b) if his stay in the other Contracting State is for a period or periods amounting to or exceeding in the aggregate 183 days in any twelve-month period; in that case, only so much of the income as is derived WITH THE REPUBLIC OF TUNISIA [S.L.123.64 11
-
-from the activity exercised in the other Contracting State may be taxed in that other State; or
+(b) if his stay in the other Contracting State is for a period or periods amounting to or exceeding in the aggregate 183 days in any twelve-month period; in that case, only so much of the income as is derived from the activity exercised in the other Contracting State may be taxed in that other State; or
 
 (c) if the remuneration for his services in the other Contracting State is derived from residents of that State and exceeds 50000 United States Dollars or its equivalent during the calendar year, notwithstanding that his stay in that State is for a period or periods amounting in the aggregate to less than 183 days during that year.
 
@@ -399,9 +375,7 @@ Directors’ fees and other similar payments derived by a resident of one of the
 
 \1. Notwithstanding the provisions of Articles 14 and 15, income derived by a resident of a Contracting State as an entertainer, such as a theatre, motion picture, radio or television artiste, or a musician, or as a sportsman, from his personal activities as such exercised in the other Contracting State, may be taxed in that other Contracting State.
 
-\2. Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman himself but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the 12 [S.L.123.64 WITH THE REPUBLIC OF TUNISIA
-
-entertainer or sportsman are exercised.
+\2. Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman himself but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the entertainer or sportsman are exercised.
 
 **Article 18**
 
@@ -441,8 +415,6 @@ A student or business apprentice who is present in a Contracting State solely fo
 
 \1. Items of income of a resident of a Contracting State, wherever arising, not dealt with in the foregoing Articles of this Convention shall be taxable only in that State.
 
-WITH THE REPUBLIC OF TUNISIA [S.L.123.64 13
-
 \2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 ## CHAPTER IV — ELIMINATION OF DOUBLE TAXATION — Article 22
@@ -463,9 +435,7 @@ However such credit shall not exceed that part of the tax which is attributable 
 
 **NON-DISCRIMINATION**
 
-\1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to 14 [S.L.123.64 WITH THE REPUBLIC OF TUNISIA
-
-residence, are or may be subjected.
+\1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected.
 
 \2. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reduction for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
 
@@ -485,7 +455,7 @@ residence, are or may be subjected.
 
 \3. The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Convention. They may also consult together for the elimination of double taxation in cases not provided for in the Convention.
 
-\4. The competent authorities of the Contracting States may communicate with each other directly for the purpose of reaching an agreement in the sense of the preceding paragraphs. When it seems advisable in order to reach agreement to have an oral exchange of opinions, such exchange may take place through a Commission consisting of representatives of the competent authorities of the Contracting States. WITH THE REPUBLIC OF TUNISIA [S.L.123.64 15
+\4. The competent authorities of the Contracting States may communicate with each other directly for the purpose of reaching an agreement in the sense of the preceding paragraphs. When it seems advisable in order to reach agreement to have an oral exchange of opinions, such exchange may take place through a Commission consisting of representatives of the competent authorities of the Contracting States.
 
 **Article 25**
 
@@ -521,9 +491,7 @@ The Contracting States shall notify each other of the completion of the procedur
 
 **TERMINATION**
 
-This Convention shall remain in force indefinitely but either of the Contracting States may, on or before the thirtieth day of June in any calendar year 16 [S.L.123.64 WITH THE REPUBLIC OF TUNISIA
-
-from the fifth year following that in which the Convention enters into force, give to the other Contracting State, through diplomatic channels, written notice of termination. In such event, the Convention shall cease to have effect:
+This Convention shall remain in force indefinitely but either of the Contracting States may, on or before the thirtieth day of June in any calendar year from the fifth year following that in which the Convention enters into force, give to the other Contracting State, through diplomatic channels, written notice of termination. In such event, the Convention shall cease to have effect:
 
 (i) in respect of taxes withheld at source, on income paid or credited on or after the first day of January in the calendar year next following that in which the notice is given; and
 

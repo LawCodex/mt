@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Ocean Governance under the auspices of the Faculty of Laws (S.L. 327.453)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF LAWS [S.L.327.453
-
 **SUBSIDIARY LEGISLATION 327.453**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -68,10 +64,6 @@ The course shall extend over a period of three semesters of full-time study.
 (2) Students who obtain the 60 ECTS credits assigned to the taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the Postgraduate Diploma.
 
 (3) The programme of study shall be published after approval by Senate, normally not less than eight months prior to the commencement of the course.
-
-*2*
-
-[S.L.327.453 UNDER THE AUSPICES OF THE FACULTY OF LAWS
 
 ## 6. Assessment and progress.
 

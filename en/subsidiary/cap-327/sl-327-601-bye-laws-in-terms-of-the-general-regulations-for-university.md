@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws in terms of the General Regulations for University Postgraduate Awards, 2008 for the degree of Master of Science in Biomedical Engineering (Biomechanics) - M.Sc. - offered under the auspices of the Faculty of Engineering and the Faculty of Medicine and Surgery (S.L. 327.601)
 
-(BIOMECHANICS) - M.SC. -UNDER THE AUSPICES OF
-
-THE FACULTY OF ENGINEERING AND THE FACULTY
-
-*1*
-
-OF MEDICINE AND SURGERY [S.L. 327.601
-
 **SUBSIDIARY LEGISLATION 327.601**
 
 **BYE-LAWS IN TERMS OF THEGENERAL**
@@ -65,11 +57,7 @@ These bye-laws shall be applicable for courses commencing in October 2018 or lat
 
 The Course shall be open to applicants in possession of one of the following qualifications:
 
-(a) the degree of Bachelor of Engineering (Honours) from this University, or from any other higher education institution recognized by Senate, ENGINEERING (BIOMECHANICS) - M.SC. -UNDER THE AUSPICES OF THE FACULTY OF ENGINEERING [S.L. 327.601 AND THE FACULTY OF MEDICINE AND SURGERY
-
-obtained with at least Second Class Honours; or
-
-*2*
+(a) the degree of Bachelor of Engineering (Honours) from this University, or from any other higher education institution recognized by Senate, obtained with at least Second Class Honours; or
 
 (b) the degree of Doctor of Medicine and Surgery from this University or equivalent obtained from any other higher education institution recognized by Senate; or
 
@@ -97,15 +85,7 @@ The Course shall extend over two years (four semesters) of full-time study.
 
 (1) The programme of study shall comprise study-units to which a total of 120 ECTS credits are assigned, of which 90 ECTS credits are assigned to taught study-units and 30 ECTS credits are assigned to the dissertation study-unit.
 
-(2) Students who obtain 60 ECTS credits assigned to taught study-units with an average mark of at least 50% and do not proceed with the Course, or having proceeded do not successfully complete (BIOMECHANICS) - M.SC. -UNDER THE AUSPICES OF
-
-THE FACULTY OF ENGINEERING AND THE FACULTY
-
-*3*
-
-OF MEDICINE AND SURGERY [S.L. 327.601
-
-the dissertation, shall be eligible for the award of the Postgraduate Diploma.
+(2) Students who obtain 60 ECTS credits assigned to taught study-units with an average mark of at least 50% and do not proceed with the Course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the Postgraduate Diploma.
 
 (3) Students shall be eligible for the award of the Degree if they obtain the 120 ECTS credits as outlined in the programme of study for the Course with an average mark of at least 50%.
 
@@ -131,11 +111,7 @@ the dissertation, shall be eligible for the award of the Postgraduate Diploma.
 
 (5) Students shall seek approval from the Board of Studies through their supervisors for any substantial modifications in the title or content of the dissertation.
 
-(6) Students shall be required to have regular contact with their supervisors, who shall submit to the Board of Studies progress ENGINEERING (BIOMECHANICS) - M.SC. -UNDER THE AUSPICES OF THE FACULTY OF ENGINEERING [S.L. 327.601 AND THE FACULTY OF MEDICINE AND SURGERY
-
-reports for the student/s under their supervision at the end of each semester of the second year of study. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
-
-*4*
+(6) Students shall be required to have regular contact with their supervisors, who shall submit to the Board of Studies progress reports for the student/s under their supervision at the end of each semester of the second year of study. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 

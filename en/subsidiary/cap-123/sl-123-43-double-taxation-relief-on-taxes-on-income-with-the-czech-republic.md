@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Czech Republic Order (S.L. 123.43)
 
-*1*
-
-WITH THE CZECH REPUBLIC [S.L.123.43
-
 **SUBSIDIARY LEGISLATION 123.43**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -44,8 +40,6 @@ It is hereby declared -
 (iii) the tax on immovable property;
 
 (b) that it is expedient that those arrangements should have effect.
-
-2 [S.L.123.43 WITH THE CZECH REPUBLIC
 
 ## SCHEDULE — CONVENTION — BETWEEN MALTA AND THE CZECH REPUBLIC
 
@@ -103,8 +97,6 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 Notwithstanding the other provisions of this Article, this Convention shall not apply to tax paid or payable in Malta in accordance with the provisions of sub-article (13) of article 56 of the Income Tax Act, concerning the chargeable income of any person engaged in the production of petroleum produced in Malta or any substantially similar provision which is imposed after the date of signature of this Convention.
 
-WITH THE CZECH REPUBLIC [S.L.123.43 3
-
 **ARTICLE 3**
 
 **General Definitions**
@@ -143,9 +135,7 @@ For the purposes of this Convention, unless the context otherwise requires:
 
 **Resident**
 
-\1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by 4 [S.L.123.43 WITH THE CZECH REPUBLIC
-
-reason of his domicile, residence, place of management or any other criterion of a similar nature. But this term does not include any person who is liable to tax in that State in respect only of income from sources in that State or capital situated therein.
+\1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature. But this term does not include any person who is liable to tax in that State in respect only of income from sources in that State or capital situated therein.
 
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
@@ -185,8 +175,6 @@ reason of his domicile, residence, place of management or any other criterion of
 
 (b) the furnishing of services, including consultancy and managerial services, by an enterprise through employees or other personnel engaged by the enterprise for such purpose, but only where activities of that nature continue within a Contracting State for a period or periods aggregating more than six months within any twelve month period.
 
-WITH THE CZECH REPUBLIC [S.L.123.43 5
-
 \4. Notwithstanding the preceding provisions of this Article, the term "permanent establishment" shall he deemed not to include:
 
 (a) the use of facilities solely for the purpose of storage, display or delivery of goods or merchandise belonging to the enterprise:
@@ -219,9 +207,7 @@ The fact that a company which is a resident of a Contractig State controls or is
 
 \1. Income derived by a resident of a Contracting State from immovable property (including income from agriculture or forestry) situated in the other Contracting State may be taxed in that other State.
 
-\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock 6 [S.L.123.43 WITH THE CZECH REPUBLIC
-
-and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, or to explore for, mineral deposits, sources and other natural resources; ships and aircraft shall not be regarded as immovable property.
+\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, or to explore for, mineral deposits, sources and other natural resources; ships and aircraft shall not be regarded as immovable property.
 
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
@@ -246,8 +232,6 @@ and equipment used in agriculture and forestry, rights to which the provisions o
 ## 7.
 
 Where profits include items of income which are dealt with separately in other Articles of this Convention, then the provisions of those Articles shall not be affected by the provisions of this Article.
-
-WITH THE CZECH REPUBLIC [S.L.123.43 7
 
 ## 8.
 
@@ -285,9 +269,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \1. Dividends paid by a company which is a resident of a Contracting State to a resident of the other Contracting State may be taxed in that other State.
 
-\2. However, such dividends may also be taxed in the Contracting State of which the company paying the dividends is a resident and according to the laws of 8 [S.L.123.43 WITH THE CZECH REPUBLIC
-
-that State, but:
+\2. However, such dividends may also be taxed in the Contracting State of which the company paying the dividends is a resident and according to the laws of that State, but:
 
 (a) where the dividends are paid by a company resident of the Czech Republic to a resident of Malta who is the beneficial owner thereof, the Czech tax so charged shall not exceed five per cent of the gross amount of the dividends;
 
@@ -309,9 +291,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \2. The term "interest" as used in this Articlc means income from debt-claims of every kind whether or not secured by mortgage and whether or not carrying a right to participate in the debtor’s profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bond, or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
-\3. The provisions of paragraph 1 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a WITH THE CZECH REPUBLIC [S.L.123.43 9
-
-fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
+\3. The provisions of paragraph 1 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \4. Where, by reason of a special relationship between the payer and the recipient who is the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the recipient in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
@@ -330,8 +310,6 @@ fixed base situated therein, and the debt-claim in respect of which the interest
 \5. Royalties shall be deemed to arise in a Contracting State when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishinent or a fixed base in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the Contracting State in which the permanent establishment or fixed base is situated.
 
 \6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
-
-10 [S.L.123.43 WITH THE CZECH REPUBLIC
 
 **ARTICLE 13**
 
@@ -358,8 +336,6 @@ fixed base situated therein, and the debt-claim in respect of which the interest
 (b) if his stay in the other Contracting State is for a period or periods amounting to or exceeding in the aggregate 120 days during any twelve-month period commencing or ending in the fiscal year concerned; in that case, only so much of the income as is derived from the activity exercised in the other Contracting State may be taxed in that other State. 2. In the computation of the periods mentioned in paragraph 1(b) the provisions of paragraph 3 of Article 15 shall apply.
 
 \3. The term "professional services" includes especially independent scientific, literary, artistic, educational or teaching activities as well as the independent activities of physicians, surgeons, lawyers, engineers, architects, dentists and accountants.
-
-WITH THE CZECH REPUBLIC [S.L.123.43 11
 
 **ARTICLE 15**
 
@@ -395,9 +371,7 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 **Artistes and Athletes**
 
-\1. Notwithstanding the provisions of Articles 14 and 15, income derived by a resident of a Contracting State as an entertainer, such as a theatre, motion picture, radio or television artiste, or a musician, or as an athlete, from his personal activities as such exercised in the other Contracting State, may be taxed in that other State. 12 [S.L.123.43 WITH THE CZECH REPUBLIC
-
-\2. Where income in respect of personal activities exercised by an entertainer or an athlete in his capacity as such accrues not to the entertainer or athlete himself but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the entertainer or athlete are exercised.
+\1. Notwithstanding the provisions of Articles 14 and 15, income derived by a resident of a Contracting State as an entertainer, such as a theatre, motion picture, radio or television artiste, or a musician, or as an athlete, from his personal activities as such exercised in the other Contracting State, may be taxed in that other State. 2. Where income in respect of personal activities exercised by an entertainer or an athlete in his capacity as such accrues not to the entertainer or athlete himself but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the entertainer or athlete are exercised.
 
 \3. Notwithstanding the provisions of paragraphs 1 and 2, income derived from such activities, as defined in paragraph 1, performed within the framework of cultural exchange between the Governments of both States, shall be exempt from tax in the Contracting State in which these activities are exercised.
 
@@ -428,8 +402,6 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 \3. The provisions of Articles 15, 16 and 18 shall apply to salaries, wages and other similar remuneration, and to pensions in respect of services rendered in connection with a business carried on by a Contracting State or a political subdivision or a local authority thereof.
 
 \4. Where salaries, values, and other similar remuneration are paid under a development assistance programme of a Contracting State, out of funds exclusively supplied by that State to a specialist or volunteer seconded to the other Contracting State with the consent of that other State, such remuneration shall be taxable only in the first-mentioned State.
-
-WITH THE CZECH REPUBLIC [S.L.123.43 13
 
 **ARTICLE 20**
 
@@ -463,9 +435,7 @@ A student or business apprentice who is present in a Contracting State solely fo
 
 \1. In the case of Malta, double taxation shall be eliminated as follows:
 
-Subject to the provisions of the law of Malta regarding the allowance of a credit against Malta tax in respect of foreign tax, where, in accordance with the provisions of this Convention, there is included in a Malta assessment income from sources 14 [S.L.123.43 WITH THE CZECH REPUBLIC
-
-within the Czech Republic, the Czech tax on such income shall be allowed as a credit against the relative Malta tax payable thereon.
+Subject to the provisions of the law of Malta regarding the allowance of a credit against Malta tax in respect of foreign tax, where, in accordance with the provisions of this Convention, there is included in a Malta assessment income from sources within the Czech Republic, the Czech tax on such income shall be allowed as a credit against the relative Malta tax payable thereon.
 
 \2. In the case of the Czech Republic, double taxation shall be eliminated as follows:
 
@@ -483,7 +453,7 @@ The Czech Republic, when imposing taxes on its residents, may include in the tax
 
 \2. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
 
-\3. Except where the provisions of paragraph 1 of Article 9, paragraph 4 of Article 11, or paragraph 6 of Article 12 apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resicient of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State. Similarly, any debts of an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable capital of such enterprise, be deductible under the same conditions as if they had been contracted to a resident of the first-mentioned State. WITH THE CZECH REPUBLIC [S.L.123.43 15
+\3. Except where the provisions of paragraph 1 of Article 9, paragraph 4 of Article 11, or paragraph 6 of Article 12 apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resicient of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State. Similarly, any debts of an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable capital of such enterprise, be deductible under the same conditions as if they had been contracted to a resident of the first-mentioned State.
 
 \4. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of that first-mentioned State are or may be subjected.
 
@@ -506,8 +476,6 @@ The Czech Republic, when imposing taxes on its residents, may include in the tax
 **Exchange of Information**
 
 \1. The competent authorities of the Contracting States shall exchange such information as is necessary for carrying out the provisions of this Convention or of the domestic laws of the Contracting States concerning taxes covered by the Convention insofar as the taxation thereunder is not contrary to the Convention. The exchange of information is not restricted by Article 1. Any information received by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (inclucling courts and administrative bodies) involved in the assesstnent or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by the Convention. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
-
-16 [S.L.123.43 WITH THE CZECH REPUBLIC
 
 \2. In no case shall the provisions of paragraph 1 be construed so as to impose on a Contracting State the obligation:
 
@@ -548,8 +516,6 @@ in respect of taxes on income derived during any calendar year or accounting per
 This Convention shall remain in force until terminated by a Contracting State. Either Contracting State may terminate the Convention, through diplomatic channels, by giving notice of termination at least six months before the end of any calendar year beginning after the expiration of a period of five years from the date of its entry into force. In such event, the Convention shall cease to have effect:
 
 (a) in the Czech Republic:
-
-WITH THE CZECH REPUBLIC [S.L.123.43 17
 
 (i) in respect of taxes withheld at source, to amounts derived on or after 1st January in the calendar year next following that in which the notice is given;
 

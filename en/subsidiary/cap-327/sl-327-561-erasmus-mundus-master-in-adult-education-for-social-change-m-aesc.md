@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Erasmus Mundus Master in Adult Education for Social Change - M. AESC - Degree Course Regulations (S.L. 327.561)
 
-SOCIAL CHANGE - M. AESC - UNDER THE AUSPICES OF
-
-*1*
-
-THE FACULTY OF EDUCATION DEGREE COURSE [S.L.327.561
-
 **SUBSIDIARY LEGISLATION 327.561**
 
 **ERASMUS MUNDUS MASTER IN ADULT**
@@ -67,11 +61,7 @@ These regulations shall apply to courses commencing in September 2016 or later.
 
 ## 3. Qualifications for admission.
 
-(1) The course shall be open to applicants in possession of a Bachelor degree obtained with at least Second Class Honours SOCIAL CHANGE - M. AESC - UNDER THE AUSPICES OF [S.L.327.561 THE FACULTY OF EDUCATION DEGREE COURSE
-
-(Upper Division) or comparable in an area of study deemed suitable by the Board of Studies.
-
-*2*
+(1) The course shall be open to applicants in possession of a Bachelor degree obtained with at least Second Class Honours (Upper Division) or comparable in an area of study deemed suitable by the Board of Studies.
 
 (2) Applicants are required to demonstrate that their standard of English is satisfactory. The offer of a place on the course may be made subject to the applicants obtaining such proficiency qualifications prior to the commencement of their studies.
 
@@ -106,12 +96,6 @@ The Board of Studies shall draw up a catalogue of all study-units. The catalogue
 (1) Students who obtain an average of grade D or above in the taught study-units with at least 75% of the units passed at grade E or better shall be allowed to proceed to the dissertation study-unit.
 
 (2) Students shall be required to submit an individual dissertation of 15,000-20,000 words in accordance with the guidelines issued by the Board of Studies.
-
-SOCIAL CHANGE - M. AESC - UNDER THE AUSPICES OF
-
-*3*
-
-THE FACULTY OF EDUCATION DEGREE COURSE [S.L.327.561
 
 (3) Work on the dissertation shall be undertaken during the final semester of the course. Students shall submit for approval a title and a detailed research proposal by the deadline and in the format specified by the Board of Studies.
 

@@ -1,6 +1,6 @@
 ---
 title: "Master of Notarial Studies Order"
-identifier: "S.L. 55.8"
+identifier: "S.L. 55.08"
 eli: "https://legislation.mt/eli/sl/55.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/55.8/20150406/eng"
 retrieved: 2026-10-12
 ---
 
-# Master of Notarial Studies Order (S.L. 55.8)
+# Master of Notarial Studies Order (S.L. 55.08)
 
 **SUBSIDIARY LEGISLATION 55.08**
 

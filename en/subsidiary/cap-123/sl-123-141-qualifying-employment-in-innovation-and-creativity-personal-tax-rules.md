@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Qualifying Employment in Innovation and Creativity (Personal Tax) Rules (S.L. 123.141)
 
-*1*
-
-AND CREATIVITY (PERSONAL TAX) [S.L.123.141
-
 **SUBSIDIARY LEGISLATION 123.141**
 
 **QUALIFYING EMPLOYMENT IN INNOVATION**
@@ -61,15 +57,11 @@ The title of these rules is the Qualifying Employment in Innovation and Creativi
 
 "relevant experience" means at least three years of experience in a role comparable to that of the eligible office as may be further specified in a Guideline document issued by the Corporation;
 
-''relevant qualification'' means any diploma, certificate, degree or other formal educational achievement in a subject area relevant to an eligible office, attained through an educational establishment attesting the successful completion of a post-secondary education programme at graduate level as recognized by the Malta Qualifications Recognition Information Centre as established by article 6 of the Mutual [S.L.123.141 AND CREATIVITY (PERSONAL TAX)
+''relevant qualification'' means any diploma, certificate, degree or other formal educational achievement in a subject area relevant to an eligible office, attained through an educational establishment attesting the successful completion of a post-secondary education programme at graduate level as recognized by the Malta Qualifications Recognition Information Centre as established by article 6 of the Mutual Recognition of Qualifications Act;
 
 *Cap. 451.*
 
 \*see regulation 1(2) of these Regulations as originally promulgated.
-
-Recognition of Qualifications Act;
-
-*2*
 
 "rights acquired under this law" means the right to elect to pay tax at the reduced rate of tax contemplated in article 56(21) of the Act and these rules;
 
@@ -102,10 +94,6 @@ A beneficiary is an individual who meets all of the following conditions:
 (b) he is protected as an employee under Maltese law, irrespective of the legal relationship, for the purpose of exercising genuine and effective work for, or under the direction of, someone else, is paid, and has the required adequate and specific competence, as proven to the satisfaction of the Corporation;
 
 (c) he proves to the satisfaction of the Corporation that he is in possession of a relevant qualification or relevant experience;
-
-*3*
-
-AND CREATIVITY (PERSONAL TAX) [S.L.123.141
 
 (d) he is not an individual who has benefited under article 6 of the Act;
 
@@ -147,11 +135,7 @@ Provided that the rate of 15% shall apply without possibility to claim any relie
 
 (b) by application, to any additional periods of up to five (5) consecutive years.
 
-(2) Subject to the continued adherence to these rules the rights acquired shall continue to apply if the individual enters into a new [S.L.123.141 AND CREATIVITY (PERSONAL TAX)
-
-contract of employment which is also considered to be an eligible office and there is no more than thirty (30) days between the termination of one contract of employment and the commencement of the other contract of employment.
-
-*4*
+(2) Subject to the continued adherence to these rules the rights acquired shall continue to apply if the individual enters into a new contract of employment which is also considered to be an eligible office and there is no more than thirty (30) days between the termination of one contract of employment and the commencement of the other contract of employment.
 
 (3) Rights acquired under these rules shall be deemed to have been withdrawn with immediate effect if the grant of benefits under these rules and the beneficiary’s stay in Malta are not in the public interest.
 
@@ -175,11 +159,7 @@ Provided further that liability to pay additional tax in terms of the preceding 
 
 ## 9. Request for information.
 
-(1) For the purpose of ascertaining an individual’s right to exercise the option referred to in these rules and ensuring the proper application of these rules, the Commissioner and the Corporation may require that individual to produce, within the time indicated by the Commissioner and the Corporation in that request, such further information and documents as the Commissioner and the Corporation may consider necessary, including certifications AND CREATIVITY (PERSONAL TAX) [S.L.123.141
-
-and declarations of the employer of that individual.
-
-*5*
+(1) For the purpose of ascertaining an individual’s right to exercise the option referred to in these rules and ensuring the proper application of these rules, the Commissioner and the Corporation may require that individual to produce, within the time indicated by the Commissioner and the Corporation in that request, such further information and documents as the Commissioner and the Corporation may consider necessary, including certifications and declarations of the employer of that individual.
 
 (2) If an individual fails, without any valid reason, to comply with any request relating to his income made to him by the Commissioner and the Corporation in accordance with this rule, the Commissioner and the Corporation may order that article 56(21) of the Act shall not apply to that income. In such a case, the Commissioner may make an assessment and the tax on that income shall be calculated at the rates provided for in the Act without any reference to the said sub-article.
 

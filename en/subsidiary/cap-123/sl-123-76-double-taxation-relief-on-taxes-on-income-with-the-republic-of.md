@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Republic of Lithuania Order (S.L. 123.76)
 
-*1*
-
-WITH THE REPUBLIC OF LITHUANIA [S.L.123.76
-
 **SUBSIDIARY LEGISLATION 123.76**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -50,8 +46,6 @@ It is hereby declared:
 (c) that the Convention has entered into force on the 2nd February, 2004.
 
 \*https://cfr.gov.mt/en/inlandrevenue/itu/Documents/Malta%20-%20Lithua-nia%20DTA%20(synthesised%20text).pdf
-
-2 [S.L.123.76 WITH THE REPUBLIC OF LITHUANIA
 
 ## SCHEDULE — CONVENTION BETWEEN THE GOVERNMENT OF MALTA — AND THE GOVERNMENT OF THE REPUBLIC OF LITHUANIA
 
@@ -111,9 +105,7 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 \1. For the purposes of this Convention, unless the context otherwise requires:
 
-(a) the term "Lithuania" means the Republic of Lithuania and, when used in the geographical sense, means the territory of the Republic of Lithuania and any other area adjacent to the territorial sea of the Republic of Lithuania within which under the laws of the Republic of Lithuania and WITH THE REPUBLIC OF LITHUANIA [S.L.123.76 3
-
-in accordance with international law, the rights of Lithuania may be exercised with respect to the sea bed and its sub-soil and their natural resources;
+(a) the term "Lithuania" means the Republic of Lithuania and, when used in the geographical sense, means the territory of the Republic of Lithuania and any other area adjacent to the territorial sea of the Republic of Lithuania within which under the laws of the Republic of Lithuania and in accordance with international law, the rights of Lithuania may be exercised with respect to the sea bed and its sub-soil and their natural resources;
 
 (b) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein the Republic of Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
 
@@ -144,8 +136,6 @@ in accordance with international law, the rights of Lithuania may be exercised w
 **RESIDENT**
 
 \1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of management, place of incorporation or any other criterion of a similar nature, and also includes that State and any local authority thereof. This term, however, does not include any person who is liable to tax in that State in respect only of income from sources in that State.
-
-4 [S.L.123.76 WITH THE REPUBLIC OF LITHUANIA
 
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
@@ -189,8 +179,6 @@ in accordance with international law, the rights of Lithuania may be exercised w
 
 Notwithstanding the preceding provisions of this Article, the term "permanent establishment" shall be deemed not to include:
 
-WITH THE REPUBLIC OF LITHUANIA [S.L.123.76 5
-
 (a) the use of facilities solely for the purpose of storage, display or delivery of goods or merchandise belonging to the enterprise;
 
 (b) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of storage, display or delivery;
@@ -221,9 +209,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \1. Income derived by a resident of a Contracting State from immovable property (including income from agriculture or forestry) situated in the other Contracting State may be taxed in that other State.
 
-\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The provisions of this Convention relating to immovable property shall apply also to property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, any option or similar right to acquire immovable property, usufruct of immovable property and rights to variable or fixed payments as 6 [S.L.123.76 WITH THE REPUBLIC OF LITHUANIA
-
-consideration for the working of, or the right to work, or to explore for, mineral deposits, sources and other natural resources. Ships, boats and aircraft shall not be regarded as immovable property.
+\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The provisions of this Convention relating to immovable property shall apply also to property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, any option or similar right to acquire immovable property, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, or to explore for, mineral deposits, sources and other natural resources. Ships, boats and aircraft shall not be regarded as immovable property.
 
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
@@ -250,8 +236,6 @@ consideration for the working of, or the right to work, or to explore for, miner
 ## 7.
 
 Where profits include items of income which are dealt with separately in other Articles of this Convention, then the provisions of those Articles shall not be affected by the provisions of this Article.
-
-WITH THE REPUBLIC OF LITHUANIA [S.L.123.76 7
 
 **Article 8**
 
@@ -289,9 +273,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 (ii) 15 per cent of the gross amount of the dividends in all other cases;
 
-(b) where the dividends are paid by a company which is a resident of Malta 8 [S.L.123.76 WITH THE REPUBLIC OF LITHUANIA
-
-to a resident of Lithuania who is the beneficial owner thereof, Malta tax on the gross amount of the dividends shall not exceed that chargeable on the profits out of which the dividends are paid.
+(b) where the dividends are paid by a company which is a resident of Malta to a resident of Lithuania who is the beneficial owner thereof, Malta tax on the gross amount of the dividends shall not exceed that chargeable on the profits out of which the dividends are paid.
 
 This paragraph shall not affect the taxation of the company in respect of the profits out of which the dividends are paid.
 
@@ -313,9 +295,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \4. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor’s profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. The term "interest" shall not include any income which is treated as a dividend under the provisions of Article 10. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
-\5. The provisions of paragraphs 1, 2 and 3 shall not apply if the beneficial WITH THE REPUBLIC OF LITHUANIA [S.L.123.76 9
-
-owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
+\5. The provisions of paragraphs 1, 2 and 3 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \6. Interest shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment or fixed base, then such interest shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
@@ -335,9 +315,7 @@ Where, by reason of a special relationship between the payer and the beneficial 
 
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
-\5. Royalties shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent 10 [S.L.123.76 WITH THE REPUBLIC OF LITHUANIA
-
-establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
+\5. Royalties shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
 \6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
@@ -360,8 +338,6 @@ establishment or fixed base, then such royalties shall be deemed to arise in the
 \1. Income derived by an individual who is a resident of a Contracting State in respect of professional services or other activities of an independent character shall be taxable only in that State unless he has a fixed base regularly available to him in the other Contracting State for the purpose of performing his activities. If he has such a fixed base, the income may be taxed in the other State but only so much of it as is attributable to that fixed base. If an individual who is a resident of a Contracting State has no such a fixed base but he stays in the other Contracting State for a period or periods exceeding in the aggregate 183 days in any twelve month period commencing or ending in the fiscal year concerned, he shall be deemed to have a fixed base regularly available to him in that other State and the income that is derived from his activities referred to above that are performed in that other State shall be attributable to that fixed base.
 
 \2. The term "professional services" includes especially independent scientific, literary, artistic, educational or teaching activities as well as the independent activities of physicians, lawyers, engineers, architects, dentists and accountants.
-
-WITH THE REPUBLIC OF LITHUANIA [S.L.123.76 11
 
 **Article 15**
 
@@ -394,8 +370,6 @@ Directors’ fees and other similar remuneration derived by a resident of a Cont
 \2. Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman himself but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the entertainer or sportsman are exercised.
 
 \3. The provisions of paragraphs 1 and 2 shall not apply to income derived from activities exercised in a Contracting State by an entertainer or a sportsman if the visit to that State is wholly or mainly supported by public funds of one or both of the Contracting States or local authorities thereof. In such case, the income shall be taxable only in the Contracting State of which the entertainer or sportsman is a resident.
-
-12 [S.L.123.76 WITH THE REPUBLIC OF LITHUANIA
 
 **Article 18**
 
@@ -437,9 +411,7 @@ A student, an apprentice or a trainee who is present in a Contracting State sole
 
 \2. For the purposes of this Article, the term "offshore activities" means activities carried on offshore in a Contracting State in connection with the exploration or exploitation of the sea bed and sub-soil and their natural resources situated in that State.
 
-\3. A person who is a resident of a Contracting State and carries on offshore WITH THE REPUBLIC OF LITHUANIA [S.L.123.76 13
-
-activities in the other Contracting State shall, subject to paragraph 4, be deemed to be carrying on business in that other State through a permanent establishment or a fixed base situated therein.
+\3. A person who is a resident of a Contracting State and carries on offshore activities in the other Contracting State shall, subject to paragraph 4, be deemed to be carrying on business in that other State through a permanent establishment or a fixed base situated therein.
 
 \4. The provisions of paragraph 3 shall not apply where the offshore activities are carried on for a period or periods not exceeding in the aggregate 30 days in any twelve month period. For the purposes of this paragraph:
 
@@ -467,8 +439,6 @@ In this paragraph the term "exploration or exploitation rights" means rights to 
 
 \2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in paragraph 2 of Article 6, if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
-14 [S.L.123.76 WITH THE REPUBLIC OF LITHUANIA
-
 **Article 23**
 
 **ELIMINATION OF DOUBLE TAXATION**
@@ -491,9 +461,7 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 \2. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
 
-\3. Except where the provisions of paragraph 1 of Article 9, paragraph 7 of Article 11, or paragraph 6 of Article 12, apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a WITH THE REPUBLIC OF LITHUANIA [S.L.123.76 15
-
-resident of the first-mentioned State.
+\3. Except where the provisions of paragraph 1 of Article 9, paragraph 7 of Article 11, or paragraph 6 of Article 12, apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
 
 \4. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the firstmentioned State are or may be subjected.
 
@@ -518,8 +486,6 @@ resident of the first-mentioned State.
 \2. In no case shall the provisions of paragraph 1 be construed so as to impose on a Contracting State the obligation:
 
 (a) to carry out administrative measures at variance with the laws and administrative practice of that or of the other Contracting State;
-
-16 [S.L.123.76 WITH THE REPUBLIC OF LITHUANIA
 
 (b) to supply information which is not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;
 
@@ -553,9 +519,7 @@ Nothing in this Convention shall affect the fiscal privileges of members of dipl
 
 (i) in respect of taxes withheld at source, on income derived on or after the first day of January in the calendar year next following the year in which the Convention enters into force;
 
-(ii) in respect of other taxes on income, for taxes chargeable for any fiscal year beginning on or after the first day of January in the calendar year next following the year in which the Convention WITH THE REPUBLIC OF LITHUANIA [S.L.123.76 17
-
-enters into force;
+(ii) in respect of other taxes on income, for taxes chargeable for any fiscal year beginning on or after the first day of January in the calendar year next following the year in which the Convention enters into force;
 
 (b) in Malta:
 
@@ -593,9 +557,7 @@ At the signing of the Convention between the Government of the Republic of Lithu
 
 \1. With reference to paragraph 3 of Article 4
 
-It is understood that under the domestic legislation in Lithuania, a company may only be considered resident for tax purposes if it is incorporated in Lithuania. Should such legislation be changed to provide for tax residence to be established also on the basis of the place of effective management of a company, then where a company is considered to be a resident of both Contracting States, it shall be deemed to be a resident only of the Contracting State in which its place of effective management is 18 [S.L.123.76 WITH THE REPUBLIC OF LITHUANIA
-
-situated. This provision shall be applicable from the date from which the said change in legislation shall have effect.
+It is understood that under the domestic legislation in Lithuania, a company may only be considered resident for tax purposes if it is incorporated in Lithuania. Should such legislation be changed to provide for tax residence to be established also on the basis of the place of effective management of a company, then where a company is considered to be a resident of both Contracting States, it shall be deemed to be a resident only of the Contracting State in which its place of effective management is situated. This provision shall be applicable from the date from which the said change in legislation shall have effect.
 
 \2. With reference to paragraph 1 of Article 7
 

@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Science (Honours) Health Science - B.Sc. (Hons) Health Science - under the auspices of the Faculty of Health Sciences (S.L. 327.352)
 
-SCIENCE - B.SC. (HONS) HEALTH SCIENCE - UNDER THE
-
-*1*
-
-AUSPICES OF THE FACULTY OF HEALTH SCIENCES [S.L.327.352
-
 **SUBSIDIARY LEGISLATION 327.352**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF SCIENCE (HONOURS) HEALTH SCIENCE - B.SC.
@@ -72,11 +66,11 @@ and
 
 (c) the licence to practice in the register of the profession concerned, as kept by the relevant regulatory council.Determination of number of applicants.
 
-*2*
-
-SCIENCE - B.SC. (HONS) HEALTH SCIENCE - UNDER THE [S.L.327.352 AUSPICES OF THE FACULTY OF HEALTH SCIENCES 4. (1) The Board shall, after approval by Senate, determine the number of applicants that may be allowed to register for the course depending on the availability of resources. The Board shall announce the number of available places at the time of the call for applications.
+## 4.
 
 *Amended by: L.N. 353 of 2011. Substituted by: L.N. 391 of 2012. Amended by: L.N. 195 of 2013; L.N. 325 of 2014; L.N. 279 of 2017.*
+
+(1) The Board shall, after approval by Senate, determine the number of applicants that may be allowed to register for the course depending on the availability of resources. The Board shall announce the number of available places at the time of the call for applications.
 
 (2) If the number of eligible applicants exceeds the number of available places, the Board shall select applicants according to the following criteria:
 
@@ -110,13 +104,7 @@ SCIENCE - B.SC. (HONS) HEALTH SCIENCE - UNDER THE [S.L.327.352 AUSPICES OF THE F
 
 (i) applicants having 1 year relevant work experience shall be awarded 1 mark;
 
-provided that the date used for the purpose of calculating the years of work experience in gainful employment shall be that of the commencement of the SCIENCE - B.SC. (HONS) HEALTH SCIENCE - UNDER THE
-
-*3*
-
-AUSPICES OF THE FACULTY OF HEALTH SCIENCES [S.L.327.352
-
-Course;
+provided that the date used for the purpose of calculating the years of work experience in gainful employment shall be that of the commencement of the Course;
 
 (iii) successful completion of the ‘Clinical Education in Practice’ (HSC4061) or ‘Mentorship’ (NUR3227) study-unit or a unit deemed by the Board of Studies to be equivalent, and holding 2 academic years of experience as a clinical supervisor in undergraduate Health Sciences programmes offered by the University of Malta (20% weighting); and
 
@@ -153,10 +141,6 @@ Students who would have successfully completed the Certificate in Clinical Nursi
 (2) Students who in any academic year fail in the assessment of not more than 10 credits shall be given the opportunity to resit the failed assessments during the September assessment session.
 
 (3) Students who fail in the re-assessment of a compulsory study-unit shall be allowed to refer the failed study-unit to the following year to be done over and above the study-units for that year.
-
-*4*
-
-SCIENCE - B.SC. (HONS) HEALTH SCIENCE - UNDER THE [S.L.327.352 AUSPICES OF THE FACULTY OF HEALTH SCIENCES
 
 (4) In the case of non-compulsory referred study-units, the Board may allow or require students to register for alternative study-units which fall within the scope of the programme of study.
 

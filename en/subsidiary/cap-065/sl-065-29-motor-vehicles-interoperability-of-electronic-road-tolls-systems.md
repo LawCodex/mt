@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Motor Vehicles (Interoperability of Electronic Road Tolls Systems) Regulations (S.L. 65.29)
 
-*1*
-
-OF ELECTRONIC ROAD TOLLS SYSTEMS) [S.L.65.29
-
 **SUBSIDIARY LEGISLATION 65.29**
 
 **MOTOR VEHICLES (INTEROPERABILITY OF**
@@ -62,10 +58,6 @@ In these regulations, unless the context otherwise requires:
 
 (2) In order to allow the identification of the vehicle, and the owner or holder of that vehicle, in relation to a failure to pay a road fee has been established, the Authority shall grant access only to other Member States’ national contact points to the following national vehicle registration data, with the power to conduct automated searches thereon:
 
-*2*
-
-[S.L.65.29 OF ELECTRONIC ROAD TOLLS SYSTEMS)
-
 (a) data relating to vehicles; and
 
 (b) data relating to the owners or holders of the vehicle. (3) The data elements referred to in paragraphs (a) and (b) of sub-regulation (2) which are necessary in order to conduct an automated search shall comply with the First Schedule and all automated searches are to comply with the requirements of the said Schedule.
@@ -93,10 +85,6 @@ In these regulations, unless the context otherwise requires:
 *Added by: L.N. 54 of 2023.*
 
 (1) The Authority may provide the entity responsible for levying the road feewith the data obtained through the procedure referred to in regulation 3 only if the following conditions are satisfied:
-
-*3*
-
-OF ELECTRONIC ROAD TOLLS SYSTEMS) [S.L.65.29
 
 (a) the data transferred is limited to what is needed by that entity to obtain the road fee due;
 
@@ -130,11 +118,7 @@ The Authority shall send a comprehensive report to the Commission by 19 April 20
 
 (c) where applicable, a time limit is established for the storage of personal data.
 
-(3) The Authority shall take the measures necessary to ensure that personal data processed under these regulations is used only for the purpose of the identification of the vehicle and the owner or holder of the vehicle in relation to which a failure to pay a road fee [S.L.65.29 OF ELECTRONIC ROAD TOLLS SYSTEMS)
-
-in another Member State has been established within the scope of regulation 3.
-
-*4*
+(3) The Authority shall take the measures necessary to ensure that personal data processed under these regulations is used only for the purpose of the identification of the vehicle and the owner or holder of the vehicle in relation to which a failure to pay a road fee in another Member State has been established within the scope of regulation 3.
 
 (4) Any person concerned shall have the right to obtain, without undue delay, information from the Authority on which personal data recorded in the Authority’s registration was transmitted to a Member State in which there was a failure to pay a road fee, including the date of the request and the competent authority of the Member State in whose territory there was a failure to pay a road fee.
 
@@ -143,10 +127,6 @@ in another Member State has been established within the scope of regulation 3.
 *Added by: L.N. 54 of 2023.*
 
 The provisions of the Directive shall be applicable should a toll system be established for any road in Malta.
-
-**OF ELECTRONIC ROAD TOLLS SYSTEMS) [S.L.65.29**
-
-*5*
 
 Substituted by: FIRST SCHEDULE
 
@@ -218,10 +198,6 @@ Technically permissible maximum M
 
 laden mass of the vehicle
 
-*6*
-
-[S.L.65.29 OF ELECTRONIC ROAD TOLLS SYSTEMS)
-
 (1)
 
 M = mandatory when available in national register, O = optional.
@@ -288,8 +264,6 @@ Legal entity M Individual, association, company, firm, etc.
 
 Place of birth O
 
-OF ELECTRONIC ROAD TOLLS SYSTEMS) [S.L.65.29 7
-
 ID Number O An identifier that uniquely identifies the person or the company.
 
 In case of scrap vehicles, stolen vehicles or number plates, or outdated vehicle registration no owner or holder information shall be provided. Instead, the message "Information not disclosed" shall be returned.
@@ -327,8 +301,6 @@ On ..................................... [date] a failure to pay a road fee with
 number..................................make............................................model............................... ..........was detected by...........................................................................................................[name of the responsible body]
 
 [Option 1] (1)
-
-8 [S.L.65.29 OF ELECTRONIC ROAD TOLLS SYSTEMS)
 
 You are registered as the holder of the registration certificate of the abovementioned vehicle.
 
@@ -371,8 +343,6 @@ Nature and legal classification of the failure to pay a road fee:
 Detailed description of the failure to pay a road fee:
 
 ................................................................................................................................. ...........................................................................
-
-OF ELECTRONIC ROAD TOLLS SYSTEMS) [S.L.65.29 9
 
 Reference to the relevant legal provision(s):
 
@@ -420,8 +390,6 @@ B. List of questions:
 
 \1. Is the vehicle, make................., registration number ................., registered in your name?................ yes or no (1)
 
-10 [S.L.65.29 OF ELECTRONIC ROAD TOLLS SYSTEMS)
-
 If not, the holder of the registration certificate is:.................................................................
 
 (name, first name, address)
@@ -460,9 +428,7 @@ If this case is not pursued, you will be informed within 60 days after receipt o
 
 If this case is pursued, the following procedure applies:
 
-................................................................................................................................. ........................................................................................................................................... ........................................................................................................................................... OF ELECTRONIC ROAD TOLLS SYSTEMS) [S.L.65.29 11
-
-........................................................................................................................................... ........................................................................................................................................... ........................................................................................................................................... ........................................................................................................................................... ........................................................................................................................................... ........................................................................................................................................... ........................................................................................................................................... ........................................................................................................................................... ........................................................................................................................................... .............................................................................................................
+................................................................................................................................. ........................................................................................................................................... ........................................................................................................................................... ........................................................................................................................................... ........................................................................................................................................... ........................................................................................................................................... ........................................................................................................................................... ........................................................................................................................................... ........................................................................................................................................... ........................................................................................................................................... ........................................................................................................................................... ........................................................................................................................................... .............................................................................................................
 
 [to be filled in by the Member State in whose territory there was a failure to pay a road fee – what the further procedure will be, including details of the possibility and procedure of appeal against the decision to pursue the case. These details shall in any event include: name and address of the authority or entity in charge of pursuing the case; deadline for payment; name and address of the body of appeal concerned; deadline for appeal].
 

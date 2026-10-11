@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts - M.A. - under the auspices of the Faculty for Social Wellbeing (S.L. 327.562)
 
-*1*
-
-AUSPICES OF THE FACULTY FOR SOCIAL WELLBEING [S.L.327.562
-
 **SUBSIDIARY LEGISLATION 327.562**
 
 DEGREE OF MASTER OF ARTS - M.A. - UNDER THE AUSPICES OF THE FACULTY
@@ -63,11 +59,9 @@ The course shall be offered in any area of study that falls within the academic 
 
 (3) The interviewing board appointed by the Board shall be composed of at least three members.
 
-(4) The Board shall recommend to Senate the number of applicants that may be allowed to register for the course, depending on the availability of resources. The Board shall announce the areas of study and the number of available places at the time of the call [S.L.327.562 AUSPICES OF THE FACULTY FOR SOCIAL WELLBEING for applications.
+(4) The Board shall recommend to Senate the number of applicants that may be allowed to register for the course, depending on the availability of resources. The Board shall announce the areas of study and the number of available places at the time of the call for applications.
 
 (5) When the number of places is so limited and the number of eligible applicants exceeds the number of places available, applicants will be selected using the following criteria, the weighting of which shall be published at the time of the call for applications:
-
-*2*
 
 (a) degree type and class;
 
@@ -105,11 +99,7 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 ## 9. Dissertation.
 
-(1) Students shall be required to submit an individual AUSPICES OF THE FACULTY FOR SOCIAL WELLBEING [S.L.327.562
-
-dissertation of approximately 35,000 to 40,000 words in accordance with the guidelines issued by the Board of Studies.
-
-*3*
+(1) Students shall be required to submit an individual dissertation of approximately 35,000 to 40,000 words in accordance with the guidelines issued by the Board of Studies.
 
 (2) Work on the dissertation may be undertaken at any time during the course after approval of the research proposal. Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
 

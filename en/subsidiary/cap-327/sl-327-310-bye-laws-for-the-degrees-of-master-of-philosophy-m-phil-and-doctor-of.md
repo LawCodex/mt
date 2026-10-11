@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degrees of Master of Philosophy - M.Phil. - and Doctor of Philosophy - Ph.D. under the auspices of the Faculty of the European Centre for Gerantology (S.L. 327.310)
 
-DOCTOR OF PHILOSOPHY - PH.D. - UNDER THE AUS-
-
-*1*
-
-PICES OF THE EUROPEAN CENTRE FOR GERONTOLOGY [S.L.327.310
-
 **SUBSIDIARY LEGISLATION 327.310**
 
 DEGREES OF MASTER OF PHILOSOPHY - M.PHIL.
@@ -67,11 +61,7 @@ The supervisor shall be an established authority in the relevant field of invest
 
 (1) The length of an M.Phil. dissertation shall not normally exceed 50,000 words whilst the length of a Ph.D. thesis shall be not less than 70,000 and not more than 90,000 words, including foot/ endnotes, but excluding bibliography and/or analytical indices and any appendices.
 
-(2) Students shall be required to submit three copies of the dissertation or thesis for examination purposes which shall be adequately bound. Each copy shall contain an abstract of not more DOCTOR OF PHILOSOPHY - PH.D. - UNDER THE AUS- [S.L.327.310 PICES OF THE EUROPEAN CENTRE FOR GERONTOLOGY
-
-than 300 words. Within one month of passing the examination of the dissertation or thesis, students must submit two copies, one of which should be deposited at the University library and the other at the library of the Centre.
-
-*2*
+(2) Students shall be required to submit three copies of the dissertation or thesis for examination purposes which shall be adequately bound. Each copy shall contain an abstract of not more than 300 words. Within one month of passing the examination of the dissertation or thesis, students must submit two copies, one of which should be deposited at the University library and the other at the library of the Centre.
 
 (3) The two copies are to be bound as follows:
 

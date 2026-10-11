@@ -1,6 +1,6 @@
 ---
 title: "Central Bank of Malta (Appointment of Designate Authority to implement Macro-Prudential Instruments) Regulations"
-identifier: "S.L. 204.6"
+identifier: "S.L. 204.06"
 eli: "https://legislation.mt/eli/sl/204.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/204.6/20251205/eng"
 retrieved: 2026-10-12
 ---
 
-# Central Bank of Malta (Appointment of Designate Authority to implement Macro-Prudential Instruments) Regulations (S.L. 204.6)
-
-OF DESIGNATE AUTHORITY TO IMPLEMENT
-
-*1*
-
-MACRO-PRUDENTIAL INSTRUMENTS) [S.L.204.06
+# Central Bank of Malta (Appointment of Designate Authority to implement Macro-Prudential Instruments) Regulations (S.L. 204.06)
 
 **SUBSIDIARY LEGISLATION 204.06**
 
@@ -50,15 +44,9 @@ LEGAL NOTICE 29 of 2014, as amended by Legal Notices 314 of 2022 230 of 2024 and
 
 (2) The Minister responsible for finance hereby appoints the Central Bank of Malta, which shall act jointly with the competent authority, as the Designate Authority for the purposes of Article 131(1) of the Directive to identify, on a consolidated basis, global systemically important institutions (G-SIIs), and, on an individual, sub-consolidated or consolidated basis, as applicable, other systemically important institutions (O-SIIs), which have been authorised within Malta.
 
-(3) The Minister responsible for finance hereby appoints the Central Bank of Malta as the Designate Authority for the purposes of Article 458(1) of the Regulation to identify changes in the intensity of macro-prudential or systemic risk in the financial system with the potential to have serious negative consequences to the financial system and the real economy in Malta and which that authority considers would better be addressed by means of stricter national measures, to draft national measures for domestically authorised institutions, or a subset of those institutions, intended to OF DESIGNATE AUTHORITY TO IMPLEMENT
+(3) The Minister responsible for finance hereby appoints the Central Bank of Malta as the Designate Authority for the purposes of Article 458(1) of the Regulation to identify changes in the intensity of macro-prudential or systemic risk in the financial system with the potential to have serious negative consequences to the financial system and the real economy in Malta and which that authority considers would better be addressed by means of stricter national measures, to draft national measures for domestically authorised institutions, or a subset of those institutions, intended to mitigate the changes in the intensity of risk and concerning the level of own funds laid down in Article 92 of the Regulation, the requirements for large exposures laid down in Article 392 and Articles 395 to 403 of the Regulation, the public disclosure requirements laid down in Articles 431 to 455 of the Regulation, the level of the capital conservation buffer laid down in Article 129 of the Directive, liquidity requirements laid down in Part Six of the Regulation, risk weights for targeting asset bubbles in the residential and commercial property sector, or intra financial sector exposures, and to be in charge of the application of Article 458 of the Regulation.
 
 \*see regulation 1(3) of these Regulations as originally promulgated.
-
-*2*
-
-[S.L.204.06 MACRO-PRUDENTIAL INSTRUMENTS)
-
-mitigate the changes in the intensity of risk and concerning the level of own funds laid down in Article 92 of the Regulation, the requirements for large exposures laid down in Article 392 and Articles 395 to 403 of the Regulation, the public disclosure requirements laid down in Articles 431 to 455 of the Regulation, the level of the capital conservation buffer laid down in Article 129 of the Directive, liquidity requirements laid down in Part Six of the Regulation, risk weights for targeting asset bubbles in the residential and commercial property sector, or intra financial sector exposures, and to be in charge of the application of Article 458 of the Regulation.
 
 (4) The Minister responsible for finance hereby appoints the Central Bank of Malta, which shall act jointly with the competent authority, as the designate authority for the purposes of Article 124(8) of the Regulation to periodically, and at least annually, assess whether the risk weights laid down in Articles 125 and 126 of the Regulation for exposures secured by immovable property located in the territory of Malta are appropriately based on:
 
@@ -72,11 +60,7 @@ mitigate the changes in the intensity of risk and concerning the level of own fu
 
 (4c) The Central Bank of Malta, acting jointly with the competent authority, may reduce the percentages of the property value referred to in Article 125(1) or in Article 126(1) of the Regulation, or the exposure-to-value (ETV) percentages that define the ETV risk weight bucket established in Article 125(2) or in Article 126(2) of the Regulation. The Central Bank of Malta, acting jointly with the competent authority, shall ensure consistency across all ETV risk weight buckets, such that the risk weight of a lower ETV risk weight bucket is always lower or equal to the risk weight of an upper ETV risk weight bucket.
 
-OF DESIGNATE AUTHORITY TO IMPLEMENT
-
-*3*
-
-MACRO-PRUDENTIAL INSTRUMENTS) [S.L.204.06 (5) The Minister responsible for finance hereby appoints the Central Bank of Malta, which shall act jointly with the competent authority as the designate authority for the purposes of Article 164(6) of the Regulation to periodically, and at least annually, assess whether the minimum Loss Given Default (LGD) values, as referred to in Article 164(4) of the Regulation, are appropriate for retail exposures secured by residential property or other retail exposures secured with residential or commercial immovable property located in one or more parts of the territory of Malta, and set higher minimum LGD values for those exposures if these are assessed to be inadequate, and if their inadequacy could adversely affect current or future financial stability in Malta. The said higher minimum LGD values may also be applied at the level of one or more property segments of such exposures.
+(5) The Minister responsible for finance hereby appoints the Central Bank of Malta, which shall act jointly with the competent authority as the designate authority for the purposes of Article 164(6) of the Regulation to periodically, and at least annually, assess whether the minimum Loss Given Default (LGD) values, as referred to in Article 164(4) of the Regulation, are appropriate for retail exposures secured by residential property or other retail exposures secured with residential or commercial immovable property located in one or more parts of the territory of Malta, and set higher minimum LGD values for those exposures if these are assessed to be inadequate, and if their inadequacy could adversely affect current or future financial stability in Malta. The said higher minimum LGD values may also be applied at the level of one or more property segments of such exposures.
 
 ## 3. Interpretation.
 

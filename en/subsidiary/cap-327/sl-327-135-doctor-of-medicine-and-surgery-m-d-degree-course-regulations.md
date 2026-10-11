@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Doctor of Medicine and Surgery - M.D. - Degree Course Regulations (S.L. 327.135)
 
-*1*
-
-M.D. - DEGREE COURSE [S.L.327.135
-
 **SUBSIDIARY LEGISLATION 327.135**
 
 **DOCTOR OF MEDICINE AND SURGERY - M.D. -**
@@ -66,10 +62,6 @@ These regulations shall be applicable for courses commencing in 15th September 2
 
 \*Applicable from October 2018
 
-*2*
-
-[S.L.327.135 M.D. - DEGREE COURSE
-
 (d) satisfy any other requirements prescribed in any other relevant statutes and regulations of the University.
 
 *Admission and special course requirements. Amended by: L.N. 414 of 2013; L.N. 40 of 2014; L.N. 99 of 2014; L.N. 87 of 2016; L.N 188 of 2016; L.N. 58 of 2017; L.N. 308 of 2017; L.N. 34 of 2018; L.N. 219 of 2023; L.N. 100 of 2024; L.N. 66 of 2026.*
@@ -88,13 +80,9 @@ provided that all passes in these Special Course Requirements are obtained toget
 
 (ii) non-Maltese applicants who, in terms of regulation 13 of the Admissions Regulations, 2016 are exempted from possessing a pass at SEC level 3 in Il-Malti bħala Lingwa Barranija, are required to present the Medical Maltese Proficiency Certificate awarded by the University of Malta, or a pass in the study-unit in Medical Maltese as part of the Certificate in Foundation Studies (Medical, Dental and Health Sciences) course, prior to the commencement of the Course,
 
-provided that applicants presenting overseas qualifications and either a pass in the Secondary Education Certificate examination in Maltese at Grade 5 or better or at SEC level 3, or a pass at SEC level 3 in Il-Malti bħala Lingwa Barranija, shall be exempted from presenting the Medical Maltese Proficiency M.D. - DEGREE COURSE [S.L.327.135
+provided that applicants presenting overseas qualifications and either a pass in the Secondary Education Certificate examination in Maltese at Grade 5 or better or at SEC level 3, or a pass at SEC level 3 in Il-Malti bħala Lingwa Barranija, shall be exempted from presenting the Medical Maltese Proficiency Certificate; and
 
 \*Applicable from October 2026.
-
-Certificate; and
-
-*3*
 
 (iii) the Secondary Education Certificate pass in Maltese at Grade 5 or better or at SEC level 3, is required for admission to both Year 1 and Year 3 of the Course, provided that applicants who in terms of regulation 13 of the Admissions Regulations, 2016 are eligible for exemption from this requirement, shall be required to present a SEC level 3 pass in Il-Malti bħala Lingwa Barranija, or the Medical Maltese Proficiency Certificate. (3) For the purpose of sub-regulation (2), a pass obtained in a session of examinations which is held after the results of a previous session were published shall be deemed to be a pass obtained in a session that is distinct from the previous one. This regulation shall also apply to the second session of the Matriculation Examination offered by the MATSEC Board of the University of Malta according to the provisions of the Matriculation Examination Regulations, and this notwithstanding any other regulation governing the award of the Matriculation Certificate.
 
@@ -114,10 +102,6 @@ Certificate; and
 
 \*Applicable for courses commencing in October 2026 or later:
 
-*4*
-
-[S.L.327.135 M.D. - DEGREE COURSE
-
 (f) the degree of Master of Dental Surgery awarded from July 2018 onwards; or
 
 (g) a Bachelor of Science (Honours) in Medical Biochemistry with a classification of Second Class Honours or better awarded from July 2020 onwards; or (h)a Master of Pharmacy with a classification of Merit or better; or
@@ -136,11 +120,7 @@ provided that if such applicants possess either a pass in the Secondary Educatio
 
 (iv) the Secondary Education Certificate pass in Maltese at Grade 5 or better or at SEC level 3, is required for admission to both Year 1 and Year 3 of the Course, provided that applicants who in terms of regulation 13 of the Admissions Regulations, 2016 are eligible for exemption from this requirement, shall be required to present a SEC level 3 pass in Il-Malti bħala Lingwa Barranija, or the Medical Maltese Proficiency Certificate.
 
-(5) Applicants in possession of other qualifications obtained from recognised institutions other than the University of Malta shall be considered by the Admissions Committee of the Faculty and shall be admitted to the Course if it is ascertained that their qualifications are comparable to the qualifications indicated in paragraphs (2), (3) and (4) M.D. - DEGREE COURSE [S.L.327.135
-
-of this regulation.
-
-*5*
+(5) Applicants in possession of other qualifications obtained from recognised institutions other than the University of Malta shall be considered by the Admissions Committee of the Faculty and shall be admitted to the Course if it is ascertained that their qualifications are comparable to the qualifications indicated in paragraphs (2), (3) and (4) of this regulation.
 
 (6) Applicants may be required to attend for an interview and/ or examination. The Interviewing Board/s shall be composed of the Dean or his delegate, three other members appointed by the Board, one of whom shall be from outside the Faculty, and another member appointed by Senate. Up to three such Interviewing Boards shall be appointed for each intake of students as determined by the Board.
 
@@ -168,10 +148,6 @@ of this regulation.
 
 The Board shall publish the programme of study, comprising all the study-units taught in each year of the course, their syllabus and method of assessment following the approval of Senate, normally not less than eight months prior to the commencement of the course. Subject to the approval of Senate, the Board may make any necessary changes to the programme of study as required.
 
-*6*
-
-[S.L.327.135 M.D. - DEGREE COURSE
-
 ## 7.
 
 The programme of study for each year of the course shall comprise study-units to which 60 ECTS credits are assigned and may include practical, laboratory and clinical placements as detailed in the description for each study-unit on offer during the year.
@@ -194,11 +170,11 @@ The programme of study for each year of the course shall comprise study-units to
 
 (7) Students who fail to obtain the 60 ECTS credits assigned to the intercalated year shall not be eligible for the award of the Bachelor Degree but may be allowed to progress to the third year of the Course for the Degree. Students shall not be allowed to refer any missing study-units of the intercalated year to the third year of the Course for the Degree."
 
-*7*
+## 9. Mark scheme for the course.
 
-M.D. - DEGREE COURSE [S.L.327.135 9. During the Course the result in each study-unit shall be published according to the following marks and grades in descending order of merit:
+*Substituted by: L.N. 99 of 2014. Renumbered by: L.N. 371 of 2018. Substituted by: L.N. 261 of 2019.*
 
-*Mark scheme for the course. Substituted by: L.N. 99 of 2014. Renumbered by: L.N. 371 of 2018. Substituted by: L.N. 261 of 2019.*
+During the Course the result in each study-unit shall be published according to the following marks and grades in descending order of merit:
 
 Mark Range Grade
 
@@ -240,11 +216,7 @@ Mark Range Grade
 
 (c) subject to paragraphs (4) and (5) of regulation 5 of these regulations, repeat the year.
 
-(5) Students referred to in sub-paragraph (a) of paragraph (4) of this regulation who take up the option to refer failed study-units to the following year of the Course shall be considered to have progressed conditionally to the next year and shall not be allowed to continue with the Course if, after the supplementary session of [S.L.327.135 M.D. - DEGREE COURSE
-
-that year, they fail again to obtain a pass in the referred study-unit/ s.
-
-*8*
+(5) Students referred to in sub-paragraph (a) of paragraph (4) of this regulation who take up the option to refer failed study-units to the following year of the Course shall be considered to have progressed conditionally to the next year and shall not be allowed to continue with the Course if, after the supplementary session of that year, they fail again to obtain a pass in the referred study-unit/ s.
 
 (6) (a)The option to refer study-units to the following year shall be available once only throughout the Course, except in the case of the study-units referred to in paragraph (8) of this regulation,
 
@@ -261,10 +233,6 @@ provided that students in Year 2 shall not be allowed to refer any other study-u
 (d) Failure to present a valid reason for absence for the consideration of Senate or failure to prove that the students could not sit for the assessment due to circumstances beyond their control, will result in students being considered as having utilized an assessment attempt.
 
 (8) In the case of assessments that can only be held once during an academic year and hence no supplementary session is possible, students who fail these assessments or are prevented for a reason considered valid by Senate from being assessed in these study-units, shall be allowed to progress conditionally to the following year of the Course, provided that they pass such assessments in that year.
-
-*9*
-
-M.D. - DEGREE COURSE [S.L.327.135
 
 (9) Students who after the supplementary session fail in study-units to which more than 10 ECTS credits are assigned shall not be allowed to proceed to the following year of the Course but shall be required to repeat the year if eligible in terms of paragraphs (4) and (5) of regulation 5 of these regulations.
 
@@ -289,10 +257,6 @@ M.D. - DEGREE COURSE [S.L.327.135
 *Substituted by: L.N. 414 of 2013; L.N. 99 of 2014. Renumbered by: L.N. 371 of 2018. Substituted by: L.N. 425 of 2018.*
 
 Students shall not be allowed to sit (whether as first sit or re-sit) for any clinical examinations or for the Paediatrics Objective Structured Clinical Examination (OSCE) during the September examination session of the Final Year (Year 5) unless they have attended at least 80% of such additional studies as the Board of Examiners may in each case determine.
-
-*10*
-
-[S.L.327.135 M.D. - DEGREE COURSE
 
 ## 13. Classification of the Degree.
 
@@ -347,10 +311,6 @@ The Final Weighted Average Mark for the degree of Bachelor in General Studies (B
 Final Weighted Average Mark Classification
 
 \*These regulations shall be applicable from October 2025.
-
-*11*
-
-M.D. - DEGREE COURSE [S.L.327.135
 
 80 - 100% Category I
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Master of Science in Agricultural and Veterinary Pharmacy - M.Sc. - Degree Course Regulations (S.L. 327.106)
 
-*1*
-
-VETERINARY PHARMACY - M.SC. - DEGREE COURSE [S.L.327.106
-
 **SUBSIDIARY LEGISLATION 327.106**
 
 MASTER OF SCIENCE IN AGRICULTURAL AND VETERINARY PHARMACY - M.SC. - DEGREE
@@ -69,10 +65,6 @@ To be eligible for the award of the Degree, a candidate shall have:
 
 (b) be approved by the Board normally on the recommendation of the Head of the Department of Pharmacy in the Faculty of Medicine and Surgery of the University of Malta.
 
-*2*
-
-[S.L.327.106 VETERINARY PHARMACY - M.SC. - DEGREE COURSE
-
 (2) In exceptional cases, the Board may accept candidates in possession of the degrees indicated in subregulation (1)(a) obtained with Third Class Honours, provided that such candidates shall be required to complete successfully a supplementary programme, as determined by the Board.
 
 (3) A candidate in possession of a degree in Pharmacy from another University, in addition to satisfying the foregoing requirements, must demonstrate proficiency in both written and spoken English.
@@ -121,11 +113,7 @@ To be eligible for the award of the Degree, a candidate shall have:
 
 (d) one two hour paper in either Plant Nutrition or Animal Nutrition.
 
-(2) Examination papers shall be graded in descending order of VETERINARY PHARMACY - M.SC. - DEGREE COURSE [S.L.327.106
-
-merit A, B, C, D or F where F indicates Fail.
-
-*3*
+(2) Examination papers shall be graded in descending order of merit A, B, C, D or F where F indicates Fail.
 
 (3) A candidate who fails in not more than two of the examination papers shall be allowed to re-take the examination/s during the supplementary session normally held in September, provided that the grade awarded to a candidate in a supplementary examination shall be either D or F.
 

@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master in Teaching and Learning - MTL - under the auspices of the Faculty of Education (S.L. 327.519)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.519
-
 **SUBSIDIARY LEGISLATION 327.519**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER IN**
@@ -68,11 +64,7 @@ The Degree shall be awarded under the auspices of the Faculty in the following a
 
 ## 4. Teaching areas.
 
-The Board shall announce the teaching areas offered within the Secondary Education area as well as within the Primary and [S.L.327.519 UNDER THE AUSPICES OF THE FACULTY OF EDUCATION
-
-Secondary Education area as approved by Senate, at the time of the call for applications.
-
-*2*
+The Board shall announce the teaching areas offered within the Secondary Education area as well as within the Primary and Secondary Education area as approved by Senate, at the time of the call for applications.
 
 ## 5. Requirements for admission.
 
@@ -104,11 +96,7 @@ Apart from being in possession of a first cycle degree obtained with at least Se
 
 (ii) for Business Education: a first-cycle degree with at least 16 ECTS credits in Accountancy, 16 ECTS credits in Economics, and 38 ECTS credits in areas considered relevant by the Board of Studies;
 
-(iii) for Computing (including Information Technology and Vocational Education & Training IT): a first cycle degree with at least 70 ECTS credits in Computer Science, Information Systems or Computer/Communications Engineering, which must include study-units in the following areas to ensure a sufficiently broad knowledge base in the subject: Programming beyond an introductory level in any high-level programming language, Computer Logic and Organisation, Database Management Systems, Systems Analysis and Design, Data Structures and Algorithms, and Operating Systems, provided that applicants who have not completed study-units in all of these areas but who have successfully completed study-units in at least four of the areas may also be admitted to the Course but shall be required to follow supplementary study-units as indicated in bye-law 7 in areas not covered in their previous UNDER THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.519
-
-degree;
-
-*3*
+(iii) for Computing (including Information Technology and Vocational Education & Training IT): a first cycle degree with at least 70 ECTS credits in Computer Science, Information Systems or Computer/Communications Engineering, which must include study-units in the following areas to ensure a sufficiently broad knowledge base in the subject: Programming beyond an introductory level in any high-level programming language, Computer Logic and Organisation, Database Management Systems, Systems Analysis and Design, Data Structures and Algorithms, and Operating Systems, provided that applicants who have not completed study-units in all of these areas but who have successfully completed study-units in at least four of the areas may also be admitted to the Course but shall be required to follow supplementary study-units as indicated in bye-law 7 in areas not covered in their previous degree;
 
 (iv) for Dance: a first cycle degree with at least 70 ECTS credits in Dance Studies or related area of study, together with two recommendation letters from professionals in the field of dance. Applicants in possession of a first cycle degree in any area of study, together with a minimum of 5 years’ experience in performance, teaching, or community dance, certified through a portfolio and at least two recommendation letters from professionals in the field of dance may also be considered, provided that such applicants may be requested to sit for an interview and to provide more information about their artistic background and interest in the teaching profession;
 
@@ -122,11 +110,7 @@ provided that for courses commencing in October 2016 only, the degree must inclu
 
 (viii) for French: a first cycle degree with at least 70 ECTS credits in French and/or Linguistics relevant to French; or, for applicants who would have obtained the Diplôme du Baccalauréat Général or the Option Internationale du Baccalauréat (or equivalent) attesting the successful completion of schooling in French at 18 years of age (or over), a first cycle degree in any area of study;
 
-(ix) for German: a first cycle degree with at least 70 ECTS credits in German and/or Linguistics relevant to German; or, for applicants who would have obtained the Zeugnis der Allgemeinen UNDER THE AUSPICES OF THE FACULTY OF EDUCATION
-
-Hochschulreife / Abitur (or equivalent) attesting the successful completion of schooling in German at 18 years of age (or over), a first cycle degree in any area of study;
-
-*[S.L.327.519 4*
+(ix) for German: a first cycle degree with at least 70 ECTS credits in German and/or Linguistics relevant to German; or, for applicants who would have obtained the Zeugnis der Allgemeinen Hochschulreife / Abitur (or equivalent) attesting the successful completion of schooling in German at 18 years of age (or over), a first cycle degree in any area of study;
 
 (x) for Geography: a first cycle degree with at least 70 ECTS credits in Geography;
 
@@ -150,11 +134,7 @@ provided that for courses commencing in October 2016 only, the degree must inclu
 
 (xix) for Spanish: a first cycle degree with at least 70 ECTS credits in Spanish and/or Linguistics relevant to Spanish; or, for applicants who would have obtained the Título de Bachiller (or equivalent) attesting the successful completion of schooling in Spanish at 18 years of age (or over), a first cycle degree in any area of study; and;
 
-(xx) for Vocational Education and Training in Engineering Technology, Hospitality, Health and Social Care, Agribusiness, Textiles and Fashion, Hairdressing and Beauty, Media Literacy, Artisanship, Construction, or Retailing: a first UNDER THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.519
-
-cycle degree with at least 70 ECTS credits in a relevant area of study.
-
-*5*
+(xx) for Vocational Education and Training in Engineering Technology, Hospitality, Health and Social Care, Agribusiness, Textiles and Fashion, Hairdressing and Beauty, Media Literacy, Artisanship, Construction, or Retailing: a first cycle degree with at least 70 ECTS credits in a relevant area of study.
 
 (c) applicants choosing the area of Primary and Secondary Education in the following teaching areas shall be in possession of the following:
 
@@ -182,11 +162,7 @@ cycle degree with at least 70 ECTS credits in a relevant area of study.
 
 (1) In cases where applicants lack essential knowledge in particular areas not covered in his/her first degree, the Board, on the recommendation of the Board of Studies, may require applicants to follow and pass supplementary study-units at level 4 or lower to which not more than 12 ECTS credits are assigned.
 
-(2) Applicants with a first cycle degree or a diploma who do not fully meet the requirements for admission specified in bye-laws 5 and 6 (a), (b) and (c), shall be required to demonstrate the learning achieved through prior experience and certification through the evaluation [S.L.327.519 UNDER THE AUSPICES OF THE FACULTY OF EDUCATION
-
-procedures established by the University Policy for the Recognition and Accreditation of Prior Learning. The Board may then recommend to the University Admissions Board to either (i) admit the applicant to the Course; or (ii) admit the applicant to the Course subject to the successful completion of a Preparatory Programme as directed by the Board, comprising not more than 60 ECTS credits.
-
-*6*
+(2) Applicants with a first cycle degree or a diploma who do not fully meet the requirements for admission specified in bye-laws 5 and 6 (a), (b) and (c), shall be required to demonstrate the learning achieved through prior experience and certification through the evaluation procedures established by the University Policy for the Recognition and Accreditation of Prior Learning. The Board may then recommend to the University Admissions Board to either (i) admit the applicant to the Course; or (ii) admit the applicant to the Course subject to the successful completion of a Preparatory Programme as directed by the Board, comprising not more than 60 ECTS credits.
 
 ## 8. Selection of applicants.
 
@@ -210,11 +186,7 @@ procedures established by the University Policy for the Recognition and Accredit
 
 provided that for the purpose of selection, applicants who fully satisfy the requirements for admission by 31st August preceding the commencement of the Course shall be considered first.
 
-(3) If, after the rank order is established as indicated above, there is a tie for any one or more places: (a) the final average mark obtained by the student in his/her Master or Bachelor degree shall be considered, and (b) if there is a further tie, the applicants shall UNDER THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.519
-
-be interviewed.
-
-*7*
+(3) If, after the rank order is established as indicated above, there is a tie for any one or more places: (a) the final average mark obtained by the student in his/her Master or Bachelor degree shall be considered, and (b) if there is a further tie, the applicants shall be interviewed.
 
 (4) The Board may also require applicants to sit for an interview during which their ability to successfully complete the Course with profit shall be assessed.
 
@@ -244,10 +216,6 @@ The Course shall extend over four semesters of full-time study or the equivalent
 
 (b) follow and successfully pass a proficiency course in English approved by the Board before the end of the third semester of the Course. Students who do not satisfy the English proficiency requirement by this period shall be required to interrupt their studies for up to a maximum of twelve months during which time they are expected to obtain this requirement. Students shall only be eligible to proceed with their studies if they comply with this requirement. Students who on admission into the Course are in possession of a pass in English at Intermediate or Advanced Matriculation Level at Grade C or higher, or qualifications deemed to be equivalent by the Board, shall be exempt from the English proficiency requirement..
 
-*8*
-
-[S.L.327.519 UNDER THE AUSPICES OF THE FACULTY OF EDUCATION
-
 (3) Students following the area of study of Secondary Education, or Primary and Secondary Education, shall be required to:
 
 (a) sit for a Maltese Proficiency Test - ‘Test ta’ Profiċjenza fil-Malti’ at the beginning of the Course: provided that applicants in possession of a pass in Maltese at Secondary Education Certificate level at Grade 3 or higher, or at Intermediate or Advanced Matriculation Level at Grade C or higher, or qualifications deemed to be equivalent by the Board, shall be exempt from this requirement. Students who fail the Maltese proficiency test shall be required to follow and successfully pass a proficiency course in Maltese approved by the Board before the end of the third semester of the Course. Students who do not satisfy the Maltese proficiency requirement by this period shall be required to interrupt their studies for up to a maximum of twelve months during which time they are expected to obtain this requirement. Students shall only be eligible to proceed with their studies if they comply with this requirement; and
@@ -270,11 +238,7 @@ The Course shall extend over four semesters of full-time study or the equivalent
 
 (1) The assessment of each taught study-unit shall be completed by the end of the semester in which the teaching of the study-unit is held.
 
-(2) Students who in any academic year fail in the assessment of not more than 20 ECTS credits for taught study-units, if following the full- UNDER THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.519
-
-time Course, or not more than 10 ECTS credits if following the part-time Course, shall be given the opportunity to re-sit the failed assessments during the September supplementary examination session.
-
-*9*
+(2) Students who in any academic year fail in the assessment of not more than 20 ECTS credits for taught study-units, if following the full-time Course, or not more than 10 ECTS credits if following the part-time Course, shall be given the opportunity to re-sit the failed assessments during the September supplementary examination session.
 
 (3) Students who fail more than the number of credits permitted under paragraph (2) of these bye-laws or students who after re-assessment fail to obtain credit for any study-unit, shall be deemed to have failed the course.
 
@@ -298,11 +262,7 @@ time Course, or not more than 10 ECTS credits if following the part-time Course,
 
 (b) Students who, for health reasons, fail to attend for up to four days should present a medical certificate within 24 hours to the Faculty Office. The medical certificate, drawn up by a medical doctor, should clearly state the ailment which is preventing the student from attending school and should include the name, signature and the medical registration number of the medical doctor.
 
-(c) Where students are away from school for up to four days for health reasons or for any other reason which the Board considers valid, as well as in special circumstances for which prior approval would have been given by their field placement Board of [S.L.327.519 UNDER THE AUSPICES OF THE FACULTY OF EDUCATION
-
-Examiners, they may be required to make up for any missed teaching duties as directed by the Board.
-
-*10*
+(c) Where students are away from school for up to four days for health reasons or for any other reason which the Board considers valid, as well as in special circumstances for which prior approval would have been given by their field placement Board of Examiners, they may be required to make up for any missed teaching duties as directed by the Board.
 
 (d) Students who fail to attend five days or more shall either be required to repeat the whole field placement in an additional year or, at the discretion of the Board, may be required to carry out additional days of supervised practice during the same academic year as directed by the Board.
 
@@ -324,11 +284,7 @@ Examiners, they may be required to make up for any missed teaching duties as dir
 
 (4) Students shall be required to have regular contact with their supervisor.
 
-(5) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, UNDER THE AUSPICES OF THE FACULTY OF EDUCATION [S.L.327.519
-
-provided that:
-
-*11*
+(5) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 

@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Science (Honours) in Medical Biochemistry - B.Sc. (Hons) Med. Biochem. - under the auspices of the Faculty of Medicine and Surgery and the Faculty of Science (S.L. 327.567)
 
-MEDICAL BIOCHEMISTRY - B.Sc. (Hons.) Med. Biochem. -
-
-UNDER THE AUSPICES OF THE FACULTY OF MEDICINE
-
-*1*
-
-AND SURGERY AND THE FACULTY OF SCIENCE [S.L.327.567
-
 **SUBSIDIARY LEGISLATION 327.567**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF SCIENCE (HONOURS) IN MEDICAL
@@ -76,13 +68,11 @@ To be registered as regular students in the course, applicants shall:
 
 The Board of Studies shall recommend to Senate the number of applicants that may be allowed to register on the course, depending on the availability of resources. The number of available places shall be announced at the time of the call for applications. Senate shall approve bye-laws for the selection of applicants into the course.
 
-MEDICAL BIOCHEMISTRY - B.Sc. (Hons.) Med. Biochem. - UNDER THE AUSPICES OF THE FACULTY OF MEDICINE [S.L.327.567 AND SURGERY AND THE FACULTY OF SCIENCE
-
-## 5. 2 Course duration.
+*Course duration.*
 
 *Renumbered by: L.N. 303 of 2022.*
 
-The course shall extend over a period of three years of full-time study.
+time study.
 
 ## 6. Programme of study.
 

@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Certificate in Arabic for Business and Communication under the auspices of the Faculty of Arts (S.L. 327.496)
 
-COMMUNICATION UNDER THE AUSPICES OF
-
-*1*
-
-THE FACULTY OF ARTS [S.L.327.496
-
 **SUBSIDIARY LEGISLATION 327.496**
 
 **BYE-LAWS FOR THE CERTIFICATE IN ARABIC**
@@ -76,12 +70,6 @@ The course shall consist of a number of study-units to which 30 ECTS credits sha
 The Board shall publish the programme of study drawn up in accordance with the relevant provisions of the Principal Regulations and approved by Senate, normally not less than eight months prior to the commencement of the course. Subject to changes that the Board may, with the approval of Senate, be constrained to make, students are bound to follow the study-units and obtain the credits as indicated in the programme of study.
 
 \*These bye-laws have been repealed by Legal Notice 185 of 2022.
-
-COMMUNICATION UNDER THE AUSPICES OF
-
-*2*
-
-[S.L.327.496 THE FACULTY OF ARTS
 
 ## 7. Result of the Award.
 

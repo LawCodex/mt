@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Higher Diploma in Marketing and Sales Management under the auspices of the Faculty of Economics, Management and Accountancy (S.L. 327.320)
 
-AGEMENT UNDER THE AUSPICES OF THE FACULTY OF
-
-*1*
-
-ECONOMICS, MANAGEMENT AND ACCOUNTANCY [S.L.327.320
-
 **SUBSIDIARY LEGISLATION 327.320**
 
 **BYE-LAWS FOR THE HIGHER DIPLOMA IN**
@@ -67,13 +61,11 @@ These bye-laws shall be applicable for courses commencing in October 2018 or lat
 
 (2) (i) Applicants admitted under regulation 6(c) of the Admissions Regulations must be in possession of those qualifications and, or experience that would satisfy the Board of Studies that they have reached the academic standard required to follow the course with profit.
 
-(ii) Applicants admitted in terms of sub-paragraph (i) of AGEMENT UNDER THE AUSPICES OF THE FACULTY OF [S.L.327.320 ECONOMICS, MANAGEMENT AND ACCOUNTANCY this bye-law shall be in possession of a pass in an English language proficiency test as approved by the University before being admitted to the course, provided that applicants in possession of a pass in the Secondary Education Certificate at grade 5 or better, or equivalent, in English Language, shall be exempted from sitting for the proficiency test.
+(ii) Applicants admitted in terms of sub-paragraph (i) of this bye-law shall be in possession of a pass in an English language proficiency test as approved by the University before being admitted to the course, provided that applicants in possession of a pass in the Secondary Education Certificate at grade 5 or better, or equivalent, in English Language, shall be exempted from sitting for the proficiency test.
 
 \*These Regulations have been repealed by Legal Notice 216 of 2023.
 
 (iii) The eligibility of such applicants shall be decided by the Board of Studies, following an interview conducted by an interviewing board appointed for the purpose.
-
-*2*
 
 (3) The interviewing board appointed by the Board shall be composed of at least three persons.
 
@@ -107,10 +99,6 @@ The shall be published after approval by Senate, normally not less than eight mo
 
 Pass with Distinction
 
-AGEMENT UNDER THE AUSPICES OF THE FACULTY OF
-
-*3*
-
-ECONOMICS, MANAGEMENT AND ACCOUNTANCY [S.L.327.320 Pass with Merit
+Pass with Merit
 
 Pass.

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Gender Studies - M.G.S. - under the auspices of the Faculty for Social Wellbeing (S.L. 327.504)
 
-UNDER THE AUSPICES OF THE
-
-*1*
-
-FACULTY FOR SOCIAL WELLBEING [S.L.327.504
-
 **SUBSIDIARY LEGISLATION 327.504**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -71,12 +65,6 @@ These bye-laws shall be applicable for courses commencing in October 2020 or lat
 
 (4) When the number of places is limited and the number of eligible applicants exceeds the number of places available, applicants will be selected using the following criteria, the weighting of which shall be published at the time of the call for applications:
 
-UNDER THE AUSPICES OF THE
-
-*2*
-
-[S.L.327.504 FACULTY FOR SOCIAL WELLBEING
-
 (a) degree type and class;
 
 (b) experience in the area of the proposed study; and
@@ -119,11 +107,7 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 (2) Work on the dissertation may be undertaken at any time during the course after approval of the research proposal. Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
 
-(3) A provisional title and brief provisional proposal shall be submitted in the required format at the beginning of the second semester. The proposed title for the dissertation and a detailed research UNDER THE AUSPICES OF THE
-
-*3*
-
-FACULTY FOR SOCIAL WELLBEING [S.L.327.504 proposal outlining the proposed project and the main questions to be addressed shall be submitted to the Board of Studies for approval by not later than six weeks after the approval of the provisional proposal.
+(3) A provisional title and brief provisional proposal shall be submitted in the required format at the beginning of the second semester. The proposed title for the dissertation and a detailed research proposal outlining the proposed project and the main questions to be addressed shall be submitted to the Board of Studies for approval by not later than six weeks after the approval of the provisional proposal.
 
 ## 8. Panel of Supervision.
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Exchange of Information (Tax Matters) (Bermuda) Order (S.L. 123.145)
 
-*1*
-
-(TAX MATTERS) (BERMUDA) [S.L.123.145
-
 **SUBSIDIARY LEGISLATION 123.145**
 
 EXCHANGE OF INFORMATION (TAX MATTERS)
@@ -42,8 +38,6 @@ It is hereby declared:
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Agreement has entered into force on 5th November 2012.
-
-2 [S.L.123.145 (TAX MATTERS) (BERMUDA)
 
 ## SCHEDULE
 
@@ -97,8 +91,6 @@ This Agreement shall also apply to any identical taxes imposed after the date of
 
 \1. For the purposes of this Agreement, unless otherwise defined:
 
-(TAX MATTERS) (BERMUDA) [S.L.123.145 3
-
 (a) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
 
 (b) the term "Bermuda" means the islands of Bermuda;
@@ -129,9 +121,7 @@ This Agreement shall also apply to any identical taxes imposed after the date of
 
 (m) the term "publicly traded company" means any company whose principal class of shares is listed on a recognised stock exchange provided its listed shares can be readily purchased or sold by the public. Shares can be purchased or sold "by the public" if the purchase or sale of shares is not implicitly or explicitly restricted to a limited group of investors;
 
-(n) the term "collective investment fund or scheme" means any pooled investment vehicle, irrespective of legal form. The term "public collective investment fund or scheme" means any collective investment fund or scheme provided the units, shares or other interests in the fund or scheme can be readily purchased, sold or redeemed by the public. Units, shares or other interests in the fund or scheme can be readily purchased, sold or redeemed "by the public" if the purchase, sale or 4 [S.L.123.145 (TAX MATTERS) (BERMUDA)
-
-redemption is not implicitly or explicitly restricted to a limited group of investors;
+(n) the term "collective investment fund or scheme" means any pooled investment vehicle, irrespective of legal form. The term "public collective investment fund or scheme" means any collective investment fund or scheme provided the units, shares or other interests in the fund or scheme can be readily purchased, sold or redeemed by the public. Units, shares or other interests in the fund or scheme can be readily purchased, sold or redeemed "by the public" if the purchase, sale or redemption is not implicitly or explicitly restricted to a limited group of investors;
 
 (o) the term "recognised stock exchange" means any stock exchange agreed upon by the competent authorities of the Contracting Parties;
 
@@ -167,9 +157,7 @@ Each Contracting Party shall ensure that its competent authorities for the purpo
 
 ## 5.
 
-The competent authority of the applicant Party shall provide the following information to the competent authority of the requested Party when making a request for information under the Agreement to demonstrate the foreseeable relevance of the (TAX MATTERS) (BERMUDA) [S.L.123.145 5
-
-information to the request:
+The competent authority of the applicant Party shall provide the following information to the competent authority of the requested Party when making a request for information under the Agreement to demonstrate the foreseeable relevance of the information to the request:
 
 (a) the identity of the person under examination or investigation;
 
@@ -201,9 +189,7 @@ The competent authority of the requested Party shall forward the requested infor
 
 \2. At the request of the competent authority of one Contracting Party, the competent authority of the other Contracting Party may allow representatives of the competent authority of the first-mentioned Party to be present at the appropriate part of a tax examination in the second-mentioned Party.
 
-\3. If the request referred to in paragraph 2 is acceded to, the competent authority of the Contracting Party conducting the examination shall, as soon as 6 [S.L.123.145 (TAX MATTERS) (BERMUDA)
-
-possible, notify the competent authority of the other Party about the time and place of the examination, the authority or official designated to carry out the examination and the procedures and conditions required by the first-mentioned Party for the conduct of the examination. All decisions with respect to the conduct of the tax examination shall be made by the Party conducting the examination.
+\3. If the request referred to in paragraph 2 is acceded to, the competent authority of the Contracting Party conducting the examination shall, as soon as possible, notify the competent authority of the other Party about the time and place of the examination, the authority or official designated to carry out the examination and the procedures and conditions required by the first-mentioned Party for the conduct of the examination. All decisions with respect to the conduct of the tax examination shall be made by the Party conducting the examination.
 
 **Article 7**
 
@@ -232,8 +218,6 @@ The requested Party may decline a request for information if the information is 
 **Confidentiality**
 
 Any information received by a Contracting Party under this Agreement shall be treated as confidential and may be disclosed only to persons or authorities (including courts and administrative bodies) in the jurisdiction of the Contracting Party concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by this Agreement. Such persons or authorities shall use such information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions. The information may not be disclosed to any other person or entity or authority or any other jurisdiction without the express written consent of the competent authority of the requested Party.
-
-(TAX MATTERS) (BERMUDA) [S.L.123.145 7
 
 **Article 9**
 
@@ -278,8 +262,6 @@ This Agreement shall enter into force when each Party has notified the other in 
 IN WITNESS WHEREOF the undersigned being duly authorised in that behalf by the respective Parties, have signed the Agreement.
 
 Done at London on the 24th day of November 2011.
-
-8 [S.L.123.145 (TAX MATTERS) (BERMUDA)
 
 Joseph Zammmit Tabona Paula Cox
 

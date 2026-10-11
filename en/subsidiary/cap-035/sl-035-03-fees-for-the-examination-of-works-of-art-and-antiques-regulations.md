@@ -1,6 +1,6 @@
 ---
 title: "Fees for the Examination of Works of Art and Antiques Regulations"
-identifier: "S.L. 35.3"
+identifier: "S.L. 35.03"
 eli: "https://legislation.mt/eli/sl/35.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/35.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Fees for the Examination of Works of Art and Antiques Regulations (S.L. 35.3)
-
-FEES FOR THE EXAMINATION OF WORKS
-
-*1*
-
-OF ART AND ANTIQUES [S.L.35.03
+# Fees for the Examination of Works of Art and Antiques Regulations (S.L. 35.03)
 
 **SUBSIDIARY LEGISLATION 35.03**
 

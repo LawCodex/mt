@@ -1,6 +1,6 @@
 ---
 title: "Importation of Seed Potatoes Regulations"
-identifier: "S.L. 64.1"
+identifier: "S.L. 64.01"
 eli: "https://legislation.mt/eli/sl/64.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/64.1/20231017/eng"
 retrieved: 2026-10-12
 ---
 
-# Importation of Seed Potatoes Regulations (S.L. 64.1)
+# Importation of Seed Potatoes Regulations (S.L. 64.01)
 
 **SUBSIDIARY LEGISLATION 64.01**
 

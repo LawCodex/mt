@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister of Finance for the Issue of Lm10,000,000 6% Malta Government Stock 1999 (S.L. 161.37)
 
-ISSUE OF LM10,000,000 6%
-
-*1*
-
-MALTA GOVERNMENT STOCK 1999 [S.L.161.37
-
 SUBSIDIARY LEGISLATION 161.37
 
 DIRECTIVE BY THE MINISTER OF FINANCE FOR

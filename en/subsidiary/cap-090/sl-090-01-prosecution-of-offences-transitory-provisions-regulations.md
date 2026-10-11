@@ -1,6 +1,6 @@
 ---
 title: "Prosecution of Offences (Transitory Provisions) Regulations"
-identifier: "S.L. 90.1"
+identifier: "S.L. 90.01"
 eli: "https://legislation.mt/eli/sl/90.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,9 @@ version: "https://legislation.mt/eli/sl/90.1/20241001/eng"
 retrieved: 2026-10-12
 ---
 
-# Prosecution of Offences (Transitory Provisions) Regulations (S.L. 90.1)
+# Prosecution of Offences (Transitory Provisions) Regulations (S.L. 90.01)
 
-*1*
-
-(TRANSITORY PROVISIONS) [S.L. 90.01 SUBSIDIARY LEGISLATION 90.01
+**SUBSIDIARY LEGISLATION 90.01**
 
 **PROSECUTION OF OFFENCES (TRANSITORY**
 
@@ -58,10 +56,6 @@ The title of these regulations is the Prosecution of Offences (Transitory Provis
 
 (d) the execution of judgments and orders in terms of article 366 of the Criminal Code.
 
-*2*
-
-[S.L. 90.01 (TRANSITORY PROVISIONS)
-
 ## SCHEDULE — Powers of the Attorney General to prosecute
 
 *Amended by: L.N. 367 of 2021; L.N. 241 of 2022; L.N. 225 of 2023; L.N. 192 of 2024.*
@@ -90,13 +84,11 @@ The Attorney General shall have the power to decide whether a prosecution is or 
 
 ## 1A.
 
-The Attorney General shall have the power to decide whether a prosecution shall or shall not be instituted in the following categories of offences when the charges are to be filed in the Court of Magistrates as a court of criminal judicature or in the Court of (TRANSITORY PROVISIONS) [S.L. 90.01 Magistrates as a Court of criminal inquiry on or after the 1st October 2021:
+The Attorney General shall have the power to decide whether a prosecution shall or shall not be instituted in the following categories of offences when the charges are to be filed in the Court of Magistrates as a court of criminal judicature or in the Court of Magistrates as a Court of criminal inquiry on or after the 1st October 2021:
 
 * Cap. 9.*
 
 (a) traffic of Persons under sub-title VIII Bis of Title VIII of Part II of Book First of the Criminal Code;
-
-*3*
 
 * Cap. 9.*
 
@@ -134,10 +126,6 @@ The Attorney General shall have the power to decide whether a prosecution shall 
 
 (a) forgery of Government debentures, forgery of Government, judicial or official acts and counterfeiting of the public seal of Malta under sub-title I of Title V of Part II of Book First of the Criminal Code;
 
-**(TRANSITORY PROVISIONS)**
-
-*[S.L. 90.01 4*
-
 * Cap. 9.     Cap. 9.*
 
 (b) forgery of acts by public officer under sub-title II of Title V of Part II of Book First of the Criminal Code and forgery or uttering of currency under sub-title III of Title V of Part II of Book First of the Criminal Code;
@@ -166,13 +154,11 @@ The Attorney General shall have the power to decide whether a prosecution shall 
 
 ## 1C.
 
-The Attorney General shall have the power to decide whether a prosecution is or is not to be instituted in the following categories of offences when the charges are to be filed in the Court of Magistrates as a court of criminal judicature or in the Court of (TRANSITORY PROVISIONS) [S.L. 90.01 Magistrates as a Court of criminal inquiry on or after the 1st October 2023:
+The Attorney General shall have the power to decide whether a prosecution is or is not to be instituted in the following categories of offences when the charges are to be filed in the Court of Magistrates as a court of criminal judicature or in the Court of Magistrates as a Court of criminal inquiry on or after the 1st October 2023:
 
 *     Cap. 9.*
 
 (a) grievous bodily harm; grievous bodily harm with arms proper; other cases of grievous bodily harm; grievous bodily harm from which death ensues under sub-title II of Title VIII of Part II of Book First of the Criminal Code;
-
-*5*
 
 *   Cap. 9.*
 
@@ -210,11 +196,7 @@ The Attorney General shall have the power to decide whether a prosecution is or 
 
 *Cap. 101.*
 
-(b) offences against the Dangerous Drugs Ordinance where the Attorney General directed that the [S.L. 90.01 (TRANSITORY PROVISIONS)
-
-offences may be prosecuted before the Criminal Court or the Court of Magistrates as a court of criminal judicature, provided that the offence shall not fall within the original jurisdiction of the Court of Magistrates as a court of criminal judicature;
-
-*6*
+(b) offences against the Dangerous Drugs Ordinance where the Attorney General directed that the offences may be prosecuted before the Criminal Court or the Court of Magistrates as a court of criminal judicature, provided that the offence shall not fall within the original jurisdiction of the Court of Magistrates as a court of criminal judicature;
 
 *  Cap. 373.     Cap. 101.  Cap. 31.*
 
@@ -240,11 +222,9 @@ Nothing in this Schedule shall be interpreted:
 
 (2) Without prejudice to the provisions of item 2, the Executive Police shall not on or after the 1st October 2021 institute or pursue any prosecution for the crimes listed in item 1A in the absence of a decision to prosecute having been taken by the Attorney General.
 
-(3) Without prejudice to the provisions of item 2, the Executive Police shall not on or after the 1st October 2022 institute or pursue any prosecution for the crimes listed in item 1B in the absence (TRANSITORY PROVISIONS) [S.L. 90.01 of a decision to prosecute having been taken by the Attorney General.
+(3) Without prejudice to the provisions of item 2, the Executive Police shall not on or after the 1st October 2022 institute or pursue any prosecution for the crimes listed in item 1B in the absence of a decision to prosecute having been taken by the Attorney General.
 
 (4) Without prejudice to the provisions of item 2, the Executive Police shall not on or after the 1st October 2023 institute or pursue any prosecution for the crimes listed in item 1C in the absence of a decision to prosecute having been taken by the Attorney General.
-
-*7*
 
 (5) Without prejudice to the provisions of item 2, the Executive Police shall not on or after the 1st October 2024 institute or pursue any prosecution for the offences listed in item 1D in the absence of a decision to prosecute having been taken by the Attorney General.
 

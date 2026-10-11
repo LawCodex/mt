@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ta' Monita Residence, Marsascala (Designated Special Area) Order (S.L. 246.13)
 
-*1*
-
-(DESIGNATED SPECIAL AREA) [S.L.246.13
-
 **SUBSIDIARY LEGISLATION 246.13**
 
 **TA’ MONITA RESIDENCE, MARSASCALA**
@@ -42,7 +38,3 @@ Ta’ Monita Residence, Marsascala consisting of immovable property situated in 
 ## 3. Addition to First Schedule of the Act. Cap. 246.
 
 Ta’ Monita Residence, Marsascala shall be added to the List of Scheduled Zones in the First Schedule to the Immovable Property (Acquisition by Non-Residents) Act.
-
-*2*
-
-[S.L.246.13 (DESIGNATED SPECIAL AREA)

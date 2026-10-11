@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Form of Judicial Letter for the purposes of article 166A(2) of the Code of Organization and Civil Procedure Regulation (S.L. 12.22)
 
-FORM OF JUDICIAL LETTER FOR THE
-
-PURPOSES OF ARTICLE 166A(2) OF THE CODE
-
-*1*
-
-OF ORGANIZATION AND CIVIL PROCEDURE [S.L.12.22
-
 **SUBSIDIARY LEGISLATION 12.22**
 
 FORM OF JUDICIAL LETTER FOR THE PURPOSES OF ARTICLE 166A(2) OF THE CODE OF

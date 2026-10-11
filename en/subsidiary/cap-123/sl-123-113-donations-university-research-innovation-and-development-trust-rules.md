@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Donations (University Research, Innovation and Development Trust) Rules (S.L. 123.113)
 
-*1*
-
-INNOVATION AND DEVELOPMENT TRUST) [S.L.123.113
-
 **SUBSIDIARY LEGISLATION 123.113**
 
 **DONATIONS (UNIVERSITY RESEARCH,**
@@ -64,9 +60,5 @@ These rules shall apply to persons as defined in the Income Tax Act.
 (3) Where capital allowances have been allowed in respect of an asset donated in accordance with sub-rule (1), the value of the donation shall be considered to be the written down value of the asset as on the date of donation.
 
 (4) Where an asset donated in accordance with sub-rule (1) is purchased by the donor for forwarding to the said donee or is issued out of the donor ’s own stock, whether purchased or manufactured by the said donor, the value of the donation shall be equivalent to its cost to the donor.
-
-*2*
-
-[S.L.123.113 INNOVATION AND DEVELOPMENT TRUST)
 
 (5) The trustees of the University Research, Innovation and Development Trust shall submit to the Commissioner a statement in such manner and format as the Commissioner may require showing the details mentioned in sub-rule (2), in respect of all donations, by the end of January of the year following that in which the donations were made.

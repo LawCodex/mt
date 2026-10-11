@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Arts (Honours) - B.A. (Hons) - under the auspices of the Institute of Criminology (S.L. 327.255)
 
-CRIMINOLOGY B.A. (HONS) CRIMINOLOGY - UNDER THE
-
-*1*
-
-AUSPICES OF THE FACULTY FOR SOCIAL WELLBEING [S.L.327.255
-
 **SUBSIDIARY LEGISLATION 327.255**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF ARTS (HONOURS) IN CRIMINOLOGY - B.A.
@@ -71,11 +65,9 @@ These bye-laws shall be applicable for courses commencing in October 2014 or lat
 
 The course shall extend over a period of three years of full-time study or five years of part-time study.
 
-*2*
+## 5. Programme of study
 
-CRIMINOLOGY B.A. (HONS) CRIMINOLOGY - UNDER THE [S.L.327.255 AUSPICES OF THE FACULTY FOR SOCIAL WELLBEING 5. (1) The course shall consist of study-units to which 180 ECTS credits are assigned.
-
-*Programme of study*
+(1) The course shall consist of study-units to which 180 ECTS credits are assigned.
 
 (2) The Board shall publish the programme of study for the Degree, drawn up in accordance with the relevant provisions of the Principal Regulations, and approved by Senate, prior to the commencement of the course. Subject to changes that the Board may, with the approval of Senate, be constrained to make, students are bound to follow the study-units and obtain the credits as indicated in the programme of study.
 

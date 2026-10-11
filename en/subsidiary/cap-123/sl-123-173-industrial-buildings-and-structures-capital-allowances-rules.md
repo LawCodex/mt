@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Industrial Buildings and Structures (Capital Allowances) Rules (S.L. 123.173)
 
-*1*
-
-(CAPITAL ALLOWANCES) [S.L.123.173
-
 **SUBSIDIARY LEGISLATION 123.173**
 
 **INDUSTRIAL BUILDINGS AND STRUCTURES**
@@ -55,11 +51,7 @@ For the purpose of article 14(1)(j) of the Act, the capital expenditure on an in
 
 ## 5. Apportionment of land area.
 
-When an industrial building or structure forms part of a building that comprises other premises, the land on which it is constructed shall be deemed to be a portion of the total area of the land occupied by the whole building that is proportionate to the [S.L.123.173 (CAPITAL ALLOWANCES)
-
-surface area of the industrial building or structure.
-
-*2*
+When an industrial building or structure forms part of a building that comprises other premises, the land on which it is constructed shall be deemed to be a portion of the total area of the land occupied by the whole building that is proportionate to the surface area of the industrial building or structure.
 
 ## 6. Value of airspace.
 

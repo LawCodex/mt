@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Statute 04 - Matriculation and Secondary Education Certificates Examinations Statute (S.L. 327.18)
 
-*1*
-
-EDUCATION CERTIFICATE EXAMINATIONS [S.L.327.18
-
 **SUBSIDIARY LEGISLATION 327.18**
 
 **STATUTE FOR THE MATRICULATION AND**
@@ -62,10 +58,6 @@ This statute shall be applicable from 2 June 2014 onwards. 3. (1) There shall be
 
 (iv) to make recommendations to Senate regarding the appointment of syllabus and learning and assessment programme panels, paper setters’ panels, markers’ panels and external and standards verifiers, as appropriate;
 
-*2*
-
-[S.L.327.18 EDUCATION CERTIFICATE EXAMINATIONS
-
 (v) to make recommendations to Senate on all matters related to assessment and examinations and on relevant matters referred to it; and
 
 (vi) to make recommendations to Council regarding resources so that the MATSEC Board shall execute all its functions.
@@ -104,11 +96,7 @@ This statute shall be applicable from 2 June 2014 onwards. 3. (1) There shall be
 
 *Substituted by: L.N. 413 of 2021.*
 
-Regulations made by Senate for the examinations leading to the Matriculation and Secondary Education Certificates and the syllabi or learning and assessment programmes for each subject shall normally be published each year. Advanced and Intermediate Level syllabi shall EDUCATION CERTIFICATE EXAMINATIONS [S.L.327.18
-
-normally be published two years in advance of the final assessment. SEC and SEAC syllabi and learning and assessment programmes shall normally be published three years in advance of the final assessment.
-
-*3*
+Regulations made by Senate for the examinations leading to the Matriculation and Secondary Education Certificates and the syllabi or learning and assessment programmes for each subject shall normally be published each year. Advanced and Intermediate Level syllabi shall normally be published two years in advance of the final assessment. SEC and SEAC syllabi and learning and assessment programmes shall normally be published three years in advance of the final assessment.
 
 ## 6. Certification.
 

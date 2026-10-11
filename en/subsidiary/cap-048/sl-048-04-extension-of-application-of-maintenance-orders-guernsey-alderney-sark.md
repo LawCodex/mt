@@ -1,6 +1,6 @@
 ---
 title: "Extension of Application of Maintenance Orders (Guernsey, Alderney, Sark) Order"
-identifier: "S.L. 48.4"
+identifier: "S.L. 48.04"
 eli: "https://legislation.mt/eli/sl/48.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/48.4/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Extension of Application of Maintenance Orders (Guernsey, Alderney, Sark) Order (S.L. 48.4)
-
-(EXTENSION OF APPLICATION)
-
-*1*
-
-(GUERNSEY, ALDERNEY, SARK) [ S.L.48.04
+# Extension of Application of Maintenance Orders (Guernsey, Alderney, Sark) Order (S.L. 48.04)
 
 **SUBSIDIARY LEGISLATION 48.04**
 

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science in Sustainable Energy - M.Sc. - under the auspices of the Institute for Sustainable Energy (S.L. 327.456)
 
-ENERGY - M.Sc. -UNDER THE AUSPICES OF
-
-*1*
-
-THE INSTITUTE FOR SUSTAINABLE ENERGY [S.L.327.456
-
 **SUBSIDIARY LEGISLATION 327.456**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -69,13 +63,7 @@ These bye-laws shall be applicable for courses commencing in October 2017 or lat
 
 (a) a first cycle degree from the University of Malta with at least Second Class (Honours) in a discipline related to Sustainable Energy or in any other area of study of the proposed research which the Board considers as appropriate, with a minimum of 240 ECTScredits, obtained in the ten years previous to registration for the course; or
 
-(b) a qualification and work experience deemed by Senate, on the recommendation of the Board, to be equivalent to the qualifications listed in sub-paragraph (a) of this paragraph. The admission of applicants under this sub- ENERGY - M.Sc. -UNDER THE AUSPICES OF
-
-*2*
-
-[S.L.327.456 THE INSTITUTE FOR SUSTAINABLE ENERGY
-
-paragraph shall be made conditional on the results of an interview, provided that such applicants may be required to complete a preparatory programme as specified in bye-law 5.
+(b) a qualification and work experience deemed by Senate, on the recommendation of the Board, to be equivalent to the qualifications listed in sub-paragraph (a) of this paragraph. The admission of applicants under this sub-paragraph shall be made conditional on the results of an interview, provided that such applicants may be required to complete a preparatory programme as specified in bye-law 5.
 
 (2) Applicants may be asked to demonstrate competence in those skills required by the nature of the proposed research via an extended interview and the submission of appropriate documentation, provided that where deficiencies are identified applicants shall be required to take specific study-units intended to compensate for the deficit.
 
@@ -113,11 +101,7 @@ The programme of study shall be published after approval by Senate, normally not
 
 (1) Students shall be required to submit an individual dissertation of between 25,000 and 50,000 words in accordance with the guidelines issued by the Board.
 
-ENERGY - M.Sc. -UNDER THE AUSPICES OF
-
-*3*
-
-THE INSTITUTE FOR SUSTAINABLE ENERGY [S.L.327.456 (2) Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
+(2) Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
 
 (3) Aprovisional title for the dissertation and a detailed research proposal shall be submitted to the Board for approval at the time of application.
 

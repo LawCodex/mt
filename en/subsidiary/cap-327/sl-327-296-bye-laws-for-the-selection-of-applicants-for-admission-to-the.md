@@ -17,13 +17,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Selection of Applicants for Admission to the Bachelor of Science (Honours)Degree Course under the auspices of the Faculty of Health Sciences (S.L. 327.296)
 
-BACHELOR OF SCIENCE (HONOURS) (MIDWIFERY) AND
-
-(RADIOGRAPHY) DEGREE COURSE UNDER THE AUSPICES
-
-*1*
-
-OF THE FACULTY OF HEALTH SCIENCES [S.L.327.296 SUBSIDIARY LEGISLATION 327.296
+**SUBSIDIARY LEGISLATION 327.296**
 
 BYE-LAWS FOR THE SELECTION OF APPLICANTS TO THE BACHELOR OF SCIENCE (HONOURS)
 
@@ -76,14 +70,6 @@ In the cases referred to in bye-law 2, when the number of eligible applicants ex
 (2) Applicants in possession of the General Entry Requirements may offer the pass in Biology at Advanced Level either as part of the General Entry Requirements or in addition to the General Entry Requirements.
 
 \*Repealed by Legal Notices 128 and 129 of 2023.
-
-BACHELOR OF SCIENCE (HONOURS) (MIDWIFERY) AND
-
-(RADIOGRAPHY) DEGREE COURSE UNDER THE AUSPICES
-
-*2*
-
-[S.L.327.296 OF THE FACULTY OF HEALTH SCIENCES
 
 (3) When applicants present more than one pass in Biology, the best grade shall be taken into consideration.
 

@@ -1,6 +1,6 @@
 ---
 title: "Immovable Property (Acquisition by Non-Residents) (Fees) Regulations"
-identifier: "S.L. 246.1"
+identifier: "S.L. 246.01"
 eli: "https://legislation.mt/eli/sl/246.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/246.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Immovable Property (Acquisition by Non-Residents) (Fees) Regulations (S.L. 246.1)
-
-IMMOVABLE PROPERTY
-
-*1*
-
-(ACQUISITION BY NON-RESIDENTS) (FEES) [S.L.246.01
+# Immovable Property (Acquisition by Non-Residents) (Fees) Regulations (S.L. 246.01)
 
 **SUBSIDIARY LEGISLATION 246.01**
 

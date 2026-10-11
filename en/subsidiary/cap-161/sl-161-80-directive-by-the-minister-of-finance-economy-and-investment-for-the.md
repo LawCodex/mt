@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Minister of Finance, Economy and Investment for the issue of €13,670,000 7% Malta Government Stock 2019 (II) (S.L. 161.80)
 
-ECONOMY AND INVESTMENT FOR THE ISSUE OF
-
-*1*
-
-€13,670,000 7% MALTA GOVERNMENT STOCK 2019 (II) [S.L.161.80
-
 **SUBSIDIARY LEGISLATION 161.80**
 
 DIRECTIVE BY THE MINISTER OF FINANCE,
@@ -53,12 +47,12 @@ In cases where Stock is registered in the names of two or more persons as joint 
 
 ## 4. Trading on the Malta Stock Exchange. Cap. 345.
 
-An application for the Stock to be put on the official list for trading on the Malta Stock Exchange will be made in terms of the Financial Markets Act. Such Stock may be freely sold to the public with the prior authorization of the Maltese Episcopal Conference. Such stock may, however, be traded between Ecclesiastical Entities outside the Malta Stock Exchange, does not require such authorization, and shall be exempt from duty on documentation. ECONOMY AND INVESTMENT FOR THE ISSUE OF [S.L.161.80 €13,670,000 7% MALTA GOVERNMENT STOCK 2019 (II) 5. The Stock and interest thereon will be a charge on the general revenue and assets of the Government of Malta.
+An application for the Stock to be put on the official list for trading on the Malta Stock Exchange will be made in terms of the Financial Markets Act. Such Stock may be freely sold to the public with the prior authorization of the Maltese Episcopal Conference. Such stock may, however, be traded between Ecclesiastical Entities outside the Malta Stock Exchange, does not require such authorization, and shall be exempt from duty on documentation.
+
+## 5. Charge on Government revenue and assets.
+
+The Stock and interest thereon will be a charge on the general revenue and assets of the Government of Malta.
 
 ## 6. Redemption of Stock.
 
 The Stock shall be redeemed at a premium of 10% over the nominal value on such date between the 1st January, 2019 and the 31st December, 2019 (both dates inclusive) as shall be determined by the Accountant General and notified in the Gazette.
-
-*2*
-
-*Charge on Government revenue and assets.*

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the degree of Master in Contemporary Diplomacy under the auspices of the Faculty of Arts (S.L. 327.165)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF ARTS [S.L.327.165
-
 **SUBSIDIARY LEGISLATION 327.165**
 
 BYE-LAWS FOR THE DEGREE OF MASTER IN CONTEMPORARY DIPLOMACY UNDER THE
@@ -69,9 +65,7 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 (a) Phase One: An Introductory Workshop, which shall be organized at the University of Malta or at a venue assigned by the University of Malta, to which 15 credits shall be assigned. The workshop shall focus on intensive research and study skills for diplomacy and international relations;
 
-*2*
-
-[S.L.327.165 UNDER THE AUSPICES OF THE FACULTY OF ARTS (b) Phase Two: Online Learning, which shall be conducted via the Internet, to which 45 credits shall be assigned; and
+(b) Phase Two: Online Learning, which shall be conducted via the Internet, to which 45 credits shall be assigned; and
 
 (c) Phase Three: Research work and the writing of a dissertation, to which 30 credits shall be assigned.
 
@@ -108,10 +102,6 @@ The programme of study shall be published after approval by Senate, normally not
 (2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies, whether the student is following the course on a full-time or a part-time basis. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of Principal Regulations; and
-
-*3*
-
-UNDER THE AUSPICES OF THE FACULTY OF ARTS [S.L.327.165
 
 (ii) the Board may not terminate studies prematurely according to (b) until it has first given the student a chance to be heard.
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (Russian Federation) Order (S.L. 123.146)
 
-*1*
-
-(RUSSIAN FEDERATION) [S.L.123.146
-
 **SUBSIDIARY LEGISLATION 123.146**
 
 DOUBLE TAXATION RELIEF (TAXES ON INCOME) (RUSSIAN FEDERATION) ORDER
@@ -46,8 +42,6 @@ It is hereby declared:
 (c) that the Convention shall enter into force on such date as may be announced by notice in the Government Gazette.\*
 
 \* 22nd May, 2014 - see Legal Notice 150 of 2014.
-
-2 [S.L.123.146 (RUSSIAN FEDERATION)
 
 ## SCHEDULE
 
@@ -117,9 +111,7 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 \1. For the purposes of this Convention, unless the context otherwise requires:
 
-(a) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and (RUSSIAN FEDERATION) [S.L.123.146 3
-
-the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
+(a) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
 
 (b) the term "Russia" means the Russian Federation; when used in geographical sense, means all the territory of the Russian Federation and also its exclusive economic zone and continental shelf, defined according to the UN Convention on the law of the seas (1982);
 
@@ -153,9 +145,7 @@ the other islands of the Maltese archipelago including the territorial waters th
 
 **RESIDENT**
 
-\1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of incorporation, place of management or any other criterion of a similar nature, and also includes that State and any political 4 [S.L.123.146 (RUSSIAN FEDERATION)
-
-subdivision or local authority thereof. This term, however, does not include any person who is liable to tax in that State in respect only of income from sources in that State.
+\1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of incorporation, place of management or any other criterion of a similar nature, and also includes that State and any political subdivision or local authority thereof. This term, however, does not include any person who is liable to tax in that State in respect only of income from sources in that State.
 
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
@@ -195,9 +185,7 @@ subdivision or local authority thereof. This term, however, does not include any
 
 Where an enterprise of a Contracting State performs services in the other Contracting State:
 
-(a) through an individual who is present in that other State for a period or periods exceeding in the aggregate 183 days in any twelve month period, and more than 50 % of the gross revenues attributable to active (RUSSIAN FEDERATION) [S.L.123.146 5
-
-business activities of the enterprise during this period or periods are derived from the services performed in that other State through that individual, or
+(a) through an individual who is present in that other State for a period or periods exceeding in the aggregate 183 days in any twelve month period, and more than 50 % of the gross revenues attributable to active business activities of the enterprise during this period or periods are derived from the services performed in that other State through that individual, or
 
 (b) for a period or periods exceeding in the aggregate 183 days in any twelve month period, and these services are performed for the same project or for connected projects through one or more individuals who are present and performing such services in that other State,
 
@@ -229,9 +217,7 @@ An enterprise of a Contracting State shall not be deemed to have a permanent est
 
 ## 8.
 
-The fact that a company which is a resident of a Contracting State controls or is controlled by a company which is a resident of the other Contracting State, or which carries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself constitute either company a 6 [S.L.123.146 (RUSSIAN FEDERATION)
-
-permanent establishment of the other.
+The fact that a company which is a resident of a Contracting State controls or is controlled by a company which is a resident of the other Contracting State, or which carries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself constitute either company a permanent establishment of the other.
 
 **Article 6**
 
@@ -258,8 +244,6 @@ permanent establishment of the other.
 \4. Insofar as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph 2 shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary; the method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles contained in this Article.
 
 \5. No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
-
-(RUSSIAN FEDERATION) [S.L.123.146 7
 
 \6. For the purposes of the preceding paragraphs, the profits to be attributed to the permanent establishment shall be determined by the same method year by year unless there is good and sufficient reason to the contrary.
 
@@ -297,8 +281,6 @@ DIVIDENDS
 
 \1. Dividends paid by a company which is a resident of a Contracting State to a resident of the other Contracting State may be taxed in that other State.
 
-8 [S.L.123.146 (RUSSIAN FEDERATION)
-
 \2. However, such dividends may also be taxed in the Contracting State of which the company paying the dividends is a resident and according to the laws of that Contracting State, but if the beneficial owner of those dividends is a resident of the other Contracting State, the tax so charged shall not exceed fifteen per cent (15%) of the gross amount of the dividends.
 
 \3. Notwithstanding the provisions of paragraphs 1 and 2, dividends paid by a company which is a resident of a Contracting State may also be taxed in that Contracting State according to the laws of that Contracting State, but:
@@ -319,9 +301,7 @@ the tax so charged shall not exceed five per cent (5%).
 
 \6. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment situated in that other State, nor subject the company's undistributed profits to a tax on the company's undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
 
-\7. Reduced tax rates provided for in the paragraphs 2 and 3 of this Article shall (RUSSIAN FEDERATION) [S.L.123.146 9
-
-not apply to dividends arising in a Contracting State and paid to the permanent establishment of an enterprise of the other Contracting State, situated in the third State.
+\7. Reduced tax rates provided for in the paragraphs 2 and 3 of this Article shall not apply to dividends arising in a Contracting State and paid to the permanent establishment of an enterprise of the other Contracting State, situated in the third State.
 
 ## 8.
 
@@ -363,8 +343,6 @@ the tax so charged shall not exceed five per cent (5%).
 
 \4. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor's profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article. However, the term "interest" shall not include for the purpose of this Article interest regarded as dividends under paragraph 4 of Article 10.
 
-10 [S.L.123.146 (RUSSIAN FEDERATION)
-
 \5. The provisions of paragraph 1 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
 \6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
@@ -390,8 +368,6 @@ The provision of this Article shall not apply if it was the main purpose or one 
 \3. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including cinematograph films, any patent, trade mark, design or model, plan, secret formula or process, or for information concerning industrial, commercial or scientific experience.
 
 \4. The provisions of paragraph 1 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
-
-(RUSSIAN FEDERATION) [S.L.123.146 11
 
 \5. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
@@ -419,9 +395,7 @@ The provision of this Article shall not apply if it was the main purpose or one 
 
 **INCOME FROM EMPLOYMENT**
 
-\1. Subject to the provisions of Articles 15, 17 and 18, salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an 12 [S.L.123.146 (RUSSIAN FEDERATION)
-
-employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
+\1. Subject to the provisions of Articles 15, 17 and 18, salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
 
 \2. Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in the other Contracting State shall be taxable only in the first-mentioned State if:
 
@@ -455,9 +429,7 @@ Directors' fees and other similar payments derived by a resident of a Contractin
 
 \1. Subject to the provisions of paragraph 2 of Article 18, pensions and other similar remuneration paid to a resident of a Contracting State in consideration of past employment shall be taxable only in that State.
 
-\2. Notwithstanding the provisions of paragraph 1, pensions paid and other (RUSSIAN FEDERATION) [S.L.123.146 13
-
-similar payments made by the Government of a Contracting State or a political subdivision or a local authority thereof under a public welfare scheme of the social security system of that State shall be taxable only in that State.
+\2. Notwithstanding the provisions of paragraph 1, pensions paid and other similar payments made by the Government of a Contracting State or a political subdivision or a local authority thereof under a public welfare scheme of the social security system of that State shall be taxable only in that State.
 
 **Article 18**
 
@@ -491,8 +463,6 @@ Payments which a student or business apprentice who is or was immediately before
 
 **Article 21**
 
-14 [S.L.123.146 (RUSSIAN FEDERATION)
-
 **OTHER INCOME**
 
 Items of income of a resident of a Contracting State, arising in the other Contracting State, and not dealt with in the foregoing Articles of this Convention may be taxed in that other State.
@@ -523,8 +493,6 @@ NON-DISCRIMINATION
 
 \4. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
 
-(RUSSIAN FEDERATION) [S.L.123.146 15
-
 \5. The provisions of this Article shall, notwithstanding the provisions of Article 2, apply to taxes of every kind and description.
 
 **Article 24**
@@ -549,9 +517,7 @@ EXCHANGE OF INFORMATION
 
 \2. Any information received under paragraph 1 by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that Contracting State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to the taxes referred to in paragraph 1, or the oversight of the above. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions. Notwithstanding the foregoing, information received by a Contracting State may be used for other purposes when such information may be used for such other purposes under the laws of both Contracting States and the competent authority of the supplying Contracting State authorises such use.
 
-\3. In no case shall the provisions of paragraphs 1 and 2 be construed so as to 16 [S.L.123.146 (RUSSIAN FEDERATION)
-
-impose on a Contracting State the obligation:
+\3. In no case shall the provisions of paragraphs 1 and 2 be construed so as to impose on a Contracting State the obligation:
 
 (a) to carry out administrative measures at variance with the laws and administrative practice of that or of the other Contracting State;
 
@@ -584,8 +550,6 @@ Nothing in this Convention shall affect the fiscal privileges of members of dipl
 Both Contracting States shall notify each other through diplomatic channels that they have completed the internal legal procedures necessary for the entry into force of this Convention. This Convention shall enter into force on the thirtieth day upon the receipt of the latter notification. This Convention shall be applicable in respect of income derived during the taxable years beginning on or after the first day of January next following that in which this Convention enters into force.
 
 **Article 29**
-
-(RUSSIAN FEDERATION) [S.L.123.146 17
 
 **TERMINATION**
 
@@ -628,8 +592,6 @@ At the moment of signing the Convention between the Government of Malta and the 
 IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, by their respective Governments, have signed this Protocol.
 
 DONE at Moscow this 24th day of April, 2013 in duplicate in the English and Russian languages both texts being equally authentic.
-
-18 [S.L.123.146 (RUSSIAN FEDERATION)
 
 Raymond Sarsero Sergey Dmitrievich Shatalov
 

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Common Standards and Procedures for returning Illegally Staying Third-Country Nationals Regulations (S.L. 217.12)
 
-FOR RETURNING ILLEGALLY STAYING
-
-*1*
-
-THIRD-COUNTRY NATIONALS [S.L.217.12
-
 **SUBSIDIARY LEGISLATION 217.12**
 
 **COMMON STANDARDS AND PROCEDURES**
@@ -69,12 +63,6 @@ In these regulations -
 
 "illegal stay" means the presence in Malta of a third-country national who does not fulfil or no longer fulfils the conditions of entry as set out in Article 5 of the Schengen Borders Code or other conditions of entry, stay or residence in Malta;
 
-FOR RETURNING ILLEGALLY STAYING
-
-*2*
-
-[S.L.217.12 THIRD-COUNTRY NATIONALS
-
 "international protection" means refugee status or subsidiary protection;
 
 "Member State" means any one of the Member States of the European Union;
@@ -109,11 +97,7 @@ FOR RETURNING ILLEGALLY STAYING
 
 Provided that save as provided in article 25A(6) of the Act, in the event of an appeal the third country national in question shall be detained for the duration of the appeal proceedings.
 
-"third-country national" means any person who is not a national of the European Union within the meaning of Article 17(1) of the FOR RETURNING ILLEGALLY STAYING
-
-*3*
-
-THIRD-COUNTRY NATIONALS [S.L.217.12 EC Treaty and who is not a person enjoying the Community right of free movement, as defined in Article 2(5) of the Schengen Borders Code;
+"third-country national" means any person who is not a national of the European Union within the meaning of Article 17(1) of the EC Treaty and who is not a person enjoying the Community right of free movement, as defined in Article 2(5) of the Schengen Borders Code;
 
 "unaccompanied minor" means a person below the age of eighteen years who arrives in Malta unaccompanied by an adult responsible for him whether by law or by custom;
 
@@ -137,13 +121,7 @@ Provided further that the Principal Immigration Officer shall issue a return dec
 
 Provided, however, the Principal Immigration Officer may decide to take back into Malta a third-country national staying illegally in another Member State, in which case after taking back the third-country national concerned, the Principal Immigration Officer shall apply the provisions of sub-regulation (2).
 
-(4) Without prejudice to sub-regulation (5), where a third-country national staying illegally in Malta is the subject of a pending procedure for renewing his residence permit or other FOR RETURNING ILLEGALLY STAYING
-
-*4*
-
-[S.L.217.12 THIRD-COUNTRY NATIONALS
-
-authorisation offering a right to stay, the Principal Immigration Officer shall consider refraining from issuing a return decision, until the pending procedure is finished:
+(4) Without prejudice to sub-regulation (5), where a third-country national staying illegally in Malta is the subject of a pending procedure for renewing his residence permit or other authorisation offering a right to stay, the Principal Immigration Officer shall consider refraining from issuing a return decision, until the pending procedure is finished:
 
 Provided that the third-country national, while awaiting the permit, shall notify the competent authority of his presence in Malta and the competent authority shall acknowledge such notification.
 
@@ -169,11 +147,7 @@ Provided that the Principal Immigration Officer shall, where necessary, extend t
 
 (3) The Principal Immigration Officer may impose for the duration of the period for voluntary departure certain obligations he deems necessary to avoid the risk of absconding.
 
-FOR RETURNING ILLEGALLY STAYING
-
-*5*
-
-THIRD-COUNTRY NATIONALS [S.L.217.12 (4) The Principal Immigration Officer may refuse to grant a period for voluntary departure or may grant a period shorter than seven days where:
+(4) The Principal Immigration Officer may refuse to grant a period for voluntary departure or may grant a period shorter than seven days where:
 
 (a) there is a risk of absconding; or
 
@@ -213,13 +187,7 @@ Provided that where it is necessary for the Principal Immigration Officer to con
 
 (a) it violates the principle of non-refoulement; or
 
-(b) an appeal has been filed with the Board in accordance with the provisions of article 25A(7) of the Act and a FOR RETURNING ILLEGALLY STAYING
-
-*6*
-
-[S.L.217.12 THIRD-COUNTRY NATIONALS
-
-decision thereon is pending:
+(b) an appeal has been filed with the Board in accordance with the provisions of article 25A(7) of the Act and a decision thereon is pending:
 
 Provided that the Principal Immigration Officer may postpone removal for an appropriate period taking into account the specific circumstances of the case, in particular the third-country national’s physical state or mental capacity, or technical reasons.
 
@@ -253,11 +221,7 @@ Provided that such entry ban may exceed five years if the third-country national
 
 *S.L. 217.07.*
 
-Provided that the Principal Immigration Officer may refrain FOR RETURNING ILLEGALLY STAYING
-
-*7*
-
-THIRD-COUNTRY NATIONALS [S.L.217.12 from issuing, withdrawing or suspending an entry ban in individual cases for humanitarian reasons or other reasons he may deem appropriate.
+Provided that the Principal Immigration Officer may refrain from issuing, withdrawing or suspending an entry ban in individual cases for humanitarian reasons or other reasons he may deem appropriate.
 
 (7) Where the Maltese authorities are considering whether to grant a residence permit or other authorisation for a right to stay to a third-country national who is issued with an entry ban by another Member State, such Member State shall be first consulted and its interests shall be taken into account in accordance with Article 25 of the Convention implementing the Schengen Agreement.
 
@@ -290,12 +254,6 @@ Provided that a third country national shall, as a general rule, not be detained
 (4) Subject to authorisation by the Principal Immigration Officer the competent national, international and non-governmental organisations and bodies shall have the possibility to visit detention facilities where third country nationals are kept in custody.
 
 (5) A third-country national in detention shall be provided with information concerning the rules applied in the detention facility, his rights and obligations, and his entitlement under Maltese law to contact the organisations and bodies referred to in sub-regulation (4).
-
-FOR RETURNING ILLEGALLY STAYING
-
-*8*
-
-[S.L.217.12 THIRD-COUNTRY NATIONALS
 
 ### 10. Detention of minors and families.
 
@@ -331,11 +289,7 @@ Provided that free legal assistance shall only be provided where the review is l
 
 *Safeguards pending return.*
 
-(5) The Principal Immigration Officer shall, except in the case of detention as provided in regulations 9 and 10, ensure that the following principles are taken into account as far as possible in relation to third country nationals during the period granted for voluntary departure in accordance with regulation 4 or the period FOR RETURNING ILLEGALLY STAYING
-
-*9*
-
-THIRD-COUNTRY NATIONALS [S.L.217.12 during which removal is postponed in accordance with regulation 6:
+(5) The Principal Immigration Officer shall, except in the case of detention as provided in regulations 9 and 10, ensure that the following principles are taken into account as far as possible in relation to third country nationals during the period granted for voluntary departure in accordance with regulation 4 or the period during which removal is postponed in accordance with regulation 6:
 
 (a) ensure as far as possible, that the third-country national remains in contact with members of his family if they are in Malta at the time;
 
@@ -365,13 +319,7 @@ Provided further that, save as provided in article 25A(6) of the Act, in the eve
 
 (9) Where the third-country national is entitled to institute proceedings as provided in sub-regulation (8) he shall immediately be informed about such proceedings.
 
-(10) The third country-national shall be immediately released from detention where in the opinion of the Board such detention is FOR RETURNING ILLEGALLY STAYING
-
-*10*
-
-[S.L.217.12 THIRD-COUNTRY NATIONALS
-
-not lawful.
+(10) The third country-national shall be immediately released from detention where in the opinion of the Board such detention is not lawful.
 
 (11) The third-country national concerned shall be released immediately if:
 
@@ -406,9 +354,3 @@ Provided, however, the period of detention may not exceed six months.
 Provided that where the third-country national is informed about the removal an order postponing such removal shall take place.
 
 (2) The Board shall review any removal postponed for an appropriate period in accordance with regulation 6(2).
-
-FOR RETURNING ILLEGALLY STAYING
-
-*11*
-
-THIRD-COUNTRY NATIONALS [S.L.217.12

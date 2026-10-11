@@ -15,11 +15,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws in terms of the General Regulations for University Postgraduate Awards, for the degree of Master of Arts in Tourism – M.A. – under the auspices of the Institute for Tourism, Travel and Culture (S.L. 327.404)
 
-UNDER THE AUSPICES OF THE INSTITUTE
-
-*1*
-
-FOR TOURISM, TRAVEL AND CULTURE [S.L.327.404 SUBSIDIARY LEGISLATION 327.404
+**SUBSIDIARY LEGISLATION 327.404**
 
 **BYE-LAWS IN TERMS OF THE GENERAL**
 
@@ -80,12 +76,6 @@ The programme of study shall be published after approval by Senate, normally not
 *Substituted by: L.N. 179 of 2017.*
 
 (2) Students who fail in the assessment of the taught study-unit/s shall be given the opportunity to re-sit the failed assessment/ s during the September supplementary examination session.
-
-UNDER THE AUSPICES OF THE INSTITUTE
-
-*2*
-
-[S.L.327.404 FOR TOURISM, TRAVEL AND CULTURE
 
 (3) Students who after re-assessment fail to obtain credit for any study-unit, shall be deemed to have failed the Course.
 

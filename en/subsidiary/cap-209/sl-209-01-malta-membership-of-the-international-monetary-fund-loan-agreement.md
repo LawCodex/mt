@@ -1,6 +1,6 @@
 ---
 title: "Malta Membership of the International Monetary Fund (Loan Agreement) Order"
-identifier: "S.L. 209.1"
+identifier: "S.L. 209.01"
 eli: "https://legislation.mt/eli/sl/209.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/209.1/20170828/eng"
 retrieved: 2026-10-12
 ---
 
-# Malta Membership of the International Monetary Fund (Loan Agreement) Order (S.L. 209.1)
-
-MALTA MEMBERSHIP OF THE INTERNATIONAL
-
-*1*
-
-MONETARY FUND (LOAN AGREEMENT) [S.L. 209.01
+# Malta Membership of the International Monetary Fund (Loan Agreement) Order (S.L. 209.01)
 
 **SUBSIDIARY LEGISLATION 209.01**
 

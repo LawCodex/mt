@@ -1,6 +1,6 @@
 ---
 title: "Report of Animals to the Police Regulations"
-identifier: "S.L. 10.7"
+identifier: "S.L. 10.07"
 eli: "https://legislation.mt/eli/sl/10.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/10.7/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Report of Animals to the Police Regulations (S.L. 10.7)
+# Report of Animals to the Police Regulations (S.L. 10.07)
 
 **SUBSIDIARY LEGISLATION 10.07**
 

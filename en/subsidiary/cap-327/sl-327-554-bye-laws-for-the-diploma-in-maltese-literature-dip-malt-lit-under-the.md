@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in Maltese Literature - Dip. Malt. Lit. - under the auspices of the Faculty of Arts (S.L. 327.554)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF ARTS [S.L.327.554
-
 **SUBSIDIARY LEGISLATION 327.554**
 
 BYE-LAWS FOR THE DIPLOMA IN MALTESE
@@ -69,13 +65,11 @@ The course shall extend over a period of four semesters of part-time study.
 
 (1) The course shall consist of study-units to which 60 ECTS credits are assigned.
 
-(2) Students shall be eligible for the award of the Diploma if [S.L.327.554 UNDER THE AUSPICES OF THE FACULTY OF ARTS they obtain the 60 ECTS credits as outlined in the programme of study for the course.
+(2) Students shall be eligible for the award of the Diploma if they obtain the 60 ECTS credits as outlined in the programme of study for the course.
 
 ## 7. Publication of programme of study.
 
 The programme of study shall be published after approval by Senate, normally not less than eight months prior to the commencement of the course.
-
-*2*
 
 ## 8. Classification of the Award.
 

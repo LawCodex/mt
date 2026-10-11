@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws in terms of the General Regulations for University Undergraduate Awards, for the Degree of Bachelor of Science (Honours) Nursing (Elderly Care) - B.Sc. (Hons) - under the auspices of the Faculty of Health Sciences (S.L. 327.581)
 
-*1*
-
-NURSING (ELDERLY CARE) - B.SC. (HONS) [S.L. 327.581 SUBSIDIARY LEGISLATION 327.581
+**SUBSIDIARY LEGISLATION 327.581**
 
 **BYE-LAWS IN TERMS OF THE GENERAL**
 
@@ -70,13 +68,7 @@ These bye-laws shall be applicable for courses commencing in October 2017 or lat
 
 ## 4.
 
-(1) The Board shall, after approval by Senate, determine the number of applicants that may be allowed to register for the Course depending on the availability of resources. The Board shall announce the number of available places at the time of the call for POSTGRADUATE CERTIFICATE IN COUNSELLING
-
-**SUPERVISION – P.G. CERT.**
-
-*[S.L. 327.581 2*
-
-applications.
+(1) The Board shall, after approval by Senate, determine the number of applicants that may be allowed to register for the Course depending on the availability of resources. The Board shall announce the number of available places at the time of the call for applications.
 
 (2) If the number of eligible applicants exceeds the number of available places, the Board shall select applicants according to the following criteria:
 
@@ -114,11 +106,9 @@ academic qualifications (45% weighting):
 
 provided that the date used for the purpose of calculating the years of work experience in gainful employment shall be that of the commencement of the Course;
 
-(iii) successful completion of the ‘Clinical Education in Practice (Mentorship)’ (HSC4061) or ‘Mentorship’ (NUR3227) study- NURSING (ELDERLY CARE) - B.SC. (HONS) [S.L. 327.581 unit or a unit deemed by the Board of Studies to be equivalent, and holding 2 academic years of experience as a clinical supervisor in undergraduate Health Sciences programmes offered by the University of Malta (20% weighting); and
+(iii) successful completion of the ‘Clinical Education in Practice (Mentorship)’ (HSC4061) or ‘Mentorship’ (NUR3227) study-unit or a unit deemed by the Board of Studies to be equivalent, and holding 2 academic years of experience as a clinical supervisor in undergraduate Health Sciences programmes offered by the University of Malta (20% weighting); and
 
 (iv) successful completion of Continuing Professional Development (CPD) courses of at least 2 ECTS credits during the three years preceding the date of commencement of the Course for a maximum of 5 courses (15% weighting - 3 marks per CPD course).
-
-*3*
 
 (3) For the purpose of selection, applicants who fully satisfy the requirements for admission by 31st August preceding the commencement of the Course shall be placed in rank order and those for whom places are available will be accepted and informed accordingly.
 

@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Fees payable for Residence Permits and Employment Licences Regulations (S.L. 35.39)
 
-*1*
-
-EMPLOYMENT LICENCES [S.L. 35.39 SUBSIDIARY LEGISLATION 35.39
+**SUBSIDIARY LEGISLATION 35.39**
 
 **FEES PAYABLE FOR RESIDENCE PERMITS AND**
 
@@ -87,10 +85,6 @@ regards residence and work - Key Employee
 €600
 
 Initiative
-
-**[S.L. 35.39 EMPLOYMENT LICENCES**
-
-*2*
 
 (h) Application for renewal of a single
 
@@ -174,10 +168,6 @@ of renewal up to three (3) years if applicant is eligible
 
 €100 licence fee not included)
 
-*3*
-
-EMPLOYMENT LICENCES [S.L. 35.39
-
 (r) Application for renewal of a
 
 residence permit for self-employed workers
@@ -258,10 +248,6 @@ or renewal in terms of the Family €50
 
 Reunification Regulations (S.L. 217.06)
 
-**[S.L. 35.39 EMPLOYMENT LICENCES**
-
-*4*
-
 (f) Application for a residence permit
 
 **or renewal in terms of the policy on family**
@@ -325,10 +311,6 @@ original one which has been lost, stolen, €50 destroyed or defaced
 (s) Application for other residence
 
 €50 permits or renewal
-
-*5*
-
-EMPLOYMENT LICENCES [S.L. 35.39
 
 (t) Application for the issue of a
 
@@ -399,10 +381,6 @@ Applications for annual renewal of an employment licence in terms of article 11(
 refugees, beneficiaries of subsidiary
 
 protection and persons granted analogous Payable on issue: forms of protection €40
-
-**[S.L. 35.39 EMPLOYMENT LICENCES**
-
-*6*
 
 (b) All other third country nationals Payable on application: €250 (c) Third country nationals applying for
 

@@ -1,6 +1,6 @@
 ---
 title: "Boards of Inquiry relative to Maintenance and Control of Supplies and Services Regulations"
-identifier: "S.L. 117.7"
+identifier: "S.L. 117.07"
 eli: "https://legislation.mt/eli/sl/117.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/117.7/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Boards of Inquiry relative to Maintenance and Control of Supplies and Services Regulations (S.L. 117.7)
-
-*1*
-
-AND CONTROL OF SUPPLIES AND SERVICES [S.L.117.07
+# Boards of Inquiry relative to Maintenance and Control of Supplies and Services Regulations (S.L. 117.07)
 
 **SUBSIDIARY LEGISLATION 117.07**
 
@@ -71,11 +67,7 @@ The Board shall have the power -
 
 (b) to require any person in possession of books, accounts or documents that may have a bearing on its investigations to produce to it such books, accounts or other documents or to require any such person to furnish to it such estimates, extracts or returns as it may require;
 
-(c) to require any person in possession of goods or things that may have a bearing on its investigations to [S.L.117.07 AND CONTROL OF SUPPLIES AND SERVICES
-
-produce to it samples of such goods or things, and/or specifications thereof, on payment of a fair and reasonable compensation;
-
-*2*
+(c) to require any person in possession of goods or things that may have a bearing on its investigations to produce to it samples of such goods or things, and/or specifications thereof, on payment of a fair and reasonable compensation;
 
 (d) at all reasonable times to enter any place where any business or undertaking relating to its investigations is being carried out or where it has reason to believe that any goods or things to which those terms refer are kept or stored, or where it has reason to believe that any books, accounts or documents which may be relevant to the inquiry are kept; as well as any other place or premises used by or under the control of the persons to whom that business or undertaking appertains:
 
@@ -107,11 +99,7 @@ The fees payable to persons appearing before the Board to give information to it
 
 (1) Any person who, in connection with any matter under these regulations -
 
-(a) hinders or obstructs the Chairman, any member or the AND CONTROL OF SUPPLIES AND SERVICES [S.L.117.07
-
-**Secretary in the execution of his duties; or**
-
-*3*
+(a) hinders or obstructs the Chairman, any member or the Secretary in the execution of his duties; or
 
 (b) furnishes any information which he knows to be false in any material particular, or recklessly furnishes any information which is false in any material particular; or
 

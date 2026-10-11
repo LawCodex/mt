@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Tax Credits (Owners and Operators of Warehouses situated in Free Zones) (S.L. 123.84)
 
-*1*
-
-OF WAREHOUSES SITUATED IN FREE ZONES) [S.L.123.84
-
 **SUBSIDIARY LEGISLATION 123.84**
 
 TAX CREDITS (OWNERS AND OPERATORS OF WAREHOUSES SITUATED IN FREE ZONES)
@@ -67,11 +63,7 @@ Provided that the title holder of any property mentioned in paragraphs (ii) and 
 
 "free zone" means a site or an area in Malta that is recognised by the Comptroller of Customs as a free zone for the purposes of customs legislation;
 
-"maximum qualifying expenditure" has the meaning assigned to [S.L.123.84 OF WAREHOUSES SITUATED IN FREE ZONES)
-
-it in rule 6;
-
-*2*
+"maximum qualifying expenditure" has the meaning assigned to it in rule 6;
 
 "project period" means the period commencing on the earliest date of commencement and ending on the latest date of completion of the project in question as determined in terms of rule 7(1)(d);
 
@@ -105,10 +97,6 @@ it in rule 6;
 
 (2) An application under this rule shall be made on such form as may be acceptable to the Corporation and shall:
 
-*3*
-
-OF WAREHOUSES SITUATED IN FREE ZONES) [S.L.123.84
-
 (a) provide such particulars of the applicant as are necessary to determine whether it qualifies or not as a small or medium sized enterprise in accordance the provisions of the Business Promotion Regulations;
 
 *S.L. 325.06*
@@ -136,10 +124,6 @@ OF WAREHOUSES SITUATED IN FREE ZONES) [S.L.123.84
 ## 5. Approval of project.
 
 (1) When the Corporation is satisfied that a project to which an application made under rule 4 refers is a bona fide qualifying project and that the application complies with the requirements of these rules, it may approve the project and proceed to make a determination and issue a letter of approval as provided in rules 6 and 7:
-
-*4*
-
-[S.L.123.84 OF WAREHOUSES SITUATED IN FREE ZONES)
 
 Provided that -
 
@@ -185,10 +169,6 @@ When the Corporation approves a project it shall determine the extent to which, 
 
 (2) The company shall, within the time limit set out in sub-rule (1), deliver a copy of the certificate to the Commissioner.
 
-*5*
-
-OF WAREHOUSES SITUATED IN FREE ZONES) [S.L.123.84
-
 (3) The Commissioner may, after receiving a copy of the certificate, request an independent opinion from the Corporation or any other competent technical person regarding the contents thereof.
 
 ## 9. Allowable expenditure.
@@ -213,11 +193,7 @@ OF WAREHOUSES SITUATED IN FREE ZONES) [S.L.123.84
 
 (1) Subject to the other provisions of this rule, the employment condition referred to in rule 3(1) shall be satisfied - (a) in the case of an eligible owner which is not also the operator of the warehouse to which the approved project refers, if that warehouse is, during the project period or within three years from the termination thereof, operated by an eligible operator which also carries out an approved project, and that operator employs, during his project period, at least one additional employee;
 
-(b) in the case of a qualifying company which is the operator of the warehouse to which the approved project refers, if, during the project period or within three years from the termination thereof, it employs at [S.L.123.84 OF WAREHOUSES SITUATED IN FREE ZONES)
-
-least one additional employee.
-
-*6*
+(b) in the case of a qualifying company which is the operator of the warehouse to which the approved project refers, if, during the project period or within three years from the termination thereof, it employs at least one additional employee.
 
 (2) Subject to sub-rule (3), an individual shall be deemed to be an additional employee if all the following conditions are met:
 
@@ -245,11 +221,7 @@ least one additional employee.
 
 (1) An eligible operator whose project is approved under these rules shall prepare and deliver to the Corporation such information about its employees as is necessary to enable the Corporation to determine the number of additional employees and their replacements, including -
 
-(a) the number of individuals who were in the OF WAREHOUSES SITUATED IN FREE ZONES) [S.L.123.84
-
-employment of the company before the commencement of its project and the number and particulars and date of employment of individuals who are employed by it as full time employees during the project period;
-
-*7*
+(a) the number of individuals who were in the employment of the company before the commencement of its project and the number and particulars and date of employment of individuals who are employed by it as full time employees during the project period;
 
 (b) such further information and details as the Corporation may consider relevant.
 
@@ -281,11 +253,7 @@ A = the amount of the said expenditure incurred by the qualifying company in the
 
 B = the number of additional employees employed during the year in which that expenditure is incurred.
 
-(3) Notwithstanding the provisions of sub-rules (1) and (2) the tax credit due to a qualifying company in respect of an approved [S.L.123.84 OF WAREHOUSES SITUATED IN FREE ZONES)
-
-project shall not exceed, in the aggregate -
-
-*8*
+(3) Notwithstanding the provisions of sub-rules (1) and (2) the tax credit due to a qualifying company in respect of an approved project shall not exceed, in the aggregate -
 
 (a) in the case of a small or medium sized enterprise, fifty percent of the total cost of the project in question; and (b) in the case of any other qualifying company, forty percent net grant equivalent of the total cost of the project in question:
 
@@ -311,11 +279,7 @@ Provided that any part of the tax credit that is not availed of up to the year o
 
 ## 14. Submission of copy of tax return to the Corporation.
 
-A company to whom a letter of approval has been issued in terms of rule 7 shall submit to the Corporation, by not later than two months after the relative tax return date, a copy of the tax return for the earliest year of assessment for which the relative tax OF WAREHOUSES SITUATED IN FREE ZONES) [S.L.123.84
-
-credit may first be claimed in terms of the said approval and for each subsequent year of assessment for which the said tax credit remains available to it under these rules, irrespective of whether the benefit is utilised or not.
-
-*9*
+A company to whom a letter of approval has been issued in terms of rule 7 shall submit to the Corporation, by not later than two months after the relative tax return date, a copy of the tax return for the earliest year of assessment for which the relative tax credit may first be claimed in terms of the said approval and for each subsequent year of assessment for which the said tax credit remains available to it under these rules, irrespective of whether the benefit is utilised or not.
 
 ## 15. Monitoring by the Corporation.
 

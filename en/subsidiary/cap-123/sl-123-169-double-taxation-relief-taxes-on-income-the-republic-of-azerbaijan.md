@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (The Republic of Azerbaijan) Order (S.L. 123.169)
 
-*1*
-
-(THE REPUBLIC OF AZERBAIJAN) [S.L.123.169
-
 **SUBSIDIARY LEGISLATION 123.169**
 
 DOUBLE TAXATION RELIEF (TAXES ON INCOME) (THE REPUBLIC OF AZERBAIJAN) ORDER
@@ -44,8 +40,6 @@ It is hereby declared:
 (b) that it is expedient that those arrangements should have effect following the entry into force of the Convention and in accordance with the relevant provisions of the Convention;
 
 (c) that the Convention has entered into force on the 27th December, 2016.
-
-2 [S.L.123.169 (THE REPUBLIC OF AZERBAIJAN)
 
 ## SCHEDULE — Article 2 — CONVENTION
 
@@ -111,8 +105,6 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 \1. For the purposes of this Convention, unless the context otherwise requires:
 
-(THE REPUBLIC OF AZERBAIJAN) [S.L.123.169 3
-
 (a) the term "Azerbaijan" means the territory of the Republic of Azerbaijan, including the Caspian Sea (Lake) sector belonging to the Republic of Azerbaijan, the air space above the Republic of Azerbaijan, within which the sovereign rights and jurisdiction of the Republic of Azerbaijan is implemented in respect to subsoil, sea bed and natural resources, and any other area which has been or may hereinafter be determined in accordance with international law and legislation of the Republic of Azerbaijan;
 
 (b) the term "Malta" means the Republic of Malta and, when used in a geographical sense, means the Island of Malta, the Island of Gozo and the other islands of the Maltese archipelago including the territorial waters thereof, as well as any area of the sea-bed, its sub-soil and the superjacent water column adjacent to the territorial waters, wherein Malta exercises sovereign rights, jurisdiction, or control in accordance with international law and its national law, including its legislation relating to the exploration of the continental shelf and exploitation of its natural resources;
@@ -145,9 +137,7 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 **RESIDENT**
 
-\1. For the purposes of this Convention, the term "resident of a Contracting 4 [S.L.123.169 (THE REPUBLIC OF AZERBAIJAN)
-
-State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of incorporation, place of management or any other criterion of a similar nature, and also includes that State and any administrative-territorial subdivision or local authority thereof. This term, however, does not include any person who is liable to tax in that State in respect only of income from sources in that State.
+\1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of incorporation, place of management or any other criterion of a similar nature, and also includes that State and any administrative-territorial subdivision or local authority thereof. This term, however, does not include any person who is liable to tax in that State in respect only of income from sources in that State.
 
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
@@ -187,9 +177,7 @@ State" means any person who, under the laws of that State, is liable to tax ther
 
 (a) a building site, a construction or installation project, or supervisory activities in connection therewith, but only if such site, project or activities continue for more than 12 (twelve) months;
 
-(b) the furnishing of services, including consultancy services, by an enterprise through its employees or other personnel engaged by the (THE REPUBLIC OF AZERBAIJAN) [S.L.123.169 5
-
-enterprise for such purpose, but only if activities of that nature continue (for the same or a connected project) for a period or periods aggregating more than 6 (six) months within any 12 (twelve) month period.
+(b) the furnishing of services, including consultancy services, by an enterprise through its employees or other personnel engaged by the enterprise for such purpose, but only if activities of that nature continue (for the same or a connected project) for a period or periods aggregating more than 6 (six) months within any 12 (twelve) month period.
 
 ## 4.
 
@@ -223,8 +211,6 @@ An enterprise shall not be deemed to have a permanent establishment in a Contrac
 
 The fact that a company which is a resident of a Contracting State controls or is controlled by a company which is a resident of the other Contracting State, or which carries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself constitute either company a permanent establishment of the other.
 
-6 [S.L.123.169 (THE REPUBLIC OF AZERBAIJAN)
-
 **Article 6**
 
 **INCOME FROM IMMOVABLE PROPERTY**
@@ -250,8 +236,6 @@ The fact that a company which is a resident of a Contracting State controls or i
 \4. Insofar as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph 2 shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary; the method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles contained in this Article.
 
 \5. No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
-
-(THE REPUBLIC OF AZERBAIJAN) [S.L.123.169 7
 
 \6. For the purposes of the preceding paragraphs, the profits to be attributed to the permanent establishment shall be determined by the same method year by year unless there is good and sufficient reason to the contrary.
 
@@ -285,8 +269,6 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \2. Where a Contracting State includes in the profits of an enterprise of that State - and taxes accordingly - profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Convention and the competent authorities of the Contracting States shall if necessary consult each other.
 
-8 [S.L.123.169 (THE REPUBLIC OF AZERBAIJAN)
-
 **Article 10**
 
 **DIVIDENDS**
@@ -315,8 +297,6 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \2. However, such interest may also be taxed in the Contracting State in which it arises and according to the laws of that State, but if the beneficial owner of the interest is a resident of the other Contracting State, the tax so charged shall not exceed 8 per cent of the gross amount of the interest.
 
-(THE REPUBLIC OF AZERBAIJAN) [S.L.123.169 9
-
 \3. Notwithstanding the provisions of paragraph 2, interest arising in a Contracting State shall be exempt from tax in that Contracting State if:
 
 (a) the payer of the interest is the Government of that Contracting State or an administrative-territorial subdivision or a local authority or Central Bank thereof;
@@ -341,9 +321,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \2. However, such royalties may also be taxed in the Contracting State in which they arise and according to the laws of that State, but if the beneficial owner of the royalties is a resident of the other Contracting State, the tax so charged shall not exceed 8 per cent of the gross amount of royalties.
 
-\3. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of 10 [S.L.123.169 (THE REPUBLIC OF AZERBAIJAN)
-
-literary, artistic or scientific work including cinematograph films, a computer software, any patent, trade mark, design or model, plan, secret formula or process, or for the use of, or the right to use, industrial, commercial or scientific equipment or for information concerning industrial, commercial or scientific experience.
+\3. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including cinematograph films, a computer software, any patent, trade mark, design or model, plan, secret formula or process, or for the use of, or the right to use, industrial, commercial or scientific equipment or for information concerning industrial, commercial or scientific experience.
 
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
@@ -364,8 +342,6 @@ literary, artistic or scientific work including cinematograph films, a computer 
 \4. Gains derived by a resident of a Contracting State from the alienation of shares or other corporate rights deriving more than 50 per cent of their value directly or indirectly from immovable property situated in the other Contracting State may be taxed in that other State.
 
 \5. Gains from the alienation of any property, other than that referred to in paragraphs 1, 2, 3 and 4, shall be taxable only in the Contracting State of which the alienator is a resident.
-
-(THE REPUBLIC OF AZERBAIJAN) [S.L.123.169 11
 
 **Article 14**
 
@@ -400,8 +376,6 @@ literary, artistic or scientific work including cinematograph films, a computer 
 **DIRECTORS’ FEES**
 
 Directors’ fees and other similar payments derived by a resident of a Contracting State in his capacity as a member of the board of directors or any other similar organ of a company which is a resident of the other Contracting State may be taxed in that other State.
-
-12 [S.L.123.169 (THE REPUBLIC OF AZERBAIJAN)
 
 **Article 17**
 
@@ -439,9 +413,7 @@ Subject to the provisions of paragraph 2 of Article 19, pensions and other simil
 
 **STUDENTS**
 
-Payments which a student or business apprentice who is or was immediately before visiting a Contracting State a resident of the other Contracting State and who is present in the first-mentioned State solely for the purpose of his education or (THE REPUBLIC OF AZERBAIJAN) [S.L.123.169 13
-
-training receives for the purpose of his maintenance, education or training shall not be taxed in that State, provided that such payments arise from sources outside that State.
+Payments which a student or business apprentice who is or was immediately before visiting a Contracting State a resident of the other Contracting State and who is present in the first-mentioned State solely for the purpose of his education or training receives for the purpose of his maintenance, education or training shall not be taxed in that State, provided that such payments arise from sources outside that State.
 
 **Article 21**
 
@@ -473,8 +445,6 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 \2. Stateless persons who are residents of a Contracting State shall not be subjected in either Contracting State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which nationals of the State concerned in the same circumstances, in particular with respect to residence, are or may be subjected.
 
-14 [S.L.123.169 (THE REPUBLIC OF AZERBAIJAN)
-
 \3. The taxation on a permanent establishment, which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
 
 \4. Except where the provisions of paragraph 1 of Article 9, paragraph 6 of Article 11, or paragraph 6 of Article 12, apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
@@ -499,9 +469,7 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 **EXCHANGE OF INFORMATION**
 
-\1. The competent authorities of the Contracting States shall exchange such (THE REPUBLIC OF AZERBAIJAN) [S.L.123.169 15
-
-information as is foreseeably relevant for carrying out the provisions of this Convention or to the administration or enforcement of the domestic laws concerning taxes of every kind and description imposed on behalf of the Contracting States, or of their administrative-territorial subdivisions or local authorities, insofar as the taxation thereunder is not contrary to the Convention. The exchange of information is not restricted by Articles 1 and 2.
+\1. The competent authorities of the Contracting States shall exchange such information as is foreseeably relevant for carrying out the provisions of this Convention or to the administration or enforcement of the domestic laws concerning taxes of every kind and description imposed on behalf of the Contracting States, or of their administrative-territorial subdivisions or local authorities, insofar as the taxation thereunder is not contrary to the Convention. The exchange of information is not restricted by Articles 1 and 2.
 
 \2. Any information received under paragraph 1 by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to the taxes referred to in paragraph 1, or the oversight of the above. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
 
@@ -527,7 +495,7 @@ Nothing in this Convention shall affect the fiscal privileges of members of dipl
 
 **AMENDMENTS**
 
-By a mutual consent of the Contracting States amendments made by separate Protocols and considered integral parts of this Convention can be made to this Convention. Protocols referred to in the first sentence of this Article shall enter into force in accordance with the procedure stipulated in Article 28 of this Convention. 16 [S.L.123.169 (THE REPUBLIC OF AZERBAIJAN)
+By a mutual consent of the Contracting States amendments made by separate Protocols and considered integral parts of this Convention can be made to this Convention. Protocols referred to in the first sentence of this Article shall enter into force in accordance with the procedure stipulated in Article 28 of this Convention.
 
 **Article 28**
 
@@ -561,9 +529,7 @@ AD Article 10:
 
 In connection with Article 10 (Dividends) paragraph 2:
 
-a) it is understood that in the case of Malta the expression "the gross amount of the dividends" means the dividends in the shareholders’ hands being grossed up, for the purposes of taxation according to the law of a Contracting State, with the tax paid by the company on the profits out of which such dividend is paid. The amount of tax with which dividends are grossed up is in the same proportion to the tax on the company's profits as the dividends in question, as grossed up, bear (THE REPUBLIC OF AZERBAIJAN) [S.L.123.169 17
-
-to the whole amount of the company's profits out of which the distribution is being made;
+a) it is understood that in the case of Malta the expression "the gross amount of the dividends" means the dividends in the shareholders’ hands being grossed up, for the purposes of taxation according to the law of a Contracting State, with the tax paid by the company on the profits out of which such dividend is paid. The amount of tax with which dividends are grossed up is in the same proportion to the tax on the company's profits as the dividends in question, as grossed up, bear to the whole amount of the company's profits out of which the distribution is being made;
 
 b) where the laws of a Contracting State provide for the availability of underlying tax relief, the provisions of Article 22 (Elimination of Double Taxation) shall be applicable in that Contracting State where the other Contracting State makes use of the offset mentioned in that paragraph. Where underlying tax relief is not so available, the provisions of Article 22 (Elimination of Double Taxation) may not be applied.
 

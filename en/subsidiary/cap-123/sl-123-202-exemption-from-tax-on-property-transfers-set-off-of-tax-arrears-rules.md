@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Exemption from Tax on Property Transfers (Set-off of Tax Arrears) Rules (S.L. 123.202)
 
-*1*
-
-(SET-OFF OF TAX ARREARS) [S.L. 123.202 SUBSIDIARY LEGISLATION 123.202
+**SUBSIDIARY LEGISLATION 123.202**
 
 **EXEMPTION FROM TAX ON PROPERTY**
 
@@ -62,11 +60,7 @@ In these rules, unless the context otherwise requires –
 
 *Cap. 406.*
 
-(d) value added tax due and payable in terms of article 21(1) of the Value Added Tax Act in respect of any tax period, as defined in that Act, that ended on or before the 31 [S.L. 123.202 (SET-OFF OF TAX ARREARS)
-
-December 2020 and value added tax due and payable in terms of article 21(2) or (3) of that Act that became chargeable on or before the said date;
-
-*2*
+(d) value added tax due and payable in terms of article 21(1) of the Value Added Tax Act in respect of any tax period, as defined in that Act, that ended on or before the 31 December 2020 and value added tax due and payable in terms of article 21(2) or (3) of that Act that became chargeable on or before the said date;
 
 (e) interest, additional tax and administrative penalties due and payable in terms of the provisions of the Income Tax Acts, the Social Security Act and the Value Added Tax Act in respect of any arrears mentioned in the preceding paragraphs. 3. These rules apply to any transfer on which tax is chargeable in terms of article 5A of the Income Tax Act that is made by means of a public deed not later than 31 December 2022 by a person who had acquired that property on or before the 31 March 2021 and who owes relevant tax arrears.
 
@@ -86,11 +80,9 @@ December 2020 and value added tax due and payable in terms of article 21(2) or (
 
 (i) the transferor is a company, and the other party is an individual who, throughout the period from the 31st March 2021 to the date of the transfer, has owned, directly or indirectly, at least ninety-nine per cent (99%) of the issued share capital and voting rights of that company;
 
-(ii) the other party is a company, and the transferor is an individual who, throughout the period from the 31st March 2021 to the date of the transfer, has owned, directly or indirectly, at least ninety-nine per cent (99%) (SET-OFF OF TAX ARREARS) [S.L. 123.202 of the issued share capital and voting rights of that company; or
+(ii) the other party is a company, and the transferor is an individual who, throughout the period from the 31st March 2021 to the date of the transfer, has owned, directly or indirectly, at least ninety-nine per cent (99%) of the issued share capital and voting rights of that company; or
 
 (iii) the transferor and the other party are both companies and, throughout the period from the 31st March 2021 to the date of the transfer, the individual direct or indirect beneficial owners of the two companies were the same and each such individual held, directly or indirectly, the same percentage interest in the nominal share capital and voting rights in each of the said companies;
-
-*3*
 
 (b) relevant tax arrears incurred by a deceased person shall be treated as relevant tax arrears of the heirs proportionate to their respective share of the inheritance.
 
@@ -120,11 +112,7 @@ December 2020 and value added tax due and payable in terms of article 21(2) or (
 
 (d) that person provides such further information and produces such documents and evidence as the Commissioner may consider necessary for the proper application of these rules;
 
-(e) the payment against relevant tax arrears is made [S.L. 123.202 (SET-OFF OF TAX ARREARS)
-
-on or after the date of that transfer and, when the Commissioner issues a request for payment for the purpose of these rules, not later than the time allowed in that request:
-
-*4*
+(e) the payment against relevant tax arrears is made on or after the date of that transfer and, when the Commissioner issues a request for payment for the purpose of these rules, not later than the time allowed in that request:
 
 Provided that the time for payment that may be allowed in such a request shall not be less than thirty days.
 
@@ -150,10 +138,6 @@ net transfer value x relevant tax arrears/gross transfer value. 6. The exemption
 
 *Cap. 318. Cap. 406.*
 
-(4) Notwithstanding anything to the contrary contained in the Income Tax Acts, the Social Security Act and the Value Added Tax Act, a payment by means of a set-off in accordance with this rule shall extinguish any dispute that may be outstanding in respect of the amount of the arrears that is so paid, and no objection or other challenge shall be admissible in respect of that amount after the set-off has been made.
-
-*5*
-
-(SET-OFF OF TAX ARREARS) [S.L. 123.202 8. These rules are without prejudice to the provisions of article 51 of the Income Tax Act and of regulation 6 of the European Union Anti-Tax Avoidance Directives Implementation Regulations.
+(4) Notwithstanding anything to the contrary contained in the Income Tax Acts, the Social Security Act and the Value Added Tax Act, a payment by means of a set-off in accordance with this rule shall extinguish any dispute that may be outstanding in respect of the amount of the arrears that is so paid, and no objection or other challenge shall be admissible in respect of that amount after the set-off has been made. 8. These rules are without prejudice to the provisions of article 51 of the Income Tax Act and of regulation 6 of the European Union Anti-Tax Avoidance Directives Implementation Regulations.
 
 *Tax avoidance. Cap. 123. S.L. 123.187.*

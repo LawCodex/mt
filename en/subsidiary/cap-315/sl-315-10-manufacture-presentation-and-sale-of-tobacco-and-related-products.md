@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Manufacture, Presentation and Sale of Tobacco and Related Products Regulations. (S.L. 315.10)
 
-*1*
-
-OF TOBACCO AND RELATED PRODUCTS [S.L.315.10
-
 **SUBSIDIARY LEGISLATION 315.10**
 
 **MANUFACTURE, PRESENTATION AND SALE OF**
@@ -58,13 +54,9 @@ For the purposes of these regulations, the following definitions shall apply:
 
 "characterising flavour" means a clearly noticeable smell or taste other than one of tobacco, resulting from an additive or a combination of additives, including, but not limited to, fruit, spice, herbs, alcohol, candy, menthol or vanilla, which is noticeable before or during the consumption of the tobacco product;
 
-"chewing tobacco" means a smokeless tobacco product [S.L.315.10 OF TOBACCO AND RELATED PRODUCTS
+"chewing tobacco" means a smokeless tobacco product exclusively intended for the purpose of chewing;
 
 \*see regulation 1(4) of these regulations, as originally promulgated.
-
-exclusively intended for the purpose of chewing;
-
-*2*
 
 "cigar" means a roll of tobacco that can be consumed via a combustion process and is further defined in Article 4(1) of Directive 2011/64/EU;
 
@@ -92,11 +84,7 @@ exclusively intended for the purpose of chewing;
 
 "flavouring" means an additive that imparts smell and, or taste;
 
-"health warning" means a warning concerning the adverse effects on human health of a product or other undesired consequences of its consumption, including text warnings, combined health warnings, general warnings and information messages, as provided OF TOBACCO AND RELATED PRODUCTS [S.L.315.10
-
-for in these regulations;
-
-*3*
+"health warning" means a warning concerning the adverse effects on human health of a product or other undesired consequences of its consumption, including text warnings, combined health warnings, general warnings and information messages, as provided for in these regulations;
 
 "herbal product for smoking" means a product based on plants, herbs or fruits which contains no tobacco and that can be consumed via a combustion process;
 
@@ -128,11 +116,7 @@ for in these regulations;
 
 "placing on the market" means to make products, irrespective of their place of manufacture, available to consumers located in the Union, with or without payment, including by means of distance sale; in the case of cross-border distance sales the product is deemed to be placed on the market in the Member State where the consumer is located;
 
-"pouch" means a unit packet of roll-your own tobacco, either in [S.L.315.10 OF TOBACCO AND RELATED PRODUCTS
-
-the form of a rectangular pocket with a flap that covers the opening or in the form of a standing pouch;
-
-*4*
+"pouch" means a unit packet of roll-your own tobacco, either in the form of a rectangular pocket with a flap that covers the opening or in the form of a standing pouch;
 
 "refill container" means a receptacle that contains a nicotine-containing liquid, which can be used to refill an electronic cigarette;
 
@@ -159,10 +143,6 @@ the form of a rectangular pocket with a flap that covers the opening or in the f
 "toxicity" means the degree to which a substance can cause harmful effects in the human organism, including effects occurring over time, usually through repeated or continuous consumption or exposure;
 
 "unit packet" means the smallest individual packaging of a tobacco or related product that is placed on the market;
-
-*5*
-
-OF TOBACCO AND RELATED PRODUCTS [S.L.315.10
 
 "waterpipe tobacco" means a tobacco product that can be consumed via a waterpipe. For the purpose of these regulations, waterpipe tobacco is deemed to be a tobacco product for smoking. If a product can be used both via waterpipes and as roll-your-own tobacco, it shall be deemed to be roll-your-own tobacco.
 
@@ -202,11 +182,7 @@ These laboratories shall not be owned or controlled directly or indirectly by th
 
 (c) where available, information on other emissions and their levels.
 
-For products already placed on the market that information [S.L.315.10 OF TOBACCO AND RELATED PRODUCTS
-
-shall be provided by 20 November 2016.
-
-*6*
+For products already placed on the market that information shall be provided by 20 November 2016.
 
 Manufacturers and importers shall also inform the Superintendent if the composition of a product is modified in a way that affects the information provided under these regulations.
 
@@ -224,11 +200,7 @@ Other than for tar, nicotine and carbon monoxide and for emissions referred to i
 
 (5) The format for the submission and the making available of information referred to in sub-regulations (1) and (6) and regulation 6 shall be in compliance with Commission Implementing Decision (EU) 2015/2186 of 25 November 2015 establishing a format for the submission and making available of information on tobacco products.
 
-(6) Manufacturers and importers shall submit to the Superintendent internal and external studies available to them on market research and preferences of various consumer groups, including young people and current smokers, relating to ingredients and emissions, as well as executive summaries of any market OF TOBACCO AND RELATED PRODUCTS [S.L.315.10
-
-surveys they carry out when launching new products. Manufacturers and importers shall also report to the Superintendent their sales volumes in Malta per brand and type, reported in sticks or kilograms, on a yearly basis starting from 1 January 2015.
-
-*7*
+(6) Manufacturers and importers shall submit to the Superintendent internal and external studies available to them on market research and preferences of various consumer groups, including young people and current smokers, relating to ingredients and emissions, as well as executive summaries of any market surveys they carry out when launching new products. Manufacturers and importers shall also report to the Superintendent their sales volumes in Malta per brand and type, reported in sticks or kilograms, on a yearly basis starting from 1 January 2015.
 
 (7) All data and information provided to and by the Superintendent under this regulation and under regulation 6 shall be provided in electronic form. The Superintendent shall store all the information electronically and shall ensure that the Commission and other Member States have access to that information for the purpose of applying these regulations. The Superintendent shall ensure that trade secrets and other confidential information are treated in a confidential manner.
 
@@ -252,11 +224,7 @@ surveys they carry out when launching new products. Manufacturers and importers 
 
 (d) leads to the formation of substances that have carcinogenic, mutagenic and toxic for reproduction (hereinafter "CMR") properties, the quantities thereof, and whether this has the effect of increasing the CMR properties in any of the products concerned to a significant or measurable degree.
 
-(3) Those studies shall take into account the intended use of the [S.L.315.10 OF TOBACCO AND RELATED PRODUCTS
-
-products concerned and examine in particular the emissions resulting from the combustion process involving the additive concerned. The studies shall also examine the interaction of that additive with other ingredients contained in the products concerned. Manufacturers or importers using the same additive in their tobacco products may carry out a joint study when using that additive in a comparable product composition.
-
-*8*
+(3) Those studies shall take into account the intended use of the products concerned and examine in particular the emissions resulting from the combustion process involving the additive concerned. The studies shall also examine the interaction of that additive with other ingredients contained in the products concerned. Manufacturers or importers using the same additive in their tobacco products may carry out a joint study when using that additive in a comparable product composition.
 
 (4) Manufacturers and importers shall establish a report on the results of these studies. That report shall include an executive summary, and a comprehensive overview compiling the available scientific literature on that additive and summarising internal data on the effects of the additive.
 
@@ -280,11 +248,7 @@ The use of additives which are essential for the manufacture of tobacco products
 
 (3) The placing on the market of tobacco products containing the following additives shall be prohibited:
 
-(a) vitamins or other additives that create the impression that a tobacco product has a health benefit or presents OF TOBACCO AND RELATED PRODUCTS [S.L.315.10
-
-reduced health risks;
-
-*9*
+(a) vitamins or other additives that create the impression that a tobacco product has a health benefit or presents reduced health risks;
 
 (b) caffeine or taurine or other additives and stimulant compounds that are associated with energy and vitality;
 
@@ -312,11 +276,7 @@ reduced health risks;
 
 (2) Health warnings shall cover the entire surface of the unit packet or outside packaging that is reserved for them and they shall not be commented on, paraphrased or referred to in any form.
 
-(3) Health warning on a unit packet and any outside packaging shall be irremovably printed, indelible and fully visible, including not being partially or totally hidden or interrupted by tax stamps, [S.L.315.10 OF TOBACCO AND RELATED PRODUCTS
-
-price marks, security features, wrappers, jackets, boxes, or other items, when tobacco products are placed on the market. On unit packets of tobacco products other than cigarettes and roll-your-own tobacco in pouches, the health warnings may be affixed by means of stickers, provided that such stickers are irremovable. The health warnings shall remain intact when opening the unit packet other than packets with a flip-top lid, where the health warnings may be split when opening the packet, but only in a manner that ensures the graphical integrity and visibility of the text, photographs and cessation information.
-
-*10*
+(3) Health warning on a unit packet and any outside packaging shall be irremovably printed, indelible and fully visible, including not being partially or totally hidden or interrupted by tax stamps, price marks, security features, wrappers, jackets, boxes, or other items, when tobacco products are placed on the market. On unit packets of tobacco products other than cigarettes and roll-your-own tobacco in pouches, the health warnings may be affixed by means of stickers, provided that such stickers are irremovable. The health warnings shall remain intact when opening the unit packet other than packets with a flip-top lid, where the health warnings may be split when opening the packet, but only in a manner that ensures the graphical integrity and visibility of the text, photographs and cessation information.
 
 (4) The health warnings shall in no way hide or interrupt the tax stamps, price marks, tracking and tracing marks, or security features on unit packets.
 
@@ -339,10 +299,6 @@ price marks, security features, wrappers, jackets, boxes, or other items, when t
 The lateral surfaces of this type of packet shall have a height of not less than 16 mm.
 
 For roll-your-own tobacco marketed in pouches, the general warning and the information message shall appear on the surfaces that ensure the full visibility of those health warnings. For roll-your-own tobacco in cylindrical packets the general warning shall appear on the outside surface of the lid and the information message on the inside surface of the lid.
-
-*11*
-
-OF TOBACCO AND RELATED PRODUCTS [S.L.315.10
 
 Both the general warning and the information message shall cover 50% of the surfaces on which they are printed.
 
@@ -372,10 +328,6 @@ Both the general warning and the information message shall cover 50% of the surf
 
 (c) cover 65% of both the external front and back surface of the unit packet and any outside packaging. Cylindrical packets shall display two combined health warnings, equidistant from each other, each covering 65% of their respective half of the curved surface;
 
-*12*
-
-[S.L.315.10 OF TOBACCO AND RELATED PRODUCTS
-
 (d) show the same graphic on both sides of the unit packets and any outside packaging;
 
 (e) appear at the top edge of a unit packet and any outside packaging, and be positioned in the same direction as any other information appearing on that surface of the packaging. Transitional exemptions apply as follows:
@@ -403,10 +355,6 @@ The exemptions referred to in sub-paragraphs (i) and (ii) shall apply for a peri
 *Amended by: L.N. 229 of 2023; L.N. 178 of 2025.*
 
 (1) (a) Tobacco products for smoking other than cigarettes, roll-your-own tobacco, waterpipe tobacco and heated tobacco products are exempt from the obligations to carry the information message laid down in regulation 9(2) and the combined health warnings laid down in regulation 10. In addition to the general warning provided for in regulation 9(1), each unit packet and any outside packaging of such products shall carry one of the text warnings listed in Schedule 2. The general warning specified in regulation 9(1) shall include a reference to the cessation from smoking services referred to in regulation 10(1)(b);
-
-*13*
-
-OF TOBACCO AND RELATED PRODUCTS [S.L.315.10
 
 (b) the general warning shall appear on the most visible surface of the unit packet and any outside packaging;
 
@@ -436,11 +384,7 @@ The health warnings shall be surrounded by a black border of a width of not less
 
 (b) suggests that a particular tobacco product is less harmful than others or aims to reduce the effect of some harmful components of smoke or has vitalising, energetic, healing, rejuvenating, natural, organic properties or has other health or lifestyle benefits;
 
-(c) refers to taste, smell, any flavourings or other [S.L.315.10 OF TOBACCO AND RELATED PRODUCTS
-
-additives or the absence thereof;
-
-*14*
+(c) refers to taste, smell, any flavourings or other additives or the absence thereof;
 
 (d) resembles a food or a cosmetic product;
 
@@ -478,10 +422,6 @@ additives or the absence thereof;
 
 (i) the actual shipment route from manufacturing to the first retail outlet, including all warehouses used as well as the shipment date, shipment destination, point of departure and consignee;
 
-*15*
-
-OF TOBACCO AND RELATED PRODUCTS [S.L.315.10
-
 (j) the identity of all purchasers from manufacturing to the first retail outlet; and
 
 (k) the invoice, order number and payment records of all purchasers from manufacturing to the first retail outlet. (3) The information referred to in sub-regulation (2)(a), (b), (c), (d), (e), (f), (g) and, where applicable, (h) shall form part of the unique identifier.
@@ -498,11 +438,7 @@ OF TOBACCO AND RELATED PRODUCTS [S.L.315.10
 
 The third party’s activities shall be monitored by an external auditor, who is proposed and paid by the tobacco manufacturer and approved by the Commission. The external auditor shall submit an annual report to the Superintendent and to the Commission, assessing in particular any irregularities in relation to access.
 
-The Commission, the competent authorities of the Member States, and the external auditor shall have full access to the data storage facilities. In duly justified cases, the Commission or the Member States may grant manufacturers or importers access to the stored data, provided that commercially sensitive information remains adequately protected in conformity with the relevant Union [S.L.315.10 OF TOBACCO AND RELATED PRODUCTS
-
-and national law.
-
-*16*
+The Commission, the competent authorities of the Member States, and the external auditor shall have full access to the data storage facilities. In duly justified cases, the Commission or the Member States may grant manufacturers or importers access to the stored data, provided that commercially sensitive information remains adequately protected in conformity with the relevant Union and national law.
 
 (9) Recorded data shall not be modified or deleted by an economic operator involved in the trade of tobacco products.
 
@@ -532,11 +468,7 @@ Tax stamps may be used for the security feature provided that the tax stamps ful
 
 *Substituted by: L.N. 229 of 2023.*
 
-(2) Retail outlets located in Malta engaging in cross-border distance sales of tobacco products shall not supply such products to consumers in Member States where such sales have been prohibited. Retail outlets located in Malta intending to engage in cross-border distance sales to consumers located in the Union shall register with the Superintendent and with the competent authorities in the Member State where the actual or potential consumers are located. All retail outlets located in Malta intending to engage in cross-border distance sales shall submit the following information OF TOBACCO AND RELATED PRODUCTS [S.L.315.10
-
-to the Superintendent when registering:
-
-*17*
+(2) Retail outlets located in Malta engaging in cross-border distance sales of tobacco products shall not supply such products to consumers in Member States where such sales have been prohibited. Retail outlets located in Malta intending to engage in cross-border distance sales to consumers located in the Union shall register with the Superintendent and with the competent authorities in the Member State where the actual or potential consumers are located. All retail outlets located in Malta intending to engage in cross-border distance sales shall submit the following information to the Superintendent when registering:
 
 (a) name or corporate name and permanent address of the place of activity from where the tobacco products shall be supplied;
 
@@ -554,11 +486,7 @@ to the Superintendent when registering:
 
 ## 17. Notification of novel tobacco products.
 
-(1) Manufacturers and importers of novel tobacco products shall submit a notification to the Superintendent of any such product they intend to place on the national market. The notification shall be submitted in electronic form six months before the intended placing on the market. It shall be accompanied by a detailed description of the novel tobacco product concerned as well as instructions for its use and information on ingredients and emissions in accordance with regulation 5. The manufacturers and [S.L.315.10 OF TOBACCO AND RELATED PRODUCTS
-
-importers submitting a notification of a novel tobacco product shall also provide the Superintendent with:
-
-*18*
+(1) Manufacturers and importers of novel tobacco products shall submit a notification to the Superintendent of any such product they intend to place on the national market. The notification shall be submitted in electronic form six months before the intended placing on the market. It shall be accompanied by a detailed description of the novel tobacco product concerned as well as instructions for its use and information on ingredients and emissions in accordance with regulation 5. The manufacturers and importers submitting a notification of a novel tobacco product shall also provide the Superintendent with:
 
 (a) available scientific studies on toxicity, addictiveness and attractiveness of the novel tobacco product, in particular as regards its ingredients and emissions;
 
@@ -584,10 +512,6 @@ This does not apply to electronic cigarettes and refill containers that are subj
 
 (i) the name and contact details of the manufacturer, a responsible legal or natural person within the Union, and, if applicable, the importer into the Union;
 
-*19*
-
-OF TOBACCO AND RELATED PRODUCTS [S.L.315.10
-
 (ii) a list of all ingredients contained in, and emissions resulting from the use of, the product, by brand name and type, including quantities thereof;
 
 (iii) toxicological data regarding the product’s ingredients and emissions, including when heated, referring in particular to their effects on the health of consumers when inhaled and taking into account, inter alia, any addictive effect;
@@ -612,11 +536,7 @@ OF TOBACCO AND RELATED PRODUCTS [S.L.315.10
 
 (c) the nicotine-containing liquid does not contain additives listed in regulation 7(3);
 
-(d) only ingredients of high purity are used in the manufacture of the nicotine-containing liquid. Substances other than the ingredients referred to in OF TOBACCO AND RELATED PRODUCTS
-
-sub-regulation (2)(b)(ii) are only present in the nicotine-containing liquid in trace levels, if such trac (e) except for nicotine, only ingredients that do not pose a risk to human health in heated or unheated form are used in the nicotine-containing liquid;
-
-*[S.L.315.10 20*
+(d) only ingredients of high purity are used in the manufacture of the nicotine-containing liquid. Substances other than the ingredients referred to in sub-regulation (2)(b)(ii) are only present in the nicotine-containing liquid in trace levels, if such trac (e) except for nicotine, only ingredients that do not pose a risk to human health in heated or unheated form are used in the nicotine-containing liquid;
 
 (f) electronic cigarettes deliver the nicotine doses at consistent levels under normal conditions of use;
 
@@ -648,10 +568,6 @@ Provided that the leaflet containing the information stipulated in this paragrap
 
 (iii) carry the following health warning:
 
-*21*
-
-OF TOBACCO AND RELATED PRODUCTS [S.L.315.10
-
 ‘This product contains nicotine which is a highly addictive substance’ and ‘Dan il-prodott fih in-nikotina li hija sustanza li tista’ faċilment twassal għad-dipendenza’. (c) the health warning shall comply with the requirements specified in regulation 9(4). The text of the health warnings shall be parallel to the main text on the surface reserved for these warnings. In addition, it shall:
 
 (i) appear on the two largest surfaces of the unit packet and any outside packaging;
@@ -676,10 +592,6 @@ OF TOBACCO AND RELATED PRODUCTS [S.L.315.10
 
 (a) comprehensive data on sales volumes, by brand name and type of the product;
 
-*22*
-
-[S.L.315.10 OF TOBACCO AND RELATED PRODUCTS
-
 (b) information on the preferences of various consumer groups, including young people, non-smokers and the main types of current users;
 
 (c) the mode of sale of the products; and
@@ -700,11 +612,7 @@ The Superintendent may also request additional information from the economic ope
 
 (10) In the case of electronic cigarettes and refill containers that comply with the requirements of this regulation, where the Superintendent ascertains or has reasonable grounds to believe that specific electronic cigarettes or refill containers, or a type of electronic cigarette or refill container, could present a serious risk to human health, he may take appropriate provisional measures. The Superintendent shall immediately inform the Commission and the competent authorities of other Member States of the measures taken and shall communicate any supporting data.
 
-(11) The notification provided for in sub-regulation (2) shall be OF TOBACCO AND RELATED PRODUCTS [S.L.315.10
-
-in compliance with Commission Implementing Decision (EU) 2015/2183 of 24 November 2015 establishing a common format for the notification of electronic cigarettes and refill containers (notified under document C(2015) 8087).
-
-*23*
+(11) The notification provided for in sub-regulation (2) shall be in compliance with Commission Implementing Decision (EU) 2015/2183 of 24 November 2015 establishing a common format for the notification of electronic cigarettes and refill containers (notified under document C(2015) 8087).
 
 Technical standards for the refill mechanism shall be laid down and subsequently updated in accordance with Commission Implementing Acts.
 
@@ -742,11 +650,7 @@ The following products, which are not in compliance with these regulations, may 
 
 (a) tobacco products manufactured or released for free circulation and labelled in accordance with Directive 2001/37/EC before 20 May 2016;
 
-(b) electronic cigarettes or refill containers manufactured or released for free circulation before 20 November [S.L.315.10 OF TOBACCO AND RELATED PRODUCTS
-
-2016;
-
-*24*
+(b) electronic cigarettes or refill containers manufactured or released for free circulation before 20 November 2016;
 
 (c) herbal products for smoking manufactured or released for free circulation before 20 May 2016.
 
@@ -760,13 +664,7 @@ The following products, which are not in compliance with these regulations, may 
 
 Any person who contravenes or fails to comply with any of the provisions of these regulations shall be guilty of an offence and shall, without prejudice to his liability under any other law, be liable, on a first conviction, to a fine (multa) of not less than two hundred euro (€200) and not exceeding one thousand euro (€1,000), and where the act or omission constituting the offence subsists for more than a day, the Court shall in addition impose a fine (multa) of not less than twenty euro (€20) and not more than one hundred euro (€100) for each day in which such act or omission subsists, and on a second or subsequently conviction, in addition to such fines, and, at the request of the prosecution, to imprisonment for a term not exceeding three months.
 
-*25*
-
-OF TOBACCO AND RELATED PRODUCTS [S.L.315.10 [S.L.315.10 OF TOBACCO AND RELATED PRODUCTS
-
 SCHEDULE 1
-
-*26*
 
 Graphical health warning library
 
@@ -774,21 +672,9 @@ Graphical health warning library
 
 PART 1
 
-*27*
-
-OF TOBACCO AND RELATED PRODUCTS [S.L.315.10 [S.L.315.10 OF TOBACCO AND RELATED PRODUCTS
-
 PART 2
 
-*28*
-
-*29*
-
-OF TOBACCO AND RELATED PRODUCTS [S.L.315.10
-
 PART 3
-
-30 [S.L.315.10 OF TOBACCO AND RELATED PRODUCTS
 
 The photographs, images and textual illustrations contained in this Schedule have been developed for use on tobacco product packages in accordance with the Commission Delegated Directive 2014/109/EU of 10 October 2014 amending Annex II to Directive 2014/40/EU of the European Parliament and of the Council by establishing the library of picture warnings to be used on tobacco products.
 
@@ -829,10 +715,6 @@ It-tipjip iżidlek ir-riskju li tgħama
 (8) Smoking damages your teeth and gums
 
 It-tipjip iħassarlek snienek u l-ħanek
-
-**OF TOBACCO AND RELATED PRODUCTS [S.L.315.10**
-
-*31*
 
 (9) Smoking can kill your unborn child
 

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Minimum Standards on Sanctions and Measures against Employers of Illegally Staying Third-Country Nationals Regulations (S.L. 217.14)
 
-AND MEASURES AGAINST EMPLOYERS
-
-*1*
-
-OF ILLEGALLY STAYING THIRD-COUNTRY NATIONALS [S.L.217.14
-
 **SUBSIDIARY LEGISLATION 217.14**
 
 **MINIMUM STANDARDS ON SANCTIONS AND**
@@ -67,13 +61,7 @@ In these regulations, unless the context otherwise requires:
 
 *Cap. 452.*
 
-"particularly exploitative working conditions" means working conditions, including those resulting from gender based or other AND MEASURES AGAINST EMPLOYERS
-
-*2*
-
-[S.L.217.14 OF ILLEGALLY STAYING THIRD-COUNTRY NATIONALS
-
-discrimination, where there is a striking disproportion compared with the terms of employment of legally employed workers which, for example, affects workers’ health and safety, and which offends human dignity;
+"particularly exploitative working conditions" means working conditions, including those resulting from gender based or other discrimination, where there is a striking disproportion compared with the terms of employment of legally employed workers which, for example, affects workers’ health and safety, and which offends human dignity;
 
 "remuneration of illegally staying third-country national" means the wage or salary and any other consideration, whether in cash or in kind, which a worker receives directly or indirectly in respect of his employment from his employer and which is equivalent to that which would have been enjoyed by comparable workers in a legal employment relationship;
 
@@ -103,12 +91,6 @@ discrimination, where there is a striking disproportion compared with the terms 
 
 (2) An employer who has fulfilled his obligations set out in sub-regulation (1) shall not be held liable for an infringement of the prohibition referred to in regulation 3 unless the employer knew that the document presented as a valid residence permit or another authorisation for stay was fraudulent.
 
-AND MEASURES AGAINST EMPLOYERS
-
-*3*
-
-OF ILLEGALLY STAYING THIRD-COUNTRY NATIONALS [S.L.217.14
-
 ## 5. Financial sanctions and other measures.
 
 (1) An employer shall be liable, on conviction and in addition to any penalty imposed by the Court of Magistrates (Malta) or the Court of Magistrates (Gozo), as the case may be, to pay:
@@ -137,13 +119,7 @@ OF ILLEGALLY STAYING THIRD-COUNTRY NATIONALS [S.L.217.14
 
 (b) exclusion from participation in a public contract as provided in any public procurement regulations on the coordination of procedures for the award of public works contracts, public supply contracts and public service contracts, for up to five years; and
 
-(c) recovery of some or all public benefits, aid, or subsidies, including EU funding managed by the Government of Malta, granted to the employer for up AND MEASURES AGAINST EMPLOYERS
-
-*4*
-
-[S.L.217.14 OF ILLEGALLY STAYING THIRD-COUNTRY NATIONALS
-
-to twelve months preceding the detection of illegal employment.
+(c) recovery of some or all public benefits, aid, or subsidies, including EU funding managed by the Government of Malta, granted to the employer for up to twelve months preceding the detection of illegal employment.
 
 (6) The provisions of sub-regulation (5) shall not apply where the employer is a natural person and the employment is for his private purposes.
 
@@ -175,13 +151,7 @@ Provided that when the criminal offence is aggravated by one or more of the aggr
 
 ## 8. Liability of legal persons.
 
-(1) Where the person found guilty of an offence under these regulations is the director, manager, secretary or other principal officer of a body corporate or is a person having a power of representation of such a body or having an authority to take decisions on behalf of that body or having authority to exercise control within that body and the offence of which that person was AND MEASURES AGAINST EMPLOYERS
-
-*5*
-
-OF ILLEGALLY STAYING THIRD-COUNTRY NATIONALS [S.L.217.14
-
-found guilty was committed for the benefit, in part or in whole, of that body corporate, the said person shall for the purposes of these regulations be deemed to be vested with the legal representation of the same body corporate which shall be liable to the payment of a fine (multa) not exceeding two thousand and five hundred euro (€2,500).
+(1) Where the person found guilty of an offence under these regulations is the director, manager, secretary or other principal officer of a body corporate or is a person having a power of representation of such a body or having an authority to take decisions on behalf of that body or having authority to exercise control within that body and the offence of which that person was found guilty was committed for the benefit, in part or in whole, of that body corporate, the said person shall for the purposes of these regulations be deemed to be vested with the legal representation of the same body corporate which shall be liable to the payment of a fine (multa) not exceeding two thousand and five hundred euro (€2,500).
 
 (2) The provisions of sub-regulation (1) shall apply where a person is found guilty of an offence under these regulations sohowever that the body corporate shall for such offence, without prejudice to any other penalty that may have been incurred under any other law, be liable to the punishment of a fine (multa) not exceeding two thousand and five hundred euro (€2,500).
 

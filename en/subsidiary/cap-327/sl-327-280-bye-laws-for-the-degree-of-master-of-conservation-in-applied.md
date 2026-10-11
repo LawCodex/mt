@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Conservation in Applied Conservation Studies under the auspices of the Institute of Conservation and Management of Cultural Heritage (S.L. 327.280)
 
-DEGREE OF MASTER OF CONSERVATION IN APPLIED CONSER-
-
-VATION STUDIES UNDER THE AUSPICES OF THE INSTITUTE OF
-
-*1*
-
-CONSERVATION AND MANAGEMENT OF CULTURAL HERITAGE [S.L.327.280
-
 **SUBSIDIARY LEGISLATION 327.280**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER**

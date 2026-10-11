@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Republic of Albania Order (S.L. 123.53)
 
-*1*
-
-WITH THE REPUBLIC OF ALBANIA [S.L.123.53
-
 SUBSIDIARY LEGISLATION 123.53
 
 DOUBLE TAXATION RELIEF ON TAXES ON
@@ -48,8 +44,6 @@ It is hereby declared:
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Convention has entered into force on the 23 November, 2000.
-
-2 [S.L.123.53 WITH THE REPUBLIC OF ALBANIA
 
 ## SCHEDULE — CONVENTION BETWEEN THE GOVERNMENT OF MALTA — AND THE GOVERNMENT OF THE REPUBLIC OF ALBANIA
 
@@ -107,8 +101,6 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 Notwithstanding the other provisions of this Article , the Convention shall not apply to taxes paid or payable in a Contracting State under its domestic law, concerning taxable income of any person engaged in the production of petroleum, provided that such activities are performed under the provisions of particular contracts between the Government of that Contracting State and the aforesaid persons.
 
-WITH THE REPUBLIC OF ALBANIA [S.L.123.53 3
-
 Article 3
 
 GENERAL DEFINITIONS
@@ -146,8 +138,6 @@ For the purposes of this Convention unless the context otherwise requires:
 *\2.*
 
 As regards the application of this Convention by a Contracting State, any term not defined therein shall, unless the context otherwise requires, have the meaning which it has under the law of that State concerning the taxes to which the Convention applies.
-
-4 [S.L.123.53 WITH THE REPUBLIC OF ALBANIA
 
 **Article 4**
 
@@ -191,8 +181,6 @@ As regards the application of this Convention by a Contracting State, any term n
 
 (a) a building site, a construction, assembly or installation project or supervisory activities in connection therewith, but only where such site, project or activities continue for a period of more than six months within any 12-month period commencing or ending in the calendar year concerned; and
 
-WITH THE REPUBLIC OF ALBANIA [S.L.123.53 5
-
 (b) the furnishing of services, including consultancy services, by an enterprise through employees or other personnel engaged by the enterprise for such purpose, but only where activities of that nature continue (for the same or a connected project) within the country for a period or periods aggregating more than six months within any 12-month period, commencing or ending in the calendar year concerned. 4. Notwithstanding the preceding provisions of this Article , the term "permanent establishment" shall be deemed not to include:
 
 (a) the use of facilities solely for the purpose of storage or display of goods or merchandise belonging to the enterprise;
@@ -221,9 +209,7 @@ An enterprise shall not be deemed to have a permanent establishment in a Contrac
 
 ## 7.
 
-The fact that a company which is a resident of a Contracting State controls or is controlled by a company which is a resident of the other Contracting State, or which carries on business in that other State (whether through a permanent 6 [S.L.123.53 WITH THE REPUBLIC OF ALBANIA
-
-establishment or otherwise), shall not of itself constitute either company a permanent establishment of the other.
+The fact that a company which is a resident of a Contracting State controls or is controlled by a company which is a resident of the other Contracting State, or which carries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself constitute either company a permanent establishment of the other.
 
 **Article 6**
 
@@ -249,9 +235,7 @@ establishment or otherwise), shall not of itself constitute either company a per
 
 \4. Insofar as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph 2 shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary; the method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles contained in this Article .
 
-\5. No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the WITH THE REPUBLIC OF ALBANIA [S.L.123.53 7
-
-enterprise.
+\5. No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
 
 \6. For the purposes of the preceding paragraphs, the profits to be attributed to the permanent establishment shall be determined by the same method year by year, unless there is good and sufficient reason to the contrary.
 
@@ -287,8 +271,6 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \2. Where a Contracting State includes in the profits of an enterprise of that State -and taxes accordingly - profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of the Convention and the competent authorities of the Contracting States shall, if necessary, consult each other.
 
-8 [S.L.123.53 WITH THE REPUBLIC OF ALBANIA
-
 **Article 10**
 
 **DIVIDENDS**
@@ -319,9 +301,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \1. Interest arising in a Contracting State and paid to a resident of the other Contracting state may be taxed in that other State.
 
-\2. However, such interest may also be taxed in the Contracting State in which WITH THE REPUBLIC OF ALBANIA [S.L.123.53 9
-
-it arises and according to the laws of that State, but, if the recipient is the beneficial owner of the interest the tax so charged shall not exceed 5 percent of the gross amount of the interest.
+\2. However, such interest may also be taxed in the Contracting State in which it arises and according to the laws of that State, but, if the recipient is the beneficial owner of the interest the tax so charged shall not exceed 5 percent of the gross amount of the interest.
 
 \3. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage, and whether or not carrying the right to participate in the debtor’s profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article .
 
@@ -341,9 +321,7 @@ it arises and according to the laws of that State, but, if the recipient is the 
 
 \3. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including cinematograph films and films or tapes for radio or television broadcasting, any patent, trade mark, design or model, plan, secret formula or process, or for information concerning industrial, commercial or scientific experience.
 
-\4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent 10 [S.L.123.53 WITH THE REPUBLIC OF ALBANIA
-
-establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
+\4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \5. Royalties shall be deemed to arise in a Contracting state when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the state in which the permanent establishment or fixed base is situated.
 
@@ -367,9 +345,7 @@ establishment situated therein, or performs in that other State independent pers
 
 **INDEPENDENT PERSONAL SERVICES**
 
-\1. Income derived by an individual who is a resident of a Contracting State in respect of professional or other activities of an independent character shall be taxable only in that State except in the following circumstances, when such income WITH THE REPUBLIC OF ALBANIA [S.L.123.53 11
-
-may also be taxed in the other Contracting State:
+\1. Income derived by an individual who is a resident of a Contracting State in respect of professional or other activities of an independent character shall be taxable only in that State except in the following circumstances, when such income may also be taxed in the other Contracting State:
 
 (a) if he has a fixed base regularly available to him in the other Contracting State for the purpose of performing his activities; in that case, only so much of the income as is attributable to that fixed base may be taxed in that other State; or
 
@@ -397,7 +373,7 @@ may also be taxed in the other Contracting State:
 
 **DIRECTORS’ FEES**
 
-Directors’ fees and other similar payments derived by a resident of a Contracting State in his capacity as a member of the board of directors of a company which is a resident of the other Contracting State may be taxed in that other State. 12 [S.L.123.53 WITH THE REPUBLIC OF ALBANIA
+Directors’ fees and other similar payments derived by a resident of a Contracting State in his capacity as a member of the board of directors of a company which is a resident of the other Contracting State may be taxed in that other State.
 
 **Article 17**
 
@@ -435,8 +411,6 @@ Subject to the provisions of paragraph 2 of Article 19, pensions and other simil
 
 Where a student or business apprentice who is or was immediately before visiting a Contracting State a resident of the other Contracting State and who is present in the first-mentioned State solely for the purpose of his education or training, any payments received for the purpose of his maintenance, education or training shall not be taxed in that State, provided that such payments arise from sources outside that State.
 
-WITH THE REPUBLIC OF ALBANIA [S.L.123.53 13
-
 **Article 21**
 
 **OTHER INCOME**
@@ -467,8 +441,6 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 \1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected. This provision shall, notwithstanding the provisions of Article 1, also apply to persons who are not residents of one or both of the Contracting States.
 
-14 [S.L.123.53 WITH THE REPUBLIC OF ALBANIA
-
 \2. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
 
 \3. Except where the provisions of paragraph 1 of Article 9, paragraph 6 of Article 11, or paragraph 6 of Article 12, apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
@@ -491,9 +463,7 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 **EXCHANGE OF INFORMATION**
 
-\1. The competent authorities of the Contracting States shall exchange such information as is necessary for carrying out the provisions of this Convention or of the domestic laws of the Contracting States concerning taxes covered by the Convention insofar as the taxation thereunder is not contrary to the Convention. The exchange of information is not restricted by Article 1. Any information received by a WITH THE REPUBLIC OF ALBANIA [S.L.123.53 15
-
-Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) involved in the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by the Convention. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
+\1. The competent authorities of the Contracting States shall exchange such information as is necessary for carrying out the provisions of this Convention or of the domestic laws of the Contracting States concerning taxes covered by the Convention insofar as the taxation thereunder is not contrary to the Convention. The exchange of information is not restricted by Article 1. Any information received by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) involved in the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by the Convention. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
 
 \2. In no case shall the provisions of paragraph 1 be construed so as to impose on a Contracting State the obligation:
 
@@ -528,8 +498,6 @@ Nothing in this Convention shall affect the fiscal privileges of diplomatic agen
 This Convention shall remain in force until terminated by a Contracting State. Either Contracting State may terminate the Convention by giving written notice of termination, through diplomatic channels, at least six months before the end of any calendar year beginning after the expiration of a period of five years from the date of its entry into force. In such event, the Convention shall cease to have effect:
 
 (a) in Albania, in respect of income derived on or after the first day of January of the calendar year next following that in which the notice of termination is given;
-
-16 [S.L.123.53 WITH THE REPUBLIC OF ALBANIA
 
 (b) in Malta, in respect of taxes on income derived during any calendar year or accounting period, as the case may be, beginning on or after the first day of January next following the date on which the notice of termination is given.
 

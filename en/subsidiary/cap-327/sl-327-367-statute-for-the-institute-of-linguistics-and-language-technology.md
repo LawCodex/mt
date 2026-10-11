@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Statute for the Institute of Linguistics and Language Technology (S.L. 327.367)
 
-*1*
-
-LINGUISTICS AND LANGUAGE TECHNOLOGY [S.L.327.367
-
 SUBSIDIARY LEGISLATION 327.367
 
 STATUTE FOR THE INSTITUTE OF
@@ -63,11 +59,9 @@ The Institute shall be governed by a Board consisting of the following:
 
 (ii) Vice-Chairman: Director of the Institute;
 
-(iii) a person appointed by the Council of the University; [S.L.327.367 LINGUISTICS AND LANGUAGE TECHNOLOGY
+(iii) a person appointed by the Council of the University;
 
 (iv) a person appointed by the Senate of the University;
-
-*2*
 
 (v) up to two representatives of the academic staff lecturing at the Institute;
 
@@ -109,11 +103,7 @@ The function of the Board shall be:
 
 (vi) require from staff members of the Institute the production of reports on academic matters, including the curricula of courses of study, qualifications for admission to courses, examinations, and certificates of attendance or qualification;
 
-(vii) recommend to the Council the creation or LINGUISTICS AND LANGUAGE TECHNOLOGY [S.L.327.367
-
-abolition of academic and non-academic posts in the Institute; and
-
-*3*
+(vii) recommend to the Council the creation or abolition of academic and non-academic posts in the Institute; and
 
 (viii) propose for approval to the Senate, Board of Studies and Examiners for degree and diploma courses.
 
@@ -141,10 +131,6 @@ The duties of the Vice-Chairman/Director shall include:
 
 (f) promoting students’ academic and personal welfare, providing first-line support to students with any difficulties they may encounter during their studies related to the activities of the Institute;
 
-**LINGUISTICS AND LANGUAGE TECHNOLOGY**
-
-*[S.L.327.367 4*
-
 (g) monitoring the running of tests and examinations in the Institute and ensuring that all assessment and examination results are submitted to the Registrar’s office as follows:
 
 • January session - by the end of March;
@@ -170,10 +156,6 @@ The duties of the Vice-Chairman/Director shall include:
 (o) monitoring the performance of the non-academic staff attached to the Institute;
 
 (p) authorising the Institute’s procurement of equipment; ensuring that the resources assigned to the Institute -whether human or other - are utilized fully and efficiently;
-
-*5*
-
-LINGUISTICS AND LANGUAGE TECHNOLOGY [S.L.327.367
 
 (q) performing other duties which may be assigned by the University from time to time.
 

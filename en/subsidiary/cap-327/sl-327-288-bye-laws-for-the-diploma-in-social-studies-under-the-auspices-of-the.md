@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in Social Studies under the auspices of the Centre for Labour Studies (S.L. 327.288)
 
-THE AUSPICES OF THE CENTRE FOR LABOUR STUDIES IN COL-
-
-*1*
-
-LABORATION WITH THE FACULTY FOR SOCIAL WELLBEING [S.L.327.288
-
 **SUBSIDIARY LEGISLATION 327.288**
 
 **BYE-LAWS FOR THE DIPLOMA IN GENDER,**
@@ -66,10 +60,6 @@ These bye-laws shall be applicable for courses commencing in October 2016 or lat
 (2) Applicants admitted under regulation 6(c) of the Admissions Regulations must be in possession of qualifications and experience that would satisfy the Board of Studies, through an interview, that they have reached the academic standard required to follow the course with profit.
 
 (3) Applicants admitted in terms of paragraph (2) of this bye-law shall be in possession of a pass in an English language proficiency test as approved by the University before being admitted to the course, provided that applicants in possession of a Secondary Education Certificate pass at Grade 5/GCE Ordinary Level pass at Grade C or higher in English or a pass at the same standard in a comparable qualification, shall be exempted from sitting for the proficiency test.
-
-*2*
-
-THE AUSPICES OF THE CENTRE FOR LABOUR STUDIES IN COL- [S.L.327.288 LABORATION WITH THE FACULTY FOR SOCIAL WELLBEING
 
 ## 4. Course duration.
 

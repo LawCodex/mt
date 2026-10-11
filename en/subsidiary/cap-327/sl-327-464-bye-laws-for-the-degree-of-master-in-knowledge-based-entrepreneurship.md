@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master in Knowledge-Based Entrepreneurship - M.Ent. - under the auspices of the Centre for Entrepreneurship and Business Incubation (S.L. 327.464)
 
-NEURSHIP - M.Ent. -UNDER THE AUSPICES OF THE CENTRE
-
-*1*
-
-FOR ENTREPRENEURSHIP AND BUSINESS INCUBATION [S.L.327.464
-
 **SUBSIDIARY LEGISLATION 327.464**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER IN**
@@ -69,11 +63,7 @@ These bye-laws shall be applicable for courses commencing in October 2019 or lat
 
 (1) The course shall be open to applicants in possession of a Bachelor degree from the University of Malta with at least Second Class (Honours) or Category in the areas of Science, Information Technology, Engineering, Media, Communications, and the Humanities, or in any other area which the Board deems as appropriate.
 
-(2) Applicants in possession of a Bachelor degree from this University with Third Class Honours or Category III in the disciplines highlighted in paragraph (1) of this bye-law may apply if they are also in possession of other qualifications or at least five years of relevant work experience, obtained following the first cycle degree. The admission of applicants under this bye-law may be made conditional on the results of an assessment as the Board NEURSHIP - M.Ent. -UNDER THE AUSPICES OF THE CENTRE [S.L.327.464 FOR ENTREPRENEURSHIP AND BUSINESS INCUBATION
-
-may deem appropriate.
-
-*2*
+(2) Applicants in possession of a Bachelor degree from this University with Third Class Honours or Category III in the disciplines highlighted in paragraph (1) of this bye-law may apply if they are also in possession of other qualifications or at least five years of relevant work experience, obtained following the first cycle degree. The admission of applicants under this bye-law may be made conditional on the results of an assessment as the Board may deem appropriate.
 
 (3) Applicants who are not in possession of the qualifications indicated in paragraphs (1) and (2) of this bye-law may also be considered if they submit a letter of motivation and a detailed curriculum vitae showing their experience and achievements to the satisfaction of the Admissions Board. Such applicants may be admitted by the Admissions Board under those conditions it may impose, which may include that the applicants pass in supplementary study-units to which not more than 12 ECTS credits are assigned.
 
@@ -107,12 +97,6 @@ The Course shall extend over three semesters of full-time study or up to eleven 
 
 (2) Students who obtain 30 ECTS credits assigned to taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the course, shall be eligible for the award of the Postgraduate Certificate, provided that the students pass all compulsory study-units as determined by the Board.
 
-NEURSHIP - M.Ent. -UNDER THE AUSPICES OF THE CENTRE
-
-*3*
-
-FOR ENTREPRENEURSHIP AND BUSINESS INCUBATION [S.L.327.464
-
 (3) Students who obtain the 60 ECTS credits assigned to the taught study-units with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the Postgraduate Diploma.
 
 (4) The programme of study shall be published by the Board after approval by Senate, normally not less than eight months prior to the commencement of the course.
@@ -145,11 +129,7 @@ FOR ENTREPRENEURSHIP AND BUSINESS INCUBATION [S.L.327.464
 
 ## 9. Classification of the Awards.
 
-The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma and of the Degree shall be based on the results obtained in all the components of the NEURSHIP - M.Ent. -UNDER THE AUSPICES OF THE CENTRE [S.L.327.464 FOR ENTREPRENEURSHIP AND BUSINESS INCUBATION
-
-programme of study, all credits being weighted equally.
-
-*4*
+The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma and of the Degree shall be based on the results obtained in all the components of the programme of study, all credits being weighted equally.
 
 ## 10. Special provisions for part-time courses.
 

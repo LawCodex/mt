@@ -1,6 +1,6 @@
 ---
 title: "Lepers Regulations"
-identifier: "S.L. 45.1"
+identifier: "S.L. 45.01"
 eli: "https://legislation.mt/eli/sl/45.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/45.1/20240716/eng"
 retrieved: 2026-10-12
 ---
 
-# Lepers Regulations (S.L. 45.1)
+# Lepers Regulations (S.L. 45.01)
 
 **SUBSIDIARY LEGISLATION 45.01**
 

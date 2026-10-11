@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the degree of Master in Family Therapy and Systemic Practice under the auspices of the Faculty for Social Wellbeing (S.L. 327.440)
 
-SYSTEMATIC PRACTICE UNDER THE AUSPICES
-
-*1*
-
-OF THE FACULTY FOR SOCIAL WELLBEING [S.L.327.440
-
 **SUBSIDIARY LEGISLATION 327.440**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER**
@@ -67,13 +61,7 @@ These bye-laws shall be applicable for courses commencing in October 2020 or lat
 
 (2) Applicants referred to in paragraph (1) of this bye-law are also required to have one year work experience that is normally gained within the psychosocial sector. Applicants are required to present a letter of attestation demonstrating that they are in possession of a minimum of 1200 hours of such work experience. Work experience that is gained from within the voluntary sector shall also be considered.
 
-(3) Applicants in possession of a recognized Postgraduate Diploma in Family Therapy may be allowed to join Part II of the SYSTEMATIC PRACTICE UNDER THE AUSPICES
-
-*2*
-
-[S.L.327.440 OF THE FACULTY FOR SOCIAL WELLBEING
-
-course, provided that such applicants shall satisfy the Board of Studies that they have reached the academic standard required to follow the course with profit.
+(3) Applicants in possession of a recognized Postgraduate Diploma in Family Therapy may be allowed to join Part II of the course, provided that such applicants shall satisfy the Board of Studies that they have reached the academic standard required to follow the course with profit.
 
 (4) All applicants shall be required to demonstrate that they have the necessary aptitude and disposition to follow the course with profit.
 
@@ -109,11 +97,7 @@ The Course shall extend over four semesters of full-time study or the equivalent
 
 (b) Part Two consisting of taught and practical study-units to which 30 ECTS credits are assigned, and research work and the writing of a dissertation to which another 30 ECTS credits are assigned.
 
-SYSTEMATIC PRACTICE UNDER THE AUSPICES
-
-*3*
-
-OF THE FACULTY FOR SOCIAL WELLBEING [S.L.327.440 (2) The practical study-units may be held during the day and/ or in the evening.
+(2) The practical study-units may be held during the day and/ or in the evening.
 
 (3) In cases where applicants lack essential knowledge in the area of research methodology, the Board may require students admitted to the Course to follow and pass supplementary study-unit/s in the said area to which a maximum of 12 ECTS credits are assigned in addition to the programme of study specified in paragraph (1) of bye-law 5
 
@@ -140,12 +124,6 @@ Provided that students who fail in a study-unit involving a placement that requi
 (1) Students shall be required to submit an individual dissertation of approximately 25,000 words in accordance with the guidelines issued by the Board of Studies.
 
 (2) Work on the dissertation shall be undertaken during the final two semesters of the course. Each student shall be assigned a supervisor, who shall provide guidance and advice on a regular basis during the period of study.
-
-SYSTEMATIC PRACTICE UNDER THE AUSPICES
-
-*4*
-
-[S.L.327.440 OF THE FACULTY FOR SOCIAL WELLBEING
 
 (3) A provisional title for the dissertation and a detailed research proposal shall be submitted to the Board of Studies for approval by the date indicated by the Board of Studies.
 

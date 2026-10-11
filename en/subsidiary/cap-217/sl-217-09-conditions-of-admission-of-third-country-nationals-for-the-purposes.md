@@ -1,6 +1,6 @@
 ---
 title: "Conditions of Admission of Third-Country Nationals for the purposes of Studies Regulations"
-identifier: "S.L. 217.9"
+identifier: "S.L. 217.09"
 eli: "https://legislation.mt/eli/sl/217.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/217.9/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Conditions of Admission of Third-Country Nationals for the purposes of Studies Regulations (S.L. 217.9)
-
-CONDITIONS OF ADMISSION OF THIRD-COUNTRY
-
-*1*
-
-NATIONALS FOR THE PURPOSES OF STUDIES [S.L.217.09
+# Conditions of Admission of Third-Country Nationals for the purposes of Studies Regulations (S.L. 217.09)
 
 SUBSIDIARY LEGISLATION 217.09
 

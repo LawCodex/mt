@@ -1,6 +1,6 @@
 ---
 title: "Cash Control Regulations"
-identifier: "S.L. 233.7"
+identifier: "S.L. 233.07"
 eli: "https://legislation.mt/eli/sl/233.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/233.7/20250613/eng"
 retrieved: 2026-10-12
 ---
 
-# Cash Control Regulations (S.L. 233.7)
+# Cash Control Regulations (S.L. 233.07)
 
 **SUBSIDIARY LEGISLATION 233.07**
 

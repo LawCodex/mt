@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Certificate in Language Proficiency – Cert. Lang. Pr. - and the Diploma in Language Proficiency – Dip. Lang. Pr. - the auspices of the Faculty of Arts. (S.L. 327.523)
 
-\- AND DIPLOMA IN LANGUAGE PROFICIENCY - Dip. Lang.
-
-*1*
-
-Pr. - UNDER THE AUSPICES OF THE FACULTY OF ARTS [S.L.327.523
-
 **SUBSIDIARY LEGISLATION 327.523**
 
 **BYE-LAWS FOR THE CERTIFICATE IN**
@@ -71,15 +65,13 @@ The areas of study offered in any particular year in the Certificate and the Dip
 
 (2) Applicants for the Diploma course may be exempted from elements of the Certificate course if they can provide accredited certification in the language and if they are deemed able to follow the course with profit by the Board of Studies for the area of study.
 
-(3) The Certificate and the Diploma course may be taken - AND DIPLOMA IN LANGUAGE PROFICIENCY - Dip. Lang. [S.L.327.523 Pr. - UNDER THE AUSPICES OF THE FACULTY OF ARTS concurrently with any University undergraduate or postgraduate course, whether followed on a full-time or part-time basis.
+(3) The Certificate and the Diploma course may be taken concurrently with any University undergraduate or postgraduate course, whether followed on a full-time or part-time basis.
 
 ## 5. Duration of courses.
 
 *Substituted by: L.N. 84 of 2017; L.N.318 of 2017.*
 
 The duration of the Courses, depending if followed concurrently with other courses or not, shall be as follows:
-
-*2*
 
 (a) Certificate course: 3 to 6 semesters on a part-time basis; and
 

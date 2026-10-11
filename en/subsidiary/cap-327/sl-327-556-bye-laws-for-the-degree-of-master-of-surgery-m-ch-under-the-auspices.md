@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Surgery - M.Ch. - under the auspices of the Faculty of Medicine and Surgery (S.L. 327.556)
 
-UNDER THE AUSPICES OF THE FACULTY OF
-
-*1*
-
-MEDICINE AND SURGERY [S.L.327.556
-
 **SUBSIDIARY LEGISLATION 327.556**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -69,13 +63,7 @@ These bye-laws shall be applicable for courses commencing in October 2016 or lat
 
 (b) experience in the area of the proposed study; and
 
-(c) performance during an interview, if deemed necessary. (4) Interviews, if necessary, shall be conducted by a board composed of at least three members appointed by the Board for the UNDER THE AUSPICES OF THE FACULTY OF
-
-*2*
-
-[S.L.327.556 MEDICINE AND SURGERY
-
-purpose.
+(c) performance during an interview, if deemed necessary. (4) Interviews, if necessary, shall be conducted by a board composed of at least three members appointed by the Board for the purpose.
 
 (5) For the purpose of selection, applicants who fully satisfy the entry requirements by 31st August preceding the commencement of the course shall be considered first.
 
@@ -111,11 +99,7 @@ The course shall extend over six semesters of part-time study.
 
 ## 8. Panel of Supervision.
 
-(1) The Board shall appoint a Panel of Supervision for each student, normally composed of three members as follows: the Head of Department as Chairman, or his delegate, and two other members, one of whom being the research supervisor, provided that UNDER THE AUSPICES OF THE FACULTY OF
-
-*3*
-
-MEDICINE AND SURGERY [S.L.327.556 when the Head of Department is the supervisor, he shall not chair the Panel.
+(1) The Board shall appoint a Panel of Supervision for each student, normally composed of three members as follows: the Head of Department as Chairman, or his delegate, and two other members, one of whom being the research supervisor, provided that when the Head of Department is the supervisor, he shall not chair the Panel.
 
 (2) The Panel of Supervision shall follow, as it deems fit, the progress of students throughout the course, provided that it meets at least twice a year to review such progress.
 

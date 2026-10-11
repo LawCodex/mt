@@ -1,6 +1,6 @@
 ---
 title: "Government Industrial Land (Maximum Rent Chargeable) Order"
-identifier: "S.L. 325.5"
+identifier: "S.L. 325.05"
 eli: "https://legislation.mt/eli/sl/325.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/325.5/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Government Industrial Land (Maximum Rent Chargeable) Order (S.L. 325.5)
-
-GOVERNMENT INDUSTRIAL LAND
-
-*1*
-
-(MAXIMUM RENT CHARGEABLE) [S.L.325.05
+# Government Industrial Land (Maximum Rent Chargeable) Order (S.L. 325.05)
 
 SUBSIDIARY LEGISLATION 325.05
 

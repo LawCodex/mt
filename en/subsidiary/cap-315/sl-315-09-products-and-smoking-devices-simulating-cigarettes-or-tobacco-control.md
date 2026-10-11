@@ -1,6 +1,6 @@
 ---
 title: "Products and Smoking Devices (Simulating Cigarettes or Tobacco) (Control) Regulations"
-identifier: "S.L. 315.9"
+identifier: "S.L. 315.09"
 eli: "https://legislation.mt/eli/sl/315.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/315.9/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Products and Smoking Devices (Simulating Cigarettes or Tobacco) (Control) Regulations (S.L. 315.9)
-
-PRODUCTS AND SMOKING DEVICES
-
-*1*
-
-(SIMULATING CIGARETTES OR TOBACCO) (CONTROL) [ S.L.315.09
+# Products and Smoking Devices (Simulating Cigarettes or Tobacco) (Control) Regulations (S.L. 315.09)
 
 **SUBSIDIARY LEGISLATION 315.09**
 

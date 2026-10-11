@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws of 2011 for the Diploma in Library and Information Studies - Dip. LIS - under the auspices of the Faculty of Media and Knowledge Sciences (S.L. 327.414)
 
-Dip. LIS - UNDER THE AUSPICES OF THE FACULTY
-
-*1*
-
-OF MEDIA AND KNOWLEDGE SCIENCES [S.L.327.414
-
 **SUBSIDIARY LEGISLATION 327.414**
 
 BYE-LAWS FOR THE DIPLOMA IN LIBRARY AND INFORMATION STUDIES - Dip. LIS - UNDER THE
@@ -75,11 +69,7 @@ The Board shall publish the programme of study in accordance with the relevant p
 
 ## 7. Classification of the Award.
 
-(1) The Overall Weighted Average Mark for the classification of the Diploma shall take into account the results Dip. LIS - UNDER THE AUSPICES OF THE FACULTY [S.L.327.414 OF MEDIA AND KNOWLEDGE SCIENCES
-
-obtained in all the components of the course, which shall be weighted as follows:
-
-*2*
+(1) The Overall Weighted Average Mark for the classification of the Diploma shall take into account the results obtained in all the components of the course, which shall be weighted as follows:
 
 Taught study-units, practicum and long essay 60% Synoptic study-units 40%. (2) The names of students who qualify for the award of the Diploma shall be published in a list in alphabetical order classified as follows:
 

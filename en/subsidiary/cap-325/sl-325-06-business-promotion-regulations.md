@@ -1,6 +1,6 @@
 ---
 title: "Business Promotion Regulations"
-identifier: "S.L. 325.6"
+identifier: "S.L. 325.06"
 eli: "https://legislation.mt/eli/sl/325.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/325.6/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Business Promotion Regulations (S.L. 325.6)
+# Business Promotion Regulations (S.L. 325.06)
 
 **SUBSIDIARY LEGISLATION 325.06**
 

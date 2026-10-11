@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-laws for the Degree of Master of Fine Arts (M.F.A.) in Digital Arts under the auspices of the Faculty of Media and Knowledge Sciences (S.L. 327.421)
 
-ARTS UNDER THE AUSPICES OF THE FACULTY
-
-*1*
-
-OF MEDIA AND KNOWLEDGE SCIENCES [S.L.327.421
-
 **SUBSIDIARY LEGISLATION 327.421**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -64,12 +58,6 @@ These bye-laws shall be applicable as from 26th September, 2018.
 (b) a professional qualification/qualifications and/or experience deemed by Senate, on the recommendation of the Board, to satisfy in part the admission requirements to the course, provided that applicants may be required to complete a preparatory theoretical programme as specified in bye-law 4, together with a substantial portfolio of recent works.
 
 (2) All applicants who are not in possession of a first degree in Art shall be interviewed and evaluated by an interviewing board composed of at least three members. Applicants shall be asked to provide evidence of their professional experience in Art by means of a portfolio.
-
-ARTS UNDER THE AUSPICES OF THE FACULTY
-
-*2*
-
-[S.L.327.421 OF MEDIA AND KNOWLEDGE SCIENCES
 
 ## 4. Preparatory programme.
 
@@ -115,11 +103,7 @@ The course shall extend over four semesters of full-time study.
 
 (3) A provisional title for the Final Project and the dissertation and a detailed research proposal shall be submitted to the Board for approval by the end of the second semester of the course.
 
-(4) Students shall be required to organise and curate a public, collective degree exhibition, showcasing all the Final Projects at ARTS UNDER THE AUSPICES OF THE FACULTY
-
-*3*
-
-OF MEDIA AND KNOWLEDGE SCIENCES [S.L.327.421 the end of the fourth semester of the course.
+(4) Students shall be required to organise and curate a public, collective degree exhibition, showcasing all the Final Projects at the end of the fourth semester of the course.
 
 ## 9. Supervisor.
 

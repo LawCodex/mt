@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy - Ph.D. - under the auspices of The Edward de Bono Institute for the Design and Development of Thinking (S.L. 327.543)
 
-THE AUSPICES OF THE EDWARD DE BONO INSTITUTE
-
-*1*
-
-FOR THE DESIGN AND DEVELOPMENT OF THINKING [S.L.327.543
-
 **SUBSIDIARY LEGISLATION 327.543**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR OF**
@@ -67,13 +61,11 @@ When the Board deems it necessary, it may require students to successfully compl
 
 ## 5. Application form.
 
-(1) Applicants may submit their application form, together with a detailed Curriculum Vitae, including one relevant reference letter, transcripts of qualifications, and a comprehensive research proposal outlining the proposed project, at any time of the year. THE AUSPICES OF THE EDWARD DE BONO INSTITUTE [S.L.327.543 FOR THE DESIGN AND DEVELOPMENT OF THINKING
+(1) Applicants may submit their application form, together with a detailed Curriculum Vitae, including one relevant reference letter, transcripts of qualifications, and a comprehensive research proposal outlining the proposed project, at any time of the year.
 
 \*These regulations have been repealed by Legal Notice 264 of 2024.
 
 (2) Applicants may also be asked to demonstrate competence in those skills required by the nature of the proposed research.
-
-*2*
 
 ## 6. Institute’s Doctoral Committee.
 
@@ -119,8 +111,4 @@ The Board shall approve and publish guidelines on the format and presentation of
 
 (1) Students shall be required to submit a loose bound copy of their thesis for each member of the Board of Examiners, together with a copy in digital format. The officer in charge of the Institute shall issue a dated receipt.
 
-(2) On successful completion of their studies, students shall be required to submit to the Institute three hard bound copies and one copy in digital format, which shall include a signed declaration of authenticity, within six weeks from the publication of their result. THE AUSPICES OF THE EDWARD DE BONO INSTITUTE
-
-*3*
-
-FOR THE DESIGN AND DEVELOPMENT OF THINKING [S.L.327.543 One copy of the thesis shall be kept in the Library of the Institute and another at the University Library. The electronic version must conform to the standards set up by the University of Malta Library. Students who do not comply with this bye-law shall not be awarded the Degree.
+(2) On successful completion of their studies, students shall be required to submit to the Institute three hard bound copies and one copy in digital format, which shall include a signed declaration of authenticity, within six weeks from the publication of their result. One copy of the thesis shall be kept in the Library of the Institute and another at the University Library. The electronic version must conform to the standards set up by the University of Malta Library. Students who do not comply with this bye-law shall not be awarded the Degree.

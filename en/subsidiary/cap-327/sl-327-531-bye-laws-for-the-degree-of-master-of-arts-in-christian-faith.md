@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Christian Faith Formation - M.A. under the auspices of the Faculty of Theology (S.L. 327.531)
 
-FORMATION - M.A. - UNDER THE AUSPICES
-
-*1*
-
-OF THE FACULTY OF THEOLOGY [S.L.327.531
-
 **SUBSIDIARY LEGISLATION 327.531**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -71,12 +65,6 @@ The course shall be open to applicants in possession of:
 
 (d) any first cycle degree together with either a recognised teaching qualification or the Postgraduate Certificate in Education, together with five years’ experience in an education setting; or
 
-FORMATION - M.A. - UNDER THE AUSPICES
-
-*2*
-
-[S.L.327.531 OF THE FACULTY OF THEOLOGY
-
 (e) any first cycle degree, together with at least two years’ teaching experience in any Christian faith formation institute; or
 
 (f) a qualification deemed by Senate, on the recommendation of the Board, to be equivalent to the qualifications listed in sub-paragraphs (a) to (e) of this bye-law, together with the required years of experience.
@@ -119,13 +107,9 @@ The programme of study shall be published after approval by Senate, normally not
 
 (3) A provisional title for the dissertation and a research proposal shall be submitted to the Board for approval not later than six weeks before the end of the fourth semester.
 
-FORMATION - M.A. - UNDER THE AUSPICES
+## 11. Supervisor.
 
-*3*
-
-OF THE FACULTY OF THEOLOGY [S.L.327.531 11. (1) Students shall be required to have regular contact with their supervisor.
-
-*Supervisor.*
+(1) Students shall be required to have regular contact with their supervisor.
 
 (2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies. Such reports may include recommendations to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 

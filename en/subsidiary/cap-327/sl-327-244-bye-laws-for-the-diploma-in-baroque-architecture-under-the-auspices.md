@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in Baroque Architecture under the auspices of the Faculty for the Built Environment (S.L. 327.244)
 
-AUSPICES OF THE FACULTY FOR THE BUILT
-
-*1*
-
-ENVIRONMENT [S.L.327.244
-
 **SUBSIDIARY LEGISLATION 327.244**
 
 **BYE-LAWS FOR THE DIPLOMA IN BAROQUE**
@@ -79,10 +73,6 @@ The course shall extend over a period of one academic year of full-time study or
 (1) The overall evaluation of each student’s performance in the course for the purpose of the classification of the Diploma shall be based on the results obtained in the study-units, field experience and in the long essay/project, which shall be weighted according to the number of credits assigned to them.
 
 (2) The names of students who qualify for the award of the Diploma shall be published in a list in alphabetical order classified as follows:
-
-*2*
-
-AUSPICES OF THE FACULTY FOR THE BUILT [S.L.327.244 ENVIRONMENT
 
 Pass with Distinction
 

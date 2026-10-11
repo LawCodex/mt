@@ -1,6 +1,6 @@
 ---
 title: "Proceedings of the Rent Regulation Board Regulations"
-identifier: "S.L. 69.1"
+identifier: "S.L. 69.01"
 eli: "https://legislation.mt/eli/sl/69.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/69.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Proceedings of the Rent Regulation Board Regulations (S.L. 69.1)
+# Proceedings of the Rent Regulation Board Regulations (S.L. 69.01)
 
 **SUBSIDIARY LEGISLATION 69.01**
 

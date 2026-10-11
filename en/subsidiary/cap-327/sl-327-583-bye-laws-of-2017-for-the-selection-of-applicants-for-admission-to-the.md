@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws of 2017 for the Selection of Applicants for Admission to the Degree Of Bachelor of Science (Honours) in Medical Biochemistry - B.Sc. (Hons) Med. Biochem. - under the auspices of the Faculty of Medicine and Surgery and the Faculty of Science (S.L. 327.583)
 
-*1*
-
-BIOCHEMISTRY - B.SC. (HONS) MED. BIOCHEM. [S.L. 327.583 SUBSIDIARY LEGISLATION 327.583
+**SUBSIDIARY LEGISLATION 327.583**
 
 L-ORDINAMENTI TAL-2017 GĦALL-GĦAŻLA TAL- APPLIKANTI GĦAD-DĦUL FIL-KORS GĦALL-
 
@@ -61,11 +59,7 @@ Grade B at Advanced Level equated to Grade A at Intermediate Level
 
 Grade A at Advanced Level equated to Grade A at Intermediate Level
 
-(c) Applicants who satisfy the general and the special [S.L. 327.583 BIOCHEMISTRY - B.SC. (HONS) MED. BIOCHEM.
-
-course requirements as laid down in the bye-laws for the course shall be selected from amongst all eligible applicants according to the following categories, listed in order of preference:
-
-*2*
+(c) Applicants who satisfy the general and the special course requirements as laid down in the bye-laws for the course shall be selected from amongst all eligible applicants according to the following categories, listed in order of preference:
 
 1st Category: those with 2 ‘A’s in the primary subjects and an ‘A’ in the secondary subject
 
@@ -105,9 +99,7 @@ and those with 1 ‘A’ and 1 ‘C’ in the primary subjects and a ‘D’ in 
 
 or those with 1 ‘B’ and 1 ‘C’ in the primary subjects and an ‘A’ in the secondary subject
 
-*3*
-
-BIOCHEMISTRY - B.SC. (HONS) MED. BIOCHEM. [S.L. 327.583 11th Category: those with 2 ‘B’s in the primary subjects and an ‘E’ in the secondary subject
+11th Category: those with 2 ‘B’s in the primary subjects and an ‘E’ in the secondary subject
 
 and those with 1 ‘A’ and 1 ‘C’ in the primary subjects and an ‘E’ in the secondary subject
 
@@ -138,10 +130,6 @@ and those with 2 ‘C’s in the primary subjects and a ‘B’ in the secondary
 (5) If the number of eligible applicants falling in the last category of applicants eligible to be admitted in terms of the provisions of paragraph (1)(c) of this bye-law is such that the total number of applicants to be admitted exceeds the number of places established by Senate, consideration shall first be given to:
 
 (a) the applicant’s overall performance in all subjects presented for the award of the Matriculation Certificate. This shall be determined from the sum of points allocated for each subject, which shall be assigned as follows:
-
-*4*
-
-[S.L. 327.583 BIOCHEMISTRY - B.SC. (HONS) MED. BIOCHEM.
 
 Advanced Level Intermediate
 
@@ -185,9 +173,7 @@ and those with 1 ‘C’ and 1 ‘D’ in the primary subjects and a ‘A’ in 
 
 and those with 1 ‘C’ and 1 ‘D’ in the primary subjects and a ‘B’ in the secondary subject
 
-*5*
-
-BIOCHEMISTRY - B.SC. (HONS) MED. BIOCHEM. [S.L. 327.583 26th Category: those with 1 ‘C’ and 1 ‘D’ in the primary subjects and a ‘C’ in the secondary subject
+26th Category: those with 1 ‘C’ and 1 ‘D’ in the primary subjects and a ‘C’ in the secondary subject
 
 27th Category: those with 1 ‘C’ and 1 ‘D’ in the primary subjects and a ‘D’ in the secondary subject
 

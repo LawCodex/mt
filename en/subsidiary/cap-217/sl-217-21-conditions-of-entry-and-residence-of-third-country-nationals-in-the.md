@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Conditions of Entry and Residence of Third-Country Nationals in the Framework of an Intra-Corporate Transfer Regulations (S.L. 217.21)
 
-COUNTRY NATIONALS IN THE FRAMEWORK
-
-*1*
-
-OF AN INTRA-CORPORATE TRANSFER [S.L.217.21
-
 **SUBSIDIARY LEGISLATION 217.21**
 
 **CONDITIONS OF ENTRY AND RESIDENCE**
@@ -71,12 +65,6 @@ For the purposes of these regulations:
 
 (a) holds a majority of that undertaking’s subscribed capital;
 
-COUNTRY NATIONALS IN THE FRAMEWORK
-
-*2*
-
-[S.L.217.21 OF AN INTRA-CORPORATE TRANSFER
-
 (b) controls a majority of the votes attached to that undertaking’s issued share capital;
 
 (c) is entitled to appoint more than half of the members of that undertaking’s administrative, management or supervisory body; or
@@ -103,11 +91,7 @@ COUNTRY NATIONALS IN THE FRAMEWORK
 
 "other Member State" means the Member State which first grants a third-country national an intra-corporate transferee permit other than Malta;
 
-"permit for long-term mobility" means an authorisation bearing the term "mobile ICT" entitling the holder of an intra-corporate COUNTRY NATIONALS IN THE FRAMEWORK
-
-*3*
-
-OF AN INTRA-CORPORATE TRANSFER [S.L.217.21 transferee permit to reside and work in the territory of Malta under the terms of these regulations;
+"permit for long-term mobility" means an authorisation bearing the term "mobile ICT" entitling the holder of an intra-corporate transferee permit to reside and work in the territory of Malta under the terms of these regulations;
 
 *S.L. 451.03*
 
@@ -139,13 +123,7 @@ OF AN INTRA-CORPORATE TRANSFER [S.L.217.21 transferee permit to reside and work 
 
 (d) carry out activities as self-employed workers;
 
-(e) are assigned by employment agencies, temporary work COUNTRY NATIONALS IN THE FRAMEWORK
-
-*4*
-
-[S.L.217.21 OF AN INTRA-CORPORATE TRANSFER
-
-agencies or any other undertakings engaged in making available labour to work under the supervision and direction of another undertaking;
+(e) are assigned by employment agencies, temporary work agencies or any other undertakings engaged in making available labour to work under the supervision and direction of another undertaking;
 
 (f) are admitted as full-time students or who are undergoing a short-term supervised practical training as part of their studies.
 
@@ -173,11 +151,7 @@ agencies or any other undertakings engaged in making available labour to work un
 
 (d) provide evidence that the third-country national has the professional qualifications and experience needed in the host entity to which he is to be transferred as manager or specialist or, in the case of a trainee employee, the university degree required;
 
-COUNTRY NATIONALS IN THE FRAMEWORK
-
-*5*
-
-OF AN INTRA-CORPORATE TRANSFER [S.L.217.21 (e) where applicable, present documentation certifying that the third-country national fulfils the conditions laid down under the Recognition of Professional Qualification Regulations to exercise the regulated profession to which the application relates;
+(e) where applicable, present documentation certifying that the third-country national fulfils the conditions laid down under the Recognition of Professional Qualification Regulations to exercise the regulated profession to which the application relates;
 
 *S.L. 451.03*
 
@@ -201,13 +175,7 @@ OF AN INTRA-CORPORATE TRANSFER [S.L.217.21 (e) where applicable, present documen
 
 (5) In addition to the evidence required under sub-regulation (1), any third-country national who applies to be admitted as a trainee employee shall be required to present a training agreement relating to the preparation for his or her future position within the undertaking or group of undertakings, including a description of the training programme, which demonstrates that the purpose of the stay is to train the trainee employee for career development purposes or in order to obtain training in business techniques or methods, its duration and the conditions under which the trainee employee is supervised during the programme.
 
-(6) Any modification during the application procedure that COUNTRY NATIONALS IN THE FRAMEWORK
-
-*6*
-
-[S.L.217.21 OF AN INTRA-CORPORATE TRANSFER
-
-affects the criteria for admission set out in this regulation shall be notified by the applicant to the Executive Chairperson.
+(6) Any modification during the application procedure that affects the criteria for admission set out in this regulation shall be notified by the applicant to the Executive Chairperson.
 
 (7) The Executive Chairperson shall not admit the third-country national if he is considered to pose a threat to public policy, public security or public health.
 
@@ -243,13 +211,9 @@ These regulations shall not affect the right, as provided for in Article 79(5) o
 
 (5) Notwithstanding the provisions of sub-regulation (1), any decision to refuse an application shall take account of the specific circumstances of the case and respect the principle of proportionality.
 
-COUNTRY NATIONALS IN THE FRAMEWORK
+### 7. Withdrawal or non-renewal of the intra-corporate transferee permit.
 
-*7*
-
-OF AN INTRA-CORPORATE TRANSFER [S.L.217.21 7. (1) The Executive Chairperson shall withdraw an intra-corporate transferee permit in any of the following cases:
-
-*Withdrawal or non-renewal of the intra-corporate transferee permit.*
+(1) The Executive Chairperson shall withdraw an intra-corporate transferee permit in any of the following cases:
 
 (a) where it was fraudulently acquired, or has been falsified or tampered with; or
 
@@ -285,12 +249,6 @@ OF AN INTRA-CORPORATE TRANSFER [S.L.217.21 7. (1) The Executive Chairperson shal
 
 (6) Without prejudice to the provisions of sub-regulations (1) and (3), in any decision to withdraw or to refuse an intra-corporate transferee permit, the Executive Chairperson shall take account of the specific circumstances of the case and respect the principle of proportionality.
 
-COUNTRY NATIONALS IN THE FRAMEWORK
-
-*8*
-
-[S.L.217.21 OF AN INTRA-CORPORATE TRANSFER
-
 ## PART III — Procedure and Permit
 
 ### 8. Access to information.
@@ -319,11 +277,7 @@ COUNTRY NATIONALS IN THE FRAMEWORK
 
 (1) Intra-corporate transferees who fulfil the conditions of admission set out in regulation 4 and for whom the Executive Chairperson has taken a positive decision and following the notification to the Executive Chairperson of the issue of an employment licence by the pertinent authorities responsible for the issue of such licences, shall be issued with an intra-corporate transferee permit, which shall be deemed to constitute an employment licence issued under article 11(3) of the Act, and the intra-corporate transferee shall not be issued with any other work permits of any kind.
 
-(2) The period of validity of the intra-corporate transferee COUNTRY NATIONALS IN THE FRAMEWORK
-
-*9*
-
-OF AN INTRA-CORPORATE TRANSFER [S.L.217.21 permit shall be at least one year or the duration of the transfer to Malta, whichever is shorter, and may be extended to a maximum of three years for managers and specialists and one year for trainee employees.
+(2) The period of validity of the intra-corporate transferee permit shall be at least one year or the duration of the transfer to Malta, whichever is shorter, and may be extended to a maximum of three years for managers and specialists and one year for trainee employees.
 
 (3) The intra-corporate transferee permit shall be issued by the Executive Chairperson using the uniform format laid down in Regulation (EC) No. 1030/2002.
 
@@ -347,13 +301,7 @@ The Executive Chairperson shall be notified by the applicant of any modification
 
 (4) Where the Executive Chairperson has declared inadmissible or refused an application, or refused renewal or withdrew an intra-corporate transferee permit, the third country national shall have the right to appeal to the Board within the time-limits listed in the Act.
 
-(5) Within the period referred to in regulation 10(1), an applicant shall be allowed to submit an application for renewal before the expiry of the intra-corporate transferee permit. The COUNTRY NATIONALS IN THE FRAMEWORK
-
-*10*
-
-[S.L.217.21 OF AN INTRA-CORPORATE TRANSFER
-
-Executive Chairperson may set a maximum deadline of ninety days prior to the expiry of the intra-corporate transferee permit for submitting an application for renewal.
+(5) Within the period referred to in regulation 10(1), an applicant shall be allowed to submit an application for renewal before the expiry of the intra-corporate transferee permit. The Executive Chairperson may set a maximum deadline of ninety days prior to the expiry of the intra-corporate transferee permit for submitting an application for renewal.
 
 (6) Where the validity of the intra-corporate transferee permit expires during the procedure for renewal, the Executive Chairperson shall issue a temporary residence authorisation to stay in Malta until a decision has been taken on the application.
 
@@ -387,11 +335,7 @@ During the period of validity of an intra-corporate transferee permit, the holde
 
 *Cap. 318.*
 
-Provided that family benefits payable under the provisions of the Social Security Act shall not apply to intra-corporate transferees who have been authorised to reside and work in Malta for a period not exceeding COUNTRY NATIONALS IN THE FRAMEWORK
-
-*11*
-
-OF AN INTRA-CORPORATE TRANSFER [S.L.217.21 nine months:
+Provided that family benefits payable under the provisions of the Social Security Act shall not apply to intra-corporate transferees who have been authorised to reside and work in Malta for a period not exceeding nine months:
 
 Provided further that equal treatment shall apply only to intra-corporate transferees who are not covered by the legislation of the country of origin by virtue of a bilateral agreement:
 
@@ -415,13 +359,7 @@ The Family Reunification Regulations shall apply with the following derogations 
 
 Provided that this shall not be made dependent on the requirement of the intra-corporate transferee holder having reasonable prospects of obtaining the right of permanent residence and having a minimum period of residence;
 
-(b) the provisions of regulations 4(1) and 14(3) regarding the integration conditions referred to therein may be COUNTRY NATIONALS IN THE FRAMEWORK
-
-*12*
-
-[S.L.217.21 OF AN INTRA-CORPORATE TRANSFER
-
-applied only after the persons concerned have been granted family reunification;
+(b) the provisions of regulations 4(1) and 14(3) regarding the integration conditions referred to therein may be applied only after the persons concerned have been granted family reunification;
 
 (c) the provision of regulation 9 regarding residence permits for family members shall be granted by the Executive Chairperson, if the conditions for family reunification are fulfilled, within ninety days from the date on which the complete application was submitted. The Executive Chairperson shall process the residence permit application for the intra-corporate transferee’s family members at the same time as the application for the intra-corporate transferee permit or the permit for long-term mobility, in cases where the residence permit application for the intra-corporate transferee’s family members is submitted at the same time. The procedural safeguards laid down in regulation 13 shall apply accordingly;
 
@@ -441,11 +379,7 @@ Third-country nationals who hold a valid intra-corporate transferee permit issue
 
 (2) The Executive Chairperson shall require the host entity in the other Member State to notify him and the competent authorities responsible for the implementation of the provisions of Directive 2014/66/EU of the intention of the intra-corporate transferee to work in an entity established in Malta.
 
-(3) The notification referred to in the sub-regulation (2) shall COUNTRY NATIONALS IN THE FRAMEWORK
-
-*13*
-
-OF AN INTRA-CORPORATE TRANSFER [S.L.217.21 take place either:
+(3) The notification referred to in the sub-regulation (2) shall take place either:
 
 (a) at the time of the application in the other Member State, where the mobility to Malta is already envisaged at that stage; or
 
@@ -475,13 +409,7 @@ Provided that the Executive Chairperson may require, where relevant, that these 
 
 (a) the conditions set out in regulation 4(3)(b) or in sub-regulation (4)(a), (c) or (d) are not complied with;
 
-(b) the documents presented were fraudulently acquired, COUNTRY NATIONALS IN THE FRAMEWORK
-
-*14*
-
-[S.L.217.21 OF AN INTRA-CORPORATE TRANSFER
-
-or falsified or tampered with;
+(b) the documents presented were fraudulently acquired, or falsified or tampered with;
 
 (c) the maximum duration of stay as defined in regulation 10(1) or in sub-regulation (1) has been reached;
 
@@ -511,11 +439,7 @@ Provided that the Executive Chairperson shall inform without delay the competent
 
 (e) evidence of having applied for sickness insurance, as provided for in regulation 4(1)(g).
 
-(3) The Executive Chairperson shall require the applicant to provide, at the latest at the date of issue of the permit for long-term mobility, the address of the intra-corporate transferee concerned in COUNTRY NATIONALS IN THE FRAMEWORK
-
-*15*
-
-OF AN INTRA-CORPORATE TRANSFER [S.L.217.21 Malta:
+(3) The Executive Chairperson shall require the applicant to provide, at the latest at the date of issue of the permit for long-term mobility, the address of the intra-corporate transferee concerned in Malta:
 
 Provided that the Executive Chairperson may require, where relevant, that the documents and the information mentioned in sub-regulation (2) are to be presented in the English language.
 
@@ -541,13 +465,7 @@ Provided that where the need for long-term mobility arises after the short-term 
 
 (c) the intra-corporate transferee permit expires during the procedure.
 
-(9) Where the Executive Chairperson takes a positive decision on the application for long-term mobility, the intra-corporate transferee shall be issued with a permit for long-term mobility allowing the intra-corporate transferee to stay and work in Malta. The permit shall be issued using the uniform format laid down in Regulation (EC) No. 1030/2002. Under the heading ‘type of permit’ in accordance with point (a) 6.4 of the Annex to Regulation COUNTRY NATIONALS IN THE FRAMEWORK
-
-*16*
-
-[S.L.217.21 OF AN INTRA-CORPORATE TRANSFER
-
-(EC) No. 1030/2002, the Executive Chairperson shall enter ‘mobile ICT’:
+(9) Where the Executive Chairperson takes a positive decision on the application for long-term mobility, the intra-corporate transferee shall be issued with a permit for long-term mobility allowing the intra-corporate transferee to stay and work in Malta. The permit shall be issued using the uniform format laid down in Regulation (EC) No. 1030/2002. Under the heading ‘type of permit’ in accordance with point (a) 6.4 of the Annex to Regulation (EC) No. 1030/2002, the Executive Chairperson shall enter ‘mobile ICT’:
 
 Provided that the Executive Chairperson may indicate additional information, as directed by the pertinent authorities, related to the employment relationship of the third-country national including the name and address of the employer, place of work, type of work, working hours and the remuneration, in paper format, or store such data in electronic format as referred to in Regulation (EC) 1030/2002.
 
@@ -577,11 +495,7 @@ Provided that if the Executive Chairperson issues the intra-corporate transferee
 
 (d) the intra-corporate transferee permit or the permit for long-term mobility is used for purposes other than those for which it was issued;
 
-COUNTRY NATIONALS IN THE FRAMEWORK
-
-*17*
-
-OF AN INTRA-CORPORATE TRANSFER [S.L.217.21 (e) the conditions on which the mobility was allowed to take place are no longer fulfilled.
+(e) the conditions on which the mobility was allowed to take place are no longer fulfilled.
 
 (4) In the cases referred to in sub-regulation (3), the Principal Immigration Officer shall, upon the request of the other Member State, allow re-entry of the intra-corporate transferee, and where applicable, of his or her family members, without formalities and without delay. This shall also apply if the intra-corporate transferee permit issued by Malta has expired or has been withdrawn during the period of mobility within the other Member State.
 

@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (The Government of the Republic of Kosovo) Order (S.L. 123.192)
 
-*1*
-
-(THE GOVERNMENT OF THE REPUBLIC OF KOSOVO) [S.L.123.192 SUBSIDIARY LEGISLATION 123.192
+**SUBSIDIARY LEGISLATION 123.192**
 
 DOUBLE TAXATION RELIEF (TAXES ON INCOME)
 
@@ -46,10 +44,6 @@ It is hereby declared:-
 (b) that it is expedient that those arrangements should have effect following the entry into force of the Convention and in accordance with the relevant provisions of the Convention;
 
 (c) that the Convention has entered into force on 20th September, 2019.
-
-*2*
-
-[S.L. 123.192 (THE GOVERNMENT OF THE REPUBLIC OF KOSOVO)
 
 ## SCHEDULE — ARTICLE 2 — CONVENTION BETWEEN THE GOVERNMENT OF THE
 
@@ -89,9 +83,7 @@ The existing taxes to which this Convention shall apply are in particular:
 
 the income tax;
 
-*3*
-
-(THE GOVERNMENT OF THE REPUBLIC OF KOSOVO) [S.L.123.192 (hereinafter referred to as "Malta tax");
+(hereinafter referred to as "Malta tax");
 
 (b) in Kosovo:
 
@@ -121,11 +113,7 @@ The Convention shall apply also to any identical or substantially similar taxes 
 
 (e) the term "company" means any, body corporate or any entity that is treated as a body corporate for tax purposes;
 
-(f) the term “enterprise” applies to the carrying on of (THE GOVERNMENT OF THE REPUBLIC OF KOSOVO)
-
-any business;
-
-*[S.L. 123.192 4*
+(f) the term “enterprise” applies to the carrying on of any business;
 
 (g) the terms "enterprise of a Contracting State" and "enterprise of the other Contracting State" mean respectively an enterprise carried on by a resident of a Contracting State and an enterprise carried on by a resident of the other Contracting State;
 
@@ -151,11 +139,9 @@ any business;
 
 (ii) that is established and operated exclusively or almost exclusively to invest funds for the benefit of entities or arrangements referred to in subdivision (i).
 
-\2. As regards the application of the Convention at any time by a Contracting State, any term not defined therein shall, unless the (THE GOVERNMENT OF THE REPUBLIC OF KOSOVO) [S.L.123.192 context otherwise requires or the competent authorities agree to a different meaning pursuant to the provisions of Article 23, have the meaning that it has at that time under the law of that State for the purposes of the taxes to which the Convention applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State.
+\2. As regards the application of the Convention at any time by a Contracting State, any term not defined therein shall, unless the context otherwise requires or the competent authorities agree to a different meaning pursuant to the provisions of Article 23, have the meaning that it has at that time under the law of that State for the purposes of the taxes to which the Convention applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State.
 
 **ARTICLE 4**
-
-*5*
 
 **Resident**
 
@@ -172,10 +158,6 @@ any business;
 (d) if he is a national of both States or of neither of them, the competent authorities of the Contracting States shall settle the question by mutual agreement.
 
 \3. Where by reason of the provisions of paragraph 1 a person other than an individual is a resident of both Contracting States, then it shall be deemed to be a resident only of the State in which its place of effective management is situated.
-
-*6*
-
-[S.L. 123.192 (THE GOVERNMENT OF THE REPUBLIC OF KOSOVO)
 
 **ARTICLE 5**
 
@@ -213,9 +195,7 @@ Notwithstanding the preceding provisions of this Article, the term "permanent es
 
 (c) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of processing by another enterprise;
 
-*7*
-
-(THE GOVERNMENT OF THE REPUBLIC OF KOSOVO) [S.L.123.192 (d) the maintenance of a fixed place of business solely for the purpose of purchasing goods or merchandise, or of collecting information, for the enterprise;
+(d) the maintenance of a fixed place of business solely for the purpose of purchasing goods or merchandise, or of collecting information, for the enterprise;
 
 (e) the maintenance of a fixed place of business solely for the purpose of carrying on, for the enterprise, any other activity of a preparatory or auxiliary character;
 
@@ -237,11 +217,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \1. Income derived by a resident of a Contracting State from immovable property (including income from agriculture or forestry) situated in the other Contracting State may be taxed in that other State.
 
-\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of [S.L. 123.192 (THE GOVERNMENT OF THE REPUBLIC OF KOSOVO)
-
-general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources; ships and aircraft shall not be regarded as immovable property.
-
-*8*
+\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources; ships and aircraft shall not be regarded as immovable property.
 
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
@@ -257,11 +233,11 @@ general law respecting landed property apply, usufruct of immovable property and
 
 \3. Where, in accordance with paragraph 2, a Contracting State adjusts the profits that are attributable to a permanent establishment of an enterprise of one of the Contracting States and taxes accordingly profits of the enterprise that have been charged to tax in the other State, the other State shall, to the extent necessary to eliminate double taxation on these profits, make an appropriate adjustment to the amount of the tax charged on those profits. In determining such adjustment, the competent authorities of the Contracting States shall if necessary consult each other.
 
-\4. Where profits include items of income which are dealt with separately in other Articles of this Convention, then the provisions of those Articles shall not be affected by the provisions of this Article. (THE GOVERNMENT OF THE REPUBLIC OF KOSOVO) [S.L.123.192 ARTICLE 8
+\4. Where profits include items of income which are dealt with separately in other Articles of this Convention, then the provisions of those Articles shall not be affected by the provisions of this Article.
+
+**ARTICLE 8**
 
 **International Shipping And Air Transport**
-
-*9*
 
 \1. Profits of an enterprise of a Contracting State from the operation of ships or aircraft in international traffic shall be taxable only in that State.
 
@@ -285,11 +261,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 **Dividends**
 
-\1. Dividends paid by a company which is a resident of a Contracting State to a resident of the other Contracting State may be [S.L. 123.192 (THE GOVERNMENT OF THE REPUBLIC OF KOSOVO)
-
-taxed in that other State.
-
-*10*
+\1. Dividends paid by a company which is a resident of a Contracting State to a resident of the other Contracting State may be taxed in that other State.
 
 \2. However, such dividends may also be taxed in the Contracting State of which the company paying the dividends is a resident and according to the laws of that State, but
 
@@ -307,9 +279,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
-*11*
-
-(THE GOVERNMENT OF THE REPUBLIC OF KOSOVO) [S.L.123.192 5. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment situated in that other State, nor subject the company's undistributed profits to a tax on the company's undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
+\5. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment situated in that other State, nor subject the company's undistributed profits to a tax on the company's undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
 
 **ARTICLE 11**
 
@@ -333,11 +303,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \4. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor's profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
-\5. The provisions of paragraphs 1. 2 and 3 shall not apply if [S.L. 123.192 (THE GOVERNMENT OF THE REPUBLIC OF KOSOVO)
-
-the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises through a permanent establishment situated therein and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
-
-*12*
+\5. The provisions of paragraphs 1. 2 and 3 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises through a permanent establishment situated therein and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
 ## 6.
 
@@ -357,11 +323,9 @@ Where, by reason of a special relationship between the payer and the beneficial 
 
 \3. The provisions of paragraph 1 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise through a permanent establishment situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
-\4. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other (THE GOVERNMENT OF THE REPUBLIC OF KOSOVO) [S.L.123.192 person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
+\4. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
 **ARTICLE 13**
-
-*13*
 
 **Capital Gains**
 
@@ -379,11 +343,9 @@ Where, by reason of a special relationship between the payer and the beneficial 
 
 **Income From Employment**
 
-\1. Subject to the provisions of Articles 15, 17 and 18, salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State. [S.L. 123.192 (THE GOVERNMENT OF THE REPUBLIC OF KOSOVO)
+\1. Subject to the provisions of Articles 15, 17 and 18, salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
 
 \2. Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in the other Contracting State shall be taxable only in the first-mentioned State if:
-
-*14*
 
 (a) the recipient is present in the other State for a period or periods not exceeding in the aggregate 183 days in any twelve-month period commencing or ending in the fiscal year concerned, and
 
@@ -407,11 +369,9 @@ Where, by reason of a special relationship between the payer and the beneficial 
 
 \1. Notwithstanding the provisions of Article 14 income derived by a resident of a Contracting State as an entertainer, such as a theatre, motion picture, radio or television artiste, or a musician, or as a sportsperson from that resident’s personal activities as such exercised in the other Contracting State, may be taxed in that other State.
 
-\2. Where income in respect of personal activities exercised by an entertainer or a sportsperson acting as such accrues not to the entertainer or sportsperson but to another person, that income may, notwithstanding the provisions of Article 14 be taxed in the (THE GOVERNMENT OF THE REPUBLIC OF KOSOVO) [S.L.123.192 Contracting State in which the activities of the entertainer or sportsperson are exercised.
+\2. Where income in respect of personal activities exercised by an entertainer or a sportsperson acting as such accrues not to the entertainer or sportsperson but to another person, that income may, notwithstanding the provisions of Article 14 be taxed in the Contracting State in which the activities of the entertainer or sportsperson are exercised.
 
 **ARTICLE 17**
-
-*15*
 
 **Pensions**
 
@@ -439,11 +399,7 @@ Subject to the provisions of paragraph 2 of Article 18 pensions and other simila
 
 **Students**
 
-Payments of grants or scholarships which a student or business apprentice who is or was immediately before visiting a Contracting State a resident of the other Contracting State and who is present in the first-mentioned State solely for the purpose of his education or training receives for the purpose of his maintenance, education or training shall [S.L. 123.192 (THE GOVERNMENT OF THE REPUBLIC OF KOSOVO)
-
-not be taxed in that State, provided that such payments arise from sources outside that State.
-
-*16*
+Payments of grants or scholarships which a student or business apprentice who is or was immediately before visiting a Contracting State a resident of the other Contracting State and who is present in the first-mentioned State solely for the purpose of his education or training receives for the purpose of his maintenance, education or training shall not be taxed in that State, provided that such payments arise from sources outside that State.
 
 **ARTICLE 20**
 
@@ -473,11 +429,9 @@ Such deduction in either case shall not, however, exceed that part of the Kosovo
 
 **Non-discrimination**
 
-\1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement (THE GOVERNMENT OF THE REPUBLIC OF KOSOVO) [S.L.123.192 connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected. This provision shall, notwithstanding the provisions of Article 1, also apply to persons who are not residents of one or both of the Contracting States.
+\1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected. This provision shall, notwithstanding the provisions of Article 1, also apply to persons who are not residents of one or both of the Contracting States.
 
 \2. Stateless persons who are residents of a Contracting State shall not be subjected in either Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of the State concerned in the same circumstances, in particular with respect to residence, are or may be subjected.
-
-*17*
 
 \3. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
 
@@ -485,11 +439,9 @@ Such deduction in either case shall not, however, exceed that part of the Kosovo
 
 \5. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
 
-\6. The provisions of this Article shall, notwithstanding the provisions of Article 2, apply to taxes of every kind and description. [S.L. 123.192 (THE GOVERNMENT OF THE REPUBLIC OF KOSOVO)
+\6. The provisions of this Article shall, notwithstanding the provisions of Article 2, apply to taxes of every kind and description.
 
 **ARTICLE 23**
-
-*18*
 
 **Mutual Agreement Procedure**
 
@@ -507,11 +459,9 @@ Such deduction in either case shall not, however, exceed that part of the Kosovo
 
 (b) the competent authorities are unable to reach an agreement to resolve that case pursuant to paragraph 2 within two years from the date when all the information required by the competent authorities in order to address the case has been provided to both competent authorities,
 
-any unresolved issues arising from the case shall be submitted to arbitration if the person so requests in writing. These unresolved issues shall not, however, be submitted to arbitration if a decision on these issues has already been rendered by a court or administrative tribunal (THE GOVERNMENT OF THE REPUBLIC OF KOSOVO) [S.L.123.192 of either State. Unless a person directly affected by the case does not accept the mutual agreement that implements the arbitration decision, that decision shall be binding on both Contracting States and shall be implemented notwithstanding any time limits in the domestic laws of these States. The competent authorities of the Contracting States shall by mutual agreement settle the mode of application of this paragraph.
+any unresolved issues arising from the case shall be submitted to arbitration if the person so requests in writing. These unresolved issues shall not, however, be submitted to arbitration if a decision on these issues has already been rendered by a court or administrative tribunal of either State. Unless a person directly affected by the case does not accept the mutual agreement that implements the arbitration decision, that decision shall be binding on both Contracting States and shall be implemented notwithstanding any time limits in the domestic laws of these States. The competent authorities of the Contracting States shall by mutual agreement settle the mode of application of this paragraph.
 
 **ARTICLE 24**
-
-*19*
 
 **Exchange Of Information**
 
@@ -527,11 +477,7 @@ any unresolved issues arising from the case shall be submitted to arbitration if
 
 (c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public policy (ordre public).
 
-\4. If information is requested by a Contracting State in [S.L. 123.192 (THE GOVERNMENT OF THE REPUBLIC OF KOSOVO)
-
-accordance with this Article, the other Contracting State shall use its information gathering measures to obtain the requested information, even though that other State may not need such information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall such limitations be construed to permit a Contracting State to decline to supply information solely because it has no domestic interest in such information.
-
-*20*
+\4. If information is requested by a Contracting State in accordance with this Article, the other Contracting State shall use its information gathering measures to obtain the requested information, even though that other State may not need such information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall such limitations be construed to permit a Contracting State to decline to supply information solely because it has no domestic interest in such information.
 
 \5. In no case shall the provisions of paragraph 3 of this Article be construed to permit a Contracting State to decline to supply information solely because the information is held by a bank, other financial institution, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person.
 
@@ -547,11 +493,9 @@ Nothing in this Convention shall affect the fiscal privileges of members of dipl
 
 \1. Notwithstanding the other provisions of this Convention, a benefit under this Convention shall not be granted in respect of an item of income or capital if it is reasonable to conclude, having regard to all relevant facts and circumstances, that obtaining that benefit was one of the principal purposes of any arrangement or transaction that results directly or indirectly in that benefit, unless it is established that granting that benefit in these circumstances would be in accordance with the object and purpose of the relevant provisions of this Convention.
 
-\2. Where a benefit under this Convention is denied to a person under provisions of this Convention that deny all or part of the benefits that would otherwise be provided under the Convention where the principal purpose or one of the principal purposes of any arrangement or transaction, or of any person concerned with an arrangement or transaction, was to obtain those benefits, the competent authority of the Contracting State that would otherwise have granted this benefit shall nevertheless treat that person as being entitled to this benefit, or to different benefits with respect to a specific item of income or capital, if such competent authority, upon request from that person and after consideration of the relevant facts and circumstances, determines that such benefits would have been granted to that person in the absence of the transaction or arrangement. The competent authority of the Contracting State to which a request has been made under this (THE GOVERNMENT OF THE REPUBLIC OF KOSOVO) [S.L.123.192 paragraph by a resident of the other Contracting State shall consult with the competent authority of that other Contracting State before rejecting the request.
+\2. Where a benefit under this Convention is denied to a person under provisions of this Convention that deny all or part of the benefits that would otherwise be provided under the Convention where the principal purpose or one of the principal purposes of any arrangement or transaction, or of any person concerned with an arrangement or transaction, was to obtain those benefits, the competent authority of the Contracting State that would otherwise have granted this benefit shall nevertheless treat that person as being entitled to this benefit, or to different benefits with respect to a specific item of income or capital, if such competent authority, upon request from that person and after consideration of the relevant facts and circumstances, determines that such benefits would have been granted to that person in the absence of the transaction or arrangement. The competent authority of the Contracting State to which a request has been made under this paragraph by a resident of the other Contracting State shall consult with the competent authority of that other Contracting State before rejecting the request.
 
 **ARTICLE 27**
-
-*21*
 
 **Entry Into Force**
 
@@ -574,10 +518,6 @@ Nothing in this Convention shall affect the fiscal privileges of members of dipl
 (a) with regard to taxes withheld at source, in respect of amounts paid or credited after the end of the calendar year in which such notice is given; and
 
 (b) with regard to other taxes in respect of fiscal years beginning after the end of the calendar year in which such notice is given.
-
-*22*
-
-[S.L. 123.192 (THE GOVERNMENT OF THE REPUBLIC OF KOSOVO)
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto by their respective Governments, have signed this Convention.
 

@@ -1,6 +1,6 @@
 ---
 title: "Committee for Judges and Magistrates (Election of Members) Regulations"
-identifier: "S.L. const.6"
+identifier: "S.L. const.06"
 eli: "https://legislation.mt/eli/sl/const.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,9 @@ version: "https://legislation.mt/eli/sl/const.6/20171127/eng"
 retrieved: 2026-10-12
 ---
 
-# Committee for Judges and Magistrates (Election of Members) Regulations (S.L. const.6)
+# Committee for Judges and Magistrates (Election of Members) Regulations (S.L. const.06)
 
-*1*
-
-(ELECTION OF MEMBERS) [S.L.Const.06 SUBSIDIARY LEGISLATION CONST.06
+**SUBSIDIARY LEGISLATION CONST.06**
 
 **COMMITTEE FOR JUDGES AND MAGISTRATES**
 
@@ -52,10 +50,6 @@ The election of two judges of the Superior Courts shall be conducted as follows:
 ## 4. Where only two candidates are nominated.
 
 Where at the start only two candidates are nominated, these shall deemed to have been elected members of the Committee for Judges and Magistrates.
-
-*2*
-
-[S.L.Const.06 (ELECTION OF MEMBERS)
 
 ## 5. Chief Justice shall preside over meeting etc.
 

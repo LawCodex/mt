@@ -1,6 +1,6 @@
 ---
 title: "Rent Regulation Board (Mediation) Regulations"
-identifier: "S.L. 69.3"
+identifier: "S.L. 69.03"
 eli: "https://legislation.mt/eli/sl/69.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/69.3/20210528/eng"
 retrieved: 2026-10-12
 ---
 
-# Rent Regulation Board (Mediation) Regulations (S.L. 69.3)
+# Rent Regulation Board (Mediation) Regulations (S.L. 69.03)
 
 SUBSIDIARY LEGISLATION 69.03
 

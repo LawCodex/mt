@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws in terms of the General Regulations for University Undergraduate Awards, 2004 for the Higher Diploma of Legal Procurator - H.Dip. L.P. - under the auspices of the Faculty of Laws (S.L. 327.604)
 
-*1*
-
-L.P. -UNDER THE AUSPICES OF THE FACULTY OF LAWS [S.L. 327.604
-
 **SUBSIDIARY LEGISLATION 327.604**
 
 **BYE-LAWS IN TERMS OF THE GENERAL**
@@ -59,11 +55,7 @@ These bye-laws shall apply to courses commencing in October 2018 or later.
 
 (a) two passes at Grade C or better at Advanced Matriculation Level or equivalent in English and Maltese, and three passes at Intermediate Matriculation Level or equivalent, one of which at grade C or better, in subjects chosen as follows: one subject from Group 2, one subject from Group 3, and another subject (except English and Maltese); or
 
-(b) for entry in October 2020 or later, a degree at MQF level 6 in any area of study awarded by the University of Malta or any other higher education institution recognized by Senate, and a pass at L.P. -UNDER THE AUSPICES OF THE FACULTY OF [S.L. 327.604 LAWS
-
-Grade C or better at Advanced Matriculation level or equivalent in Maltese, provided that if the degree is in Maltese, a pass at Grade C or better at Advanced Matriculation Level or equivalent in English is also required.
-
-*2*
+(b) for entry in October 2020 or later, a degree at MQF level 6 in any area of study awarded by the University of Malta or any other higher education institution recognized by Senate, and a pass at Grade C or better at Advanced Matriculation level or equivalent in Maltese, provided that if the degree is in Maltese, a pass at Grade C or better at Advanced Matriculation Level or equivalent in English is also required.
 
 (2) For entry in October 2020 or later, applicants considered as “Adult Learners” (mature applicants) in terms of paragraph (c) of regulation 6 of the Admissions Regulations, apart from being in possession of those qualifications or experience that would satisfy the Faculty Admissions Committee that they have reached the academic standard required to follow the Course with profit, shall also be in possession of a pass at Grade C or better at Advanced Matriculation Level in English and in Maltese or equivalent. Such applicants shall also be required to submit with their application a letter written in English giving their motivation for applying for the Course together with a copy of their Curriculum Vitae (C.V.).
 

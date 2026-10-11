@@ -1,6 +1,6 @@
 ---
 title: "Rules for Honours, Awards and Decorations"
-identifier: "S.L. 251.1"
+identifier: "S.L. 251.01"
 eli: "https://legislation.mt/eli/sl/251.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/251.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Rules for Honours, Awards and Decorations (S.L. 251.1)
+# Rules for Honours, Awards and Decorations (S.L. 251.01)
 
 **SUBSIDIARY LEGISLATION 251.01**
 

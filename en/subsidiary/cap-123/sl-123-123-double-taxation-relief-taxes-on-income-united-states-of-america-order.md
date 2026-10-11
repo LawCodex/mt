@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (United States of America) Order (S.L. 123.123)
 
-*1*
-
-WITH THE UNITED STATES OF AMERICA [S.L.123.123
-
 **SUBSIDIARY LEGISLATION 123.123**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -44,8 +40,6 @@ It is hereby declared:
 (b) that it is expedient that those arrangements should have effect;
 
 (c) that the Convention has entered into force on the 23rd November, 2010.
-
-2 [S.L.123.123 WITH THE UNITED STATES OF AMERICA
 
 ## SCHEDULE
 
@@ -91,9 +85,7 @@ Except to the extent provided in paragraph 5, this Convention shall not affect t
 
 The provisions of paragraph 4 shall not affect:
 
-a) the benefits conferred by a Contracting State under paragraph 2 of Article 9 (Associated Enterprises), paragraphs 1 b), 2, and 5 of Article WITH THE UNITED STATES OF AMERICA [S.L.123.123 3
-
-17 (Pensions, Social Security, Annuities, Alimony, and Child Support), and Articles 18 (Pension Funds), 23 (Relief from Double Taxation), 24 (Non-Discrimination), and 25 (Mutual Agreement Procedure); and
+a) the benefits conferred by a Contracting State under paragraph 2 of Article 9 (Associated Enterprises), paragraphs 1 b), 2, and 5 of Article 17 (Pensions, Social Security, Annuities, Alimony, and Child Support), and Articles 18 (Pension Funds), 23 (Relief from Double Taxation), 24 (Non-Discrimination), and 25 (Mutual Agreement Procedure); and
 
 b) the benefits conferred by a Contracting State under Articles 19 (Government Service), 20 (Students and Trainees), and 27 (Members of Diplomatic Missions and Consular Posts), upon individuals who are neither citizens of, nor have been admitted for permanent residence in, that State.
 
@@ -127,9 +119,7 @@ b) the term "company" means any body corporate or any entity that is treated as 
 
 c) the terms "enterprise of a Contracting State" and "enterprise of the other Contracting State" mean respectively an enterprise carried on by a resident of a Contracting State, and an enterprise carried on by a resident of the other Contracting State; the terms also include an enterprise carried on by a resident of a Contracting State through an entity that is treated as fiscally transparent in that Contracting State; d) the term "enterprise" applies to the carrying on of any business;
 
-e) the term "business" includes the performance of professional services 4 [S.L.123.123 WITH THE UNITED STATES OF AMERICA
-
-and of other activities of an independent character;
+e) the term "business" includes the performance of professional services and of other activities of an independent character;
 
 f) the term "international traffic" means any transport by a ship or aircraft, except when such transport is solely between places in a Contracting State;
 
@@ -157,8 +147,6 @@ A) to administer or provide pension or retirement benefits; or B) to cam income 
 
 \2. As regards the application of the Convention at any time by a Contracting State any term not defined therein shall, unless the context otherwise requires, or the competent authorities agree to a common meaning pursuant to the provisions of Article 25 (Mutual Agreement Procedure), have the meaning which it has at that time under the law of that State for the purposes of the taxes of which the Convention applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State.
 
-WITH THE UNITED STATES OF AMERICA [S.L.123.123 5
-
 **Article 4**
 
 **RESIDENT**
@@ -182,8 +170,6 @@ c) if he has an habitual abode in both States or in neither of them, he Shall be
 \4. Where by reason of the provisions of paragraph 1 a company is a resident of both Contracting States, then if it is incorporated under the laws of one of the Contracting States or a political subdivision thereof, but not under the laws of the other Contracting State or a political subdivision thereof, such company shall be deemed to be a resident of the first-mentioned Contracting State. In all other cases involving dual resident companies, the competent authorities of the Contracting States shall endeavour to determine the mode of application of the Convention to such company. If the competent authorities do not reach such an agreement, that company will not be treated as a resident of either Contracting State for purposes of its claiming any benefits provided by the Convention.
 
 \5. Where by reason of the provisions of paragraphs 1 and 2 of this Article a person other than an individual or a company is a resident of both Contracting States, the competent Authorities of the Contracting States shall by mutual agreement endeavour to determine the mode of application of this Convention to that person.
-
-6 [S.L.123.123 WITH THE UNITED STATES OF AMERICA
 
 **Article 5**
 
@@ -223,9 +209,7 @@ e) the maintenance of a fixed place of business solely for the purpose of carryi
 
 ## 6.
 
-An enterprise shall not be deemed to have a permanent establishment in a Contracting State merely because it carries on business in that State through a WITH THE UNITED STATES OF AMERICA [S.L.123.123 7
-
-broker, general commission agent, or any other agent of an independent status, provided that such persons are acting in the ordinary course of their business as independent agents.
+An enterprise shall not be deemed to have a permanent establishment in a Contracting State merely because it carries on business in that State through a broker, general commission agent, or any other agent of an independent status, provided that such persons are acting in the ordinary course of their business as independent agents.
 
 ## 7.
 
@@ -252,8 +236,6 @@ The fact that a company that is a resident of a Contracting State controls or is
 \1. The profits of all enterprise of a Contracting State shall be taxable only in that State unless the enterprise carries on business in the other Contracting State through a permanent establishment situated there in. If the enterprise carries on business as aforesaid, the profits of the enterprise may be taxed in the other State but only so much of them as are attributable to that permanent establishment.
 
 \2. Subject to the provisions of paragraph 3, where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits that it might be expected to make if it were a distinct and independent enterprise engaged in the same or similar activities under the same or similar conditions. For this purpose, the profits to be attributed to the permanent establishment shall include only the profits derived from the assets used, risks assumed and activities performed by the permanent establishment.
-
-8 [S.L.123.123 WITH THE UNITED STATES OF AMERICA
 
 \3. In determining the profits of a permanent establishment, there shall be allowed as deductions expenses that are incurred for the purposes of the permanent establishment, including executive and general administrative expenses so incurred, whether in the State in which the permanent establishment is situated or elsewhere.
 
@@ -293,8 +275,6 @@ Profits derived by an enterprise from the inland transport of property or passen
 
 \1. Where:
 
-WITH THE UNITED STATES OF AMERICA [S.L.123.123 9
-
 a) an enterprise of a Contracting State participates direcl1y or indirectly in the management, control or capital of an enterprise of the other Contracting State; or
 
 b) the same persons participate directly or indirectly in the management, control, or capital of an enterprise of a Contrac1ing State and an enterprise of the other Contracting State,
@@ -323,8 +303,6 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 a) the beneficial owner of the dividends is a pension fund that is a resident of the other Contracting State; and
 
-10 [S.L.123.123 WITH THE UNITED STATES OF AMERICA
-
 b) such dividends are not derived from the carrying on of a trade or business by the pension fund or through an associated enterprise.
 
 \4. a) Clause i) of subparagraph a) of paragraph 2 shall not apply in the case of dividends paid by a U.S. Regulated Investment Company (RIC) or a U.S. Real Estate Investment Trust (REIT). In the case of dividends paid by a RIC, clause ii) of subparagraph a) of paragraph 2 and paragraph 3 shall apply. In the case of dividends paid by a REIT, clause ii) of subparagraph a) of paragraph 2 and paragraph 3 shall apply only if:
@@ -348,8 +326,6 @@ A Contracting State may not impose any tax on dividends paid by a resident of th
 \8. a) A company that is a resident of one of the States and that has a permanent establishment in the other State or that is subject to tax in the other State on a net basis on its income that may be taxed in the other State under Article 6 (Income from Real (Immovable) Property) or under paragraph 1 of Article 13 (Gains) may be subject in that other State to a tax in addition to the tax allowable under the other provisions of this Convention.
 
 b) Such tax, however, may be imposed:
-
-WITH THE UNITED STATES OF AMERICA [S.L.123.123 11
 
 i) on only the portion of the business profits of the company attributable to the permanent establishment and the portion of the income referred to in subparagraph a) that is subject to tax under Article 6 or under paragraph 1 of Article 13 that, in the case of the United States, represents the dividend equivalent amount of such profits or income and, in the case of Malta, is an amount that is analogous to the dividend equivalent amount; and
 
@@ -377,9 +353,7 @@ b) interest that is an excess inclusion with respect to a residual interest in a
 
 ## 7.
 
-Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person. the amount of the 12 [S.L.123.123 WITH THE UNITED STATES OF AMERICA
-
-interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case the excess pan of the payments shall remain taxable according to the laws of each State, due regard being had to the other provisions of this Convention.
+Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person. the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case the excess pan of the payments shall remain taxable according to the laws of each State, due regard being had to the other provisions of this Convention.
 
 ## 8.
 
@@ -404,8 +378,6 @@ b) gain derived from the alienation of any property described in subparagraph a)
 \5. Royalties shall be deemed to arise in a Contracting State when they are in consideration for the use of, or the right to use, property, information or experience in that State.
 
 \6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right, or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of the Convention.
-
-WITH THE UNITED STATES OF AMERICA [S.L.123.123 13
 
 **Article 13**
 
@@ -439,8 +411,6 @@ ii) an interest in a partnership or trust to the extent that the assets of the p
 
 \1. Subject to the provisions of Articles 15 (Directors’ Fees), 17 (Pensions, Social Security, Annuities, Alimony, and Child Support) and 19 (Government Service), salaries, wages, and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
 
-14 [S.L.123.123 WITH THE UNITED STATES OF AMERICA
-
 \2. Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in the other Contracting State shall be taxable only in the first-mentioned State if:
 
 a) the recipient is present in the other State for a period or periods not exceeding in the aggregate 183 days in any twelve month period commencing or ending in the taxable year concerned;
@@ -473,9 +443,7 @@ Directors’ fees and other compensation derived by a resident of a Contracting 
 
 \1. a) Pensions and other similar remuneration beneficially owned by a resident of a Contracting State shall be taxable only in that State.
 
-b) Notwithstanding subparagraph a), the amount of any such pension or remuneration arising in a Contracting State that, when received, would WITH THE UNITED STATES OF AMERICA [S.L.123.123 15
-
-be exempt from taxation in that State if the beneficial owner were a resident thereof shall be exempt from taxation in the Contracting State of which the beneficial owner is a resident.
+b) Notwithstanding subparagraph a), the amount of any such pension or remuneration arising in a Contracting State that, when received, would be exempt from taxation in that State if the beneficial owner were a resident thereof shall be exempt from taxation in the Contracting State of which the beneficial owner is a resident.
 
 \2. Notwithstanding the provisions of paragraph 1, payments made by a Contracting State under provisions of the social security or similar legislation of that State to a resident of the other Contracting State or to a citizen of the United States shall be taxable only in the first-mentioned State.
 
@@ -505,9 +473,7 @@ i) is a national of that State; or
 
 ii) did not become a resident of that State solely for the purpose of rendering the services.
 
-\2. Notwithstanding the provisions of paragraph 1 of Article 17 (Pensions, 16 [S.L.123.123 WITH THE UNITED STATES OF AMERICA
-
-Social Security, Annuities, Alimony, and Child Support):
+\2. Notwithstanding the provisions of paragraph 1 of Article 17 (Pensions, Social Security, Annuities, Alimony, and Child Support):
 
 a) any pension and other similar remuneration paid by, or out of funds created by, a Contracting State or a political subdivision or a local authority thereof to an individual in respect of services rendered to that State or subdivision or authority (other than a payment to which paragraph 2 of Article 17 applies) shall, subject to the provisions of subparagraph b), be taxable only in that State;
 
@@ -535,9 +501,7 @@ b) who is temporarily in a Contracting State as an employee of, or under contrac
 
 \1. Items of income beneficially owned by a resident of a Contracting State, wherever arising, not dealt with in the foregoing Articles of this Convention shall be taxable in that State.
 
-\2. The provisions of paragraph 1 shall not apply to income, other than income from real (immovable) property as defined in paragraph 2 of Article 6 (Income from WITH THE UNITED STATES OF AMERICA [S.L.123.123 17
-
-Real (Immovable) Property), if the beneficial owner of the income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein and the income is attributable to such permanent establishment. In such case the provisions of Article 7 (Business Profits) shall apply.
+\2. The provisions of paragraph 1 shall not apply to income, other than income from real (immovable) property as defined in paragraph 2 of Article 6 (Income from Real (Immovable) Property), if the beneficial owner of the income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein and the income is attributable to such permanent establishment. In such case the provisions of Article 7 (Business Profits) shall apply.
 
 \3. Notwithstanding the provisions of paragraphs 1 and 2, items of income of a resident of one of the Contracting States not dealt with in the foregoing Articles of this Convention from sources in the other Contracting State may also be taxed in the other Contracting State, but the tax so charged shall not exceed 10 percent of the amount of such items.
 
@@ -573,10 +537,6 @@ B) the company satisfies the requirements of clause ii) of subparagraph f) of th
 
 d) an entity described in subparagraph b) of paragraph 2 of Article 4 (Resident) that is generally exempt from income taxation in its Contracting State of residence;
 
-*18*
-
-[S.L.123.123 WITH THE UNITED STATES OF AMERICA
-
 e) a pension fund, provided that more than 75 percent of the beneficiaries, members or participants of the pension fund are individuals who are residents of either Contracting State; or
 
 f) a person other than an individual, if:
@@ -601,9 +561,7 @@ i) the resident is engaged in the active conduct of a trade or business in the f
 
 ii) the resident satisfies the requirements of clause ii) of subparagraph f) of paragraph 2.
 
-b) If a resident of a Contracting State derives an item of income from a trade or business activity conducted by that resident in the other Contracting State, or derives an item of income arising in the other Contracting State from a related person, the conditions described in clause i) of subparagraph a) shall be considered to be satisfied with WITH THE UNITED STATES OF AMERICA [S.L.123.123 19
-
-respect to such item only if the trade or business activity carried on by the resident in the first-mentioned Contracting State is substantial in relation to the trade or business activity carried on by the resident or such person in the other Contracting State. A trade or business will be deemed substantial if, for each of the three preceding taxable years, the asset value, the gross income, and the payroll expense that are related to the trade or business in the first-mentioned Contracting State each equals at least 10 percent of the resident's (and any related parties') proportionate share of the asset value, gross income and payroll expense, respectively, related to the activity that generated the income in the other Contracting State, and the average of the three ratios in each such year exceeds 15 percent.
+b) If a resident of a Contracting State derives an item of income from a trade or business activity conducted by that resident in the other Contracting State, or derives an item of income arising in the other Contracting State from a related person, the conditions described in clause i) of subparagraph a) shall be considered to be satisfied with respect to such item only if the trade or business activity carried on by the resident in the first-mentioned Contracting State is substantial in relation to the trade or business activity carried on by the resident or such person in the other Contracting State. A trade or business will be deemed substantial if, for each of the three preceding taxable years, the asset value, the gross income, and the payroll expense that are related to the trade or business in the first-mentioned Contracting State each equals at least 10 percent of the resident's (and any related parties') proportionate share of the asset value, gross income and payroll expense, respectively, related to the activity that generated the income in the other Contracting State, and the average of the three ratios in each such year exceeds 15 percent.
 
 c) For purposes of applying this paragraph, activities conducted by persons connected to a person shall be deemed to be conducted by such person. A person shall be connected to another if one possesses at least 50 percent of the beneficial interest in the other (or, in the case of a company, at least 50 percent of the aggregate vote and value of the company's shares or of the beneficial equity interest in the company) or another person possesses at least 50 percent of the beneficial interest (or, in the case of a company, at least 50 percent of the aggregate vote and value of the company's shares or of the beneficial equity interest in the company) in each person. In any case, a person shall be considered to be connected to another if, based on all the relevant facts and circumstances, one has control of the other or both are under the control of the same person or persons.
 
@@ -612,10 +570,6 @@ c) For purposes of applying this paragraph, activities conducted by persons conn
 \6. A person that is a resident of one of the Contracting States, who is not entitled to some or all of the benefits of this Convention because of the foregoing paragraphs, may, nevertheless, be granted benefits of this Convention if the competent authority of the Contracting State in which the income in question arises so determines.
 
 \7. Where under any provision of this Convention income or gains arising in one of the Contracting States are relieved from tax in that Contracting State and, under the law in force in the other Contracting State, a person, in respect of the said income or gains, is subject to tax by reference to the amount thereof which is remitted to or received in that other Contracting State and not by reference to the full amount thereof, Then the relief to be allowed under this Convention in the first-mentioned Contracting State shall apply only to so much of the income or gains as is taxed in the other Contracting State.
-
-*20*
-
-[S.L.123.123 WITH THE UNITED STATES OF AMERICA
 
 *\8.*
 
@@ -649,8 +603,6 @@ A) would be entitled to all the benefits of a comprehensive convention for the a
 
 ii) is a resident of a Contracting State that is a qualified person by reason of subparagraph a), subparagraph b), clause i) of subparagraph c), subparagraph d), or subparagraph e) of paragraph 2 of this Article;
 
-WITH THE UNITED STATES OF AMERICA [S.L.123.123 21
-
 e) With respect to dividends, interest or royalties arising in Malta and beneficially owned by a company that is a resident of the United States, a company that is a resident of a member state of the European Union will be treated as satisfying the requirements of clause i) B) of subparagraph d) for purposes of determining whether such United States resident is entitled to benefits under this paragraph if a payment of dividends, interest or royalties arising in Malta and paid directly to such resident of a member state of the European Union would have been exempt from tax pursuant to any directive of the European Union, notwithstanding that the income tax convention between Malta and that other member state of the European Union would provide for a higher rate of tax with respect to such payment than the rate of tax applicable to such United States company under Article 10 (Dividends), 11 (Interest), or 12 (Royalties) of this Convention.
 
 **Article 23**
@@ -675,8 +627,6 @@ b) where a Maltese company owns at least 10 percent of the voting stock of a com
 
 \4. Where a United States citizen is a resident of Malta:
 
-22 [S.L.123.123 WITH THE UNITED STATES OF AMERICA
-
 a) with respect to items of income that under the provisions of this Convention are exempt from United States tax or that are subject to a reduced rate of United States tax when derived by a resident of Malta who is not a United States citizen, Malta shall allow as a credit against Malta tax, only the tax paid, if any, that the United States may impose under the provisions of this Convention, other than taxes that may be imposed solely by reason of citizenship under the saving clause of paragraph 4 of Article 1 (General Scope);
 
 b) for purposes of applying paragraph 1 to compute United States tax on those items of income referred to in subparagraph a), the United States shall allow as a credit against United States tax the income tax paid to Malta after the credit referred to in subparagraph a); the credit so allowed shall not reduce the portion of the United States tax that is creditable against the Malta tax in accordance with subparagraph a); and
@@ -695,9 +645,7 @@ c) for the exclusive purpose of relieving double taxation in the United States u
 
 \4. Except where the provisions of paragraph 1 of Article 9 (Associated Enterprises), paragraph 7 of Article 11 (Interest), or paragraph 6 of Article 12 (Royalties) apply, interest, royalties, and other disbursements paid by a resident of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of the first-mentioned resident, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State. Similarly, any debts of a resident of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable capital of the first-mentioned resident, be deductible under the same conditions as if they had been contracted to a resident of the first-mentioned State.
 
-\5. Enterprises of a Contracting State, the capital of which is wholly or partly WITH THE UNITED STATES OF AMERICA [S.L.123.123 23
-
-owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith that is more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
+\5. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith that is more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
 
 \6. Nothing in this Article shall be construed as preventing either Contracting State from imposing a tax as described in paragraph 8 of Article 10 (Dividends).
 
@@ -733,8 +681,6 @@ d) to advance pricing arrangements; and
 
 e) to the application of the provisions of domestic law regarding penalties, fines, and interest in a manner consistent with the purposes of the Convention.
 
-24 [S.L.123.123 WITH THE UNITED STATES OF AMERICA
-
 \4. The competent authorities also may agree to increases in any specific dollar amounts referred to in the Convention to reflect economic or monetary developments.
 
 \5. The competent authorities of the Contracting States may communicate with each other directly, including through a joint commission, for the purpose of reaching an agreement in the sense of the preceding paragraphs.
@@ -757,9 +703,7 @@ c) to supply information that would disclose any trade, business, industrial, co
 
 \4. If information is requested by a Contracting State in accordance with this Article, the other Contracting State shall use its information gathering measures to obtain the requested information, even though that other State may not need such information for its own purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall such limitation be construed to permit a Contracting State to decline to supply information because it has no domestic interest in such information.
 
-\5. In no case shall the provisions of paragraph 3 be construed to permit a Contracting State to decline to supply information requested by the other WITH THE UNITED STATES OF AMERICA [S.L.123.123 25
-
-Contracting State because the information is held by a bank, other financial institution, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person.
+\5. In no case shall the provisions of paragraph 3 be construed to permit a Contracting State to decline to supply information requested by the other Contracting State because the information is held by a bank, other financial institution, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person.
 
 \6. If specifically requested by the competent authority of a Contracting State, the competent authority of the other Contracting State shall provide information under this Article in the form of depositions of witnesses and authenticated copies of unedited original documents (including books, papers, statements, records, accounts, and writings).
 
@@ -797,8 +741,6 @@ This Convention shall remain in force until terminated by a Contracting State. E
 
 \1) in respect of taxes withheld at source, for amounts paid or credited after the expiration of the 6 month period beginning on the date on which notice of termination was given; and
 
-26 [S.L.123.123 WITH THE UNITED STATES OF AMERICA
-
 \2) in respect of other taxes, for taxable periods beginning on or after the expiration of the 6 month period beginning on the date on which notice of termination was given.
 
 IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Convention.
@@ -810,8 +752,6 @@ Tonio Fenech Molly Bordonaro
 For the Government of For the Government of
 
 Malta the United States of America
-
-WITH THE UNITED STATES OF AMERICA [S.L.123.123 27
 
 **EMBASSY OF THE UNITED STATES OF AMERICA**
 
@@ -842,8 +782,6 @@ Ambassador of the United States of America
 His Excellency Tonio Fenech
 
 Minister of Finance, the Economy and Investment
-
-28 [S.L.123.123 WITH THE UNITED STATES OF AMERICA
 
 **The Republic of Malta**
 
@@ -880,8 +818,6 @@ H.E. Molly Bordonaro
 Ambassador of the United States of America
 
 Malta
-
-WITH THE UNITED STATES OF AMERICA [S.L.123.123 29
 
 **BARACK OBAMA**
 

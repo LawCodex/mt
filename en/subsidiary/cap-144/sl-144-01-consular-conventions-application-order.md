@@ -1,6 +1,6 @@
 ---
 title: "Consular Conventions (Application) Order"
-identifier: "S.L. 144.1"
+identifier: "S.L. 144.01"
 eli: "https://legislation.mt/eli/sl/144.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/144.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Consular Conventions (Application) Order (S.L. 144.1)
+# Consular Conventions (Application) Order (S.L. 144.01)
 
 **SUBSIDIARY LEGISLATION 144.01**
 

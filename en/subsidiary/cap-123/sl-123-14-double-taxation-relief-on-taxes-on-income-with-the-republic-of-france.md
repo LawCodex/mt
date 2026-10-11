@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Republic of France Order (S.L. 123.14)
 
-*1*
-
-WITH THE REPUBLIC OF FRANCE [S.L.123.14
-
 SUBSIDIARY LEGISLATION 123.14
 
 DOUBLE TAXATION RELIEF ON TAXES ON
@@ -46,8 +42,6 @@ It is hereby declared -
 (ii) the corporation tax; including any withholding tax, prepayment (precompte) or advanced payment with respect to the aforesaid taxes;
 
 (b) that it is expedient that those arrangements should have effect.
-
-2 [S.L.123.14 WITH THE REPUBLIC OF FRANCE
 
 ## SCHEDULE — AGREEMENT BETWEEN — THE GOVERNMENT OF THE REPUBLIC OF MALTA
 
@@ -95,8 +89,6 @@ This Agreement shall apply to persons who are residents of one or both of the Co
 
 \*as amended by Protocol reproduced in Legal Notice 329 of 2010.
 
-WITH THE REPUBLIC OF FRANCE [S.L.123.14 3
-
 (b) in the case of Malta:
 
 the income tax,
@@ -130,8 +122,6 @@ the income tax,
 (iii) all legal persons, partnerships and associations deriving their status as such from the law in force in a Contracting State;
 
 (h) the term "international traffic" means any transport by ship or aircraft operated by an enterprise which has its place of effective management in a Contracting State, except when the ship or aircraft is operated solely between places in the other Contracting State;
-
-4 [S.L.123.14 WITH THE REPUBLIC OF FRANCE
 
 (i) the term "competent authority" means -
 
@@ -167,8 +157,6 @@ the income tax,
 
 (2) The term "permanent establishment" shall include especially:
 
-WITH THE REPUBLIC OF FRANCE [S.L.123.14 5
-
 (a) a place of management;
 
 (b) a branch;
@@ -203,8 +191,6 @@ WITH THE REPUBLIC OF FRANCE [S.L.123.14 5
 
 (7) The fact that a company which is resident of a Contracting State controls or is controlled by a company which is a resident of the other Contracting State, or which carries on business in that other State (whether through a permanent establishment or otherwise), shall not itself constitute either company a permanent establishment of the other.
 
-6 [S.L.123.14 WITH THE REPUBLIC OF FRANCE
-
 ## CHAPTER III — Taxation of Income — ARTICLE 6
 
 **Income from Immovable Property**
@@ -229,9 +215,7 @@ WITH THE REPUBLIC OF FRANCE [S.L.123.14 5
 
 (3) In the determination of the profits of a permanent establishment, there shall be allowed as deductions expenses which are incurred for the purposes of the permanent establishment including executive and general administrative expenses so incurred, whether in the State in which the permanent establishment is situated or elsewhere.
 
-(4) Insofar as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an WITH THE REPUBLIC OF FRANCE [S.L.123.14 7
-
-apportionment of the total profits of the enterprise to its various parts, nothing in paragraph (2) shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary; the method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles embodied in this Article.
+(4) Insofar as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph (2) shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary; the method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles embodied in this Article.
 
 (5) No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
 
@@ -261,8 +245,6 @@ Where -
 
 and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for these conditions, have accrued to one of the enterprises, but by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
 
-8 [S.L.123.14 WITH THE REPUBLIC OF FRANCE
-
 **ARTICLE 10\***
 
 **Dividends**
@@ -288,8 +270,6 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 (5) (a) A resident of Malta who receives from a company which is a resident of France dividends which, if received by a resident of France, would entitle such resident to a fiscal credit (avoir fiscal), shall be entitled to a payment from the French Treasury equal to such credit (avoir fiscal) subject to the deduction of the tax provided for in sub-paragraph (a) of paragraph (2) of this Article.
 
 \*as amended by Protocol reproduced in Legal Notice 329 of 2010.
-
-WITH THE REPUBLIC OF FRANCE [S.L.123.14 9
 
 (b) The provisions of sub-paragraph (a) of this paragraph shall apply only to a resident of Malta, being either -
 
@@ -319,11 +299,9 @@ WITH THE REPUBLIC OF FRANCE [S.L.123.14 9
 
 (3) Notwithstanding the provisions of paragraph (2), any such interest as is mentioned in paragraph (1) shall be taxable only in the Contracting State of which the beneficiary is a resident, if such interest is payable on loans granted or guaranteed by that State or a statutory body thereof.
 
-(4) The term "interest" as used in this Article means income from debt-claims of 10 [S.L.123.14 WITH THE REPUBLIC OF FRANCE
+(4) The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage, and whether or not carrying a right to participate in the debtor’s profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
 \*as amended by Protocol reproduced in Legal Notice 329 of 2010.
-
-every kind, whether or not secured by mortgage, and whether or not carrying a right to participate in the debtor’s profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
 (5) The provisions of paragraphs (1) and (2) shall not apply if the recipient of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State professional services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such a case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
@@ -343,11 +321,9 @@ every kind, whether or not secured by mortgage, and whether or not carrying a ri
 
 (3) Notwithstanding the provisions of paragraph (2), payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work, including works recorded for broadcasting or television, shall be taxable only in the Contracting State of which the beneficiary is a resident, if such resident is the beneficial owner of the payments.
 
-(4) The term "royalties" as used in this Article means payments of any kind WITH THE REPUBLIC OF FRANCE [S.L.123.14 11
+(4) The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including cinematographic films and works recorded for broadcasting or television, any patent, trade mark, design or model, plan, secret formula or process or for information concerning industrial, commercial or scientific experience.
 
 \*as amended by Protocol reproduced in Legal Notice 329 of 2010.
-
-received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including cinematographic films and works recorded for broadcasting or television, any patent, trade mark, design or model, plan, secret formula or process or for information concerning industrial, commercial or scientific experience.
 
 (5) The provisions of paragraphs (1), (2) and (3) shall not apply if the recipient of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State professional services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such a case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
@@ -364,8 +340,6 @@ received as a consideration for the use of, or the right to use, any copyright o
 (1) Gains from the alienation of immovable property, as defined in paragraph (2) of Article 6 or from the alienation of shares or comparable interest in a real property cooperative or in a company the assets of which consist directly or through one or more other companies or legal persons principally of immovable property, may be taxed in the Contracting State in which such property is situated.
 
 (2) Gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or of movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing professional services, including such gains from the alienation of such a permanent establishment (alone or together with the whole enterprise) or of such a fixed base, may be taxed in the other State. However, gains from the alienation of movable property pertaining to the operation of ships and aircraft operated in international traffic shall be taxable only in the Contracting State in which the place of effective management of the enterprise is situated.
-
-12 [S.L.123.14 WITH THE REPUBLIC OF FRANCE
 
 (3) Gains from the alienation of shares forming part of a substantial interest in the capital of a company which is a resident of a Contracting State may be taxed in that State and according to the law of that State. For the purposes of this paragraph, a substantial interest shall be deemed to exist when the alienator, alone or together with associated or related persons, holds directly or indirectly shares which together give right to 25 per cent or more of the company profits.
 
@@ -395,9 +369,7 @@ received as a consideration for the use of, or the right to use, any copyright o
 
 (c) the remuneration is not borne by a permanent establishment or a fixed base which the employer has in the other State.
 
-(3) Notwithstanding the preceding provisions of this Article, remuneration in respect of an employment exercised aboard a ship or aircraft in international traffic may be taxed in the Contracting State in which the place of effective management of WITH THE REPUBLIC OF FRANCE [S.L.123.14 13
-
-the enterprise is situated.
+(3) Notwithstanding the preceding provisions of this Article, remuneration in respect of an employment exercised aboard a ship or aircraft in international traffic may be taxed in the Contracting State in which the place of effective management of the enterprise is situated.
 
 **ARTICLE 16**
 
@@ -428,8 +400,6 @@ Directors’ fees and similar payments derived by a resident of a Contracting St
 (3) As used in this Article -
 
 (a) the term "pensions and other similar remuneration" means periodic payments made after retirement in consideration of past employment, or by way of compensation for injuries received in connection with past employment;
-
-14 [S.L.123.14 WITH THE REPUBLIC OF FRANCE
 
 (b) the term "annuity" means a stated sum paid periodically during life, or during a specified or ascertained period of time, under an obligation to make the payments in return for adequate and full consideration in money or money’s worth.
 
@@ -463,9 +433,7 @@ Directors’ fees and similar payments derived by a resident of a Contracting St
 
 **Teachers and Researchers**
 
-(1) A teacher or researcher who is or was immediately before visiting a WITH THE REPUBLIC OF FRANCE [S.L.123.14 15
-
-Contracting State a resident of the other Contracting State, and who is present in the first-mentioned Contracting State for the purpose of teaching or engaging in research shall be exempt from tax in that State for a period not exceeding two years on remuneration in respect of such activities.
+(1) A teacher or researcher who is or was immediately before visiting a Contracting State a resident of the other Contracting State, and who is present in the first-mentioned Contracting State for the purpose of teaching or engaging in research shall be exempt from tax in that State for a period not exceeding two years on remuneration in respect of such activities.
 
 (2) This Article shall not apply to income from research if such research is undertaken not in the public interest but primarily for the private benefit of a specific person or persons.
 
@@ -487,11 +455,9 @@ Contracting State a resident of the other Contracting State, and who is present 
 
 (2) Capital represented by movable property forming part of the business property of a permanent establishment of an enterprise, or by movable property pertaining to a fixed base used for the performance of professional services may be taxed in the Contracting State in which the permanent establishment or fixed base is situated.
 
-(3) Ships and aircraft operated in international traffic and movable property pertaining to the operation of such ships and aircraft shall be taxable only in the 16 [S.L.123.14 WITH THE REPUBLIC OF FRANCE
+(3) Ships and aircraft operated in international traffic and movable property pertaining to the operation of such ships and aircraft shall be taxable only in the Contracting State in which the place of effective management of the enterprise is situated.
 
 \*as amended by Protocol reproduced in Legal Notice 329 of 2010.
-
-Contracting State in which the place of effective management of the enterprise is situated.
 
 (4) All other elements of capital of a resident of a Contracting State shall be taxable only in that State.
 
@@ -517,11 +483,9 @@ Contracting State in which the place of effective management of the enterprise i
 
 This interpretation shall apply by analogy to the term ''amount of French tax attributable to such capital'' as used in sub-paragraph (b).
 
-(d) (i) It is understood that the term ''amount of tax paid in Malta'' as used in WITH THE REPUBLIC OF FRANCE [S.L.123.14 17
+(d) (i) It is understood that the term ''amount of tax paid in Malta'' as used in sub-paragraphs (a) and (b) means the amount of Malta tax effectively and definitively borne in respect of the income or the items of capital in question, in accordance with the provisions of the Agreement, by the beneficiary or owner thereof who is a resident of France.
 
 \*as amended by Protocol reproduced in Legal Notice 329 of 2010.
-
-sub-paragraphs (a) and (b) means the amount of Malta tax effectively and definitively borne in respect of the income or the items of capital in question, in accordance with the provisions of the Agreement, by the beneficiary or owner thereof who is a resident of France.
 
 (ii) Notwithstanding the provisions of sub-paragraph (i), in the case of income referred to in Articles 10, 11 and 12, arising in Malta and paid to a beneficiary who is a resident of France by a person to whom the Agreement applies, Malta tax shall be deemed to have been paid as follows:
 
@@ -543,9 +507,7 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 **Non-Discrimination**
 
-(1) The nationals of the Contracting State, whether or not they are residents of one of the Contracting States, shall not be subjected in the Contracting State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances are or may be subjected. It is understood that an individual, legal person, partnership or association who is a resident of a Contracting State is not placed in the same circumstances as an individual, legal person, partnership or association who is not a resident of that State, even if, in the case of legal persons, partnerships or associations, those entities are considered, under sub- 18 [S.L.123.14 WITH THE REPUBLIC OF FRANCE
-
-paragraph (f) of paragraph (1) of Article 3, as nationals of the Contracting State of which they are residents.
+(1) The nationals of the Contracting State, whether or not they are residents of one of the Contracting States, shall not be subjected in the Contracting State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances are or may be subjected. It is understood that an individual, legal person, partnership or association who is a resident of a Contracting State is not placed in the same circumstances as an individual, legal person, partnership or association who is not a resident of that State, even if, in the case of legal persons, partnerships or associations, those entities are considered, under sub-paragraph (f) of paragraph (1) of Article 3, as nationals of the Contracting State of which they are residents.
 
 (2) The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities.
 
@@ -568,8 +530,6 @@ Similarly, any debts of an enterprise of a Contracting State to a resident of th
 (2) The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at an appropriate solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of double taxation not in accordance with the Agreement; any agreement reached shall be implemented notwithstanding any time limits in the national laws of the Contracting State.
 
 (3) The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties arising as to the application of the Agreement.
-
-WITH THE REPUBLIC OF FRANCE [S.L.123.14 19
 
 In particular, the competent authorities of the Contracting States may consult together to endeavour to agree -
 
@@ -601,11 +561,9 @@ a) to carry out administrative measures at variance with the laws and administra
 
 b) to supply information which is not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;
 
-c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information the disclosure of which would be contrary to public policy 20 [S.L.123.14 WITH THE REPUBLIC OF FRANCE
+c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information the disclosure of which would be contrary to public policy (ordre public).
 
 \*as substituted by Protocol reproduced in Legal Notice 329 of 2010.
-
-(ordre public).
 
 ### 4.
 
@@ -636,8 +594,6 @@ In no case shall the provisions of paragraph 3 be construed to permit a Contract
 (1) This Agreement may be extended, either in its entirety or with any necessary modifications, to the overseas territories of the French Republic which imposes taxes substantially similar in character to those to which the Agreement applies. Any such extension shall take effect from such date and subject to such modifications and conditions, including conditions as to termination, as may be specified and agreed between the Contracting States in notes to be exchanged through diplomatic channels or in any other manner in accordance with their constitutional procedures.
 
 (2) Unless otherwise agreed by both Contracting States, the termination of the Agreement by one of them under Article 31 shall also terminate, in the manner provided for in that Article, the application of the Agreement to any territory to which it has been extended under this Article.
-
-WITH THE REPUBLIC OF FRANCE [S.L.123.14 21
 
 ## CHAPTER VII — Final Provisions — ARTICLE 30
 
@@ -673,8 +629,6 @@ DONE at Valletta this twenty fifth day of July 1977, in duplicate, in the French
 
 **SERGE GELADE JOSEPH ABELA**
 
-22 [S.L.123.14 WITH THE REPUBLIC OF FRANCE
-
 **PROTOCOL\***
 
 At the time of signature of the Agreement between the Government of the Republic of Malta and the Government of the French Republic for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income, the undersigned have agreed upon the following provisions.
@@ -691,11 +645,9 @@ IV. In respect of Article 8:
 
 (b) where a person who is a resident of France participates directly or indirectly in the management, control or capital of such an enterprise, such person shall be taxable in France in respect of that part of the profits, derived by such enterprise and exempt from tax in Malta as aforesaid, which is appropriate to the participating of such person in the enterprise.
 
-V. In respect of Articles 11 and 12, where any interest or royalties derived from Malta are received by a resident of France, tax in Malta is charged on the amount of the interest or royalties as reduced by all expenses properly attributable thereto. If WITH THE REPUBLIC OF FRANCE [S.L.123.14 23
+V. In respect of Articles 11 and 12, where any interest or royalties derived from Malta are received by a resident of France, tax in Malta is charged on the amount of the interest or royalties as reduced by all expenses properly attributable thereto. If the tax so charged is in excess of 10 per cent of the gross amount of the interests or royalties (that is before the deduction of the aforesaid expense), the tax is reduced so as not to exceed 10 per cent of the gross interests or royalties.
 
 \*as amended by Protocol reproduced in Legal Notice 329 of 2010.
-
-the tax so charged is in excess of 10 per cent of the gross amount of the interests or royalties (that is before the deduction of the aforesaid expense), the tax is reduced so as not to exceed 10 per cent of the gross interests or royalties.
 
 VI. In respect of Article 25:
 
@@ -728,8 +680,6 @@ DONE at Valletta this twenty fifth day of July 1977, in duplicate, in the French
 **French Republic Republic of Malta**
 
 **SERGE GELADE JOSEPH ABELA**
-
-24 [S.L.123.14 WITH THE REPUBLIC OF FRANCE
 
 Legal Notice 329 of 2010:
 
@@ -785,9 +735,7 @@ Article 10 of the Agreement is amended as follows:
 
 "2.a) Where the dividends are paid by a company resident of France to a resident of Malta who is the beneficial owner thereof, the French tax so charged shall not exceed 15 per cent of the gross amount of the dividends. However, dividends paid by a company which is a resident of France and beneficially owned by a company which is a resident of Malta which holds directly at least 10 per cent of the capital of the company paying the dividends shall be taxable only in Malta.".
 
-\2. In paragraph 3, the words "income from other corporate rights which is subjected to the same taxation treatment as income from shares by the taxation law of the State of which the company making the distribution is a resident" are deleted WITH THE REPUBLIC OF FRANCE [S.L.123.14 25
-
-and replaced by the following words "income treated as a distribution by the taxation laws of the Contracting State of which the company making the distribution is a resident".
+\2. In paragraph 3, the words "income from other corporate rights which is subjected to the same taxation treatment as income from shares by the taxation law of the State of which the company making the distribution is a resident" are deleted and replaced by the following words "income treated as a distribution by the taxation laws of the Contracting State of which the company making the distribution is a resident".
 
 \3. In subparagraph 5 a), the words "sub-paragraph (a)(ii)" shall be replaced by the words "sub-paragraph (a)".
 
@@ -827,10 +775,6 @@ Article 22 of the Agreement is amended as follows:
 
 In subparagraph 1 d) ii) bb) of Article 24 of the Agreement, "10%" is replaced by "5%".
 
-*26*
-
-[S.L.123.14 WITH THE REPUBLIC OF FRANCE
-
 Article 7
 
 The provisions of Article 27 of the Agreement are deleted and replaced by the following provisions:
@@ -862,8 +806,6 @@ Paragraph V is deleted and paragraphs VI and VII shall be renumbered as paragrap
 *\2.*
 
 A new paragraph worded as follows is added:
-
-WITH THE REPUBLIC OF FRANCE [S.L.123.14 27
 
 "VII. Where, under any provision of the Agreement, income or gains is or are wholly or partly relieved from tax in a State and, under the laws in force in the other State, an individual, in respect of the said income or gains, is subject to tax by reference to the amount thereof which is remitted to or received in that other State, and not by reference to the full amount thereof, then the relief to be allowed under this Agreement in the first-mentioned State shall apply only to so much of the income or gains as is remitted to or received in that other State.".
 

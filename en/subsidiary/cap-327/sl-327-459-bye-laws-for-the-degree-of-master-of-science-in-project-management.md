@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science in Project Management under the auspices of the Faculty for the Built Environment (S.L. 327.459)
 
-MANAGEMENT UNDER THE AUSPICES OF THE
-
-*1*
-
-FACULTY FOR THE BUILT ENVIRONMENT [S.L.327.459
-
 **SUBSIDIARY LEGISLATION 327.459**
 
 BYE-LAWS FOR THE DEGREE OF MASTER OF
@@ -68,13 +62,7 @@ These bye-laws shall be applicable for courses commencing in October 2014 or lat
 
 (b) a first cycle degree from the University of Malta with at least Third Class Honours in the disciplines highlighted in paragraph (a) of this bye-law, if they are also in possession of other qualifications or at least 3 years of relevant work experience, obtained following the first cycle degree. The admission of applicants under this bye-law may be made conditional on the results of an assessment as the Board may deem appropriate; or
 
-(c) membership of a recognized professional chartered institution in the construction field. The admission of applicants under this bye-law may be made conditional MANAGEMENT UNDER THE AUSPICES OF THE
-
-*2*
-
-[S.L.327.459 FACULTY FOR THE BUILT ENVIRONMENT
-
-on the results of an assessment as the Board may deem appropriate, but which will include an interview; or (d) a qualification deemed by Senate, on the recommendation of the Board, to be comparable to the qualifications listed in paragraph (a) and (b) of this bye-law, particularly where the applicant can demonstrate at least 10 years’ experience in management in the construction field. The admission of applicants under this bye-law may be made conditional on the results of an assessment as the Board may deem appropriate, but which will include an interview.
+(c) membership of a recognized professional chartered institution in the construction field. The admission of applicants under this bye-law may be made conditional on the results of an assessment as the Board may deem appropriate, but which will include an interview; or (d) a qualification deemed by Senate, on the recommendation of the Board, to be comparable to the qualifications listed in paragraph (a) and (b) of this bye-law, particularly where the applicant can demonstrate at least 10 years’ experience in management in the construction field. The admission of applicants under this bye-law may be made conditional on the results of an assessment as the Board may deem appropriate, but which will include an interview.
 
 (2) The interviewing board appointed by the Board shall be composed of at least three persons.
 
@@ -106,11 +94,7 @@ The course shall extend over three semesters of full-time study or the equivalen
 
 (2) Work on the dissertation shall be undertaken during the third semester of the course. Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
 
-MANAGEMENT UNDER THE AUSPICES OF THE
-
-*3*
-
-FACULTY FOR THE BUILT ENVIRONMENT [S.L.327.459 (3) A provisional title for the dissertation and a detailed research proposal shall be submitted to the Board for approval by the end of the second semester.
+(3) A provisional title for the dissertation and a detailed research proposal shall be submitted to the Board for approval by the end of the second semester.
 
 ## 8. Supervisor.
 

@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the degree of Master of Arts in Financial Services under the auspices of the Faculty of Laws (S.L. 327.95)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF LAWS [S.L.327.95
-
 **SUBSIDIARY LEGISLATION 327.95**
 
 BYE-LAWS FOR THE DEGREE OF MASTER OF ARTS IN FINANCIAL SERVICES UNDER THE
@@ -64,11 +60,9 @@ These bye-laws shall be applicable for courses commencing in October 2019 or lat
 
 (d) a degree from the University of Malta or a professional qualification from a recognised institution in an area of study which the Board deems to be relevant, and comparable to the qualifications indicated in paragraphs (a), (b) and (c) of this bye-law.”
 
-(2) The admission of applicants under sub-paragraph (d) of [S.L.327.95 UNDER THE AUSPICES OF THE FACULTY OF LAWS paragraph (1) of this bye-law may be made conditional on the result of an interview conducted by an interviewing board appointed for the purpose of assessing applicants’ commitment, motivation, academic preparedness and general ability to follow the Course with profit.
+(2) The admission of applicants under sub-paragraph (d) of paragraph (1) of this bye-law may be made conditional on the result of an interview conducted by an interviewing board appointed for the purpose of assessing applicants’ commitment, motivation, academic preparedness and general ability to follow the Course with profit.
 
 (3) The interviewing board appointed by the Board shall be composed of at least three members.
-
-*2*
 
 ## 4. Course duration.
 
@@ -108,11 +102,11 @@ The programme of study shall be published after approval by Senate, normally not
 
 (ii) the Board may not terminate studies prematurely according to (b) until it has first given the student a chance to be heard.
 
-*3*
+## 10. Classification of the Awards.
 
-UNDER THE AUSPICES OF THE FACULTY OF LAWS [S.L.327.95 10. The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma and of the Degree shall be based on the results obtained in all the components of the programme of study, all credits being weighted equally.
+*Renumbered by: L.N. 96 of 2024.*
 
-*Classification of the Awards. Renumbered by: L.N. 96 of 2024.*
+The Final Weighted Average Mark for the purpose of the classification of the Postgraduate Diploma and of the Degree shall be based on the results obtained in all the components of the programme of study, all credits being weighted equally.
 
 ## 11. Special provisions for part-time courses.
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Kingdom of the Netherlands Order (S.L. 123.10)
 
-*1*
-
-WITH THE KINGDOM OF THE NETHERLANDS [S.L.123.10
-
 **SUBSIDIARY LEGISLATION 123.10**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -52,10 +48,6 @@ It is hereby declared -
 (v) capital tax (de vermogensbelasting);
 
 (b) that it is expedient that those arrangements should have effect.
-
-2 [S.L.123.10 WITH THE KINGDOM OF THE NETHERLANDS
-
-WITH THE KINGDOM OF THE NETHERLANDS [S.L.123.10 3
 
 ## SCHEDULE — AGREEMENT BETWEEN MALTA — AND THE KINGDOM OF THE NETHERLANDS
 
@@ -105,8 +97,6 @@ the income tax and surtax, including prepayments of tax whether made by deductio
 
 (4) This Agreement shall also apply to any identical or substantially similar taxes which are imposed after the date of signature of this Agreement in addition to, or in place of, the existing taxes. The competent authorities of the States shall notify to each other any substantial changes which have been made in their respective taxation laws.
 
-4 [S.L.123.10 WITH THE KINGDOM OF THE NETHERLANDS
-
 (5) Where under any provision of this Agreement income is relieved from tax in one of the States, either in full or in part, and, under the law in force in the other State, a person, in respect of the said income, is subject to tax by reference to the amount thereof which is remitted to or received in that other State and not by reference to the full amount thereof, then the relief to be allowed under this Agreement in the first-mentioned State shall apply to so much of the income as is remitted to or received in the other State.
 
 ## CHAPTER II — Definitions — ARTICLE 3
@@ -136,8 +126,6 @@ the income tax and surtax, including prepayments of tax whether made by deductio
 (h) the term "international traffic" means any transport by a ship or aircraft operated by an enterprise which has its place of effective management in one of the States, except when the ship or aircraft is operated solely between places in the other State;
 
 (i) the term "competent authority" means:
-
-WITH THE KINGDOM OF THE NETHERLANDS [S.L.123.10 5
 
 (i) in the case of the Netherlands, the Minister of Finance or his authorized representative;
 
@@ -173,8 +161,6 @@ WITH THE KINGDOM OF THE NETHERLANDS [S.L.123.10 5
 
 (a) a place of management;
 
-6 [S.L.123.10 WITH THE KINGDOM OF THE NETHERLANDS
-
 (b) a branch;
 
 (c) an office;
@@ -205,9 +191,7 @@ WITH THE KINGDOM OF THE NETHERLANDS [S.L.123.10 5
 
 (6) The fact that a company which is a resident of one of the States controls or is controlled by a company which is a resident of the other State, or which curries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself constitute either company a permanent establishment of the other.
 
-## CHAPTER III — WITH THE KINGDOM OF THE NETHERLANDS [S.L.123.10 7 — Taxation of income
-
-**ARTICLE 6**
+## CHAPTER III — Taxation of income — ARTICLE 6
 
 **Income from Immovable Property**
 
@@ -232,8 +216,6 @@ WITH THE KINGDOM OF THE NETHERLANDS [S.L.123.10 5
 (4) Insofar as it has been customary in one of the States to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph (2) shall preclude that State from determining the profits to be taxed by such an apportionment as may be customary; the method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles embodied in this Article.
 
 (5) No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
-
-8 [S.L.123.10 WITH THE KINGDOM OF THE NETHERLANDS
 
 (6) For the purposes of the preceding paragraphs, the profits to be attributed to the permanent establishment shall be determined by the same method year by year unless there is good and sufficient reason to the contrary.
 
@@ -263,8 +245,6 @@ and in either case conditions are made or imposed between the two enterprises in
 
 **ARTICLE 10**
 
-WITH THE KINGDOM OF THE NETHERLANDS [S.L.123.10 9
-
 **Dividends**
 
 (1) Dividends paid by a company which is a resident of one of the States to a resident of the other State may be taxed in that other State.
@@ -285,9 +265,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 (5) The provisions of paragraphs (1), (2) and (3) shall not apply if the recipient of the dividends, being a resident of one of the States, carries on business in the other State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State professional services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such a case, the provisions of Article 7 or Article 15, as the case may be, shall apply.
 
-(6) Where a company which is a resident of one of the States derives profits or income from the other State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company's undistributed profits to a tax 10 [S.L.123.10 WITH THE KINGDOM OF THE NETHERLANDS
-
-on undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
+(6) Where a company which is a resident of one of the States derives profits or income from the other State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company's undistributed profits to a tax on undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
 
 **ARTICLE 11**
 
@@ -313,9 +291,7 @@ on undistributed profits, even if the dividends paid or the undistributed profit
 
 (6) Interest shall be deemed to arise in one of the States when the payer is that State itself, a political subdivision, a local authority or a resident of that State. Where, however, the person paving the interest, whether he is a resident of one of the States or not, has in one of the States a permanent establishment in connection with which the indebtedness on which the interest is paid was incurred and such interest is borne by such permanent establishment, then such interest shall be deemed to arise in the State in which the permanent establishment is situated.
 
-(7) Where, owing to a special relationship between the payer and the recipient or between both of them and some other person, the amount of the interest paid, having regard to the debt-claim for which it is paid, exceeds the amount which WITH THE KINGDOM OF THE NETHERLANDS [S.L.123.10 11
-
-would have been agreed upon by the payer and the recipient in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In that case, the excess part of the payments shall remain taxable according to the law of each State, due regard being had to the other provisions of this Agreement.
+(7) Where, owing to a special relationship between the payer and the recipient or between both of them and some other person, the amount of the interest paid, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the recipient in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In that case, the excess part of the payments shall remain taxable according to the law of each State, due regard being had to the other provisions of this Agreement.
 
 **ARTICLE 12**
 
@@ -335,9 +311,7 @@ would have been agreed upon by the payer and the recipient in the absence of suc
 
 **Limitation of Articles 10, 11 and 12**
 
-International organizations, organs and officials thereof and members of a diplomatic or consular mission of a third State, being present in one of the States, are not entitled, in the other State, to the reductions or exemptions from tax provided for in Articles 10, 11 and 12 in respect of the items of income dealt with in these 12 [S.L.123.10 WITH THE KINGDOM OF THE NETHERLANDS
-
-Articles and arising in that other State, if such items of income are not subject to a tax on income in the first-mentioned State.
+International organizations, organs and officials thereof and members of a diplomatic or consular mission of a third State, being present in one of the States, are not entitled, in the other State, to the reductions or exemptions from tax provided for in Articles 10, 11 and 12 in respect of the items of income dealt with in these Articles and arising in that other State, if such items of income are not subject to a tax on income in the first-mentioned State.
 
 **ARTICLE 14**
 
@@ -362,8 +336,6 @@ Articles and arising in that other State, if such items of income are not subjec
 (2) The term "professional services" includes especially independent scientific, literary, artistic, educational or teaching activities as well as the independent activities of physicians, lawyers, engineers, architects, dentists and accountants.
 
 **ARTICLE 16**
-
-WITH THE KINGDOM OF THE NETHERLANDS [S.L.123.10 13
 
 **Dependent Personal Services**
 
@@ -399,9 +371,7 @@ WITH THE KINGDOM OF THE NETHERLANDS [S.L.123.10 13
 
 (1) Subject to the provisions of paragraph (2) of Article 20, pensions and other similar remuneration paid to a resident of one of the States in consideration of past employment and any annuity shall be taxable only in that State.
 
-(2) However, where such remuneration is not of a periodical nature and it is paid in consideration of past employment exercised in the other State, or where 14 [S.L.123.10 WITH THE KINGDOM OF THE NETHERLANDS
-
-instead of the right to annuities a lump sum is paid, this remuneration or this lump sum may be taxed in the State in which it arises.
+(2) However, where such remuneration is not of a periodical nature and it is paid in consideration of past employment exercised in the other State, or where instead of the right to annuities a lump sum is paid, this remuneration or this lump sum may be taxed in the State in which it arises.
 
 (3) Any pension and other payment paid out under the provisions of a social security system of one of the States to a resident of the other State may be taxed in the first-mentioned State.
 
@@ -433,8 +403,6 @@ instead of the right to annuities a lump sum is paid, this remuneration or this 
 
 (2) This Article shall not apply to income from research if such research is undertaken not in the public interest but primarily for the private benefit of a specific person or persons.
 
-WITH THE KINGDOM OF THE NETHERLANDS [S.L.123.10 15
-
 **ARTICLE 22**
 
 **Students and Trainees**
@@ -465,9 +433,7 @@ WITH THE KINGDOM OF THE NETHERLANDS [S.L.123.10 15
 
 (1) Capital represented by immovable property, as defined in paragraph (2) of Article 6, may be taxed in the State in which such property is situated.
 
-(2) Capital represented by movable property forming part of the business 16 [S.L.123.10 WITH THE KINGDOM OF THE NETHERLANDS
-
-property of a permanent establishment of an enterprise, or by movable property pertaining to a fixed base used for the performance of professional services, may be taxed in the State in which the permanent establishment or fixed base is situated.
+(2) Capital represented by movable property forming part of the business property of a permanent establishment of an enterprise, or by movable property pertaining to a fixed base used for the performance of professional services, may be taxed in the State in which the permanent establishment or fixed base is situated.
 
 (3) Notwithstanding the provisions of paragraph (2), ships and aircraft operated in international traffic and movable property pertaining to the operation of such ships and aircraft shall be taxable only in the State in which the place of effective management of the enterprise is situated. For the purposes of this paragraph the provisions of paragraph (2) of Article 8 shall apply.
 
@@ -489,8 +455,6 @@ property of a permanent establishment of an enterprise, or by movable property p
 
 (4) Notwithstanding the provisions of paragraph (2), the Netherlands shall allow a deduction from the tax computed in accordance with the preceding paragraphs of this Article with respect to income which may be taxed in Malta according to Article 7, if such income is subject in Malta to a special regime as meant in Article 30.
 
-WITH THE KINGDOM OF THE NETHERLANDS [S.L.123.10 17
-
 The amount of this deduction shall be the lesser of the following amounts:
 
 (i) the amount equal to the Malta tax;
@@ -511,9 +475,7 @@ The amount of this deduction shall be the lesser of the following amounts:
 
 (2) The taxation on a permanent establishment which an enterprise of one of the States has in the other State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging one of the States to grant to residents of the other State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
 
-(3) Except where the provisions of paragraph (1) of Article 9, paragraph (7) of Article 11, or paragraph (5) of Article 12, apply, interest, royalties and other disbursements paid by an enterprise of one of the States to a resident of the other State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the 18 [S.L.123.10 WITH THE KINGDOM OF THE NETHERLANDS
-
-first-mentioned State. Similarly, any debts of an enterprise of one of the States to a resident of the other State shall, for the purpose of determining the taxable capital of such enterprise, be deductible as if they had been contracted to a resident of the first-mentioned State.
+(3) Except where the provisions of paragraph (1) of Article 9, paragraph (7) of Article 11, or paragraph (5) of Article 12, apply, interest, royalties and other disbursements paid by an enterprise of one of the States to a resident of the other State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State. Similarly, any debts of an enterprise of one of the States to a resident of the other State shall, for the purpose of determining the taxable capital of such enterprise, be deductible as if they had been contracted to a resident of the first-mentioned State.
 
 (4) Enterprises of one of the States, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of that first-mentioned State are or may be subjected.
 
@@ -535,9 +497,7 @@ first-mentioned State. Similarly, any debts of an enterprise of one of the State
 
 **Exchange of Information**
 
-(1) The competent authorities of the States shall exchange such information as is necessary for the carrying out of this Agreement or of the domestic laws of the States concerning taxes covered by this Agreement insofar as the taxation thereunder is not contrary to this Agreement. The exchange of information is not restricted by Article 1. Any information received by one of the States shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) involved in the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes which are the subject of the Agreement. Such persons or authorities shall use the information only for such purposes. These persons or authorities may disclose the information in WITH THE KINGDOM OF THE NETHERLANDS [S.L.123.10 19
-
-public court proceedings or in judicial decisions.
+(1) The competent authorities of the States shall exchange such information as is necessary for the carrying out of this Agreement or of the domestic laws of the States concerning taxes covered by this Agreement insofar as the taxation thereunder is not contrary to this Agreement. The exchange of information is not restricted by Article 1. Any information received by one of the States shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) involved in the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes which are the subject of the Agreement. Such persons or authorities shall use the information only for such purposes. These persons or authorities may disclose the information in public court proceedings or in judicial decisions.
 
 (2) In no case shall the provisions of paragraph (1) be construed so as to impose on one of the States the obligation -
 
@@ -577,8 +537,6 @@ The provisions of paragraph (1) are also applicable to any identical or substant
 
 **Territorial extension**
 
-20 [S.L.123.10 WITH THE KINGDOM OF THE NETHERLANDS
-
 (1) This Agreement may be extended, either in its entirety or with any necessary modifications, to the Netherlands Antilles, or Aruba, if the country concerned imposes taxes substantially similar in character to those to which this Agreement applies. Any such extension shall take effect from such date and subject to such modifications and conditions, including conditions as to termination, as may be specified and agreed in notes to be exchanged through diplomatic channels.
 
 (2) Unless otherwise agreed the termination of the Agreement shall not of itself also terminate any extension of the Agreement to the Netherlands Antilles, or Aruba.
@@ -605,9 +563,7 @@ This Agreement shall remain in force until terminated by the Government of one o
 
 IN WITNESS WHEREOF the undersigned, duly authorized thereto, have signed this Agreement.
 
-DONE at The Hague this 18th day of May, 1977, in duplicate, in the Netherlands WITH THE KINGDOM OF THE NETHERLANDS [S.L.123.10 21
-
-and English languages, both texts being equally authentic.
+DONE at The Hague this 18th day of May, 1977, in duplicate, in the Netherlands and English languages, both texts being equally authentic.
 
 **FOR THE GOVERNMENT OF THE FOR THE GOVERNMENT OF THE**
 
@@ -639,9 +595,7 @@ IV. AD ARTICLE 10
 
 (1) The provisions of sub-paragraph (a) of paragraph (2) of Article 10 shall not apply if the relation between the two companies has been arranged or is maintained primarily with the intention of securing this reduction.
 
-(2) It is understood that the reference in the second sentence of paragraph (3) of Article 10 to the provisions of the Netherlands law to the effect that the receiving company is not charged to Netherlands company tax in respect of the profits distributed by a Malta company, is to the application of the so called "holding privilege" in the Netherlands Company Tax Act. Subject to the provisions of the said Act and to future amendments thereto, this "holding privilege" leads to the result that a company which is a resident of the Netherlands can leave out of account, in the computation of its taxable profits, dividends it receives from a company which is a 22 [S.L.123.10 WITH THE KINGDOM OF THE NETHERLANDS
-
-resident of Malta, if it owns at least 5 per cent of the paid-up capital of the latter company.
+(2) It is understood that the reference in the second sentence of paragraph (3) of Article 10 to the provisions of the Netherlands law to the effect that the receiving company is not charged to Netherlands company tax in respect of the profits distributed by a Malta company, is to the application of the so called "holding privilege" in the Netherlands Company Tax Act. Subject to the provisions of the said Act and to future amendments thereto, this "holding privilege" leads to the result that a company which is a resident of the Netherlands can leave out of account, in the computation of its taxable profits, dividends it receives from a company which is a resident of Malta, if it owns at least 5 per cent of the paid-up capital of the latter company.
 
 V. AD ARTICLES 10, 11 AND 12
 
@@ -667,9 +621,7 @@ IX. AD ARTICLES 28 AND 30
 
 IN WITNESS WHEREOF the undersigned, duly authorized thereto, have signed this Protocol.
 
-DONE at The Hague this 18th day of May, 1977, in duplicate, in the Netherlands WITH THE KINGDOM OF THE NETHERLANDS [S.L.123.10 23
-
-and English languages, both texts being equally authentic.
+DONE at The Hague this 18th day of May, 1977, in duplicate, in the Netherlands and English languages, both texts being equally authentic.
 
 **FOR THE GOVERNMENT OF THE FOR THE GOVERNMENT OF THE**
 

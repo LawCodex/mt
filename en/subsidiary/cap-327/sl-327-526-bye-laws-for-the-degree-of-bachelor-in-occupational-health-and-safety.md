@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-laws for the Degree of Bachelor in Occupational Health and Safety (Honours) - B. O.H.S. (Hons) - under the auspices of the Centre for Labour Studies (S.L. 327.526)
 
-AND SAFETY (HONOURS) - B. O.H.S. (Hons) - UNDER THE
-
-*1*
-
-AUSPICES OF THE CENTRE FOR LABOUR STUDIES [S.L.327.526
-
 **SUBSIDIARY LEGISLATION 327.526**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR IN
@@ -72,9 +66,7 @@ These bye-laws shall be applicable for courses commencing in October 2022 or lat
 
 (3) Applicants admitted in terms of paragraph (2) of this bye-law shall be in possession of a pass in an English language proficiency test as approved by the University before being admitted to the Course, provided that applicants in possession of a Secondary Education Certificate pass at Grade 5 or higher or at SEC level 3 in English Language or a pass at the same standard in a comparable qualification, shall be exempted from sitting for the proficiency test.
 
-*2*
-
-AND SAFETY (HONOURS) - B. O.H.S. (Hons) - UNDER THE [S.L.327.526 AUSPICES OF THE CENTRE FOR LABOUR STUDIES (4) Applicants in possession of the Diploma in Social Studies (Occupational Health and Safety) of this University with an average mark of 60% or over, or a comparable qualification in an area related to Occupational Health and Safety, or who have obtained ECTS credits for study-units considered by the Board of Studies to be equivalent to those in the programme of study, may also be admitted to the Course. Subject to the provisions of the Principal Regulations, such applicants may be allowed by the Board of Studies to transfer these credits to the Course, provided that:
+(4) Applicants in possession of the Diploma in Social Studies (Occupational Health and Safety) of this University with an average mark of 60% or over, or a comparable qualification in an area related to Occupational Health and Safety, or who have obtained ECTS credits for study-units considered by the Board of Studies to be equivalent to those in the programme of study, may also be admitted to the Course. Subject to the provisions of the Principal Regulations, such applicants may be allowed by the Board of Studies to transfer these credits to the Course, provided that:
 
 (i) the number of credits so transferred shall not exceed 60 ECTS credits; and
 

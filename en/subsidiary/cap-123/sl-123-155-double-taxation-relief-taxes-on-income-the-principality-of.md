@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief (Taxes on Income) (The Principality of Liechtenstein) Order (S.L. 123.155)
 
-*1*
-
-(THE PRINCIPALITY OF LIECHTENSTEIN) [S.L.123.155
-
 **SUBSIDIARY LEGISLATION 123.155**
 
 DOUBLE TAXATION RELIEF (TAXES ON INCOME) (THE PRINCIPALITY OF LIECHTENSTEIN) ORDER 1st July, 2014\*
@@ -52,8 +48,6 @@ It is hereby declared:
 (c) that the Convention shall enter into force on such date as may be announced by notice in the Government Gazette.\*
 
 \*see article 1(1) of this Order as originally promulgated, and Legal Notice 259 of 2014.
-
-2 [S.L.123.155 (THE PRINCIPALITY OF LIECHTENSTEIN)
 
 ## SCHEDULE
 
@@ -123,8 +117,6 @@ The existing taxes to which this Convention shall apply are in particular: a) in
 
 b) in Malta:
 
-(THE PRINCIPALITY OF LIECHTENSTEIN) [S.L.123.155 3
-
 the income tax;
 
 (hereinafter referred to as "Malta tax").
@@ -167,8 +159,6 @@ k) the term "national", in relation to a Contracting State, means:
 
 (i) any individual possessing the nationality of that Contracting State;
 
-4 [S.L.123.155 (THE PRINCIPALITY OF LIECHTENSTEIN)
-
 (ii) any person other than an individual deriving its status as such from the laws in force in that Contracting State;
 
 l) the term "investment fund" means:
@@ -195,9 +185,7 @@ m) the term "pension fund or scheme" means:
 
 \2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
-a) he shall be deemed to be a resident only of the State in which he has a permanent home available to him; if he has a permanent home available to him in both States, he shall be deemed to be a resident only of the State with which his personal and economic relations are closer (centre (THE PRINCIPALITY OF LIECHTENSTEIN) [S.L.123.155 5
-
-of vital interests);
+a) he shall be deemed to be a resident only of the State in which he has a permanent home available to him; if he has a permanent home available to him in both States, he shall be deemed to be a resident only of the State with which his personal and economic relations are closer (centre of vital interests);
 
 b) if the State in which he has his centre of vital interests cannot be determined, or if he has not a permanent home available to him in either State, he shall be deemed to be a resident only of the State in which he has an habitual abode;
 
@@ -243,9 +231,7 @@ c) the maintenance of a stock of goods or merchandise belonging to the enterpris
 
 e) the maintenance of a fixed place of business solely for the purpose of carrying on, for the enterprise, any other activity of a preparatory or auxiliary character;
 
-f) the maintenance of a fixed place of business solely for any combination of activities mentioned in subparagraphs a) to e), provided that the overall activity of the fixed place of business resulting from this 6 [S.L.123.155 (THE PRINCIPALITY OF LIECHTENSTEIN)
-
-combination is of a preparatory or auxiliary character.
+f) the maintenance of a fixed place of business solely for any combination of activities mentioned in subparagraphs a) to e), provided that the overall activity of the fixed place of business resulting from this combination is of a preparatory or auxiliary character.
 
 ## 5.
 
@@ -277,9 +263,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \1. The profits of an enterprise of a Contracting State shall be taxable only in that State unless the enterprise carries on business in the other Contracting State through a permanent establishment situated therein. If the enterprise carries on business as aforesaid, the profits of the enterprise may be taxed in the other State but only so much of them as is attributable to that permanent establishment.
 
-\2. Subject to the provisions of paragraph 3, where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar (THE PRINCIPALITY OF LIECHTENSTEIN) [S.L.123.155 7
-
-activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment.
+\2. Subject to the provisions of paragraph 3, where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment.
 
 \3. In determining the profits of a permanent establishment, there shall be allowed as deductions expenses which are incurred for the purposes of the permanent establishment, including executive and general administrative expenses so incurred, whether in the State in which the permanent establishment is situated or elsewhere.
 
@@ -313,9 +297,7 @@ b) the same persons participate directly or indirectly in the management, contro
 
 and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
 
-\2. Where a Contracting State includes in the profits of an enterprise of that State - and taxes accordingly - profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so 8 [S.L.123.155 (THE PRINCIPALITY OF LIECHTENSTEIN)
-
-included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Convention and the competent authorities of the Contracting States shall if necessary consult each other.
+\2. Where a Contracting State includes in the profits of an enterprise of that State - and taxes accordingly - profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Convention and the competent authorities of the Contracting States shall if necessary consult each other.
 
 **Article 10**
 
@@ -337,9 +319,7 @@ included are profits which would have accrued to the enterprise of the first-men
 
 \2. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor’s profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. However, the term "interest" shall not include income referred to in Article 10. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
-\3. The provisions of paragraph 1 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other (THE PRINCIPALITY OF LIECHTENSTEIN) [S.L.123.155 9
-
-Contracting State in which the interest arises through a permanent establishment situated therein and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
+\3. The provisions of paragraph 1 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises through a permanent establishment situated therein and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment. In such case the provisions of Article 7 shall apply.
 
 \4. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Convention.
 
@@ -364,8 +344,6 @@ Contracting State in which the interest arises through a permanent establishment
 \2. Gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State, including such gains from the alienation of such a permanent establishment (alone or with the whole enterprise), may be taxed in that other State.
 
 \3. Gains derived by a resident of a Contracting State from the alienation of ships or aircraft operated in international traffic by an enterprise of that State, or movable property pertaining to the operation of such ships or aircraft, shall be taxable only in that State.
-
-10 [S.L.123.155 (THE PRINCIPALITY OF LIECHTENSTEIN)
 
 \4. Gains derived by a resident of a Contracting State from the alienation of shares deriving more than 50 per cent of their value directly or indirectly from immovable property situated in the other Contracting State may be taxed in that other State.
 
@@ -401,8 +379,6 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 \2. Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman himself but to another person, that income may, notwithstanding the provisions of Articles 7 and 14, be taxed in the Contracting State in which the activities of the entertainer or sportsman are exercised.
 
-(THE PRINCIPALITY OF LIECHTENSTEIN) [S.L.123.155 11
-
 \3. The provisions of paragraphs 1 and 2 shall not apply to income derived from activities exercised in a Contracting State by an artiste or a sportsman if the visit to that State is wholly or mainly supported by public funds of one or both of the Contracting States or political subdivisions or local authorities or statutory bodies thereof. In such case, the income shall be taxable only in the Contracting State in which the artiste or the sportsman is a resident.
 
 **Article 17**
@@ -430,8 +406,6 @@ b) However, such salaries, wages and other similar remuneration shall be taxable
 \2. Notwithstanding the provisions of paragraph 1, pensions and other similar remuneration (including lump sum payments) paid by, or out of funds created by, a Contracting State or a political subdivision or a local authority thereof (including any legal entity or authority created under public law of that State) to an individual in respect of services rendered to that State or subdivision or authority (including any legal entity or authority created under public law of that State) shall be taxable only in that State.
 
 \3. The provisions of Articles 14, 15, 16 and 17 shall apply to salaries, wages, pensions, and other similar remuneration (including lump sum payments) in respect of services rendered in connection with a business carried on by a Contracting State or a political subdivision or a local authority thereof (including any legal entity or authority created under public law of that State).
-
-12 [S.L.123.155 (THE PRINCIPALITY OF LIECHTENSTEIN)
 
 **Article 19**
 
@@ -467,9 +441,7 @@ Payments which a student or business apprentice who is or was immediately before
 
 a) Where a resident of Liechtenstein derives income or owns capital which, in accordance with the provisions of this Convention, may be taxed in Malta, Liechtenstein shall, subject to the provisions of subparagraphs b) and c), exempt such income or capital from tax, but may nevertheless, in calculating the amount of tax on the remaining income or capital of such resident, take into account the exempted income or capital.
 
-b) Where a resident of Liechtenstein derives items of income which, in accordance with the provisions of Articles 14, 15, 16 and 17, may be (THE PRINCIPALITY OF LIECHTENSTEIN) [S.L.123.155 13
-
-taxed in Malta, Liechtenstein shall credit against Liechtenstein tax on this income the tax paid in accordance with the law of Malta and with the provisions of this Convention. The amount of tax to be credited shall not, however, exceed the Liechtenstein tax due on the income derived from Malta.
+b) Where a resident of Liechtenstein derives items of income which, in accordance with the provisions of Articles 14, 15, 16 and 17, may be taxed in Malta, Liechtenstein shall credit against Liechtenstein tax on this income the tax paid in accordance with the law of Malta and with the provisions of this Convention. The amount of tax to be credited shall not, however, exceed the Liechtenstein tax due on the income derived from Malta.
 
 c) Income from dividends within the meaning of Article 10 paid by a company that is a resident of Malta to a company that is a resident of Liechtenstein and that are not deductible in determining the profits of the payor, shall not be taxed in Liechtenstein.
 
@@ -489,9 +461,7 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 \4. Except where the provisions of paragraph 1 of Article 9, paragraph 4 of Article 11, or paragraph 4 of Article 12, apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State. Similarly, any debts of an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable capital of such enterprise, be deductible under the same conditions as if they had been contracted to a resident of the first-mentioned State.
 
-\5. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the 14 [S.L.123.155 (THE PRINCIPALITY OF LIECHTENSTEIN)
-
-taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
+\5. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
 
 \6. The provisions of this Article shall, notwithstanding the provisions of Article 2, apply to taxes of every kind and description.
 
@@ -512,8 +482,6 @@ taxation and connected requirements to which other similar enterprises of the fi
 a) under paragraph 1, a person has presented a case to the competent authority of a Contracting State on the basis that the actions of one or both of the Contracting States have resulted for that person in taxation not in accordance with the provisions of this Convention; and
 
 b) the competent authorities are unable to reach an agreement to resolve that case pursuant to paragraph 2 within two years from the presentation of the case to the competent authority of the other Contracting State; any unresolved issues arising from the case shall be submitted to arbitration if the person so requests. These unresolved issues shall not, however, be submitted to arbitration if a decision on these issues has already been rendered by a court or administrative tribunal of either State. Unless a person directly affected by the case does not accept the mutual agreement that implements the arbitration decision, that decision shall be binding on both Contracting States and shall be implemented notwithstanding any time limits in the domestic laws of these States. The competent authorities of the Contracting States shall by mutual agreement settle the mode of application of this paragraph.
-
-(THE PRINCIPALITY OF LIECHTENSTEIN) [S.L.123.155 15
 
 **Article 25**
 
@@ -547,8 +515,6 @@ Nothing in this Convention shall affect the fiscal privileges of members of dipl
 
 The attached Protocol shall be an integral part of this Convention.
 
-16 [S.L.123.155 (THE PRINCIPALITY OF LIECHTENSTEIN)
-
 **Article 28**
 
 **Entry into force**
@@ -581,8 +547,6 @@ For the Government of the For the Government of the
 
 Republic of Malta Principality of Liechtenstein
 
-(THE PRINCIPALITY OF LIECHTENSTEIN) [S.L.123.155 17
-
 **Protocol**
 
 At the signing today of the Convention between the Government of the Republic of Malta and the Government of the Principality of Liechtenstein for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and on capital, the undersigned have agreed that the following provisions shall form an integral part of the Convention.
@@ -613,9 +577,7 @@ c) personal data may be transmitted to the extent necessary for the exchange of 
 
 d) any request for information shall in all cases specify in writing:
 
-(i) the identity of the person under examination or investigation, 18 [S.L.123.155 (THE PRINCIPALITY OF LIECHTENSTEIN)
-
-however, it is not necessary to provide the name of the taxpayer in order to define his identity, if this identity can be deduced from equivalent elements;
+(i) the identity of the person under examination or investigation, however, it is not necessary to provide the name of the taxpayer in order to define his identity, if this identity can be deduced from equivalent elements;
 
 (ii) the taxable period for which the information is sought;
 

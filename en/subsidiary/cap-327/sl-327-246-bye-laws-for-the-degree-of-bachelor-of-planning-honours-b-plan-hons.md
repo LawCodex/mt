@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Planning (Honours) - B. Plan. (Hons) - under the auspices of the Faculty of Architecture and Civil Engineering (S.L. 327.246)
 
-B.PLAN. (HONS) - UNDER THE AUSPICES OF THE
-
-*1*
-
-FACULTY OF ARCHITECTURE AND CIVIL ENGINEERING [S.L.327.246
-
 **SUBSIDIARY LEGISLATION 327.246**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF PLANNING (HONOURS) - B.PLAN. (HONS) -
@@ -68,10 +62,6 @@ The course shall extend over a period of four academic years of full-time study,
 ## 5. Course programme.
 
 The course shall consist of two parts, namely Part One and Part Two.
-
-*2*
-
-B.PLAN. (HONS) - UNDER THE AUSPICES OF THE [S.L.327.246 FACULTY OF ARCHITECTURE AND CIVIL ENGINEERING
 
 ## 6. Part One.
 

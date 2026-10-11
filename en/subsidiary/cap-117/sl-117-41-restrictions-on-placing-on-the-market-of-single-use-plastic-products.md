@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Restrictions on Placing on the Market of Single-Use Plastic Products Regulations (S.L. 117.41)
 
-*1*
-
-SINGLE-USE PLASTIC PRODUCTS [S.L. 117.41 SUBSIDIARY LEGISLATION 117.41
+**SUBSIDIARY LEGISLATION 117.41**
 
 RESTRICTIONS ON PLACING ON THE MARKET OF SINGLE-USE PLASTIC PRODUCTS REGULATIONS 30th December, 2020
 
@@ -64,11 +62,7 @@ In these regulations, unless the context otherwise requires:
 
 (1) As from 1 January 2021, the placing on the market of the single-use plastic products listed in Part A of the Schedule and of products made from oxo-degradable plastic shall be prohibited:
 
-Provided that the distribution, consumption or use in the course of a commercial activity, whether in return for payment or free of charge, of the single-use plastic products listed in Part A of the Schedule and products made from oxo-degradable plastic shall be [S.L. 117.41 SINGLE-USE PLASTIC PRODUCTS
-
-prohibited.
-
-*2*
+Provided that the distribution, consumption or use in the course of a commercial activity, whether in return for payment or free of charge, of the single-use plastic products listed in Part A of the Schedule and products made from oxo-degradable plastic shall be prohibited.
 
 (1a) The placing on the market of the single-use plastic products listed in Part B of the Schedule shall be prohibited.
 
@@ -104,11 +98,9 @@ Provided that after six (6) months following the entry into force of this regula
 
 Provided that the court shall order any person who has been found guilty of committing an offence against these regulations to pay for the expenses incurred by any of the competent authorities as a result of the said offence and shall moreover order the confiscation of the products to which the offence relates, even though the owner thereof may not be a party to the proceedings.
 
-*3*
-
-SINGLE-USE PLASTIC PRODUCTS [S.L. 117.41 (3) The provisions of article 23 and 30(1) of the Criminal Code shall, mutatis mutandis, apply to proceedings in respect of offences against these regulations.
-
 *Cap. 9.*
+
+(3) The provisions of article 23 and 30(1) of the Criminal Code shall, mutatis mutandis, apply to proceedings in respect of offences against these regulations.
 
 *Substituted by: L.N. 236 of 2022.*
 
@@ -143,10 +135,6 @@ Part A
 (iii) is ready to be consumed without any further preparation, such as cooking, boiling or heating, including food containers used for fast food or other meal ready for immediate consumption, except beverage containers, plates and packets and wrappers containing food;
 
 (h) beverage containers made of expanded polystyrene, including their caps and lids;
-
-*4*
-
-[S.L. 117.41 SINGLE-USE PLASTIC PRODUCTS
 
 (i) cups for beverages made of expanded polystyrene, including their covers and lids.
 

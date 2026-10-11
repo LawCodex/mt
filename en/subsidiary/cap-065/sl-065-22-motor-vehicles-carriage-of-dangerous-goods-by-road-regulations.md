@@ -16,8 +16,6 @@ retrieved: 2026-10-12
 
 # Motor Vehicles (Carriage of Dangerous Goods By Road) Regulations (S.L. 65.22)
 
-(CARRIAGE OF DANGEROUS GOODS BY ROAD) [S.L.65.22 1
-
 **SUBSIDIARY LEGISLATION 65.22**
 
 **MOTOR VEHICLES (CARRIAGE OF DANGEROUS GOODS**
@@ -51,10 +49,6 @@ goods
 Sixth Schedule  Certificate of approval for vehicle carrying certain dangerous goods  
 Seventh Schedule Model certificate for the training of drivers of vehicles carrying dangerous  
 goods
-
-**(CARRIAGE OF DANGEROUS GOODS BY ROAD)**
-
-*[S.L.65.22 2*
 
 ## PART I — PRELIMINARY
 
@@ -96,11 +90,7 @@ In these regulations, unless the context otherwise requires:
 
 ''international transport'' means transport between two or more State Parties, including transport to or from Malta;
 
-''Malta'' has the same meaning as is assigned to it in article 124 (CARRIAGE OF DANGEROUS GOODS BY ROAD)
-
-of the Constitution of Malta;
-
-*[S.L.65.22 3*
+''Malta'' has the same meaning as is assigned to it in article 124 of the Constitution of Malta;
 
 ''MEGC'' means multiple element gas container;
 
@@ -128,11 +118,7 @@ of the Constitution of Malta;
 
 (1) Without prejudice to regulations 6 and 7, dangerous goods the transport of which is prohibited by Annex A and Annex B to the ADR, as applicable with effect from the 1st January, 2017, shall not be transported by road.
 
-(2) Save as otherwise provided in these regulations, the transport of other dangerous goods listed in Annex A to the ADR shall be authorized subject to compliance with the conditions [S.L.65.22 (CARRIAGE OF DANGEROUS GOODS BY ROAD)
-
-imposed in Annex A and Annex B to the ADR, in particular to:
-
-*4*
+(2) Save as otherwise provided in these regulations, the transport of other dangerous goods listed in Annex A to the ADR shall be authorized subject to compliance with the conditions imposed in Annex A and Annex B to the ADR, in particular to:
 
 (a) the packaging, packing, and labelling of the goods in question;
 
@@ -162,11 +148,7 @@ imposed in Annex A and Annex B to the ADR, in particular to:
 
 (1) The competent authority may grant temporary derogations from Annex A and Annex B to the ADR for the purpose of carrying out within Malta any necessary trials, provided that at no time the safety of the vehicle crew and roads open to the public are compromised.
 
-(2) Any abovementioned derogation is to be applied without discrimination on grounds of nationality or the place of (CARRIAGE OF DANGEROUS GOODS BY ROAD) [S.L.65.22
-
-establishment of the consignor, haulier or consignee.
-
-*5*
+(2) Any abovementioned derogation is to be applied without discrimination on grounds of nationality or the place of establishment of the consignor, haulier or consignee.
 
 (3) Any derogation granted in accordance with the provisions of this regulation may extend for a period not exceeding five years, which period may not be renewed.
 
@@ -202,10 +184,6 @@ Subject to the laws of Malta in force at the time regulating market access, vehi
 
 (3) This Part shall mutatis mutandis apply to road transport operations effected by means of transport registered or put into circulation in a third country or to road transport operations entering Malta from any such third country.
 
-*6*
-
-[S.L.65.22 (CARRIAGE OF DANGEROUS GOODS BY ROAD)
-
 ### 12. Check certificate and place of inspection.
 
 (1) In carrying out checks the competent authority is to record all results upon inspection in a form provided for in the First Schedule. A copy of this checklist or a certificate showing the result of the check shall be given to the driver of the vehicle:
@@ -236,11 +214,7 @@ Provided that notwithstanding the provisions of the last preceding paragraph, th
 
 ### 14. Exemption.
 
-(1) This Part shall not apply to undertakings involved in transport activities of dangerous goods having in each transport (CARRIAGE OF DANGEROUS GOODS BY ROAD) [S.L.65.22
-
-unit quantities smaller than those specified in Annex A and Annex B to the ADR.
-
-*7*
+(1) This Part shall not apply to undertakings involved in transport activities of dangerous goods having in each transport unit quantities smaller than those specified in Annex A and Annex B to the ADR.
 
 (2) The provisions of this Part shall be without prejudice to any provisions on health and safety of workers at the workplace in force at the time in Malta.
 
@@ -272,11 +246,7 @@ unit quantities smaller than those specified in Annex A and Annex B to the ADR.
 
 ### 18. DGSA certificate.
 
-The DGSA certificate referred to in the preceding regulation shall be valid for a period not exceeding five years. The period of validity of a DG SA certificate shall be extended automatically for five years at a time where, during the final year before each expiry, its holder shall have followed refresher courses or passed an examination both of which must be approved by the competent authority in accordance with any regulations which may [S.L.65.22 (CARRIAGE OF DANGEROUS GOODS BY ROAD)
-
-be made by the Minister from time to time.
-
-*8*
+The DGSA certificate referred to in the preceding regulation shall be valid for a period not exceeding five years. The period of validity of a DG SA certificate shall be extended automatically for five years at a time where, during the final year before each expiry, its holder shall have followed refresher courses or passed an examination both of which must be approved by the competent authority in accordance with any regulations which may be made by the Minister from time to time.
 
 ### 19. Reports.
 
@@ -307,10 +277,6 @@ Provided that this report shall not replace any report to be drawn up by the man
 (2) The regulations in this Part shall be without prejudice to any other regulations issued by the Minister from time to time relating to the transport of Class 1 materials or other dangerous goods.
 
 (3) This Part is applicable to vehicles designated ''EX/II'' and ''EX/III'' to be used in the transport of Class 1 materials, as stipulated in Annex B to the ADR.
-
-*9*
-
-(CARRIAGE OF DANGEROUS GOODS BY ROAD) [S.L.65.22
 
 ### 22. Packaging.
 
@@ -348,10 +314,6 @@ Provided that this report shall not replace any report to be drawn up by the man
 
 (3) All existing vehicles which fully comply with the above requirements may carry explosive articles and substances under this Part provided that the vehicle is clearly placarded and labelled as is prescribed in Annex A and Annex B to the ADR.
 
-*10*
-
-[S.L.65.22 (CARRIAGE OF DANGEROUS GOODS BY ROAD)
-
 (4) All explosive substances and articles under this Part which are to be transported must be at all times securely stowed.
 
 (5) All explosive substances and articles under this Part which are to be transported must be packaged, marked, stowed and/or segregated in the manner prescribed in Annex A and Annex B to the ADR. Mixed loading is not permitted unless the substances or articles are compatible.
@@ -382,11 +344,7 @@ For the purpose of this Part:
 
 ''FL'' means a vehicle intended for the carriage of liquids having a flash-point of not more than 61°C (with the exception of diesel fuel complying with standard EN 590:1993, gas oil, and heating oil (light) - UN No. 1202 - with a flash-point as specified in standard EN 590:1993) or flammable gases, in tank-containers, portable tanks or MEGCs of more than 3m3 capacity, fixed tanks or demountable tanks of more than 1m3 capacity or a battery vehicle of more than 1m3 capacity intended for the carriage of flammable gases;
 
-''OX'' means a vehicle intended for the carriage of hydrogen peroxide, stabilized or hydrogen peroxide, aqueous solution (CARRIAGE OF DANGEROUS GOODS BY ROAD) [S.L.65.22
-
-stabilized with more than 60 per cent hydrogen peroxide (Class 5.1, UN No. 2015) in tank-containers or portable tanks of more than 3m3 capacity, fixed tanks or demountable tanks of more than 1m3 capacity;
-
-*11*
+''OX'' means a vehicle intended for the carriage of hydrogen peroxide, stabilized or hydrogen peroxide, aqueous solution stabilized with more than 60 per cent hydrogen peroxide (Class 5.1, UN No. 2015) in tank-containers or portable tanks of more than 3m3 capacity, fixed tanks or demountable tanks of more than 1m3 capacity;
 
 ''AT'' means a vehicle, other than FL or OX, intended for the carriage of dangerous goods in tank containers, portable tanks or MEGCs of more than 3m3 capacity, fixed tanks or demountable tanks of more than 1m3 capacity or a battery vehicle of more than 1m3 capacity other than an FL vehicle.
 
@@ -418,11 +376,7 @@ All vehicles, including tractor and trailer units used for the transport of dang
 
 (2) All existing vehicles as is mentioned in subregulation (1) cannot be used for international transport of dangerous goods.
 
-(3) All existing vehicles as are mentioned in subregulation (1) may be used for national transport of dangerous goods provided [S.L.65.22 (CARRIAGE OF DANGEROUS GOODS BY ROAD)
-
-that:
-
-*12*
+(3) All existing vehicles as are mentioned in subregulation (1) may be used for national transport of dangerous goods provided that:
 
 (a) the vehicle is subject to the annual roadworthiness check and is maintained in such a condition as to make it fit to use safely;
 
@@ -450,11 +404,7 @@ that:
 
 (1) All tanks, tank containers, multiple element gas containers (MEGCs), demountable tanks and transportable pressure equipment used in the transport of dangerous goods are to comply with the requirements mentioned in Annex A and Annex B to the ADR.
 
-(2) The competent authority may at any time check such tanks, (CARRIAGE OF DANGEROUS GOODS BY ROAD) [S.L.65.22
-
-tank containers, multiple element gas containers (MEGCs), demountable tanks and transportable pressure equipment to ensure conformity with the requirements laid down in Annex A and Annex B to the ADR and to ensure that the tanks or containers being used are fit and designed for the safe transport of dangerous goods.
-
-*13*
+(2) The competent authority may at any time check such tanks, tank containers, multiple element gas containers (MEGCs), demountable tanks and transportable pressure equipment to ensure conformity with the requirements laid down in Annex A and Annex B to the ADR and to ensure that the tanks or containers being used are fit and designed for the safe transport of dangerous goods.
 
 (3) The competent authority may direct the owner of such tanks, tank containers, multiple element gas containers (MEGCs), demountable tanks and transportable pressure equipment to undergo a check at any place designated by the competent authority for that purpose.
 
@@ -480,13 +430,11 @@ All existing tanks, tank containers, multiple element gas containers (MEGCs), de
 
 (3) The competent authority may at any time demand that another check be held if the competent authority reasonably believes that the person performing the check was not competent or if for any other reason believes that the safety of the transport of dangerous goods, has been, or could be compromised.
 
-(4) The competent authority shall from time to time issue guidelines relating to all inspections and checks under this Part. [S.L.65.22 (CARRIAGE OF DANGEROUS GOODS BY ROAD)
+(4) The competent authority shall from time to time issue guidelines relating to all inspections and checks under this Part.
 
 ### 36. Placarding.
 
 All tanks, tank containers, multiple element gas containers (MEGCs), demountable tanks and transportable pressure equipment are to be properly marked and placarded as is required in Annex A and Annex B to the ADR.
-
-*14*
 
 ### 37. Prohibition of use of tanks, etc.
 
@@ -514,11 +462,7 @@ All persons employed or involved in transport activities of dangerous goods, sha
 
 (1) The employer shall provide general awareness training to all persons employed by him in transport activities of dangerous goods to make all such employees familiar with the general requirements of the provisions for the carriage of dangerous goods laid down in Annex A and Annex B to the ADR.
 
-(2) Where the carriage of dangerous goods involves a multimodal transport operation, all persons employed or involved (CARRIAGE OF DANGEROUS GOODS BY ROAD) [S.L.65.22
-
-in transport activities of dangerous goods shall also be given training to be familiar with the requirements concerning other modes of transport.
-
-*15*
+(2) Where the carriage of dangerous goods involves a multimodal transport operation, all persons employed or involved in transport activities of dangerous goods shall also be given training to be familiar with the requirements concerning other modes of transport.
 
 ### 42. Nature and extent of training.
 
@@ -541,8 +485,6 @@ in transport activities of dangerous goods shall also be given training to be fa
 (3) The competent authority may at any time request the production of training details of any employee.
 
 (4) If the competent authority is of the opinion that any employee is not duly qualified or trained, and consequently the safety of the transport of dangerous goods may be jeopardized, the competent authority may take all necessary steps to suspend, or to order the training of the said employee.
-
-16 [S.L.65.22 (CARRIAGE OF DANGEROUS GOODS BY ROAD)
 
 Substituted by: FIRST SCHEDULE
 
@@ -594,8 +536,6 @@ authorization
 
 \26. Tank/vehicle placarding (ADR  inspected  infringements established  not applicable 5.3.1.)
 
-(CARRIAGE OF DANGEROUS GOODS BY ROAD) [S.L.65.22 17
-
 \27. Vehicle/transport unit marking  inspected  infringements established  not applicable (orange plate, elev. temp.) (ADR
 
 5.3.2-3)
@@ -621,8 +561,6 @@ Equipment on board
 (2) To be stated under 'remarks' for groupage transport operations
 
 (3) Check of visible violations
-
-18 [S.L.65.22 (CARRIAGE OF DANGEROUS GOODS BY ROAD)
 
 Substituted by: SECOND SCHEDULE
 
@@ -684,9 +622,7 @@ Failures are:
 
 \2. Risk Category II
 
-Where failures to comply with relevant ADR provisions create a risk of personal injury or damage to the environment such failures would normally lead to taking appropriate corrective (CARRIAGE OF DANGEROUS GOODS BY ROAD) [S.L.65.22 19
-
-measures such as requiring rectification at the site of control if possible and appropriate, but at the completion of the current transport movement at the latest.
+Where failures to comply with relevant ADR provisions create a risk of personal injury or damage to the environment such failures would normally lead to taking appropriate corrective measures such as requiring rectification at the site of control if possible and appropriate, but at the completion of the current transport movement at the latest.
 
 Failues are:
 
@@ -752,8 +688,6 @@ noted, according to risk category I
 
 category (2)
 
-20 [S.L.65.22 (CARRIAGE OF DANGEROUS GOODS BY ROAD)
-
 Risk
 
 category II
@@ -781,8 +715,6 @@ DANGEROUS GOODS TRANSPORTED BY .................................... t or .......
 (1) For the purposes of this Part the country of registration is that of the motor vehicle.
 
 (2) In the event that there are several infringements per transport unit, only the most serious risk category (as indicated under item 32 in the First Schedule) shall be applied.
-
-(CARRIAGE OF DANGEROUS GOODS BY ROAD) [S.L.65.22 21
 
 THIRD SCHEDULE
 
@@ -827,10 +759,6 @@ j) the introduction of measures to increase awareness of the risks inherent in t
 k) the implementation of verification procedures to ensure the presence on board means of transport of the documents and safety equipment which must accompany transport and the compliance of such documents and equipment with the regulations;
 
 l) the implementation of verification procedures to ensure compliance with the rules governing loading and unloading.
-
-*22*
-
-[S.L.65.22 (CARRIAGE OF DANGEROUS GOODS BY ROAD)
 
 FOURTH SCHEDULE
 
@@ -926,10 +854,6 @@ f. vehicle papers:
 
 \5. the attestation of training in inland waterway transport,
 
-*23*
-
-(CARRIAGE OF DANGEROUS GOODS BY ROAD) [S.L.65.22
-
 \6. copies of any derogations,
 
 \7. other documents,
@@ -943,8 +867,6 @@ h. traffic and navigation regulations and restrictions;
 i. operational and accidental discharges of pollutants;
 
 j. requirements relating to transport equipment.
-
-24 [S.L.65.22 (CARRIAGE OF DANGEROUS GOODS BY ROAD)
 
 ## FIFTH SCHEDULE
 
@@ -962,11 +884,7 @@ Certificate No: ................................................................
 
  by road  by rail  by inland waterway
 
-Issued by: ........................................................................................................................... Date: ................................................... Signature: .............................................................. Extended until: ...................................... By: ...................................................................... Date: ................................................... Signature: ..............................................................
-
-(CARRIAGE OF DANGEROUS GOODS BY ROAD) [S.L.65.22 25
-
-SIXTH SCHEDULE Substituted by:
+Issued by: ........................................................................................................................... Date: ................................................... Signature: .............................................................. Extended until: ...................................... By: ...................................................................... Date: ................................................... Signature: .............................................................. SIXTH SCHEDULE Substituted by:
 
 L.N. 349 of 2005;
 
@@ -1056,10 +974,6 @@ Place, Date, Signature
 
 1 According to the definitions for power-driven vehicles and for trailers of categories N and O as defined in Annex 7 of the Consolidated Resolution on the Construction of Vehicles (R.E.3) or in Directive 97/27/EC. 2. Strike out what is not appropriate. 3. Mark the appropriate. 4. Enter appropriate value. A value of 44t will not limit the ‘registration / in-service maximum permissible mass’
 
-**[S.L.65.22 (CARRIAGE OF DANGEROUS GOODS BY ROAD)**
-
-*26*
-
 indicated in the registration document(s).
 
 *\5.*
@@ -1077,8 +991,6 @@ Extensions of validity:
 Validity extended until Stamp of issuing service, place, date, signature
 
 Note: This certificate shall be returned to the issuing service when the vehicle is taken out of serrvice; if the vehicle is transferred to another carrier, operator or owner, as specified in No. 5; on expiry of the validity of the certificate; and if there is a material change in one or more essential characteristics of the vehicle.
-
-(CARRIAGE OF DANGEROUS GOODS BY ROAD) [S.L.65.22 27
 
 SEVENTH SCHEDULE Substituted by:
 

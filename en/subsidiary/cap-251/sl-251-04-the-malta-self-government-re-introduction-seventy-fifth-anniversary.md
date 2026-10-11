@@ -1,6 +1,6 @@
 ---
 title: "The Malta Self-Government Re-introduction Seventy-Fifth Anniversary Medal Rules"
-identifier: "S.L. 251.4"
+identifier: "S.L. 251.04"
 eli: "https://legislation.mt/eli/sl/251.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/251.4/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# The Malta Self-Government Re-introduction Seventy-Fifth Anniversary Medal Rules (S.L. 251.4)
-
-*1*
-
-RE-INTRODUCTION SEVENTY-FIFTH ANNIVERSARY [S.L.251.04
+# The Malta Self-Government Re-introduction Seventy-Fifth Anniversary Medal Rules (S.L. 251.04)
 
 **SUBSIDIARY LEGISLATION 251.04**
 
@@ -65,11 +61,7 @@ Provided that persons who on the 7th June, 1996 are Members of the House of Repr
 
 (b) by any High Commissioner or Ambassador authorised to make the award in the name of the President; or
 
-(c) by any other person designated by the President on the advice of the Prime Minister to make the award on [S.L.251.04 RE-INTRODUCTION SEVENTY-FIFTH ANNIVERSARY
-
-behalf of the President.
-
-*2*
+(c) by any other person designated by the President on the advice of the Prime Minister to make the award on behalf of the President.
 
 (2) When Medals are presented by the President, he shall address recipients as follows:
 

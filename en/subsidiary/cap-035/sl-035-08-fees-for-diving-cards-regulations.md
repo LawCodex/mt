@@ -1,6 +1,6 @@
 ---
 title: "Fees for Diving Cards Regulations"
-identifier: "S.L. 35.8"
+identifier: "S.L. 35.08"
 eli: "https://legislation.mt/eli/sl/35.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/35.8/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Fees for Diving Cards Regulations (S.L. 35.8)
+# Fees for Diving Cards Regulations (S.L. 35.08)
 
 **SUBSIDIARY LEGISLATION 35.08**
 

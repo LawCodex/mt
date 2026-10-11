@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Civil Code (Second Schedule) (Register of Beneficial Owners - Foundations) Regulations (S.L. 16.18)
 
-*1*
-
-(REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS) [S.L. 16.18 SUBSIDIARY LEGISLATION 16.18
+**SUBSIDIARY LEGISLATION 16.18**
 
 **CIVIL CODE (SECOND SCHEDULE)**
 
@@ -55,10 +53,6 @@ retrieved: 2026-10-12
 
 (c) where the administrator is a legal organisation, the persons appointed to act as directors of such legal organisation or the equivalent, if designated under any other name, and who agree in writing to so act,
 
-*2*
-
-[S.L. 16.18 (REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS)
-
 and this, for as long as they continue to occupy such office and whether resident in Malta or otherwise and for the avoidance of doubt, in the event that a foundation appoints a liquidator in the process of its winding up, such liquidator shall have the same duties of administrators under these regulations:
 
 Provided that a reference to an administrator of a foundation, with respect to carrying out any act or signing a document, shall be deemed to include any person who is engaged or to whom such function has been delegated in writing by the foundation, the legal organisation or by the relevant administrator or director who shall be deemed to have the authority to delegate such powers in virtue hereof;
@@ -81,11 +75,9 @@ Provided that a reference to an administrator of a foundation, with respect to c
 
 "commercial transactions" means acts of trade and the trading activities and commercial transactions and activities listed in article 31B (Private foundations and trading activities) and article 32A (Public benefit foundations and trading activities) of the Second Schedule;
 
-"Directive" means Directive (EU) 2018/843 of the European (REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS) [S.L. 16.18 Parliament and of the Council of 30 May 2018 amending Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing and amending Directives 2009/138/EC and 2013/36/EU;
+"Directive" means Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018 amending Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing and amending Directives 2009/138/EC and 2013/36/EU;
 
 "director" means the administrator of any type of legal organisation under whatever name such office may be designated in any relevant special law:
-
-*3*
 
 Provided that any reference to a director of a legal organisation with respect to carrying out any act or signing a document, shall be deemed to include any person who is engaged or to whom such function has been delegated in writing by the foundation, the legal organisation or by the relevant administrator or director who shall be deemed to have the authority to delegate such powers in virtue hereof;
 
@@ -113,11 +105,7 @@ and which are entrusted to the administration of a designated person or persons,
 
 (e) the continuation of the foundation in another country;
 
-(f) the assignment or transfer of all or the majority of [S.L. 16.18 (REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS)
-
-the assets of the foundation; or
-
-*4*
+(f) the assignment or transfer of all or the majority of the assets of the foundation; or
 
 (g) the termination or revocation of the foundation;
 
@@ -157,9 +145,7 @@ the assets of the foundation; or
 
 whether enrolled as a voluntary organisation under the Voluntary Organisations Act or otherwise;
 
-*5*
-
-(REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS) [S.L. 16.18 (b) foundations which are set up for a lawful purpose being the pursuance or implementation of commercial transactions;
+(b) foundations which are set up for a lawful purpose being the pursuance or implementation of commercial transactions;
 
 (c) any private foundation which is registered in the Register of Legal Persons where all the beneficiaries are natural persons, who are not mandatories or trustees or acting in any other fiduciary capacity, and who are designated as such in the statute or amendments thereto in accordance with the requirements of the Second Schedule and whose details are disclosed in the public records in the Register of Legal Persons maintained by the Registrar for Legal Persons pursuant to an unconditional waiver of confidentiality regulated by sub-article (3) of article 31C of the Second Schedule or under a provision of applicable law; and
 
@@ -183,10 +169,6 @@ whether enrolled as a voluntary organisation under the Voluntary Organisations A
 
 *Cap. 3.*
 
-*6*
-
-[S.L. 16.18 (REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS)
-
 (c) any other type of foundation not referred to above which the Minister, in consultation with the Minister responsible for finance, may by notice designate.
 
 (3) The Registrar may, from time to time, issue guidelines to further define terms and to establish any restrictions and applicable conditions relating to the manner in which the exclusions referred to in sub-regulation (2)(b) shall apply.
@@ -205,11 +187,9 @@ Provided that for the purposes of the said paragraph (e), when reference is made
 
 (d) in the case of a beneficiary as defined in paragraph (d) of the definition "beneficial owner" in regulation 2(1), the nature and extent of the beneficial interest held by such beneficiary and any changes thereto, including the effective date on which his beneficial interest in the foundation has increased or been reduced if such changes take place, as well as, when applicable, an indication as to whether the foundation statute or any other instrument in writing include any suspension of the administrator’s duty to inform such beneficiary of his benefit under the foundation or that he forms part of a class of beneficiaries which may so benefit, and in such case, such person shall not be considered to be a beneficiary until such time as he is informed of such benefit or receives actual benefit.
 
-(2) For the purpose of this regulation, where the beneficiaries (REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS) [S.L. 16.18 of a foundation constitute a class of beneficiaries, the following rules shall apply unless otherwise stated in the statute or the beneficiary statement of the foundation:
+(2) For the purpose of this regulation, where the beneficiaries of a foundation constitute a class of beneficiaries, the following rules shall apply unless otherwise stated in the statute or the beneficiary statement of the foundation:
 
 (a) the class shall be described and its members declared as required by this regulation;
-
-*7*
 
 (b) when reference is made to the "family" of a person, the class is considered to be made up of the person, his direct ascendants, his spouse, his direct descendants, and unless excluded, their respective spouses;
 
@@ -225,11 +205,7 @@ Provided that nothing in the above shall affect the interpretation of a statute 
 
 (3) Any person who has reasonable cause to believe that he is a beneficial owner of a foundation shall be bound to provide the information required under sub-regulation (1) to the foundation without delay:
 
-Provided that, without prejudice to the aforesaid, the foundation shall obtain the information required under sub-regulation (1) from the beneficial owners of the foundation and, or from any [S.L. 16.18 (REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS)
-
-natural person whom it has reasonable cause to believe to be a beneficial owner, who shall be bound to provide the said information to the foundation within a reasonable time of being requested, not being in excess of fourteen (14) days, and every beneficiary who acquires, disposes of, increases or reduces his beneficial interest in the foundation, or whose beneficial interest is disposed of, increased or reduced through an action of the administrators of the foundation or of any other person having powers to do so under the deed and, or statute of the foundation, and every person who is appointed or ceases to be or to carry out the role of beneficial owner in relation to the foundation in terms of paragraphs (a) to (c) and (e) of the definition "beneficial owner" in regulation 2(1) shall be bound to provide the said information to the foundation within fourteen (14) days of such event taking place:
-
-*8*
+Provided that, without prejudice to the aforesaid, the foundation shall obtain the information required under sub-regulation (1) from the beneficial owners of the foundation and, or from any natural person whom it has reasonable cause to believe to be a beneficial owner, who shall be bound to provide the said information to the foundation within a reasonable time of being requested, not being in excess of fourteen (14) days, and every beneficiary who acquires, disposes of, increases or reduces his beneficial interest in the foundation, or whose beneficial interest is disposed of, increased or reduced through an action of the administrators of the foundation or of any other person having powers to do so under the deed and, or statute of the foundation, and every person who is appointed or ceases to be or to carry out the role of beneficial owner in relation to the foundation in terms of paragraphs (a) to (c) and (e) of the definition "beneficial owner" in regulation 2(1) shall be bound to provide the said information to the foundation within fourteen (14) days of such event taking place:
 
 Provided further that, in cases where a beneficiary is a legal organisation or a fiduciary or other intermediary, information shall be obtained with reference to the natural person who is the ultimate beneficial owner thereof.
 
@@ -239,11 +215,9 @@ Any information contained in the deed or statute of a foundation, or any benefic
 
 (5) Every foundation established for the benefit of a named beneficiary or beneficiaries or a class of beneficiaries, shall enter the information referred to in sub-regulation (1) in a register of beneficial owners, which register shall be kept and maintained by the foundation, or its delegates, at the registered address of the foundation or at such other place as may be specified in the statute of the foundation.
 
-(6) Every foundation established solely to achieve a stated purpose and which does not have any beneficiaries as defined in paragraph (d) of the definition "beneficial owner" in regulation 2(1) (REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS) [S.L. 16.18 shall only be required to enter the information referred to in paragraphs (a) to (c) and (e) of such definition in a register of beneficial owners, which register shall be kept and maintained by the foundation, or its delegates, at the registered address of the foundation or at such other place as may be specified in the statute of the foundation.
+(6) Every foundation established solely to achieve a stated purpose and which does not have any beneficiaries as defined in paragraph (d) of the definition "beneficial owner" in regulation 2(1) shall only be required to enter the information referred to in paragraphs (a) to (c) and (e) of such definition in a register of beneficial owners, which register shall be kept and maintained by the foundation, or its delegates, at the registered address of the foundation or at such other place as may be specified in the statute of the foundation.
 
 (7) A foundation shall not:
-
-*9*
 
 (a) enter the name of a beneficial owner or any changes to the beneficial interest in the register of beneficial owners; or
 
@@ -261,11 +235,7 @@ unless it has obtained, as may be applicable, information on the underlying bene
 
 (a) the foundation and every administrator of the foundation who is in default shall be jointly and severally liable to a penalty, and, for every day during which the default continues, to a further penalty:
 
-Provided that the foundation and the administrators of the foundation shall not be liable if they had exercised all due diligence to comply with the provisions of this regulation and the default was not due to any negligent act or omission on their [S.L. 16.18 (REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS)
-
-part; and
-
-*10*
+Provided that the foundation and the administrators of the foundation shall not be liable if they had exercised all due diligence to comply with the provisions of this regulation and the default was not due to any negligent act or omission on their part; and
 
 (b) every beneficial owner, other than the persons referred to in paragraph (a), who is in default without valid excuse shall be liable to a penalty and, for every day during which the default continues, to a further penalty.
 
@@ -285,13 +255,11 @@ whichever is the earlier.
 
 Provided that if the foundation is not registered with the Registrar for Legal Persons in terms of the Second Schedule or applicable regulations, there shall also be delivered to the Registrar for Legal Persons by the aforementioned date, together with the aforementioned declaration, an authenticated copy of the deed and statute of the foundation.
 
-(2) A foundation referred to in this regulation shall not be registered, if the foundation is not yet registered, and, in any case, all relative forms and documents shall not be registered in accordance with the Second Schedule and any applicable regulations, unless the (REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS) [S.L. 16.18 Registrar for Legal Persons is satisfied that the requirements of this regulation have also been complied with.
+(2) A foundation referred to in this regulation shall not be registered, if the foundation is not yet registered, and, in any case, all relative forms and documents shall not be registered in accordance with the Second Schedule and any applicable regulations, unless the Registrar for Legal Persons is satisfied that the requirements of this regulation have also been complied with.
 
 ## 6. Foundations established on or after 1st July 2019 up to the date of the coming into force of these regulations.
 
 (1) Any foundation which is established on or after 1st July 2019 until the coming into force of these regulations, shall comply with these regulations within three (3) months of the coming into force of these regulations and there shall be delivered to the Registrar for Legal Persons within such time period:
-
-*11*
 
 (a) an authenticated copy of its deed and statute, if an application for the registration of the foundation in terms of the Second Schedule is not submitted within such time; and
 
@@ -311,11 +279,7 @@ Provided that if the foundation is not registered with the Registrar for Legal P
 
 (4) (a) Any personal data submitted to the Registrar for Legal Persons under these regulations shall be current and shall correspond to the actual beneficial owners of the foundation on the date of submission.
 
-(b) On a continuing basis, if the foundation is registered, the Registrar for Legal Persons shall not proceed with the registration of any registerable forms or documents of the foundation delivered to him in accordance with any applicable special law, unless [S.L. 16.18 (REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS)
-
-the Registrar for Legal Persons is satisfied that the requirements of these regulations have been complied with.
-
-*12*
+(b) On a continuing basis, if the foundation is registered, the Registrar for Legal Persons shall not proceed with the registration of any registerable forms or documents of the foundation delivered to him in accordance with any applicable special law, unless the Registrar for Legal Persons is satisfied that the requirements of these regulations have been complied with.
 
 For the purpose of these regulations:
 
@@ -337,11 +301,9 @@ Provided that the foundation and the administrators of the foundation shall not 
 
 (2) Documents required to be delivered to the Registrar for Legal Persons under any of the provisions of these regulations shall not form part of, nor be registered in, the main Register of Legal Persons administered by the Registrar for Legal Persons under the Second Schedule and the information on the beneficial owners of every foundation provided to the Registrar for Legal Persons in accordance with these regulations shall be entered and held by the Registrar for Legal Persons only in the Register of Beneficial Owners kept by the Registrar for Legal Persons for this purpose.
 
-(3) The Register of Beneficial Owners shall be accessible only to such persons under such conditions and in accordance with such procedures as are set out in these regulations. For the avoidance of (REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS) [S.L. 16.18 doubt, in case of conflict regarding accessibility, between any special law governing a particular foundation, including the Second Schedule, and these regulations, these regulations shall prevail over the provisions of any special law in so far as the Register of Beneficial Owners is concerned.
+(3) The Register of Beneficial Owners shall be accessible only to such persons under such conditions and in accordance with such procedures as are set out in these regulations. For the avoidance of doubt, in case of conflict regarding accessibility, between any special law governing a particular foundation, including the Second Schedule, and these regulations, these regulations shall prevail over the provisions of any special law in so far as the Register of Beneficial Owners is concerned.
 
 (4) The information provided by a foundation in terms of these regulations shall be deemed to be sufficiently reliable for the Registrar for Legal Persons to proceed with the registration or relevant action; however, he may demand any additional or updated information to verify that a foundation is at any time complying with its duties under these regulations.
-
-*13*
 
 ## 8. Notice of change in beneficial owners to the Registrar for Legal Persons.
 
@@ -356,10 +318,6 @@ Provided that if the change in the beneficial ownership information relates to a
 (4) The notice of changes in beneficial ownership referred to in sub-regulation (2), duly completed, shall be signed by at least one administrator of the foundation. Where the administrator is a body corporate, such notice shall be signed by at least a director thereof.
 
 (5) In case of default in complying with the provisions of this regulation, the foundation and every administrator of the foundation who is in default shall be jointly and severally liable to a penalty, and, for every day during which the default continues, to a further penalty:
-
-*14*
-
-[S.L. 16.18 (REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS)
 
 Provided that the foundation and the administrators of the foundation shall not be liable if they had exercised all due diligence to comply with the provisions of this regulation and the default was not due to any negligent act or omission on their part.
 
@@ -387,13 +345,11 @@ the person aggrieved or any beneficial owner may apply to Civil Court, First Hal
 
 (e) more generally, decide any question necessary or expedient to be decided for rectification of the relevant register.
 
-(3) All decisions of Civil Court, First Hall, relating to the above mentioned registers shall be deemed to be orders which apply to the foundation and also to the Registrar for Legal Persons, without (REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS) [S.L. 16.18 being a party thereto, and they shall, upon being notified with a certified copy of the judgment of Civil Court, First Hall, act accordingly to ensure that identical actions are taken in the register of beneficial owners and, or the Register of Beneficial Owners.
+(3) All decisions of Civil Court, First Hall, relating to the above mentioned registers shall be deemed to be orders which apply to the foundation and also to the Registrar for Legal Persons, without being a party thereto, and they shall, upon being notified with a certified copy of the judgment of Civil Court, First Hall, act accordingly to ensure that identical actions are taken in the register of beneficial owners and, or the Register of Beneficial Owners.
 
 *Discrepancies.*
 
 (4) (a) Subject persons referred to in sub-regulation (1)(b) of regulation 10 and, if appropriate and to the extent that this does not interfere unnecessarily with their functions, competent authorities referred to in regulation 10(1)(a), shall report to the Registrar for Legal Persons any discrepancies they find between the beneficial ownership information available in the Register of Beneficial Owners and the beneficial ownership information otherwise available to them.
-
-*15*
 
 (b) In the case of reported discrepancies, the Registrar for Legal Persons shall unless otherwise prohibited in terms of these regulations and only to the extent permitted by these regulations, inform the foundation of the reported discrepancy requesting a clarification thereon within a time period indicated therein, together with any documentation which he shall consider necessary for such discrepancy to be resolved, and may at his discretion, insert an annotation in the Register of Beneficial Owners as he deems appropriate.
 
@@ -404,10 +360,6 @@ the person aggrieved or any beneficial owner may apply to Civil Court, First Hal
 ## 10. Access to information in the Register of Beneficial Owners.
 
 (1) The information on the beneficial owners of a foundation held by the Registrar for Legal Persons in the Register of Beneficial Owners shall, subject to the provisions of these regulations, be accessible to:
-
-*[S.L. 16.18 16*
-
-(REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS)
 
 (a) national competent authorities being public authorities with designated responsibilities for combating money laundering or terrorist financing, or that have the function of investigating or prosecuting money laundering, associated predicate offences and terrorist financing, or of tracing, seizing, freezing and confiscating criminal assets, the Financial Intelligence Analysis Unit and national tax authorities, supervisors of subject persons and any other national competent authority within the meaning assigned to it under the Prevention of Money Laundering and Funding of Terrorism Regulations not already covered above, for the purposes of fulfilling their statutory functions in a timely manner without any restriction and without alerting the foundation or the beneficial owners concerned; and
 
@@ -437,9 +389,7 @@ the person aggrieved or any beneficial owner may apply to Civil Court, First Hal
 
 (ii) has fiduciary duties towards a named beneficiary, or a class of beneficiaries, which is a legal organisation and not a natural person, and only in relation to such beneficiary which is a legal organisation,
 
-*17*
-
-(REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS) [S.L. 16.18 any member of the general public and any organisation, other than those referred to in sub-regulation (1), may be provided with the following information held in the Register of Beneficial Owners with reference to a specified foundation:
+any member of the general public and any organisation, other than those referred to in sub-regulation (1), may be provided with the following information held in the Register of Beneficial Owners with reference to a specified foundation:
 
 (aa) the name;
 
@@ -467,11 +417,7 @@ of the beneficial owners of the foundation and this shall be granted in a timely
 
 (e) the nature and extent of the beneficial interest,
 
-of the beneficial owners of the foundation and this shall be granted in a timely manner. Any such person shall not be granted access to any other information or documents relating to the beneficial owners of the [S.L. 16.18 (REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS)
-
-foundation which may be in the possession of the Registrar for Legal Persons.
-
-*18*
+of the beneficial owners of the foundation and this shall be granted in a timely manner. Any such person shall not be granted access to any other information or documents relating to the beneficial owners of the foundation which may be in the possession of the Registrar for Legal Persons.
 
 (4) The subject persons mentioned in sub-regulation (1)(b) shall, together with the written request, submit to the Registrar for Legal Persons:
 
@@ -491,11 +437,9 @@ foundation which may be in the possession of the Registrar for Legal Persons.
 
 (c) any other document which the Registrar for Legal Persons may deem necessary:
 
-Provided that for this purpose, the Registrar for Legal Persons may publish guidelines setting out the documentation required to support such a request to information (REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS) [S.L. 16.18 held in the Register of Beneficial Owners as well as the procedure for making such requests and any other applicable conditions.
+Provided that for this purpose, the Registrar for Legal Persons may publish guidelines setting out the documentation required to support such a request to information held in the Register of Beneficial Owners as well as the procedure for making such requests and any other applicable conditions.
 
 (6) The persons or organisations mentioned in sub-regulation (3) shall, together with a written request, submit to the Registrar for Legal Persons:
-
-*19*
 
 (a) identification details and other information supported by documents, certified as authentic, identifying the person requesting information from the Register of Beneficial Owners;
 
@@ -515,10 +459,6 @@ The Registrar for Legal Persons may publish guidelines setting out the documenta
 
 (b) the legal basis for their request; and
 
-*20*
-
-[S.L. 16.18 (REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS)
-
 (c) the reasons for the decision taken by the Registrar for Legal Persons to grant access to information,
 
 available to the foundation and, or the relevant beneficial owner to enable such foundation or beneficial owner to protect their own interests.
@@ -537,11 +477,9 @@ Any such request and any permission granted shall be limited to the specific fou
 
 *Special cases involving serious risks.*
 
-(9) (a) Except in the case contemplated in sub-regulation (1)(a) or in the case of credit or financial institutions in the course of carrying out their duties under laws for the prevention of money laundering and terrorist financing or of subject persons that are public officials, access to information on a beneficial owner of a foundation may be denied, in full or in part, where in exceptional circumstances, to be justified by means of documentary evidence and to be determined on a case by case basis, following a detailed evaluation of the exceptional nature of the circumstances, access to such beneficial ownership (REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS) [S.L. 16.18 information would expose the beneficial owner to disproportionate risk, risk of fraud, kidnapping, blackmail, extortion, harassment, violence or intimidation, or where the beneficial owner is a minor or is otherwise legally incapable.
+(9) (a) Except in the case contemplated in sub-regulation (1)(a) or in the case of credit or financial institutions in the course of carrying out their duties under laws for the prevention of money laundering and terrorist financing or of subject persons that are public officials, access to information on a beneficial owner of a foundation may be denied, in full or in part, where in exceptional circumstances, to be justified by means of documentary evidence and to be determined on a case by case basis, following a detailed evaluation of the exceptional nature of the circumstances, access to such beneficial ownership information would expose the beneficial owner to disproportionate risk, risk of fraud, kidnapping, blackmail, extortion, harassment, violence or intimidation, or where the beneficial owner is a minor or is otherwise legally incapable.
 
 (b) Every request for information which raises the above risks based on information provided by the foundation when complying with these regulations shall be examined by the Registrar for Legal Persons on a case-by-case basis prior to his determination on whether to grant access to information or otherwise. Such denial of access by the Registrar for Legal Persons shall only be decided upon a detailed evaluation of the exceptional nature of the circumstances.
-
-*21*
 
 (10) (a) The Registrar for Legal Persons shall be bound to notify the foundation to which sub-regulation (9) applies, in writing, of any application for information relating to the applicants mentioned in sub-regulations (1)(b), (2) and (3) and the legal basis for the request.
 
@@ -555,11 +493,7 @@ Provided that the Registrar for Legal Persons shall not grant access until the c
 
 (11) (a) The Registrar for Legal Persons shall be bound to notify the applicant in writing, with a copy to the foundation, of any decisions that he may take refusing a written request made to him on the basis of sub-regulation (9), providing the reasons for his decision. The Registrar for Legal Persons shall do so in a timely manner.
 
-(b) Any applicant who feels aggrieved by the decision of the Registrar for Legal Persons shall have a right to apply for judicial review of such decision, within twenty (20) working days from receipt thereof, which application for judicial review shall also [S.L. 16.18 (REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS)
-
-be notified to the Registrar for Legal Persons who shall have twenty (20) working days to respond to such application. The sworn application shall also be notified to the foundation, which may consult the relevant beneficial owner, who shall be entitled to participate in the proceedings with the foundation.
-
-*22*
+(b) Any applicant who feels aggrieved by the decision of the Registrar for Legal Persons shall have a right to apply for judicial review of such decision, within twenty (20) working days from receipt thereof, which application for judicial review shall also be notified to the Registrar for Legal Persons who shall have twenty (20) working days to respond to such application. The sworn application shall also be notified to the foundation, which may consult the relevant beneficial owner, who shall be entitled to participate in the proceedings with the foundation.
 
 (12) A sworn application for judicial review from the decision of the Registrar for Legal Persons in terms of sub-regulations (10) and (11) shall be made to Civil Court, First Hall, with a right of appeal, within twenty (20) working days from the date on which the decision of Civil Court, First Hall is given, to the Court of Appeal in its inferior jurisdiction. An appeal may be made on any point of law and, or of fact by means of a sworn application.
 
@@ -583,11 +517,9 @@ be notified to the Registrar for Legal Persons who shall have twenty (20) workin
 
 (i) a legitimate interest to be granted access to information on the beneficial owners of a foundation shall be satisfactorily demonstrated if the person requesting such access can prove that the interest specifically and solely relates to and will contribute to the prevention, detection and combating of money laundering or the associated predicate offences or the financing of terrorism and shall be justified on the basis of previous activities and a proven track record of actions in that field, by means of relevant documentary evidence;
 
-(ii) the existence or otherwise of a legitimate interest (REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS) [S.L. 16.18 shall be conclusively determined, on a case by case basis, by the Registrar for Legal Persons and for such purpose the Registrar for Legal Persons may request any information he deems necessary for the determination of such legitimate interest and, or seek guidance from or consult with any person or authority as may be deemed necessary.
+(ii) the existence or otherwise of a legitimate interest shall be conclusively determined, on a case by case basis, by the Registrar for Legal Persons and for such purpose the Registrar for Legal Persons may request any information he deems necessary for the determination of such legitimate interest and, or seek guidance from or consult with any person or authority as may be deemed necessary.
 
 (b) The Registrar for Legal Persons may request from the foundation any information he considers relevant in order to assess and process the request made for access to beneficial owner information and while doing so may share the information referred to in regulation 10(7)(a) and (b):
-
-*23*
 
 Provided that in determining whether the applicant has such legitimate interest, the Registrar for Legal Persons may also request any information and, or any relevant documentary evidence he deems necessary from any person or authority.
 
@@ -604,10 +536,6 @@ Provided that in determining whether the applicant has such legitimate interest,
 ## 11. Data protection and confidentiality. Cap. 586.
 
 (1) All persons entitled to access and receive information in terms of these regulations shall comply with the provisions of the Data Protection Act and relevant regulations thereunder, in relation to the information which they have accessed or received, and they shall also be subject to the obligation not to disclose any information about beneficial owners except as required or permitted by law.
-
-*24*
-
-[S.L. 16.18 (REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS)
 
 (2) The Registrar for Legal Persons shall be bound to maintain confidentiality on any access to the Register of Beneficial Owners by the authorities referred to in regulation 10(1)(a) and shall not inform the foundation or the beneficial owners on whom information is sought of such access. In all other cases the Registrar for Legal Persons shall act according to these regulations and shall endeavour to do so within reasonable times.
 
@@ -629,13 +557,11 @@ Provided that in determining whether the applicant has such legitimate interest,
 
 (ii) other persons who are seeking information from the foundation itself and who are entitled to demand, and be provided with, such information, are doing so for the purposes of special laws which are intended for the prevention, detection and combating of money laundering or the associated predicate offences or the financing of terrorism.
 
-(3) In any case, subject persons shall not rely exclusively on the Register of Beneficial Owners to fulfil their customer due diligence requirements and access to such Register of Beneficial Owners by subject persons in terms of these regulations shall not exonerate such subject persons from all responsibilities and duties incumbent upon (REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS) [S.L. 16.18 them in terms of applicable law.
+(3) In any case, subject persons shall not rely exclusively on the Register of Beneficial Owners to fulfil their customer due diligence requirements and access to such Register of Beneficial Owners by subject persons in terms of these regulations shall not exonerate such subject persons from all responsibilities and duties incumbent upon them in terms of applicable law.
 
 ## 13. Misleading, false or deceptive information.
 
 (a) Any administrator of a foundation who knowingly or recklessly makes a statement, declaration or otherwise provides to the Registrar for Legal Persons information on the beneficial ownership of a foundation, that is misleading, false or deceptive in a material particular; and
-
-*25*
 
 (b) any beneficial owner of a foundation who knowingly or recklessly makes a statement, declaration or otherwise provides to the administrators of a foundation information on the beneficial ownership of a foundation, that is misleading, false or deceptive in a material particular,
 
@@ -651,11 +577,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine (multa
 
 (a) the grounds for registering the beneficial ownership information have ceased to exist; or
 
-(b) the foundation has been struck off from the Register of Legal Persons or, if the foundation is, for any reason, not registered in terms of the Second Schedule or applicable regulations, from the date on which the certified copy of the winding up resolution is delivered to the Registrar [S.L. 16.18 (REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS)
-
-for Legal Persons in accordance with article 59 of the Second Schedule; or
-
-*26*
+(b) the foundation has been struck off from the Register of Legal Persons or, if the foundation is, for any reason, not registered in terms of the Second Schedule or applicable regulations, from the date on which the certified copy of the winding up resolution is delivered to the Registrar for Legal Persons in accordance with article 59 of the Second Schedule; or
 
 (c) there is the termination of registration in case of the continuation of the foundation in another country in accordance with article 22A of the Second Schedule,
 
@@ -683,11 +605,9 @@ Any document which is required to be delivered to the Registrar for Legal Person
 
 Access to information in the Register of Beneficial Owners may be subject to the payment of a fee which shall not exceed the administrative costs thereof, including costs of maintenance and development of the Register. The Registrar for Legal Persons may from time to time, by notice publicly available at the Registry for Legal Persons, establish such fee.
 
-*27*
+## 18. Forms.
 
-(REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS) [S.L. 16.18 18. The Registrar for Legal Persons shall have the power to issue and prescribe forms, and to modify the same as may be required, from time to time, to be used by foundations, beneficial owners, persons requesting access and information and otherwise, for the better carrying out and implementation of these regulations.
-
-*Forms.*
+The Registrar for Legal Persons shall have the power to issue and prescribe forms, and to modify the same as may be required, from time to time, to be used by foundations, beneficial owners, persons requesting access and information and otherwise, for the better carrying out and implementation of these regulations.
 
 ## 19. Guidelines.
 
@@ -737,11 +657,7 @@ time period €500 €5
 
 The following provisions shall apply to any penalty imposed by the Registrar for Legal Persons in terms of the Civil Code (Second Schedule) (Register of Beneficial Owners - Foundations) Regulations:
 
-(1) Where the Registrar for Legal Persons gives notice in writing to any foundation and, or any person that such foundation and, or person has become liable to a penalty under these regulations specifying the nature of the infringement, and indicating an amount as due by way of penalty in respect of such infringement, the foundation and, or person to whom the notice is given shall, without prejudice to the provisions of paragraphs (2) to (15) be deemed to have incurred a penalty under these (REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS)
-
-regulations, and the amount indicated as aforesaid as due by way of penalty including any penalty due for each day during which the default continues shall be deemed to be the penalty due under these regulations in respect of the infringement specified in the notice.
-
-*[S.L. 16.18 28*
+(1) Where the Registrar for Legal Persons gives notice in writing to any foundation and, or any person that such foundation and, or person has become liable to a penalty under these regulations specifying the nature of the infringement, and indicating an amount as due by way of penalty in respect of such infringement, the foundation and, or person to whom the notice is given shall, without prejudice to the provisions of paragraphs (2) to (15) be deemed to have incurred a penalty under these regulations, and the amount indicated as aforesaid as due by way of penalty including any penalty due for each day during which the default continues shall be deemed to be the penalty due under these regulations in respect of the infringement specified in the notice.
 
 *(2)*
 
@@ -773,11 +689,9 @@ The application, and the notice of the date fixed for hearing, shall be served o
 
 *(9)*
 
-The Registrar for Legal Persons shall, in his reply, state clearly and concisely whether he agrees to the facts set out in the application, and the reasons why he objects to the claim; he shall (REGISTER OF BENEFICIAL OWNERS – FOUNDATIONS) [S.L. 16.18 moreover state in his reply the names of the witnesses in support of his reasons and shall attach thereto all the documents in support thereof.
+The Registrar for Legal Persons shall, in his reply, state clearly and concisely whether he agrees to the facts set out in the application, and the reasons why he objects to the claim; he shall moreover state in his reply the names of the witnesses in support of his reasons and shall attach thereto all the documents in support thereof.
 
 (10) On the day fixed for the hearing of the application, the court shall consider only the issues of fact and of law as are ascertainable from the application, reply or documents filed, by either of the parties, or from the evidence indicated by either of the parties in the application or reply, as the case may be, or from the oral pleading of either of the parties.
-
-*29*
 
 (11) The court shall hear the application to a conclusion within five (5) working days from the date fixed for the original hearing of the application, and no adjournment shall be granted except either with the consent of both parties, or for an exceptional reason to be recorded by the court, and such adjourned date shall not be later than that justified by any such reason.
 

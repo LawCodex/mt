@@ -1,6 +1,6 @@
 ---
 title: "Use of Colour Photographs or Other Illustrations as Health Warnings on Tobacco Packages Regulations"
-identifier: "S.L. 315.8"
+identifier: "S.L. 315.08"
 eli: "https://legislation.mt/eli/sl/315.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,17 +14,15 @@ version: "https://legislation.mt/eli/sl/315.8/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Use of Colour Photographs or Other Illustrations as Health Warnings on Tobacco Packages Regulations (S.L. 315.8)
+# Use of Colour Photographs or Other Illustrations as Health Warnings on Tobacco Packages Regulations (S.L. 315.08)
 
-USE OF COLOUR PHOTOGRAPHS OR OTHER ILLUSTRA-
+SUBSIDIARY LEGISLATION 315.08
 
-*1*
+USE OF COLOUR PHOTOGRAPHS OR OTHER
 
-TIONS AS HEALTH WARNINGS ON TOBACCO PACKAGES [S.L.315.08
+ILLUSTRATIONS AS HEALTH WARNINGS ON
 
-**SUBSIDIARY LEGISLATION 315.08**
-
-USE OF COLOUR PHOTOGRAPHS OR OTHER ILLUSTRATIONS AS HEALTH WARNINGS ON TOBACCO PACKAGES REGULATIONS
+TOBACCO PACKAGES REGULATIONS
 
 23rd April, 2011;
 

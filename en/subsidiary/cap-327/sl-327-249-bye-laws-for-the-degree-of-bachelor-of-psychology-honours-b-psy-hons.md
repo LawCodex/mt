@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Psychology (Honours) - B.Psy. (Hons) - under the auspices of the Faculty for Social Wellbeing (S.L. 327.249)
 
-B.PSY. (HONS) - UNDER THE AUSPICES OF
-
-*1*
-
-THE FACULTY FOR SOCIAL WELLBEING [S.L.327.249
-
 **SUBSIDIARY LEGISLATION 327.249**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF PSYCHOLOGY (HONOURS) - B.PSY. (HONS) -
@@ -76,12 +70,6 @@ The course shall extend over a period of three years of full-time study or the e
 ## 6. Course programme.
 
 Students shall be required to register and obtain credits for study-units to which a total of 180 credits are assigned, as detailed in the course programme for the Degree.
-
-B.PSY. (HONS) - UNDER THE AUSPICES OF
-
-*2*
-
-[S.L.327.249 THE FACULTY FOR SOCIAL WELLBEING
 
 ## 7. Programme of study.
 

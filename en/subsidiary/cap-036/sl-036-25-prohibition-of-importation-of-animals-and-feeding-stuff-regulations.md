@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Prohibition of Importation of Animals and Feeding Stuff Regulations (S.L. 36.25)
 
-PROHIBITION OF IMPORTATION OF ANIMALS
-
-*1*
-
-AND FEEDING STUFF [ S.L.36.25
-
 **SUBSIDIARY LEGISLATION 36.25**
 
 **PROHIBITION OF IMPORTATION OF ANIMALS**

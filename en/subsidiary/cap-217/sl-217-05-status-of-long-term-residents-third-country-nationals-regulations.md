@@ -1,6 +1,6 @@
 ---
 title: "Status of Long-term Residents (Third Country Nationals) Regulations"
-identifier: "S.L. 217.5"
+identifier: "S.L. 217.05"
 eli: "https://legislation.mt/eli/sl/217.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/217.5/20210311/eng"
 retrieved: 2026-10-12
 ---
 
-# Status of Long-term Residents (Third Country Nationals) Regulations (S.L. 217.5)
-
-*1*
-
-(THIRD COUNTRY NATIONALS [S.L.217.05
+# Status of Long-term Residents (Third Country Nationals) Regulations (S.L. 217.05)
 
 **SUBSIDIARY LEGISLATION 217.05**
 
@@ -65,11 +61,7 @@ In these regulations, unless the context otherwise requires - "the Act" means th
 
 (b) the unmarried minor children and of his spouse, including children adopted in a manner recognized by Maltese law;
 
-(c) the unmarried minor children, including adopted [S.L.217.05 (THIRD COUNTRY NATIONALS
-
-children, of the long-term resident or of the spouse, as the case may be, where the long-term resident or the spouse has custody and the children are dependent on him;
-
-*2*
+(c) the unmarried minor children, including adopted children, of the long-term resident or of the spouse, as the case may be, where the long-term resident or the spouse has custody and the children are dependent on him;
 
 (d) the children of the long-term resident or of his spouse, whose custody is shared, provided that the other party sharing custody has given his agreement and who have been authorized by the Director to reside in Malta with him;
 
@@ -109,10 +101,6 @@ children, of the long-term resident or of the spouse, as the case may be, where 
 
 (c) on the basis of a form of protection, other than international protection or who have applied for authorization to reside on that basis and are awaiting a decision on their status;
 
-*3*
-
-(THIRD COUNTRY NATIONALS [S.L.217.05
-
 (d) who have applied for international protection and whose application has not yet given rise to a final decision;
 
 (e) solely on temporary grounds such as au pair or seasonal workers, or as workers posted by a service provider for the purposes of cross-border providers of services or in cases where their residence permit has been formally limited; and
@@ -147,10 +135,6 @@ Provided that the Director shall not grant long-term resident status on the basi
 
 In such cases, the period of absence longer than the total of ten months shall not be taken into account in the calculation of the period referred to in subregulation (1).
 
-*4*
-
-[S.L.217.05 (THIRD COUNTRY NATIONALS
-
 (c) As regards persons to whom international protection has been granted, the Director shall take into account, in the calculation of the period referred to in sub-regulation (1), half of the period between the date of the lodging of the application for international protection on the basis of which that international protection was granted, and the date of the grant of the permit in terms of regulation 14 of Procedural Standards in Examining Applications for Refugee Status Regulations or the whole of that period if it exceeds 18 months.
 
 *S.L. 420.07*
@@ -178,10 +162,6 @@ Provided that benefits or assistance payable under the Social Security Act or an
 (d) sickness insurance in respect of all risks normally covered for Maltese nationals for himself and the members of his family;
 
 \* the reference is to Legal Notice 370 of 2010 - came into force on 1st August, 2010.
-
-*5*
-
-(THIRD COUNTRY NATIONALS [S.L.217.05
 
 (e) met the conditions set out in regulation 4.
 
@@ -215,10 +195,6 @@ Provided that, in exceptional circumstances which are linked to the complexity o
 
 (4) In the event that the Director fails to give a decision within the period specified in subregulation (1), the application shall automatically be passed on for appeal to the Board.
 
-*6*
-
-[S.L.217.05 (THIRD COUNTRY NATIONALS
-
 (5) If the conditions provided for by regulations 4 and 5 are met, and the person does not represent a threat within the meaning of regulation 6, the Director shall grant the third country national concerned long-term resident status:
 
 Provided that where the conditions concerning stable resources referred to in regulation 5 are not met by the third country national, the Director shall consider all relevant circumstances and if there are justified reasons to do so, the Director shall accept the relative amount declared by the said third country national as satisfying the conditions stipulated therein.
@@ -249,11 +225,7 @@ Provided that where international protection was granted by another Member State
 
 (b) if the Principal Immigration Officer has issued an order for his removal in accordance with regulation 12;
 
-(c) if the long-term resident has been absent from the (THIRD COUNTRY NATIONALS [S.L.217.05
-
-territory of the European Union for a period of twelve consecutive months;
-
-*7*
+(c) if the long-term resident has been absent from the territory of the European Union for a period of twelve consecutive months;
 
 (d) if the long-term resident has acquired a long-term resident status in another Member State;
 
@@ -280,10 +252,6 @@ Provided that such person provides evidence that he fulfils the requirements for
 (1) When notifying the third country national of his decision, the Director shall give reasons for such decision rejecting an application for long-term resident status or withdrawing that status, and shall inform him about the redress procedures available.
 
 (2) Where an application for long-term resident status is rejected or that status is withdrawn or lost or the residence permit is not renewed, the third country national shall have the right to appeal to the Board.
-
-*8*
-
-[S.L.217.05 (THIRD COUNTRY NATIONALS
 
 ### 11. Equal treatment.
 
@@ -325,11 +293,7 @@ Provided that such person provides evidence that he fulfils the requirements for
 
 *Amended by: L.N. 197 of 2014.*
 
-(1) A third country national who has acquired long-term resident status in Malta may be expelled from Malta through a removal order issued by the Principal Immigration Officer when he constitutes an actual and sufficiently serious threat to the public policy or public security of Malta with due regard to the following (THIRD COUNTRY NATIONALS [S.L.217.05
-
-factors:
-
-*9*
+(1) A third country national who has acquired long-term resident status in Malta may be expelled from Malta through a removal order issued by the Principal Immigration Officer when he constitutes an actual and sufficiently serious threat to the public policy or public security of Malta with due regard to the following factors:
 
 (a) the duration of residence in Malta;
 
@@ -369,10 +333,6 @@ Residence in Malta of Third Country Nationals granted Long-Term Resident Status 
 
 (a) the exercise of an economic activity in an employed or self-employed capacity:
 
-*10*
-
-[S.L.217.05 (THIRD COUNTRY NATIONALS
-
 Provided that, without prejudice to any rights acquired in accordance with the provisions of regulation 19, in order to undertake such an activity the person concerned should be in possession of an employment licence that has been issued after the situation of the labour market in Malta has been examined by the competent authorities;
 
 (b) the pursuit of studies or vocational training;
@@ -405,11 +365,7 @@ Provided that, without prejudice to any rights acquired in accordance with the p
 
 Provided that if he has already complied with integration measures in the first Member State, he shall submit evidence of having complied with such measures as well as the evidence referred to in regulation 5(3)(b).
 
-(4) The long-term resident shall also submit his long-term resident permit that had been issued to him in the other Member (THIRD COUNTRY NATIONALS [S.L.217.05
-
-State or a certified copy thereof.
-
-*11*
+(4) The long-term resident shall also submit his long-term resident permit that had been issued to him in the other Member State or a certified copy thereof.
 
 (5) In addition to the provisions of subregulation (2), the said person shall also provide the following:
 
@@ -443,10 +399,6 @@ State or a certified copy thereof.
 
 (2) When taking the relevant decision in accordance with subregulation (1), the Director shall consider the severity or type of offence against public policy or public security committed by the long-term resident or his family member, or the dangers that are emanating from such person.
 
-*12*
-
-[S.L.217.05 (THIRD COUNTRY NATIONALS
-
 (3) Refusal to grant a residence permit shall not be based on economic considerations.
 
 ### 17. Public health.
@@ -477,11 +429,7 @@ Provided that, if the applicant does not submit documentary evidence as required
 
 (5) In the case of a person who holds a long-term resident permit issued by another Member State and which contains a remark that he was granted international protection in that Member State and where Malta has accepted the transfer of international protection from the same Member State and the person concerned has not yet been issued by the Director with a long-term resident permit in terms of the proviso to article 8(3), the Director shall ask that Member State to amend the remark accordingly.
 
-(6) In the case of a person who holds a long-term residence permit issued by another Member State and where Malta has granted international protection to such person, the Director shall (THIRD COUNTRY NATIONALS [S.L.217.05
-
-ask that Member State to amend the remark accordingly.
-
-*13*
+(6) In the case of a person who holds a long-term residence permit issued by another Member State and where Malta has granted international protection to such person, the Director shall ask that Member State to amend the remark accordingly.
 
 (7) The Director shall issue an amended long-term resident permit containing the relevant remark to a person who has been granted long-term residence in Malta, and who has exercised his right of mobility to another Member State as provided for in Council Directive 2003/109/EC of 25 November 2003 Concerning the Status of Third-Country Nationals who are Long-Term Residents, within 3 months of having received the request from the Member State to which the long-term resident has moved where - (a) that Member State has accepted the transfer of protection of the said person; and,
 
@@ -505,11 +453,9 @@ Provided that:
 
 (i) such persons who are exercising their right of residence in Malta for the reasons stated in regulation 13(1)(a) shall not have, for the first twelve months after having been issued with a residence permit, access to an employed activity other than that for which they have been granted an employment licence;
 
-(ii) such persons who are exercising the right of residence in Malta for the reasons stated in regulation 13(1)(b) shall not have any, or only restricted, access to an employed activity, after the situation of the labour market in Malta has been examined by the competent authorities; [S.L.217.05 (THIRD COUNTRY NATIONALS
+(ii) such persons who are exercising the right of residence in Malta for the reasons stated in regulation 13(1)(b) shall not have any, or only restricted, access to an employed activity, after the situation of the labour market in Malta has been examined by the competent authorities;
 
 (iii) such persons who are exercising the right of residence in Malta for the reasons stated in regulation 13(1)(c) shall only have access to an employed activity after the situation of the labour market in Malta has been examined by the competent authorities.
-
-*14*
 
 ### 20. Withdrawal of residence permit and obligation to re-admit.
 
@@ -539,11 +485,7 @@ Provided that:
 
 *Cap. 420.*
 
-(b) This sub-regulation shall apply without prejudice to the provisions of article 14(1) of the International (THIRD COUNTRY NATIONALS [S.L.217.05
-
-Protection Act.
-
-*15*
+(b) This sub-regulation shall apply without prejudice to the provisions of article 14(1) of the International Protection Act.
 
 ### 21. Admission to Malta as a first Member State of residence.
 

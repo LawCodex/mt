@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Diploma in Gozo Studies under the auspices of the Institute of Islands and Small States (S.L. 327.443)
 
-*1*
-
-THE INSTITUTE OF ISLANDS AND SMALL STATES [S.L.327.443
-
 **SUBSIDIARY LEGISLATION 327.443**
 
 **BYE-LAWS FOR THE DIPLOMA IN GOZO**
@@ -70,10 +66,6 @@ The programme of study shall be published after approval by Senate, normally not
 ## 7. Classification of the Award.
 
 (1) The Final Weighted Average Mark of each student’s performance in the Course for the purpose of the classification of the Diploma shall be based on the results obtained, all credits earned being weighted equally.
-
-*2*
-
-[S.L.327.443 THE INSTITUTE OF ISLANDS AND SMALL STATES
 
 (2) The names of students who qualify for the award of the Diploma shall be published in a list in alphabetical order classified as follows:
 

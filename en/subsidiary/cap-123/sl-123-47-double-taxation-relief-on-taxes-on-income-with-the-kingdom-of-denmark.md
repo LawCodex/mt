@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with the Kingdom of Denmark Order (S.L. 123.47)
 
-*1*
-
-WITH THE KINGDOM OF DENMARK [S.L.123.47
-
 **SUBSIDIARY LEGISLATION 123.47**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -50,8 +46,6 @@ It is hereby declared -
 (iv) taxes imposed under the Hydrocarbon Tax Act;
 
 (b) that it is expedient that those arrangements should have effect.
-
-2 [S.L.123.47 WITH THE KINGDOM OF DENMARK
 
 ## SCHEDULE — CONVENTION — BETWEEN
 
@@ -111,9 +105,7 @@ the income tax;
 
 ## 4.
 
-The Convention shall apply also to any identical or substantially similar taxes which are imposed after the date of signature of the Convention in addition to, or in place of, the existing taxes. The competent authorities of the Contracting States shall notify each other of substantial changes which have been made in their WITH THE KINGDOM OF DENMARK [S.L.123.47 3
-
-respective taxation laws.
+The Convention shall apply also to any identical or substantially similar taxes which are imposed after the date of signature of the Convention in addition to, or in place of, the existing taxes. The competent authorities of the Contracting States shall notify each other of substantial changes which have been made in their respective taxation laws.
 
 **ARTICLE 3**
 
@@ -151,7 +143,7 @@ the Minister responsible for fmance or his authorised representative;
 
 (ii) any legal person, partnership or association deriving its status as such from the laws in force in a Contracting State.
 
-\2. As regards the application of the Convention at any time by a Contracting State, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that State for the purposes of the taxes to which the Convention applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State. 4 [S.L.123.47 WITH THE KINGDOM OF DENMARK
+\2. As regards the application of the Convention at any time by a Contracting State, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that State for the purposes of the taxes to which the Convention applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State.
 
 **ARTICLE 4**
 
@@ -193,8 +185,6 @@ the Minister responsible for fmance or his authorised representative;
 
 \3. The term "permanent establishment" likewise encompasses a building site, a construction, assembly or installation project or supervisory activities in connection therewith, but only where such site, project or activities continue for a period of more than six months.
 
-WITH THE KINGDOM OF DENMARK [S.L.123.47 5
-
 ## 4.
 
 Notwithstanding the preceding provisions of this Article, the term "permanent establishment" shall be deemed not to include:
@@ -229,11 +219,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \1. Income derived by a resident of a Contracting State from immovable property (including income from agriculture or forestry) situated in the other Contracting State may be taxed in that other State.
 
-\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, or to explore for, mineral deposits, sources and other natural resources;
-
-6 [S.L.123.47 WITH THE KINGDOM OF DENMARK
-
-ships and aircraft shall not be regarded as immovable property.
+\2. The term "immovable property" shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, or to explore for, mineral deposits, sources and other natural resources; ships and aircraft shall not be regarded as immovable property.
 
 \3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
@@ -265,8 +251,6 @@ Where profits include items of income which are dealt with separately in other A
 
 \1. Profits derived by an enterprise of a Contracting State from the operation of ships and aircraft in international traffic shall be taxable only in that State.
 
-WITH THE KINGDOM OF DENMARK [S.L.123.47 7
-
 \2. Profits derived by an enterprise of a Contracting State from the use, demurrage, or rental of containers (including trailers, barges and related equipment for the transport of containers) used for the transport of goods or merchandise shall be taxable only in that State, except where such containers, trailers, barges and related equipment are used for transport solely between places within the other Contracting State.
 
 \3. The provisions of paragraph 1 shall also apply to profits from the participation in a pool, a joint business or an international operating agency.
@@ -295,9 +279,7 @@ and in either case conditions are made or imposed between the two enterprises in
 
 \2. However, such dividends may also be taxed in the Contracting State of which the company paying the dividends is a resident and according to the laws of that State, but:
 
-(a) where the dividends are paid by a company which is a resident of 8 [S.L.123.47 WITH THE KINGDOM OF DENMARK
-
-Denmark to a resident of Malta which is the beneficial owner thereof, the Danish tax so charged shall not exceed:
+(a) where the dividends are paid by a company which is a resident of Denmark to a resident of Malta which is the beneficial owner thereof, the Danish tax so charged shall not exceed:
 
 (i) 0 per cent of the gross amount of the dividends if the beneficial owner is a company (other than a partnership) which holds and has held directly at least 25 per cent of the capital of the company paying the dividends for a twelve month period prior to the date the dividends are declared;
 
@@ -319,9 +301,7 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 ## 7.
 
-The provisions of this Article shall not apply if it was the main purpose or one of the main purposes of any person concerned with the creation or assignment of the shares or other rights in respect of which the dividend is paid to take advantage WITH THE KINGDOM OF DENMARK [S.L.123.47 9
-
-of this Article by means of that creation or assignment.
+The provisions of this Article shall not apply if it was the main purpose or one of the main purposes of any person concerned with the creation or assignment of the shares or other rights in respect of which the dividend is paid to take advantage of this Article by means of that creation or assignment.
 
 In the event that a resident of a Contracting State is denied relief from taxation in the other Contracting State by reason of the provisions of the first sentence of this paragraph, the competent authority of that other State shall notify the competent authority of the first-mentioned State.
 
@@ -347,9 +327,7 @@ In the event that a resident of a Contracting State is denied relief from taxati
 
 \1. Royalties arising in a Contracting State and paid to a resident of the other Contracting State shall be taxable only in that other State if such resident is the beneficial owner of the royalties.
 
-\2. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of 10 [S.L.123.47 WITH THE KINGDOM OF DENMARK
-
-literary, artistic or scientific work including cinematograph films, any patent, trade mark, design or model, plan, secret formula or process, or for information concerning industrial, commercial or scientific experience.
+\2. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including cinematograph films, any patent, trade mark, design or model, plan, secret formula or process, or for information concerning industrial, commercial or scientific experience.
 
 \3. The provisions of paragraph 1 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
@@ -371,9 +349,7 @@ In the event that a resident of a Contracting State is denied relief from taxati
 
 \4. Gains derived by an enterprise of a Contracting State from the alienation of ships or aircraft operated in international traffic or movable property pertaining to the operation of such ships or aircraft, shall be taxable only in that State.
 
-\5. Gains derived by an enterprise of a Contracting State from the alienation of containers (including trailers, barges and related equipment for the transport of containers) used for the transport of goods and merchandise shall be taxable only in that State, except where such containers, trailers, barges and related equipment are WITH THE KINGDOM OF DENMARK [S.L.123.47 11
-
-used for transport solely between places within the other Contracting State.
+\5. Gains derived by an enterprise of a Contracting State from the alienation of containers (including trailers, barges and related equipment for the transport of containers) used for the transport of goods and merchandise shall be taxable only in that State, except where such containers, trailers, barges and related equipment are used for transport solely between places within the other Contracting State.
 
 \6. Gains from the alienation of any property other than that referred to in paragraphs 1, 2, 3, 4 and 5 shall be taxable only in the Contracting State of which the alienator is a resident.
 
@@ -405,9 +381,7 @@ I . Income derived by a resident of a Contracting State in respect of profession
 
 (c) the remuneration is not borne by a permanent establishment or a fixed base which the employer has in the other State.
 
-\3. Notwithstanding the preceding provisions of this Article, remuneration 12 [S.L.123.47 WITH THE KINGDOM OF DENMARK
-
-derived in respect of an employment exercised aboard a ship or aircraft operated in international traffic by an enterprise of a Contracting State may be taxed in the Contracting State of which the enterprise operating the ship or aircraft is a resident provided that such remuneration is subject to tax in that Contracting State.
+\3. Notwithstanding the preceding provisions of this Article, remuneration derived in respect of an employment exercised aboard a ship or aircraft operated in international traffic by an enterprise of a Contracting State may be taxed in the Contracting State of which the enterprise operating the ship or aircraft is a resident provided that such remuneration is subject to tax in that Contracting State.
 
 Where a resident of Denmark derives remuneration in respect of an employment exercised aboard an aircraft operated in international traffic by the consortium Scandinavian Airlines System (SAS), such remuneration shall be taxable only in Denmark.
 
@@ -435,9 +409,7 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 \2. Notwithstanding the provisions of paragraph 1, payments received by an individual, being a resident of a Contracting State, under the social security legislation of the other Contracting State, or under any other scheme out of funds created by that other State or a political subdivision or a local authority thereof, shall be taxable only in that other State.
 
-\3. In the case of an individual who was a resident of a Contracting State and has become a residnet of the other Contracting State, the provisions of paragraph 1 shall not affect the right of the first-mentioned State under its national laws to tax pensions, annuities and other similar remuneration accruing to such individual from WITH THE KINGDOM OF DENMARK [S.L.123.47 13
-
-sources within that State.
+\3. In the case of an individual who was a resident of a Contracting State and has become a residnet of the other Contracting State, the provisions of paragraph 1 shall not affect the right of the first-mentioned State under its national laws to tax pensions, annuities and other similar remuneration accruing to such individual from sources within that State.
 
 \4. The term ''annuities'' means stated sums payable periodically at stated times, during life or during a specified or ascertainable period of time, under an obligation to make the payments in return for adequate and full consideration in money or money’s worth.
 
@@ -473,8 +445,6 @@ Activities in connection with Preliminary Surveys, Exploration or Extraction of
 
 \1. Notwithstanding the provisions of Articles 5 and 14, a resident of a Contracting State who carries on activities in connection with preliminary surveys, exploration or extraction of hydrocarbons situated in the other Contracting State shall be deemed to be carrying on in respect of such activities a business in that other State through a permanent establishment or to be performing independent personal services from a fixed base situated therein.
 
-14 [S.L.123.47 WITH THE KINGDOM OF DENMARK
-
 \2. The provisions of paragraph 1 shall not apply where the activities are carried on for a period or periods not exceeding 30 days in the aggregate in any twelve month period. However, for the purpose of this paragraph, activities carried on by an enterprise associated with another enterprise within the meaning of Article 9 shall be deemed to be carried on by the enterprise with which it is associated if the activities in question are substantially the same as those carried on by the last-mentioned enterprise.
 
 \3. Notwithstanding the provisions of paragraphs 1 and 2, drilling rig activities carried on offshore shall constitute a permanent establishment only if the activities are carried on for a period or periods exceeding 183 days in the aggregate in any twelve month period. However, for the purpose of this paragraph, activities carried on by an enterprise associated with another enterprise within the meaning of Article 9 shall be deemed to be carried on by the enterprise with which it is associated if the activities in question are substantially the same as those carried on by the last-mentioned enterprise.
@@ -499,9 +469,7 @@ Double taxation shall be avoided as follows:
 
 (a) subject to the provisions of sub-paragraph (c), where a resident of Denmark derives income which, in accordance with the provisions of this Convention, may be taxed in Malta, Denmark shall allow as a deduction from the tax on the income of that resident, an amount equal to the income tax paid in Malta;
 
-(b) such deduction shall not, however, exceed that part of the income tax, as computed before the deduction is given, which is attributable to the WITH THE KINGDOM OF DENMARK [S.L.123.47 15
-
-income which may be taxed in Malta;
+(b) such deduction shall not, however, exceed that part of the income tax, as computed before the deduction is given, which is attributable to the income which may be taxed in Malta;
 
 (c) where a resident of Denmark derives income which, in accordance with the provisions of this Convention, shall be taxable only in Malta, Denmark may include this income in the tax base, but shall allow as a deduction from the income tax that part of the income tax which is attributable to the income derived from Malta.
 
@@ -529,9 +497,7 @@ Subject to the provisions of the law of Malta regarding the allowance of a credi
 
 \2. Stateless persons who are residents of a Contracting State shall not be subjected in either Contracting State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which nationals of the State concerned in the same circumstances, in particular with respect to residence, are or may be subjected.
 
-\3. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or 16 [S.L.123.47 WITH THE KINGDOM OF DENMARK
-
-family responsibilities which it grants to its own residents.
+\3. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
 
 \4. Except where the provisions of paragraph 1 of Article 9, paragraph 4 of Article 11, or paragraph 4 of Article 12 apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State.
 
@@ -555,9 +521,7 @@ family responsibilities which it grants to its own residents.
 
 **Exchange of Information**
 
-\1. The competent authorities of the Contracting States shall exchange such information as is necessary for carrying out the provisions of this Convention or of the domestic laws of the Contracting States concerning taxes covered by the Convention insofar as the taxation thereunder is not contrary to the Convention. The exchange of information is not restricted by Article 1. Any information received by a WITH THE KINGDOM OF DENMARK [S.L.123.47 17
-
-Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by the Convention. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
+\1. The competent authorities of the Contracting States shall exchange such information as is necessary for carrying out the provisions of this Convention or of the domestic laws of the Contracting States concerning taxes covered by the Convention insofar as the taxation thereunder is not contrary to the Convention. The exchange of information is not restricted by Article 1. Any information received by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by the Convention. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
 
 \2. In no case shall the provisions of paragraph 1 be construed so as to impose on a Contracting State the obligation:
 
@@ -588,8 +552,6 @@ Nothing in this Convention shall affect the fiscal privileges of members of dipl
 \1. The Governments of the Contracting States shall notify to each other, through diplomatic channels, that the legal requirements for the entry into force of this Convention have been complied with.
 
 \2. This Convention shall enter into force on the date of the later of the notifications referred to in paragraph 1 and its provisions shall have effect:
-
-18 [S.L.123.47 WITH THE KINGDOM OF DENMARK
 
 (a) in Denmark:
 
@@ -627,9 +589,7 @@ Done in duplicate at Brussels this thirteenth day of July 1998, in the English l
 
 At the signing of the Convention between the Government of the Kingdom of Denmark and the Government of the Republic of Malta for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income, the undersigned have agreed that the following provision shall form an integral part of the Convention:
 
-Concerning paragraph 4 of Article 13 it is understood that capital gains as mentioned in that provision can only be taxed in the State where the owner is a resident, even where the ship or aircraft is operated by a resident of a third state. WITH THE KINGDOM OF DENMARK [S.L.123.47 19
-
-IN WITNESS WHEREOF the undersigned, duly authorised thereto by their respective Governments have signed this Protocol.
+Concerning paragraph 4 of Article 13 it is understood that capital gains as mentioned in that provision can only be taxed in the State where the owner is a resident, even where the ship or aircraft is operated by a resident of a third state. IN WITNESS WHEREOF the undersigned, duly authorised thereto by their respective Governments have signed this Protocol.
 
 Done in duplicate at Brussels this thirteenth day of July 1998, in the English language.
 

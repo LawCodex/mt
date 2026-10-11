@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # University Research, Innovation and Development Trust Order (S.L. 327.371)
 
-*1*
-
-INNOVATION AND DEVELOPMENT TRUST [ S.L.327.371
-
 **SUBSIDIARY LEGISLATION 327.371**
 
 **UNIVERSITY RESEARCH, INNOVATION**
@@ -75,10 +71,6 @@ Any bank account in which any of the funds of the Trust are deposited shall be h
 
 Provided that:
 
-(a) all instructions in connection with the operation of such an account shall be signed by at least two INNOVATION AND DEVELOPMENT TRUST
-
-Trustees, and
-
-*[ S.L.327.371 2*
+(a) all instructions in connection with the operation of such an account shall be signed by at least two Trustees, and
 
 (b) the Trustees may from time to time appoint any one or more persons (who need not necessarily be Trustees) to act as signatories in respect of the said bank account with such powers and subject to such terms, conditions and limitations as the Trustees shall deem appropriate.

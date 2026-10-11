@@ -1,6 +1,6 @@
 ---
 title: "Employment for the purposes of the Pensions Ordinance Order"
-identifier: "S.L. 93.1"
+identifier: "S.L. 93.01"
 eli: "https://legislation.mt/eli/sl/93.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,7 @@ version: "https://legislation.mt/eli/sl/93.1/20240510/eng"
 retrieved: 2026-10-12
 ---
 
-# Employment for the purposes of the Pensions Ordinance Order (S.L. 93.1)
-
-*1*
-
-THE PENSIONS ORDINANCE [S.L.93.01
+# Employment for the purposes of the Pensions Ordinance Order (S.L. 93.01)
 
 **SUBSIDIARY LEGISLATION 93.01**
 
@@ -89,10 +85,6 @@ Malta International Airport Ltd.;
 ## 2.
 
 Public Broadcasting Services Ltd.;
-
-**[S.L.93.01 THE PENSIONS ORDINANCE**
-
-*2*
 
 ## 3.
 

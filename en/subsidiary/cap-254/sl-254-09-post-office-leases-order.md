@@ -1,6 +1,6 @@
 ---
 title: "Post Office Leases Order"
-identifier: "S.L. 254.9"
+identifier: "S.L. 254.09"
 eli: "https://legislation.mt/eli/sl/254.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/254.9/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Post Office Leases Order (S.L. 254.9)
+# Post Office Leases Order (S.L. 254.09)
 
 **SUBSIDIARY LEGISLATION 254.09**
 

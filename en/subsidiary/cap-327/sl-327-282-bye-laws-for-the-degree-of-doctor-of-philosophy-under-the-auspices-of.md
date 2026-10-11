@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy under the auspices of the Institute of Maltese Studies (S.L. 327.282)
 
-*1*
-
-AUSPICES OF THE INSTITUTE OF MALTESE STUDIES [S.L.327.282
-
 **SUBSIDIARY LEGISLATION 327.282**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR OF**
@@ -75,11 +71,9 @@ Students shall only be allowed to proceed with their studies subject to satisfac
 
 \*These bye-laws have been repealed by Legal Notice 224 of 2024.
 
-*2*
+## 8. Research work.
 
-[S.L.327.282 AUSPICES OF THE INSTITUTE OF MALTESE STUDIES 8. (1) After twelve months of full-time study, students are required to submit a report on their research work for consideration by an ad hoc board appointed by the Board. The ad hoc board shall be composed of a chairman, and two examiners, one of whom shall be the principal supervisor and the other a senior academic with expertise in the area.
-
-*Research work.*
+(1) After twelve months of full-time study, students are required to submit a report on their research work for consideration by an ad hoc board appointed by the Board. The ad hoc board shall be composed of a chairman, and two examiners, one of whom shall be the principal supervisor and the other a senior academic with expertise in the area.
 
 (2) The ad hoc board shall examine the student orally and shall submit a written report for consideration by the Institute Doctoral Committee in the first instance. The report shall contain recommendations according to the provisions of the Principal Regulations.
 

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Pender Place and Mercury House Site, Extensions I, II, III, IV and V, St Julians (Designated Special Areas) Order (S.L. 246.18)
 
-EXTENSIONS I, II, III, IV AND V, ST JULIANS
-
-*1*
-
-(DESIGNATED SPECIAL AREAS) [S.L.246.18
-
 **SUBSIDIARY LEGISLATION 246.18**
 
 **PENDER PLACE AND MERCURY HOUSE SITE,**
@@ -46,13 +40,3 @@ Pender Place and Mercury House Site, Extensions I, II, III, IV and V, St. Julian
 ## 3. Addition to the First Schedule of the Act. Cap. 246
 
 Pender Place and Mercury House Zone, Extensions I, II, III, IV and V, St. Julians shall be added to the List of Scheduled Zones in the First Schedule to the Immovable Property (Acquisition by Non-Residents) Act.
-
-EXTENSIONS I, II, III, IV AND V, ST JULIANS 2 [ S.L.246.18 (DESIGNATED SPECIAL AREAS) EXTENSIONS I, II, III, IV AND V, ST JULIANS
-
-*3*
-
-(DESIGNATED SPECIAL AREAS) [S.L.246.18 EXTENSIONS I, II, III, IV AND V, ST JULIANS 4 [ S.L.246.18 (DESIGNATED SPECIAL AREAS) EXTENSIONS I, II, III, IV AND V, ST JULIANS
-
-*5*
-
-(DESIGNATED SPECIAL AREAS) [S.L.246.18 EXTENSIONS I, II, III, IV AND V, ST JULIANS 6 [ S.L.246.18 (DESIGNATED SPECIAL AREAS)

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the degree of Master of Science - M.Sc. - under the auspices of theInstitute of Space Sciences and Astronomy (S.L. 327.498)
 
-UNDER THE AUSPICES OF THE INSTITUTE OF
-
-*1*
-
-SPACE SCIENCES AND ASTRONOMY [S.L.327.498
-
 **SUBSIDIARY LEGISLATION 327.498**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -77,12 +71,6 @@ The course shall be open to applicants in possession of one of the following qua
 
 The course shall extend over three semesters of full-time studies or the equivalent in part-time studies.
 
-UNDER THE AUSPICES OF THE INSTITUTE OF
-
-*2*
-
-[S.L.327.498 SPACE SCIENCES AND ASTRONOMY
-
 ## 6. Programme of study.
 
 *Amended by: L.N. 252 of 2015.*
@@ -117,11 +105,7 @@ UNDER THE AUSPICES OF THE INSTITUTE OF
 
 (1) The Board shall appoint a Panel of Supervision for each student, normally composed of three members as follows: the Director of the Institute, or his/her delegate as Chairman, and two other members, one of whom being the principal supervisor, provided that when the Director of the Institute is the supervisor, s/ he shall not chair the panel.
 
-(2) The Panel of Supervision shall follow, as it deems fit, the progress of students throughout the course, provided that it meets at UNDER THE AUSPICES OF THE INSTITUTE OF
-
-*3*
-
-SPACE SCIENCES AND ASTRONOMY [S.L.327.498 least twice a year to review such progress.
+(2) The Panel of Supervision shall follow, as it deems fit, the progress of students throughout the course, provided that it meets at least twice a year to review such progress.
 
 (3) Students shall be required to report to their supervisors at least once every two months, and in addition as often as the supervisor deems necessary.
 

@@ -1,6 +1,6 @@
 ---
 title: "Time Table for the Gozo Mail and Passenger Service Regulations"
-identifier: "S.L. 65.7"
+identifier: "S.L. 65.07"
 eli: "https://legislation.mt/eli/sl/65.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/65.7/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Time Table for the Gozo Mail and Passenger Service Regulations (S.L. 65.7)
-
-TIME TABLE FOR THE GOZO MAIL
-
-*1*
-
-AND PASSENGER SERVICE [S.L.65.07
+# Time Table for the Gozo Mail and Passenger Service Regulations (S.L. 65.07)
 
 SUBSIDIARY LEGISLATION 65.07
 

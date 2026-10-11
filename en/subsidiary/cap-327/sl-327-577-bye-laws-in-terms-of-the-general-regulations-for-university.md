@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws in terms of the General Regulations for University Postgraduate Awards, for the degree of Master of Arts in Health, Medicine and Society - M.A. - under the auspices of the Faculty of Arts (S.L. 327.577)
 
-*1*
-
-MEDICINE AND SOCIETY - M.A. [S.L. 327.577 SUBSIDIARY LEGISLATION 327.577
+**SUBSIDIARY LEGISLATION 327.577**
 
 **BYE-LAWS IN TERMS OF THE GENERAL**
 
@@ -73,11 +71,7 @@ The programme of study shall comprise study-units to which a total of 90 ECTS cr
 
 *Amended by: L.N. 29 of 2018.*
 
-(1) Students who obtain at least 30 ECTS credits assigned to taught study-units with an average mark of at least 50% and do not [S.L. 327.577 MEDICINE AND SOCIETY - M.A.
-
-proceed with the Course, shall be eligible for the award of the Postgraduate Certificate.
-
-*2*
+(1) Students who obtain at least 30 ECTS credits assigned to taught study-units with an average mark of at least 50% and do not proceed with the Course, shall be eligible for the award of the Postgraduate Certificate.
 
 (2) Students who obtain the 60 ECTS credits assigned to the taught study-units with an average mark of at least 50% and do not proceed with the Course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of a Postgraduate Diploma.
 
@@ -117,11 +111,9 @@ The programme of study shall be published after approval by Senate, normally not
 
 (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 
-(i) the extension of the study period referred to in (a) shall MEDICINE AND SOCIETY - M.A. [S.L. 327.577 be in accordance with the provisions of the Principal Regulations; and
+(i) the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 
 (ii) the Board may not terminate studies prematurely according to (b) until it has first given the student a chance to be heard.
-
-*3*
 
 ## 12. Classification of the Awards.
 

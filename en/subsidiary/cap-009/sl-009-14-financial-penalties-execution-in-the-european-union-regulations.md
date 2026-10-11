@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Financial Penalties (Execution in the European Union) Regulations (S.L. 9.14)
 
-*1*
-
-(EXECUTION IN THE EUROPEAN UNION) [S.L.9.14
-
 **SUBSIDIARY LEGISLATION 9.14**
 
 **FINANCIAL PENALTIES (EXECUTION IN THE**
@@ -40,41 +36,27 @@ The title of these regulations is the Financial Penalties (Execution in the Euro
 
 In these regulations, unless the context otherwise requires - "the Arrangement" means the Council Framework Decision 2005/214/JHA of the 24th February, 2005 on the application of the principle of mutual recognition to financial penalties as amended by Council Framework Decision 2009/299/JHA of 26 February 2009;
 
-"the certificate" means the form, as contained in the Annex to the
+"the certificate" means the form, as contained in the Annex to the Arrangement, purporting to reproduce details setting out the information required by the same form, set out in Schedule 3;
 
-Arrangement, purporting to reproduce details setting out the  
-information required by the same form, set out in Schedule 3;  
-"the Code" means the Criminal Code;  Cap. 9.  
-"decision" means a final decision requiring a financial penalty to  
-be paid by a natural or legal person where the decision was made  
-by:  
-(a) a court of the issuing State in respect of a criminal  
-offence under the law of the issuing State;  
-(b) an authority of the issuing State other than a court in  
-respect of a criminal offence under the law of the  
-issuing State, provided that the person concerned has  
-had an opportunity to have the case tried by a court  
-having jurisdiction in particular in criminal matters;  
-(c) an authority of the issuing State other than a court in  
-respect of acts which are punishable under the national  
-law of the issuing State by virtue of being  
-infringements of the rules of law, provided that the  
-person concerned has had an opportunity to have the  
-case tried by a court having jurisdiction in particular in  
-criminal matters;  
-(d) a court having jurisdiction in particular in criminal  
-matters, where the decision was made regarding a  
-decision as referred to in paragraph (c);  
-"the European Union" means the European Union as referred to  
-in the Treaty;  
-"executing State" means the Member State of the European  
-Union to which a decision has been transmitted for the purpose of  
-enforcement;  
+*Cap. 9.*
+
+"the Code" means the Criminal Code;
+
+"decision" means a final decision requiring a financial penalty to be paid by a natural or legal person where the decision was made by:
+
+(a) a court of the issuing State in respect of a criminal offence under the law of the issuing State;
+
+(b) an authority of the issuing State other than a court in respect of a criminal offence under the law of the issuing State, provided that the person concerned has had an opportunity to have the case tried by a court having jurisdiction in particular in criminal matters;
+
+(c) an authority of the issuing State other than a court in respect of acts which are punishable under the national law of the issuing State by virtue of being infringements of the rules of law, provided that the person concerned has had an opportunity to have the case tried by a court having jurisdiction in particular in criminal matters;
+
+(d) a court having jurisdiction in particular in criminal matters, where the decision was made regarding a decision as referred to in paragraph (c);
+
+"the European Union" means the European Union as referred to in the Treaty;
+
+"executing State" means the Member State of the European Union to which a decision has been transmitted for the purpose of enforcement;
+
 "financial penalty" means the obligation to pay:
-
-*2*
-
-[S.L.9.14 (EXECUTION IN THE EUROPEAN UNION)
 
 (a) a sum of money on conviction of an offence imposed in a decision;
 
@@ -124,11 +106,7 @@ A decision shall contain a statement that the financial penalty relates to:
 
 (a) conduct which is a scheduled offence:
 
-Provided that in such cases there shall be no verification whether the conduct is a criminal offence (EXECUTION IN THE EUROPEAN UNION) [S.L.9.14
-
-in Malta; or
-
-*3*
+Provided that in such cases there shall be no verification whether the conduct is a criminal offence in Malta; or
 
 (b) conduct which would constitute an offence under the law of Malta if it occurred in Malta:
 
@@ -166,11 +144,7 @@ Where the Attorney General receives a decision within the meaning of these regul
 
 (h) according to the certificate the person concerned:
 
-(i) in case of a written procedure was not, in accordance with the law of the issuing State, informed personally or through a representative, competent according to national law, of his right [S.L.9.14 (EXECUTION IN THE EUROPEAN UNION)
-
-to contest the case and of time limits of such a legal remedy; or
-
-*4*
+(i) in case of a written procedure was not, in accordance with the law of the issuing State, informed personally or through a representative, competent according to national law, of his right to contest the case and of time limits of such a legal remedy; or
 
 (ii) did not appear personally at the trial resulting in the decision, unless the said certificate states that the person, in accordance with procedural requirements defined in the law of the issuing State:
 
@@ -186,11 +160,7 @@ to contest the case and of time limits of such a legal remedy; or
 
 (j) if the certificate gives rise to an issue that fundamental rights or fundamental legal principles enshrined in the Treaty have been infringed.
 
-(2) Before making a decision refusing to recognise and execute a decision on any of the grounds mentioned in sub-regulation (1)(a), (d) and (h), whether totally or in part, the Attorney General shall consult the competent authorities of the issuing State by any appropriate means, and where appropriate, shall ask them to supply (EXECUTION IN THE EUROPEAN UNION) [S.L.9.14
-
-any necessary information without delay.
-
-*5*
+(2) Before making a decision refusing to recognise and execute a decision on any of the grounds mentioned in sub-regulation (1)(a), (d) and (h), whether totally or in part, the Attorney General shall consult the competent authorities of the issuing State by any appropriate means, and where appropriate, shall ask them to supply any necessary information without delay.
 
 ## 9. Execution after issue of certificate.
 
@@ -222,11 +192,7 @@ Provided that the State wherein it is claimed that payment has been made, shall 
 
 (2) The provisions of the Code dealing with the conversion of financial penalties shall mutatis mutandis apply to the conversion of a financial penalty under these regulations, sohowever that any reference to the conversion of a financial penalty in that Code shall be construed as a reference to a financial penalty under these regulations.
 
-(3) Any conversion which takes place under this regulation [S.L.9.14 (EXECUTION IN THE EUROPEAN UNION)
-
-shall not exceed the maximum amount stated in the certificate.
-
-*6*
+(3) Any conversion which takes place under this regulation shall not exceed the maximum amount stated in the certificate.
 
 ## 14. Termination of enforcement.
 
@@ -276,10 +242,6 @@ The issuing authority shall be informed by any means which leaves a written reco
 
 (2) The Attorney General shall sign and certify as authentic the contents of the certificate.
 
-*7*
-
-(EXECUTION IN THE EUROPEAN UNION) [S.L.9.14
-
 ## 19. Effects when decision transmitted.
 
 *Amended by: L.N. 468 of 2010.*
@@ -291,10 +253,6 @@ The issuing authority shall be informed by any means which leaves a written reco
 (a) the grounds referred to in regulation 8(1)(a), (c) to (j), both inclusive;
 
 (b) if amnesty, pardon or review of sentence has been granted;
-
-*8*
-
-[S.L.9.14 (EXECUTION IN THE EUROPEAN UNION)
 
 *Amended by: L.N. 468 of 2010; L.N. 252 of 2023.*
 
@@ -323,8 +281,6 @@ terrorism;
 trafficking in human beings;
 
 sexual exploitation of children and child pornography;
-
-(EXECUTION IN THE EUROPEAN UNION) [S.L.9.14 9
 
 *• • • •*
 
@@ -402,10 +358,6 @@ threats and acts of violence against persons, including violence during sport ev
 
 criminal damage;
 
-*10*
-
-[S.L.9.14 (EXECUTION IN THE EUROPEAN UNION)
-
 *• •*
 
 theft;
@@ -446,9 +398,7 @@ E-mail (when available) ........................................................
 
 Languages in which it is possible to communicate with the issuing authority ...................................................................................................... ..................................................................................................................... .....................................................................................................................
 
-Contact details for person(s) to contact to obtain additional information for the purpose of the enforcement of the decision or, where applicable, for the purpose of the transfer to the issuing State of monies obtained from the enforcement (name, title/grade, tel. No., fax No., and, when available, E-mail) ............................................................................................................ (EXECUTION IN THE EUROPEAN UNION) [S.L.9.14 11
-
-..................................................................................................................... .....................................................................................................................
+Contact details for person(s) to contact to obtain additional information for the purpose of the enforcement of the decision or, where applicable, for the purpose of the transfer to the issuing State of monies obtained from the enforcement (name, title/grade, tel. No., fax No., and, when available, E-mail) ............................................................................................................ ..................................................................................................................... .....................................................................................................................
 
 *(c)*
 
@@ -489,10 +439,6 @@ E-mail (when available): .......................................................
 *(e)*
 
 The authority or authorities which may be contacted (in the case where point (c) and/or (d) has been filled):
-
-*12*
-
-[S.L.9.14 (EXECUTION IN THE EUROPEAN UNION)
 
  Authority mentioned under point (b)
 
@@ -538,9 +484,7 @@ Language(s) which the person understands (if known):
 
 (a) If the decision is transmitted to the executing State because the person against whom the decision has been passed is normally resident, add the following information:
 
-Normal residence in the executing State: ............................................ ............................................................................................................ ............................................................................................................ (EXECUTION IN THE EUROPEAN UNION) [S.L.9.14 13
-
-(b) If the decision is transmitted to the executing State because the person against whom the decision has been passed has property in the executing State, add the following information:
+Normal residence in the executing State: ............................................ ............................................................................................................ ............................................................................................................ (b) If the decision is transmitted to the executing State because the person against whom the decision has been passed has property in the executing State, add the following information:
 
 Description of the property of the person: .......................................... ............................................................................................................
 
@@ -582,11 +526,7 @@ Location of the property of the legal person: ..................................
 
 (b) If the decision is transmitted to the executing State because the legal person against whom the decision has been passed has income in the executing State, add the following information:
 
-Description of the source(s) of income of the legal person: [S.L.9.14 (EXECUTION IN THE EUROPEAN UNION)
-
-............................................................................................................
-
-*14*
+Description of the source(s) of income of the legal person: ............................................................................................................
 
 Location of the source(s) of income of the legal person: ............................................................................................................
 
@@ -620,9 +560,7 @@ Amount: ........................................................................
 
  (ii) Compensation imposed in the same decision for the benefit of victims, where the victim may not be a civil party to the proceedings and the court is acting in its exercise of its criminal jurisdiction.
 
-Amount: ................................................................................ (EXECUTION IN THE EUROPEAN UNION) [S.L.9.14 15
-
- (iii) A sum of money in respect of the costs of court or administrative proceedings leading to the decision.
+Amount: ................................................................................  (iii) A sum of money in respect of the costs of court or administrative proceedings leading to the decision.
 
 Amount: ................................................................................
 
@@ -661,10 +599,6 @@ To the extent that the offence(s) identified under point 2 above constitute(s) o
  laundering of the proceeds of crime;
 
  counterfeiting currency, including of the euro;
-
-*16*
-
-[S.L.9.14 (EXECUTION IN THE EUROPEAN UNION)
 
  computer-related crime;
 
@@ -714,8 +648,6 @@ To the extent that the offence(s) identified under point 2 above constitute(s) o
 
  smuggling of goods;
 
-(EXECUTION IN THE EUROPEAN UNION) [S.L.9.14 17
-
  infringements of intellectual property rights;
 
  threats and acts of violence against persons, including violence during sport events;
@@ -758,10 +690,6 @@ Indicate if the person concerned appeared in person at the trial resulting in th
 
 \1.  Yes, the person appeared in person at the trial resulting in the decision.
 
-*18*
-
-[S.L.9.14 (EXECUTION IN THE EUROPEAN UNION)
-
 \2.  No, the person did not appear in person at the trial resulting in the decision.
 
 3. If you have ticked the box under point 2, please confirm the existence of one of the following:
@@ -787,8 +715,6 @@ OR
 OR
 
  the person did not request a retrial or appeal within the applicable time frame;
-
-(EXECUTION IN THE EUROPEAN UNION) [S.L.9.14 19
 
 OR
 
@@ -826,11 +752,7 @@ Other circumstances relevant to the case (optional information): ...............
 
 The text of the decision imposing the financial penalty is attached to the certificate.
 
-Signature of the authority issuing the certificate and/or its representative [S.L.9.14 (EXECUTION IN THE EUROPEAN UNION)
-
-certifying the content of the certificate as accurate: .....................................
-
-*20*
+Signature of the authority issuing the certificate and/or its representative certifying the content of the certificate as accurate: .....................................
 
 Name: ..........................................................................................................
 

@@ -1,6 +1,6 @@
 ---
 title: "Ban on Smokeless Tobacco Regulations"
-identifier: "S.L. 315.2"
+identifier: "S.L. 315.02"
 eli: "https://legislation.mt/eli/sl/315.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/315.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Ban on Smokeless Tobacco Regulations (S.L. 315.2)
+# Ban on Smokeless Tobacco Regulations (S.L. 315.02)
 
 SUBSIDIARY LEGISLATION 315.02
 

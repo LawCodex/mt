@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy - Ph.D. - in the Faculty of Architecture and Civil Engineering (S.L. 327.136)
 
-DEGREE OF DOCTOR OF PHILOSOPHY - PH.D. -
-
-IN THE FACULTY OF ARCHITECTURE
-
-*1*
-
-AND CIVIL ENGINEERING [S.L.327.136
-
 **SUBSIDIARY LEGISLATION 327.136**
 
 BYE-LAWS FOR THE DEGREE OF DOCTOR OF PHILOSOPHY - PH.D. - IN THE FACULTY OF

@@ -1,6 +1,6 @@
 ---
 title: "Reciprocal Enforcement of Maintenance Orders - United Kingdom of Great Britain and Northern Ireland - Order"
-identifier: "S.L. 242.1"
+identifier: "S.L. 242.01"
 eli: "https://legislation.mt/eli/sl/242.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,15 +13,7 @@ version: "https://legislation.mt/eli/sl/242.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Reciprocal Enforcement of Maintenance Orders - United Kingdom of Great Britain and Northern Ireland - Order (S.L. 242.1)
-
-RECIPROCAL ENFORCEMENT OF MAINTENANCE
-
-ORDERS - UNITED KINGDOM OF GREAT BRITAIN AND
-
-*1*
-
-NORTHERN IRELAND [S.L.242.01
+# Reciprocal Enforcement of Maintenance Orders - United Kingdom of Great Britain and Northern Ireland - Order (S.L. 242.01)
 
 **SUBSIDIARY LEGISLATION 242.01**
 

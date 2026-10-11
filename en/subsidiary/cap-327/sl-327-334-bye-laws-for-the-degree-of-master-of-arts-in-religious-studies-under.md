@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Arts in Religious Studies under the auspices of the Faculty of Theology (S.L. 327.334)
 
-*1*
-
-UNDER THE AUSPICES OF THE FACULTY OF THEOLOGY [S.L.327.334
-
 **SUBSIDIARY LEGISLATION 327.334**
 
 BYE-LAWS FOR THE DEGREE OF MASTER OF ARTS IN RELIGIOUS STUDIES UNDER THE AUSPICES OF THE FACULTY OF THEOLOGY 18th November, 2008
@@ -67,11 +63,9 @@ The course shall be open to applicants in possession of:
 
 The course shall extend over three semesters of full-time study or the equivalent in part-time study.
 
-*2*
+## 7. Programme of study.
 
-[S.L.327.334 UNDER THE AUSPICES OF THE FACULTY OF THEOLOGY 7. The programme of study shall comprise study-units to which a total of 90 credits are assigned, of which 30 credits are assigned to taught study-units and 60 credits are assigned to a dissertation study-unit.
-
-*Programme of study.*
+The programme of study shall comprise study-units to which a total of 90 credits are assigned, of which 30 credits are assigned to taught study-units and 60 credits are assigned to a dissertation study-unit.
 
 ## 8. Postgraduate Certificate.
 
@@ -109,11 +103,7 @@ The programme of study shall be published after approval by Senate, normally not
 
 ## 13. Classification of the Award.
 
-The Final Weighted Average Mark for the purpose of the classification of the Degree shall be based on the results obtained in all components of the course programme, all credits being UNDER THE AUSPICES OF THE FACULTY OF THEOLOGY [S.L.327.334
-
-weighted equally.
-
-*3*
+The Final Weighted Average Mark for the purpose of the classification of the Degree shall be based on the results obtained in all components of the course programme, all credits being weighted equally.
 
 ## 14. Special provisions for part-time courses.
 

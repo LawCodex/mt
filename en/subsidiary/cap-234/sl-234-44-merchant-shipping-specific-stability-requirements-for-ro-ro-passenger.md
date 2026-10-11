@@ -57,11 +57,7 @@ Directive 2003/25 shall, unless otherwise provided in these rules and notwithsta
 
 (2) No ro-ro passenger ship shall operate or attempt to operate to or from a Maltese port on a regular service on international voyages, unless duly certified by the administration of its flag State, as prescribed by Directive 2003/25.
 
-(3) The appropriate authority for the purpose of issuing [S.L.234.44 REQUIREMENTS FOR RO-RO PASSENGER SHIPS)
-
-certificates with regards to Maltese ships, in terms of Directive 2003/25 shall be the Registrar-General or, an organisation or body authorised in terms of article 367 of the Act or an official surveyor of ships appointed in terms of that article, duly authorised by the Registrar-General who shall, subject to the provisions of these rules and such Directive, determine the conditions of issue and validity of such certificates.
-
-*2*
+(3) The appropriate authority for the purpose of issuing certificates with regards to Maltese ships, in terms of Directive 2003/25 shall be the Registrar-General or, an organisation or body authorised in terms of article 367 of the Act or an official surveyor of ships appointed in terms of that article, duly authorised by the Registrar-General who shall, subject to the provisions of these rules and such Directive, determine the conditions of issue and validity of such certificates.
 
 ## 5. Duty to ensure compliance.
 

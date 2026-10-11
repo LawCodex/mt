@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Control of Tomato Paste and of Sale of Tomatoes For Processing Purposes Regulations (S.L. 117.13)
 
-*1*
-
-SALE OF TOMATOES FOR PROCESSING PURPOSES [S.L.117.13
-
 **SUBSIDIARY LEGISLATION 117.13**
 
 CONTROL OF TOMATO PASTE AND OF SALE OF
@@ -73,10 +69,6 @@ In this Part ''Director'' means the Director of Agriculture.
 
 (e) containing stalks or foreign matter:
 
-*2*
-
-[S.L.117.13 SALE OF TOMATOES FOR PROCESSING PURPOSES
-
 Provided that it shall be lawful for a producer, pitkal or society to offer for sale tomatoes which are grossly sunburnt to a manufacturer who, at his discretion, may accept to buy them.
 
 (2) It shall be unlawful for any producer to deliver tomatoes to any pitkal, society or manufacturer or for any pitkal or society to deliver tomatoes to any manufacturer unless the tomatoes placed at the top of each container are a fair sample of the entire contents thereof.
@@ -100,10 +92,6 @@ A sanitary inspector of the Department of Health or the Director may cause any q
 ### 7. Returns.
 
 Every society shall not later than the Wednesday of each week make a return to the Director showing the weight of tomatoes sold to each manufacturer on each day of the preceding week and the price or other consideration of each quantity so sold. In the case where no such sales are made a ''nil'' return shall be sent.
-
-*3*
-
-SALE OF TOMATOES FOR PROCESSING PURPOSES [S.L.117.13
 
 ## PART III — Processing of Tomatoes
 
@@ -143,10 +131,6 @@ Any such licence shall not exempt the holder thereof from the obligation of obta
 
 (f) the name and address of each person to whom the tomato paste or any other tomato product is sold and indicating the quantity and the date of each sale and, in the case of tomato paste, the total tomato solids content of each quantity sold.
 
-*4*
-
-[S.L.117.13 SALE OF TOMATOES FOR PROCESSING PURPOSES
-
 (2) The records and documents referred in sub-regulation (1) shall be accessible to the Director or to any person authorised by him in writing in that behalf; the Director or other person so authorised shall have the power to take extracts from such records and documents which shall not be destroyed without the previous authority in writing of the Director.
 
 (3) The Director may from time to time specify the form in which the records referred to in sub-regulation (1) shall be kept.
@@ -169,11 +153,7 @@ Whenever tomato paste is on the business premises of a manufacturer, wholesaler 
 
 (3) Where, however, following an examination of the tomato paste of any manufacturer, the Director is of opinion that, though the provisions of sub-regulation (2) have been complied with, that particular paste is unsatisfactory at to its consistency or colour or palatability, he may issue an order to that manufacturer varying the percentage by weight of tomato solids in the tomato paste being made by him or requiring any other change in the process of manufacture. Such an order may be withdrawn or cancelled by the Director whenever he deems proper.
 
-(4) A sanitary inspector of the Department of Health or the Director or any other person authorised by him in writing in that behalf shall have power at any reasonable time to enter and inspect any factory, store or shop in which tomato paste or any other tomato product is being produced, stored or sold, to inspect the SALE OF TOMATOES FOR PROCESSING PURPOSES [S.L.117.13
-
-tomatoes, tomato paste, tomato products or any material used in the manufacture or packing of tomato products and, if he deems necessary, to take samples thereof for the purpose of examination or analysis.
-
-*5*
+(4) A sanitary inspector of the Department of Health or the Director or any other person authorised by him in writing in that behalf shall have power at any reasonable time to enter and inspect any factory, store or shop in which tomato paste or any other tomato product is being produced, stored or sold, to inspect the tomatoes, tomato paste, tomato products or any material used in the manufacture or packing of tomato products and, if he deems necessary, to take samples thereof for the purpose of examination or analysis.
 
 In the case of samples taken from manufacturers, they shall be taken free of charge; in other cases the current market value shall be paid; in every case a receipt shall be given to the person from whom the sample is taken.
 
@@ -203,11 +183,7 @@ Any person who contravenes or fails to comply with any of these Regulations or w
 
 *Amended by: L.N. 409 of 2007.*
 
-(1) Where the offence is against the provisions of regulations 9(1) or 12(2), or any order is made in terms of regulation 12(3), the fine (multa) shall be of not less than forty-six euros and fifty-nine cents (46.59) but not exceeding two hundred [S.L.117.13 SALE OF TOMATOES FOR PROCESSING PURPOSES
-
-and thirty-two euros and ninety-four cents (232.94); and where the offence is against the provisions of regulation 4, the fine (ammenda) shall be of not less than four euros and sixty-six cents (4.66) but not exceeding eleven euros and sixty-five cents (11.65).
-
-*6*
+(1) Where the offence is against the provisions of regulations 9(1) or 12(2), or any order is made in terms of regulation 12(3), the fine (multa) shall be of not less than forty-six euros and fifty-nine cents (46.59) but not exceeding two hundred and thirty-two euros and ninety-four cents (232.94); and where the offence is against the provisions of regulation 4, the fine (ammenda) shall be of not less than four euros and sixty-six cents (4.66) but not exceeding eleven euros and sixty-five cents (11.65).
 
 (2) Where on any prosecution under these Regulations, the Court is satisfied that a manufacturer has made or sold or has in his possession for sale tomato paste which does not conform to the provisions of regulation 12(2), or that the manufacturer has not conformed with any order issued to him in terms of regulation 12(3), subject to what is hereinafter provided, the Court shall order the forfeiture of all the tomato paste of that manufacturer deemed in terms of regulation 14(2) to be of the same consistency as that which has been subjected to examination or analysis in terms of these Regulations and which has been actually found by the Court to offend against regulation 12(2) or of any order issued in terms of regulation 12(3):
 
@@ -224,10 +200,6 @@ Provided that before giving any such order the Court shall by summons order the 
 *Amended by: L.N. 15 of 1964.*
 
 (1) Where a sanitary inspector of the Department of Health or the Director of Trade or any other person authorised by him in writing on that behalf, following an inspection in terms of regulation 12(4), finds on the premises of the manufacturer tomatoes which are generally insect infested, mouldy or diseased, he shall report the matter to the senior health officer or a medical officer of health, who will immediately proceed to the premises, and after hearing on the spot any representations by both the sanitary inspector or the Director of Trade or any other person authorised by him as aforesaid and the manufacturer, shall order the tomatoes to be forfeited if he considers that the tomatoes are generally insect infested, mouldy or diseased.
-
-*7*
-
-SALE OF TOMATOES FOR PROCESSING PURPOSES [S.L.117.13
 
 (2) On giving such an order the senior health officer or medical officer of health shall be empowered to take all such steps as may be necessary to ensure that the order is complied with forthwith, and the manufacturer shall have no right of compensation against any public officer in connection with any such order, saving any right of regress competent to him, if any, against the person from whom the tomatoes were purchased, according to law.
 
@@ -247,11 +219,7 @@ Provided that proceedings in respect of an offence under these regulations may b
 
 ### 20. Person charged with an offence.
 
-Nevertheless, if a person charged with an offence against these regulations alleges, on the day appointed for the trial of the case and before the hearing commences, that another person, whom he names, has committed the offence in question without his knowledge, consent or connivance, such other person shall be summoned to appear before the Court, and if, after the commission of the offence has been proved, the first defendant proves to the satisfaction of the Court that the said other person had committed the offence without his knowledge, consent or connivance, the said other person shall be convicted of the offence and the first defendant shall be exempt from any punishment; but the Court shall order the tomato paste to which the offence relates to be forfeited [S.L.117.13 SALE OF TOMATOES FOR PROCESSING PURPOSES
-
-where such tomato paste is so liable according to these Regulations.
-
-*8*
+Nevertheless, if a person charged with an offence against these regulations alleges, on the day appointed for the trial of the case and before the hearing commences, that another person, whom he names, has committed the offence in question without his knowledge, consent or connivance, such other person shall be summoned to appear before the Court, and if, after the commission of the offence has been proved, the first defendant proves to the satisfaction of the Court that the said other person had committed the offence without his knowledge, consent or connivance, the said other person shall be convicted of the offence and the first defendant shall be exempt from any punishment; but the Court shall order the tomato paste to which the offence relates to be forfeited where such tomato paste is so liable according to these Regulations.
 
 ### 21. Prosecution of wholesaler or retailer.
 

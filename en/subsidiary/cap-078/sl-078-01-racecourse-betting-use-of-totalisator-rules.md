@@ -1,6 +1,6 @@
 ---
 title: "Racecourse Betting (Use of Totalisator) Rules"
-identifier: "S.L. 78.1"
+identifier: "S.L. 78.01"
 eli: "https://legislation.mt/eli/sl/78.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/78.1/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Racecourse Betting (Use of Totalisator) Rules (S.L. 78.1)
+# Racecourse Betting (Use of Totalisator) Rules (S.L. 78.01)
 
 **SUBSIDIARY LEGISLATION 78.01**
 

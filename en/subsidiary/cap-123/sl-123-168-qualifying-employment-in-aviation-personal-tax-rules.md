@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Qualifying Employment in Aviation (Personal Tax) Rules (S.L. 123.168)
 
-*1*
-
-(PERSONAL TAX) [S.L.123.168
-
 **SUBSIDIARY LEGISLATION 123.168**
 
 **QUALIFYING EMPLOYMENT IN AVIATION**
@@ -61,11 +57,7 @@ The title of these rules is the Qualifying Employment in Aviation (Personal Tax)
 
 "public interest" includes the interests of public safety, the protection of public order, national security, territorial integrity, public health or morals;
 
-"rights acquired under this law" means the right to elect to pay tax at the reduced rate of tax contemplated in article 56(21) of the Act [S.L.123.168 (PERSONAL TAX)
-
-and these rules;
-
-*2*
+"rights acquired under this law" means the right to elect to pay tax at the reduced rate of tax contemplated in article 56(21) of the Act and these rules;
 
 "these rules" shall include the provisions of article 56(21) of the Act and the rules contained in these rules;
 
@@ -95,11 +87,7 @@ A beneficiary is an individual who meets the following conditions:
 
 (c) he proves to the satisfaction of the competent authority that he is in possession of professional qualifications or experience;
 
-(d) he fully discloses for tax purposes and declares emoluments received in respect of income from a qualifying contract of employment and all income received from a person related to his employer paying out income from a qualifying contract as chargeable to (PERSONAL TAX) [S.L.123.168
-
-tax in Malta;
-
-*3*
+(d) he fully discloses for tax purposes and declares emoluments received in respect of income from a qualifying contract of employment and all income received from a person related to his employer paying out income from a qualifying contract as chargeable to tax in Malta;
 
 (e) he proves to the satisfaction of the competent authority that he performs activities of an eligible office; and
 
@@ -139,11 +127,7 @@ Provided that the rate of 15% shall apply without possibility to claim any relie
 
 (2) Rights acquired under this law shall be deemed to have been withdrawn with immediate effect if the grant of benefits under these rules and the beneficiary’s stay in Malta are not in the public interest.
 
-(3) Notwithstanding anything to the contrary contained in these rules, any person who falls under the provisions of sub-rule (1), [S.L.123.168 (PERSONAL TAX)
-
-irrespective of whether he has availed himself of the benefit provided by these rules or not, shall be eligible, upon application, to two extensions of five years each to his qualifying period, subject to the continued adherence to the other provisions of these rules:
-
-*4*
+(3) Notwithstanding anything to the contrary contained in these rules, any person who falls under the provisions of sub-rule (1), irrespective of whether he has availed himself of the benefit provided by these rules or not, shall be eligible, upon application, to two extensions of five years each to his qualifying period, subject to the continued adherence to the other provisions of these rules:
 
 Provided that the eligibility under these rules shall not exceed a consecutive period of fifteen years commencing from the year preceding the first year of assessment in which that person is first liable to tax under the provisions of the Act.
 
@@ -163,11 +147,7 @@ Provided further that liability to pay additional tax in terms of the preceding 
 
 (1) For the purpose of ascertaining an individual’s right to exercise the option referred to in these rules and ensuring the proper application of these rules, the Commissioner and the competent authority may require that individual to produce, within the time indicated by the Commissioner and the competent authority in that request, such further information and documents as the Commissioner and the competent authority may consider necessary, including certifications and declarations of the employer of that individual.
 
-(2) If an individual fails, without any valid reason, to comply with any request relating to his income made to him by the Commissioner and the competent authority in accordance with this rule, the Commissioner and the competent authority may order that article 56(21) of the Act shall not apply to that income. In such a (PERSONAL TAX) [S.L.123.168
-
-case, the Commissioner may make an assessment and the tax on that income shall be calculated at the rates provided for in the Act without any reference to the said sub-rule.
-
-*5*
+(2) If an individual fails, without any valid reason, to comply with any request relating to his income made to him by the Commissioner and the competent authority in accordance with this rule, the Commissioner and the competent authority may order that article 56(21) of the Act shall not apply to that income. In such a case, the Commissioner may make an assessment and the tax on that income shall be calculated at the rates provided for in the Act without any reference to the said sub-rule.
 
 ## 9. Manner in which option is exercised.
 
@@ -186,10 +166,6 @@ Provided that when the said declaration or the relative tax return is filed late
 ## 11. Exercise of benefit.
 
 For the purposes of rule 9, the competent authority shall, following an application, filed by a beneficiary, endorse the form required by the Commissioner.
-
-*6*
-
-[S.L.123.168 (PERSONAL TAX)
 
 ## SCHEDULE
 
@@ -270,9 +246,5 @@ Aeronautical engineer
 Head of Maintenance Operations
 
 Aviation Systems Developer
-
-*7*
-
-(PERSONAL TAX) [S.L.123.168
 
 Key Aviation Specialist

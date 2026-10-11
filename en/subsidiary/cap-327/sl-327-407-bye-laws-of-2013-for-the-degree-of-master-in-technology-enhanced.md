@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws of 2013 for the Degree of Master in Technology-Enhanced Learning (MiTeL) under the auspices of the Faculty of Education (S.L. 327.407)
 
-LEARNING (DiTeL) UNDER THE AUSPICES
-
-*1*
-
-OF THE FACULTY OF EDUCATION [S.L.327.407
-
 **SUBSIDIARY LEGISLATION 327.407**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER IN**
@@ -75,15 +69,9 @@ These bye-laws shall apply from October 2013 onwards.
 
 (3) Preference will be given to applicants who are currently working as teachers in the primary or secondary sector.
 
-(4) The Board shall recommend to Senate the number of applicants that may be allowed to register on the course, depending on the availability of resources. The number of available places LEARNING (DiTeL) UNDER THE AUSPICES
+(4) The Board shall recommend to Senate the number of applicants that may be allowed to register on the course, depending on the availability of resources. The number of available places shall be announced at the time of the call for applications.
 
 \*These bye-laws have been repealed by Legal Notice 185 of 2022.
-
-*2*
-
-[S.L.327.407 OF THE FACULTY OF EDUCATION
-
-shall be announced at the time of the call for applications.
 
 (5) If the number of applicants exceeds the number of available places, applicants shall be invited for an interview. The criteria for the selection process are:
 
@@ -127,11 +115,7 @@ The taught programme of study shall be published after approval by Senate, norma
 
 (3) Students who fail more than the number of study-units permitted under paragraph (2) or students who after re-assessment fail to obtain credit for any study-unit, shall be deemed to have failed the course.
 
-(4) Students shall be allowed to proceed to the dissertation study-unit subject to obtaining the 60 ECTS credits assigned to the LEARNING (DiTeL) UNDER THE AUSPICES
-
-*3*
-
-OF THE FACULTY OF EDUCATION [S.L.327.407 taught study-units with a minimum average mark of 65%.
+(4) Students shall be allowed to proceed to the dissertation study-unit subject to obtaining the 60 ECTS credits assigned to the taught study-units with a minimum average mark of 65%.
 
 ## 8. Dissertation.
 

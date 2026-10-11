@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Double Taxation Relief on Taxes on Income with South Africa Order (S.L. 123.45)
 
-*1*
-
-WITH SOUTH AFRICA [ S.L.123.45
-
 **SUBSIDIARY LEGISLATION 123.45**
 
 **DOUBLE TAXATION RELIEF ON TAXES ON**
@@ -46,8 +42,6 @@ It is hereby declared:
 (iii) the secondary tax on companies;
 
 (b) that it is expedient that those arrangements should have effect.
-
-2 [ S.L.123.45 WITH SOUTH AFRICA
 
 ## SCHEDULE — AGREEMENT — BETWEEN MALTA AND SOUTH AFRICA
 
@@ -97,8 +91,6 @@ This Agreement shall apply also to any identical or substantially similar taxes 
 
 Notwithstanding the other provisions of this Article, this Agreement shall not apply to tax paid or payable in Malta in accordance with the provisions of sub-article (13) of article 56 of the Income Tax Act concerning the chargeable income of any person engaged in the production of petroleum produced in Malta or any substantially similar provision which is imposed after the date of signature of this Agreement.
 
-WITH SOUTH AFRICA [ S.L.123.45 3
-
 ## CHAPTER II — DEFINITIONS — ARTICLE 3
 
 **General Definitions**
@@ -132,8 +124,6 @@ WITH SOUTH AFRICA [ S.L.123.45 3
 (ii) any legal person, partnership or association deriving its status as such from the laws in force in a Contracting State.
 
 \2. As regards the application of the Agreement by a Contracting State any term not defined therein shall, unless the context otherwise requires, have the meaning which it has under the laws of that State concerning the taxes to which this Agreement applies.
-
-4 [ S.L.123.45 WITH SOUTH AFRICA
 
 **ARTICLE 4\***
 
@@ -173,11 +163,9 @@ Where by reason of the provisions of paragraph 1 a person other than an individu
 
 (e) a workshop; and
 
-(f) a mine, an oil or gas well, a quarry or any other place of extraction of WITH SOUTH AFRICA [ S.L.123.45 5
+(f) a mine, an oil or gas well, a quarry or any other place of extraction of natural resources including an offshore drilling site.
 
 \*as amended by Protocol reproduced in Legal Notice 392 of 2013.
-
-natural resources including an offshore drilling site.
 
 ### 3.
 
@@ -213,9 +201,7 @@ Notwithstanding the provisions of paragraphs 1 and 2, where a person -other than
 
 ### 7.
 
-An enterprise of a Contracting State shall not be deemed to have a permanent establishment in the other Contracting State merely because it carries on business in that other State through a broker, general commission agent or any other agent of an independent status, provided that such persons are acting in the ordinary course of their business. However, when the activities of such an agent are devoted wholly or almost wholly on behalf of that enterprise and the transactions between 6 [ S.L.123.45 WITH SOUTH AFRICA
-
-that agent and the enterprise are not made under arm’s length conditions, he will not be considered an agent of an independent status within the meaning of this paragraph.
+An enterprise of a Contracting State shall not be deemed to have a permanent establishment in the other Contracting State merely because it carries on business in that other State through a broker, general commission agent or any other agent of an independent status, provided that such persons are acting in the ordinary course of their business. However, when the activities of such an agent are devoted wholly or almost wholly on behalf of that enterprise and the transactions between that agent and the enterprise are not made under arm’s length conditions, he will not be considered an agent of an independent status within the meaning of this paragraph.
 
 ### 8.
 
@@ -241,9 +227,7 @@ The fact that a company which is a resident of a Contracting State controls or i
 
 \2. Subject to the provisions of paragraph 3, where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment or with other associated enterprises with which it deals.
 
-\3. In determining the profits of a permanent establishment, there shall be WITH SOUTH AFRICA [ S.L.123.45 7
-
-allowed as deductions expenses which are incurred for the purposes of the permanent establishment, including executive and general administrative expenses so incurred, whether incurred in the Contracting State in which the permanent establishment is situated or elsewhere.
+\3. In determining the profits of a permanent establishment, there shall be allowed as deductions expenses which are incurred for the purposes of the permanent establishment, including executive and general administrative expenses so incurred, whether incurred in the Contracting State in which the permanent establishment is situated or elsewhere.
 
 \4. Insofar as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph 2 shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary. The method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles contained in this Article.
 
@@ -283,8 +267,6 @@ if such profits are incidental to the profits to which the provisions of paragra
 
 (b) the same persons participate directly or indirectly in the management, control or capital of an enterprise of a Contracting State and an enterprise of the other Contracting State,
 
-8 [ S.L.123.45 WITH SOUTH AFRICA
-
 and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly.
 
 \2. Where a Contracting State includes in the profits of an enterprise of that State - and taxes accordingly - profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Agreement and the competent authorities of the Contracting States shall if necessary consult each other.
@@ -309,11 +291,9 @@ This paragraph shall not affect the taxation of the company in respect of the pr
 
 \3. The term "dividends" as used in this Article means income from shares or other rights participating in profits (not being debt claims), as well as income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the Contracting State of which the company making the distribution is a resident.
 
-\4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the WITH SOUTH AFRICA [ S.L.123.45 9
+\4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \*as amended by Protocol reproduced in Legal Notice 392 of 2013.
-
-other State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 \5. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company’s undistributed profits to a tax on the company’s undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
 
@@ -345,11 +325,9 @@ other State of which the company paying the dividends is a resident, through a p
 
 (c) any other stock exchange agreed upon by the competent authorities of the Contracting States
 
-\5. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right 10 [ S.L.123.45 WITH SOUTH AFRICA
+\5. The term "interest" as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor’s profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
 \*as amended by Protocol reproduced in Legal Notice 392 of 2013.
-
-to participate in the debtor’s profits, and in particular, income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
 \6. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other C ont racting St ate i n which t he interes t arise s, t hrough a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
@@ -370,8 +348,6 @@ Where, by reason of a special relationship between the payer and the beneficial 
 \3. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific works including cinematograph films, any patent, trade mark, design or model, plan, secret formula or process, or for information concerning industrial, commercial or scientific experience.
 
 \4. The provisions of paragraphs 1 and 2 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the ot her C ontracting State in which the royalt ies aris e, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
-
-WITH SOUTH AFRICA [ S.L.123.45 11
 
 \5. Royalties shall be deemed to arise in a Contracting State when the payer is that State itself, a political sub-division, a local authority or a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the obligation to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
@@ -397,9 +373,7 @@ WITH SOUTH AFRICA [ S.L.123.45 11
 
 \1. Income derived by a resident of a Contracting State in respect of professional services or other activities of an independent character shall be taxable only in that State. However, such income may be taxed in the other Contracting State in the following circumstances:
 
-(a) if he has a fixed base regularly available to him in the other Contracting State for the purpose of performing his activities (in which case only so 12 [ S.L.123.45 WITH SOUTH AFRICA
-
-much of the income as is attributable to that fixed base may be taxed in that other Contracting State); or
+(a) if he has a fixed base regularly available to him in the other Contracting State for the purpose of performing his activities (in which case only so much of the income as is attributable to that fixed base may be taxed in that other Contracting State); or
 
 (b) if his stay in the other Contracting State is for a period or periods amounting to or exceeding in the aggregate 183 days in any twelve-month period commencing or ending in the fiscal year concerned; or (c) if the net income for his services in the other Contracting State is derived from residents of that State and exceeds in the currency of that State the equivalent of 20,000 United States dollars during the fiscal year.
 
@@ -431,9 +405,7 @@ Directors’ fees and other similar payments derived by a resident of a Contract
 
 **Entertainers and Sportsmen**
 
-\1. Notwithstanding the provisions of Articles 7, 14 and 15, income derived by a resident of a Contracting State as an entertainer, such as a theatre, motion picture, radio or television artiste, or a musician, or as a sportsman, from his personal WITH SOUTH AFRICA [ S.L.123.45 13
-
-activities as such exercised in the other Contracting State, may be taxed in that other State.
+\1. Notwithstanding the provisions of Articles 7, 14 and 15, income derived by a resident of a Contracting State as an entertainer, such as a theatre, motion picture, radio or television artiste, or a musician, or as a sportsman, from his personal activities as such exercised in the other Contracting State, may be taxed in that other State.
 
 \2. Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman himself but to another person, that income may, notwithstanding the provisions of Articles 7, 14 and 15, be taxed in the Contracting State in which the activities of the entertainer or sportsman are exercised.
 
@@ -469,8 +441,6 @@ activities as such exercised in the other Contracting State, may be taxed in tha
 
 **Students and Business Apprentices**
 
-14 [ S.L.123.45 WITH SOUTH AFRICA
-
 A student or business apprentice who is present in a Contracting State solely for the purpose of his education or training and who is, or immediately before being so present was, a resident of the other Contracting State, shall be exempt from tax in the first-mentioned State on payments received from outside that first-mentioned State for the purposes of his maintenance, education or training.
 
 **ARTICLE 21**
@@ -495,9 +465,7 @@ Where South African tax is, in accordance with the provisions of this Agreement,
 
 \3. Where the Agreement provides that income arising in a Contracting State shall be relieved from tax in that State, either in full or in part, and, under the law in force in the other Contracting State, such income is subject to tax by reference to the amount thereof which is remitted to or received in that other State and not by reference to the full amount thereof, then the relief to be allowed in the first-mentioned State shall apply only to so much of the income as is remitted to or received in the other State.
 
-## CHAPTER V — SPECIAL PROVISIONS — WITH SOUTH AFRICA [ S.L.123.45 15
-
-**ARTICLE 23**
+## CHAPTER V — SPECIAL PROVISIONS — ARTICLE 23
 
 **Non-Discrimination**
 
@@ -519,9 +487,7 @@ Where South African tax is, in accordance with the provisions of this Agreement,
 
 \2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Agreement. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.
 
-\3. The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the 16 [ S.L.123.45 WITH SOUTH AFRICA
-
-interpretation or application of the Agreement. They may also consult together for the elimination of double taxation in cases not provided for in the Agreement.
+\3. The competent authorities of the Contracting States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Agreement. They may also consult together for the elimination of double taxation in cases not provided for in the Agreement.
 
 \4. The competent authorities of the Contracting States may communicate with each other directly for the purpose of reaching an agreement in the sense of the preceding paragraphs.
 
@@ -546,8 +512,6 @@ interpretation or application of the Agreement. They may also consult together f
 \5. In no case shall the provisions of paragraph 3 be construed to permit a Contracting State to decline to supply information solely because the information is held by a bank, other financial institution, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person.
 
 \*as substituted by Protocol reproduced in Legal Notice 392 of 2013.
-
-WITH SOUTH AFRICA [ S.L.123.45 17
 
 **ARTICLE 26**
 
@@ -587,9 +551,7 @@ in respect of taxes which are levied for any year of assessment beginning on or 
 
 (ii) with regard to other taxes, in respect of income derived during any taxable year beginning after the end of the calendar year in which such notice is given.
 
-IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have 18 [ S.L.123.45 WITH SOUTH AFRICA
-
-signed this Agreement.
+IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Agreement.
 
 DONE in duplicate at Rome this 16th day of May, 1997 in the English language.
 
@@ -643,8 +605,6 @@ The Government of Malta and the Government of the Republic of South Africa;
 
 DESIRING to amend the Agreement for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income, signed at Rome, Italy on 16 May 1997 (in this Protocol referred to as "the Agreement");
 
-WITH SOUTH AFRICA [ S.L.123.45 19
-
 HAVE AGREED as follows:
 
 Article I
@@ -681,11 +641,7 @@ Article 11 of the Agreement is amended by:
 
 (b) the interest is paid to the Government of the other Contracting State or a political subdivision or a local authority thereof; or
 
-(c) the interest is paid by the Central Bank of that Contracting State or to the Central Bank of the other Contracting State; [ S.L.123.45 WITH SOUTH AFRICA
-
-or
-
-*20*
+(c) the interest is paid by the Central Bank of that Contracting State or to the Central Bank of the other Contracting State; or
 
 (d) the interest is paid to any institution or body which is wholly owned, directly or indirectly, by the other Contracting State or a political subdivision or a local authority thereof; or
 
@@ -727,9 +683,7 @@ In no case shall the provisions of paragraphs 1 and 2 be construed so as to impo
 
 (b) to supply information which is not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;
 
-(c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public WITH SOUTH AFRICA [ S.L.123.45 21
-
-policy (ordre public).
+(c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public policy (ordre public).
 
 \4. If information is requested by a Contracting State in accordance with this Article, the other Contracting State shall use its information gathering measures to obtain the requested information, even though that other State may not need such information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations of paragraph 3 but in no case shall such limitations be construed to permit a Contracting State to decline to supply information solely because it has no domestic interest in such information.
 

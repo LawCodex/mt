@@ -1,6 +1,6 @@
 ---
 title: "Procedure of the Traffic Control Board Rules"
-identifier: "S.L. 65.2"
+identifier: "S.L. 65.02"
 eli: "https://legislation.mt/eli/sl/65.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/65.2/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Procedure of the Traffic Control Board Rules (S.L. 65.2)
+# Procedure of the Traffic Control Board Rules (S.L. 65.02)
 
 SUBSIDIARY LEGISLATION 65.02
 

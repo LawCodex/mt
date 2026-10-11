@@ -1,6 +1,6 @@
 ---
 title: "Cross-Compliance related to EU Aid Applications in terms of the Paying Agency Regulations"
-identifier: "S.L. 146.5"
+identifier: "S.L. 146.05"
 eli: "https://legislation.mt/eli/sl/146.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/146.5/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Cross-Compliance related to EU Aid Applications in terms of the Paying Agency Regulations (S.L. 146.5)
-
-CROSS-COMPLIANCE RELATED TO EU AID
-
-*1*
-
-APPLICATIONS IN TERMS OF THE PAYING AGENCY [S.L.146.05
+# Cross-Compliance related to EU Aid Applications in terms of the Paying Agency Regulations (S.L. 146.05)
 
 **SUBSIDIARY LEGISLATION 146.05**
 

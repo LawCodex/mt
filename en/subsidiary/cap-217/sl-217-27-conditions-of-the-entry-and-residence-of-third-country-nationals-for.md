@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Conditions of the Entry and Residence of Third-Country Nationals for the Purpose of Highly Qualified Employment Regulations (S.L. 217.27)
 
-THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*1*
-
-HIGHLY QUALIFIED EMPLOYMENT [S.L. 217.27
-
 **SUBSIDIARY LEGISLATION 217.27**
 
 CONDITIONS OF THE ENTRY AND RESIDENCE OF THIRD-COUNTRY NATIONALS FOR THE PURPOSE
@@ -60,12 +54,6 @@ For the purpose of these regulations, unless the context otherwise requires:
 
 "competent authority" means the Identity Malta Agency established by article 3 of the Identity Malta Agency (Establishment) Order;
 
-**THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF**
-
-**HIGHLY QUALIFIED EMPLOYMENT**
-
-*[S.L. 217.27 2*
-
 "EU Blue Card" means a residence permit bearing the term "EU Blue Card" that entitles its holder to reside and work in the territory of Malta;
 
 * S.L. 217.06.*
@@ -86,13 +74,7 @@ Provided that for the purposes of these regulations, a higher education qualific
 
 (a) as concerns the occupations listed in the Schedule, knowledge, skills and competences attested by professional experience at a level comparable to higher education qualifications, which are relevant to the profession or sector specified in the work contract or binding job offer, and which have been acquired over the duration set out in the Schedule for each relevant occupation;
 
-(b) as concerns other occupations, only where provided for by law or applicable procedures, knowledge, skills and competences attested by at least THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*3*
-
-HIGHLY QUALIFIED EMPLOYMENT [S.L. 217.27
-
-five (5) years of professional experience at a level comparable to higher education qualifications and which are relevant to the profession or sector specified in the work contract or binding job offer;
+(b) as concerns other occupations, only where provided for by law or applicable procedures, knowledge, skills and competences attested by at least five (5) years of professional experience at a level comparable to higher education qualifications and which are relevant to the profession or sector specified in the work contract or binding job offer;
 
 "highly qualified employment" means the employment of a person who:
 
@@ -122,13 +104,7 @@ five (5) years of professional experience at a level comparable to higher educat
 
 "Regulation (EC) No 883/2004" means Regulation (EC) No 883/2004 of the European Parliament and of the Council of 29 April 2004 on the coordination of social security systems;
 
-"second Member State" means any Member State in which the EU Blue Card holder intends to exercise or is exercising the right of mobility in accordance with these THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF
-
-**HIGHLY QUALIFIED EMPLOYMENT**
-
-*[S.L. 217.27 4*
-
-regulations, other than the first Member State;
+"second Member State" means any Member State in which the EU Blue Card holder intends to exercise or is exercising the right of mobility in accordance with these regulations, other than the first Member State;
 
 "third-country national" means any person who is not a citizen of the European Union within the meaning of Article 20(1) of the Treaty on the Functioning of the European Union;
 
@@ -158,12 +134,6 @@ regulations, other than the first Member State;
 
 (e) who enter Malta for commitments contained in an international agreement facilitating the entry and temporary stay of certain categories of trade and investment-related natural persons, with the exception of third-country nationals who have been admitted to the territory of Malta as intra-corporate transferees in accordance with the Conditions of Entry and Residence of Third Country Nationals in the Framework of an Intra-Corporate Transfer Regulations;
 
-THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*5*
-
-HIGHLY QUALIFIED EMPLOYMENT [S.L. 217.27
-
 (f) whose expulsion has been suspended for reasons of fact or law;
 
 *S.L. 452.82.*
@@ -192,10 +162,6 @@ Provided further that the Minister responsible for employment shall communicate 
 
 (b) for unregulated professions, present documents attesting to relevant higher professional qualifications in relation to the work to be carried out;
 
-*6*
-
-THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF [S.L. 217.27 HIGHLY QUALIFIED EMPLOYMENT
-
 *      S.L. 451.03.*
 
 (c) for regulated professions, present documents attesting to the fulfilment of the conditions set out in accordance with the law for the exercise by European Union citizens of the regulated profession specified in the work contract or binding job offer, in accordance with the Recognition of Professional Qualifications Regulations;
@@ -217,12 +183,6 @@ THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF [S.L. 217.27 HIGHLY QUALIFIED EMPLOYM
 (a) require the applicant to present the documents provided for in paragraph (b) or (c) of sub-regulation (1), if the relevant higher professional qualifications were already verified in the context of the application for the residence permit;
 
 (b) require the applicant to present the evidence provided for in paragraph (e) of sub-regulation (1), unless the application is submitted in the context of a change of employment, in which case regulation 13 shall apply accordingly; and
-
-THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*7*
-
-HIGHLY QUALIFIED EMPLOYMENT [S.L. 217.27
 
 (c) apply regulation 6(1)(e), unless the application is submitted in the context of a change of employment, in which case regulation 13 shall apply accordingly.
 
@@ -250,12 +210,6 @@ These regulations shall not affect the right of the competent authority after co
 
 (f) where the employer has failed to meet its legal obligations regarding social security, taxation, labour rights or working conditions;
 
-**THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF**
-
-**HIGHLY QUALIFIED EMPLOYMENT**
-
-*[S.L. 217.27 8*
-
 (g) where the employer’s business is being, or has been, wound up under national insolvency laws or carries out no economic activity;
 
 *   S.L. 217.14.*
@@ -282,13 +236,9 @@ These regulations shall not affect the right of the competent authority after co
 
 (f) the employer has failed to meet its legal obligations regarding social security, taxation, labour rights or working conditions;
 
-THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*9*
-
-HIGHLY QUALIFIED EMPLOYMENT [S.L. 217.27 (g) the EU Blue Card holder does not have sufficient resources to maintain himself and, where applicable, the members of his family without having recourse to social assistance in accordance with the Social Security Act and the regulations made thereunder;
-
 *     Cap. 318.*
+
+(g) the EU Blue Card holder does not have sufficient resources to maintain himself and, where applicable, the members of his family without having recourse to social assistance in accordance with the Social Security Act and the regulations made thereunder;
 
 (h) the EU Blue Card holder is residing in Malta for purposes other than those for which he was authorised to reside;
 
@@ -306,11 +256,7 @@ Provided that for the purposes of paragraph (c), the competent authority shall e
 
 (3) By way of derogation from paragraphs (b) and (d) of sub-regulation (1), the competent authority may decide not to withdraw or not to refuse to renew an EU Blue Card where the EU Blue Card holder temporarily, in any case for not longer than twelve (12) months, does not fulfil the criteria for admission set out in sub-regulation (1)(a), (3) or, where applicable, (4) or (5) of regulation 4, as a result of illness, disability or parental leave.
 
-(4) By way of derogation from paragraphs (b), (d) and (g) of THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF [S.L. 217.27 HIGHLY QUALIFIED EMPLOYMENT
-
-sub-regulation (1), the EU Blue Card shall not be withdrawn and its renewal shall not be refused in the event of the unemployment of the EU Blue Card holder, except where:
-
-*10*
+(4) By way of derogation from paragraphs (b), (d) and (g) of sub-regulation (1), the EU Blue Card shall not be withdrawn and its renewal shall not be refused in the event of the unemployment of the EU Blue Card holder, except where:
 
 (a) the EU Blue Card holder cumulates a period of unemployment exceeding three (3) months and has held an EU Blue Card for less than two (2) years; or
 
@@ -328,13 +274,7 @@ sub-regulation (1), the EU Blue Card shall not be withdrawn and its renewal shal
 
 (2) The competent authority shall set a standard period of validity for the EU Blue Card, which shall not be less than twenty-four (24) months. If the EU Blue Card holder’s work contract covers a shorter period, the EU Blue Card shall be valid for at least the duration of the work contract plus three (3) months, but for not less than the standard period of twenty-four (24) months. However, if the period of validity of the EU Blue Card holder’s travel document is shorter than the period of validity of the EU Blue Card that would apply in accordance with this regulation, the EU Blue Card shall be valid at least for the period of validity of the travel document.
 
-(3) (a) The EU Blue Card shall be issued by the THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*11*
-
-HIGHLY QUALIFIED EMPLOYMENT [S.L. 217.27
-
-competent authority in accordance with the uniform format laid down in Regulation (EC) No 1030/2002;
+(3) (a) The EU Blue Card shall be issued by the competent authority in accordance with the uniform format laid down in Regulation (EC) No 1030/2002;
 
 (b) the competent authority may indicate on the EU Blue Card the conditions for access to the labour market set out in regulation 13(1). The words "EU Blue Card" shall be entered in the space reserved for the "type of permit" in the residence permit.
 
@@ -350,11 +290,7 @@ Provided further that the Member State that is to be mentioned in the remark sha
 
 Provided further that where, in accordance with the relevant international instruments or applicable law, the responsibility for the international protection of the EU Blue Card holder was transferred to Malta after it issued an EU Blue Card in accordance with the first proviso, the competent authority shall amend the remark accordingly within three (3) months after the transfer.
 
-(6) Where an EU Blue Card is issued by the competent authority on the basis of higher professional skills in occupations not listed in the Schedule, the competent authority issuing the EU Blue THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF [S.L. 217.27 HIGHLY QUALIFIED EMPLOYMENT
-
-Card shall enter the following remark in that EU Blue Card, under the heading "Remarks": "[Occupation not listed in the Schedule]".
-
-*12*
+(6) Where an EU Blue Card is issued by the competent authority on the basis of higher professional skills in occupations not listed in the Schedule, the competent authority issuing the EU Blue Card shall enter the following remark in that EU Blue Card, under the heading "Remarks": "[Occupation not listed in the Schedule]".
 
 (7) During the period of its validity, the EU Blue Card shall entitle its holder to:
 
@@ -376,13 +312,7 @@ Card shall enter the following remark in that EU Blue Card, under the heading "R
 
 (3) Any decision to reject an application for an EU Blue Card, to withdraw an EU Blue Card or not to renew an EU Blue Card shall be notified in writing to the third-country national concerned and, where relevant, to his employer. The notification shall specify the reasons for the decision, where he may file an appeal and the competent authority against whom an appeal may be submitted, as well as the time limit for filing an appeal:
 
-Provided that an applicant who feels aggrieved by a decision taken in accordance with the provisions of these regulations THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*13*
-
-HIGHLY QUALIFIED EMPLOYMENT [S.L. 217.27
-
-shall have the right to an appeal before the Immigration Appeals Board established by article 25A of the Act and in accordance with the provisions of the said Act:
+Provided that an applicant who feels aggrieved by a decision taken in accordance with the provisions of these regulations shall have the right to an appeal before the Immigration Appeals Board established by article 25A of the Act and in accordance with the provisions of the said Act:
 
 Provided further that an applicant who lacks sufficient resources to appeal from a decision, shall be entitled to free legal assistance and representation. Free legal assistance and representation shall entail the preparation of the required procedural documents and participation in the hearing before the Immigration Appeals Board.
 
@@ -401,10 +331,6 @@ When issuing an EU Blue Card, the competent authority shall not require applican
 (1) Any person who breaches any provision of these regulations, shall be guilty of an offence and shall on conviction, be liable to a fine (multa) not exceeding one thousand and five hundred euro (€1,500).
 
 (2) When the person found guilty of an offence under these regulations is the director, manager, secretary or other principal officer of a body corporate, or is a person having a power of representation of such a body or having an authority to take decisions on behalf of that body or having authority to exercise control within that body, and the offence of which that person was found guilty was committed for the benefit, in part or in whole of that body corporate, the said person shall for the purposes of these regulations be deemed to be vested with the legal representation of the same body corporate and shall be liable to a fine (multa) not exceeding two thousand and five hundred euro (€2,500).
-
-*14*
-
-THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF [S.L. 217.27 HIGHLY QUALIFIED EMPLOYMENT
 
 ## PART III — Rights
 
@@ -428,12 +354,6 @@ Provided that access to employment involving the exercise of public authority an
 
 (6) The EU Blue Card holder shall communicate the beginning and, where appropriate, the end of the period of unemployment to the competent authority in accordance with the relevant applicable procedures.
 
-THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*15*
-
-HIGHLY QUALIFIED EMPLOYMENT [S.L. 217.27
-
 (7) Without prejudice to the criteria for admission set out in regulation 4, the competent authority may allow EU Blue Card holders to engage in self-employed activity in parallel to the activity in highly qualified employment in accordance with conditions laid down in the applicable law. This shall not affect the competence of the competent authority for limiting the scope of the authorised self-employed activity:
 
 Provided that any such self-employed activity shall be subsidiary to the main activity of the EU Blue Card holder.
@@ -455,10 +375,6 @@ Provided that any such self-employed activity shall be subsidiary to the main ac
 (c) education and vocational training:
 
 Provided that the competent authority may restrict equal treatment as regards study and maintenance grants and loans or other grants and loans regarding secondary and higher education and vocational training. Access to university and post-secondary education is subject to specific prerequisites in accordance with the applicable law;
-
-*16*
-
-THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF [S.L. 217.27 HIGHLY QUALIFIED EMPLOYMENT
 
 (d) recognition of diplomas, certificates and other professional qualifications in accordance with the relevant applicable procedures;
 
@@ -482,13 +398,7 @@ Provided that the competent authority may restrict equal treatment as regards pr
 
 ### 15. Family members. S.L. 217.06.
 
-(1) The provisions of the Family Reunification THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*17*
-
-HIGHLY QUALIFIED EMPLOYMENT [S.L. 217.27
-
-Regulations shall apply, subject to the derogations laid down in this regulation.
+(1) The provisions of the Family Reunification Regulations shall apply, subject to the derogations laid down in this regulation.
 
 * S.L. 217.06.*
 
@@ -516,11 +426,7 @@ Regulations shall apply, subject to the derogations laid down in this regulation
 
 *S.L. 217.06.*
 
-(8) By way of derogation from regulation 16 of the Family Reunification Regulations, for the purposes of calculation of the duration of residence required for the acquisition of an autonomous residence permit, residence in different Member States shall be cumulated. The competent authority may require two (2) years of legal THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF [S.L. 217.27 HIGHLY QUALIFIED EMPLOYMENT
-
-and continuous residence in the territory of the Member State where the application for the autonomous residence permit is submitted immediately prior to the submission of the relevant application.
-
-*18*
+(8) By way of derogation from regulation 16 of the Family Reunification Regulations, for the purposes of calculation of the duration of residence required for the acquisition of an autonomous residence permit, residence in different Member States shall be cumulated. The competent authority may require two (2) years of legal and continuous residence in the territory of the Member State where the application for the autonomous residence permit is submitted immediately prior to the submission of the relevant application.
 
 (9) This regulation shall not apply to family members of EU Blue Card holders who are beneficiaries of the right to free movement under Union law in Malta.
 
@@ -540,13 +446,9 @@ and continuous residence in the territory of the Member State where the applicat
 
 (b) two (2) years of legal and continuous residence as an EU Blue Card holder within the territory of the Member State where the application for European Union long-term resident status is submitted immediately prior to the submission of the relevant application.
 
-THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*19*
-
-HIGHLY QUALIFIED EMPLOYMENT [S.L. 217.27 (3) For the purpose of calculating the duration of legal and continuous residence in the European Union referred to in regulation 2(a) and by way of derogation from regulation 4(3) of the Status of Long-term Residents (Third Country Nationals) Regulations, periods of absence from the territory of Malta shall not interrupt the duration of legal and continuous residence in the European Union if those periods of absence are shorter than twelve (12) consecutive months and do not exceed in total eighteen (18) months within that duration.
-
 *     S.L. 217.05.*
+
+(3) For the purpose of calculating the duration of legal and continuous residence in the European Union referred to in regulation 2(a) and by way of derogation from regulation 4(3) of the Status of Long-term Residents (Third Country Nationals) Regulations, periods of absence from the territory of Malta shall not interrupt the duration of legal and continuous residence in the European Union if those periods of absence are shorter than twelve (12) consecutive months and do not exceed in total eighteen (18) months within that duration.
 
 * S.L. 217.05.*
 
@@ -568,11 +470,7 @@ HIGHLY QUALIFIED EMPLOYMENT [S.L. 217.27 (3) For the purpose of calculating the 
 
 ### 18. Short-term mobility.
 
-(1) Where a third-country national who holds a valid EU Blue Card issued by another Member State that applies the Schengen acquis in full enters and stays in Malta for a period of ninety (90) days in any one hundred eighty (180) day period for the purpose of carrying out a business activity, the competent authority shall not require any authorisation for exercising such activity other than the EU THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF [S.L. 217.27 HIGHLY QUALIFIED EMPLOYMENT
-
-Blue Card.
-
-*20*
+(1) Where a third-country national who holds a valid EU Blue Card issued by another Member State that applies the Schengen acquis in full enters and stays in Malta for a period of ninety (90) days in any one hundred eighty (180) day period for the purpose of carrying out a business activity, the competent authority shall not require any authorisation for exercising such activity other than the EU Blue Card.
 
 (2) A third-country national who holds a valid EU Blue Card issued by another Member State that does not apply the Schengen acquis in full, shall be entitled to enter and stay for the purpose of carrying out a business activity in Malta for up to ninety (90) days in any one hundred eighty (180)-day period on the basis of the EU Blue Card and a valid travel document. Where the EU Blue Card holder crosses an internal border for which controls have not yet been lifted into Malta, the competent authority may require the EU Blue Card holder to provide evidence of the business purpose of the stay. The competent authority shall not require any authorisation for exercising the business activity other than the EU Blue Card.
 
@@ -590,13 +488,7 @@ Blue Card.
 
 (4) For the purposes of an application as referred to in sub-regulation (3), the applicant shall present:
 
-(a) the valid EU Blue Card issued by the first THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*21*
-
-HIGHLY QUALIFIED EMPLOYMENT [S.L. 217.27
-
-Member State;
+(a) the valid EU Blue Card issued by the first Member State;
 
 (b) a valid work contract or, as provided for in the applicable law, a binding job offer for highly qualified employment for a period of at least six (6) months in Malta;
 
@@ -620,10 +512,6 @@ Provided that for unregulated professions, where the first Member State has issu
 
 (7) The competent authority shall reject an application for an EU Blue Card where:
 
-*22*
-
-THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF [S.L. 217.27 HIGHLY QUALIFIED EMPLOYMENT
-
 (a) sub-regulation (4) is not complied with;
 
 (b) the documents presented have been fraudulently acquired, falsified or tampered with;
@@ -646,13 +534,7 @@ Provided that without prejudice to sub-regulation (4), a decision to reject an a
 
 Provided that by way of derogation from regulation 9(1), the competent authority shall notify the applicant and the first Member State of its decision in writing as soon as possible, but not later than thirty (30) days after the date of submission of the complete application.
 
-(11) Under exceptional and duly justified circumstances linked to the complexity of the application, the competent authority may extend the deadline referred to in the preceding proviso by thirty THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*23*
-
-HIGHLY QUALIFIED EMPLOYMENT [S.L. 217.27
-
-(30) days. It shall inform the applicant of the extension not later than thirty (30) days after the date of submission of the complete application. In its notification to the first Member State, the competent authority shall specify any grounds referred to in paragraphs (b) and (d) of sub-regulation (7), for rejecting the application.
+(11) Under exceptional and duly justified circumstances linked to the complexity of the application, the competent authority may extend the deadline referred to in the preceding proviso by thirty (30) days. It shall inform the applicant of the extension not later than thirty (30) days after the date of submission of the complete application. In its notification to the first Member State, the competent authority shall specify any grounds referred to in paragraphs (b) and (d) of sub-regulation (7), for rejecting the application.
 
 (12) Where the EU Blue Card issued by the first Member State expires during the application procedure, the competent authority may issue a temporary residence permit, or an equivalent authorisation, that allows the applicant to continue to stay legally in Malta until a decision on the application has been taken by the competent authority.
 
@@ -672,11 +554,7 @@ Provided further that where the family was not already constituted in the first 
 
 (2) By way of derogation from regulation 14(1) of the Family Reunification Regulations, the EU Blue Card holder’s family members shall be entitled to enter and stay in Malta on the basis of the valid residence permits obtained in the first Member State as family members of an EU Blue Card holder:
 
-Provided that where the residence permits of the family members are issued by a Member State that does not apply the Schengen acquis in full, and those family members join the EU Blue Card holder when crossing an internal border for which controls have not yet been lifted for the purpose of relocating to Malta, the competent authority may require the family members to present the residence permits they obtained in the first Member State as family THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF [S.L. 217.27 HIGHLY QUALIFIED EMPLOYMENT
-
-members of the EU Blue Card holder.
-
-*24*
+Provided that where the residence permits of the family members are issued by a Member State that does not apply the Schengen acquis in full, and those family members join the EU Blue Card holder when crossing an internal border for which controls have not yet been lifted for the purpose of relocating to Malta, the competent authority may require the family members to present the residence permits they obtained in the first Member State as family members of the EU Blue Card holder.
 
 * S.L. 217.06.*
 
@@ -702,13 +580,7 @@ Provided that by way of derogation from regulation 15(4), where the conditions s
 
 Provided further that in duly justified circumstances linked to the complexity of the application, the period of thirty (30) days may be extended by a maximum of another thirty (30) days.
 
-(6) This regulation applies to family members of EU Blue Card holders who are beneficiaries of international protection only when those EU Blue Card holders move to reside in a Member State other than the Member State which granted them international THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF
-
-*25*
-
-HIGHLY QUALIFIED EMPLOYMENT [S.L. 217.27
-
-protection.
+(6) This regulation applies to family members of EU Blue Card holders who are beneficiaries of international protection only when those EU Blue Card holders move to reside in a Member State other than the Member State which granted them international protection.
 
 (7) This regulation shall not apply to family members of EU Blue Card holders who are beneficiaries of the right to free movement under European Union law in Malta.
 
@@ -728,11 +600,7 @@ protection.
 
 (6) By way of derogation from the sub-regulation (5), the Member State which adopted the expulsion decision shall retain the right to remove the third-country national, in accordance with its international obligations, to a country other than the Member State which granted international protection, where the conditions specified in article 14(2) of the International Protection Act are fulfilled with respect to that third-country national.
 
-(7) Where an EU Blue Card holder or his family members cross the external border of a Member State that applies the Schengen THIRD-COUNTRY NATIONALS FOR THE PURPOSE OF [S.L. 217.27 HIGHLY QUALIFIED EMPLOYMENT
-
-acquis in full, that Member State shall consult the Schengen Information System in accordance with Regulation (EU) 2016/399. That Member State shall refuse entry for persons for whom an alert for the purposes of refusing entry and stay has been issued in the Schengen Information System.
-
-*26*
+(7) Where an EU Blue Card holder or his family members cross the external border of a Member State that applies the Schengen acquis in full, that Member State shall consult the Schengen Information System in accordance with Regulation (EU) 2016/399. That Member State shall refuse entry for persons for whom an alert for the purposes of refusing entry and stay has been issued in the Schengen Information System.
 
 ### 22. Access to information and monitoring.
 

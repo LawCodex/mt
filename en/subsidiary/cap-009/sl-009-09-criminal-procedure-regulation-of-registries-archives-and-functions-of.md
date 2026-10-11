@@ -1,6 +1,6 @@
 ---
 title: "Criminal Procedure (Regulation of Registries, Archives and Functions of Director General (Courts) and Other Court Executive Officers) Regulations"
-identifier: "S.L. 9.9"
+identifier: "S.L. 9.09"
 eli: "https://legislation.mt/eli/sl/9.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/9.9/20221220/eng"
 retrieved: 2026-10-12
 ---
 
-# Criminal Procedure (Regulation of Registries, Archives and Functions of Director General (Courts) and Other Court Executive Officers) Regulations (S.L. 9.9)
-
-ARCHIVES AND FUNCTIONS OF DIRECTOR GENERAL (COURTS)
-
-*1*
-
-AND OTHER COURT EXECUTIVE OFFICERS) [S.L.9.09
+# Criminal Procedure (Regulation of Registries, Archives and Functions of Director General (Courts) and Other Court Executive Officers) Regulations (S.L. 9.09)
 
 **SUBSIDIARY LEGISLATION 9.09**
 
@@ -66,10 +60,6 @@ Regulations 2 (other than the definition of the expression "Code"), 3, 7, 8, 9, 
 
 (f) any other court or tribunal, the judicial acts, written pleadings and other documents whereof shall, in terms of any law, be filed in the Registry of the Criminal Courts and Tribunals, Malta; and
 
-*2*
-
-ARCHIVES AND FUNCTIONS OF DIRECTOR GENERAL (COURTS) [S.L.9.09 AND OTHER COURT EXECUTIVE OFFICERS)
-
 (g) the inquiring magistrate in the record of any inquiry relating to an in genere, an inquest or a repertus conducted by a Magistrate of the Court of Magistrates (Malta) or of the Court of Magistrates (Gozo) in accordance with the provisions of Title II of Part II of Book Second of the Criminal Code.
 
 (3) The Registry of the Courts of Criminal Jurisdiction, Malta shall be under the responsibility of the Registrar, Criminal Courts and Tribunals.
@@ -100,13 +90,7 @@ ARCHIVES AND FUNCTIONS OF DIRECTOR GENERAL (COURTS) [S.L.9.09 AND OTHER COURT EX
 
 (3) Judicial acts filed online shall be considered for all purposes and effects of law as if they were filed directly in the register of the same courts:
 
-Provided that where a judicial act is filed online outside the opening hours of the register, that judicial document shall be deemed to have been filed on the first day following the opening of the same ARCHIVES AND FUNCTIONS OF DIRECTOR GENERAL (COURTS)
-
-*3*
-
-AND OTHER COURT EXECUTIVE OFFICERS) [S.L.9.09
-
-register.
+Provided that where a judicial act is filed online outside the opening hours of the register, that judicial document shall be deemed to have been filed on the first day following the opening of the same register.
 
 ## 4. Registry of the Courts of Criminal Jurisdiction in Gozo.
 
@@ -138,11 +122,7 @@ register.
 
 (3) The registrar receiving the electronically transmitted copy as aforesaid, shall acknowledge its receipt by return e-mail to the registrar sending the scanned copy of the judicial act or written pleading.
 
-(4) If it is required that an officer effects service of the electronic copy of a judicial act or written pleading as aforesaid, the officer shall deliver to the registrar of the Courts and Tribunals, Gozo, the certificate of service, duly confirmed on oath before the registrar ARCHIVES AND FUNCTIONS OF DIRECTOR GENERAL (COURTS) [S.L.9.09 AND OTHER COURT EXECUTIVE OFFICERS)
-
-himself who shall transmit it to the registrar, Criminal Courts and Tribunals in Malta indicated in the judicial act or written pleading and vice-versa. Such delivery may also be made by electronic means and the registrar receiving the certificate of service as aforesaid shall acknowledge its receipt by return e-mail to the registrar sending the certificate of service.
-
-*4*
+(4) If it is required that an officer effects service of the electronic copy of a judicial act or written pleading as aforesaid, the officer shall deliver to the registrar of the Courts and Tribunals, Gozo, the certificate of service, duly confirmed on oath before the registrar himself who shall transmit it to the registrar, Criminal Courts and Tribunals in Malta indicated in the judicial act or written pleading and vice-versa. Such delivery may also be made by electronic means and the registrar receiving the certificate of service as aforesaid shall acknowledge its receipt by return e-mail to the registrar sending the certificate of service.
 
 (5) The provisions of sub-regulations (1) to (4), both inclusive, shall mutatis mutandis apply when a judicial act or a written pleading is filed in the registry of the Gozo Courts and Tribunals for onward transmission to the Criminal Courts and Tribunals in Malta indicated in the judicial act or written pleading.
 
@@ -165,12 +145,6 @@ himself who shall transmit it to the registrar, Criminal Courts and Tribunals in
 *Added by: L.N. 47 of 2008.*
 
 Notwithstanding the foregoing provisions of these regulations, the Director General or any person authorised by him under these regulations, in the exercise of his functions thereunder, shall ensure that he does not interfere in any manner in the exercise of judicial functions by the members of the judiciary and, should this be the case, the Chief Justice shall, by written notice under his hand and in terms of this regulation, overrule any such decision of the Director General; and, in doing so, the Chief Justice may give such directions to the Director General or to any delegate thereof which might appear to the Chief Justice to be in the interests of the better administration of justice in the instant case.
-
-ARCHIVES AND FUNCTIONS OF DIRECTOR GENERAL (COURTS)
-
-*5*
-
-AND OTHER COURT EXECUTIVE OFFICERS) [S.L.9.09
 
 ## Schedule
 

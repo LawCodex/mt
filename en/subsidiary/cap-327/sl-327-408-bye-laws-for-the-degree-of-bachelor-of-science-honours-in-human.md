@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the degree of Bachelor of Science (Honours) in Human Language Technology - B.Sc. (Hons) HLT - under the auspices of the Institute of Linguistics (S.L. 327.408)
 
-IN HUMAN LANGUAGE TECHNOLOGY - B.Sc. (Hons) HLT -
-
-*1*
-
-UNDER THE AUSPICES OF THE INSTITUTE OF LINGUISTICS [S.L.327.408
-
 **SUBSIDIARY LEGISLATION 327.408**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF SCIENCE (HONOURS) IN HUMAN LANGUAGE TECHNOLOGY - B.Sc. (Hons) HLT - UNDER THE
@@ -68,10 +62,6 @@ The course shall extend over a period of three years of full-time study or its e
 ## 6. Publication of programme of study.
 
 The programme of study shall be published after approval by Senate, normally not less than eight months prior to the commencement of the course
-
-*2*
-
-IN HUMAN LANGUAGE TECHNOLOGY - B.Sc. (Hons) HLT - [S.L.327.408 UNDER THE AUSPICES OF THE INSTITUTE OF LINGUISTICS
 
 ## 7. Classification of the Awards of the Higher Diploma.
 

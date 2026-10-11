@@ -1,6 +1,6 @@
 ---
 title: "Accountancy Profession (General Accounting Principles for Smaller Entities) Regulations"
-identifier: "S.L. 281.3"
+identifier: "S.L. 281.03"
 eli: "https://legislation.mt/eli/sl/281.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/281.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Accountancy Profession (General Accounting Principles for Smaller Entities) Regulations (S.L. 281.3)
-
-*1*
-
-PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03
+# Accountancy Profession (General Accounting Principles for Smaller Entities) Regulations (S.L. 281.03)
 
 **SUBSIDIARY LEGISLATION 281.03**
 
@@ -81,10 +77,6 @@ The objective of these regulations is to prescribe the general accounting princi
 
 "security" shall have the meaning assigned to it in the Companies Act;
 
-*2*
-
-[ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
 "state owned entity" means:
 
 (a) any organ of the Government;
@@ -121,11 +113,7 @@ An entity shall, for financial reporting periods ending on or after 1st January 
 
 (iii) average number of employees during each of the two consecutive financial reporting periods immediately preceding the relevant financial reporting period: two hundred and fifty;
 
-(b) in which a member holding not less than twenty per cent of the shares in that entity has, due to the financial reporting requirements of such member and not later than six months prior to the end of the PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03
-
-financial reporting period for which the financial statements are being prepared, served notice on the entity requesting the preparation of financial statements in accordance with generally accepted accounting principles and practice:
-
-*3*
+(b) in which a member holding not less than twenty per cent of the shares in that entity has, due to the financial reporting requirements of such member and not later than six months prior to the end of the financial reporting period for which the financial statements are being prepared, served notice on the entity requesting the preparation of financial statements in accordance with generally accepted accounting principles and practice:
 
 Provided that where a member of an entity reaches the twenty percent holding referred to in this paragraph during the six month period prior to the end of the financial reporting period, the notice requesting the preparation of financial statements in accordance with generally accepted accounting principles and practice may be served by the said member not later than the earlier of:
 
@@ -153,10 +141,6 @@ Provided further that in the case of an entity preparing its financial statement
 
 For the purposes of sub-regulation (1):
 
-*4*
-
-[ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
 (a) "balance sheet total" shall consist of all the assets held by an entity, including those that are current and non-current, as defined in the Schedule; and
 
 (b) "total revenue" shall consist of the amounts derived, in the ordinary course of business, from:
@@ -179,11 +163,7 @@ For the purposes of sub-regulation (1):
 
 (i) an entity or a state-owned entity may refer to the financial statements presented in accordance with generally accepted accounting principles and practice for the two consecutive financial reporting periods immediately preceding the relevant financial reporting period such that:
 
-(1) an entity, other than a state-owned entity, shall be deemed to have exceeded the relevant criteria if in both financial reporting periods its balance sheet total or PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03
-
-total revenue exceeded the limits established in sub-regulation (1)(a)(i) and (ii); and
-
-*5*
+(1) an entity, other than a state-owned entity, shall be deemed to have exceeded the relevant criteria if in both financial reporting periods its balance sheet total or total revenue exceeded the limits established in sub-regulation (1)(a)(i) and (ii); and
 
 (2) a state-owned entity shall be deemed to have exceeded the relevant criteria if in both financial reporting periods its balance sheet total, or total revenue, or both as the case may be, exceeded the limits established in sub-regulation (1)(g)(i) and (ii); or
 
@@ -199,11 +179,7 @@ total revenue exceeded the limits established in sub-regulation (1)(a)(i) and (i
 
 (ii) a state-owned entity shall be deemed to have exceeded the relevant criteria if in both financial reporting periods its balance sheet total, or total revenue, or both as the case may be, exceeded the limits established in sub-regulation (1)(g)(i) and (ii).
 
-(4) In the case of the first financial reporting period of an entity, the entity shall determine whether the relevant criteria have [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
-been exceeded by computing the assets comprising the balance sheet total, and total revenue for the first financial reporting period in accordance with the Schedule such that:
-
-*6*
+(4) In the case of the first financial reporting period of an entity, the entity shall determine whether the relevant criteria have been exceeded by computing the assets comprising the balance sheet total, and total revenue for the first financial reporting period in accordance with the Schedule such that:
 
 (a) an entity, other than a state-owned entity, shall be deemed to have exceeded the relevant criteria if as at the end of the first financial reporting period its balance sheet total or total revenue for the relevant financial reporting period exceeded the limits established in sub-regulation (1)(a)(i) and (ii); and (b) a state-owned entity shall be deemed to have exceeded the relevant criteria if as at the end of the first financial reporting period its balance sheet total, or total revenue for the relevant financial reporting period, or both as the case may be, exceeded the limits established in sub-regulation (1)(g)(i) and (ii).
 
@@ -216,8 +192,6 @@ been exceeded by computing the assets comprising the balance sheet total, and to
 (a) it does not exceed the relevant criteria for the preceding two consecutive financial reporting periods; and
 
 (b) five financial reporting periods elapse since the balance sheet date of the financial reporting period in which the entity last prepared financial statements in accordance with the Schedule.
-
-PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 7
 
 ## SCHEDULE
 
@@ -257,11 +231,7 @@ Section 2: Interpretation
 
 (j) "Employee benefits" refers to all forms of consideration given by an entity in exchange for service rendered by employees.
 
-(k) "Fair value" is the amount for which an asset could be exchanged, a liability settled, or an equity instrument granted could be exchanged, between knowledgeable, willing parties in an arm’s length transaction. [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
-(l) "Fellow subsidiary" is an entity which is under common control with the reporting entity.
-
-*8*
+(k) "Fair value" is the amount for which an asset could be exchanged, a liability settled, or an equity instrument granted could be exchanged, between knowledgeable, willing parties in an arm’s length transaction. (l) "Fellow subsidiary" is an entity which is under common control with the reporting entity.
 
 (m) "Finance costs" means interest and other costs incurred by an entity in connection with the borrowing of funds.
 
@@ -303,8 +273,6 @@ The scope of this Section is to deal with:
 
 (c) the definition and recognition of the elements of financial statements. Objective of financial statements and underlying assumptions
 
-PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 9
-
 3.2 The objective of financial statements prepared under GAPSE is to provide information about an entity’s:
 
 (a) financial position,
@@ -327,8 +295,6 @@ Qualitative characteristics of information in financial statements
 
 3.8 Materiality - Information is material if its omission or misstatement could influence the economic decisions of users made on the basis of the financial statements. Materiality depends on the size of the item or error judged in the particular circumstances of its omission or misstatement. However, it is inappropriate to make, or leave uncorrected, immaterial departures from GAPSE to achieve a particular presentation of an entity’s financial position, financial performance or cash flows.
 
-10 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
 3.9 Reliability - The information provided in financial statements must be reliable. Information is reliable when it is free from material error and bias and represents faithfully that which it either purports to represent or could reasonably be expected to represent. Financial statements are not free from bias if, by the selection or presentation of information, they are intended to influence the making of a decision or judgement in order to achieve a predetermined result or outcome.
 
 3.10 Substance over form - Transactions and other events and conditions should be accounted for and presented in accordance with their substance and economic reality and not merely their legal form. This enhances the reliability of financial statements.
@@ -346,8 +312,6 @@ Qualitative characteristics of information in financial statements
 True and fair view
 
 3.16 Preparation of financial statements in accordance with these Principles is presumed to result in financial statements which give a true and fair view of the financial position, financial performance and cash flows of an entity.
-
-PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 11
 
 3.17 The balance sheet shall give a true and fair view of the financial position of the entity as at the end of the financial reporting period; the income statement shall give a true and fair view of the financial performance of the entity for the financial reporting period; and the cash flow statement shall give a true and fair view of the entity’s cash flows during the financial reporting period. Transactions and other events and conditions should be accounted for and presented within items in the income statement and balance sheet in accordance with their substance and economic reality and not merely their legal form. To determine the substance of a transaction it is necessary to identify whether the transaction has given rise to new assets or liabilities for the reporting entity and whether it has changed the entity’s existing assets or liabilities.
 
@@ -375,9 +339,7 @@ The elements of financial statements
 
 3.21 Financial statements portray the financial effects of transactions and other events by grouping them into broad classes according to their economic characteristics. These broad classes are termed the elements of financial statements, which term includes assets, liabilities, equity, income and expenses. Paragraphs 3.22 - 3.30 define these elements.
 
-3.22 The elements directly related to the measurement of financial position are 12 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
-assets, liabilities and equity.
+3.22 The elements directly related to the measurement of financial position are assets, liabilities and equity.
 
 3.23 An asset is a resource controlled by the entity as a result of past events and from which future economic benefits are expected to flow to the entity. The future economic benefit embodied in an asset is the potential to contribute, directly or indirectly, to the flow of cash and cash equivalents to the entity, for example through use in the entity’s operating activities, or through convertibility to cash and cash equivalents, or through its capability to reduce cash outflows.
 
@@ -397,9 +359,7 @@ assets, liabilities and equity.
 
 Recognition of the elements of financial statements
 
-3.31 Recognition is the process of incorporating in the balance sheet or income statement an item that meets the definition of an element and satisfies the following PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 13
-
-criteria:
+3.31 Recognition is the process of incorporating in the balance sheet or income statement an item that meets the definition of an element and satisfies the following criteria:
 
 (a) it is probable that any future economic benefit associated with the item will flow to or from the entity;
 
@@ -421,9 +381,7 @@ Derecognition of the elements of financial statements
 
 Measurement of the elements of financial statements
 
-3.38 Measurement is the process of determining the monetary amounts at which 14 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
-assets, liabilities, income and expenses are to be recognised and carried in the balance sheet and income statement. Measurement involves the selection of a basis of measurement. These Principles specify which measurement basis an entity shall use for many types of assets, liabilities, income and expenses. In the absence of a requirement in GAPSE that applies specifically to a transaction or other event or condition, an entity shall have regard to measurement bases for similar assets, liabilities, income and expenses when determining monetary amounts at which such transactions, other events or conditions are to be initially and subsequently measured.
+3.38 Measurement is the process of determining the monetary amounts at which assets, liabilities, income and expenses are to be recognised and carried in the balance sheet and income statement. Measurement involves the selection of a basis of measurement. These Principles specify which measurement basis an entity shall use for many types of assets, liabilities, income and expenses. In the absence of a requirement in GAPSE that applies specifically to a transaction or other event or condition, an entity shall have regard to measurement bases for similar assets, liabilities, income and expenses when determining monetary amounts at which such transactions, other events or conditions are to be initially and subsequently measured.
 
 Section 4: Presentation of financial statements
 
@@ -461,8 +419,6 @@ Section 4: Presentation of financial statements
 
 (c) the fact that comparative amounts for the income statement, statement of changes in equity, statement of income and retained earnings (if presented), cash flow statement and related notes are not entirely comparable.
 
-PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 15
-
 4.4 An entity shall retain the presentation and classification of items in the financial statements from one financial reporting period to the next unless:
 
 (a) it is apparent, following a significant change in the nature of the entity’s operations or a review of its financial statements, that another presentation or classification would be more appropriate having regard to the criteria for the selection and application of accounting policies; or (b) these Principles require a change in presentation.
@@ -491,9 +447,7 @@ PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 15
 
 (d) a reconciliation of the carrying amount of each class of investment at the beginning and end of the financial reporting period as required by subparagraph (b) of paragraph 9.19 of these Principles; and
 
-(e) a reconciliation of the carrying amount of financial assets at the beginning and end of the financial reporting period as required by sub- 16 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
-paragraph (b) of paragraph 18.18 of these Principles.
+(e) a reconciliation of the carrying amount of financial assets at the beginning and end of the financial reporting period as required by sub-paragraph (b) of paragraph 18.18 of these Principles.
 
 4.8 An entity shall present separately each material class of similar items. An entity shall present separately items of a dissimilar nature or function unless they are immaterial. Omissions or misstatements of items are material if they could, individually or collectively, influence the economic decisions of users taken on the basis of the financial statements. Materiality depends on the size and nature of the omission or misstatement judged in the surrounding circumstances. The size or nature of the item, or a combination of both, could be the determining factor.
 
@@ -544,8 +498,6 @@ Payments on account and tangible assets in the course of construction
 III. Investment property
 
 IV. Financial assets (Investments accounted for under Section 9 should be disclosed separately in the notes)
-
-PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 17
 
 *\1.*
 
@@ -681,8 +633,6 @@ Other reserves
 
 Capital redemption reserve
 
-18 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
 \2. Other reserves
 
 V. Retained earnings
@@ -761,8 +711,6 @@ IV. Provisions
 
 4.13 The face of the balance sheet shall also include line items that present the following amounts (if applicable):
 
-PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 19
-
 (a) the total of assets classified as held for sale and assets included in disposal groups classified as held for sale in accordance with Section 24 of these Principles; and
 
 (b) liabilities included in disposal groups classified as held for sale in accordance with Section 24.
@@ -801,9 +749,7 @@ An entity shall classify all other assets as non-current. When the entity’s no
 
 Income statement
 
-4.18 All items of income and expense recognised in the financial statements for the period shall be included in the income statement, unless they are specifically permitted or required to be taken directly to reserves by these Principles or by applicable legislation, in which case they shall be included in the statement of 20 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
-changes in equity. These Principles provide different treatment for the following, amongst others:
+4.18 All items of income and expense recognised in the financial statements for the period shall be included in the income statement, unless they are specifically permitted or required to be taken directly to reserves by these Principles or by applicable legislation, in which case they shall be included in the statement of changes in equity. These Principles provide different treatment for the following, amongst others:
 
 (a) the effects of corrections of errors and changes in accounting policies are presented as adjustments of prior periods in accordance with Section 5 rather than as part of profit or loss in the period in which they arise; and
 
@@ -847,9 +793,7 @@ Other interest receivable and similar income (with a separate indication of that
 
 ## 10.
 
-Interest payable and similar charges (with a separate indication of the PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 21
-
-amount payable to subsidiaries, associates and jointly controlled entities)
+Interest payable and similar charges (with a separate indication of the amount payable to subsidiaries, associates and jointly controlled entities)
 
 ## 11.
 
@@ -913,8 +857,6 @@ The ‘nature of expense’ method aggregates expenses in the income statement a
 
 \16. Profit or loss for the period from discontinued operations
 
-22 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
 ## 17.
 
 Profit or loss for the period
@@ -965,8 +907,6 @@ Statement of changes in equity
 
 4.28 An entity presenting a statement of changes in equity shall show on the face of the statement:
 
-PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 23
-
 (a) the profit or loss for the period;
 
 (b) each item of income or expense for the period that, as required by these Principles, is credited or charged directly in equity, and the total of these items;
@@ -999,9 +939,7 @@ Cash flow statement
 
 4.32 An entity shall present a cash flow statement that reports cash flows for a period classified by operating activities, investing activities and financing activities.
 
-4.33 Cash flows from operating activities are primarily derived from the principal revenue-producing activities of the entity. Therefore, they generally result 24 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
-from the transactions and other events and conditions that enter into the determination of profit or loss. An entity shall report cash flows from operating activities using either:
+4.33 Cash flows from operating activities are primarily derived from the principal revenue-producing activities of the entity. Therefore, they generally result from the transactions and other events and conditions that enter into the determination of profit or loss. An entity shall report cash flows from operating activities using either:
 
 (a) the direct method, whereby major classes of gross cash receipts and gross cash payments are disclosed; or
 
@@ -1035,9 +973,7 @@ from the transactions and other events and conditions that enter into the determ
 
 4.40 Cash flows arising from taxes on income shall be separately disclosed and shall be classified as cash flows from operating activities unless they can be specifically identified with financing and investing activities.
 
-4.41 An entity shall disclose the components of cash and cash equivalents and shall present a reconciliation of the amounts reported in the cash flow statement to PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 25
-
-the equivalent items reported in the balance sheet.
+4.41 An entity shall disclose the components of cash and cash equivalents and shall present a reconciliation of the amounts reported in the cash flow statement to the equivalent items reported in the balance sheet.
 
 4.42 An entity shall exclude from the cash flow statement investing and financing transactions that do not require the use of cash or cash equivalents. An entity shall disclose such transactions elsewhere in the financial statements in a way that provides all the relevant information about these investing and financing activities. Notes to the financial statements
 
@@ -1073,9 +1009,7 @@ the equivalent items reported in the balance sheet.
 
 Section 5: Accounting policies, estimates and errors
 
-5.1 Accounting policies are those principles, bases, conventions, rules and practices applied by an entity that specify how the effects of transactions and other events are to be reflected in its financial statements through recognising, selecting measurement bases for, and presenting assets, liabilities, income, expenses and 26 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
-changes to equity. Accounting policies define the process whereby transactions and other events are reflected in the financial statements. For example, an accounting policy for a particular type of expenditure may specify whether an asset or an expense is to be recognised; the basis on which it is to be measured; and where in the income statement or balance sheet it is to be presented.
+5.1 Accounting policies are those principles, bases, conventions, rules and practices applied by an entity that specify how the effects of transactions and other events are to be reflected in its financial statements through recognising, selecting measurement bases for, and presenting assets, liabilities, income, expenses and changes to equity. Accounting policies define the process whereby transactions and other events are reflected in the financial statements. For example, an accounting policy for a particular type of expenditure may specify whether an asset or an expense is to be recognised; the basis on which it is to be measured; and where in the income statement or balance sheet it is to be presented.
 
 5.2 A change in accounting estimate is an adjustment of the carrying amount of an asset or a liability, or the amount of the periodic consumption of an asset, that results from the assessment of the present status of, and expected future benefits and obligations associated with, assets and liabilities. Changes in accounting estimates result from new information or new developments and, accordingly, are not corrections of errors. Examples of estimates include those required of:
 
@@ -1109,9 +1043,7 @@ Accounting policies
 
 (a) the requirements and guidance in these Principles dealing with similar and related issues;
 
-(b) the definitions, recognition criteria and measurement concepts for assets, liabilities, income and expenses in paragraphs 3.21 - 3.35 and PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 27
-
-paragraph 3.38 of Section 3 of these Principles; and
+(b) the definitions, recognition criteria and measurement concepts for assets, liabilities, income and expenses in paragraphs 3.21 - 3.35 and paragraph 3.38 of Section 3 of these Principles; and
 
 (c) the requirements and guidance in generally accepted accounting principles and practice dealing with similar and related issues.
 
@@ -1138,8 +1070,6 @@ Accounting policies - disclosure
 (b) the accounting policy the entity has chosen whenever GAPSE allows an accounting policy choice for a category of transaction, event or condition;
 
 (c) the other accounting policies used that are relevant to an understanding of the financial statements; and
-
-28 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
 
 (d) whenever there has been a change in accounting policy that has an effect on the current period or any prior period, or might have an effect on future periods, the entity shall also disclose the following information:
 
@@ -1181,9 +1111,7 @@ Correction of prior period errors - disclosure
 
 (a) the nature of the prior period error;
 
-(b) for each prior period presented, to the extent practicable, the amount of PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 29
-
-the correction for each financial statement line item affected;
+(b) for each prior period presented, to the extent practicable, the amount of the correction for each financial statement line item affected;
 
 (c) in the circumstances described in paragraph 5.14(b), the amount of the correction at the beginning of the earliest prior period presented; and (d) if retrospective restatement is impracticable for a particular prior period, the circumstances that led to the existence of that condition and a description of how and from when the error has been corrected. Financial statements of subsequent periods need not repeat these disclosures.
 
@@ -1207,9 +1135,7 @@ Measurement of revenue
 
 6.4 An entity shall include in revenue only the gross inflows of economic benefits received and receivable by the entity on its own account. An entity shall therefore exclude from revenue all amounts collected on behalf of third parties such as sales taxes, goods and services taxes and value added taxes. Similarly, in an agency relationship, the gross inflows of economic benefits include amounts collected on behalf of the principal and which do not result in increases in equity for the entity. The amounts collected on behalf of the principal are not revenue. Instead, revenue is the amount of commission.
 
-6.5 In most cases, the consideration is in the form of cash or cash equivalents and the amount of revenue is the amount of cash or cash equivalents received or receivable. However, when the inflow of cash or cash equivalents is deferred, and the arrangement constitutes in substance a financing transaction, the fair value of the consideration is the present value of all future receipts determined using an imputed rate of interest. An entity shall recognise the difference between the present value of all future receipts and the nominal amount of the consideration as interest revenue. 30 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
-Sale of goods
+6.5 In most cases, the consideration is in the form of cash or cash equivalents and the amount of revenue is the amount of cash or cash equivalents received or receivable. However, when the inflow of cash or cash equivalents is deferred, and the arrangement constitutes in substance a financing transaction, the fair value of the consideration is the present value of all future receipts determined using an imputed rate of interest. An entity shall recognise the difference between the present value of all future receipts and the nominal amount of the consideration as interest revenue. Sale of goods
 
 6.6 An entity shall recognise revenue from the sale of goods when all the following conditions are satisfied:
 
@@ -1255,8 +1181,6 @@ Interest, royalties, rent and dividends
 
 Construction contracts
 
-PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 31
-
 6.11 When the outcome of a construction contract can be estimated reliably, an entity shall recognise contract revenue and contract costs associated with the construction contract as revenue and expenses respectively by reference to the stage of completion of the contract activity at the end of the reporting period (often referred to as the percentage of completion method). Reliable estimation of the outcome requires reliable estimates of the stage of completion, future costs and collectability of billings.
 
 6.12 An entity shall review and, when necessary, revise the estimates of revenue and costs as the service transaction or construction contract progresses.
@@ -1291,9 +1215,7 @@ Revenue - disclosure
 
 6.19 An entity shall disclose:
 
-(a) the accounting policies adopted for the recognition of revenue, including the methods adopted to determine the stage of completion of 32 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
-transactions involving the rendering of services; and
+(a) the accounting policies adopted for the recognition of revenue, including the methods adopted to determine the stage of completion of transactions involving the rendering of services; and
 
 (b) the amount of each category of revenue recognised during the period, including revenue arising from:
 
@@ -1345,8 +1267,6 @@ Section 7: Property, plant and equipment
 
 (b) are expected to be used during more than one period.
 
-PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 33
-
 Recognition
 
 7.2 The cost of an item of property, plant and equipment shall be recognised as an asset if, and only if:
@@ -1383,8 +1303,6 @@ Otherwise it shall be recognised in the income statement as it is incurred.
 
 Measurement after recognition
 
-34 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
 7.8 An entity shall account for all items in the same class of property, plant and equipment (i.e. having a similar nature, function or use in the business) after initial recognition using either:
 
 (a) the cost model in paragraph 7.9; or
@@ -1407,9 +1325,7 @@ Measurement after recognition
 
 7.16 If an asset’s carrying amount is increased as a result of a revaluation, the increase shall be credited directly to equity under the heading of revaluation surplus. However, the increase shall be recognised in profit or loss to the extent that it reverses a revaluation decrease of the same asset previously recognised in profit or loss in accordance with paragraph 7.17.
 
-7.17 If an asset’s carrying amount is decreased as a result of a revaluation, the decrease shall be recognised in profit or loss. However, the decrease shall be debited directly to equity under the heading of revaluation surplus to the extent of any credit balance existing in the revaluation surplus in respect of that asset. Any amounts recognised in profit or loss in accordance with paragraph 7.16 and this paragraph PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 35
-
-shall be shown separately on the face of the income statement.
+7.17 If an asset’s carrying amount is decreased as a result of a revaluation, the decrease shall be recognised in profit or loss. However, the decrease shall be debited directly to equity under the heading of revaluation surplus to the extent of any credit balance existing in the revaluation surplus in respect of that asset. Any amounts recognised in profit or loss in accordance with paragraph 7.16 and this paragraph shall be shown separately on the face of the income statement.
 
 7.18 The revaluation surplus included in equity in respect of an item of property, plant and equipment may be transferred directly to retained earnings (not through profit or loss) when the asset is derecognised. This may involve transferring the whole of the surplus when the asset is retired or disposed of. However, some of the surplus may be transferred as the asset is used by an entity. In such a case, the amount of the surplus transferred would be the difference between depreciation based on the revalued carrying amount of the asset and depreciation based on the asset’s original cost.
 
@@ -1429,9 +1345,7 @@ Depreciation
 
 Impairment
 
-7.25 To determine whether an item of property, plant and equipment is impaired, 36 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
-an entity applies Section 12 of these Principles. That Section explains how an entity reviews the carrying amount of its assets, how it determines the recoverable amount of an asset, and when it recognises, or reverses the recognition of, an impairment loss.
+7.25 To determine whether an item of property, plant and equipment is impaired, an entity applies Section 12 of these Principles. That Section explains how an entity reviews the carrying amount of its assets, how it determines the recoverable amount of an asset, and when it recognises, or reverses the recognition of, an impairment loss.
 
 Disclosure
 
@@ -1475,9 +1389,7 @@ Disclosure
 
 (b) the differences between those amounts and the corresponding amounts actually shown in the balance sheet.
 
-7.30 Where items of property, plant and equipment were revalued, the year in which they were revalued shall be disclosed. When an item of property, plant and PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 37
-
-equipment was revalued during the financial year to which the financial statements relate, an entity shall disclose in those financial statements:
+7.30 Where items of property, plant and equipment were revalued, the year in which they were revalued shall be disclosed. When an item of property, plant and equipment was revalued during the financial year to which the financial statements relate, an entity shall disclose in those financial statements:
 
 (a) the effect of any revaluation made during the year;
 
@@ -1517,9 +1429,7 @@ Measurement after recognition
 
 8.4 After initial recognition, an entity shall choose as its accounting policy either the cost model in paragraph 8.5, or the fair value model in paragraphs 8.6 - 8.10, and shall apply that policy to all of its investment property.
 
-8.5 An entity that chooses the cost model shall measure all of its investment property after initial recognition at cost less any accumulated depreciation and any accumulated impairment losses and shall account for all of its investment property by applying the principles for property, plant and equipment measured under the cost model in accordance with the requirements of paragraph 7.9 and paragraphs 7.19 - 7.24 of Section 7 of these Principles. To determine whether an investment property 38 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
-is impaired, an entity applies Section 12 of these Principles. That Section explains how an entity reviews the carrying amount of its assets, how it determines the recoverable amount of an asset, and when it recognises, or reverses the recognition of, an impairment loss.
+8.5 An entity that chooses the cost model shall measure all of its investment property after initial recognition at cost less any accumulated depreciation and any accumulated impairment losses and shall account for all of its investment property by applying the principles for property, plant and equipment measured under the cost model in accordance with the requirements of paragraph 7.9 and paragraphs 7.19 - 7.24 of Section 7 of these Principles. To determine whether an investment property is impaired, an entity applies Section 12 of these Principles. That Section explains how an entity reviews the carrying amount of its assets, how it determines the recoverable amount of an asset, and when it recognises, or reverses the recognition of, an impairment loss.
 
 8.6 An entity that chooses the fair value model shall measure all of its investment property after initial recognition at fair value less any accumulated depreciation.
 
@@ -1541,9 +1451,7 @@ Transfers
 
 8.11 If an item of property, plant and equipment becomes an investment property, and the entity will account for the investment property under the fair value model, any difference between the asset’s carrying amount and its fair value at the date when it becomes an investment property shall be treated in the same way as a revaluation in accordance with Section 7 of these Principles.
 
-8.12 If a property held as inventories, or a completed self-constructed property, becomes an investment property, and the entity will account for the investment PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 39
-
-property under the fair value model, any difference between the asset’s previous carrying amount and its fair value at the date when it becomes an investment property shall be recognised in a separate component of equity under the heading of fair value reserve.
+8.12 If a property held as inventories, or a completed self-constructed property, becomes an investment property, and the entity will account for the investment property under the fair value model, any difference between the asset’s previous carrying amount and its fair value at the date when it becomes an investment property shall be recognised in a separate component of equity under the heading of fair value reserve.
 
 8.13 When an investment property carried at fair value is transferred to property, plant and equipment or inventories, following a change of use, the property’s deemed cost for subsequent accounting in accordance with Sections 7 and 15 respectively, shall be its fair value at the date of change of use. The cumulative amount recognised in fair value reserve in respect of that investment property may be transferred to retained earnings when, and only when, the asset (property, plant and equipment or inventory) is derecognised.
 
@@ -1585,8 +1493,6 @@ Recognition
 
 (a) to receive cash or another financial asset from another entity; or
 
-40 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
 (b) to exchange financial assets or financial liabilities with another entity under conditions that are potentially favourable to the entity.
 
 Measurement at recognition
@@ -1613,9 +1519,7 @@ Measurement at recognition
 
 9.10 If the fair value of an investment in a class of investment measured at fair value cannot be measured reliably, an entity shall measure that investment using the cost model in paragraph 9.8. An entity may nevertheless measure all its other investments in the same class using the fair value model if their fair value can be measured reliably.
 
-9.11 If the carrying amount of an investment measured under the fair value through equity model is increased as a result of an increase in the fair value of that investment, the increase shall be credited directly to a separate component of equity PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 41
-
-under the heading of fair value reserve, net of any attributable taxation element. However, the increase shall be recognised in profit or loss to the extent that it reverses a fair value decrease of the same investment previously recognised in profit or loss in accordance with paragraph 9.12.
+9.11 If the carrying amount of an investment measured under the fair value through equity model is increased as a result of an increase in the fair value of that investment, the increase shall be credited directly to a separate component of equity under the heading of fair value reserve, net of any attributable taxation element. However, the increase shall be recognised in profit or loss to the extent that it reverses a fair value decrease of the same investment previously recognised in profit or loss in accordance with paragraph 9.12.
 
 9.12 If the carrying amount of an investment measured under the fair value through equity model is decreased as a result of a decrease in the fair value of that investment, the decrease shall be debited directly to a separate component of equity under the heading of fair value reserve to the extent of any credit balance existing in the fair value reserve in respect of that investment. Any decrease in the carrying amount in excess of any credit balance existing in the fair value reserve in respect of that investment shall be recognised in profit or loss.
 
@@ -1651,8 +1555,6 @@ Disclosure
 
 (iii) write-downs to fair value less costs to sell for classes of investment measured under the cost model;
 
-42 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
 (iv) gains and losses resulting from changes in the fair value of investments measured under the fair value through equity model, distinguishing between those recognised in equity and those recognised in profit or loss, in accordance with paragraphs 9.11 and 9.12;
 
 (v) gains and losses resulting from changes in the fair value of held-for-trading investments measured under the fair value through profit or loss model, recognised in profit or loss in accordance with paragraph 9.14;
@@ -1679,9 +1581,7 @@ Definitions
 
 (d) power to cast the majority of votes at meetings of the board of directors or equivalent governing body and control of the entity is by that board or body.
 
-10.4 An associate is an entity, including an unincorporated entity such as a partnership, over which the investor has significant influence and that is neither a PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 43
-
-subsidiary nor an interest in a joint venture. Significant influence is the power to participate in the financial and operating policy decisions of the associate but is not control or joint control over those policies. If an investor holds, directly or indirectly (e.g. through subsidiaries), 20% or more of the voting power of the investee, it is presumed that the investor has significant influence, unless it can be clearly demonstrated that this is not the case. Conversely, if the investor holds, directly or indirectly (e.g. through subsidiaries), less than 20% of the voting power of the investee, it is presumed that the investor does not have significant influence, unless such influence can be clearly demonstrated. A substantial or majority ownership by another investor does not preclude an investor from having significant influence. The existence of significant influence by an investor is usually evidenced in one or more of the following ways:
+10.4 An associate is an entity, including an unincorporated entity such as a partnership, over which the investor has significant influence and that is neither a subsidiary nor an interest in a joint venture. Significant influence is the power to participate in the financial and operating policy decisions of the associate but is not control or joint control over those policies. If an investor holds, directly or indirectly (e.g. through subsidiaries), 20% or more of the voting power of the investee, it is presumed that the investor has significant influence, unless it can be clearly demonstrated that this is not the case. Conversely, if the investor holds, directly or indirectly (e.g. through subsidiaries), less than 20% of the voting power of the investee, it is presumed that the investor does not have significant influence, unless such influence can be clearly demonstrated. A substantial or majority ownership by another investor does not preclude an investor from having significant influence. The existence of significant influence by an investor is usually evidenced in one or more of the following ways:
 
 (a) representation on the board of directors or equivalent governing body of the investee;
 
@@ -1709,8 +1609,6 @@ Joint control is the contractually agreed sharing of control over an economic ac
 
 10.9 A jointly controlled entity is a joint venture that involves the establishment of a corporation, partnership or other entity in which each venturer has an interest. The entity operates in the same way as other entities, except that a contractual arrangement between the venturers establishes joint control over the economic activity of the entity.
 
-44 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
 10.10 Investments in subsidiaries, associates and jointly controlled entities are sometimes collectively referred to as "investee" throughout this Section. Accounting for investments in subsidiaries, associates and jointly controlled entities.
 
 10.11 An investor shall initially account for all investments in subsidiaries, associates and jointly controlled entities at cost.
@@ -1734,8 +1632,6 @@ Equity method
 10.16 When potential voting rights exist, the investor’s share of profit or loss of the investee and of changes in the investee’s equity is determined on the basis of present ownership interests and does not reflect the possible exercise or conversion of potential voting rights.
 
 10.17 If an investee uses accounting policies other than those of the investor for like transactions and events in similar circumstances, adjustments shall be made to conform the investee’s accounting policies to those of the investor when the investee’s financial statements are used by the investor in applying the equity method.
-
-PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 45
 
 10.18 Appropriate adjustments are made to the investor’s share of the profits or losses after acquisition to account for:
 
@@ -1764,8 +1660,6 @@ Under appropriate assumptions, both methods give the same result.
 (b) significant influence in participating in the financial and operating policy decisions of the associate; or
 
 (c) joint control over a jointly controlled entity and shall account for the investment in accordance with Section 9 of these Principles. The carrying amount of the investment at that date shall be recognised as its cost on initial measurement.
-
-46 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
 
 Recognition and Measurement - investments in jointly controlled operations and jointly controlled assets
 
@@ -1810,8 +1704,6 @@ Disclosure
 (e) the information required by Section 12 of these Principles.
 
 10.29 An investor shall give a reconciliation of the carrying amount at the beginning and end of the period, showing the following separately for investments in subsidiaries, associates and jointly controlled entities:
-
-PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 47
 
 (a) additions;
 
@@ -1859,8 +1751,6 @@ PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 47
 
 (ii) those contingent liabilities that arise because the investor is severally liable for all or part of the liabilities of the associate. 10.33 A venturer shall disclose the aggregate amount of the following contingent liabilities, unless the probability of loss is remote, separately from the amount of other contingent liabilities:
 
-48 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
 (a) any contingent liabilities that the venturer has incurred in relation to its interests in joint ventures and its share in each of the contingent liabilities that have been incurred jointly with other venturers;
 
 (b) its share of the contingent liabilities of the joint ventures themselves for which it is contingently liable; and
@@ -1893,9 +1783,7 @@ Acquired intangible assets - Recognition and Measurement at recognition
 
 (a) its purchase price, including import duties and non-refundable purchase taxes, after deducting trade discounts and rebates; and
 
-(b) any directly attributable cost of preparing the asset for its intended use. PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 49
-
-If an intangible asset is acquired in a business combination, the cost of that intangible asset is its fair value at the acquisition date.
+(b) any directly attributable cost of preparing the asset for its intended use. If an intangible asset is acquired in a business combination, the cost of that intangible asset is its fair value at the acquisition date.
 
 11.5 The nature of intangible assets is such that, in many cases, there are no additions to such an asset or replacements of part of it. Accordingly, most subsequent expenditures are likely to maintain the expected future economic benefits embodied in an existing intangible asset rather than meet the definition of an intangible asset and the recognition criteria in these Principles.
 
@@ -1923,9 +1811,7 @@ Internally-generated intangible assets - Recognition and Measurement at recognit
 
 (a) internally generated brands, mastheads, publishing titles, customer lists and items similar in substance;
 
-(b) expenditure on start-up activities (i.e. start-up costs), unless this expenditure is included in the cost of an item of property, plant and 50 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
-equipment. Start-up costs may consist of establishment costs such as legal and secretarial costs incurred in establishing a legal entity, expenditure to open a new facility or business (i.e. pre-opening costs) or expenditure for starting new operations or launching new products or processes (i.e. pre-operating costs);
+(b) expenditure on start-up activities (i.e. start-up costs), unless this expenditure is included in the cost of an item of property, plant and equipment. Start-up costs may consist of establishment costs such as legal and secretarial costs incurred in establishing a legal entity, expenditure to open a new facility or business (i.e. pre-opening costs) or expenditure for starting new operations or launching new products or processes (i.e. pre-operating costs);
 
 (c) expenditure on training activities;
 
@@ -1950,8 +1836,6 @@ Intangible assets - Measurement after recognition
 Disclosure
 
 11.17 An entity shall disclose the following for each class of intangible assets, distinguishing between internally-generated intangible assets and other intangible assets:
-
-PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 51
 
 (a) the useful lives or the amortisation rates used;
 
@@ -2005,8 +1889,6 @@ The classes mentioned above are disaggregated (aggregated) into smaller (larger)
 
 (b) the amount of contractual commitments for the acquisition of intangible assets.
 
-52 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
 Section 12: Impairment of assets
 
 12.1 This Section shall be applied in accounting for the impairment of the following assets:
@@ -2043,8 +1925,6 @@ Recognising and measuring an impairment loss on individual assets
 
 (a) the time value of money; and
 
-PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 53
-
 (b) the risks specific to the asset for which the future cash flow estimates have not been adjusted.
 
 12.8 If, and only if, the recoverable amount of an asset is less than its carrying amount, the carrying amount of the asset shall be reduced to its recoverable amount. That reduction is an impairment loss.
@@ -2075,9 +1955,7 @@ These reductions in carrying amounts shall be treated as impairment losses on in
 
 Reversing an impairment loss
 
-12.14 An entity shall assess at each reporting date whether there is any indication that an impairment loss recognised in prior periods for an asset other than goodwill may no longer exist or may have decreased. If any such indication exists, the entity shall estimate the recoverable amount of that asset or the group of assets to which the asset belongs if an entity cannot estimate the recoverable amount for the 54 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
-individual asset.
+12.14 An entity shall assess at each reporting date whether there is any indication that an impairment loss recognised in prior periods for an asset other than goodwill may no longer exist or may have decreased. If any such indication exists, the entity shall estimate the recoverable amount of that asset or the group of assets to which the asset belongs if an entity cannot estimate the recoverable amount for the individual asset.
 
 12.15 An impairment loss recognised in prior periods for an asset other than goodwill shall be reversed if, and only if, there has been a change in the estimates used to determine the asset’s recoverable amount since the last impairment loss was recognised. If this is the case, the carrying amount of the asset shall, except as described in paragraph 12.16, be increased to its recoverable amount. That increase is a reversal of an impairment loss.
 
@@ -2111,8 +1989,6 @@ Disclosure
 
 (d) for a group of assets, a description of the group; and
 
-PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 55
-
 (e) whether the recoverable amount of the asset (group) is its fair value less costs to sell or its value in use.
 
 12.22 An entity shall disclose the following information for the aggregate impairment losses and the aggregate reversals of impairment losses recognised during the period for which no information is disclosed in accordance with paragraph 12.21:
@@ -2145,9 +2021,7 @@ Disclosure
 
 (a) the accounting policy adopted for government grants, including an explanation of how the grant is presented in the financial statements;
 
-(b) the nature and amounts of government grants recognised in the financial 56 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
-statements; and
+(b) the nature and amounts of government grants recognised in the financial statements; and
 
 (c) where the results of the period are affected materially by the receipt of forms of government assistance other than grants, the nature of that assistance and, to the extent that the effects on the financial statements can be measured, an estimate of those effects.
 
@@ -2183,9 +2057,7 @@ Section 14: Leases
 
 (iii) a third party unrelated to the lessor that is financially capable of discharging the obligations under the guarantee.
 
-14.6 The lease term is the non-cancellable period for which the lessee has PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 57
-
-contracted to lease the asset together with any further terms for which the lessee has the option to continue to lease the asset, with or without further payment, when at the inception of the lease it is reasonably certain that the lessee will exercise the option.
+14.6 The lease term is the non-cancellable period for which the lessee has contracted to lease the asset together with any further terms for which the lessee has the option to continue to lease the asset, with or without further payment, when at the inception of the lease it is reasonably certain that the lessee will exercise the option.
 
 14.7 A hire purchase contract is a contract for the hire of an asset that contains a provision giving the hirer an option to acquire legal title to the asset upon the fulfilment of certain conditions stated in the contract. Those hire purchase contracts which are of a financing nature shall be accounted for on a basis similar to that set out below for finance leases. Conversely, other hire purchase contracts shall be accounted for on a basis similar to that set out below for operating leases.
 
@@ -2206,8 +2078,6 @@ Accounting by lessors
 14.13 Lessors shall recognise assets held under a finance lease in their balance sheets and present them as a receivable at an amount equal to the net investment in the lease.
 
 14.14 Net investment in the lease is the gross investment in the lease discounted at the interest rate implicit in the lease. Gross investment in the lease is the aggregate of:
-
-58 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
 
 (a) the minimum lease payments receivable by the lessor under a finance lease, and
 
@@ -2249,9 +2119,7 @@ Disclosure by lessees
 
 (a) either:
 
-(i) for each class of asset, the gross amounts of assets that are held PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 59
-
-under finance leases together with the related accumulated depreciation; or
+(i) for each class of asset, the gross amounts of assets that are held under finance leases together with the related accumulated depreciation; or
 
 (ii) alternatively to being shown separately from that in respect of owned assets, the information in (i) above may be integrated with it, such that the totals of gross amount, accumulated depreciation, net carrying amount and depreciation allocated for the period for each class of asset held under finance leases are included with similar amounts for owned assets. Where this alternative treatment is adopted, the net amount of assets held under finance leases and the amount of depreciation allocated for the period in respect of assets under finance leases included in the overall total shall be disclosed separately;
 
@@ -2287,9 +2155,7 @@ Measurement of inventories
 
 15.3 The cost of inventories shall comprise all costs of purchase, costs of conversion and other costs incurred in bringing the inventories to their present location and condition.
 
-15.4 The costs of purchase of inventories comprise the purchase price, import duties and other taxes (other than those subsequently recoverable by the entity from 60 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
-the taxing authorities), and transport, handling and other costs directly attributable to the acquisition of finished goods, materials and services. Trade discounts, rebates and other similar items are deducted in determining the costs of purchase. The cost of an item of self-constructed inventory is its cost at the date when the construction or development is complete. Until that date an entity shall apply Section 7 of these Principles.
+15.4 The costs of purchase of inventories comprise the purchase price, import duties and other taxes (other than those subsequently recoverable by the entity from the taxing authorities), and transport, handling and other costs directly attributable to the acquisition of finished goods, materials and services. Trade discounts, rebates and other similar items are deducted in determining the costs of purchase. The cost of an item of self-constructed inventory is its cost at the date when the construction or development is complete. Until that date an entity shall apply Section 7 of these Principles.
 
 15.5 The costs of conversion of inventories include costs directly related to the units of production, such as direct labour. They also include a systematic allocation of fixed and variable production overheads that are incurred in converting materials into finished goods. An entity shall allocate fixed production overheads to the costs of conversion based on the normal capacity of the production facilities.
 
@@ -2314,8 +2180,6 @@ Recognition as an expense
 15.10 When inventories are sold, the carrying amount of those inventories shall be recognised as an expense in the period in which the related revenue is recognised. The amount of any write-down of inventories to net realisable value and all losses of inventories shall be recognised as an expense in the period the write-down or loss occurs. The amount of any reversal of any write-down of inventories, arising from an increase in net realisable value, shall be recognised as a reduction in the amount of inventories recognised as an expense in the period in which the reversal occurs.
 
 15.11 Some inventories may be allocated to other asset accounts, for example, inventory used as a component of self-constructed property, plant or equipment. Inventories allocated to another asset in this way are recognised as an expense during the useful life of that asset.
-
-PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 61
 
 Presentation and Disclosure
 
@@ -2354,8 +2218,6 @@ Section 16: Income taxes
 16.7 Temporary differences are differences between the carrying amount of an asset or liability in the balance sheet and its tax base. Temporary differences may be either:
 
 (a) taxable temporary differences, which are temporary differences that will result in taxable amounts in determining taxable profit (tax loss) of future periods when the carrying amount of the asset or liability is recovered or settled; or
-
-62 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
 
 (b) deductible temporary differences, which are temporary differences that will result in amounts that are deductible in determining taxable profit (tax loss) of future periods when the carrying amount of the asset or liability is recovered or settled.
 
@@ -2397,8 +2259,6 @@ However, for all deductible temporary differences associated with investments in
 
 16.13 An entity shall recognise deferred tax as income or an expense and include it in profit or loss for the period, except to the extent that the tax arises from:
 
-PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 63
-
 (a) a transaction or event which is recognised, in the same or a different period, directly in equity, in which case the deferred tax shall be charged or credited directly to equity; or
 
 (b) a business combination (see paragraph 16.14 - 16.18).
@@ -2415,9 +2275,7 @@ Deferred tax arising from a business combination and the resulting effect on goo
 
 16.18 If the potential benefit of the acquiree’s income tax loss carry-forwards or other deferred tax assets did not satisfy the criteria for separate recognition (under paragraph 22.7 of these Principles) when a business combination is initially accounted for but is subsequently realised, the acquirer shall recognise the resulting deferred tax income in profit or loss. In addition, the acquirer shall:
 
-(a) reduce the carrying amount of goodwill to the amount that would have been recognised if the deferred tax asset had been recognised as an 64 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
-identifiable asset from the acquisition date; and
+(a) reduce the carrying amount of goodwill to the amount that would have been recognised if the deferred tax asset had been recognised as an identifiable asset from the acquisition date; and
 
 (b) recognises the reduction in the carrying amount of goodwill as an expense.
 
@@ -2453,9 +2311,7 @@ Presentation
 
 16.28 Deferred tax assets (liabilities) shall not be classified as current assets (liabilities).
 
-16.29 An entity shall offset current tax assets and current tax liabilities if, and PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 65
-
-only if, the entity:
+16.29 An entity shall offset current tax assets and current tax liabilities if, and only if, the entity:
 
 (a) has a legally enforceable right to set off the recognised amounts; and (b) intends either to settle on a net basis, or to realise the asset and settle the liability simultaneously.
 
@@ -2495,9 +2351,7 @@ Disclosure
 
 (a) the amount (and expiry date, if any) of deductible temporary differences, unused tax losses, and unused tax credits for which no deferred tax asset is recognised in the balance sheet; and
 
-(b) the amount of a deferred tax asset and the nature of the evidence 66 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
-supporting its recognition when:
+(b) the amount of a deferred tax asset and the nature of the evidence supporting its recognition when:
 
 (i) the utilisation of the deferred tax asset is dependent on future taxable profits in excess of the profits arising from the reversal of existing taxable temporary differences; and
 
@@ -2533,9 +2387,7 @@ Recognition and measurement of provisions
 
 17.6 The entity shall recognise the provision as a liability in the balance sheet and shall recognise the amount of the provision as an expense in profit or loss unless (a) it is part of the cost of producing inventories (see paragraph 15.3) or (b) it is included in the cost of property, plant and equipment in accordance with paragraph 7.4.
 
-17.7 An entity shall measure a provision at the best estimate of the amount required to settle the obligation at the reporting date. When the effect of the time value of money is material, the amount of a provision shall be the present value of the amount expected to be required to settle the obligation. The discount rate (or rates) shall be a pre-tax rate (or rates) that reflect(s) current market assessments of the time value of money. The risks specific to the liability should be reflected either in the discount rate or in the estimation of the amounts required to settle the obligation, but not both. Gains from the expected disposal of assets shall be PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 67
-
-excluded from the measurement of a provision. When a provision is measured at the present value of the amount expected to be required to settle the obligation, the unwinding of the discount shall be recognised as finance cost.
+17.7 An entity shall measure a provision at the best estimate of the amount required to settle the obligation at the reporting date. When the effect of the time value of money is material, the amount of a provision shall be the present value of the amount expected to be required to settle the obligation. The discount rate (or rates) shall be a pre-tax rate (or rates) that reflect(s) current market assessments of the time value of money. The risks specific to the liability should be reflected either in the discount rate or in the estimation of the amounts required to settle the obligation, but not both. Gains from the expected disposal of assets shall be excluded from the measurement of a provision. When a provision is measured at the present value of the amount expected to be required to settle the obligation, the unwinding of the discount shall be recognised as finance cost.
 
 17.8 Where some or all of the expenditure required to settle a provision may be reimbursed by another party (e.g. through an insurance claim), the reimbursement shall be recognised, as a separate asset, only when it is virtually certain to be received if the entity settles the obligation. In the income statement, the expense relating to the provision may be presented net of the recovery.
 
@@ -2575,8 +2427,6 @@ Disclosure
 
 (b) where practicable:
 
-68 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
 (i) an estimate of its financial effect (if it is impracticable to estimate the financial effect, that fact shall be stated); and
 
 (ii) an indication of the uncertainties relating to the amount or timing of any outflow.
@@ -2613,8 +2463,6 @@ Section 18: Financial assets, financial liabilities and equity
 
 (b) an equity instrument of another entity; or
 
-PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 69
-
 (c) a contractual right:
 
 (i) to receive cash or another financial asset from another entity; or (ii) to exchange financial assets or financial liabilities with another entity under conditions that are potentially favourable to the entity.
@@ -2645,9 +2493,7 @@ Recognition and Measurement at recognition
 
 Measurement after recognition - Financial assets and Financial liabilities (other than Derivatives)
 
-18.9 After initial recognition an entity shall re-measure all financial assets (other than those covered by Section 9 of these Principles) to take cognisance of 70 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
-impairment losses.
+18.9 After initial recognition an entity shall re-measure all financial assets (other than those covered by Section 9 of these Principles) to take cognisance of impairment losses.
 
 18.10 An entity is encouraged, but not required, to measure its financial assets and liabilities which have different initial measurement and maturity amounts (e.g. attributable to transaction costs) at amortised cost using the effective interest method. The difference between the initial and maturity amounts would be amortised over the term of the instrument. The effective interest method is a method of calculating the amortised cost of a financial asset or a financial liability and of allocating the interest income or interest expense over the relevant period. The effective interest rate is the rate that exactly discounts estimated future cash payments or receipts through the expected life of the financial instrument or, when appropriate, a shorter period to the net carrying amount of the financial asset or financial liability.
 
@@ -2671,9 +2517,7 @@ Measurement after recognition - Derivatives
 
 Debt/equity classification
 
-18.16 A financial instrument, or its component parts, shall be classified as a financial liability, a financial asset or an equity instrument in accordance with the substance of the contractual arrangement rather than its legal form. Some financial instruments take the legal form of equity but are liabilities in substance and others may combine features associated with equity instruments and features associated PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 71
-
-with financial liabilities. For example a preference share that provides for mandatory redemption by the iss uer for a fixed or determinable amount at a fixed or determinable future date, or gives the holder the right to require the issuer to redeem the instrument at or after a particular date for a fixed or determinable amount, is a financial liability.
+18.16 A financial instrument, or its component parts, shall be classified as a financial liability, a financial asset or an equity instrument in accordance with the substance of the contractual arrangement rather than its legal form. Some financial instruments take the legal form of equity but are liabilities in substance and others may combine features associated with equity instruments and features associated with financial liabilities. For example a preference share that provides for mandatory redemption by the iss uer for a fixed or determinable amount at a fixed or determinable future date, or gives the holder the right to require the issuer to redeem the instrument at or after a particular date for a fixed or determinable amount, is a financial liability.
 
 18.17 Dividends relating to a financial instrument or a component that is a financial liability shall be recognised as expense in profit or loss. Distributions to holders of an equity instrument shall be debited by the entity directly to equity, net of any related income tax benefit. If an entity declares dividends after the balance sheet date, the dividends shall not be recognised as a liability at the balance sheet date.
 
@@ -2709,9 +2553,7 @@ Financial liabilities disclosures
 
 (a) the fair value of the derivatives, if such a value can be determined by any of the following methods:
 
-(i) a market value, for those derivatives for which a reliable market can readily be identified. Where a market value is not readily identifiable for a derivative but can be identified for its components or for a similar instrument, the market value may be 72 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
-derived from that of its components or of the similar instrument; or
+(i) a market value, for those derivatives for which a reliable market can readily be identified. Where a market value is not readily identifiable for a derivative but can be identified for its components or for a similar instrument, the market value may be derived from that of its components or of the similar instrument; or
 
 (ii) a value resulting from generally accepted valuation models and techniques, for those derivatives for which a reliable market cannot be readily identified. Such valuation models and techniques shall ensure a reasonable approximation of the market value; and
 
@@ -2753,9 +2595,7 @@ Equity disclosures
 
 (c) the aggregate amount of dividends that are proposed before the date of approval of the financial statements, and not otherwise disclosed under paragraph (a) or (b) above.
 
-18.24 If any fixed cumulative dividends on the company’s shares are in arrears, the amount of the arrears and the period for which each class of dividends is in PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 73
-
-arrears shall be disclosed.
+18.24 If any fixed cumulative dividends on the company’s shares are in arrears, the amount of the arrears and the period for which each class of dividends is in arrears shall be disclosed.
 
 Section 19: Foreign currency translation
 
@@ -2791,9 +2631,7 @@ Determining the functional currency
 
 (b) whether transactions with the reporting entity are a high or a low proportion of the foreign operation’s activities;
 
-(c) whether cash flows from the activities of the foreign operation directly affect the cash flows of the reporting entity and are readily available for 74 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
-remittance to it;
+(c) whether cash flows from the activities of the foreign operation directly affect the cash flows of the reporting entity and are readily available for remittance to it;
 
 (d) whether cash flows from the activities of the foreign operation are sufficient to service existing and normally expected debt obligations without funds being made available by the reporting entity.
 
@@ -2819,9 +2657,7 @@ Reporting foreign currency transactions in the functional currency
 
 Net investment in a foreign operation
 
-19.14 An entity may have a monetary item that is receivable from or payable to a foreign operation. An item for which settlement is neither planned nor likely to occur in the foreseeable future is, in substance, a part of the entity’s net investment in that foreign operation, and is accounted for in accordance with paragraph 19.15. PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 75
-
-Such monetary items may include long-term receivables or loans. They do not include trade receivables or trade payables.
+19.14 An entity may have a monetary item that is receivable from or payable to a foreign operation. An item for which settlement is neither planned nor likely to occur in the foreseeable future is, in substance, a part of the entity’s net investment in that foreign operation, and is accounted for in accordance with paragraph 19.15. Such monetary items may include long-term receivables or loans. They do not include trade receivables or trade payables.
 
 19.15 Exchange differences arising on a monetary item that forms part of a reporting entity’s net investment in a foreign operation (see paragraph 19.14) shall be recognised in profit or loss in the individual financial statements of the reporting entity or the individual financial statements of the foreign operation, as appropriate. In the financial statements that include the foreign operation and the reporting entity (for example, consolidated financial statements when the foreign operation is a subsidiary), such exchange differences shall be recognised initially in a separate component of equity and recognised in profit or loss on disposal of the net investment in accordance with paragraph 19.19.
 
@@ -2839,9 +2675,7 @@ Translation of a foreign operation into the investor’s presentation currency
 
 19.17 In incorporating the results and financial position of a foreign operation with those of the reporting entity (for example by consolidation or the equity method), the entity shall translate the results and financial position of the foreign operation into the reporting entity’s presentation currency by applying the requirements of paragraph 19.16 of these Principles. Where the foreign operation is to be c onsoli da ted, the reporting entity s hall s ubs eque nt ly fol low normal consolidation procedures, such as the elimination of intragroup balances and intragroup transactions of a subsidiary (see Section 23 Consolidated Financial Statements). However, an intragroup monetary asset (or liability), whether short-term or long-term, cannot be eliminated against the corresponding intragroup liability (or asset) without showing the results of currency fluctuations in the consolidated financial statements. This is because the monetary item represents a commitment to convert one currency into another and exposes the reporting entity to a gain or loss through currency fluctuations. Accordingly, in the consolidated financial statements of the reporting entity, an entity continues to recognise such an exchange difference in profit or loss or, if it arises from the circumstances described in paragraph 19.15, the entity shall classify it as equity until the disposal of the foreign operation.
 
-19.18 Any goodwill arising on the acquisition of a foreign operation and any fair value adjustments to the carrying amounts of assets and liabilities arising on the acquisition of that foreign operation shall be treated as assets and liabilities of the foreign operation. Thus, they shall be expressed in the functional currency of the foreign operation and shall be translated at the closing rate in accordance with 76 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
-paragraph 19.16.
+19.18 Any goodwill arising on the acquisition of a foreign operation and any fair value adjustments to the carrying amounts of assets and liabilities arising on the acquisition of that foreign operation shall be treated as assets and liabilities of the foreign operation. Thus, they shall be expressed in the functional currency of the foreign operation and shall be translated at the closing rate in accordance with paragraph 19.16.
 
 19.19 On the disposal of a foreign operation, the cumulative amount of the exchange differences deferred in the separate component of equity relating to that foreign operation shall be recognised in profit or loss when the gain or loss on disposal is recognised.
 
@@ -2872,8 +2706,6 @@ Recognition and Measurement
 (a) the settlement, after the balance sheet date, of a court case that confirms that the entity had a present obligation at the balance sheet date, in which case an entity shall recognise a corresponding liability and shall adjust the amount previously recognised as provisions in accordance with Section 17 of these Principles; and
 
 (b) the receipt of evidence after the balance sheet date that indicates that an asset was impaired at the balance sheet date, such as a customer being declared bankrupt or inventories being sold at an amount that is lower than their previously recognised net realisable value. In such case an entity shall recognise an impairment loss, or adjust a previously recognised impairment loss, in accordance with Sections 12 and 15 of these Principles.
-
-PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 77
 
 20.3 An entity shall not adjust the amounts recognised in its financial statements to reflect non-adjusting events after the balance sheet date. Nevertheless, if non-adjusting events after the balance sheet date are material, non-disclosure could influence the economic decisions of users taken on the basis of the financial statements hence disclosures may need to be given in accordance with this section. Examples of non-adjusting events are a decline in market value of investments between the balance sheet date and the date when the financial statements are authorised for issue, or an entity declaring dividends to holders of equity instruments after the balance sheet date.
 
@@ -2921,8 +2753,6 @@ Section 21: Related party disclosures
 
 (d) a customer, supplier, franchisor, distributor or general agent with whom an entity transacts a significant volume of business, merely by virtue of the resulting economic dependence.
 
-78 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
 21.3 A related party transaction is a transfer of resources, services or obligations between related parties, regardless of whether a price is charged.
 
 Disclosure
@@ -2955,8 +2785,6 @@ Disclosure
 
 21.7 An entity which forms part of a larger group is encouraged, but not required, to disclose the information required in paragraph 21.6 in relation to transactions with entities that form part of the same group to which the entity belongs, provided that the entity and all such related entities are consolidated in consolidated financial statements that are available for public use.
 
-PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 79
-
 Section 22: Business combinations and goodwill
 
 22.1 This Section shall be applied by a parent in accounting for its investments in subsidiaries, associates and joint ventures in the consolidated financial statements, if any, that present the financial results of the parent and its subsidiaries, associates and joint ventures as those of a single economic entity in accordance with Section 23 of these Principles. This Section shall not be applied by an investor in accounting for its investments in subsidiaries, associates and joint ventures in its individual financial statements (as defined in paragraph 10.1), the accounting for which is specifically covered in Section 10 of GAPSE.
@@ -2987,8 +2815,6 @@ Method of accounting
 
 (b) in the case of a liability other than a contingent liability, it is probable that an outflow of resources will be required to settle the obligation, and its fair value can be measured reliably; and
 
-80 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
 (c) in the case of an intangible asset or a contingent liability, its fair value can be measured reliably.
 
 22.8 The acquirer’s income statement shall incorporate the acquiree’s profits and losses after the acquisition date by including the acquiree’s income and expenses based on the cost of the business combination to the acquirer. For example, depreciation expense included after the acquisition date in the acquirer’s income statement that relates to the acquiree’s depreciable assets shall be based on the fair values of those depreciable assets at the acquisition date, i.e. their cost to the acquirer.
@@ -3016,8 +2842,6 @@ Goodwill - Measurement after recognition
 22.14 An entity shall amortise goodwill on a straight-line basis over its useful life, which shall not exceed 20 years. The amortisation charge for each period shall be recognised in profit or loss.
 
 22.15 The useful life of goodwill shall be reviewed regularly and revised if necessary, subject to the constraint that the revised useful life shall not exceed 20 years from the date of acquisition. The carrying amount at the date of revision shall be amortised over the revised estimate of remaining useful life. Such a change shall be accounted for as a change in an accounting estimate in accordance with Section 5 of these Principles.
-
-PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 81
 
 22.16 Goodwill shall not be revalued.
 
@@ -3055,8 +2879,6 @@ Disclosure
 
 (a) the gross amount and accumulated amortisation and impairment losses at the beginning of the period;
 
-82 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
-
 (b) changes arising from new business combinations, impairment losses, disposals of previously acquired businesses, and other changes; and
 
 (c) the gross amount and accumulated amortisation and impairment losses at the end of the period.
@@ -3091,9 +2913,7 @@ Consolidation procedures
 
 (b) eliminate the carrying amount of the parent’s investment in each subsidiary and the parent’s portion of equity of each subsidiary;
 
-(c) measure minority interests in the profit or loss of consolidated subsidiaries for the reporting period separately from the parent PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 83
-
-shareholders’ interest; and
+(c) measure minority interests in the profit or loss of consolidated subsidiaries for the reporting period separately from the parent shareholders’ interest; and
 
 (d) measure minority interests in the net assets of consolidated subsidiaries separately from the parent shareholders’ equity in them. Minority interests in the net assets consist of:
 
@@ -3116,8 +2936,6 @@ shareholders’ interest; and
 23.11 An entity shall present minority interest in the consolidated balance sheet within equity, separately from the parent shareholders’ equity.
 
 23.12 An entity shall disclose minority interest in the profit or loss of the group separately in the income statement, as required by paragraph 4.21.
-
-84 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
 
 23.13 Losses applicable to the minority in a consolidated subsidiary may exceed the minority interest in the subsidiary’s equity. The excess, and any further losses applicable to the minority, are allocated against the majority interest except to the extent that the minority has a binding obligation and is able to make an additional investment to cover the losses. If the subsidiary subsequently reports profits, such profits are allocated to the majority interest until the minority’s share of losses previously absorbed by the majority has been recovered.
 
@@ -3157,9 +2975,7 @@ Discontinued operations - Presentation and Disclosure
 
 (ii) the gain or loss recognised on the measurement to fair value less costs to sell or on the disposal of the assets or group(s) of assets constituting the discontinued operation and the related income tax expense.
 
-The analysis may be presented in the notes or on the face of the income statement. If it is presented on the face of the income statement it shall be presented in a section identified as relating to discontinued operations, i.e. separately from continuing PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 85
-
-operations.
+The analysis may be presented in the notes or on the face of the income statement. If it is presented on the face of the income statement it shall be presented in a section identified as relating to discontinued operations, i.e. separately from continuing operations.
 
 (c) the net cash flows attributable to the operating, investing and financing activities of discontinued operations. These disclosures may be presented either in the notes or on the face of the financial statements. 24.4 Unless impracticable, an entity shall restate the disclosures in the preceding paragraph for prior periods presented in the financial statements so that the disclosures relate to all operations that have been discontinued by the end of the reporting period for the latest period presented.
 
@@ -3184,8 +3000,6 @@ Non-current assets held for sale - Presentation and Disclosure
 (a) a description of the asset or disposal group;
 
 (b) a description of the facts and circumstances of the sale, or leading to the expected disposal, and the expected manner and timing of that disposal; and
-
-86 [ S.L.281.03 PRINCIPLES FOR SMALLER ENTITIES)
 
 (c) the gain or loss recognised, if not separately presented on the face of the income statement.
 
@@ -3217,9 +3031,7 @@ First-time adoption
 
 (b) not recognise items as assets or liabilities if these Principles do not permit such recognition;
 
-(c) reclassify items that it recognised under its previous financial reporting PRINCIPLES FOR SMALLER ENTITIES) [ S.L.281.03 87
-
-framework as one type of asset, liability or component of equity, but are a different type of asset, liability or component of equity under these Principles; and
+(c) reclassify items that it recognised under its previous financial reporting framework as one type of asset, liability or component of equity, but are a different type of asset, liability or component of equity under these Principles; and
 
 (d) apply these Principles in measuring all recognised assets and liabilities. 25.7 The accounting policies that an entity uses in its opening balance sheet under these Principles may differ from those that it used for the same date using its previous financial reporting framework. The resulting adjustments arise from transactions, other events or conditions before the date of transition to these Principles. Therefore, an entity shall recognise those adjustments directly in retained earnings (or, if appropriate, another category of equity) at the date of transition to these Principles.
 

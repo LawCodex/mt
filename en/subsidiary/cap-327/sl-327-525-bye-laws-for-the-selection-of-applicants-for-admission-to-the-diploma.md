@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-laws for the Selection of Applicants for Admission to the Diploma in Dental Surgery Assistance - Dip. D.S.A. - under the auspices of the Faculty of Dental Surgery (S.L. 327.525)
 
-IN DENTAL SURGERY ASSISTANCE - Dip. D.S.A. - UNDER THE
-
-*1*
-
-AUSPICES OF THE FACULTY OF DENTAL SURGERY [S.L.327.525
-
 **SUBSIDIARY LEGISLATION 327.525**
 
 BYE-LAWS FOR THE SELECTION OF APPLICANTS FOR ADMISSION TO THE DIPLOMA IN DENTAL
@@ -70,10 +64,6 @@ Grade)
 12 D
 
 12 Pass
-
-*2*
-
-IN DENTAL SURGERY ASSISTANCE - Dip. D.S.A. - UNDER THE [S.L.327.525 AUSPICES OF THE FACULTY OF DENTAL SURGERY
 
 10 A
 

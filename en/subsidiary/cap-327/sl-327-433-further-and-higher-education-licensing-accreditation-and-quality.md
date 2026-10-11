@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Further and Higher Education (Licensing, Accreditation and Quality Assurance) Regulations (S.L. 327.433)
 
-FURTHER AND HIGHER EDUCATION (LICENSING,
-
-*1*
-
-ACCREDITATION AND QUALITY ASSURANCE) [S.L.327.433
-
 **SUBSIDIARY LEGISLATION 327.433**
 
 **FURTHER AND HIGHER EDUCATION**

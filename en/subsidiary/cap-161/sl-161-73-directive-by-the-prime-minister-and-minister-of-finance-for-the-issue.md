@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Directive by the Prime Minister and Minister of Finance for the Issue of €3,390,635.92 7% Malta Government Stock 2016(III) (S.L. 161.73)
 
-*1*
-
-GOVERNMENT STOCK 2016 (III) [S.L.161.73
-
 **SUBSIDIARY LEGISLATION 161.73**
 
 **DIRECTIVE BY THE PRIME MINISTER AND**
@@ -61,8 +57,4 @@ The Stock and interest thereon will be a charge on the general revenue and asset
 
 ## 6. Redemption of Stock.
 
-The Stock shall be redeemed at a premium of 10% over the nominal value on such date between the 1st January, 2016 and the [S.L.161.73 GOVERNMENT STOCK 2016 (III)
-
-31st December, 2016 (both dates inclusive) as shall be determined by the Accountant General and notified in the Government Gazzette.
-
-*2*
+The Stock shall be redeemed at a premium of 10% over the nominal value on such date between the 1st January, 2016 and the 31st December, 2016 (both dates inclusive) as shall be determined by the Accountant General and notified in the Government Gazzette.

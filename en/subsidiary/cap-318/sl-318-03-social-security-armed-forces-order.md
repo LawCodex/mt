@@ -1,6 +1,6 @@
 ---
 title: "Social Security (Armed Forces) Order"
-identifier: "S.L. 318.3"
+identifier: "S.L. 318.03"
 eli: "https://legislation.mt/eli/sl/318.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/318.3/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Social Security (Armed Forces) Order (S.L. 318.3)
+# Social Security (Armed Forces) Order (S.L. 318.03)
 
 **SUBSIDIARY LEGISLATION 318.03**
 

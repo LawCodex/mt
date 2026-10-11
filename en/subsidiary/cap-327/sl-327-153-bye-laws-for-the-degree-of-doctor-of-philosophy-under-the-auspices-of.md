@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy under the auspices of the Faculty of Dental Surgery (S.L. 327.153)
 
-*1*
-
-AUSPICES OF THE FACULTY OF DENTAL SURGERY [S.L.327.153
-
 **SUBSIDIARY LEGISLATION 327.153**
 
 BYE-LAWS FOR THE DEGREE OF DOCTOR OF PHILOSOPHY UNDER THE AUSPICES OF THE
@@ -67,15 +63,13 @@ Applicants for the Degree offered by the Faculty shall be in possession of one o
 
 The Board shall recommend to Senate the appointment of a Faculty Doctoral Committee composed as follows:
 
-The Dean of the Faculty or his delegate (chairman) [S.L.327.153 AUSPICES OF THE FACULTY OF DENTAL SURGERY 3 senior members of staff.
+The Dean of the Faculty or his delegate (chairman) 3 senior members of staff.
 
 \*These bye-laws have been repealed by Legal Notice 27 of 2024.
 
 ## 6. Supervision.
 
 (1) Principal Supervisors shall be required to submit a written report to the Board, through the Faculty Doctoral Committee, by the end of June and January of every year of study for all students under their supervision.
-
-*2*
 
 (2) Students are required to submit a report on their research work every six months for consideration by the Faculty Doctoral Committee.
 

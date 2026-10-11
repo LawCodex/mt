@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science in Sustainability and Resilience for the Built Environment - M.Sc. - under the auspices of the Faculty for the Built Environment (S.L. 327.460)
 
-RESILIENCE FOR THE BUILT ENVIRONMENT - M.Sc. - UNDER
-
-*1*
-
-THE AUSPICES OF THE FACULTY FOR THE BUILT ENVIRONMENT [S.L.327.460
-
 **SUBSIDIARY LEGISLATION 327.460**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER OF**
@@ -64,11 +58,7 @@ The course shall be open to applicants in possession of:
 
 (a) a Bachelor’s degree from the University of Malta with at least Second Class (Honours) in a discipline related to the Built Environment, Architecture, Civil or Mechanical or Electrical Engineering, or in other related areas deemed suitable by the Board; or
 
-(b) a Bachelor’s degree from the University of Malta with at least Third Class Honours in the disciplines highlighted in paragraph (a) of this bye-law, if they are also in possession of other qualifications or at least 10 years of relevant work experience, obtained following the first cycle degree. The admission of applicants under this bye-law may be made conditional on the results of an assessment as the Board may deem RESILIENCE FOR THE BUILT ENVIRONMENT - M.Sc. - UNDER [S.L.327.460 THE AUSPICES OF THE FACULTY FOR THE BUILT ENVIRONMENT
-
-appropriate; or
-
-*2*
+(b) a Bachelor’s degree from the University of Malta with at least Third Class Honours in the disciplines highlighted in paragraph (a) of this bye-law, if they are also in possession of other qualifications or at least 10 years of relevant work experience, obtained following the first cycle degree. The admission of applicants under this bye-law may be made conditional on the results of an assessment as the Board may deem appropriate; or
 
 (c) a qualification deemed by Senate, on the recommendation of the Board, to be comparable to the qualifications listed in paragraph (a) of this bye-law. The admission of applicants under this bye-law may be made conditional on the results of an assessment as the Board may deem appropriate.
 
@@ -107,12 +97,6 @@ The course shall extend over three semesters of full-time study or the equivalen
 *Renumbered: L.N. 295 of 2022.*
 
 (1) Students shall be required to have regular contact with their supervisor, not less than once a month.
-
-RESILIENCE FOR THE BUILT ENVIRONMENT - M.Sc. - UNDER
-
-*3*
-
-THE AUSPICES OF THE FACULTY FOR THE BUILT ENVIRONMENT [S.L.327.460
 
 (2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies, whether the student is following the course on a full-time or a part-time basis. Such reports may include a recommendation to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
 

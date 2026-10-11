@@ -1,6 +1,6 @@
 ---
 title: "Act of Marriage Forms Regulations"
-identifier: "S.L. 255.2"
+identifier: "S.L. 255.02"
 eli: "https://legislation.mt/eli/sl/255.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/255.2/20210208/eng"
 retrieved: 2026-10-12
 ---
 
-# Act of Marriage Forms Regulations (S.L. 255.2)
+# Act of Marriage Forms Regulations (S.L. 255.02)
 
 **SUBSIDIARY LEGISLATION 255.02**
 

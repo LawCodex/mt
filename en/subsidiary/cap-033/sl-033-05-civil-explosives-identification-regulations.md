@@ -1,6 +1,6 @@
 ---
 title: "Civil Explosives (Identification) Regulations"
-identifier: "S.L. 33.5"
+identifier: "S.L. 33.05"
 eli: "https://legislation.mt/eli/sl/33.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/33.5/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Civil Explosives (Identification) Regulations (S.L. 33.5)
+# Civil Explosives (Identification) Regulations (S.L. 33.05)
 
 SUBSIDIARY LEGISLATION 33.04
 

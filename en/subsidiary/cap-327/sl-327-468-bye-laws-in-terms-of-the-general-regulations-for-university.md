@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws in terms of the General Regulations for University Undergraduate Awards, 2004 for the Higher Diploma in Gerontology and Geriatrics - H.Dip. - under the auspices of the Faculty for Social Wellbeing (S.L. 327.468)
 
-HIGHER DIPLOMA IN GERONTOLOGY
-
-*1*
-
-AND GERIATRICS - H.DIP. [S.L.327.468
-
 **SUBSIDIARY LEGISLATION 327.468**
 
 **BYE-LAWS IN TERMS OF THE GENERAL**
@@ -71,13 +65,7 @@ These bye-laws shall be applicable for courses commencing in October 2020 or lat
 
 (3) The interviewing board appointed by the Board shall be composed of at least three persons.
 
-(4) The University Admissions Board, on the advice of the Board, may allow applicants in possession of additional HIGHER DIPLOMA IN GERONTOLOGY AND
-
-*2*
-
-[S.L.327.468 GERIATRICS - H.Dip.
-
-qualifications and relevant experience evaluated according to the University Policy for the Recognition and Accreditation of Prior Learning (RPL) to be admitted for the Course under those conditions as the Board may impose.
+(4) The University Admissions Board, on the advice of the Board, may allow applicants in possession of additional qualifications and relevant experience evaluated according to the University Policy for the Recognition and Accreditation of Prior Learning (RPL) to be admitted for the Course under those conditions as the Board may impose.
 
 (5) The Board shall recommend to Senate the number of applicants that may be allowed to register for the Course, depending on the availability of resources. The Board shall announce the number of available places at the time of the call for applications.
 

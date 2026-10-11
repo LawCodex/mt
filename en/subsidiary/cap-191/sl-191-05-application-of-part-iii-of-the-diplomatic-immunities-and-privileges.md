@@ -1,6 +1,6 @@
 ---
 title: "Application of Part III of the Diplomatic Immunities and Privileges Act (European Court of Human Rights) Order"
-identifier: "S.L. 191.5"
+identifier: "S.L. 191.05"
 eli: "https://legislation.mt/eli/sl/191.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/191.5/20130305/eng"
 retrieved: 2026-10-12
 ---
 
-# Application of Part III of the Diplomatic Immunities and Privileges Act (European Court of Human Rights) Order (S.L. 191.5)
-
-DIPLOMATIC IMMUNITIES AND PRIVILEGES ACT
-
-*1*
-
-(EUROPEAN COURT OF HUMAN RIGHTS) [S.L.191.05
+# Application of Part III of the Diplomatic Immunities and Privileges Act (European Court of Human Rights) Order (S.L. 191.05)
 
 **SUBSIDIARY LEGISLATION 191.05**
 
@@ -42,8 +36,6 @@ The judges, the Registrar and the Deputy Registrar of the European Court of Huma
 (1) The Articles set out in the Schedules to this Order (being Articles of the General Agreement on the Privileges and Immunities of the Council of Europe and of the Sixth Protocol to the General Agreement on Privileges and Immunities of the Council of Europe) shall have the same force of law in Malta.
 
 (2) The Articles referred to in subarticle (1) appear in the First and Second Schedules in the English language only and are being published with the English text of this Order.
-
-DIPLOMATIC IMMUNITIES AND PRIVILEGES ACT 2 [S.L.191.05 (EUROPEAN COURT OF HUMAN RIGHTS)
 
 ## First Schedule — GENERAL AGREEMENT ON PRIVILEGES AND IMMUNITIES — OF THE COUNCIL OF EUROPE
 
@@ -76,10 +68,6 @@ For the purposes of this Protocol, the term "judges" means judges elected in acc
 **Article 3**
 
 In order to secure for the judges complete freedom of speech and complete independence in the discharge of their duties, the immunity from legal process in respect of words spoken or written and all acts done by them in discharging their duties shall continue to be accorded, notwithstanding that the persons concerned are no longer engaged in the discharge of such duties.
-
-DIPLOMATIC IMMUNITIES AND PRIVILEGES ACT
-
-(EUROPEAN COURT OF HUMAN RIGHTS) [S.L.191.05 3
 
 **Article 4**
 

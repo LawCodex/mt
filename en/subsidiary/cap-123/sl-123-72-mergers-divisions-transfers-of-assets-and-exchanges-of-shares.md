@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Mergers, Divisions, Transfers of Assets and Exchanges of Shares Regulations (S.L. 123.72)
 
-MERGERS, DIVISIONS, TRANSFERS OF ASSETS
-
-*1*
-
-AND EXCHANGES OF SHARES [S.L.123.72
-
 **SUBSIDIARY LEGISLATION 123.72**
 
 **MERGERS, DIVISIONS, TRANSFERS OF ASSETS**

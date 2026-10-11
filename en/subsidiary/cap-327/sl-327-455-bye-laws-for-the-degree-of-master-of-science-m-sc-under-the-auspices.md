@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Master of Science - M.Sc. - under the auspices of the Faculty of Health Sciences (S.L. 327.455)
 
-*1*
-
-AUSPICES OF THE FACULTY OF HEALTH SCIENCES [S.L.327.455
-
 **SUBSIDIARY LEGISLATION 327.455**
 
 BYE-LAWS FOR THE DEGREE OF MASTER OF SCIENCE - M.Sc. - UNDER THE AUSPICES OF
@@ -68,11 +64,9 @@ Applicants may be required to provide evidence of work experience following regi
 
 (a) a Bachelor’s degree obtained with at least Second Class Honours in an area of study deemed suitable by the Board; or
 
-(b) a degree from the University of Malta or another [S.L.327.455 AUSPICES OF THE FACULTY OF HEALTH SCIENCES university which the Board considers as comparable to the degree indicated in sub-paragraph (a) of this bye-law.
+(b) a degree from the University of Malta or another university which the Board considers as comparable to the degree indicated in sub-paragraph (a) of this bye-law.
 
 (2) Applicants may be required to provide evidence of being in possession of the licence to practise in the register of the profession concerned, as kept by the relevant regulatory council.
-
-*2*
 
 (3) Applicants may be required to provide evidence of work experience following registration with the relevant regulatory council in the proposed area of study or area of specialisation, if applicable. The minimum number of years of experience required shall be indicated at the time of the call for applications.
 
@@ -104,11 +98,7 @@ The programme of study for each area of study/area of specialisation shall compr
 
 ## 8. Postgraduate Certificate.
 
-Students who obtain the 30 credits assigned to any taught study-units covered during the first and second semesters with an average mark of at least 50% and do not proceed with the course, or AUSPICES OF THE FACULTY OF HEALTH SCIENCES [S.L.327.455
-
-having proceeded do not successfully complete the course, shall be eligible for the award of the Postgraduate Certificate.
-
-*3*
+Students who obtain the 30 credits assigned to any taught study-units covered during the first and second semesters with an average mark of at least 50% and do not proceed with the course, or having proceeded do not successfully complete the course, shall be eligible for the award of the Postgraduate Certificate.
 
 ## 9. Postgraduate Diploma.
 
@@ -141,10 +131,6 @@ The programme of study shall be published after approval by Senate, normally not
 (1) Students shall be required to have regular contact with their supervisor.
 
 (2) Supervisors shall submit to the Board progress reports for each student under their supervision at the end of each semester of studies, whether the student is following the course on a full-time or a part-time basis. Such reports may include recommendations to either (a) extend the period of study in order to enable the student to complete the dissertation; or (b) terminate studies prematurely if the supervisor deems this to be proper in the circumstances, provided that:
-
-*4*
-
-[S.L.327.455 AUSPICES OF THE FACULTY OF HEALTH SCIENCES
 
 (i) the extension of the study period referred to in (a) shall be in accordance with the provisions of Principal Regulations; and
 

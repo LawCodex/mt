@@ -17,14 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Postgraduate Certificate in Geographic Information Systems under the auspices of the Institute for Sustainable Development (S.L. 327.430)
 
-POSTGRADUATE CERTIFICATE IN GEOGRAPHIC
-
-INFORMATION SYSTEMS UNDER THE AUSPICES OF
-
-*1*
-
-THE INSTITUTE FOR SUSTAINABLE DEVELOPMENT [S.L.327.430
-
 **SUBSIDIARY LEGISLATION 327.430**
 
 **BYE-LAWS FOR THE POSTGRADUATE**

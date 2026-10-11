@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor of Science (Honours) in Pharmaceutical Technology - B.Sc. (Hons) Pharm. Tech. - under the auspices of the Faculty of Medicine and Surgery (S.L. 327.413)
 
-CEUTICAL TECHNOLOGY - B.SC. (HONS) PHARM. TECH - UNDER
-
-*1*
-
-THE AUSPICES OF THE FACULTY OF MEDICINE AND SURGERY [S.L.327.413
-
 **SUBSIDIARY LEGISLATION 327.413**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF SCIENCE (HONOURS) IN PARMACEUTICAL
@@ -70,11 +64,7 @@ either (a) satisfy the general requirements for admission as specified in the Ad
 
 or (b) be in possession of a qualification related to the proposed area of study awarded by an institution other than the University of Malta pegged at MQF/EQF Level 4 and comprising not less than 120 ECTS credits, together with a pass at Intermediate Level or at Advanced Matriculation Level in Chemistry, and a pass at SEC Level at grade 5 or better in Maltese;
 
-or (c) be registered as a pharmacy technician with the Pharmacy Council, and have two years of experience CEUTICAL TECHNOLOGY - B.SC. (HONS) PHARM. TECH - UNDER [S.L.327.413 THE AUSPICES OF THE FACULTY OF MEDICINE AND SURGERY
-
-as a pharmacy technician in a pharmaceutical setting, together with a pass at Intermediate Level or at Advanced Matriculation Level in Chemistry.
-
-*2*
+or (c) be registered as a pharmacy technician with the Pharmacy Council, and have two years of experience as a pharmacy technician in a pharmaceutical setting, together with a pass at Intermediate Level or at Advanced Matriculation Level in Chemistry.
 
 ## 4. Number of applicants that may be allowed to register on the course.
 
@@ -114,13 +104,7 @@ The Course may be offered on a flexible part-time basis with the following speci
 
 (b) In order to progress regularly from one Course year to the next, the 60 ECTS credits assigned to the study-units of each Course year must be completed in not more than three academic years.
 
-(c) Students who are absent for the assessment of a study-unit, or fail in the assessment of a study-unit, shall, if eligible, be required to take the assessment of any number of such incomplete study-units at the CEUTICAL TECHNOLOGY - B.SC. (HONS) PHARM. TECH - UNDER
-
-*3*
-
-THE AUSPICES OF THE FACULTY OF MEDICINE AND SURGERY [S.L.327.413
-
-September assessment session or at the next available opportunity.
+(c) Students who are absent for the assessment of a study-unit, or fail in the assessment of a study-unit, shall, if eligible, be required to take the assessment of any number of such incomplete study-units at the September assessment session or at the next available opportunity.
 
 (d) If necessary, students may be allowed to refer the assessment of the study-units to the next academic year, provided that not more than 12 ECTS credits may be referred from one Course year to the next.
 
@@ -131,7 +115,3 @@ September assessment session or at the next available opportunity.
 (j) Subject to approval by the Board, students registered on the Course may be allowed to change the mode of attendance from full-time to flexible part-time or vice versa at the beginning of the second year of the regular programme of study. Changes in mode of attendance in any subsequent year of the Course may be considered by the Board if the Course programme permits.
 
 (k) Notwithstanding the provisions in the General Regulations for University Undergraduate Awards, 2019 owing to the nature of the Course when offered on a flexible part-time basis that allows for a longer duration than normal, students registered on such a flexible part-time Course programme shall not be entitled to ever repeat a Course year in its entirety, nor to an extension year after each Course year.
-
-*4*
-
-CEUTICAL TECHNOLOGY - B.SC. (HONS) PHARM. TECH - UNDER [S.L.327.413 THE AUSPICES OF THE FACULTY OF MEDICINE AND SURGERY

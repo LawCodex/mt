@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Doctor of Philosophy - Ph.D. - in the Faculty of Theology (S.L. 327.117)
 
-*1*
-
-THE AUSPICES OF THE FACULTY OF THEOLOGY [S.L.327.117
-
 **SUBSIDIARY LEGISLATION 327.117**
 
 **BYE-LAWS FOR THE DEGREE OF DOCTOR OF**
@@ -71,15 +67,9 @@ Applicants are normally required to have a thorough reading of primary and secon
 
 ## 6. Faculty Doctoral Committee.
 
-The Board shall recommend to Senate the appointment of a Faculty Doctoral Committee composed of 3 to 5 members, including the Dean or his delegate, who shall chair the Committee, the other members being normally heads of department. The DEGREE OF DOCTOR OF PHILOSOPHY UNDER
+The Board shall recommend to Senate the appointment of a Faculty Doctoral Committee composed of 3 to 5 members, including the Dean or his delegate, who shall chair the Committee, the other members being normally heads of department. The Faculty Doctoral Committee may co-opt other members if deemed necessary.
 
 \*These regulations have been repealed by Legal Notice 164 of 2024.
-
-*2*
-
-[S.L.327.117 THE AUSPICES OF THE FACULTY OF THEOLOGY
-
-Faculty Doctoral Committee may co-opt other members if deemed necessary.
 
 ## 7. Areas of study.
 
@@ -124,7 +114,3 @@ The Board shall approve and publish guidelines on the format and presentation of
 (1) Students shall be required to submit a loose bound copy of their thesis for each member of the Board of Examiners, together with a copy in digital format. The officer in charge of the Faculty shall issue a dated receipt.
 
 (2) On successful completion of their studies, students shall be required to submit to the Faculty three hard bound copies of the thesis and one copy in digital format within six weeks from the publication of their result. One copy of the thesis shall be kept in the Library of the department and another at the University Library. Students who do not comply with this bye-law shall not be awarded the Degree.
-
-*3*
-
-THE AUSPICES OF THE FACULTY OF THEOLOGY [S.L.327.117

@@ -1,6 +1,6 @@
 ---
 title: "Time Table for the Comino Passenger Service Regulations"
-identifier: "S.L. 65.6"
+identifier: "S.L. 65.06"
 eli: "https://legislation.mt/eli/sl/65.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/65.6/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Time Table for the Comino Passenger Service Regulations (S.L. 65.6)
+# Time Table for the Comino Passenger Service Regulations (S.L. 65.06)
 
 SUBSIDIARY LEGISLATION 65.06
 

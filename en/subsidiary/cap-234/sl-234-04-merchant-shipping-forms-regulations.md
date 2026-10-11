@@ -1,6 +1,6 @@
 ---
 title: "Merchant Shipping Forms Regulations"
-identifier: "S.L. 234.4"
+identifier: "S.L. 234.04"
 eli: "https://legislation.mt/eli/sl/234.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/234.4/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Merchant Shipping Forms Regulations (S.L. 234.4)
+# Merchant Shipping Forms Regulations (S.L. 234.04)
 
 **SUBSIDIARY LEGISLATION 234.04**
 

@@ -1,6 +1,6 @@
 ---
 title: "Making Available on the Market of Explosives for Civil Uses Regulations"
-identifier: "S.L. 33.7"
+identifier: "S.L. 33.07"
 eli: "https://legislation.mt/eli/sl/33.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/33.7/20160706/eng"
 retrieved: 2026-10-12
 ---
 
-# Making Available on the Market of Explosives for Civil Uses Regulations (S.L. 33.7)
-
-*1*
-
-OF EXPLOSIVES FOR CIVIL USES [S.L.33.07
+# Making Available on the Market of Explosives for Civil Uses Regulations (S.L. 33.07)
 
 **SUBSIDIARY LEGISLATION 33.07**
 
@@ -63,11 +59,7 @@ For the purpose of these regulations, the following definitions shall apply:
 
 "accreditation" means accreditation as defined in point 10 of Article 2 of Regulation (EC) No 765/2008;
 
-"ammunition" means projectiles with or without propelling charges and blank ammunition used in portable firearms, other guns [S.L.33.07 OF EXPLOSIVES FOR CIVIL USES
-
-and artillery;
-
-*2*
+"ammunition" means projectiles with or without propelling charges and blank ammunition used in portable firearms, other guns and artillery;
 
 "approval" means the decision taken to allow envisaged transfers of explosives within the Union;
 
@@ -98,10 +90,6 @@ and artillery;
 "National Accreditation Board (Malta)" means the National Accreditation Board (Malta) established in terms of regulation 3 of the National Accreditation Board (Malta) (Establishment) Regulations;
 
 *S.L. 419.07*
-
-*3*
-
-OF EXPLOSIVES FOR CIVIL USES [S.L.33.07
 
 "national accreditation body" means national accreditation body as defined in point 11 of Article 2 of Regulation (EC) No 765/2008;
 
@@ -143,11 +131,7 @@ Where compliance of an explosive with the applicable requirements has been demon
 
 (3) Manufacturers shall keep the technical documentation and the EU declaration of conformity for 10 years after the explosive has been placed on the market.
 
-(4) Manufacturers shall ensure that procedures are in place for series production to remain in conformity with these regulations. Changes in design or characteristics of the explosive and changes in the harmonised standards or in other technical specifications by reference to which conformity of an explosive is declared shall be [S.L.33.07 OF EXPLOSIVES FOR CIVIL USES
-
-adequately taken into account.
-
-*4*
+(4) Manufacturers shall ensure that procedures are in place for series production to remain in conformity with these regulations. Changes in design or characteristics of the explosive and changes in the harmonised standards or in other technical specifications by reference to which conformity of an explosive is declared shall be adequately taken into account.
 
 (5) Manufacturers shall ensure that explosives which they have placed on the market bear a unique identification in accordance with the system for the identification and traceability of explosives set out in regulation 13. For explosives excluded from that system, manufacturers shall:
 
@@ -166,10 +150,6 @@ adequately taken into account.
 (1) A manufacturer may, by a written mandate, appoint an authorised representative.
 
 (2) The obligations laid down in regulation 7(1) and the obligation to draw up technical documentation referred to in regulation 7(2) shall not form part of the authorised representative’s mandate.
-
-*5*
-
-OF EXPLOSIVES FOR CIVIL USES [S.L.33.07
 
 (3) An authorised representative shall perform the tasks specified in the mandate received from the manufacturer. The mandate shall allow the authorised representative to do at least the following:
 
@@ -193,11 +173,7 @@ Where an importer considers or has reason to believe that an explosive is not in
 
 (5) Importers shall ensure that, while an explosive is under their responsibility, its storage or transport conditions do not jeopardise its compliance with the essential safety requirements set out in Schedule II.
 
-(6) Importers who consider or have reason to believe that an explosive which they have placed on the market is not in conformity with these regulations shall immediately take the [S.L.33.07 OF EXPLOSIVES FOR CIVIL USES
-
-corrective measures necessary to bring that explosive into conformity, to withdraw it or recall it, if appropriate. Furthermore, where the explosive presents a risk, importers shall immediately inform the competent national authorities of the Member States in which they made the explosive available on the market to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken. The competent authorities in the case of products imported into Malta, shall be the Police and the Technical Regulations Division.
-
-*6*
+(6) Importers who consider or have reason to believe that an explosive which they have placed on the market is not in conformity with these regulations shall immediately take the corrective measures necessary to bring that explosive into conformity, to withdraw it or recall it, if appropriate. Furthermore, where the explosive presents a risk, importers shall immediately inform the competent national authorities of the Member States in which they made the explosive available on the market to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken. The competent authorities in the case of products imported into Malta, shall be the Police and the Technical Regulations Division.
 
 (7) Importers shall, for 10 years after the explosive has been placed on the market, keep a copy of the EU declaration of conformity at the disposal of the market surveillance authorities and ensure that the technical documentation can be made available to those authorities, upon request.
 
@@ -213,11 +189,7 @@ Where a distributor considers or has reason to believe that an explosive is not 
 
 (3) Distributors shall ensure that, while an explosive is under their responsibility, its storage or transport conditions do not jeopardise its compliance with the essential safety requirements set out in Schedule II.
 
-(4) Distributors who consider or have reason to believe that an explosive which they have made available on the market is not in conformity with these regulations shall make sure that the corrective measures necessary to bring that explosive into conformity, to withdraw it or recall it, if appropriate, are taken. Furthermore, where the explosive presents a risk, distributors shall immediately inform the competent national authorities of the Member States in which they made the explosive available on the OF EXPLOSIVES FOR CIVIL USES [S.L.33.07
-
-market to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken.
-
-*7*
+(4) Distributors who consider or have reason to believe that an explosive which they have made available on the market is not in conformity with these regulations shall make sure that the corrective measures necessary to bring that explosive into conformity, to withdraw it or recall it, if appropriate, are taken. Furthermore, where the explosive presents a risk, distributors shall immediately inform the competent national authorities of the Member States in which they made the explosive available on the market to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken.
 
 (5) Distributors shall, further to a reasoned request from the Police and, or the Technical Regulations Division, provide that authority with all the information and documentation in paper or electronic form necessary to demonstrate the conformity of an explosive. They shall cooperate with that authority, at its request, on any action taken to eliminate the risks posed by explosives which they have made available on the market.
 
@@ -243,11 +215,7 @@ The system shall not apply to explosives transported and delivered unpackaged or
 
 (2) That system shall provide for the collection and storage of data, including where appropriate by electronic means, enabling the unique identification and traceability of the explosive as well as for the placement of a unique identification on the explosive and, or its packaging enabling access to that data. Those data shall relate to the unique identification of the explosive, including its location while in the possession of economic operators and the identity of those economic operators.
 
-(3) The data referred to in sub-regulation (2) shall be tested at [S.L.33.07 OF EXPLOSIVES FOR CIVIL USES
-
-regular intervals and protected against accidental or malicious damage or destruction. Those data shall be stored for 10 years after the transaction took place or, where the explosives have been used or disposed of, 10 years after their use or disposal, even if the economic operator has ceased trading. They shall be immediately available at the request of the Police or the Technical Regulations Division.
-
-*8*
+(3) The data referred to in sub-regulation (2) shall be tested at regular intervals and protected against accidental or malicious damage or destruction. Those data shall be stored for 10 years after the transaction took place or, where the explosives have been used or disposed of, 10 years after their use or disposal, even if the economic operator has ceased trading. They shall be immediately available at the request of the Police or the Technical Regulations Division.
 
 ## 14. Presumption of Conformity of Explosives.
 
@@ -277,11 +245,9 @@ For the assessment of the conformity of explosives the manufacturer shall follow
 
 (3) Where an explosive is subject to more than one Union act requiring an EU declaration of conformity, a single EU declaration of conformity shall be drawn up in respect of all such Union acts. That declaration shall contain the identification of the Union acts concerned including their publication references.
 
-(4) By drawing up the EU declaration of conformity, the manufacturer shall assume responsibility for the compliance of the explosive with the requirements laid down in these regulations. OF EXPLOSIVES FOR CIVIL USES [S.L.33.07 17. (1) The CE marking shall be subject to the general principles set out in Article 30 of Regulation (EC) No 765/2008.
+(4) By drawing up the EU declaration of conformity, the manufacturer shall assume responsibility for the compliance of the explosive with the requirements laid down in these regulations. 17. (1) The CE marking shall be subject to the general principles set out in Article 30 of Regulation (EC) No 765/2008.
 
 (2) The CE marking shall be affixed visibly, legibly and indelibly to the explosive. Where that is not possible or not warranted on account of the nature of the explosive, it shall be affixed to the packaging and to the accompanying documents.
-
-*9*
 
 *CE marking.*
 
@@ -313,10 +279,6 @@ The identification number of the notified body shall be affixed by the body itse
 
 (2) A conformity assessment body shall be established under Maltese law of and have legal personality.
 
-*10*
-
-[S.L.33.07 OF EXPLOSIVES FOR CIVIL USES
-
 (3) A conformity assessment body shall be a third-party body independent of the organisation or the explosive it assesses.
 
 (4) (a) A conformity assessment body, its top level management and the personnel responsible for carrying out the conformity assessment tasks shall not be the designer, manufacturer, supplier, installer, purchaser, owner, user or maintainer of explosives which they assess, nor the representative of any of those parties. This shall not preclude the use of explosives that are necessary for the operations of the conformity assessment body or the use of explosives for personal purposes.
@@ -333,11 +295,7 @@ The identification number of the notified body shall be affixed by the body itse
 
 (i) personnel with technical knowledge and sufficient and appropriate experience to perform the conformity assessment tasks;
 
-(ii) descriptions of procedures in accordance with OF EXPLOSIVES FOR CIVIL USES [S.L.33.07
-
-which conformity assessment is carried out, ensuring the transparency and the ability of reproduction of those procedures. It shall have appropriate policies and procedures in place that distinguish between tasks it carries out as a notified body and other activities;
-
-*11*
+(ii) descriptions of procedures in accordance with which conformity assessment is carried out, ensuring the transparency and the ability of reproduction of those procedures. It shall have appropriate policies and procedures in place that distinguish between tasks it carries out as a notified body and other activities;
 
 (iii) procedures for the performance of activities which take due account of the size of an undertaking, the sector in which it operates, its structure, the degree of complexity of the product technology in question and the mass or serial nature of the production process.
 
@@ -356,10 +314,6 @@ which conformity assessment is carried out, ensuring the transparency and the ab
 (9) Conformity assessment bodies shall take out liability insurance unless liability is assumed by the State in accordance with national law, or the Member State itself is directly responsible for the conformity assessment.
 
 (10) The personnel of a conformity assessment body shall observe professional secrecy with regard to all information obtained in carrying out their tasks under Schedule III or any provision of national law giving effect to it, except in relation to the competent authorities of the Member State in which its activities are carried out. Proprietary rights shall be protected.
-
-*12*
-
-[S.L.33.07 OF EXPLOSIVES FOR CIVIL USES
 
 (11) Conformity assessment bodies shall participate in, or ensure that their personnel responsible for carrying out the conformity assessment tasks are informed of, the relevant standardisation activities and the activities of the notified body coordination group established under the relevant Union harmonisation legislation and shall apply as general guidance the administrative decisions and documents produced as a result of the work of that group.
 
@@ -385,11 +339,7 @@ which conformity assessment is carried out, ensuring the transparency and the ab
 
 *S.L. 427.45*
 
-(4) The Technical Regulations Division shall notify conformity assessment bodies to the European Commission and the other OF EXPLOSIVES FOR CIVIL USES [S.L.33.07
-
-Member States using the electronic notification tool developed and managed by the Commission.
-
-*13*
+(4) The Technical Regulations Division shall notify conformity assessment bodies to the European Commission and the other Member States using the electronic notification tool developed and managed by the Commission.
 
 (5) The notification shall include full details of the conformity assessment activities, the conformity assessment module or modules, explosive or explosives concerned and the relevant attestation of competence.
 
@@ -411,11 +361,7 @@ Member States using the electronic notification tool developed and managed by th
 
 (2) Conformity assessments shall be carried out in a proportionate manner, avoiding unnecessary burdens for economic operators and private importers. Conformity assessment bodies shall perform their activities taking due account of the size of an undertaking, the sector in which it operates, its structure, the degree of complexity of the product technology in question and the mass or serial nature of the production process. In so doing, they shall nevertheless respect the degree of rigour and the level of protection required for the compliance of the explosive with these regulations.
 
-(3) Where a notified body finds that the essential safety requirements set out in Schedule II or in corresponding harmonised standards or other technical specifications have not been met by a manufacturer, it shall require the manufacturer to take appropriate [S.L.33.07 OF EXPLOSIVES FOR CIVIL USES
-
-corrective measures and shall not issue a certificate of conformity.
-
-*14*
+(3) Where a notified body finds that the essential safety requirements set out in Schedule II or in corresponding harmonised standards or other technical specifications have not been met by a manufacturer, it shall require the manufacturer to take appropriate corrective measures and shall not issue a certificate of conformity.
 
 (4) Where, in the course of the monitoring of conformity following the issue of a certificate, a notified body finds that an explosive is no longer in compliance; it shall require the manufacturer to take appropriate corrective measures and shall suspend or withdraw the certificate if necessary.
 
@@ -443,11 +389,7 @@ corrective measures and shall not issue a certificate of conformity.
 
 (3) Where the Police has sufficient reasons to believe that an explosive presents a risk to the health or safety of persons, to property or to the environment, they shall carry out an evaluation in relation to the explosive concerned covering all relevant requirements laid down in these regulations. The relevant economic operators shall cooperate as necessary with the Police.
 
-(4) Where, in the course of the evaluation referred to in sub-regulation (3), the Police finds that the explosive does not comply with the requirements laid down in these regulations, they shall without delay require the relevant economic operator to take all appropriate corrective action to bring the explosive into compliance OF EXPLOSIVES FOR CIVIL USES [S.L.33.07
-
-with those requirements, to withdraw the explosive from the market, or to recall it within a reasonable period, commensurate with the nature of the risk, as it may prescribe. It shall also inform the Notified Body accordingly. The Police shall also inform the Technical Regulations Division.
-
-*15*
+(4) Where, in the course of the evaluation referred to in sub-regulation (3), the Police finds that the explosive does not comply with the requirements laid down in these regulations, they shall without delay require the relevant economic operator to take all appropriate corrective action to bring the explosive into compliance with those requirements, to withdraw the explosive from the market, or to recall it within a reasonable period, commensurate with the nature of the risk, as it may prescribe. It shall also inform the Notified Body accordingly. The Police shall also inform the Technical Regulations Division.
 
 (5) Article 21 of Regulation (EC) No 765/2008 shall apply to the measures referred to in sub-regulation (4).
 
@@ -465,11 +407,7 @@ with those requirements, to withdraw the explosive from the market, or to recall
 
 (b) shortcomings in the harmonised standards referred to in regulation 14 conferring a presumption of conformity.
 
-(11) When the procedure under this regulation is initiated by another Member State, the Technical Regulations Division, in collaboration with the Police, shall without delay inform the European Commission and the other Member States of any measures adopted and of any additional information at their disposal relating to the non-compliance of the explosive concerned, and, in the event of disagreement with the adopted national [S.L.33.07 OF EXPLOSIVES FOR CIVIL USES
-
-measure, of their objections.
-
-*16*
+(11) When the procedure under this regulation is initiated by another Member State, the Technical Regulations Division, in collaboration with the Police, shall without delay inform the European Commission and the other Member States of any measures adopted and of any additional information at their disposal relating to the non-compliance of the explosive concerned, and, in the event of disagreement with the adopted national measure, of their objections.
 
 (12) Where, within three months of receipt of the information referred to in sub-regulation (9), no objection has been raised by either a Member State or the European Commission in respect of a provisional measure taken by a Member State, that measure shall be deemed justified.
 
@@ -488,10 +426,6 @@ If, on the basis of this evaluation, the national measure is considered unjustif
 (16) The Police, upon consultation with the Technical Regulations Division, shall immediately inform the Commission and the other Member States. That information shall include all available details, in particular the data necessary for the identification of the explosive concerned, the origin and the supply chain of the explosive, the nature of the risk involved and the nature and duration of the national measures taken.
 
 (17) Without prejudice to sub-regulations (3) to (12), where the Police makes one of the following findings, it shall require the relevant economic operator to put an end to the non-compliance concerned:
-
-*17*
-
-OF EXPLOSIVES FOR CIVIL USES [S.L.33.07
 
 (a) the CE marking has been affixed in violation of Article 30 of Regulation (EC) No 765/2008 or of regulations 17(2) to 17(6);
 
@@ -520,10 +454,6 @@ OF EXPLOSIVES FOR CIVIL USES [S.L.33.07
 (3) Where the Commissioner of Police considers that there is a problem regarding the verification of the entitlement to acquire explosives referred to in sub-regulation (2), the Commissioner of Police shall forward the available information on the subject to the Commission which shall inform the other Member States thereof.
 
 (4) Where the Commissioner of Police approves a transfer, the Commissioner of Police shall issue to the consignee a document which includes all the information referred to in sub-regulation (5). Such a document shall accompany the explosives until they arrive at their stated destination. It shall be produced at the request of the relevant competent authorities. A copy of that document shall be retained by the consignee who shall present it, upon request, for examination by the Commissioner of Police.
-
-*18*
-
-[S.L.33.07 OF EXPLOSIVES FOR CIVIL USES
 
 (5) Prior to the transfer of explosives, the following information shall be provided by the consignee to the Commissioner of Police:
 
@@ -559,11 +489,7 @@ The Commissioner of Police shall examine the conditions under which the transfer
 
 (c) the quantity of ammunition to be consigned or transported;
 
-(d) data making it possible to identify the ammunition and also an indication that the ammunition has undergone a check in accordance with the Convention of 1 July 1969 on the Reciprocal Recognition of Proofmarks on OF EXPLOSIVES FOR CIVIL USES [S.L.33.07
-
-Small Arms;
-
-*19*
+(d) data making it possible to identify the ammunition and also an indication that the ammunition has undergone a check in accordance with the Convention of 1 July 1969 on the Reciprocal Recognition of Proofmarks on Small Arms;
 
 (e) the means of transfer;
 
@@ -585,11 +511,7 @@ All information that the Commissioner of Police receives in accordance with this
 
 By way of derogation from regulation 23(2), (4) and (5) and from regulation 24, the Commissioner of Police, in the event of serious threats to, or attacks on, public security as a result of illicit possession or use of explosives or ammunition, may take all necessary measures concerning transfers of explosives or ammunition in order to prevent such illicit possession or use.
 
-The measures referred to in the first paragraph shall respect [S.L.33.07 OF EXPLOSIVES FOR CIVIL USES
-
-the principle of proportionality. They shall constitute neither a means of arbitrary discrimination nor a veiled restriction in trade between Member States.
-
-*20*
+The measures referred to in the first paragraph shall respect the principle of proportionality. They shall constitute neither a means of arbitrary discrimination nor a veiled restriction in trade between Member States.
 
 If such measures are adopted, these measures shall be notified to the Commission forthwith.
 
@@ -614,10 +536,6 @@ The penalties applicable for the infringement of any of the provisions of these 
 (1) Any references to the Civil Explosives Regulations and the Civil Explosives (Identification) Regulations, revoked by these regulations, shall be construed as references to these regulations.
 
 (2) Any references in existing laws, regulations and administrative provisions to Directive 93/15/EEC as amended and to Directive 2004/57/EC shall be construed as references to Directive 2014/28/EU.
-
-*21*
-
-OF EXPLOSIVES FOR CIVIL USES [S.L.33.07
 
 Schedule I
 
@@ -667,10 +585,6 @@ propelling charge
 
 Explosive articles which are dropped from aircraft. They may contain a flammable liquid with bursting charge, a photo-flash composition or a bursting charge. The term includes: bombs, photo-flash.
 
-*22*
-
-[S.L.33.07 OF EXPLOSIVES FOR CIVIL USES
-
 *UN No 0049*
 
 NAME and CLASS/ GLOSSARY (to be used as a guide for DESCRIPTION DIVISION information only)
@@ -717,10 +631,6 @@ metal clad
 
 Article consisting of a metal tube with a core of deflagrating explosive.
 
-*23*
-
-OF EXPLOSIVES FOR CIVIL USES [S.L.33.07
-
 UN NAME and CLASS/ GLOSSARY (to be used as a guide for No DESCRIPTION DIVISION information only) 0171 Ammunition, 1.2 G Ammunition, illuminating with or illuminating with or without burster, expelling charge or without burster, expelling propelling charge
 
 charge or propelling
@@ -759,15 +669,11 @@ expelling charge
 
 expelling charge
 
-0306 Tracers for ammunition 1.4 G See Entry for UN No 0212 0312 Cartridges, signal 1.4 G Cartridges, signal Articles designed to fire coloured flares or other signals from signal pistols. 0313 Signals, smoke 1.2 G See Entry for UN No 0195 [S.L.33.07 OF EXPLOSIVES FOR CIVIL USES
-
-*UN No 0318 or rifle*
-
-NAME and CLASS/ GLOSSARY (to be used as a guide for DESCRIPTION DIVISION information only)
-
-*24*
+0306 Tracers for ammunition 1.4 G See Entry for UN No 0212 0312 Cartridges, signal 1.4 G Cartridges, signal Articles designed to fire coloured flares or other signals from signal pistols. 0313 Signals, smoke 1.2 G See Entry for UN No 0195 NAME and CLASS/ GLOSSARY (to be used as a guide for DESCRIPTION DIVISION information only)
 
 Grenades, practice, hand 1.3 G Grenades hand or rifle
+
+*UN No 0318 or rifle*
 
 Articles which are designed to be thrown by hand or to be projected by a rifle. The term includes: Grenades practice, hand or rifle.
 
@@ -821,10 +727,6 @@ Projectiles, inert with 1.3 G Projectiles
 
 Articles such as a shell or bullet which are projected from a cannon or other artillery gun, rifle or other small arm. They may be inert, with or without tracer, or may contain a burster or expelling charge or a bursting charge. The term includes: Projectiles, inert, with tracer; projectiles with burster or expelling charge; projectiles with bursting charge.
 
-*25*
-
-OF EXPLOSIVES FOR CIVIL USES [S.L.33.07
-
 UN NAME and CLASS/ GLOSSARY (to be used as a guide for No DESCRIPTION DIVISION information only) 0425 Projectiles, inert with 1.4 G See Entry for UN No 0424 tracer
 
 0428 Articles, pyrotechnic for 1.1 G Articles, pyrotechnic for technical technical purposes purposes
@@ -856,10 +758,6 @@ Airbag modules, or seat
 belt pre-tensioners,
 
 Group S
-
-*26*
-
-[S.L.33.07 OF EXPLOSIVES FOR CIVIL USES
 
 *UN No 0110*
 
@@ -929,8 +827,6 @@ As a minimum, the following information and properties, where appropriate, must 
 
 (c) sensitiveness to impact and friction;
 
-OF EXPLOSIVES FOR CIVIL USES [S.L.33.07 27
-
 (d) compatibility of all components as regards their physical and chemical stability;
 
 (e) the chemical purity of the explosive;
@@ -973,11 +869,7 @@ Requirements for the groups of explosives
 
 (b) the parameters for the burning times of safety fuses must be indicated and must be reliably met;
 
-(c) detonating cords must be capable of being reliably initiated, be of [S.L.33.07 OF EXPLOSIVES FOR CIVIL USES
-
-sufficient initiation capability and comply with requirements as regards storage even in particular climatic conditions.
-
-*28*
+(c) detonating cords must be capable of being reliably initiated, be of sufficient initiation capability and comply with requirements as regards storage even in particular climatic conditions.
 
 3.3. Detonators (including delay detonators) and relays shall also comply with the following requirements:
 
@@ -1023,9 +915,7 @@ The manufacturer shall lodge an application for EU-type examination with a singl
 
 The application shall include:
 
-(a) the name and address of the manufacturer and, if the application is OF EXPLOSIVES FOR CIVIL USES [S.L.33.07 29
-
-lodged by the authorised representative, his name and address as well;
+(a) the name and address of the manufacturer and, if the application is lodged by the authorised representative, his name and address as well;
 
 (b) a written declaration that the same application has not been lodged with any other notified body;
 
@@ -1059,11 +949,7 @@ For the specimen(s):
 
 4.2. verify that the specimen(s) have been manufactured in conformity with the technical documentation and identify the elements which have been designed in accordance with the applicable provisions of the relevant harmonised standards, as well as the elements which have been designed in accordance with other relevant technical specifications;
 
-4.3. carry out appropriate examinations and tests, or have them carried out, to [S.L.33.07 OF EXPLOSIVES FOR CIVIL USES
-
-check whether, where the manufacturer has chosen to apply the solutions in the relevant harmonised standards, these have been applied correctly;
-
-*30*
+4.3. carry out appropriate examinations and tests, or have them carried out, to check whether, where the manufacturer has chosen to apply the solutions in the relevant harmonised standards, these have been applied correctly;
 
 4.4. carry out appropriate examinations and tests, or have them carried out, to check whether, where the solutions in the relevant harmonised standards have not been applied, the solutions adopted by the manufacturer applying other relevant technical specifications meet the corresponding essential safety requirements of these regulations;
 
@@ -1089,9 +975,7 @@ The manufacturer shall inform the notified body that holds the technical documen
 
 Each notified body shall inform its notifying authority concerning the EU-type examination certificates and, or any additions thereto which it has issued or withdrawn, and shall, periodically or upon request, make available to its notifying authority the list of such certificates and, or any additions thereto refused, suspended or otherwise restricted.
 
-Each notified body shall inform the other notified bodies concerning the EU-type examination certificates and, or any additions thereto which it has refused, withdrawn, suspended or otherwise restricted, and, upon request, concerning such certificates and, or additions thereto which it has issued. OF EXPLOSIVES FOR CIVIL USES [S.L.33.07 31
-
-The Commission, the Member States and the other notified bodies may, on request, obtain a copy of the EU-type examination certificates and, or additions thereto. On request, the Commission and the Member States may obtain a copy of the technical documentation and the results of the examinations carried out by the notified body.
+Each notified body shall inform the other notified bodies concerning the EU-type examination certificates and, or any additions thereto which it has refused, withdrawn, suspended or otherwise restricted, and, upon request, concerning such certificates and, or additions thereto which it has issued. The Commission, the Member States and the other notified bodies may, on request, obtain a copy of the EU-type examination certificates and, or additions thereto. On request, the Commission and the Member States may obtain a copy of the technical documentation and the results of the examinations carried out by the notified body.
 
 The notified body shall keep a copy of the EU-type examination certificate, its annexes and additions, as well as the technical file including the documentation submitted by the manufacturer, until the expiry of the validity of that certificate.
 
@@ -1127,8 +1011,6 @@ A notified body, chosen by the manufacturer, shall carry out product checks or h
 
 The acceptance sampling procedure to be applied is intended to determine whether the manufacturing process of the explosive performs within acceptable limits, with a view to ensuring conformity of the explosive.
 
-32 [S.L.33.07 OF EXPLOSIVES FOR CIVIL USES
-
 The manufacturer shall, under the responsibility of the notified body, affix the notified body’s identification number during the manufacturing process. 4. CE marking and EU declaration of conformity
 
 4.1. The manufacturer shall affix the CE marking to each individual explosive that is in conformity with the type described in the EU-type examination certificate and satisfies the applicable requirements of these regulations. 4.2. The manufacturer shall draw up a written EU declaration of conformity for each explosive type and keep it at the disposal of the national authorities for 10 years after the explosive has been placed on the market. The EU declaration of conformity shall identify the explosive type for which it has been drawn up.
@@ -1163,9 +1045,7 @@ The manufacturer shall operate an approved quality system for production, final 
 
 3.2. The quality system shall ensure that the explosives are in conformity with the type described in the EU-type examination certificate and comply with the requirements of these regulations that apply to them.
 
-All the elements, requirements and provisions adopted by the manufacturer OF EXPLOSIVES FOR CIVIL USES [S.L.33.07 33
-
-shall be documented in a systematic and orderly manner in the form of written policies, procedures and instructions. The quality system documentation shall permit a consistent interpretation of the quality programmes, plans, manuals and records.
+All the elements, requirements and provisions adopted by the manufacturer shall be documented in a systematic and orderly manner in the form of written policies, procedures and instructions. The quality system documentation shall permit a consistent interpretation of the quality programmes, plans, manuals and records.
 
 It shall, in particular, contain an adequate description of:
 
@@ -1195,11 +1075,7 @@ It shall notify the manufacturer of its decision. The notification shall contain
 
 4.1. The purpose of surveillance is to make sure that the manufacturer duly fulfils the obligations arising out of the approved quality system.
 
-4.2. The manufacturer shall, for assessment purposes, allow the notified body access to the manufacture, inspection, testing and storage sites and shall [S.L.33.07 OF EXPLOSIVES FOR CIVIL USES
-
-provide it with all necessary information, in particular:
-
-*34*
+4.2. The manufacturer shall, for assessment purposes, allow the notified body access to the manufacture, inspection, testing and storage sites and shall provide it with all necessary information, in particular:
 
 (a) the quality system documentation;
 
@@ -1242,8 +1118,6 @@ Each notified body shall inform the other notified bodies of quality system appr
 Authorised representative
 
 The manufacturer’s obligations set out in points 3.1, 3.5, 5 and 6 may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate.
-
-OF EXPLOSIVES FOR CIVIL USES [S.L.33.07 35
 
 **Module E**
 
@@ -1291,9 +1165,7 @@ It shall, in particular, contain an adequate description of:
 
 It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of relevant harmonised standard.
 
-In addition to experience in quality management systems, the auditing team 36 [S.L.33.07 OF EXPLOSIVES FOR CIVIL USES
-
-shall have at least one member with experience of evaluation in the relevant product field and product technology concerned, and knowledge of the applicable requirements of these regulations. The audit shall include an assessment visit to the manufacturer’s premises. The auditing team shall review the technical documentation referred to in point (e) of point 3.1, in order to verify the manufacturer’s ability to identify the relevant requirements of these regulations and to carry out the necessary examinations with a view to ensuring compliance of the explosive with those requirements.
+In addition to experience in quality management systems, the auditing team shall have at least one member with experience of evaluation in the relevant product field and product technology concerned, and knowledge of the applicable requirements of these regulations. The audit shall include an assessment visit to the manufacturer’s premises. The auditing team shall review the technical documentation referred to in point (e) of point 3.1, in order to verify the manufacturer’s ability to identify the relevant requirements of these regulations and to carry out the necessary examinations with a view to ensuring compliance of the explosive with those requirements.
 
 The decision shall be notified to the manufacturer. The notification shall contain the conclusions of the audit and the reasoned assessment decision. 3.4. The manufacturer shall undertake to fulfil the obligations arising out of the quality system as approved and to maintain it so that it remains adequate and efficient.
 
@@ -1321,9 +1193,7 @@ During such visits the notified body may, if necessary, carry out product tests,
 
 5.1. The manufacturer shall affix the CE marking, and, under the responsibility of the notified body referred to in point 3.1, the latter’s identification number to each individual explosive that is in conformity with the type described in the EU-type examination certificate and satisfies the applicable requirements of these regulations.
 
-5.2. The manufacturer shall draw up a written EU declaration of conformity for each explosive type and keep it at the disposal of the national authorities for OF EXPLOSIVES FOR CIVIL USES [S.L.33.07 37
-
-10 years after the explosive has been placed on the market. The EU declaration of conformity shall identify the explosive type for which it has been drawn up.
+5.2. The manufacturer shall draw up a written EU declaration of conformity for each explosive type and keep it at the disposal of the national authorities for 10 years after the explosive has been placed on the market. The EU declaration of conformity shall identify the explosive type for which it has been drawn up.
 
 A copy of the EU declaration of conformity shall be made available to the relevant authorities upon request.
 
@@ -1369,9 +1239,7 @@ Verification
 
 A notified body chosen by the manufacturer shall carry out appropriate examinations and tests in order to check the conformity of the explosives with the approved type described in the EU-type examination certificate and with the appropriate requirements of these regulations.
 
-The examinations and tests to check the conformity of the explosives with the appropriate requirements shall be carried out, at the choice of the manufacturer, either by examination and testing of every product as specified in point 4 or by examination and testing of the explosives on a 38 [S.L.33.07 OF EXPLOSIVES FOR CIVIL USES
-
-statistical basis as specified in point 5.
+The examinations and tests to check the conformity of the explosives with the appropriate requirements shall be carried out, at the choice of the manufacturer, either by examination and testing of every product as specified in point 4 or by examination and testing of the explosives on a statistical basis as specified in point 5.
 
 \4. Verification of conformity by examination and testing of every product
 
@@ -1398,8 +1266,6 @@ The manufacturer shall keep the certificates of conformity at the disposal of th
 \6. CE marking and EU declaration of conformity
 
 6.1. The manufacturer shall affix the CE marking, and, under the responsibility of the notified body referred to in point 3, the latter’s identification number to each individual explosive that is in conformity with the approved type described in the EU-type examination certificate and satisfies the applicable requirements of these regulations.
-
-OF EXPLOSIVES FOR CIVIL USES [S.L.33.07 39
 
 6.2. The manufacturer shall draw up a written EU declaration of conformity for each explosive type and keep it at the disposal of the national authorities for 10 years after the explosive has been placed on the market. The EU declaration of conformity shall identify the explosive type for which it has been drawn up.
 
@@ -1435,9 +1301,7 @@ Conformity based on unit verification is the conformity assessment procedure whe
 
 (d) a list of the harmonised standards applied in full or in part the references of which have been published in the Official Journal of the European Union and, where those harmonised standards have not been applied, descriptions of the solutions adopted to meet the essential safety requirements of these regulations, including a list of other relevant technical specifications applied. In the case of partly applied harmonised standards, the technical documentation shall specify the parts which have been applied;
 
-(e) results of design calculations made, examinations carried out, etc., and 40 [S.L.33.07 OF EXPLOSIVES FOR CIVIL USES
-
-(f) test reports.
+(e) results of design calculations made, examinations carried out, etc., and (f) test reports.
 
 2.2. The manufacturer shall keep the technical documentation at the disposal of the relevant national authorities for 10 years after the explosive has been placed on the market.
 
@@ -1464,8 +1328,6 @@ A copy of the EU declaration of conformity shall be made available to the releva
 \6. Authorised representative
 
 The manufacturer’s obligations set out in points 2.2 and 5 may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate.
-
-OF EXPLOSIVES FOR CIVIL USES [S.L.33.07 41
 
 ## Schedule IV — EU DECLARATION OF CONFORMITY No xxxxx\*
 

@@ -1,6 +1,6 @@
 ---
 title: "Acts of Deceased Notaries Regulations"
-identifier: "S.L. 55.5"
+identifier: "S.L. 55.05"
 eli: "https://legislation.mt/eli/sl/55.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/55.5/20100722/eng"
 retrieved: 2026-10-12
 ---
 
-# Acts of Deceased Notaries Regulations (S.L. 55.5)
+# Acts of Deceased Notaries Regulations (S.L. 55.05)
 
 **SUBSIDIARY LEGISLATION 55.05**
 

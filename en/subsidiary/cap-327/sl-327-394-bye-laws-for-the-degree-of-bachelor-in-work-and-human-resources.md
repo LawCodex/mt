@@ -16,13 +16,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the Degree of Bachelor in Work and Human Resources (Honours) under the auspices of the Centre for Labour Studies in collaboration with the Faculty of Economics, Management and Accountancy (S.L. 327.394)
 
-(HONOURS) UNDER THE AUSPICES OF THE CENTRE FOR LABOUR
-
-STUDIES IN COLLABOARATION WITH THE FACULTY OF ECONOMICS,
-
-*1*
-
-MANAGEMENT AND ACCOUNTANCY [S.L.327.394 SUBSIDIARY LEGISLATION 327.394
+**SUBSIDIARY LEGISLATION 327.394**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR IN
 
@@ -74,10 +68,6 @@ These bye-laws shall be applicable for courses commencing in October 2015 or lat
 
 (3) Applicants admitted in terms of sub-paragraph (2) of this bye-law shall be in possession of a pass in an English language proficiency test as approved by the University before being admitted to the Course,
 
-(HONOURS) UNDER THE AUSPICES OF THE CENTRE FOR LABOUR STUDIES IN COLLABOARATION WITH THE FACULTY OF ECONOMICS, [S.L.327.394 MANAGEMENT AND ACCOUNTANCY
-
-*2*
-
 provided that applicants in possession of a Secondary Education Certificate pass at Grade 5 or higher or at SEC level 3 in English or a pass at the same standard in a comparable qualification, shall be exempted from sitting for the proficiency test.
 
 (4) Applicants in possession of the Diploma in Social Studies (Industrial Relations), the Diploma in Gender, Work and Society, or the Diploma in Social Studies (Gender and Development) of the University of Malta with an average mark of 60%, or a comparable qualification in an area related to Industrial Relations or Labour Studies or Gender Studies who have obtained credits for study-units considered by the Board of Studies to be equivalent to those in the programme of study may also be admitted to the course. Subject to the provisions of the Principal Regulations, such applicants may be allowed by the Board of Studies to transfer these credits to the course. The number of credits so transferred shall not exceed 60 credits.
@@ -110,13 +100,7 @@ Students shall be allowed to proceed with the course of studies after having suc
 
 ## 10. Classification of the Awards.
 
-For the purpose of the classification of the Degree and the Diploma, the overall evaluation of each student’s performance in the course shall be based on the results obtained in all the study-units of each programme as appropriate, with all credits awarded (HONOURS) UNDER THE AUSPICES OF THE CENTRE FOR LABOUR
-
-STUDIES IN COLLABOARATION WITH THE FACULTY OF ECONOMICS,
-
-*3*
-
-MANAGEMENT AND ACCOUNTANCY [S.L.327.394 being weighted equally.
+For the purpose of the classification of the Degree and the Diploma, the overall evaluation of each student’s performance in the course shall be based on the results obtained in all the study-units of each programme as appropriate, with all credits awarded being weighted equally.
 
 ## 11. Special provisions for part-time courses.
 

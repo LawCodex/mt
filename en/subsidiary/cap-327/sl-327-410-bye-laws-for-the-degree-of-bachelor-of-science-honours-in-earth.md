@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws for the degree of Bachelor of Science (Honours) in Earth Systems - B.Sc. (Hons) - under the auspices of the Institute of Earth Systems (S.L. 327.410)
 
-IN EARTH SYSTEMS - B.Sc. (Hons) - UNDER THE
-
-*1*
-
-AUSPICES OF THE INSTITUTE OF EARTH SYSTEMS [S.L.327.410
-
 **SUBSIDIARY LEGISLATION 327.410**
 
 BYE-LAWS FOR THE DEGREE OF BACHELOR OF SCIENCE (HONOURS) IN EARTH SYSTEMS - B.Sc.
@@ -74,11 +68,7 @@ The Board shall publish the programme of study before the commencement of each c
 
 ## 6. Registration.
 
-Students shall be required to register and pass in study- IN EARTH SYSTEMS - B.Sc. (Hons) - UNDER THE
-
-*2*
-
-[S.L.327.410 AUSPICES OF THE INSTITUTE OF EARTH SYSTEMS units to which a total of 180 credits are assigned.
+Students shall be required to register and pass in study-units to which a total of 180 credits are assigned.
 
 ## 7. Diploma.
 
@@ -120,11 +110,7 @@ The Course may be offered on a flexible part-time basis with the following speci
 
 (c) Students who are absent for the assessment of a study-unit, or fail in the assessment of a study-unit, shall, if eligible, be required to take the assessment of any number of such incomplete study-units at the September assessment session or at the next available opportunity;
 
-IN EARTH SYSTEMS - B.Sc. (Hons) - UNDER THE
-
-*3*
-
-AUSPICES OF THE INSTITUTE OF EARTH SYSTEMS [S.L.327.410 (d) If necessary, students may be allowed to refer the assessment of a study-unit to the next academic year, provided that not more than 12 ECTS credits may be referred from one Course year to the next.
+(d) If necessary, students may be allowed to refer the assessment of a study-unit to the next academic year, provided that not more than 12 ECTS credits may be referred from one Course year to the next.
 
 (e) The assessment of study-units that may be referred to the next academic year shall be considered as additional to the minimum number of credits (12 ECTS credits) that students are obliged to register for during any academic year;
 

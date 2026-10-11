@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Bye-Laws 2011 for the Degree of Master of Arts in Anglo-Italian Studies under the auspices of the Institute for Anglo-Italian Studies in collaboration with the Faculty of Arts (S.L. 327.403)
 
-UNDER THE AUSPICES OF THE INSTITUTE FOR ANGLO-ITALIAN
-
-*1*
-
-STUDIES IN COLLABORATION WITH THE FACULTY OF ARTS [S.L.327.403
-
 **SUBSIDIARY LEGISLATION 327.403**
 
 **BYE-LAWS FOR THE DEGREE OF MASTER**
@@ -87,10 +81,6 @@ Deleted by Legal Notice 64 of 2026.
 *Amended by: L.N. 64 of 2026.*
 
 (1) Students shall be required to submit an individual dissertation of approximately 30,000 to 35,000 words in accordance with the guidelines issued by the Board of Studies.
-
-*2*
-
-UNDER THE AUSPICES OF THE INSTITUTE FOR ANGLO-ITALIAN [S.L.327.403 STUDIES IN COLLABORATION WITH THE FACULTY OF ARTS
 
 (2) Work on the dissertation may be undertaken after approval of the proposal. Each student shall be assigned a supervisor who shall provide guidance and advice on a regular basis during the period of study.
 

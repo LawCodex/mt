@@ -16,11 +16,7 @@ retrieved: 2026-10-12
 
 # Bye-Laws in terms of the General Regulations for University Postgraduate Awards, 2008 for the degree of Master of Science - M.Sc. - offered under the auspices of the Faculty of Economics, Management and Accountancy (S.L. 327.607)
 
-OF THE FACULTY OF ECONOMICS, MANAGEMENT
-
-*1*
-
-AND ACCOUNTANCY [S.L. 327.607 SUBSIDIARY LEGISLATION 327.607
+**SUBSIDIARY LEGISLATION 327.607**
 
 **BYE-LAWS IN TERMS OF THE GENERAL**
 
@@ -62,11 +58,7 @@ These bye-laws shall be applicable for courses commencing in October 2020 or lat
 
 (1) The Course shall be offered in any combination of areas of study that fall within the academic responsibility of the Board. Subject to approval by Senate, the Board may also allow any of the areas of study offered by the Faculty to be offered jointly with other areas of study which fall under the responsibility of other academic entities within the University.
 
-(2) The permissible combinations of areas of study shall be published by the Board before the commencement of each Course and after approval by Senate, provided that in any year, combinations OF THE FACULTY OF ECONOMICS, MANAGEMENT [S.L. 327.607 AND ACCOUNTANCY
-
-of areas of study shall be offered depending of the availability of resources.
-
-*2*
+(2) The permissible combinations of areas of study shall be published by the Board before the commencement of each Course and after approval by Senate, provided that in any year, combinations of areas of study shall be offered depending of the availability of resources.
 
 ## 4. Requirements for Admission
 
@@ -96,11 +88,7 @@ provided further that such applicants shall be required to attend for an intervi
 
 ## 5.
 
-In appropriate cases, the Board may require students OF THE FACULTY OF ECONOMICS, MANAGEMENT
-
-*3*
-
-AND ACCOUNTANCY [S.L. 327.607 admitted to the Course to follow and pass supplementary study-units to which a maximum of 12 ECTS credits are assigned, in addition to the programme of study specified in bye-law 11.
+In appropriate cases, the Board may require students admitted to the Course to follow and pass supplementary study-units to which a maximum of 12 ECTS credits are assigned, in addition to the programme of study specified in bye-law 11.
 
 ## 6.
 
@@ -142,11 +130,7 @@ The Course shall extend over three semesters of full-time study.
 
 (3 Students who obtain the 60 ECTS credits assigned to the taught study-units and do not proceed with the Course, or having proceeded do not successfully complete the dissertation, shall be eligible for the award of the Postgraduate Diploma.
 
-(4) Students shall be eligible for the award of the Degree if OF THE FACULTY OF ECONOMICS, MANAGEMENT [S.L. 327.607 AND ACCOUNTANCY
-
-they obtain the 90 ECTS credits as outlined in the programme of study for the Course with an average mark of at least 50%.
-
-*4*
+(4) Students shall be eligible for the award of the Degree if they obtain the 90 ECTS credits as outlined in the programme of study for the Course with an average mark of at least 50%.
 
 (5) The programme of study shall be published after approval by Senate, normally not less than eight months prior to the commencement of the Course.
 
@@ -180,11 +164,7 @@ they obtain the 90 ECTS credits as outlined in the programme of study for the Co
 
 the extension of the study period referred to in (a) shall be in accordance with the provisions of the Principal Regulations; and
 
-OF THE FACULTY OF ECONOMICS, MANAGEMENT
-
-*5*
-
-AND ACCOUNTANCY [S.L. 327.607 the Board may not terminate studies prematurely according to (b) above until it has first given the student a chance to be heard.
+the Board may not terminate studies prematurely according to (b) above until it has first given the student a chance to be heard.
 
 ## 15. Classification of Awards
 

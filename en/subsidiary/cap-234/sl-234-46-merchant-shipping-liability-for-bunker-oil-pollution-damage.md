@@ -57,11 +57,7 @@ The title of these regulations is the Merchant Shipping (Liability for Bunker Oi
 
 (1) Subject to the provisions of sub-regulations (2) to (6) the Bunkers Convention as may from time to time be amended and as it is in force, shall, unless otherwise provided in these regulations and notwithstanding the provisions of any other law, form part of and be enforceable as part of the Law of Malta and shall apply to all Maltese ships, wherever they may be and to all other ships while they are in Maltese waters as determined by the said Convention.
 
-(2) Reference in the Bunkers Convention and in these regulations to ''the Court'' shall be read and construed as reference [S.L.234.46 (LIABILITY FOR BUNKER OIL POLLUTION DAMAGE)
-
-to the Civil Court, First Hall.
-
-*2*
+(2) Reference in the Bunkers Convention and in these regulations to ''the Court'' shall be read and construed as reference to the Civil Court, First Hall.
 
 (3) Where pollution damage, resulting from an incident, has been sustained in Malta, including the territorial waters of Malta and any exclusive economic zone of Malta as may be established in accordance with international law or similar area determined by Malta in accordance with international law, including the waters enclosed in Malta’s contiguous zone claim and the waters superjacent to Malta’s continental shelf claim, or if preventive measures have been taken to prevent or minimize such damage in that area, action for compensation under the provisions of the Bunkers Convention shall be brought in Malta before the Civil Court, First Hall, by presenting a claim before such Court. Such a claim shall be instituted in accordance with subtitle III of the Title VIII of Part I of Book Second of the Code of Organization and Civil Procedure:
 
