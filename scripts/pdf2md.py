@@ -61,7 +61,8 @@ def _fix_spaced(words):
         for i in range(len(words) - 1):
             g = words[i + 1][0] - words[i][2]
             h = max(words[i][3] - words[i][1], 4)
-            out += ('' if g < 0.115 * h else ' ') + toks[i + 1]
+            both_caps = toks[i].isupper() and toks[i + 1].isupper() and len(toks[i]) > 1 and len(toks[i + 1]) > 1
+            out += ('' if g < 0.115 * h and not both_caps else ' ') + toks[i + 1]
         return out
     gaps = [words[i + 1][0] - words[i][2] for i in range(len(words) - 1)]
     if not gaps:
@@ -316,7 +317,11 @@ def _emit_rows(p, items, cur, pages):
         t = _fix_smallcaps(r['t'])
         r['t'] = t
         lg, rg = r['x0'] - left, right - r['x1']
-        centered = (lg > 15 and rg > 8 and abs(lg - rg) < 12 and (r['x1'] - r['x0']) < width * 0.93)
+        centered = (lg > 22 and rg > 8 and abs(lg - rg) < 12 and (r['x1'] - r['x0']) < width * 0.93
+                    and not re.match(r'^["“”‘\'(]|^\d+[A-Z]{0,3}\.\s', t) and not re.search(r'[;:,\-–]$', t))
+        caps = t.upper() == t and sum(ch.isalpha() for ch in t) >= 3 and not re.match(r'^\d+[A-Z]{0,3}\.\s', t)
+        if not centered and caps and lg > 6 and rg > 6 and abs(lg - rg) < 14 and not re.search(r'[;:]$', t):
+            centered = True
         if centered and cur is not None and cur['kind'] == 'para' and not cur.get('centered'):
             pl = cur['last']
             if pl['x1'] >= cur['right'] - 4 and not re.search(r'[.:;]$', pl['t']) and r['y0'] - pl['y1'] < 8:
@@ -361,7 +366,7 @@ def _emit_rows(p, items, cur, pages):
     groups = []
     for l in mlines:
         newg = not groups or l['y0'] - groups[-1]['y1'] >= 5.5
-        if not newg and re.search(r'[.;:]$', groups[-1]['lines'][-1]['t']) and \
+        if not newg and re.search(r'\.$', groups[-1]['lines'][-1]['t']) and \
                 any(abs(l['y0'] - sy) < 3.2 for sy in starts):
             newg = True
         if newg:

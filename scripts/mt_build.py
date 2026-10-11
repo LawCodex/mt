@@ -160,7 +160,7 @@ def build_one(args):
         fm.append(f"version: {yq('https://legislation.mt/' + version + '/' + LANGS[lang])}")
     fm.append(f"retrieved: {TODAY}")
     fm.append("---")
-    h1 = f"# {title}" if d["kind"] in ("const", "other") else f"# {title} ({d['label']})"
+    h1 = f"# {title}" if d["kind"] in ("const", "other") else f"# {title} ({d['identifier']})"
     text = "\n".join(fm) + "\n\n" + h1 + "\n\n" + body
     os.makedirs(out_dir, exist_ok=True)
     with open(out, "w", encoding="utf-8", newline="\n") as f:
